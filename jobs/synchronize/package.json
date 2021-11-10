@@ -1,0 +1,72 @@
+{
+  "name": "tv7-twitch",
+  "version": "0.1.0",
+  "description": "Twitch Channel Stream Schedules",
+  "main": "src/Main.ts",
+  "directories": {
+    "dist": "dist"
+  },
+  "scripts": {
+    "build": "tsc -p .",
+    "build:watch": "rm -rf ./dist && tsc -p . -w",
+    "lint": "npx eslint .",
+    "lint:fix": "npx eslint . --fix",
+    "test": "jest --coverage",
+    "start": "node ./dist/Main.js"
+  },
+  "jest": {
+    "transform": {
+      ".(ts|tsx)": "ts-jest"
+    },
+    "testRegex": "(/tests/.*|\\.(spec))\\.(ts|tsx)$",
+    "moduleFileExtensions": [
+      "ts",
+      "tsx",
+      "js",
+      "json"
+    ],
+    "globals": {
+      "ts-jest": {
+        "compiler": "ttypescript"
+      }
+    }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ealenn/Tv7Twitch.git"
+  },
+  "keywords": [
+    "twitch",
+    "channel",
+    "scheduler"
+  ],
+  "author": "Rudy Marchandise",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Ealenn/Tv7Twitch/issues"
+  },
+  "homepage": "https://github.com/Ealenn/Tv7Twitch#readme",
+  "dependencies": {
+    "lodash": "^4.17.21",
+    "reflect-metadata": "^0.1.13",
+    "tsyringe": "^4.6.0"
+  },
+  "devDependencies": {
+    "@types/jest": "^26.0.15",
+    "@types/lodash": "^4.14.170",
+    "@types/mocha": "^8.0.4",
+    "@types/node": "^14.14.10",
+    "@typescript-eslint/eslint-plugin": "^4.27.0",
+    "@typescript-eslint/parser": "^4.27.0",
+    "eslint": "^7.29.0",
+    "jest": "^26.6.3",
+    "mocha": "^8.2.1",
+    "moq.ts": "^6.4.0",
+    "sinon": "^9.2.1",
+    "ts-jest": "^26.4.4",
+    "ts-mock-imports": "^1.3.1",
+    "ts-node": "^9.0.0",
+    "ttypescript": "^1.5.12",
+    "typescript": "^4.1.2"
+  }
+}

@@ -1,0 +1,33 @@
+name: Node
+
+on: 
+  pull_request: 
+    branches: '*'
+  push:
+    branches: 
+      - master
+
+jobs:
+  tests:
+    runs-on: ubuntu-latest
+
+    strategy:
+      matrix:
+        projects: [
+          './jobs/synchronize'
+        ]
+
+    steps:
+    - uses: actions/checkout@v1
+    - name: Use Node
+      uses: actions/setup-node@v1
+      with:
+        node-version: 16
+    - name: Install, build, and test
+      run: |
+        npm ci
+        npm run build --if-present
+        npm run test --if-present
+      working-directory: ${{ matrix.projects }}
+      env:
+        CI: true

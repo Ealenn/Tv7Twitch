@@ -1,0 +1,35 @@
+{
+  "name": "TypeScript",
+  "image": "ealen/codespaces-typescript",
+  "extensions": [
+    // TypeScript
+    "dbaeumer.vscode-eslint",
+    "oouo-diogo-perdigao.docthis",
+    // Files
+    "yzhang.markdown-all-in-one",
+    // Global
+    "editorconfig.editorconfig",
+    "gruntfuggly.todo-tree",
+    // Front
+    "naumovs.color-highlight",
+    // Theme
+    "vscode-icons-team.vscode-icons",
+    // Docker
+    "ms-azuretools.vscode-docker"
+  ],
+  "settings": {
+    "eslint.alwaysShowStatus": true,
+    "workbench.iconTheme": "vscode-icons"
+  },
+  // Use 'forwardPorts' to make a list of ports inside the container available locally.
+  // "forwardPorts": [],
+  // Uncomment the next line to run commands after the container is created - for example installing curl.
+  // "postCreateCommand": "npm ci",
+  "mounts": [
+    // Linux
+    // "source=/home/ealen/.ssh,target=/home/user/.ssh,type=bind,readonly",
+    // "source=/var/run/docker.sock,target=/var/run/docker.sock,type=bind"
+    // MacOS
+    "source=/Users/ealen/.ssh,target=/home/user/.ssh,type=bind,readonly"
+  ]
+}
