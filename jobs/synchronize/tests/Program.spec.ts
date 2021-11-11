@@ -1,66 +1,43 @@
 import 'reflect-metadata';
 import 'jasmine';
-import { Mock, It, Times } from 'moq.ts';
+import { Mock, It } from 'moq.ts';
 import { IConfiguration } from '../src/Configuration';
 import Program from '../src/Program';
-import { ILoggerService, IExitService } from '../src/Services/Abstractions';
-
-class TestProgram extends Program
-{
-  public LandingStatus = false;
-
-  protected override async Landing(): Promise<Program>
-  {
-    this.LandingStatus = true;
-    return this;
-  }
-}
+import { ILoggerService } from '../src/Services/Abstractions';
+import { IExportService } from '../src/Services/Abstractions/IExportService';
+import { IFileService } from '../src/Services/Abstractions/IFileService';
 
 describe('Program', function()
 {
-  let ExitServiceMock : Mock<IExitService>;
-  let ConfigurationMock : Mock<IConfiguration>;
-  let LoggerServiceMock : Mock<ILoggerService>;
+  let configurationMock: Mock<IConfiguration>;
+  let loggerServiceMock: Mock<ILoggerService>;
+  let exportServiceMock: Mock<IExportService>;
+  let fileServiceMock: Mock<IFileService>;
 
   beforeEach(() =>
   {
-    ExitServiceMock = new Mock<IExitService>();
-    ConfigurationMock = new Mock<IConfiguration>();
-    LoggerServiceMock = new Mock<ILoggerService>();
+    configurationMock = new Mock<IConfiguration>();
+    loggerServiceMock = new Mock<ILoggerService>();
+    exportServiceMock = new Mock<IExportService>();
+    fileServiceMock = new Mock<IFileService>();
   });
 
   it('Run', async function()
   {
     // A
-    // A
-    const program = new TestProgram(
-      ExitServiceMock.object(),
-      ConfigurationMock.object(),
-      LoggerServiceMock.object()
-    );
-    await program.Run();
-
-    // A
-    expect(program.LandingStatus).toBeTruthy();
-  });
-
-  it('Landing', async function()
-  {
-    // A
-    LoggerServiceMock.setup(x => x.Information(It.IsAny<any>())).returns();
-    ConfigurationMock.setup(x => x.Url).returns('TesT');
-    ConfigurationMock.setup(x => x.Debug).returns(false);
+    loggerServiceMock.setup(x => x.Information(It.IsAny<any>())).returns();
+    configurationMock.setup(x => x.Url).returns('TesT');
+    configurationMock.setup(x => x.Debug).returns(false);
 
     // A
     const program = new Program(
-      ExitServiceMock.object(),
-      ConfigurationMock.object(),
-      LoggerServiceMock.object()
+      configurationMock.object(),
+      loggerServiceMock.object(),
+      exportServiceMock.object(),
+      fileServiceMock.object()
     );
-    await program['Landing']();
 
     // A
-    LoggerServiceMock.verify(x => x.Information('TesT'), Times.Once());
-    LoggerServiceMock.verify(x => x.Information('Debug: false'), Times.Once());
+    expect(program).toBeDefined();
   });
 });

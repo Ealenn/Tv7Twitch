@@ -26,7 +26,8 @@ export default class Program
 
   public async Run() : Promise<void>
   {
-    await this.Landing();
+    this._loggerService.Information(this._configuration.Url);
+
     const manifest = {
       files: new Array<string>()
     };
@@ -42,12 +43,5 @@ export default class Program
       }
     }
     await this._fileService.save(manifest, './data/manifest.json');
-  }
-
-  protected async Landing(): Promise<Program>
-  {
-    this._loggerService.Information(this._configuration.Url);
-    this._loggerService.Information(`Debug: ${this._configuration.Debug}`);
-    return this;
   }
 }
