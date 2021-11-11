@@ -1,4 +1,4 @@
-# Tv7 Twitch - Synchronize Jobb
+# Tv7 Twitch - Synchronize Job
 
 This project generate JSON files for each Twitch Channels on `configuration.ts`.
 
@@ -14,3 +14,8 @@ npm run build
 ```bash
 npm run start
 ```
+
+## Environment variables
+
+- `twitchClientId`: Twitch Client ID
+- `twitchClientSecret`: Twitch Client Secret
