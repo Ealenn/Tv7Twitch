@@ -1,4 +1,4 @@
-name: Node
+name: Deploy
 
 # TODO: REMOVE THIS HOOK
 on:
@@ -22,13 +22,13 @@ jobs:
 
     - name: Initialize
       run: |
-        mkdir -p ${TMP_FOLDER}
+        mkdir -p "$TMP_FOLDER"
 
     - name: Front - Build
       run: |
         npm ci
         npm run build
-        cp -r dist/* ${TMP_FOLDER}
+        cp -r dist/* "$TMP_FOLDER"
       working-directory: ./front/tv7-twitch
 
     - name: Job - Synchronize
@@ -36,5 +36,5 @@ jobs:
         npm ci
         npm run build
         npm run start
-        cp -r data ${TMP_FOLDER}/public/data
+        cp -r data "$TMP_FOLDER/public/data"
       working-directory: ./jobs/synchronize
