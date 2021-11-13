@@ -26,14 +26,14 @@ jobs:
 
     - name: Front - Build
       run: |
-        npm ci
+        npm ci --include=dev
         npm run build
         cp -r dist/* $TMP_PATH
       working-directory: ./front/tv7-twitch
 
     - name: Job - Synchronize
       run: |
-        npm ci
+        npm ci --include=dev
         npm run build
         npm run start
         cp -r data $TMP_PATH
