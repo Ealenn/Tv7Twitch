@@ -10,7 +10,7 @@ jobs:
     runs-on: ubuntu-latest
     env:
       CI: true
-      publicPath: 'https://ealenn.github.io/Tv7Twitch/'
+      publicPath: '/Tv7Twitch/'
       TMP_PATH: '/tmp/build'
 
     steps:
