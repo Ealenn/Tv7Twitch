@@ -1,4 +1,4 @@
-import { GetChannelStreamSchedule, GetUsers, OAuthClientCredentialsFlow } from '../../Models/Twitch';
+import { GetChannelStreamSchedule, GetUsers, OAuthClientCredentialsFlow } from 'tv7-twitch-shared';
 
 export interface ITwitchAPIService {
   /**

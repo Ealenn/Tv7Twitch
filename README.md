@@ -5,12 +5,16 @@
 ### Jobs
 
 - [Synchronize](./jobs/synchronize) :
-  - Generate *.json files with scheduled twitch channel
+  - Generate JSON files with scheduled twitch channel
 
 ### Front
 
-- [App](./front) :
+- [App](./front/tv7-twitch) :
   - Dashboard calendar to view all channels schedulers
+
+### Shared
+
+Project with shared interfaces.
 
 ## How to contribute 
 

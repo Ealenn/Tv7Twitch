@@ -50,7 +50,8 @@
     "axios": "^0.24.0",
     "lodash": "^4.17.21",
     "reflect-metadata": "^0.1.13",
-    "tsyringe": "^4.6.0"
+    "tsyringe": "^4.6.0",
+    "tv7-twitch-shared": "file:../../shared"
   },
   "devDependencies": {
     "@types/jasmine": "^3.10.2",
