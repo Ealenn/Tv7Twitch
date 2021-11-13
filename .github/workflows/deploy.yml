@@ -36,5 +36,15 @@ jobs:
         npm ci
         npm run build
         npm run start
-        cp -r data $TMP_PATH/public/data
+        cp -r data $TMP_PATH/data
       working-directory: ./jobs/synchronize
+      env:
+        twitchClientId: ${{ secrets.TWITCHCLIENTID }}
+        twitchClientSecret: ${{ secrets.TWITCHCLIENTSECRET }}
+
+    - name: Debug
+      run: |
+        cd $TMP_PATH
+        ls -la
+        cd data
+        ls -la
