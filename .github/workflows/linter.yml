@@ -8,7 +8,8 @@ jobs:
     strategy:
       matrix:
         projects: [
-          './jobs/synchronize'
+          './jobs/synchronize',
+          './front/tv7-twitch'
         ]
 
     steps:
@@ -22,3 +23,5 @@ jobs:
         npm ci
         npm run lint
       working-directory: ${{ matrix.projects }}
+      env:
+        CI: true

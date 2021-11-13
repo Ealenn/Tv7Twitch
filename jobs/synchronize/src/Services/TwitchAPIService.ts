@@ -3,7 +3,7 @@ import Axios, { AxiosInstance } from 'axios';
 import { IConfiguration } from '../Configuration';
 import { inject, injectable } from 'tsyringe';
 import { ILoggerService } from './Abstractions';
-import { GetChannelStreamSchedule, GetUsers, OAuthClientCredentialsFlow } from '../Models/Twitch';
+import { GetChannelStreamSchedule, GetUsers, OAuthClientCredentialsFlow } from 'tv7-twitch-shared';
 
 @injectable()
 export class TwitchAPIService implements ITwitchAPIService

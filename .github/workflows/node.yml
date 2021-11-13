@@ -14,7 +14,8 @@ jobs:
     strategy:
       matrix:
         projects: [
-          './jobs/synchronize'
+          './jobs/synchronize',
+          './front/tv7-twitch'
         ]
 
     steps:

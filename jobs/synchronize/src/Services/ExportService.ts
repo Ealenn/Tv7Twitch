@@ -1,4 +1,4 @@
-import { ExportChannel } from '../Models/Export/Channel';
+import { ExportChannel } from 'tv7-twitch-shared';
 import { IExportService } from './Abstractions/IExportService';
 import * as fs from 'fs';
 import { inject, injectable } from 'tsyringe';
