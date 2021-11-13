@@ -1,0 +1,256 @@
+{
+  "channel": {
+    "id": "50597026",
+    "login": "ponce",
+    "display_name": "Ponce",
+    "type": "",
+    "broadcaster_type": "partner",
+    "description": "On se tape des immenses barres.",
+    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/125bbc49-45d1-432c-92b3-f5aef1e7ab21-profile_image-300x300.png",
+    "offline_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/62c1d623-37e8-4a86-9a1c-566e94479204-channel_offline_image-1920x1080.png",
+    "view_count": 50053451,
+    "created_at": "2013-10-24T19:04:45Z"
+  },
+  "schedulers": [
+    {
+      "id": "eyJzZWdtZW50SUQiOiJmZWIyMjA4Ny1jOTdjLTRiZWYtOWI1Zi1hMzExMTg3NGQ0YTEiLCJpc29ZZWFyIjoyMDIxLCJpc29XZWVrIjo0Nn0=",
+      "start_time": "2021-11-15T10:00:00Z",
+      "end_time": "2021-11-15T15:00:00Z",
+      "title": "Maitre des Fleurs",
+      "canceled_until": null,
+      "category": {
+        "id": "338715930",
+        "name": "Maitre des Fleurs"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiJlNDJlNTA3Yy02ZTE1LTQ2ODUtYjdlNC0yYTA5NTZiNzAwZjEiLCJpc29ZZWFyIjoyMDIxLCJpc29XZWVrIjo0Nn0=",
+      "start_time": "2021-11-15T19:30:00Z",
+      "end_time": "2021-11-16T01:30:00Z",
+      "title": "FC SILMI",
+      "canceled_until": null,
+      "category": {
+        "id": "1869092879",
+        "name": "FIFA 22"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiJiOTlkNWM2Ni1iMDcwLTRiZjMtOGVmMS02MTE1ZWExNTg3NmEiLCJpc29ZZWFyIjoyMDIxLCJpc29XZWVrIjo0Nn0=",
+      "start_time": "2021-11-16T10:00:00Z",
+      "end_time": "2021-11-16T12:00:00Z",
+      "title": "Speedrun Any% ",
+      "canceled_until": null,
+      "category": {
+        "id": "110758",
+        "name": "The Legend of Zelda: Breath of the Wild"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiJmZjU0MDc3Mi1iMGNkLTQ1MWItODRiMC0wZGQwYTkxNDAwNWQiLCJpc29ZZWFyIjoyMDIxLCJpc29XZWVrIjo0Nn0=",
+      "start_time": "2021-11-16T12:00:00Z",
+      "end_time": "2021-11-16T16:00:00Z",
+      "title": "Retour de Ponpon ! ",
+      "canceled_until": null,
+      "category": {
+        "id": "509538",
+        "name": "Animal Crossing: New Horizons"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiJhOWZhMGI4Ni05NzcwLTQwMTYtOTI5ZS1jZWExM2E5N2E4NTEiLCJpc29ZZWFyIjoyMDIxLCJpc29XZWVrIjo0Nn0=",
+      "start_time": "2021-11-16T19:00:00Z",
+      "end_time": "2021-11-16T21:30:00Z",
+      "title": "Popcorn (chaine de Domingo)",
+      "canceled_until": null,
+      "category": {
+        "id": "417752",
+        "name": "Talk Shows & Podcasts"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiIzNDNlYzA0Mi1hOGQwLTQ2MjYtYjVkOS1mMGU0MzI4MGU4MmYiLCJpc29ZZWFyIjoyMDIxLCJpc29XZWVrIjo0Nn0=",
+      "start_time": "2021-11-17T10:00:00Z",
+      "end_time": "2021-11-17T17:00:00Z",
+      "title": "Speedrun Any%",
+      "canceled_until": null,
+      "category": {
+        "id": "110758",
+        "name": "The Legend of Zelda: Breath of the Wild"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiJiYzU0YjdmOC1lOTFmLTQ5ZjYtOTk5ZS0wMzRiNTYzYTVhNWQiLCJpc29ZZWFyIjoyMDIxLCJpc29XZWVrIjo0Nn0=",
+      "start_time": "2021-11-18T10:00:00Z",
+      "end_time": "2021-11-18T12:00:00Z",
+      "title": "Speedrun Any%",
+      "canceled_until": null,
+      "category": {
+        "id": "110758",
+        "name": "The Legend of Zelda: Breath of the Wild"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiIxYzIzN2QxNS1hMzhmLTQzMjQtOGE4OC03MmUzNWFmMDNhN2IiLCJpc29ZZWFyIjoyMDIxLCJpc29XZWVrIjo0Nn0=",
+      "start_time": "2021-11-18T12:00:00Z",
+      "end_time": "2021-11-18T15:00:00Z",
+      "title": "Ambiance trahison avec Onu Gomart & Wingo",
+      "canceled_until": null,
+      "category": {
+        "id": "1068239917",
+        "name": "Mario Party Superstars"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiIyMTRmYzJhYi0yNWY4LTRlZjgtYjZiNi0wMjI5ZWE2NTYyNzciLCJpc29ZZWFyIjoyMDIxLCJpc29XZWVrIjo0Nn0=",
+      "start_time": "2021-11-18T15:00:00Z",
+      "end_time": "2021-11-18T17:00:00Z",
+      "title": "P'tit Smash !",
+      "canceled_until": null,
+      "category": {
+        "id": "504461",
+        "name": "Super Smash Bros. Ultimate"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiIwMzRkMmYzYi0xNTg2LTQyMDAtOTU4Zi1iZDAyNTQzYzdhYzUiLCJpc29ZZWFyIjoyMDIxLCJpc29XZWVrIjo0Nn0=",
+      "start_time": "2021-11-19T10:00:00Z",
+      "end_time": "2021-11-19T14:00:00Z",
+      "title": "Podcast Déguisé avec Riv",
+      "canceled_until": null,
+      "category": {
+        "id": "30921",
+        "name": "Rocket League"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiIzODBkZGUyNC0yOWViLTQ1NzAtOWRkMS1mZjM1MmVhMmQ0NzciLCJpc29ZZWFyIjoyMDIxLCJpc29XZWVrIjo0Nn0=",
+      "start_time": "2021-11-19T14:00:00Z",
+      "end_time": "2021-11-19T17:00:00Z",
+      "title": "Mensonges total avec Riv Ultia & Onu",
+      "canceled_until": null,
+      "category": {
+        "id": "1068239917",
+        "name": "Mario Party Superstars"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiI5ZDhmZjU3OS1kODIxLTQ2MGEtODA3YS0wMmQ5ZWZlMTQyOTQiLCJpc29ZZWFyIjoyMDIxLCJpc29XZWVrIjo0Nn0=",
+      "start_time": "2021-11-19T19:00:00Z",
+      "end_time": "2021-11-19T23:00:00Z",
+      "title": "Ponce la Switch avec Antoine, Riv, Ultia, AngleDroit, JDay, Etoiles",
+      "canceled_until": null,
+      "category": {
+        "id": "369588",
+        "name": "Mario Kart 8"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiJmZWIyMjA4Ny1jOTdjLTRiZWYtOWI1Zi1hMzExMTg3NGQ0YTEiLCJpc29ZZWFyIjoyMDIxLCJpc29XZWVrIjo0N30=",
+      "start_time": "2021-11-22T10:00:00Z",
+      "end_time": "2021-11-22T15:00:00Z",
+      "title": "Maitre des Fleurs",
+      "canceled_until": null,
+      "category": {
+        "id": "338715930",
+        "name": "Maitre des Fleurs"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiJlNDJlNTA3Yy02ZTE1LTQ2ODUtYjdlNC0yYTA5NTZiNzAwZjEiLCJpc29ZZWFyIjoyMDIxLCJpc29XZWVrIjo0N30=",
+      "start_time": "2021-11-22T19:30:00Z",
+      "end_time": "2021-11-23T01:30:00Z",
+      "title": "FC SILMI",
+      "canceled_until": null,
+      "category": {
+        "id": "1869092879",
+        "name": "FIFA 22"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiJiOTlkNWM2Ni1iMDcwLTRiZjMtOGVmMS02MTE1ZWExNTg3NmEiLCJpc29ZZWFyIjoyMDIxLCJpc29XZWVrIjo0N30=",
+      "start_time": "2021-11-23T10:00:00Z",
+      "end_time": "2021-11-23T12:00:00Z",
+      "title": "Speedrun Any% ",
+      "canceled_until": null,
+      "category": {
+        "id": "110758",
+        "name": "The Legend of Zelda: Breath of the Wild"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiJmZjU0MDc3Mi1iMGNkLTQ1MWItODRiMC0wZGQwYTkxNDAwNWQiLCJpc29ZZWFyIjoyMDIxLCJpc29XZWVrIjo0N30=",
+      "start_time": "2021-11-23T12:00:00Z",
+      "end_time": "2021-11-23T16:00:00Z",
+      "title": "Retour de Ponpon ! ",
+      "canceled_until": null,
+      "category": {
+        "id": "509538",
+        "name": "Animal Crossing: New Horizons"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiJhOWZhMGI4Ni05NzcwLTQwMTYtOTI5ZS1jZWExM2E5N2E4NTEiLCJpc29ZZWFyIjoyMDIxLCJpc29XZWVrIjo0N30=",
+      "start_time": "2021-11-23T19:00:00Z",
+      "end_time": "2021-11-23T21:30:00Z",
+      "title": "Popcorn (chaine de Domingo)",
+      "canceled_until": null,
+      "category": {
+        "id": "417752",
+        "name": "Talk Shows & Podcasts"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiIzNDNlYzA0Mi1hOGQwLTQ2MjYtYjVkOS1mMGU0MzI4MGU4MmYiLCJpc29ZZWFyIjoyMDIxLCJpc29XZWVrIjo0N30=",
+      "start_time": "2021-11-24T10:00:00Z",
+      "end_time": "2021-11-24T17:00:00Z",
+      "title": "Speedrun Any%",
+      "canceled_until": null,
+      "category": {
+        "id": "110758",
+        "name": "The Legend of Zelda: Breath of the Wild"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiJiYzU0YjdmOC1lOTFmLTQ5ZjYtOTk5ZS0wMzRiNTYzYTVhNWQiLCJpc29ZZWFyIjoyMDIxLCJpc29XZWVrIjo0N30=",
+      "start_time": "2021-11-25T10:00:00Z",
+      "end_time": "2021-11-25T12:00:00Z",
+      "title": "Speedrun Any%",
+      "canceled_until": null,
+      "category": {
+        "id": "110758",
+        "name": "The Legend of Zelda: Breath of the Wild"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiIxYzIzN2QxNS1hMzhmLTQzMjQtOGE4OC03MmUzNWFmMDNhN2IiLCJpc29ZZWFyIjoyMDIxLCJpc29XZWVrIjo0N30=",
+      "start_time": "2021-11-25T12:00:00Z",
+      "end_time": "2021-11-25T15:00:00Z",
+      "title": "Ambiance trahison avec Onu Gomart & Wingo",
+      "canceled_until": null,
+      "category": {
+        "id": "1068239917",
+        "name": "Mario Party Superstars"
+      },
+      "is_recurring": true
+    }
+  ]
+}
