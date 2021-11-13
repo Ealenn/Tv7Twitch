@@ -1,0 +1,40 @@
+name: Node
+
+# TODO: REMOVE THIS HOOK
+on:
+  pull_request:
+    branches: '*'
+
+jobs:
+  tests:
+    runs-on: ubuntu-latest
+    env:
+      CI: true
+      BASE_URL: https://ealenn.github.io/Tv7Twitch/
+      TMP_PATH: /tmp/build
+
+    steps:
+    - uses: actions/checkout@v1
+    - name: Use Node
+      uses: actions/setup-node@v1
+      with:
+        node-version: 16
+
+    - name: Initialize
+      run: |
+        mkdir -p ${TMP_FOLDER}
+
+    - name: Front - Build
+      run: |
+        npm ci
+        npm run build
+        cp -r dist/* ${TMP_FOLDER}
+      working-directory: ./front/tv7-twitch
+
+    - name: Job - Synchronize
+      run: |
+        npm ci
+        npm run build
+        npm run start
+        cp -r data ${TMP_FOLDER}/public/data
+      working-directory: ./jobs/synchronize
