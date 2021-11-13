@@ -6,7 +6,7 @@ import { ExportChannel } from 'tv7-twitch-shared';
 
 const Axios = axios.create({
   timeout: 2000,
-  baseURL: process.env.BASE_URL ?? 'http://localhost:8080'
+  baseURL: process.env.publicPath ?? '/'
 });
 
 export interface State {
