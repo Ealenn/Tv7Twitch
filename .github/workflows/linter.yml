@@ -20,7 +20,7 @@ jobs:
         node-version: 16
     - name: Linter
       run: |
-        npm ci
+        npm ci --include=dev
         npm run lint
       working-directory: ${{ matrix.projects }}
       env:

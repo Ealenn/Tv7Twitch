@@ -1,6 +1,9 @@
 # Tv7 Twitch
 
-## Project
+[![](https://img.shields.io/badge/%20Tv7-Twitch-green?style=for-the-badge&logo=firefox)](https://ealenn.github.io/Tv7Twitch/)
+[![](https://img.shields.io/badge/%20VISIT-WEBSITE-blue?style=for-the-badge)](https://ealenn.github.io/Tv7Twitch/)
+
+## Projects
 
 ### Jobs
 

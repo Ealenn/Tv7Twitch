@@ -1,0 +1,50 @@
+name: Deploy
+on:
+  push:
+    branches: 
+      - master
+  schedule:
+    - cron: '0 4 * * *'
+
+jobs:
+  gh-page:
+    runs-on: ubuntu-latest
+    env:
+      CI: true
+      NODE_ENV: 'production'
+      TMP_PATH: '/tmp/build'
+
+    steps:
+    - uses: actions/checkout@v1
+    - name: Use Node
+      uses: actions/setup-node@v1
+      with:
+        node-version: 16
+
+    - name: Initialize
+      run: |
+        mkdir -p $TMP_PATH
+
+    - name: Front - Build
+      run: |
+        npm ci --include=dev
+        npm run build
+        cp -r dist/* $TMP_PATH
+      working-directory: ./front/tv7-twitch
+
+    - name: Job - Synchronize
+      run: |
+        npm ci --include=dev
+        npm run build
+        npm run start
+        cp -r data $TMP_PATH
+      working-directory: ./jobs/synchronize
+      env:
+        twitchClientId: ${{ secrets.TWITCHCLIENTID }}
+        twitchClientSecret: ${{ secrets.TWITCHCLIENTSECRET }}
+
+    - name: Deploy
+      uses: peaceiris/actions-gh-pages@v3
+      with:
+        github_token: ${{ secrets.GH_TOKEN }}
+        publish_dir: ${{ env.TMP_PATH }}
