@@ -5,6 +5,12 @@
 npm install
 ```
 
+## Fetch data
+
+```
+npm run fetch
+```
+
 ### Compiles and hot-reloads for development
 ```
 npm run serve

@@ -4,9 +4,11 @@ import { createStore, useStore as baseUseStore, Store } from 'vuex'
 import axios from 'axios';
 import { ExportChannel } from 'tv7-twitch-shared';
 
+/* eslint-disable @typescript-eslint/no-var-requires */
+const VueConfig = require('@/../vue.config.js');
 const Axios = axios.create({
   timeout: 2000,
-  baseURL: process.env.publicPath ?? '/'
+  baseURL: VueConfig.publicPath
 });
 
 export interface State {
