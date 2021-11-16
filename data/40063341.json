@@ -7,40 +7,16 @@
     "broadcaster_type": "partner",
     "description": "Coucou c'est moi !",
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/3cdae7df-600c-4833-8dfe-8d2abc5a3b25-profile_image-300x300.png",
-    "offline_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/0736004e-24e3-4514-aef8-1932b44035f9-channel_offline_image-1920x1080.png",
-    "view_count": 111547765,
+    "offline_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/714cb963-de2d-4463-9046-fe0631679720-channel_offline_image-1920x1080.png",
+    "view_count": 111680258,
     "created_at": "2013-02-05T19:20:22Z"
   },
   "schedulers": [
     {
-      "id": "eyJzZWdtZW50SUQiOiIzYjQzYjk3Ny1mMTljLTRmNTQtOTBjOS1lMzlmM2Y5NTgwYjQiLCJpc29ZZWFyIjoyMDIxLCJpc29XZWVrIjo0Nn0=",
-      "start_time": "2021-11-15T18:30:00Z",
-      "end_time": "2021-11-15T19:30:00Z",
-      "title": "PRÉ-LIVE",
-      "canceled_until": null,
-      "category": {
-        "id": "509658",
-        "name": "Just Chatting"
-      },
-      "is_recurring": true
-    },
-    {
-      "id": "eyJzZWdtZW50SUQiOiI4NzkzYjg2MS0xMWZlLTQyM2YtOGNhNC1lYTVjMzllY2MwODkiLCJpc29ZZWFyIjoyMDIxLCJpc29XZWVrIjo0Nn0=",
-      "start_time": "2021-11-15T19:30:00Z",
-      "end_time": "2021-11-16T01:00:00Z",
-      "title": "FC SILMI",
-      "canceled_until": null,
-      "category": {
-        "id": "1869092879",
-        "name": "FIFA 22"
-      },
-      "is_recurring": true
-    },
-    {
       "id": "eyJzZWdtZW50SUQiOiI1MTgwMTJiYi0yNTdjLTRlNGItYjE3Mi1mM2EwNTA5ZjEzODIiLCJpc29ZZWFyIjoyMDIxLCJpc29XZWVrIjo0Nn0=",
       "start_time": "2021-11-16T19:00:00Z",
       "end_time": "2021-11-16T21:15:00Z",
-      "title": "POPCORN AVEC HORTY, MISTERMV & PONCE (KHEIRON EN INVITÉ)",
+      "title": "POPCORN AVEC SQUEEZIE, MAGHLA & PONCE",
       "canceled_until": null,
       "category": {
         "id": "417752",
@@ -50,7 +26,7 @@
     },
     {
       "id": "eyJzZWdtZW50SUQiOiIwZTg0NzM0Yi00YjU1LTQyOGUtODlkOC0yYWY2ZmU1ZGMyNmYiLCJpc29ZZWFyIjoyMDIxLCJpc29XZWVrIjo0Nn0=",
-      "start_time": "2021-11-17T18:30:00Z",
+      "start_time": "2021-11-17T18:00:00Z",
       "end_time": "2021-11-17T19:00:00Z",
       "title": "PRÉ-LIVE",
       "canceled_until": null,
@@ -61,16 +37,61 @@
       "is_recurring": true
     },
     {
-      "id": "eyJzZWdtZW50SUQiOiJlN2M4ODQzYS0yNzRkLTQ1NTMtODBhOC05ZjJhYzA4NTA2OTciLCJpc29ZZWFyIjoyMDIxLCJpc29XZWVrIjo0Nn0=",
-      "start_time": "2021-11-19T13:00:00Z",
-      "end_time": "2021-11-19T14:00:00Z",
+      "id": "eyJzZWdtZW50SUQiOiIxNjg3Zjc5ZS01MWE5LTQwOGItOGVmYS1mNDY4ZDk5NWVjOWUiLCJpc29ZZWFyIjoyMDIxLCJpc29XZWVrIjo0Nn0=",
+      "start_time": "2021-11-17T19:00:00Z",
+      "end_time": "2021-11-17T22:00:00Z",
+      "title": "LES STREAMERS EN PRIZON",
+      "canceled_until": null,
+      "category": {
+        "id": "510874",
+        "name": "Prison Simulator"
+      },
+      "is_recurring": false
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiJlYTQ3MzJkMy0yZmQ2LTQ0YTEtYTkwNC0wMGEwOTU5MGYwZjciLCJpc29ZZWFyIjoyMDIxLCJpc29XZWVrIjo0Nn0=",
+      "start_time": "2021-11-18T13:00:00Z",
+      "end_time": "2021-11-18T14:00:00Z",
       "title": "PRÉ-LIVE",
       "canceled_until": null,
       "category": {
         "id": "509658",
         "name": "Just Chatting"
       },
-      "is_recurring": true
+      "is_recurring": false
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiIxZGE3MGUzMS01ODQxLTQ2OWYtOGQ5OS1hZTAwYTU2MjY4OWMiLCJpc29ZZWFyIjoyMDIxLCJpc29XZWVrIjo0Nn0=",
+      "start_time": "2021-11-18T14:00:00Z",
+      "end_time": "2021-11-18T17:00:00Z",
+      "title": "STREAM LIBRE",
+      "canceled_until": null,
+      "category": null,
+      "is_recurring": false
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiIzMDg1ZTMwYi1iY2RmLTRlYjYtODVhNy1kOTFhYmY0NDE0ZjkiLCJpc29ZZWFyIjoyMDIxLCJpc29XZWVrIjo0Nn0=",
+      "start_time": "2021-11-19T16:00:00Z",
+      "end_time": "2021-11-19T18:00:00Z",
+      "title": "RENCONTRE EST TIENNE (sur twitch.tv/samueletienne)",
+      "canceled_until": null,
+      "category": {
+        "id": "509658",
+        "name": "Just Chatting"
+      },
+      "is_recurring": false
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiI4NjQ2Zjg0Yy1jOTdlLTQwNTktOTMxMi04NjgwMzliYjUzZTYiLCJpc29ZZWFyIjoyMDIxLCJpc29XZWVrIjo0Nn0=",
+      "start_time": "2021-11-19T19:30:00Z",
+      "end_time": "2021-11-19T21:30:00Z",
+      "title": "NEYMAR CUP POKERSTARS",
+      "canceled_until": null,
+      "category": {
+        "id": "488190",
+        "name": "Poker"
+      },
+      "is_recurring": false
     },
     {
       "id": "eyJzZWdtZW50SUQiOiIzYjQzYjk3Ny1mMTljLTRmNTQtOTBjOS1lMzlmM2Y5NTgwYjQiLCJpc29ZZWFyIjoyMDIxLCJpc29XZWVrIjo0N30=",
@@ -100,7 +121,7 @@
       "id": "eyJzZWdtZW50SUQiOiI1MTgwMTJiYi0yNTdjLTRlNGItYjE3Mi1mM2EwNTA5ZjEzODIiLCJpc29ZZWFyIjoyMDIxLCJpc29XZWVrIjo0N30=",
       "start_time": "2021-11-23T19:00:00Z",
       "end_time": "2021-11-23T21:15:00Z",
-      "title": "POPCORN AVEC HORTY, MISTERMV & PONCE (KHEIRON EN INVITÉ)",
+      "title": "POPCORN AVEC SQUEEZIE, MAGHLA & PONCE",
       "canceled_until": null,
       "category": {
         "id": "417752",
@@ -110,20 +131,8 @@
     },
     {
       "id": "eyJzZWdtZW50SUQiOiIwZTg0NzM0Yi00YjU1LTQyOGUtODlkOC0yYWY2ZmU1ZGMyNmYiLCJpc29ZZWFyIjoyMDIxLCJpc29XZWVrIjo0N30=",
-      "start_time": "2021-11-24T18:30:00Z",
+      "start_time": "2021-11-24T18:00:00Z",
       "end_time": "2021-11-24T19:00:00Z",
-      "title": "PRÉ-LIVE",
-      "canceled_until": null,
-      "category": {
-        "id": "509658",
-        "name": "Just Chatting"
-      },
-      "is_recurring": true
-    },
-    {
-      "id": "eyJzZWdtZW50SUQiOiJlN2M4ODQzYS0yNzRkLTQ1NTMtODBhOC05ZjJhYzA4NTA2OTciLCJpc29ZZWFyIjoyMDIxLCJpc29XZWVrIjo0N30=",
-      "start_time": "2021-11-26T13:00:00Z",
-      "end_time": "2021-11-26T14:00:00Z",
       "title": "PRÉ-LIVE",
       "canceled_until": null,
       "category": {
@@ -160,7 +169,7 @@
       "id": "eyJzZWdtZW50SUQiOiI1MTgwMTJiYi0yNTdjLTRlNGItYjE3Mi1mM2EwNTA5ZjEzODIiLCJpc29ZZWFyIjoyMDIxLCJpc29XZWVrIjo0OH0=",
       "start_time": "2021-11-30T19:00:00Z",
       "end_time": "2021-11-30T21:15:00Z",
-      "title": "POPCORN AVEC HORTY, MISTERMV & PONCE (KHEIRON EN INVITÉ)",
+      "title": "POPCORN AVEC SQUEEZIE, MAGHLA & PONCE",
       "canceled_until": null,
       "category": {
         "id": "417752",
@@ -170,20 +179,8 @@
     },
     {
       "id": "eyJzZWdtZW50SUQiOiIwZTg0NzM0Yi00YjU1LTQyOGUtODlkOC0yYWY2ZmU1ZGMyNmYiLCJpc29ZZWFyIjoyMDIxLCJpc29XZWVrIjo0OH0=",
-      "start_time": "2021-12-01T18:30:00Z",
+      "start_time": "2021-12-01T18:00:00Z",
       "end_time": "2021-12-01T19:00:00Z",
-      "title": "PRÉ-LIVE",
-      "canceled_until": null,
-      "category": {
-        "id": "509658",
-        "name": "Just Chatting"
-      },
-      "is_recurring": true
-    },
-    {
-      "id": "eyJzZWdtZW50SUQiOiJlN2M4ODQzYS0yNzRkLTQ1NTMtODBhOC05ZjJhYzA4NTA2OTciLCJpc29ZZWFyIjoyMDIxLCJpc29XZWVrIjo0OH0=",
-      "start_time": "2021-12-03T13:00:00Z",
-      "end_time": "2021-12-03T14:00:00Z",
       "title": "PRÉ-LIVE",
       "canceled_until": null,
       "category": {
@@ -220,7 +217,7 @@
       "id": "eyJzZWdtZW50SUQiOiI1MTgwMTJiYi0yNTdjLTRlNGItYjE3Mi1mM2EwNTA5ZjEzODIiLCJpc29ZZWFyIjoyMDIxLCJpc29XZWVrIjo0OX0=",
       "start_time": "2021-12-07T19:00:00Z",
       "end_time": "2021-12-07T21:15:00Z",
-      "title": "POPCORN AVEC HORTY, MISTERMV & PONCE (KHEIRON EN INVITÉ)",
+      "title": "POPCORN AVEC SQUEEZIE, MAGHLA & PONCE",
       "canceled_until": null,
       "category": {
         "id": "417752",
@@ -230,7 +227,7 @@
     },
     {
       "id": "eyJzZWdtZW50SUQiOiIwZTg0NzM0Yi00YjU1LTQyOGUtODlkOC0yYWY2ZmU1ZGMyNmYiLCJpc29ZZWFyIjoyMDIxLCJpc29XZWVrIjo0OX0=",
-      "start_time": "2021-12-08T18:30:00Z",
+      "start_time": "2021-12-08T18:00:00Z",
       "end_time": "2021-12-08T19:00:00Z",
       "title": "PRÉ-LIVE",
       "canceled_until": null,
@@ -241,9 +238,9 @@
       "is_recurring": true
     },
     {
-      "id": "eyJzZWdtZW50SUQiOiJlN2M4ODQzYS0yNzRkLTQ1NTMtODBhOC05ZjJhYzA4NTA2OTciLCJpc29ZZWFyIjoyMDIxLCJpc29XZWVrIjo0OX0=",
-      "start_time": "2021-12-10T13:00:00Z",
-      "end_time": "2021-12-10T14:00:00Z",
+      "id": "eyJzZWdtZW50SUQiOiIzYjQzYjk3Ny1mMTljLTRmNTQtOTBjOS1lMzlmM2Y5NTgwYjQiLCJpc29ZZWFyIjoyMDIxLCJpc29XZWVrIjo1MH0=",
+      "start_time": "2021-12-13T18:30:00Z",
+      "end_time": "2021-12-13T19:30:00Z",
       "title": "PRÉ-LIVE",
       "canceled_until": null,
       "category": {

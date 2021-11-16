@@ -8,34 +8,10 @@
     "description": "On se tape des immenses barres.",
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/125bbc49-45d1-432c-92b3-f5aef1e7ab21-profile_image-300x300.png",
     "offline_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/62c1d623-37e8-4a86-9a1c-566e94479204-channel_offline_image-1920x1080.png",
-    "view_count": 50057839,
+    "view_count": 50154131,
     "created_at": "2013-10-24T19:04:45Z"
   },
   "schedulers": [
-    {
-      "id": "eyJzZWdtZW50SUQiOiJmZWIyMjA4Ny1jOTdjLTRiZWYtOWI1Zi1hMzExMTg3NGQ0YTEiLCJpc29ZZWFyIjoyMDIxLCJpc29XZWVrIjo0Nn0=",
-      "start_time": "2021-11-15T10:00:00Z",
-      "end_time": "2021-11-15T15:00:00Z",
-      "title": "Maitre des Fleurs",
-      "canceled_until": null,
-      "category": {
-        "id": "338715930",
-        "name": "Maitre des Fleurs"
-      },
-      "is_recurring": true
-    },
-    {
-      "id": "eyJzZWdtZW50SUQiOiJlNDJlNTA3Yy02ZTE1LTQ2ODUtYjdlNC0yYTA5NTZiNzAwZjEiLCJpc29ZZWFyIjoyMDIxLCJpc29XZWVrIjo0Nn0=",
-      "start_time": "2021-11-15T19:30:00Z",
-      "end_time": "2021-11-16T01:30:00Z",
-      "title": "FC SILMI",
-      "canceled_until": null,
-      "category": {
-        "id": "1869092879",
-        "name": "FIFA 22"
-      },
-      "is_recurring": true
-    },
     {
       "id": "eyJzZWdtZW50SUQiOiJiOTlkNWM2Ni1iMDcwLTRiZjMtOGVmMS02MTE1ZWExNTg3NmEiLCJpc29ZZWFyIjoyMDIxLCJpc29XZWVrIjo0Nn0=",
       "start_time": "2021-11-16T10:00:00Z",
@@ -249,6 +225,30 @@
       "category": {
         "id": "504461",
         "name": "Super Smash Bros. Ultimate"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiIwMzRkMmYzYi0xNTg2LTQyMDAtOTU4Zi1iZDAyNTQzYzdhYzUiLCJpc29ZZWFyIjoyMDIxLCJpc29XZWVrIjo0N30=",
+      "start_time": "2021-11-26T10:00:00Z",
+      "end_time": "2021-11-26T17:00:00Z",
+      "title": "Vendredi hype sur Pokémon Diamant/Perle",
+      "canceled_until": null,
+      "category": {
+        "id": "2993",
+        "name": "Pokémon: Diamond/Pearl"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiJhNmYxZWFjOC1kNTJmLTQ0OGItYjg1NS0xYWU3NTZhMzYyZTciLCJpc29ZZWFyIjoyMDIxLCJpc29XZWVrIjo0N30=",
+      "start_time": "2021-11-28T12:00:00Z",
+      "end_time": "2021-11-28T16:00:00Z",
+      "title": "Le tournoi MK du Dimanche !",
+      "canceled_until": null,
+      "category": {
+        "id": "369588",
+        "name": "Mario Kart 8"
       },
       "is_recurring": true
     }
