@@ -22,7 +22,7 @@ export interface SegmentsEntity {
   end_time: string;
   title: string;
   canceled_until?: null;
-  category: Category;
+  category?: Category;
   is_recurring: boolean;
 }
 
