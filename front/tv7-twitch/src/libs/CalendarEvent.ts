@@ -1,3 +1,5 @@
+import { Channel, SegmentsEntity } from "tv7-twitch-shared";
+
 /**
  * @see https://fullcalendar.io/docs/event-object
  */
@@ -35,4 +37,18 @@ export interface CalendarEvent {
    * @see https://fullcalendar.io/docs/eventBackgroundColor
    */
   backgroundColor?: string | undefined;
+
+  /**
+   * A plain object holding miscellaneous other properties specified during parsing.
+   * Receives properties in the explicitly given extendedProps hash as well as other non-standard properties.
+   */
+  extendedProps: {
+    stream: SegmentsEntity,
+    channel: Channel
+  };
+
+  /**
+   * An array of strings like [ 'myclass1', myclass2' ]. Determines which HTML classNames will be attached to the rendered event.
+   */
+  classNames?: string[];
 }
