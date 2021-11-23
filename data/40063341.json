@@ -7,40 +7,16 @@
     "broadcaster_type": "partner",
     "description": "Coucou c'est moi !",
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/3cdae7df-600c-4833-8dfe-8d2abc5a3b25-profile_image-300x300.png",
-    "offline_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/d4f9395b-5f84-4db3-a1db-4e986feeb025-channel_offline_image-1920x1080.png",
-    "view_count": 112072062,
+    "offline_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/7297d0d2-6a8f-4208-8b4f-e2a27f7d5eef-channel_offline_image-1920x1080.png",
+    "view_count": 112177289,
     "created_at": "2013-02-05T19:20:22Z"
   },
   "schedulers": [
     {
-      "id": "eyJzZWdtZW50SUQiOiIzYjQzYjk3Ny1mMTljLTRmNTQtOTBjOS1lMzlmM2Y5NTgwYjQiLCJpc29ZZWFyIjoyMDIxLCJpc29XZWVrIjo0N30=",
-      "start_time": "2021-11-22T18:30:00Z",
-      "end_time": "2021-11-22T19:30:00Z",
-      "title": "PRÉ-LIVE",
-      "canceled_until": null,
-      "category": {
-        "id": "509658",
-        "name": "Just Chatting"
-      },
-      "is_recurring": true
-    },
-    {
-      "id": "eyJzZWdtZW50SUQiOiI4NzkzYjg2MS0xMWZlLTQyM2YtOGNhNC1lYTVjMzllY2MwODkiLCJpc29ZZWFyIjoyMDIxLCJpc29XZWVrIjo0N30=",
-      "start_time": "2021-11-22T19:30:00Z",
-      "end_time": "2021-11-23T01:00:00Z",
-      "title": "FC SILMI",
-      "canceled_until": null,
-      "category": {
-        "id": "1869092879",
-        "name": "FIFA 22"
-      },
-      "is_recurring": true
-    },
-    {
       "id": "eyJzZWdtZW50SUQiOiI1MTgwMTJiYi0yNTdjLTRlNGItYjE3Mi1mM2EwNTA5ZjEzODIiLCJpc29ZZWFyIjoyMDIxLCJpc29XZWVrIjo0N30=",
       "start_time": "2021-11-23T19:00:00Z",
       "end_time": "2021-11-23T21:15:00Z",
-      "title": "POPCORN AVEC SQUEEZIE, MAGHLA & PONCE",
+      "title": "POPCORN AVEC D. DROGBA (Sardoche, Marie & Zack)",
       "canceled_until": null,
       "category": {
         "id": "417752",
@@ -50,8 +26,8 @@
     },
     {
       "id": "eyJzZWdtZW50SUQiOiIwZTg0NzM0Yi00YjU1LTQyOGUtODlkOC0yYWY2ZmU1ZGMyNmYiLCJpc29ZZWFyIjoyMDIxLCJpc29XZWVrIjo0N30=",
-      "start_time": "2021-11-24T18:00:00Z",
-      "end_time": "2021-11-24T19:00:00Z",
+      "start_time": "2021-11-24T18:30:00Z",
+      "end_time": "2021-11-24T19:30:00Z",
       "title": "PRÉ-LIVE",
       "canceled_until": null,
       "category": {
@@ -59,6 +35,30 @@
         "name": "Just Chatting"
       },
       "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiI4MmUxMGE4Yy1iN2JjLTRhZmQtYTg2ZS1mODU2MGQ5M2U0NmIiLCJpc29ZZWFyIjoyMDIxLCJpc29XZWVrIjo0N30=",
+      "start_time": "2021-11-24T19:30:00Z",
+      "end_time": "2021-11-24T23:00:00Z",
+      "title": "JURASSIC PAB ",
+      "canceled_until": null,
+      "category": {
+        "id": "1681462442",
+        "name": "Jurassic World Evolution 2"
+      },
+      "is_recurring": false
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiI0YmQ4ZGU5NS1iMTE2LTRkMzQtOTVjNS05YTVjMDJiOWIyNGIiLCJpc29ZZWFyIjoyMDIxLCJpc29XZWVrIjo0N30=",
+      "start_time": "2021-11-28T19:00:00Z",
+      "end_time": "2021-11-28T21:30:00Z",
+      "title": "L'Échappée #3 (Amaru, ChowH1, Etoiles, Jeel, Jiraya, Laure, Ponce & Yass) ",
+      "canceled_until": null,
+      "category": {
+        "id": "509663",
+        "name": "Special Events"
+      },
+      "is_recurring": false
     },
     {
       "id": "eyJzZWdtZW50SUQiOiIzYjQzYjk3Ny1mMTljLTRmNTQtOTBjOS1lMzlmM2Y5NTgwYjQiLCJpc29ZZWFyIjoyMDIxLCJpc29XZWVrIjo0OH0=",
@@ -88,7 +88,7 @@
       "id": "eyJzZWdtZW50SUQiOiI1MTgwMTJiYi0yNTdjLTRlNGItYjE3Mi1mM2EwNTA5ZjEzODIiLCJpc29ZZWFyIjoyMDIxLCJpc29XZWVrIjo0OH0=",
       "start_time": "2021-11-30T19:00:00Z",
       "end_time": "2021-11-30T21:15:00Z",
-      "title": "POPCORN AVEC SQUEEZIE, MAGHLA & PONCE",
+      "title": "POPCORN AVEC D. DROGBA (Sardoche, Marie & Zack)",
       "canceled_until": null,
       "category": {
         "id": "417752",
@@ -98,8 +98,8 @@
     },
     {
       "id": "eyJzZWdtZW50SUQiOiIwZTg0NzM0Yi00YjU1LTQyOGUtODlkOC0yYWY2ZmU1ZGMyNmYiLCJpc29ZZWFyIjoyMDIxLCJpc29XZWVrIjo0OH0=",
-      "start_time": "2021-12-01T18:00:00Z",
-      "end_time": "2021-12-01T19:00:00Z",
+      "start_time": "2021-12-01T18:30:00Z",
+      "end_time": "2021-12-01T19:30:00Z",
       "title": "PRÉ-LIVE",
       "canceled_until": null,
       "category": {
@@ -136,7 +136,7 @@
       "id": "eyJzZWdtZW50SUQiOiI1MTgwMTJiYi0yNTdjLTRlNGItYjE3Mi1mM2EwNTA5ZjEzODIiLCJpc29ZZWFyIjoyMDIxLCJpc29XZWVrIjo0OX0=",
       "start_time": "2021-12-07T19:00:00Z",
       "end_time": "2021-12-07T21:15:00Z",
-      "title": "POPCORN AVEC SQUEEZIE, MAGHLA & PONCE",
+      "title": "POPCORN AVEC D. DROGBA (Sardoche, Marie & Zack)",
       "canceled_until": null,
       "category": {
         "id": "417752",
@@ -146,8 +146,8 @@
     },
     {
       "id": "eyJzZWdtZW50SUQiOiIwZTg0NzM0Yi00YjU1LTQyOGUtODlkOC0yYWY2ZmU1ZGMyNmYiLCJpc29ZZWFyIjoyMDIxLCJpc29XZWVrIjo0OX0=",
-      "start_time": "2021-12-08T18:00:00Z",
-      "end_time": "2021-12-08T19:00:00Z",
+      "start_time": "2021-12-08T18:30:00Z",
+      "end_time": "2021-12-08T19:30:00Z",
       "title": "PRÉ-LIVE",
       "canceled_until": null,
       "category": {
@@ -184,7 +184,7 @@
       "id": "eyJzZWdtZW50SUQiOiI1MTgwMTJiYi0yNTdjLTRlNGItYjE3Mi1mM2EwNTA5ZjEzODIiLCJpc29ZZWFyIjoyMDIxLCJpc29XZWVrIjo1MH0=",
       "start_time": "2021-12-14T19:00:00Z",
       "end_time": "2021-12-14T21:15:00Z",
-      "title": "POPCORN AVEC SQUEEZIE, MAGHLA & PONCE",
+      "title": "POPCORN AVEC D. DROGBA (Sardoche, Marie & Zack)",
       "canceled_until": null,
       "category": {
         "id": "417752",
@@ -194,8 +194,8 @@
     },
     {
       "id": "eyJzZWdtZW50SUQiOiIwZTg0NzM0Yi00YjU1LTQyOGUtODlkOC0yYWY2ZmU1ZGMyNmYiLCJpc29ZZWFyIjoyMDIxLCJpc29XZWVrIjo1MH0=",
-      "start_time": "2021-12-15T18:00:00Z",
-      "end_time": "2021-12-15T19:00:00Z",
+      "start_time": "2021-12-15T18:30:00Z",
+      "end_time": "2021-12-15T19:30:00Z",
       "title": "PRÉ-LIVE",
       "canceled_until": null,
       "category": {
@@ -232,7 +232,7 @@
       "id": "eyJzZWdtZW50SUQiOiI1MTgwMTJiYi0yNTdjLTRlNGItYjE3Mi1mM2EwNTA5ZjEzODIiLCJpc29ZZWFyIjoyMDIxLCJpc29XZWVrIjo1MX0=",
       "start_time": "2021-12-21T19:00:00Z",
       "end_time": "2021-12-21T21:15:00Z",
-      "title": "POPCORN AVEC SQUEEZIE, MAGHLA & PONCE",
+      "title": "POPCORN AVEC D. DROGBA (Sardoche, Marie & Zack)",
       "canceled_until": null,
       "category": {
         "id": "417752",
@@ -242,8 +242,8 @@
     },
     {
       "id": "eyJzZWdtZW50SUQiOiIwZTg0NzM0Yi00YjU1LTQyOGUtODlkOC0yYWY2ZmU1ZGMyNmYiLCJpc29ZZWFyIjoyMDIxLCJpc29XZWVrIjo1MX0=",
-      "start_time": "2021-12-22T18:00:00Z",
-      "end_time": "2021-12-22T19:00:00Z",
+      "start_time": "2021-12-22T18:30:00Z",
+      "end_time": "2021-12-22T19:30:00Z",
       "title": "PRÉ-LIVE",
       "canceled_until": null,
       "category": {
