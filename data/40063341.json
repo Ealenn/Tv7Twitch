@@ -7,40 +7,16 @@
     "broadcaster_type": "partner",
     "description": "Coucou c'est moi !",
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/3cdae7df-600c-4833-8dfe-8d2abc5a3b25-profile_image-300x300.png",
-    "offline_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/9e2d5686-55ae-406d-acc8-250e70733c1d-channel_offline_image-1920x1080.png",
-    "view_count": 112933693,
+    "offline_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/69ea6461-8de1-4326-ba3c-90ad184071ad-channel_offline_image-1920x1080.png",
+    "view_count": 113063105,
     "created_at": "2013-02-05T19:20:22Z"
   },
   "schedulers": [
     {
-      "id": "eyJzZWdtZW50SUQiOiIzYjQzYjk3Ny1mMTljLTRmNTQtOTBjOS1lMzlmM2Y5NTgwYjQiLCJpc29ZZWFyIjoyMDIxLCJpc29XZWVrIjo0OH0=",
-      "start_time": "2021-11-29T18:30:00Z",
-      "end_time": "2021-11-29T19:30:00Z",
-      "title": "PRÉ-LIVE",
-      "canceled_until": null,
-      "category": {
-        "id": "509658",
-        "name": "Just Chatting"
-      },
-      "is_recurring": true
-    },
-    {
-      "id": "eyJzZWdtZW50SUQiOiI4NzkzYjg2MS0xMWZlLTQyM2YtOGNhNC1lYTVjMzllY2MwODkiLCJpc29ZZWFyIjoyMDIxLCJpc29XZWVrIjo0OH0=",
-      "start_time": "2021-11-29T19:30:00Z",
-      "end_time": "2021-11-30T01:00:00Z",
-      "title": "FC SILMI",
-      "canceled_until": null,
-      "category": {
-        "id": "1869092879",
-        "name": "FIFA 22"
-      },
-      "is_recurring": true
-    },
-    {
       "id": "eyJzZWdtZW50SUQiOiI1MTgwMTJiYi0yNTdjLTRlNGItYjE3Mi1mM2EwNTA5ZjEzODIiLCJpc29ZZWFyIjoyMDIxLCJpc29XZWVrIjo0OH0=",
       "start_time": "2021-11-30T19:00:00Z",
       "end_time": "2021-11-30T21:15:00Z",
-      "title": "POPCORN AVEC D. DROGBA (Sardoche, Marie & Zack)",
+      "title": "POPCORN AVEC CYRUS, ÉTOILES, MARIE (CHRONIQUE DE MICODE)",
       "canceled_until": null,
       "category": {
         "id": "417752",
@@ -53,12 +29,57 @@
       "start_time": "2021-12-01T18:30:00Z",
       "end_time": "2021-12-01T19:30:00Z",
       "title": "PRÉ-LIVE",
-      "canceled_until": null,
+      "canceled_until": "2021-12-01T19:30:00Z",
       "category": {
         "id": "509658",
         "name": "Just Chatting"
       },
       "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiJhODVkNmY4Mi02M2FjLTQ5ZjktOTdlOC04OGQ0ZjMzOGY5NzEiLCJpc29ZZWFyIjoyMDIxLCJpc29XZWVrIjo0OH0=",
+      "start_time": "2021-12-02T13:00:00Z",
+      "end_time": "2021-12-02T14:00:00Z",
+      "title": "PRÉ-LIVE",
+      "canceled_until": null,
+      "category": {
+        "id": "509658",
+        "name": "Just Chatting"
+      },
+      "is_recurring": false
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiJlMWVlNTM3OC0zNTUzLTQzZDktOWU3ZS1iNDI5YzcwMzFjZTAiLCJpc29ZZWFyIjoyMDIxLCJpc29XZWVrIjo0OH0=",
+      "start_time": "2021-12-02T14:00:00Z",
+      "end_time": "2021-12-02T18:00:00Z",
+      "title": "MONTAGE DE PC & STREAM LIBRE",
+      "canceled_until": null,
+      "category": null,
+      "is_recurring": false
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiJlZmUxNTAxZC0zOGI3LTQyNTEtYjUzMi0yNGZhYjk4MjFkMTEiLCJpc29ZZWFyIjoyMDIxLCJpc29XZWVrIjo0OH0=",
+      "start_time": "2021-12-03T13:00:00Z",
+      "end_time": "2021-12-03T14:00:00Z",
+      "title": "PRÉ-LIVE",
+      "canceled_until": null,
+      "category": {
+        "id": "509658",
+        "name": "Just Chatting"
+      },
+      "is_recurring": false
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiJhYzQ3MWYzNC04M2U1LTQ1OWEtYTY1My03ZGZjZGU0MmIxYWIiLCJpc29ZZWFyIjoyMDIxLCJpc29XZWVrIjo0OH0=",
+      "start_time": "2021-12-03T14:00:00Z",
+      "end_time": "2021-12-03T18:00:00Z",
+      "title": "MARTIO PARTY AVEC PONCE & JIJI",
+      "canceled_until": null,
+      "category": {
+        "id": "1068239917",
+        "name": "Mario Party Superstars"
+      },
+      "is_recurring": false
     },
     {
       "id": "eyJzZWdtZW50SUQiOiIzYjQzYjk3Ny1mMTljLTRmNTQtOTBjOS1lMzlmM2Y5NTgwYjQiLCJpc29ZZWFyIjoyMDIxLCJpc29XZWVrIjo0OX0=",
@@ -88,7 +109,7 @@
       "id": "eyJzZWdtZW50SUQiOiI1MTgwMTJiYi0yNTdjLTRlNGItYjE3Mi1mM2EwNTA5ZjEzODIiLCJpc29ZZWFyIjoyMDIxLCJpc29XZWVrIjo0OX0=",
       "start_time": "2021-12-07T19:00:00Z",
       "end_time": "2021-12-07T21:15:00Z",
-      "title": "POPCORN AVEC D. DROGBA (Sardoche, Marie & Zack)",
+      "title": "POPCORN AVEC CYRUS, ÉTOILES, MARIE (CHRONIQUE DE MICODE)",
       "canceled_until": null,
       "category": {
         "id": "417752",
@@ -136,7 +157,7 @@
       "id": "eyJzZWdtZW50SUQiOiI1MTgwMTJiYi0yNTdjLTRlNGItYjE3Mi1mM2EwNTA5ZjEzODIiLCJpc29ZZWFyIjoyMDIxLCJpc29XZWVrIjo1MH0=",
       "start_time": "2021-12-14T19:00:00Z",
       "end_time": "2021-12-14T21:15:00Z",
-      "title": "POPCORN AVEC D. DROGBA (Sardoche, Marie & Zack)",
+      "title": "POPCORN AVEC CYRUS, ÉTOILES, MARIE (CHRONIQUE DE MICODE)",
       "canceled_until": null,
       "category": {
         "id": "417752",
@@ -184,7 +205,7 @@
       "id": "eyJzZWdtZW50SUQiOiI1MTgwMTJiYi0yNTdjLTRlNGItYjE3Mi1mM2EwNTA5ZjEzODIiLCJpc29ZZWFyIjoyMDIxLCJpc29XZWVrIjo1MX0=",
       "start_time": "2021-12-21T19:00:00Z",
       "end_time": "2021-12-21T21:15:00Z",
-      "title": "POPCORN AVEC D. DROGBA (Sardoche, Marie & Zack)",
+      "title": "POPCORN AVEC CYRUS, ÉTOILES, MARIE (CHRONIQUE DE MICODE)",
       "canceled_until": null,
       "category": {
         "id": "417752",
@@ -225,30 +246,6 @@
       "category": {
         "id": "1869092879",
         "name": "FIFA 22"
-      },
-      "is_recurring": true
-    },
-    {
-      "id": "eyJzZWdtZW50SUQiOiI1MTgwMTJiYi0yNTdjLTRlNGItYjE3Mi1mM2EwNTA5ZjEzODIiLCJpc29ZZWFyIjoyMDIxLCJpc29XZWVrIjo1Mn0=",
-      "start_time": "2021-12-28T19:00:00Z",
-      "end_time": "2021-12-28T21:15:00Z",
-      "title": "POPCORN AVEC D. DROGBA (Sardoche, Marie & Zack)",
-      "canceled_until": null,
-      "category": {
-        "id": "417752",
-        "name": "Talk Shows & Podcasts"
-      },
-      "is_recurring": true
-    },
-    {
-      "id": "eyJzZWdtZW50SUQiOiIwZTg0NzM0Yi00YjU1LTQyOGUtODlkOC0yYWY2ZmU1ZGMyNmYiLCJpc29ZZWFyIjoyMDIxLCJpc29XZWVrIjo1Mn0=",
-      "start_time": "2021-12-29T18:30:00Z",
-      "end_time": "2021-12-29T19:30:00Z",
-      "title": "PRÉ-LIVE",
-      "canceled_until": null,
-      "category": {
-        "id": "509658",
-        "name": "Just Chatting"
       },
       "is_recurring": true
     }
