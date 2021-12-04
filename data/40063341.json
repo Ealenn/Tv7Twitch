@@ -8,34 +8,10 @@
     "description": "Coucou c'est moi !",
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/3cdae7df-600c-4833-8dfe-8d2abc5a3b25-profile_image-300x300.png",
     "offline_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/08872ae3-5de8-4b49-8d9b-9bf1502787e1-channel_offline_image-1920x1080.png",
-    "view_count": 113438337,
+    "view_count": 113505845,
     "created_at": "2013-02-05T19:20:22Z"
   },
   "schedulers": [
-    {
-      "id": "eyJzZWdtZW50SUQiOiJlZmUxNTAxZC0zOGI3LTQyNTEtYjUzMi0yNGZhYjk4MjFkMTEiLCJpc29ZZWFyIjoyMDIxLCJpc29XZWVrIjo0OH0=",
-      "start_time": "2021-12-03T13:00:00Z",
-      "end_time": "2021-12-03T14:00:00Z",
-      "title": "PRÉ-LIVE",
-      "canceled_until": null,
-      "category": {
-        "id": "509658",
-        "name": "Just Chatting"
-      },
-      "is_recurring": false
-    },
-    {
-      "id": "eyJzZWdtZW50SUQiOiJhYzQ3MWYzNC04M2U1LTQ1OWEtYTY1My03ZGZjZGU0MmIxYWIiLCJpc29ZZWFyIjoyMDIxLCJpc29XZWVrIjo0OH0=",
-      "start_time": "2021-12-03T14:00:00Z",
-      "end_time": "2021-12-03T18:00:00Z",
-      "title": "MARTIO PARTY AVEC PONCE & JIJI",
-      "canceled_until": null,
-      "category": {
-        "id": "1068239917",
-        "name": "Mario Party Superstars"
-      },
-      "is_recurring": false
-    },
     {
       "id": "eyJzZWdtZW50SUQiOiIzYjQzYjk3Ny1mMTljLTRmNTQtOTBjOS1lMzlmM2Y5NTgwYjQiLCJpc29ZZWFyIjoyMDIxLCJpc29XZWVrIjo0OX0=",
       "start_time": "2021-12-06T18:30:00Z",
@@ -249,6 +225,30 @@
       "category": {
         "id": "1869092879",
         "name": "FIFA 22"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiI1MTgwMTJiYi0yNTdjLTRlNGItYjE3Mi1mM2EwNTA5ZjEzODIiLCJpc29ZZWFyIjoyMDIyLCJpc29XZWVrIjoxfQ==",
+      "start_time": "2022-01-04T19:00:00Z",
+      "end_time": "2022-01-04T21:15:00Z",
+      "title": "POPCORN AVEC CYRUS, ÉTOILES, MARIE (CHRONIQUE DE MICODE)",
+      "canceled_until": null,
+      "category": {
+        "id": "417752",
+        "name": "Talk Shows & Podcasts"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiIwZTg0NzM0Yi00YjU1LTQyOGUtODlkOC0yYWY2ZmU1ZGMyNmYiLCJpc29ZZWFyIjoyMDIyLCJpc29XZWVrIjoxfQ==",
+      "start_time": "2022-01-05T18:30:00Z",
+      "end_time": "2022-01-05T19:30:00Z",
+      "title": "PRÉ-LIVE",
+      "canceled_until": null,
+      "category": {
+        "id": "509658",
+        "name": "Just Chatting"
       },
       "is_recurring": true
     }
