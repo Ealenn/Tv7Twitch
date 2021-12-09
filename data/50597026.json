@@ -8,26 +8,14 @@
     "description": "On se tape des immenses barres.",
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/125bbc49-45d1-432c-92b3-f5aef1e7ab21-profile_image-300x300.png",
     "offline_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/62c1d623-37e8-4a86-9a1c-566e94479204-channel_offline_image-1920x1080.png",
-    "view_count": 51686823,
+    "view_count": 51759909,
     "created_at": "2013-10-24T19:04:45Z"
   },
   "schedulers": [
     {
-      "id": "eyJzZWdtZW50SUQiOiIzNDNlYzA0Mi1hOGQwLTQ2MjYtYjVkOS1mMGU0MzI4MGU4MmYiLCJpc29ZZWFyIjoyMDIxLCJpc29XZWVrIjo0OX0=",
-      "start_time": "2021-12-08T10:00:00Z",
-      "end_time": "2021-12-08T16:00:00Z",
-      "title": "Speedrun Any%",
-      "canceled_until": null,
-      "category": {
-        "id": "110758",
-        "name": "The Legend of Zelda: Breath of the Wild"
-      },
-      "is_recurring": true
-    },
-    {
       "id": "eyJzZWdtZW50SUQiOiIyMTRmYzJhYi0yNWY4LTRlZjgtYjZiNi0wMjI5ZWE2NTYyNzciLCJpc29ZZWFyIjoyMDIxLCJpc29XZWVrIjo0OX0=",
       "start_time": "2021-12-09T10:00:00Z",
-      "end_time": "2021-12-09T13:00:00Z",
+      "end_time": "2021-12-09T17:00:00Z",
       "title": "Pokemon Pearl: On les attrape tous!",
       "canceled_until": null,
       "category": {
@@ -35,15 +23,6 @@
         "name": "Pokémon: Diamond/Pearl"
       },
       "is_recurring": true
-    },
-    {
-      "id": "eyJzZWdtZW50SUQiOiI0NjZlODAzZC1iZjE1LTRhYTEtOGVkYS01ODhhMTM4MDNmZjEiLCJpc29ZZWFyIjoyMDIxLCJpc29XZWVrIjo0OX0=",
-      "start_time": "2021-12-09T19:00:00Z",
-      "end_time": "2021-12-09T23:00:00Z",
-      "title": "JDR Final Fantasy (avé plein de Copaings!)",
-      "canceled_until": null,
-      "category": null,
-      "is_recurring": false
     },
     {
       "id": "eyJzZWdtZW50SUQiOiIzNTM1NjcxYS01NjllLTRiOWItYjRmZi01ZWYwNThmMDcwZDUiLCJpc29ZZWFyIjoyMDIxLCJpc29XZWVrIjo0OX0=",
@@ -156,7 +135,7 @@
     {
       "id": "eyJzZWdtZW50SUQiOiIyMTRmYzJhYi0yNWY4LTRlZjgtYjZiNi0wMjI5ZWE2NTYyNzciLCJpc29ZZWFyIjoyMDIxLCJpc29XZWVrIjo1MH0=",
       "start_time": "2021-12-16T10:00:00Z",
-      "end_time": "2021-12-16T13:00:00Z",
+      "end_time": "2021-12-16T17:00:00Z",
       "title": "Pokemon Pearl: On les attrape tous!",
       "canceled_until": null,
       "category": {
@@ -246,6 +225,30 @@
       "category": {
         "id": "417752",
         "name": "Talk Shows & Podcasts"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiIzNDNlYzA0Mi1hOGQwLTQ2MjYtYjVkOS1mMGU0MzI4MGU4MmYiLCJpc29ZZWFyIjoyMDIxLCJpc29XZWVrIjo1MX0=",
+      "start_time": "2021-12-22T10:00:00Z",
+      "end_time": "2021-12-22T16:00:00Z",
+      "title": "Speedrun Any%",
+      "canceled_until": null,
+      "category": {
+        "id": "110758",
+        "name": "The Legend of Zelda: Breath of the Wild"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiIyMTRmYzJhYi0yNWY4LTRlZjgtYjZiNi0wMjI5ZWE2NTYyNzciLCJpc29ZZWFyIjoyMDIxLCJpc29XZWVrIjo1MX0=",
+      "start_time": "2021-12-23T10:00:00Z",
+      "end_time": "2021-12-23T17:00:00Z",
+      "title": "Pokemon Pearl: On les attrape tous!",
+      "canceled_until": null,
+      "category": {
+        "id": "2993",
+        "name": "Pokémon: Diamond/Pearl"
       },
       "is_recurring": true
     }
