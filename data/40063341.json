@@ -7,40 +7,16 @@
     "broadcaster_type": "partner",
     "description": "Coucou c'est moi !",
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/3cdae7df-600c-4833-8dfe-8d2abc5a3b25-profile_image-300x300.png",
-    "offline_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/1c6521cb-1bef-4b86-9b80-b5c74c5380f3-channel_offline_image-1920x1080.png",
-    "view_count": 113926814,
+    "offline_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/79aec192-8518-4b79-85c7-724d10ca3acc-channel_offline_image-1920x1080.png",
+    "view_count": 114012999,
     "created_at": "2013-02-05T19:20:22Z"
   },
   "schedulers": [
     {
-      "id": "eyJzZWdtZW50SUQiOiIzYjQzYjk3Ny1mMTljLTRmNTQtOTBjOS1lMzlmM2Y5NTgwYjQiLCJpc29ZZWFyIjoyMDIxLCJpc29XZWVrIjo1MH0=",
-      "start_time": "2021-12-13T18:30:00Z",
-      "end_time": "2021-12-13T19:30:00Z",
-      "title": "PRÉ-LIVE",
-      "canceled_until": null,
-      "category": {
-        "id": "509658",
-        "name": "Just Chatting"
-      },
-      "is_recurring": true
-    },
-    {
-      "id": "eyJzZWdtZW50SUQiOiI4NzkzYjg2MS0xMWZlLTQyM2YtOGNhNC1lYTVjMzllY2MwODkiLCJpc29ZZWFyIjoyMDIxLCJpc29XZWVrIjo1MH0=",
-      "start_time": "2021-12-13T19:30:00Z",
-      "end_time": "2021-12-14T01:00:00Z",
-      "title": "FC SILMI",
-      "canceled_until": null,
-      "category": {
-        "id": "1869092879",
-        "name": "FIFA 22"
-      },
-      "is_recurring": true
-    },
-    {
       "id": "eyJzZWdtZW50SUQiOiI1MTgwMTJiYi0yNTdjLTRlNGItYjE3Mi1mM2EwNTA5ZjEzODIiLCJpc29ZZWFyIjoyMDIxLCJpc29XZWVrIjo1MH0=",
       "start_time": "2021-12-14T19:00:00Z",
       "end_time": "2021-12-14T21:15:00Z",
-      "title": "POPCORN AVEC BEN NÉVERT, MAGHLA & PONCE (GEORGIO EN INVITÉ)",
+      "title": "POPCORN AVEC SEB, CHARLIE DANGER & ZACK NANI (ANTOINE DE MAXIMY EN INVITÉ)",
       "canceled_until": null,
       "category": {
         "id": "417752",
@@ -53,12 +29,60 @@
       "start_time": "2021-12-15T16:30:00Z",
       "end_time": "2021-12-15T17:30:00Z",
       "title": "PRÉ-LIVE",
-      "canceled_until": null,
+      "canceled_until": "2021-12-15T17:30:00Z",
       "category": {
         "id": "509658",
         "name": "Just Chatting"
       },
       "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiJiM2QwZThiNy1lZDA3LTRlMDktYTNiMy1jYjg4ZmQ5OTZjMDYiLCJpc29ZZWFyIjoyMDIxLCJpc29XZWVrIjo1MH0=",
+      "start_time": "2021-12-15T18:00:00Z",
+      "end_time": "2021-12-15T21:00:00Z",
+      "title": "GOTAGA POKER NIGHT CHEZ GOTAGA",
+      "canceled_until": null,
+      "category": {
+        "id": "488190",
+        "name": "Poker"
+      },
+      "is_recurring": false
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiI4NmQyMDI0Ny04YTM4LTQwODUtODlmZi0xNjIzZGIwNTYzMWUiLCJpc29ZZWFyIjoyMDIxLCJpc29XZWVrIjo1MH0=",
+      "start_time": "2021-12-16T19:00:00Z",
+      "end_time": "2021-12-16T22:00:00Z",
+      "title": "TOQUE CHEF",
+      "canceled_until": null,
+      "category": {
+        "id": "509663",
+        "name": "Special Events"
+      },
+      "is_recurring": false
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiI2M2ZmZjJiZC1hNTlhLTRmOWYtYjg0Ni1lNzY0MGJjNjkyOTIiLCJpc29ZZWFyIjoyMDIxLCJpc29XZWVrIjo1MH0=",
+      "start_time": "2021-12-17T18:00:00Z",
+      "end_time": "2021-12-17T19:00:00Z",
+      "title": "PRÉ-LIVE",
+      "canceled_until": null,
+      "category": {
+        "id": "509658",
+        "name": "Just Chatting"
+      },
+      "is_recurring": false
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiI3N2FjMTYwMC1kOWZjLTQ5OWUtYWI4Ni1lZTFmYzcyZjQxODkiLCJpc29ZZWFyIjoyMDIxLCJpc29XZWVrIjo1MH0=",
+      "start_time": "2021-12-17T19:00:00Z",
+      "end_time": "2021-12-17T22:00:00Z",
+      "title": "APEX LEGENDS",
+      "canceled_until": null,
+      "category": {
+        "id": "511224",
+        "name": "Apex Legends"
+      },
+      "is_recurring": false
     },
     {
       "id": "eyJzZWdtZW50SUQiOiIzYjQzYjk3Ny1mMTljLTRmNTQtOTBjOS1lMzlmM2Y5NTgwYjQiLCJpc29ZZWFyIjoyMDIxLCJpc29XZWVrIjo1MX0=",
@@ -88,7 +112,7 @@
       "id": "eyJzZWdtZW50SUQiOiI1MTgwMTJiYi0yNTdjLTRlNGItYjE3Mi1mM2EwNTA5ZjEzODIiLCJpc29ZZWFyIjoyMDIxLCJpc29XZWVrIjo1MX0=",
       "start_time": "2021-12-21T19:00:00Z",
       "end_time": "2021-12-21T21:15:00Z",
-      "title": "POPCORN AVEC BEN NÉVERT, MAGHLA & PONCE (GEORGIO EN INVITÉ)",
+      "title": "POPCORN AVEC SEB, CHARLIE DANGER & ZACK NANI (ANTOINE DE MAXIMY EN INVITÉ)",
       "canceled_until": null,
       "category": {
         "id": "417752",
@@ -136,7 +160,7 @@
       "id": "eyJzZWdtZW50SUQiOiI1MTgwMTJiYi0yNTdjLTRlNGItYjE3Mi1mM2EwNTA5ZjEzODIiLCJpc29ZZWFyIjoyMDIxLCJpc29XZWVrIjo1Mn0=",
       "start_time": "2021-12-28T19:00:00Z",
       "end_time": "2021-12-28T21:15:00Z",
-      "title": "POPCORN AVEC BEN NÉVERT, MAGHLA & PONCE (GEORGIO EN INVITÉ)",
+      "title": "POPCORN AVEC SEB, CHARLIE DANGER & ZACK NANI (ANTOINE DE MAXIMY EN INVITÉ)",
       "canceled_until": null,
       "category": {
         "id": "417752",
@@ -184,7 +208,7 @@
       "id": "eyJzZWdtZW50SUQiOiI1MTgwMTJiYi0yNTdjLTRlNGItYjE3Mi1mM2EwNTA5ZjEzODIiLCJpc29ZZWFyIjoyMDIyLCJpc29XZWVrIjoxfQ==",
       "start_time": "2022-01-04T19:00:00Z",
       "end_time": "2022-01-04T21:15:00Z",
-      "title": "POPCORN AVEC BEN NÉVERT, MAGHLA & PONCE (GEORGIO EN INVITÉ)",
+      "title": "POPCORN AVEC SEB, CHARLIE DANGER & ZACK NANI (ANTOINE DE MAXIMY EN INVITÉ)",
       "canceled_until": null,
       "category": {
         "id": "417752",
@@ -225,30 +249,6 @@
       "category": {
         "id": "1869092879",
         "name": "FIFA 22"
-      },
-      "is_recurring": true
-    },
-    {
-      "id": "eyJzZWdtZW50SUQiOiI1MTgwMTJiYi0yNTdjLTRlNGItYjE3Mi1mM2EwNTA5ZjEzODIiLCJpc29ZZWFyIjoyMDIyLCJpc29XZWVrIjoyfQ==",
-      "start_time": "2022-01-11T19:00:00Z",
-      "end_time": "2022-01-11T21:15:00Z",
-      "title": "POPCORN AVEC BEN NÉVERT, MAGHLA & PONCE (GEORGIO EN INVITÉ)",
-      "canceled_until": null,
-      "category": {
-        "id": "417752",
-        "name": "Talk Shows & Podcasts"
-      },
-      "is_recurring": true
-    },
-    {
-      "id": "eyJzZWdtZW50SUQiOiIwZTg0NzM0Yi00YjU1LTQyOGUtODlkOC0yYWY2ZmU1ZGMyNmYiLCJpc29ZZWFyIjoyMDIyLCJpc29XZWVrIjoyfQ==",
-      "start_time": "2022-01-12T16:30:00Z",
-      "end_time": "2022-01-12T17:30:00Z",
-      "title": "PRÉ-LIVE",
-      "canceled_until": null,
-      "category": {
-        "id": "509658",
-        "name": "Just Chatting"
       },
       "is_recurring": true
     }
