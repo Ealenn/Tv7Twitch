@@ -8,34 +8,10 @@
     "description": "On se tape des immenses barres.",
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/125bbc49-45d1-432c-92b3-f5aef1e7ab21-profile_image-300x300.png",
     "offline_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/62c1d623-37e8-4a86-9a1c-566e94479204-channel_offline_image-1920x1080.png",
-    "view_count": 52270211,
+    "view_count": 52321356,
     "created_at": "2013-10-24T19:04:45Z"
   },
   "schedulers": [
-    {
-      "id": "eyJzZWdtZW50SUQiOiJhYzQ1NDgxMy1mZDNjLTRiZDEtYThlNy0zZjMyMGYyODliYzEiLCJpc29ZZWFyIjoyMDIxLCJpc29XZWVrIjo1MH0=",
-      "start_time": "2021-12-17T10:00:00Z",
-      "end_time": "2021-12-17T14:30:00Z",
-      "title": "Mario Party avé les Copings! (12h)",
-      "canceled_until": null,
-      "category": {
-        "id": "1068239917",
-        "name": "Mario Party Superstars"
-      },
-      "is_recurring": true
-    },
-    {
-      "id": "eyJzZWdtZW50SUQiOiI3OWRmN2FmOS0zYTk3LTRjYzgtODQ3YS1lYmE5MzcyNThjZTciLCJpc29ZZWFyIjoyMDIxLCJpc29XZWVrIjo1MH0=",
-      "start_time": "2021-12-17T14:30:00Z",
-      "end_time": "2021-12-17T18:00:00Z",
-      "title": "Stream Libre",
-      "canceled_until": null,
-      "category": {
-        "id": "509658",
-        "name": "Just Chatting"
-      },
-      "is_recurring": true
-    },
     {
       "id": "eyJzZWdtZW50SUQiOiJhNmYxZWFjOC1kNTJmLTQ0OGItYjg1NS0xYWU3NTZhMzYyZTciLCJpc29ZZWFyIjoyMDIxLCJpc29XZWVrIjo1MH0=",
       "start_time": "2021-12-19T12:00:00Z",
@@ -249,6 +225,30 @@
       "category": {
         "id": "504461",
         "name": "Super Smash Bros. Ultimate"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiJhYzQ1NDgxMy1mZDNjLTRiZDEtYThlNy0zZjMyMGYyODliYzEiLCJpc29ZZWFyIjoyMDIxLCJpc29XZWVrIjo1Mn0=",
+      "start_time": "2021-12-31T10:00:00Z",
+      "end_time": "2021-12-31T14:30:00Z",
+      "title": "Mario Party avé les Copings! (12h)",
+      "canceled_until": null,
+      "category": {
+        "id": "1068239917",
+        "name": "Mario Party Superstars"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiI3OWRmN2FmOS0zYTk3LTRjYzgtODQ3YS1lYmE5MzcyNThjZTciLCJpc29ZZWFyIjoyMDIxLCJpc29XZWVrIjo1Mn0=",
+      "start_time": "2021-12-31T14:30:00Z",
+      "end_time": "2021-12-31T18:00:00Z",
+      "title": "Stream Libre",
+      "canceled_until": null,
+      "category": {
+        "id": "509658",
+        "name": "Just Chatting"
       },
       "is_recurring": true
     }
