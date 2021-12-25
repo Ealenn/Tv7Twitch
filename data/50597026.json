@@ -8,34 +8,10 @@
     "description": "On se tape des immenses barres.",
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/125bbc49-45d1-432c-92b3-f5aef1e7ab21-profile_image-300x300.png",
     "offline_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/62c1d623-37e8-4a86-9a1c-566e94479204-channel_offline_image-1920x1080.png",
-    "view_count": 52719188,
+    "view_count": 52840772,
     "created_at": "2013-10-24T19:04:45Z"
   },
   "schedulers": [
-    {
-      "id": "eyJzZWdtZW50SUQiOiI3OWRmN2FmOS0zYTk3LTRjYzgtODQ3YS1lYmE5MzcyNThjZTciLCJpc29ZZWFyIjoyMDIxLCJpc29XZWVrIjo1MX0=",
-      "start_time": "2021-12-24T10:00:00Z",
-      "end_time": "2021-12-24T17:00:00Z",
-      "title": "Stream Libre",
-      "canceled_until": null,
-      "category": {
-        "id": "509658",
-        "name": "Just Chatting"
-      },
-      "is_recurring": true
-    },
-    {
-      "id": "eyJzZWdtZW50SUQiOiI1OTBiYzZjNC05Yzg5LTQ5YjYtYTYyZC05NGExMTAyMzFhNGYiLCJpc29ZZWFyIjoyMDIxLCJpc29XZWVrIjo1MX0=",
-      "start_time": "2021-12-24T19:00:00Z",
-      "end_time": "2021-12-24T23:00:00Z",
-      "title": "Stream Libre du reveillon",
-      "canceled_until": null,
-      "category": {
-        "id": "509658",
-        "name": "Just Chatting"
-      },
-      "is_recurring": true
-    },
     {
       "id": "eyJzZWdtZW50SUQiOiJmZWIyMjA4Ny1jOTdjLTRiZWYtOWI1Zi1hMzExMTg3NGQ0YTEiLCJpc29ZZWFyIjoyMDIxLCJpc29XZWVrIjo1Mn0=",
       "start_time": "2021-12-27T10:00:00Z",
@@ -249,6 +225,30 @@
       "category": {
         "id": "509658",
         "name": "Just Chatting"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiJmZWIyMjA4Ny1jOTdjLTRiZWYtOWI1Zi1hMzExMTg3NGQ0YTEiLCJpc29ZZWFyIjoyMDIyLCJpc29XZWVrIjoyfQ==",
+      "start_time": "2022-01-10T10:00:00Z",
+      "end_time": "2022-01-10T17:00:00Z",
+      "title": "Maitre des Fleurs",
+      "canceled_until": null,
+      "category": {
+        "id": "338715930",
+        "name": "Maitre des Fleurs"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiJmZjU0MDc3Mi1iMGNkLTQ1MWItODRiMC0wZGQwYTkxNDAwNWQiLCJpc29ZZWFyIjoyMDIyLCJpc29XZWVrIjoyfQ==",
+      "start_time": "2022-01-11T10:00:00Z",
+      "end_time": "2022-01-11T16:30:00Z",
+      "title": "Pokemon Pearl: ça chasse",
+      "canceled_until": null,
+      "category": {
+        "id": "1584745140",
+        "name": "Pokémon Brilliant Diamond/Shining Pearl"
       },
       "is_recurring": true
     }
