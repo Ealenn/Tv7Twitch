@@ -8,22 +8,10 @@
     "description": "Coucou c'est moi !",
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/3cdae7df-600c-4833-8dfe-8d2abc5a3b25-profile_image-300x300.png",
     "offline_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/73ae6aa6-d952-4a54-9a53-c3e439d0b959-channel_offline_image-1920x1080.png",
-    "view_count": 115016574,
+    "view_count": 115019797,
     "created_at": "2013-02-05T19:20:22Z"
   },
   "schedulers": [
-    {
-      "id": "eyJzZWdtZW50SUQiOiIwZTg0NzM0Yi00YjU1LTQyOGUtODlkOC0yYWY2ZmU1ZGMyNmYiLCJpc29ZZWFyIjoyMDIxLCJpc29XZWVrIjo1Mn0=",
-      "start_time": "2021-12-29T16:30:00Z",
-      "end_time": "2021-12-29T17:30:00Z",
-      "title": "PRÉ-LIVE",
-      "canceled_until": null,
-      "category": {
-        "id": "509658",
-        "name": "Just Chatting"
-      },
-      "is_recurring": true
-    },
     {
       "id": "eyJzZWdtZW50SUQiOiIzYjQzYjk3Ny1mMTljLTRmNTQtOTBjOS1lMzlmM2Y5NTgwYjQiLCJpc29ZZWFyIjoyMDIyLCJpc29XZWVrIjoxfQ==",
       "start_time": "2022-01-03T18:30:00Z",
@@ -249,6 +237,18 @@
       "category": {
         "id": "417752",
         "name": "Talk Shows & Podcasts"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiIwZTg0NzM0Yi00YjU1LTQyOGUtODlkOC0yYWY2ZmU1ZGMyNmYiLCJpc29ZZWFyIjoyMDIyLCJpc29XZWVrIjo1fQ==",
+      "start_time": "2022-02-02T16:30:00Z",
+      "end_time": "2022-02-02T17:30:00Z",
+      "title": "PRÉ-LIVE",
+      "canceled_until": null,
+      "category": {
+        "id": "509658",
+        "name": "Just Chatting"
       },
       "is_recurring": true
     }
