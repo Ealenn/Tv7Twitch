@@ -8,22 +8,10 @@
     "description": "On se tape des immenses barres.",
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/125bbc49-45d1-432c-92b3-f5aef1e7ab21-profile_image-300x300.png",
     "offline_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/62c1d623-37e8-4a86-9a1c-566e94479204-channel_offline_image-1920x1080.png",
-    "view_count": 52991993,
+    "view_count": 53087912,
     "created_at": "2013-10-24T19:04:45Z"
   },
   "schedulers": [
-    {
-      "id": "eyJzZWdtZW50SUQiOiJmZjU0MDc3Mi1iMGNkLTQ1MWItODRiMC0wZGQwYTkxNDAwNWQiLCJpc29ZZWFyIjoyMDIyLCJpc29XZWVrIjoxfQ==",
-      "start_time": "2022-01-04T10:00:00Z",
-      "end_time": "2022-01-04T16:30:00Z",
-      "title": "Pokemon Pearl: ça chasse",
-      "canceled_until": null,
-      "category": {
-        "id": "1584745140",
-        "name": "Pokémon Brilliant Diamond/Shining Pearl"
-      },
-      "is_recurring": true
-    },
     {
       "id": "eyJzZWdtZW50SUQiOiIzNDNlYzA0Mi1hOGQwLTQ2MjYtYjVkOS1mMGU0MzI4MGU4MmYiLCJpc29ZZWFyIjoyMDIyLCJpc29XZWVrIjoxfQ==",
       "start_time": "2022-01-05T10:00:00Z",
@@ -249,6 +237,18 @@
       "category": {
         "id": "338715930",
         "name": "Maitre des Fleurs"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiIxOGQ5MWNmZS02ZTBhLTQ3YTEtOWY3Zi0wZmU3ODk3ZTEzNjMiLCJpc29ZZWFyIjoyMDIyLCJpc29XZWVrIjozfQ==",
+      "start_time": "2022-01-17T19:30:00Z",
+      "end_time": "2022-01-17T23:30:00Z",
+      "title": "On fait ce qu'on veut - Stream Libre",
+      "canceled_until": null,
+      "category": {
+        "id": "509658",
+        "name": "Just Chatting"
       },
       "is_recurring": true
     }
