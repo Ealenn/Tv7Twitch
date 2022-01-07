@@ -8,34 +8,10 @@
     "description": "On se tape des immenses barres.",
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/125bbc49-45d1-432c-92b3-f5aef1e7ab21-profile_image-300x300.png",
     "offline_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/62c1d623-37e8-4a86-9a1c-566e94479204-channel_offline_image-1920x1080.png",
-    "view_count": 53163198,
+    "view_count": 53269185,
     "created_at": "2013-10-24T19:04:45Z"
   },
   "schedulers": [
-    {
-      "id": "eyJzZWdtZW50SUQiOiI0M2Q1ZTk1Mi03ZjllLTQ5NjQtYjkwMC1mNWIwNDI3NzJhMTAiLCJpc29ZZWFyIjoyMDIyLCJpc29XZWVrIjoxfQ==",
-      "start_time": "2022-01-06T10:00:00Z",
-      "end_time": "2022-01-06T13:00:00Z",
-      "title": "Des pokemons et des cartes",
-      "canceled_until": null,
-      "category": {
-        "id": "32634",
-        "name": "Pokémon Trading Card Game Online"
-      },
-      "is_recurring": true
-    },
-    {
-      "id": "eyJzZWdtZW50SUQiOiI2MThiYTc4NS0zNWE1LTQxYjEtOGU3MC02YTQ4ZTM0MDgxNjEiLCJpc29ZZWFyIjoyMDIyLCJpc29XZWVrIjoxfQ==",
-      "start_time": "2022-01-06T13:00:00Z",
-      "end_time": "2022-01-06T17:00:00Z",
-      "title": "On cherche et on trouve Ponyta !",
-      "canceled_until": null,
-      "category": {
-        "id": "1584745140",
-        "name": "Pokémon Brilliant Diamond/Shining Pearl"
-      },
-      "is_recurring": true
-    },
     {
       "id": "eyJzZWdtZW50SUQiOiIwNjJjNjZlNi05MDhjLTRlZDctYWZiMS1kMzFhYTVhMDA1NTAiLCJpc29ZZWFyIjoyMDIyLCJpc29XZWVrIjoxfQ==",
       "start_time": "2022-01-07T10:00:00Z",
@@ -249,6 +225,30 @@
       "category": {
         "id": "110758",
         "name": "The Legend of Zelda: Breath of the Wild"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiJkOTk1NmExNS1kNjkxLTQ2ZTEtYmNiNS1hMTcwNWI0ZjBkZjciLCJpc29ZZWFyIjoyMDIyLCJpc29XZWVrIjozfQ==",
+      "start_time": "2022-01-19T15:30:00Z",
+      "end_time": "2022-01-19T17:30:00Z",
+      "title": "P'tit fight entre copains",
+      "canceled_until": null,
+      "category": {
+        "id": "504461",
+        "name": "Super Smash Bros. Ultimate"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiI0M2Q1ZTk1Mi03ZjllLTQ5NjQtYjkwMC1mNWIwNDI3NzJhMTAiLCJpc29ZZWFyIjoyMDIyLCJpc29XZWVrIjozfQ==",
+      "start_time": "2022-01-20T10:00:00Z",
+      "end_time": "2022-01-20T13:00:00Z",
+      "title": "Des pokemons et des cartes",
+      "canceled_until": null,
+      "category": {
+        "id": "32634",
+        "name": "Pokémon Trading Card Game Online"
       },
       "is_recurring": true
     }
