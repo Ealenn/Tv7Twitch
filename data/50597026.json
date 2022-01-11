@@ -8,34 +8,10 @@
     "description": "On se tape des immenses barres.",
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/125bbc49-45d1-432c-92b3-f5aef1e7ab21-profile_image-300x300.png",
     "offline_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/62c1d623-37e8-4a86-9a1c-566e94479204-channel_offline_image-1920x1080.png",
-    "view_count": 53467379,
+    "view_count": 53574541,
     "created_at": "2013-10-24T19:04:45Z"
   },
   "schedulers": [
-    {
-      "id": "eyJzZWdtZW50SUQiOiJmZWIyMjA4Ny1jOTdjLTRiZWYtOWI1Zi1hMzExMTg3NGQ0YTEiLCJpc29ZZWFyIjoyMDIyLCJpc29XZWVrIjoyfQ==",
-      "start_time": "2022-01-10T10:00:00Z",
-      "end_time": "2022-01-10T17:00:00Z",
-      "title": "Maitre des Fleurs",
-      "canceled_until": null,
-      "category": {
-        "id": "338715930",
-        "name": "Maitre des Fleurs"
-      },
-      "is_recurring": true
-    },
-    {
-      "id": "eyJzZWdtZW50SUQiOiIxOGQ5MWNmZS02ZTBhLTQ3YTEtOWY3Zi0wZmU3ODk3ZTEzNjMiLCJpc29ZZWFyIjoyMDIyLCJpc29XZWVrIjoyfQ==",
-      "start_time": "2022-01-10T19:30:00Z",
-      "end_time": "2022-01-10T23:30:00Z",
-      "title": "On fait ce qu'on veut - Stream Libre",
-      "canceled_until": null,
-      "category": {
-        "id": "509658",
-        "name": "Just Chatting"
-      },
-      "is_recurring": true
-    },
     {
       "id": "eyJzZWdtZW50SUQiOiJmZjU0MDc3Mi1iMGNkLTQ1MWItODRiMC0wZGQwYTkxNDAwNWQiLCJpc29ZZWFyIjoyMDIyLCJpc29XZWVrIjoyfQ==",
       "start_time": "2022-01-11T10:00:00Z",
@@ -45,6 +21,18 @@
       "category": {
         "id": "1584745140",
         "name": "Pokémon Brilliant Diamond/Shining Pearl"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiJiMjBhNzk3NS03NzhhLTQzZjgtODk0YS1jYmJmOTEyNzQ4ZDIiLCJpc29ZZWFyIjoyMDIyLCJpc29XZWVrIjoyfQ==",
+      "start_time": "2022-01-11T19:00:00Z",
+      "end_time": "2022-01-11T21:00:00Z",
+      "title": "Retour de Popcorn (chaine de Domingo)",
+      "canceled_until": null,
+      "category": {
+        "id": "417752",
+        "name": "Talk Shows & Podcasts"
       },
       "is_recurring": true
     },
@@ -75,8 +63,20 @@
     {
       "id": "eyJzZWdtZW50SUQiOiI0M2Q1ZTk1Mi03ZjllLTQ5NjQtYjkwMC1mNWIwNDI3NzJhMTAiLCJpc29ZZWFyIjoyMDIyLCJpc29XZWVrIjoyfQ==",
       "start_time": "2022-01-13T10:00:00Z",
-      "end_time": "2022-01-13T13:00:00Z",
-      "title": "Des pokemons et des cartes",
+      "end_time": "2022-01-13T17:00:00Z",
+      "title": "Un p'tit cham ? (DLC Outer Wilds)",
+      "canceled_until": null,
+      "category": {
+        "id": "489335",
+        "name": "Outer Wilds"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiIwNjJjNjZlNi05MDhjLTRlZDctYWZiMS1kMzFhYTVhMDA1NTAiLCJpc29ZZWFyIjoyMDIyLCJpc29XZWVrIjoyfQ==",
+      "start_time": "2022-01-14T10:00:00Z",
+      "end_time": "2022-01-14T12:00:00Z",
+      "title": "Des pokémons et des cartes",
       "canceled_until": null,
       "category": {
         "id": "32634",
@@ -85,38 +85,26 @@
       "is_recurring": true
     },
     {
-      "id": "eyJzZWdtZW50SUQiOiI2MThiYTc4NS0zNWE1LTQxYjEtOGU3MC02YTQ4ZTM0MDgxNjEiLCJpc29ZZWFyIjoyMDIyLCJpc29XZWVrIjoyfQ==",
-      "start_time": "2022-01-13T13:00:00Z",
-      "end_time": "2022-01-13T17:00:00Z",
-      "title": "On cherche et on trouve Ponyta !",
-      "canceled_until": null,
-      "category": {
-        "id": "1584745140",
-        "name": "Pokémon Brilliant Diamond/Shining Pearl"
-      },
-      "is_recurring": true
-    },
-    {
-      "id": "eyJzZWdtZW50SUQiOiIwNjJjNjZlNi05MDhjLTRlZDctYWZiMS1kMzFhYTVhMDA1NTAiLCJpc29ZZWFyIjoyMDIyLCJpc29XZWVrIjoyfQ==",
-      "start_time": "2022-01-14T10:00:00Z",
-      "end_time": "2022-01-14T13:00:00Z",
-      "title": "ça chasse",
-      "canceled_until": null,
-      "category": {
-        "id": "1584745140",
-        "name": "Pokémon Brilliant Diamond/Shining Pearl"
-      },
-      "is_recurring": true
-    },
-    {
       "id": "eyJzZWdtZW50SUQiOiIzMWIzZDc1My02MTc3LTRiNjYtODc0MC03NjgyYWIxYTRmNWUiLCJpc29ZZWFyIjoyMDIyLCJpc29XZWVrIjoyfQ==",
-      "start_time": "2022-01-14T13:00:00Z",
-      "end_time": "2022-01-14T17:00:00Z",
-      "title": "Mario Party entre ami",
+      "start_time": "2022-01-14T12:00:00Z",
+      "end_time": "2022-01-14T15:00:00Z",
+      "title": "Mario Party avec Riv, Ultia et Onutrem",
       "canceled_until": null,
       "category": {
         "id": "1068239917",
         "name": "Mario Party Superstars"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiJjMWUwMzU2Ni0zZGM3LTQ0ZWItODFmZC03ZDlmYTlhNWEyZTYiLCJpc29ZZWFyIjoyMDIyLCJpc29XZWVrIjoyfQ==",
+      "start_time": "2022-01-14T15:00:00Z",
+      "end_time": "2022-01-14T17:00:00Z",
+      "title": "P'tit fight entre copains",
+      "canceled_until": null,
+      "category": {
+        "id": "504461",
+        "name": "Super Smash Bros. Ultimate"
       },
       "is_recurring": true
     },
@@ -148,11 +136,11 @@
       "id": "eyJzZWdtZW50SUQiOiIxOGQ5MWNmZS02ZTBhLTQ3YTEtOWY3Zi0wZmU3ODk3ZTEzNjMiLCJpc29ZZWFyIjoyMDIyLCJpc29XZWVrIjozfQ==",
       "start_time": "2022-01-17T19:30:00Z",
       "end_time": "2022-01-17T23:30:00Z",
-      "title": "On fait ce qu'on veut - Stream Libre",
+      "title": "P'tit Propnight avec les copains",
       "canceled_until": null,
       "category": {
-        "id": "509658",
-        "name": "Just Chatting"
+        "id": "1342987707",
+        "name": "Propnight"
       },
       "is_recurring": true
     },
@@ -165,6 +153,18 @@
       "category": {
         "id": "1584745140",
         "name": "Pokémon Brilliant Diamond/Shining Pearl"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiJiMjBhNzk3NS03NzhhLTQzZjgtODk0YS1jYmJmOTEyNzQ4ZDIiLCJpc29ZZWFyIjoyMDIyLCJpc29XZWVrIjozfQ==",
+      "start_time": "2022-01-18T19:00:00Z",
+      "end_time": "2022-01-18T21:00:00Z",
+      "title": "Retour de Popcorn (chaine de Domingo)",
+      "canceled_until": null,
+      "category": {
+        "id": "417752",
+        "name": "Talk Shows & Podcasts"
       },
       "is_recurring": true
     },
@@ -195,8 +195,20 @@
     {
       "id": "eyJzZWdtZW50SUQiOiI0M2Q1ZTk1Mi03ZjllLTQ5NjQtYjkwMC1mNWIwNDI3NzJhMTAiLCJpc29ZZWFyIjoyMDIyLCJpc29XZWVrIjozfQ==",
       "start_time": "2022-01-20T10:00:00Z",
-      "end_time": "2022-01-20T13:00:00Z",
-      "title": "Des pokemons et des cartes",
+      "end_time": "2022-01-20T17:00:00Z",
+      "title": "Un p'tit cham ? (DLC Outer Wilds)",
+      "canceled_until": null,
+      "category": {
+        "id": "489335",
+        "name": "Outer Wilds"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiIwNjJjNjZlNi05MDhjLTRlZDctYWZiMS1kMzFhYTVhMDA1NTAiLCJpc29ZZWFyIjoyMDIyLCJpc29XZWVrIjozfQ==",
+      "start_time": "2022-01-21T10:00:00Z",
+      "end_time": "2022-01-21T12:00:00Z",
+      "title": "Des pokémons et des cartes",
       "canceled_until": null,
       "category": {
         "id": "32634",
@@ -205,38 +217,26 @@
       "is_recurring": true
     },
     {
-      "id": "eyJzZWdtZW50SUQiOiI2MThiYTc4NS0zNWE1LTQxYjEtOGU3MC02YTQ4ZTM0MDgxNjEiLCJpc29ZZWFyIjoyMDIyLCJpc29XZWVrIjozfQ==",
-      "start_time": "2022-01-20T13:00:00Z",
-      "end_time": "2022-01-20T17:00:00Z",
-      "title": "On cherche et on trouve Ponyta !",
-      "canceled_until": null,
-      "category": {
-        "id": "1584745140",
-        "name": "Pokémon Brilliant Diamond/Shining Pearl"
-      },
-      "is_recurring": true
-    },
-    {
-      "id": "eyJzZWdtZW50SUQiOiIwNjJjNjZlNi05MDhjLTRlZDctYWZiMS1kMzFhYTVhMDA1NTAiLCJpc29ZZWFyIjoyMDIyLCJpc29XZWVrIjozfQ==",
-      "start_time": "2022-01-21T10:00:00Z",
-      "end_time": "2022-01-21T13:00:00Z",
-      "title": "ça chasse",
-      "canceled_until": null,
-      "category": {
-        "id": "1584745140",
-        "name": "Pokémon Brilliant Diamond/Shining Pearl"
-      },
-      "is_recurring": true
-    },
-    {
       "id": "eyJzZWdtZW50SUQiOiIzMWIzZDc1My02MTc3LTRiNjYtODc0MC03NjgyYWIxYTRmNWUiLCJpc29ZZWFyIjoyMDIyLCJpc29XZWVrIjozfQ==",
-      "start_time": "2022-01-21T13:00:00Z",
-      "end_time": "2022-01-21T17:00:00Z",
-      "title": "Mario Party entre ami",
+      "start_time": "2022-01-21T12:00:00Z",
+      "end_time": "2022-01-21T15:00:00Z",
+      "title": "Mario Party avec Riv, Ultia et Onutrem",
       "canceled_until": null,
       "category": {
         "id": "1068239917",
         "name": "Mario Party Superstars"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiJjMWUwMzU2Ni0zZGM3LTQ0ZWItODFmZC03ZDlmYTlhNWEyZTYiLCJpc29ZZWFyIjoyMDIyLCJpc29XZWVrIjozfQ==",
+      "start_time": "2022-01-21T15:00:00Z",
+      "end_time": "2022-01-21T17:00:00Z",
+      "title": "P'tit fight entre copains",
+      "canceled_until": null,
+      "category": {
+        "id": "504461",
+        "name": "Super Smash Bros. Ultimate"
       },
       "is_recurring": true
     },
