@@ -1,0 +1,40 @@
+{
+  "channel": {
+    "id": "114549728",
+    "login": "ted_fr",
+    "display_name": "TED_fr",
+    "type": "",
+    "broadcaster_type": "partner",
+    "description": "",
+    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/c6bc96fe-198a-4559-9ee3-fa37e7be98cb-profile_image-300x300.png",
+    "offline_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/4f719a42-f20f-4534-b8a3-ae0f980e4776-channel_offline_image-1920x1080.jpeg",
+    "view_count": 606296,
+    "created_at": "2016-02-01T18:54:21Z"
+  },
+  "schedulers": [
+    {
+      "id": "eyJzZWdtZW50SUQiOiJkZTY0YjJhNy02NDUzLTQ3OWItOTBmZC02MzBlMWUyM2VlMmEiLCJpc29ZZWFyIjoyMDIyLCJpc29XZWVrIjoyfQ==",
+      "start_time": "2022-01-13T10:00:00Z",
+      "end_time": "2022-01-13T13:00:00Z",
+      "title": "Stream de la rentrée",
+      "canceled_until": null,
+      "category": {
+        "id": "509658",
+        "name": "Just Chatting"
+      },
+      "is_recurring": false
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiJhZDAzMDAyMS03ZWQ1LTQwYTgtYWU1NS02ZWYxOTRiNjMyYzAiLCJpc29ZZWFyIjoyMDIyLCJpc29XZWVrIjoyfQ==",
+      "start_time": "2022-01-14T10:00:00Z",
+      "end_time": "2022-01-14T13:00:00Z",
+      "title": "Découverte The Witcher 3",
+      "canceled_until": null,
+      "category": {
+        "id": "115977",
+        "name": "The Witcher 3: Wild Hunt"
+      },
+      "is_recurring": false
+    }
+  ]
+}
