@@ -8,58 +8,10 @@
     "description": "Coucou c'est moi !",
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/3cdae7df-600c-4833-8dfe-8d2abc5a3b25-profile_image-300x300.png",
     "offline_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/51d48b1d-33c8-4964-be79-df91a301efe9-channel_offline_image-1920x1080.png",
-    "view_count": 115710683,
+    "view_count": 115817552,
     "created_at": "2013-02-05T19:20:22Z"
   },
   "schedulers": [
-    {
-      "id": "eyJzZWdtZW50SUQiOiIwMmVhYzVlMi0yN2I3LTQ0ZGQtOGJmOC1lYWRjODgwOTQ2YzUiLCJpc29ZZWFyIjoyMDIyLCJpc29XZWVrIjoyfQ==",
-      "start_time": "2022-01-14T13:00:00Z",
-      "end_time": "2022-01-14T14:00:00Z",
-      "title": "PRÉ-LIVE",
-      "canceled_until": null,
-      "category": {
-        "id": "509658",
-        "name": "Just Chatting"
-      },
-      "is_recurring": false
-    },
-    {
-      "id": "eyJzZWdtZW50SUQiOiJiOGYxZjFkYS02ODRhLTRkZjctODA0Yy0yNTIyN2QyNjJlM2YiLCJpc29ZZWFyIjoyMDIyLCJpc29XZWVrIjoyfQ==",
-      "start_time": "2022-01-14T14:00:00Z",
-      "end_time": "2022-01-14T16:00:00Z",
-      "title": "Clash Royale",
-      "canceled_until": null,
-      "category": {
-        "id": "491168",
-        "name": "Clash Royale"
-      },
-      "is_recurring": false
-    },
-    {
-      "id": "eyJzZWdtZW50SUQiOiIzZTU0ZDM5NC04Njk5LTRjNGMtOTVmYS0yNDM1MTQ5ZWRlNzciLCJpc29ZZWFyIjoyMDIyLCJpc29XZWVrIjoyfQ==",
-      "start_time": "2022-01-14T16:00:00Z",
-      "end_time": "2022-01-14T18:00:00Z",
-      "title": "Teamfight Tactics",
-      "canceled_until": null,
-      "category": {
-        "id": "513143",
-        "name": "Teamfight Tactics"
-      },
-      "is_recurring": false
-    },
-    {
-      "id": "eyJzZWdtZW50SUQiOiIzNTFkZDYxYS0zZjRkLTQ0ODYtYTAzNS0xZjg1MzIwOTNlNTMiLCJpc29ZZWFyIjoyMDIyLCJpc29XZWVrIjoyfQ==",
-      "start_time": "2022-01-14T19:00:00Z",
-      "end_time": "2022-01-14T21:00:00Z",
-      "title": "Poker avec Gota & Doig",
-      "canceled_until": null,
-      "category": {
-        "id": "488190",
-        "name": "Poker"
-      },
-      "is_recurring": false
-    },
     {
       "id": "eyJzZWdtZW50SUQiOiIzYjQzYjk3Ny1mMTljLTRmNTQtOTBjOS1lMzlmM2Y5NTgwYjQiLCJpc29ZZWFyIjoyMDIyLCJpc29XZWVrIjozfQ==",
       "start_time": "2022-01-17T18:30:00Z",
@@ -249,6 +201,54 @@
       "category": {
         "id": "509658",
         "name": "Just Chatting"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiI1MTgwMTJiYi0yNTdjLTRlNGItYjE3Mi1mM2EwNTA5ZjEzODIiLCJpc29ZZWFyIjoyMDIyLCJpc29XZWVrIjo4fQ==",
+      "start_time": "2022-02-22T19:00:00Z",
+      "end_time": "2022-02-22T21:15:00Z",
+      "title": "POPCORN AVEC MARIE, PONCE & ZACK NANI (CHRONIQUE PPGARCIA & POPUP KCX)",
+      "canceled_until": null,
+      "category": {
+        "id": "417752",
+        "name": "Talk Shows & Podcasts"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiIwZTg0NzM0Yi00YjU1LTQyOGUtODlkOC0yYWY2ZmU1ZGMyNmYiLCJpc29ZZWFyIjoyMDIyLCJpc29XZWVrIjo4fQ==",
+      "start_time": "2022-02-23T18:00:00Z",
+      "end_time": "2022-02-23T19:00:00Z",
+      "title": "PRÉ-LIVE",
+      "canceled_until": null,
+      "category": {
+        "id": "509658",
+        "name": "Just Chatting"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiIzYjQzYjk3Ny1mMTljLTRmNTQtOTBjOS1lMzlmM2Y5NTgwYjQiLCJpc29ZZWFyIjoyMDIyLCJpc29XZWVrIjo5fQ==",
+      "start_time": "2022-02-28T18:30:00Z",
+      "end_time": "2022-02-28T20:00:00Z",
+      "title": "PRÉ-LIVE",
+      "canceled_until": null,
+      "category": {
+        "id": "509658",
+        "name": "Just Chatting"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiI1MTgwMTJiYi0yNTdjLTRlNGItYjE3Mi1mM2EwNTA5ZjEzODIiLCJpc29ZZWFyIjoyMDIyLCJpc29XZWVrIjo5fQ==",
+      "start_time": "2022-03-01T19:00:00Z",
+      "end_time": "2022-03-01T21:15:00Z",
+      "title": "POPCORN AVEC MARIE, PONCE & ZACK NANI (CHRONIQUE PPGARCIA & POPUP KCX)",
+      "canceled_until": null,
+      "category": {
+        "id": "417752",
+        "name": "Talk Shows & Podcasts"
       },
       "is_recurring": true
     }
