@@ -8,19 +8,10 @@
     "description": "Joueur passionné depuis tout petit, je vous partage mes délires, mes peines, ma rage et j'en passe. 🎮 Bon d'accord ... 😜 Accessoirement on discute et on se marre pas mal 😁 La détente, le fun et le partage avant tout 💪",
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/1884ddcb-2980-44f5-89cc-cd0aadbbc868-profile_image-300x300.png",
     "offline_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/f9e35304-894b-4f4c-87f1-17e0990a2e98-channel_offline_image-1920x1080.png",
-    "view_count": 4535,
+    "view_count": 4538,
     "created_at": "2015-05-17T10:03:05Z"
   },
   "schedulers": [
-    {
-      "id": "eyJzZWdtZW50SUQiOiJmN2Q5OGM1OC02OGEzLTRjYjEtYTE4ZS04MmMxYTc0MjliYmQiLCJpc29ZZWFyIjoyMDIyLCJpc29XZWVrIjoyfQ==",
-      "start_time": "2022-01-15T08:30:00Z",
-      "end_time": "2022-01-15T12:30:00Z",
-      "title": "La matinale",
-      "canceled_until": null,
-      "category": null,
-      "is_recurring": true
-    },
     {
       "id": "eyJzZWdtZW50SUQiOiJmN2Q5OGM1OC02OGEzLTRjYjEtYTE4ZS04MmMxYTc0MjliYmQiLCJpc29ZZWFyIjoyMDIyLCJpc29XZWVrIjozfQ==",
       "start_time": "2022-01-22T08:30:00Z",
@@ -187,6 +178,15 @@
       "id": "eyJzZWdtZW50SUQiOiJmN2Q5OGM1OC02OGEzLTRjYjEtYTE4ZS04MmMxYTc0MjliYmQiLCJpc29ZZWFyIjoyMDIyLCJpc29XZWVrIjoyMX0=",
       "start_time": "2022-05-28T07:30:00Z",
       "end_time": "2022-05-28T11:30:00Z",
+      "title": "La matinale",
+      "canceled_until": null,
+      "category": null,
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiJmN2Q5OGM1OC02OGEzLTRjYjEtYTE4ZS04MmMxYTc0MjliYmQiLCJpc29ZZWFyIjoyMDIyLCJpc29XZWVrIjoyMn0=",
+      "start_time": "2022-06-04T07:30:00Z",
+      "end_time": "2022-06-04T11:30:00Z",
       "title": "La matinale",
       "canceled_until": null,
       "category": null,
