@@ -7,28 +7,16 @@
     "broadcaster_type": "partner",
     "description": "Coucou c'est moi !",
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/3cdae7df-600c-4833-8dfe-8d2abc5a3b25-profile_image-300x300.png",
-    "offline_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/51d48b1d-33c8-4964-be79-df91a301efe9-channel_offline_image-1920x1080.png",
-    "view_count": 115865386,
+    "offline_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/53ec7a30-4b59-45f0-8ede-6b5b33788fd9-channel_offline_image-1920x1080.png",
+    "view_count": 115978382,
     "created_at": "2013-02-05T19:20:22Z"
   },
   "schedulers": [
     {
-      "id": "eyJzZWdtZW50SUQiOiIzYjQzYjk3Ny1mMTljLTRmNTQtOTBjOS1lMzlmM2Y5NTgwYjQiLCJpc29ZZWFyIjoyMDIyLCJpc29XZWVrIjozfQ==",
-      "start_time": "2022-01-17T18:30:00Z",
-      "end_time": "2022-01-17T20:00:00Z",
-      "title": "PRÉ-LIVE",
-      "canceled_until": null,
-      "category": {
-        "id": "509658",
-        "name": "Just Chatting"
-      },
-      "is_recurring": true
-    },
-    {
       "id": "eyJzZWdtZW50SUQiOiI1MTgwMTJiYi0yNTdjLTRlNGItYjE3Mi1mM2EwNTA5ZjEzODIiLCJpc29ZZWFyIjoyMDIyLCJpc29XZWVrIjozfQ==",
       "start_time": "2022-01-18T19:00:00Z",
       "end_time": "2022-01-18T21:15:00Z",
-      "title": "POPCORN AVEC MARIE, PONCE & ZACK NANI (CHRONIQUE PPGARCIA & POPUP KCX)",
+      "title": "POPCORN AVEC LUJIPEKA, MARIE & PONCE",
       "canceled_until": null,
       "category": {
         "id": "417752",
@@ -49,9 +37,75 @@
       "is_recurring": true
     },
     {
+      "id": "eyJzZWdtZW50SUQiOiI1NjM3N2VmZC02YTE5LTRiNGQtYTZjMy0yNGVlMGE0MjZmMWEiLCJpc29ZZWFyIjoyMDIyLCJpc29XZWVrIjozfQ==",
+      "start_time": "2022-01-19T19:00:00Z",
+      "end_time": "2022-01-19T21:00:00Z",
+      "title": "RAINBOW 6 EXTRACTION AVEC LOWAN & ZACK",
+      "canceled_until": null,
+      "category": {
+        "id": "460630",
+        "name": "Tom Clancy's Rainbow Six Siege"
+      },
+      "is_recurring": false
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiIxZjIwOWY0YS0xNTEyLTRhYTEtOGM5Yy1iNWRkZmM5NTI2NWYiLCJpc29ZZWFyIjoyMDIyLCJpc29XZWVrIjozfQ==",
+      "start_time": "2022-01-19T21:00:00Z",
+      "end_time": "2022-01-19T23:00:00Z",
+      "title": "REACT",
+      "canceled_until": null,
+      "category": {
+        "id": "509658",
+        "name": "Just Chatting"
+      },
+      "is_recurring": false
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiJlODc2ODg5My0xOTcwLTRmYzktYWEzMi1hNDVjNzYyZDBjMjAiLCJpc29ZZWFyIjoyMDIyLCJpc29XZWVrIjozfQ==",
+      "start_time": "2022-01-20T13:00:00Z",
+      "end_time": "2022-01-20T14:00:00Z",
+      "title": "PRÉ-LIVE",
+      "canceled_until": null,
+      "category": {
+        "id": "509658",
+        "name": "Just Chatting"
+      },
+      "is_recurring": false
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiI1MmY0ZmU5NC1hNzc0LTQzMjYtODAzOC0zYmU2NDI1NGQzMjIiLCJpc29ZZWFyIjoyMDIyLCJpc29XZWVrIjozfQ==",
+      "start_time": "2022-01-20T14:00:00Z",
+      "end_time": "2022-01-20T18:00:00Z",
+      "title": "STREAM LIBRE",
+      "canceled_until": null,
+      "category": null,
+      "is_recurring": false
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiI2MGE5OWJiZS01NWVhLTQzZGMtODVkMy01MWExODBmZjViYzUiLCJpc29ZZWFyIjoyMDIyLCJpc29XZWVrIjozfQ==",
+      "start_time": "2022-01-21T13:00:00Z",
+      "end_time": "2022-01-21T16:00:00Z",
+      "title": "STREAM LIBRE",
+      "canceled_until": null,
+      "category": null,
+      "is_recurring": false
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiI4NWVmNjVhYi05N2NiLTQ1ZjctYTliNS0zMmFlNzEwNDFmZTEiLCJpc29ZZWFyIjoyMDIyLCJpc29XZWVrIjozfQ==",
+      "start_time": "2022-01-21T19:30:00Z",
+      "end_time": "2022-01-21T23:00:00Z",
+      "title": "QUOI DE NEUF DOCTEUR ? (sur twitch.tv/Drfeelgood)",
+      "canceled_until": null,
+      "category": {
+        "id": "509658",
+        "name": "Just Chatting"
+      },
+      "is_recurring": false
+    },
+    {
       "id": "eyJzZWdtZW50SUQiOiIzYjQzYjk3Ny1mMTljLTRmNTQtOTBjOS1lMzlmM2Y5NTgwYjQiLCJpc29ZZWFyIjoyMDIyLCJpc29XZWVrIjo0fQ==",
       "start_time": "2022-01-24T18:30:00Z",
-      "end_time": "2022-01-24T20:00:00Z",
+      "end_time": "2022-01-24T19:45:00Z",
       "title": "PRÉ-LIVE",
       "canceled_until": null,
       "category": {
@@ -64,7 +118,7 @@
       "id": "eyJzZWdtZW50SUQiOiI1MTgwMTJiYi0yNTdjLTRlNGItYjE3Mi1mM2EwNTA5ZjEzODIiLCJpc29ZZWFyIjoyMDIyLCJpc29XZWVrIjo0fQ==",
       "start_time": "2022-01-25T19:00:00Z",
       "end_time": "2022-01-25T21:15:00Z",
-      "title": "POPCORN AVEC MARIE, PONCE & ZACK NANI (CHRONIQUE PPGARCIA & POPUP KCX)",
+      "title": "POPCORN AVEC LUJIPEKA, MARIE & PONCE",
       "canceled_until": null,
       "category": {
         "id": "417752",
@@ -87,7 +141,7 @@
     {
       "id": "eyJzZWdtZW50SUQiOiIzYjQzYjk3Ny1mMTljLTRmNTQtOTBjOS1lMzlmM2Y5NTgwYjQiLCJpc29ZZWFyIjoyMDIyLCJpc29XZWVrIjo1fQ==",
       "start_time": "2022-01-31T18:30:00Z",
-      "end_time": "2022-01-31T20:00:00Z",
+      "end_time": "2022-01-31T19:45:00Z",
       "title": "PRÉ-LIVE",
       "canceled_until": null,
       "category": {
@@ -100,7 +154,7 @@
       "id": "eyJzZWdtZW50SUQiOiI1MTgwMTJiYi0yNTdjLTRlNGItYjE3Mi1mM2EwNTA5ZjEzODIiLCJpc29ZZWFyIjoyMDIyLCJpc29XZWVrIjo1fQ==",
       "start_time": "2022-02-01T19:00:00Z",
       "end_time": "2022-02-01T21:15:00Z",
-      "title": "POPCORN AVEC MARIE, PONCE & ZACK NANI (CHRONIQUE PPGARCIA & POPUP KCX)",
+      "title": "POPCORN AVEC LUJIPEKA, MARIE & PONCE",
       "canceled_until": null,
       "category": {
         "id": "417752",
@@ -123,7 +177,7 @@
     {
       "id": "eyJzZWdtZW50SUQiOiIzYjQzYjk3Ny1mMTljLTRmNTQtOTBjOS1lMzlmM2Y5NTgwYjQiLCJpc29ZZWFyIjoyMDIyLCJpc29XZWVrIjo2fQ==",
       "start_time": "2022-02-07T18:30:00Z",
-      "end_time": "2022-02-07T20:00:00Z",
+      "end_time": "2022-02-07T19:45:00Z",
       "title": "PRÉ-LIVE",
       "canceled_until": null,
       "category": {
@@ -136,7 +190,7 @@
       "id": "eyJzZWdtZW50SUQiOiI1MTgwMTJiYi0yNTdjLTRlNGItYjE3Mi1mM2EwNTA5ZjEzODIiLCJpc29ZZWFyIjoyMDIyLCJpc29XZWVrIjo2fQ==",
       "start_time": "2022-02-08T19:00:00Z",
       "end_time": "2022-02-08T21:15:00Z",
-      "title": "POPCORN AVEC MARIE, PONCE & ZACK NANI (CHRONIQUE PPGARCIA & POPUP KCX)",
+      "title": "POPCORN AVEC LUJIPEKA, MARIE & PONCE",
       "canceled_until": null,
       "category": {
         "id": "417752",
@@ -159,7 +213,7 @@
     {
       "id": "eyJzZWdtZW50SUQiOiIzYjQzYjk3Ny1mMTljLTRmNTQtOTBjOS1lMzlmM2Y5NTgwYjQiLCJpc29ZZWFyIjoyMDIyLCJpc29XZWVrIjo3fQ==",
       "start_time": "2022-02-14T18:30:00Z",
-      "end_time": "2022-02-14T20:00:00Z",
+      "end_time": "2022-02-14T19:45:00Z",
       "title": "PRÉ-LIVE",
       "canceled_until": null,
       "category": {
@@ -172,7 +226,7 @@
       "id": "eyJzZWdtZW50SUQiOiI1MTgwMTJiYi0yNTdjLTRlNGItYjE3Mi1mM2EwNTA5ZjEzODIiLCJpc29ZZWFyIjoyMDIyLCJpc29XZWVrIjo3fQ==",
       "start_time": "2022-02-15T19:00:00Z",
       "end_time": "2022-02-15T21:15:00Z",
-      "title": "POPCORN AVEC MARIE, PONCE & ZACK NANI (CHRONIQUE PPGARCIA & POPUP KCX)",
+      "title": "POPCORN AVEC LUJIPEKA, MARIE & PONCE",
       "canceled_until": null,
       "category": {
         "id": "417752",
@@ -189,66 +243,6 @@
       "category": {
         "id": "509658",
         "name": "Just Chatting"
-      },
-      "is_recurring": true
-    },
-    {
-      "id": "eyJzZWdtZW50SUQiOiIzYjQzYjk3Ny1mMTljLTRmNTQtOTBjOS1lMzlmM2Y5NTgwYjQiLCJpc29ZZWFyIjoyMDIyLCJpc29XZWVrIjo4fQ==",
-      "start_time": "2022-02-21T18:30:00Z",
-      "end_time": "2022-02-21T20:00:00Z",
-      "title": "PRÉ-LIVE",
-      "canceled_until": null,
-      "category": {
-        "id": "509658",
-        "name": "Just Chatting"
-      },
-      "is_recurring": true
-    },
-    {
-      "id": "eyJzZWdtZW50SUQiOiI1MTgwMTJiYi0yNTdjLTRlNGItYjE3Mi1mM2EwNTA5ZjEzODIiLCJpc29ZZWFyIjoyMDIyLCJpc29XZWVrIjo4fQ==",
-      "start_time": "2022-02-22T19:00:00Z",
-      "end_time": "2022-02-22T21:15:00Z",
-      "title": "POPCORN AVEC MARIE, PONCE & ZACK NANI (CHRONIQUE PPGARCIA & POPUP KCX)",
-      "canceled_until": null,
-      "category": {
-        "id": "417752",
-        "name": "Talk Shows & Podcasts"
-      },
-      "is_recurring": true
-    },
-    {
-      "id": "eyJzZWdtZW50SUQiOiIwZTg0NzM0Yi00YjU1LTQyOGUtODlkOC0yYWY2ZmU1ZGMyNmYiLCJpc29ZZWFyIjoyMDIyLCJpc29XZWVrIjo4fQ==",
-      "start_time": "2022-02-23T18:00:00Z",
-      "end_time": "2022-02-23T19:00:00Z",
-      "title": "PRÉ-LIVE",
-      "canceled_until": null,
-      "category": {
-        "id": "509658",
-        "name": "Just Chatting"
-      },
-      "is_recurring": true
-    },
-    {
-      "id": "eyJzZWdtZW50SUQiOiIzYjQzYjk3Ny1mMTljLTRmNTQtOTBjOS1lMzlmM2Y5NTgwYjQiLCJpc29ZZWFyIjoyMDIyLCJpc29XZWVrIjo5fQ==",
-      "start_time": "2022-02-28T18:30:00Z",
-      "end_time": "2022-02-28T20:00:00Z",
-      "title": "PRÉ-LIVE",
-      "canceled_until": null,
-      "category": {
-        "id": "509658",
-        "name": "Just Chatting"
-      },
-      "is_recurring": true
-    },
-    {
-      "id": "eyJzZWdtZW50SUQiOiI1MTgwMTJiYi0yNTdjLTRlNGItYjE3Mi1mM2EwNTA5ZjEzODIiLCJpc29ZZWFyIjoyMDIyLCJpc29XZWVrIjo5fQ==",
-      "start_time": "2022-03-01T19:00:00Z",
-      "end_time": "2022-03-01T21:15:00Z",
-      "title": "POPCORN AVEC MARIE, PONCE & ZACK NANI (CHRONIQUE PPGARCIA & POPUP KCX)",
-      "canceled_until": null,
-      "category": {
-        "id": "417752",
-        "name": "Talk Shows & Podcasts"
       },
       "is_recurring": true
     }

@@ -8,34 +8,10 @@
     "description": "On se tape des immenses barres.",
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/125bbc49-45d1-432c-92b3-f5aef1e7ab21-profile_image-300x300.png",
     "offline_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/62c1d623-37e8-4a86-9a1c-566e94479204-channel_offline_image-1920x1080.png",
-    "view_count": 53939187,
+    "view_count": 54061096,
     "created_at": "2013-10-24T19:04:45Z"
   },
   "schedulers": [
-    {
-      "id": "eyJzZWdtZW50SUQiOiJmZWIyMjA4Ny1jOTdjLTRiZWYtOWI1Zi1hMzExMTg3NGQ0YTEiLCJpc29ZZWFyIjoyMDIyLCJpc29XZWVrIjozfQ==",
-      "start_time": "2022-01-17T10:00:00Z",
-      "end_time": "2022-01-17T17:00:00Z",
-      "title": "Maitre des Fleurs",
-      "canceled_until": null,
-      "category": {
-        "id": "338715930",
-        "name": "Maitre des Fleurs"
-      },
-      "is_recurring": true
-    },
-    {
-      "id": "eyJzZWdtZW50SUQiOiIxOGQ5MWNmZS02ZTBhLTQ3YTEtOWY3Zi0wZmU3ODk3ZTEzNjMiLCJpc29ZZWFyIjoyMDIyLCJpc29XZWVrIjozfQ==",
-      "start_time": "2022-01-17T19:30:00Z",
-      "end_time": "2022-01-17T23:30:00Z",
-      "title": "P'tit Propnight avec les copains",
-      "canceled_until": null,
-      "category": {
-        "id": "1342987707",
-        "name": "Propnight"
-      },
-      "is_recurring": true
-    },
     {
       "id": "eyJzZWdtZW50SUQiOiJmZjU0MDc3Mi1iMGNkLTQ1MWItODRiMC0wZGQwYTkxNDAwNWQiLCJpc29ZZWFyIjoyMDIyLCJpc29XZWVrIjozfQ==",
       "start_time": "2022-01-18T10:00:00Z",
@@ -52,7 +28,7 @@
       "id": "eyJzZWdtZW50SUQiOiJiMjBhNzk3NS03NzhhLTQzZjgtODk0YS1jYmJmOTEyNzQ4ZDIiLCJpc29ZZWFyIjoyMDIyLCJpc29XZWVrIjozfQ==",
       "start_time": "2022-01-18T19:00:00Z",
       "end_time": "2022-01-18T21:00:00Z",
-      "title": "Retour de Popcorn (chaine de Domingo)",
+      "title": "Popcorn (chaine de Domingo)",
       "canceled_until": null,
       "category": {
         "id": "417752",
@@ -97,57 +73,9 @@
       "is_recurring": true
     },
     {
-      "id": "eyJzZWdtZW50SUQiOiIwNjJjNjZlNi05MDhjLTRlZDctYWZiMS1kMzFhYTVhMDA1NTAiLCJpc29ZZWFyIjoyMDIyLCJpc29XZWVrIjozfQ==",
-      "start_time": "2022-01-21T10:00:00Z",
-      "end_time": "2022-01-21T12:00:00Z",
-      "title": "Des pokémons et des cartes",
-      "canceled_until": null,
-      "category": {
-        "id": "32634",
-        "name": "Pokémon Trading Card Game Online"
-      },
-      "is_recurring": true
-    },
-    {
-      "id": "eyJzZWdtZW50SUQiOiIzMWIzZDc1My02MTc3LTRiNjYtODc0MC03NjgyYWIxYTRmNWUiLCJpc29ZZWFyIjoyMDIyLCJpc29XZWVrIjozfQ==",
-      "start_time": "2022-01-21T12:00:00Z",
-      "end_time": "2022-01-21T15:00:00Z",
-      "title": "Mario Party avec Riv, Ultia et Onutrem",
-      "canceled_until": null,
-      "category": {
-        "id": "1068239917",
-        "name": "Mario Party Superstars"
-      },
-      "is_recurring": true
-    },
-    {
-      "id": "eyJzZWdtZW50SUQiOiJjMWUwMzU2Ni0zZGM3LTQ0ZWItODFmZC03ZDlmYTlhNWEyZTYiLCJpc29ZZWFyIjoyMDIyLCJpc29XZWVrIjozfQ==",
-      "start_time": "2022-01-21T15:00:00Z",
-      "end_time": "2022-01-21T17:00:00Z",
-      "title": "P'tit fight entre copains",
-      "canceled_until": null,
-      "category": {
-        "id": "504461",
-        "name": "Super Smash Bros. Ultimate"
-      },
-      "is_recurring": true
-    },
-    {
-      "id": "eyJzZWdtZW50SUQiOiIwNTdjZDNiYi01MDBmLTQ4OWEtOTQ5MS05ZjA0NDQwZjc4ZjUiLCJpc29ZZWFyIjoyMDIyLCJpc29XZWVrIjozfQ==",
-      "start_time": "2022-01-23T12:00:00Z",
-      "end_time": "2022-01-23T16:00:00Z",
-      "title": "Le tournoi MK du Dimanche !",
-      "canceled_until": null,
-      "category": {
-        "id": "941530474",
-        "name": "Mario Kart 8 Deluxe"
-      },
-      "is_recurring": true
-    },
-    {
       "id": "eyJzZWdtZW50SUQiOiJmZWIyMjA4Ny1jOTdjLTRiZWYtOWI1Zi1hMzExMTg3NGQ0YTEiLCJpc29ZZWFyIjoyMDIyLCJpc29XZWVrIjo0fQ==",
       "start_time": "2022-01-24T10:00:00Z",
-      "end_time": "2022-01-24T17:00:00Z",
+      "end_time": "2022-01-24T16:00:00Z",
       "title": "Maitre des Fleurs",
       "canceled_until": null,
       "category": {
@@ -160,11 +88,11 @@
       "id": "eyJzZWdtZW50SUQiOiIxOGQ5MWNmZS02ZTBhLTQ3YTEtOWY3Zi0wZmU3ODk3ZTEzNjMiLCJpc29ZZWFyIjoyMDIyLCJpc29XZWVrIjo0fQ==",
       "start_time": "2022-01-24T19:30:00Z",
       "end_time": "2022-01-24T23:30:00Z",
-      "title": "P'tit Propnight avec les copains",
+      "title": "Mario Party avec Rivenzi, Ultia & Onutrem",
       "canceled_until": null,
       "category": {
-        "id": "1342987707",
-        "name": "Propnight"
+        "id": "1068239917",
+        "name": "Mario Party Superstars"
       },
       "is_recurring": true
     },
@@ -184,7 +112,7 @@
       "id": "eyJzZWdtZW50SUQiOiJiMjBhNzk3NS03NzhhLTQzZjgtODk0YS1jYmJmOTEyNzQ4ZDIiLCJpc29ZZWFyIjoyMDIyLCJpc29XZWVrIjo0fQ==",
       "start_time": "2022-01-25T19:00:00Z",
       "end_time": "2022-01-25T21:00:00Z",
-      "title": "Retour de Popcorn (chaine de Domingo)",
+      "title": "Popcorn (chaine de Domingo)",
       "canceled_until": null,
       "category": {
         "id": "417752",
@@ -229,26 +157,98 @@
       "is_recurring": true
     },
     {
-      "id": "eyJzZWdtZW50SUQiOiIwNjJjNjZlNi05MDhjLTRlZDctYWZiMS1kMzFhYTVhMDA1NTAiLCJpc29ZZWFyIjoyMDIyLCJpc29XZWVrIjo0fQ==",
-      "start_time": "2022-01-28T10:00:00Z",
-      "end_time": "2022-01-28T12:00:00Z",
-      "title": "Des pokémons et des cartes",
+      "id": "eyJzZWdtZW50SUQiOiJmZWIyMjA4Ny1jOTdjLTRiZWYtOWI1Zi1hMzExMTg3NGQ0YTEiLCJpc29ZZWFyIjoyMDIyLCJpc29XZWVrIjo1fQ==",
+      "start_time": "2022-01-31T10:00:00Z",
+      "end_time": "2022-01-31T16:00:00Z",
+      "title": "Maitre des Fleurs",
       "canceled_until": null,
       "category": {
-        "id": "32634",
-        "name": "Pokémon Trading Card Game Online"
+        "id": "338715930",
+        "name": "Maitre des Fleurs"
       },
       "is_recurring": true
     },
     {
-      "id": "eyJzZWdtZW50SUQiOiIzMWIzZDc1My02MTc3LTRiNjYtODc0MC03NjgyYWIxYTRmNWUiLCJpc29ZZWFyIjoyMDIyLCJpc29XZWVrIjo0fQ==",
-      "start_time": "2022-01-28T12:00:00Z",
-      "end_time": "2022-01-28T15:00:00Z",
-      "title": "Mario Party avec Riv, Ultia et Onutrem",
+      "id": "eyJzZWdtZW50SUQiOiIxOGQ5MWNmZS02ZTBhLTQ3YTEtOWY3Zi0wZmU3ODk3ZTEzNjMiLCJpc29ZZWFyIjoyMDIyLCJpc29XZWVrIjo1fQ==",
+      "start_time": "2022-01-31T19:30:00Z",
+      "end_time": "2022-01-31T23:30:00Z",
+      "title": "Mario Party avec Rivenzi, Ultia & Onutrem",
       "canceled_until": null,
       "category": {
         "id": "1068239917",
         "name": "Mario Party Superstars"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiJmZjU0MDc3Mi1iMGNkLTQ1MWItODRiMC0wZGQwYTkxNDAwNWQiLCJpc29ZZWFyIjoyMDIyLCJpc29XZWVrIjo1fQ==",
+      "start_time": "2022-02-01T10:00:00Z",
+      "end_time": "2022-02-01T16:30:00Z",
+      "title": "Pokemon Pearl: ça chasse",
+      "canceled_until": null,
+      "category": {
+        "id": "1584745140",
+        "name": "Pokémon Brilliant Diamond/Shining Pearl"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiJiMjBhNzk3NS03NzhhLTQzZjgtODk0YS1jYmJmOTEyNzQ4ZDIiLCJpc29ZZWFyIjoyMDIyLCJpc29XZWVrIjo1fQ==",
+      "start_time": "2022-02-01T19:00:00Z",
+      "end_time": "2022-02-01T21:00:00Z",
+      "title": "Popcorn (chaine de Domingo)",
+      "canceled_until": null,
+      "category": {
+        "id": "417752",
+        "name": "Talk Shows & Podcasts"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiIzNDNlYzA0Mi1hOGQwLTQ2MjYtYjVkOS1mMGU0MzI4MGU4MmYiLCJpc29ZZWFyIjoyMDIyLCJpc29XZWVrIjo1fQ==",
+      "start_time": "2022-02-02T10:00:00Z",
+      "end_time": "2022-02-02T15:30:00Z",
+      "title": "Speedrun Any%",
+      "canceled_until": null,
+      "category": {
+        "id": "110758",
+        "name": "The Legend of Zelda: Breath of the Wild"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiJkOTk1NmExNS1kNjkxLTQ2ZTEtYmNiNS1hMTcwNWI0ZjBkZjciLCJpc29ZZWFyIjoyMDIyLCJpc29XZWVrIjo1fQ==",
+      "start_time": "2022-02-02T15:30:00Z",
+      "end_time": "2022-02-02T17:30:00Z",
+      "title": "P'tit fight entre copains",
+      "canceled_until": null,
+      "category": {
+        "id": "504461",
+        "name": "Super Smash Bros. Ultimate"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiI0M2Q1ZTk1Mi03ZjllLTQ5NjQtYjkwMC1mNWIwNDI3NzJhMTAiLCJpc29ZZWFyIjoyMDIyLCJpc29XZWVrIjo1fQ==",
+      "start_time": "2022-02-03T10:00:00Z",
+      "end_time": "2022-02-03T17:00:00Z",
+      "title": "Un p'tit cham ? (DLC Outer Wilds)",
+      "canceled_until": null,
+      "category": {
+        "id": "489335",
+        "name": "Outer Wilds"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiJmZWIyMjA4Ny1jOTdjLTRiZWYtOWI1Zi1hMzExMTg3NGQ0YTEiLCJpc29ZZWFyIjoyMDIyLCJpc29XZWVrIjo2fQ==",
+      "start_time": "2022-02-07T10:00:00Z",
+      "end_time": "2022-02-07T16:00:00Z",
+      "title": "Maitre des Fleurs",
+      "canceled_until": null,
+      "category": {
+        "id": "338715930",
+        "name": "Maitre des Fleurs"
       },
       "is_recurring": true
     }
