@@ -8,22 +8,10 @@
     "description": "",
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/c6bc96fe-198a-4559-9ee3-fa37e7be98cb-profile_image-300x300.png",
     "offline_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/e154bd4b-0ce8-4fb7-9a42-01cfc92d59cd-channel_offline_image-1920x1080.jpeg",
-    "view_count": 608803,
+    "view_count": 610112,
     "created_at": "2016-02-01T18:54:21Z"
   },
   "schedulers": [
-    {
-      "id": "eyJzZWdtZW50SUQiOiJiM2Y1NWQ4NS1iMDg4LTQxYTUtYjRmNC0yZDdjZThiZGExN2UiLCJpc29ZZWFyIjoyMDIyLCJpc29XZWVrIjozfQ==",
-      "start_time": "2022-01-19T10:00:00Z",
-      "end_time": "2022-01-19T13:00:00Z",
-      "title": "The Witcher 3",
-      "canceled_until": null,
-      "category": {
-        "id": "115977",
-        "name": "The Witcher 3: Wild Hunt"
-      },
-      "is_recurring": false
-    },
     {
       "id": "eyJzZWdtZW50SUQiOiI3NWQ1NzFhYi1mMDFiLTQyNzEtOTVmZi1kNDJmZjYxMDdhM2MiLCJpc29ZZWFyIjoyMDIyLCJpc29XZWVrIjozfQ==",
       "start_time": "2022-01-20T10:00:00Z",
