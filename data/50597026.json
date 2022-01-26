@@ -8,22 +8,10 @@
     "description": "On se tape des immenses barres.",
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/125bbc49-45d1-432c-92b3-f5aef1e7ab21-profile_image-300x300.png",
     "offline_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/62c1d623-37e8-4a86-9a1c-566e94479204-channel_offline_image-1920x1080.png",
-    "view_count": 54432188,
+    "view_count": 54529600,
     "created_at": "2013-10-24T19:04:45Z"
   },
   "schedulers": [
-    {
-      "id": "eyJzZWdtZW50SUQiOiJmZjU0MDc3Mi1iMGNkLTQ1MWItODRiMC0wZGQwYTkxNDAwNWQiLCJpc29ZZWFyIjoyMDIyLCJpc29XZWVrIjo0fQ==",
-      "start_time": "2022-01-25T10:00:00Z",
-      "end_time": "2022-01-25T17:00:00Z",
-      "title": "On prépare notre team !",
-      "canceled_until": null,
-      "category": {
-        "id": "1584745140",
-        "name": "Pokémon Brilliant Diamond/Shining Pearl"
-      },
-      "is_recurring": true
-    },
     {
       "id": "eyJzZWdtZW50SUQiOiIzNDNlYzA0Mi1hOGQwLTQ2MjYtYjVkOS1mMGU0MzI4MGU4MmYiLCJpc29ZZWFyIjoyMDIyLCJpc29XZWVrIjo0fQ==",
       "start_time": "2022-01-26T10:00:00Z",
@@ -249,6 +237,18 @@
       "category": {
         "id": "489335",
         "name": "Outer Wilds"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiJhZDQ0ZTViZS00MmM5LTQ0YjgtYTQwNS1mMWVlM2EzOTA1ZmIiLCJpc29ZZWFyIjoyMDIyLCJpc29XZWVrIjo2fQ==",
+      "start_time": "2022-02-11T10:00:00Z",
+      "end_time": "2022-02-11T17:00:00Z",
+      "title": "Enfin la découverte de Pokemon Legends Arceus",
+      "canceled_until": null,
+      "category": {
+        "id": "561013832",
+        "name": "Pokémon Legends: Arceus"
       },
       "is_recurring": true
     }
