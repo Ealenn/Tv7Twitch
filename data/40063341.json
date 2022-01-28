@@ -8,46 +8,10 @@
     "description": "Coucou c'est moi !",
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/3cdae7df-600c-4833-8dfe-8d2abc5a3b25-profile_image-300x300.png",
     "offline_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/b3dc0e5d-9648-4bbe-83d8-4bc9b2def4f8-channel_offline_image-1920x1080.png",
-    "view_count": 116599538,
+    "view_count": 116680941,
     "created_at": "2013-02-05T19:20:22Z"
   },
   "schedulers": [
-    {
-      "id": "eyJzZWdtZW50SUQiOiIwNDM4MjQ5Zi03NDMyLTQ3ODgtODM2MS1mZDRmNmIxYmFjOWEiLCJpc29ZZWFyIjoyMDIyLCJpc29XZWVrIjo0fQ==",
-      "start_time": "2022-01-27T13:00:00Z",
-      "end_time": "2022-01-27T14:00:00Z",
-      "title": "PRÉ-LIVE",
-      "canceled_until": null,
-      "category": {
-        "id": "509658",
-        "name": "Just Chatting"
-      },
-      "is_recurring": false
-    },
-    {
-      "id": "eyJzZWdtZW50SUQiOiIyODRhN2NjNS0xZjA1LTQwYmEtOTlkZC0zZDZlYjEyZTJlNmQiLCJpc29ZZWFyIjoyMDIyLCJpc29XZWVrIjo0fQ==",
-      "start_time": "2022-01-27T14:00:00Z",
-      "end_time": "2022-01-27T16:00:00Z",
-      "title": "SUITE DE L'AVENTURE FM22",
-      "canceled_until": null,
-      "category": {
-        "id": "586622463",
-        "name": "Football Manager 2022"
-      },
-      "is_recurring": false
-    },
-    {
-      "id": "eyJzZWdtZW50SUQiOiIyYjdiY2IwZi02N2VhLTRlM2YtOGIzYy0zNjg1NmRlNmI1NTgiLCJpc29ZZWFyIjoyMDIyLCJpc29XZWVrIjo0fQ==",
-      "start_time": "2022-01-27T16:00:00Z",
-      "end_time": "2022-01-27T18:00:00Z",
-      "title": "REACT",
-      "canceled_until": null,
-      "category": {
-        "id": "509658",
-        "name": "Just Chatting"
-      },
-      "is_recurring": false
-    },
     {
       "id": "eyJzZWdtZW50SUQiOiI0YTY0ODEyNS1hOWJlLTQzZmMtYjM1OC0xNTY0NzllOWIxNGUiLCJpc29ZZWFyIjoyMDIyLCJpc29XZWVrIjo0fQ==",
       "start_time": "2022-01-28T13:00:00Z",
@@ -244,6 +208,42 @@
       "id": "eyJzZWdtZW50SUQiOiI1MTgwMTJiYi0yNTdjLTRlNGItYjE3Mi1mM2EwNTA5ZjEzODIiLCJpc29ZZWFyIjoyMDIyLCJpc29XZWVrIjoxOX0=",
       "start_time": "2022-05-10T18:00:00Z",
       "end_time": "2022-05-10T20:15:00Z",
+      "title": "POPCORN AVEC BEN, CHARLIE & ZACK",
+      "canceled_until": null,
+      "category": {
+        "id": "417752",
+        "name": "Talk Shows & Podcasts"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiI1MTgwMTJiYi0yNTdjLTRlNGItYjE3Mi1mM2EwNTA5ZjEzODIiLCJpc29ZZWFyIjoyMDIyLCJpc29XZWVrIjoyMH0=",
+      "start_time": "2022-05-17T18:00:00Z",
+      "end_time": "2022-05-17T20:15:00Z",
+      "title": "POPCORN AVEC BEN, CHARLIE & ZACK",
+      "canceled_until": null,
+      "category": {
+        "id": "417752",
+        "name": "Talk Shows & Podcasts"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiI1MTgwMTJiYi0yNTdjLTRlNGItYjE3Mi1mM2EwNTA5ZjEzODIiLCJpc29ZZWFyIjoyMDIyLCJpc29XZWVrIjoyMX0=",
+      "start_time": "2022-05-24T18:00:00Z",
+      "end_time": "2022-05-24T20:15:00Z",
+      "title": "POPCORN AVEC BEN, CHARLIE & ZACK",
+      "canceled_until": null,
+      "category": {
+        "id": "417752",
+        "name": "Talk Shows & Podcasts"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiI1MTgwMTJiYi0yNTdjLTRlNGItYjE3Mi1mM2EwNTA5ZjEzODIiLCJpc29ZZWFyIjoyMDIyLCJpc29XZWVrIjoyMn0=",
+      "start_time": "2022-05-31T18:00:00Z",
+      "end_time": "2022-05-31T20:15:00Z",
       "title": "POPCORN AVEC BEN, CHARLIE & ZACK",
       "canceled_until": null,
       "category": {
