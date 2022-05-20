@@ -8,39 +8,39 @@
     "description": "On se tape des immenses barres.",
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/125bbc49-45d1-432c-92b3-f5aef1e7ab21-profile_image-300x300.png",
     "offline_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/62c1d623-37e8-4a86-9a1c-566e94479204-channel_offline_image-1920x1080.png",
-    "view_count": 54852524,
+    "view_count": 60650679,
     "created_at": "2013-10-24T19:04:45Z"
   },
   "schedulers": [
     {
-      "id": "eyJzZWdtZW50SUQiOiI2N2FlNDVlZC1iNDIwLTQzMzMtYmYyMS1mMWZjY2ZkNzVlNTkiLCJpc29ZZWFyIjoyMDIyLCJpc29XZWVrIjo0fQ==",
-      "start_time": "2022-01-30T12:00:00Z",
-      "end_time": "2022-01-30T16:00:00Z",
-      "title": "Tournoi MK du dimanche",
+      "id": "eyJzZWdtZW50SUQiOiI3YmMwZjU1YS03YjA3LTRlNTMtOTAwMy1kNzQ0Y2FiMjllNmMiLCJpc29ZZWFyIjoyMDIyLCJpc29XZWVrIjoyMH0=",
+      "start_time": "2022-05-21T14:00:00Z",
+      "end_time": "2022-05-21T17:00:00Z",
+      "title": "Rolland Garros Eseries avec LittleBigWhale et Rivenzi (Chaine de Riv)",
       "canceled_until": null,
       "category": {
-        "id": "369588",
-        "name": "Mario Kart 8"
+        "id": "509663",
+        "name": "Special Events"
       },
       "is_recurring": true
     },
     {
-      "id": "eyJzZWdtZW50SUQiOiJlMzA2M2JhMy05NzAzLTRmMDctYTZhNy00NWVhYWI3NjczMDAiLCJpc29ZZWFyIjoyMDIyLCJpc29XZWVrIjo0fQ==",
-      "start_time": "2022-01-30T16:00:00Z",
-      "end_time": "2022-01-30T19:00:00Z",
-      "title": "L'addiction Pokémon Legends : Arceus",
+      "id": "eyJzZWdtZW50SUQiOiIxYjZkNjE4Yy1mYzg2LTQ3YjAtOWZjZi0wOTJmZTZjYzJiOTEiLCJpc29ZZWFyIjoyMDIyLCJpc29XZWVrIjoyMH0=",
+      "start_time": "2022-05-22T11:00:00Z",
+      "end_time": "2022-05-22T15:00:00Z",
+      "title": "Le tournoi MK du dimanche",
       "canceled_until": null,
       "category": {
-        "id": "561013832",
-        "name": "Pokémon Legends: Arceus"
+        "id": "941530474",
+        "name": "Mario Kart 8 Deluxe"
       },
       "is_recurring": true
     },
     {
-      "id": "eyJzZWdtZW50SUQiOiJmZWIyMjA4Ny1jOTdjLTRiZWYtOWI1Zi1hMzExMTg3NGQ0YTEiLCJpc29ZZWFyIjoyMDIyLCJpc29XZWVrIjo1fQ==",
-      "start_time": "2022-01-31T10:00:00Z",
-      "end_time": "2022-01-31T16:00:00Z",
-      "title": "Maitre des Fleurs",
+      "id": "eyJzZWdtZW50SUQiOiI3ZmEwOGYzYy00YTA3LTQ2ZjMtODBhOC0xNDBhMDMxMGE2YzUiLCJpc29ZZWFyIjoyMDIyLCJpc29XZWVrIjoyMX0=",
+      "start_time": "2022-05-23T09:00:00Z",
+      "end_time": "2022-05-23T15:00:00Z",
+      "title": "Culture et plaisir",
       "canceled_until": null,
       "category": {
         "id": "338715930",
@@ -49,34 +49,46 @@
       "is_recurring": true
     },
     {
-      "id": "eyJzZWdtZW50SUQiOiIxOGQ5MWNmZS02ZTBhLTQ3YTEtOWY3Zi0wZmU3ODk3ZTEzNjMiLCJpc29ZZWFyIjoyMDIyLCJpc29XZWVrIjo1fQ==",
-      "start_time": "2022-01-31T19:30:00Z",
-      "end_time": "2022-01-31T23:30:00Z",
-      "title": "Chasse au Rozbouton shiny",
+      "id": "eyJzZWdtZW50SUQiOiJjZGZlMDhmOS01YTFhLTQ2MzctYjZjZS0wZDA4NTdmNzk2M2IiLCJpc29ZZWFyIjoyMDIyLCJpc29XZWVrIjoyMX0=",
+      "start_time": "2022-05-24T09:00:00Z",
+      "end_time": "2022-05-24T15:00:00Z",
+      "title": "Journée avec le FCF",
       "canceled_until": null,
       "category": {
-        "id": "1584745140",
-        "name": "Pokémon Brilliant Diamond/Shining Pearl"
+        "id": "687129551",
+        "name": "Trackmania"
       },
       "is_recurring": true
     },
     {
-      "id": "eyJzZWdtZW50SUQiOiJmZjU0MDc3Mi1iMGNkLTQ1MWItODRiMC0wZGQwYTkxNDAwNWQiLCJpc29ZZWFyIjoyMDIyLCJpc29XZWVrIjo1fQ==",
-      "start_time": "2022-02-01T10:00:00Z",
-      "end_time": "2022-02-01T17:00:00Z",
-      "title": "On prépare notre team !",
+      "id": "eyJzZWdtZW50SUQiOiJhZDdhODg1YS04YTBkLTRjNTQtYTFiZC00MGM1YjQyYmMzZjAiLCJpc29ZZWFyIjoyMDIyLCJpc29XZWVrIjoyMX0=",
+      "start_time": "2022-05-24T18:00:00Z",
+      "end_time": "2022-05-24T20:00:00Z",
+      "title": "Popcorn (chaine de Domingo)",
       "canceled_until": null,
       "category": {
-        "id": "1584745140",
-        "name": "Pokémon Brilliant Diamond/Shining Pearl"
+        "id": "417752",
+        "name": "Talk Shows & Podcasts"
       },
       "is_recurring": true
     },
     {
-      "id": "eyJzZWdtZW50SUQiOiIzNDNlYzA0Mi1hOGQwLTQ2MjYtYjVkOS1mMGU0MzI4MGU4MmYiLCJpc29ZZWFyIjoyMDIyLCJpc29XZWVrIjo1fQ==",
-      "start_time": "2022-02-02T10:00:00Z",
-      "end_time": "2022-02-02T15:00:00Z",
-      "title": "Speedrun Any%",
+      "id": "eyJzZWdtZW50SUQiOiIzNDNlYzA0Mi1hOGQwLTQ2MjYtYjVkOS1mMGU0MzI4MGU4MmYiLCJpc29ZZWFyIjoyMDIyLCJpc29XZWVrIjoyMX0=",
+      "start_time": "2022-05-25T09:00:00Z",
+      "end_time": "2022-05-25T12:00:00Z",
+      "title": "On va suer sur Switch Sports !",
+      "canceled_until": null,
+      "category": {
+        "id": "2044170173",
+        "name": "Nintendo Switch Sports"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiJkNzc3MDM3Mi1jNjkxLTRlZTItYmU4OC0xZDQwNDE0ODAyYzQiLCJpc29ZZWFyIjoyMDIyLCJpc29XZWVrIjoyMX0=",
+      "start_time": "2022-05-25T12:00:00Z",
+      "end_time": "2022-05-25T15:00:00Z",
+      "title": "Quelques runs sur Breath of the Wild !",
       "canceled_until": null,
       "category": {
         "id": "110758",
@@ -85,70 +97,70 @@
       "is_recurring": true
     },
     {
-      "id": "eyJzZWdtZW50SUQiOiJkOTk1NmExNS1kNjkxLTQ2ZTEtYmNiNS1hMTcwNWI0ZjBkZjciLCJpc29ZZWFyIjoyMDIyLCJpc29XZWVrIjo1fQ==",
-      "start_time": "2022-02-02T15:00:00Z",
-      "end_time": "2022-02-02T17:00:00Z",
-      "title": "Duel contre le RIVAL Onutrem sur Pokemon",
+      "id": "eyJzZWdtZW50SUQiOiIwMzQzYTkwOC00YzJlLTQzZTYtYjcxYy02YTBmZjJjMTA2OWIiLCJpc29ZZWFyIjoyMDIyLCJpc29XZWVrIjoyMX0=",
+      "start_time": "2022-05-25T17:30:00Z",
+      "end_time": "2022-05-25T21:30:00Z",
+      "title": "Tournoi Smash des fleurs",
       "canceled_until": null,
       "category": {
-        "id": "1584745140",
-        "name": "Pokémon Brilliant Diamond/Shining Pearl"
+        "id": "504461",
+        "name": "Super Smash Bros. Ultimate"
       },
       "is_recurring": true
     },
     {
-      "id": "eyJzZWdtZW50SUQiOiI0M2Q1ZTk1Mi03ZjllLTQ5NjQtYjkwMC1mNWIwNDI3NzJhMTAiLCJpc29ZZWFyIjoyMDIyLCJpc29XZWVrIjo1fQ==",
-      "start_time": "2022-02-03T10:00:00Z",
-      "end_time": "2022-02-03T17:00:00Z",
-      "title": "Un p'tit cham ? (DLC Outer Wilds)",
+      "id": "eyJzZWdtZW50SUQiOiIxYmFiYTQ3Ny0zYjI4LTRmMDUtYjM4YS0yZTE4NmFiZjRlMjMiLCJpc29ZZWFyIjoyMDIyLCJpc29XZWVrIjoyMX0=",
+      "start_time": "2022-05-26T09:00:00Z",
+      "end_time": "2022-05-26T16:00:00Z",
+      "title": "Slowrun Elden Ring",
       "canceled_until": null,
       "category": {
-        "id": "489335",
-        "name": "Outer Wilds"
+        "id": "512953",
+        "name": "Elden Ring"
       },
       "is_recurring": true
     },
     {
-      "id": "eyJzZWdtZW50SUQiOiJhZDQ0ZTViZS00MmM5LTQ0YjgtYTQwNS1mMWVlM2EzOTA1ZmIiLCJpc29ZZWFyIjoyMDIyLCJpc29XZWVrIjo1fQ==",
-      "start_time": "2022-02-04T10:00:00Z",
-      "end_time": "2022-02-04T17:00:00Z",
-      "title": "Enfin la découverte de Pokemon Legends Arceus",
+      "id": "eyJzZWdtZW50SUQiOiI0MTZmYmZlZi03YjVhLTQ2NTYtYjQ1Zi1kZGEwYjhkOGJlNTAiLCJpc29ZZWFyIjoyMDIyLCJpc29XZWVrIjoyMX0=",
+      "start_time": "2022-05-27T09:00:00Z",
+      "end_time": "2022-05-27T15:00:00Z",
+      "title": "Multigaming avec les potes",
       "canceled_until": null,
       "category": {
-        "id": "561013832",
-        "name": "Pokémon Legends: Arceus"
+        "id": "941530474",
+        "name": "Mario Kart 8 Deluxe"
       },
       "is_recurring": true
     },
     {
-      "id": "eyJzZWdtZW50SUQiOiI2N2FlNDVlZC1iNDIwLTQzMzMtYmYyMS1mMWZjY2ZkNzVlNTkiLCJpc29ZZWFyIjoyMDIyLCJpc29XZWVrIjo1fQ==",
-      "start_time": "2022-02-06T12:00:00Z",
-      "end_time": "2022-02-06T16:00:00Z",
-      "title": "Tournoi MK du dimanche",
+      "id": "eyJzZWdtZW50SUQiOiI3YmMwZjU1YS03YjA3LTRlNTMtOTAwMy1kNzQ0Y2FiMjllNmMiLCJpc29ZZWFyIjoyMDIyLCJpc29XZWVrIjoyMX0=",
+      "start_time": "2022-05-28T14:00:00Z",
+      "end_time": "2022-05-28T17:00:00Z",
+      "title": "Rolland Garros Eseries avec LittleBigWhale et Rivenzi (Chaine de Riv)",
       "canceled_until": null,
       "category": {
-        "id": "369588",
-        "name": "Mario Kart 8"
+        "id": "509663",
+        "name": "Special Events"
       },
       "is_recurring": true
     },
     {
-      "id": "eyJzZWdtZW50SUQiOiJlMzA2M2JhMy05NzAzLTRmMDctYTZhNy00NWVhYWI3NjczMDAiLCJpc29ZZWFyIjoyMDIyLCJpc29XZWVrIjo1fQ==",
-      "start_time": "2022-02-06T16:00:00Z",
-      "end_time": "2022-02-06T19:00:00Z",
-      "title": "L'addiction Pokémon Legends : Arceus",
+      "id": "eyJzZWdtZW50SUQiOiIxYjZkNjE4Yy1mYzg2LTQ3YjAtOWZjZi0wOTJmZTZjYzJiOTEiLCJpc29ZZWFyIjoyMDIyLCJpc29XZWVrIjoyMX0=",
+      "start_time": "2022-05-29T11:00:00Z",
+      "end_time": "2022-05-29T15:00:00Z",
+      "title": "Le tournoi MK du dimanche",
       "canceled_until": null,
       "category": {
-        "id": "561013832",
-        "name": "Pokémon Legends: Arceus"
+        "id": "941530474",
+        "name": "Mario Kart 8 Deluxe"
       },
       "is_recurring": true
     },
     {
-      "id": "eyJzZWdtZW50SUQiOiJmZWIyMjA4Ny1jOTdjLTRiZWYtOWI1Zi1hMzExMTg3NGQ0YTEiLCJpc29ZZWFyIjoyMDIyLCJpc29XZWVrIjo2fQ==",
-      "start_time": "2022-02-07T10:00:00Z",
-      "end_time": "2022-02-07T16:00:00Z",
-      "title": "Maitre des Fleurs",
+      "id": "eyJzZWdtZW50SUQiOiI3ZmEwOGYzYy00YTA3LTQ2ZjMtODBhOC0xNDBhMDMxMGE2YzUiLCJpc29ZZWFyIjoyMDIyLCJpc29XZWVrIjoyMn0=",
+      "start_time": "2022-05-30T09:00:00Z",
+      "end_time": "2022-05-30T15:00:00Z",
+      "title": "Culture et plaisir",
       "canceled_until": null,
       "category": {
         "id": "338715930",
@@ -157,34 +169,46 @@
       "is_recurring": true
     },
     {
-      "id": "eyJzZWdtZW50SUQiOiIxOGQ5MWNmZS02ZTBhLTQ3YTEtOWY3Zi0wZmU3ODk3ZTEzNjMiLCJpc29ZZWFyIjoyMDIyLCJpc29XZWVrIjo2fQ==",
-      "start_time": "2022-02-07T19:30:00Z",
-      "end_time": "2022-02-07T23:30:00Z",
-      "title": "Chasse au Rozbouton shiny",
+      "id": "eyJzZWdtZW50SUQiOiJjZGZlMDhmOS01YTFhLTQ2MzctYjZjZS0wZDA4NTdmNzk2M2IiLCJpc29ZZWFyIjoyMDIyLCJpc29XZWVrIjoyMn0=",
+      "start_time": "2022-05-31T09:00:00Z",
+      "end_time": "2022-05-31T15:00:00Z",
+      "title": "Journée avec le FCF",
       "canceled_until": null,
       "category": {
-        "id": "1584745140",
-        "name": "Pokémon Brilliant Diamond/Shining Pearl"
+        "id": "687129551",
+        "name": "Trackmania"
       },
       "is_recurring": true
     },
     {
-      "id": "eyJzZWdtZW50SUQiOiJmZjU0MDc3Mi1iMGNkLTQ1MWItODRiMC0wZGQwYTkxNDAwNWQiLCJpc29ZZWFyIjoyMDIyLCJpc29XZWVrIjo2fQ==",
-      "start_time": "2022-02-08T10:00:00Z",
-      "end_time": "2022-02-08T17:00:00Z",
-      "title": "On prépare notre team !",
+      "id": "eyJzZWdtZW50SUQiOiJhZDdhODg1YS04YTBkLTRjNTQtYTFiZC00MGM1YjQyYmMzZjAiLCJpc29ZZWFyIjoyMDIyLCJpc29XZWVrIjoyMn0=",
+      "start_time": "2022-05-31T18:00:00Z",
+      "end_time": "2022-05-31T20:00:00Z",
+      "title": "Popcorn (chaine de Domingo)",
       "canceled_until": null,
       "category": {
-        "id": "1584745140",
-        "name": "Pokémon Brilliant Diamond/Shining Pearl"
+        "id": "417752",
+        "name": "Talk Shows & Podcasts"
       },
       "is_recurring": true
     },
     {
-      "id": "eyJzZWdtZW50SUQiOiIzNDNlYzA0Mi1hOGQwLTQ2MjYtYjVkOS1mMGU0MzI4MGU4MmYiLCJpc29ZZWFyIjoyMDIyLCJpc29XZWVrIjo2fQ==",
-      "start_time": "2022-02-09T10:00:00Z",
-      "end_time": "2022-02-09T15:00:00Z",
-      "title": "Speedrun Any%",
+      "id": "eyJzZWdtZW50SUQiOiIzNDNlYzA0Mi1hOGQwLTQ2MjYtYjVkOS1mMGU0MzI4MGU4MmYiLCJpc29ZZWFyIjoyMDIyLCJpc29XZWVrIjoyMn0=",
+      "start_time": "2022-06-01T09:00:00Z",
+      "end_time": "2022-06-01T12:00:00Z",
+      "title": "On va suer sur Switch Sports !",
+      "canceled_until": null,
+      "category": {
+        "id": "2044170173",
+        "name": "Nintendo Switch Sports"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiJkNzc3MDM3Mi1jNjkxLTRlZTItYmU4OC0xZDQwNDE0ODAyYzQiLCJpc29ZZWFyIjoyMDIyLCJpc29XZWVrIjoyMn0=",
+      "start_time": "2022-06-01T12:00:00Z",
+      "end_time": "2022-06-01T15:00:00Z",
+      "title": "Quelques runs sur Breath of the Wild !",
       "canceled_until": null,
       "category": {
         "id": "110758",
@@ -193,62 +217,38 @@
       "is_recurring": true
     },
     {
-      "id": "eyJzZWdtZW50SUQiOiJkOTk1NmExNS1kNjkxLTQ2ZTEtYmNiNS1hMTcwNWI0ZjBkZjciLCJpc29ZZWFyIjoyMDIyLCJpc29XZWVrIjo2fQ==",
-      "start_time": "2022-02-09T15:00:00Z",
-      "end_time": "2022-02-09T17:00:00Z",
-      "title": "Duel contre le RIVAL Onutrem sur Pokemon",
+      "id": "eyJzZWdtZW50SUQiOiIwMzQzYTkwOC00YzJlLTQzZTYtYjcxYy02YTBmZjJjMTA2OWIiLCJpc29ZZWFyIjoyMDIyLCJpc29XZWVrIjoyMn0=",
+      "start_time": "2022-06-01T17:30:00Z",
+      "end_time": "2022-06-01T21:30:00Z",
+      "title": "Tournoi Smash des fleurs",
       "canceled_until": null,
       "category": {
-        "id": "1584745140",
-        "name": "Pokémon Brilliant Diamond/Shining Pearl"
+        "id": "504461",
+        "name": "Super Smash Bros. Ultimate"
       },
       "is_recurring": true
     },
     {
-      "id": "eyJzZWdtZW50SUQiOiI0M2Q1ZTk1Mi03ZjllLTQ5NjQtYjkwMC1mNWIwNDI3NzJhMTAiLCJpc29ZZWFyIjoyMDIyLCJpc29XZWVrIjo2fQ==",
-      "start_time": "2022-02-10T10:00:00Z",
-      "end_time": "2022-02-10T17:00:00Z",
-      "title": "Un p'tit cham ? (DLC Outer Wilds)",
+      "id": "eyJzZWdtZW50SUQiOiIxYmFiYTQ3Ny0zYjI4LTRmMDUtYjM4YS0yZTE4NmFiZjRlMjMiLCJpc29ZZWFyIjoyMDIyLCJpc29XZWVrIjoyMn0=",
+      "start_time": "2022-06-02T09:00:00Z",
+      "end_time": "2022-06-02T16:00:00Z",
+      "title": "Slowrun Elden Ring",
       "canceled_until": null,
       "category": {
-        "id": "489335",
-        "name": "Outer Wilds"
+        "id": "512953",
+        "name": "Elden Ring"
       },
       "is_recurring": true
     },
     {
-      "id": "eyJzZWdtZW50SUQiOiJhZDQ0ZTViZS00MmM5LTQ0YjgtYTQwNS1mMWVlM2EzOTA1ZmIiLCJpc29ZZWFyIjoyMDIyLCJpc29XZWVrIjo2fQ==",
-      "start_time": "2022-02-11T10:00:00Z",
-      "end_time": "2022-02-11T17:00:00Z",
-      "title": "Enfin la découverte de Pokemon Legends Arceus",
+      "id": "eyJzZWdtZW50SUQiOiI0MTZmYmZlZi03YjVhLTQ2NTYtYjQ1Zi1kZGEwYjhkOGJlNTAiLCJpc29ZZWFyIjoyMDIyLCJpc29XZWVrIjoyMn0=",
+      "start_time": "2022-06-03T09:00:00Z",
+      "end_time": "2022-06-03T15:00:00Z",
+      "title": "Multigaming avec les potes",
       "canceled_until": null,
       "category": {
-        "id": "561013832",
-        "name": "Pokémon Legends: Arceus"
-      },
-      "is_recurring": true
-    },
-    {
-      "id": "eyJzZWdtZW50SUQiOiI2N2FlNDVlZC1iNDIwLTQzMzMtYmYyMS1mMWZjY2ZkNzVlNTkiLCJpc29ZZWFyIjoyMDIyLCJpc29XZWVrIjo2fQ==",
-      "start_time": "2022-02-13T12:00:00Z",
-      "end_time": "2022-02-13T16:00:00Z",
-      "title": "Tournoi MK du dimanche",
-      "canceled_until": null,
-      "category": {
-        "id": "369588",
-        "name": "Mario Kart 8"
-      },
-      "is_recurring": true
-    },
-    {
-      "id": "eyJzZWdtZW50SUQiOiJlMzA2M2JhMy05NzAzLTRmMDctYTZhNy00NWVhYWI3NjczMDAiLCJpc29ZZWFyIjoyMDIyLCJpc29XZWVrIjo2fQ==",
-      "start_time": "2022-02-13T16:00:00Z",
-      "end_time": "2022-02-13T19:00:00Z",
-      "title": "L'addiction Pokémon Legends : Arceus",
-      "canceled_until": null,
-      "category": {
-        "id": "561013832",
-        "name": "Pokémon Legends: Arceus"
+        "id": "941530474",
+        "name": "Mario Kart 8 Deluxe"
       },
       "is_recurring": true
     }

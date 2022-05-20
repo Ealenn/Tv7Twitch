@@ -5,234 +5,90 @@
     "display_name": "Domingo",
     "type": "",
     "broadcaster_type": "partner",
-    "description": "Coucou c'est moi !",
+    "description": "",
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/3cdae7df-600c-4833-8dfe-8d2abc5a3b25-profile_image-300x300.png",
-    "offline_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/b3dc0e5d-9648-4bbe-83d8-4bc9b2def4f8-channel_offline_image-1920x1080.png",
-    "view_count": 116750519,
+    "offline_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/2fa7ae54-ab43-4ba0-82b5-ecb9d04e7c16-channel_offline_image-1920x1080.png",
+    "view_count": 121218348,
     "created_at": "2013-02-05T19:20:22Z"
   },
   "schedulers": [
     {
-      "id": "eyJzZWdtZW50SUQiOiI1MTgwMTJiYi0yNTdjLTRlNGItYjE3Mi1mM2EwNTA5ZjEzODIiLCJpc29ZZWFyIjoyMDIyLCJpc29XZWVrIjo1fQ==",
-      "start_time": "2022-02-01T19:00:00Z",
-      "end_time": "2022-02-01T21:15:00Z",
-      "title": "POPCORN AVEC BEN, CHARLIE & ZACK",
+      "id": "eyJzZWdtZW50SUQiOiIwNjEwNTg2OS02YmFiLTQ3MzUtOWFmYS1iMTBhYjUxMmQ4YzgiLCJpc29ZZWFyIjoyMDIyLCJpc29XZWVrIjoyMH0=",
+      "start_time": "2022-05-21T12:00:00Z",
+      "end_time": "2022-05-21T13:00:00Z",
+      "title": "VISITE DE CLAIREFONTAINE",
       "canceled_until": null,
       "category": {
-        "id": "417752",
-        "name": "Talk Shows & Podcasts"
+        "id": "509658",
+        "name": "Just Chatting"
       },
-      "is_recurring": true
+      "is_recurring": false
     },
     {
-      "id": "eyJzZWdtZW50SUQiOiI1MTgwMTJiYi0yNTdjLTRlNGItYjE3Mi1mM2EwNTA5ZjEzODIiLCJpc29ZZWFyIjoyMDIyLCJpc29XZWVrIjo2fQ==",
-      "start_time": "2022-02-08T19:00:00Z",
-      "end_time": "2022-02-08T21:15:00Z",
-      "title": "POPCORN AVEC BEN, CHARLIE & ZACK",
+      "id": "eyJzZWdtZW50SUQiOiIwMjkzZTNhZS0wZWE0LTRhZjEtYTZmYi01Yjc2MmM4NmYyNWIiLCJpc29ZZWFyIjoyMDIyLCJpc29XZWVrIjoyMX0=",
+      "start_time": "2022-05-23T17:30:00Z",
+      "end_time": "2022-05-23T18:30:00Z",
+      "title": "PRÉ-LIVE",
       "canceled_until": null,
       "category": {
-        "id": "417752",
-        "name": "Talk Shows & Podcasts"
-      },
-      "is_recurring": true
-    },
-    {
-      "id": "eyJzZWdtZW50SUQiOiI1MTgwMTJiYi0yNTdjLTRlNGItYjE3Mi1mM2EwNTA5ZjEzODIiLCJpc29ZZWFyIjoyMDIyLCJpc29XZWVrIjo3fQ==",
-      "start_time": "2022-02-15T19:00:00Z",
-      "end_time": "2022-02-15T21:15:00Z",
-      "title": "POPCORN AVEC BEN, CHARLIE & ZACK",
-      "canceled_until": null,
-      "category": {
-        "id": "417752",
-        "name": "Talk Shows & Podcasts"
-      },
-      "is_recurring": true
-    },
-    {
-      "id": "eyJzZWdtZW50SUQiOiI1MTgwMTJiYi0yNTdjLTRlNGItYjE3Mi1mM2EwNTA5ZjEzODIiLCJpc29ZZWFyIjoyMDIyLCJpc29XZWVrIjo4fQ==",
-      "start_time": "2022-02-22T19:00:00Z",
-      "end_time": "2022-02-22T21:15:00Z",
-      "title": "POPCORN AVEC BEN, CHARLIE & ZACK",
-      "canceled_until": null,
-      "category": {
-        "id": "417752",
-        "name": "Talk Shows & Podcasts"
-      },
-      "is_recurring": true
-    },
-    {
-      "id": "eyJzZWdtZW50SUQiOiI1MTgwMTJiYi0yNTdjLTRlNGItYjE3Mi1mM2EwNTA5ZjEzODIiLCJpc29ZZWFyIjoyMDIyLCJpc29XZWVrIjo5fQ==",
-      "start_time": "2022-03-01T19:00:00Z",
-      "end_time": "2022-03-01T21:15:00Z",
-      "title": "POPCORN AVEC BEN, CHARLIE & ZACK",
-      "canceled_until": null,
-      "category": {
-        "id": "417752",
-        "name": "Talk Shows & Podcasts"
-      },
-      "is_recurring": true
-    },
-    {
-      "id": "eyJzZWdtZW50SUQiOiI1MTgwMTJiYi0yNTdjLTRlNGItYjE3Mi1mM2EwNTA5ZjEzODIiLCJpc29ZZWFyIjoyMDIyLCJpc29XZWVrIjoxMH0=",
-      "start_time": "2022-03-08T19:00:00Z",
-      "end_time": "2022-03-08T21:15:00Z",
-      "title": "POPCORN AVEC BEN, CHARLIE & ZACK",
-      "canceled_until": null,
-      "category": {
-        "id": "417752",
-        "name": "Talk Shows & Podcasts"
-      },
-      "is_recurring": true
-    },
-    {
-      "id": "eyJzZWdtZW50SUQiOiI1MTgwMTJiYi0yNTdjLTRlNGItYjE3Mi1mM2EwNTA5ZjEzODIiLCJpc29ZZWFyIjoyMDIyLCJpc29XZWVrIjoxMX0=",
-      "start_time": "2022-03-15T19:00:00Z",
-      "end_time": "2022-03-15T21:15:00Z",
-      "title": "POPCORN AVEC BEN, CHARLIE & ZACK",
-      "canceled_until": null,
-      "category": {
-        "id": "417752",
-        "name": "Talk Shows & Podcasts"
-      },
-      "is_recurring": true
-    },
-    {
-      "id": "eyJzZWdtZW50SUQiOiI1MTgwMTJiYi0yNTdjLTRlNGItYjE3Mi1mM2EwNTA5ZjEzODIiLCJpc29ZZWFyIjoyMDIyLCJpc29XZWVrIjoxMn0=",
-      "start_time": "2022-03-22T19:00:00Z",
-      "end_time": "2022-03-22T21:15:00Z",
-      "title": "POPCORN AVEC BEN, CHARLIE & ZACK",
-      "canceled_until": null,
-      "category": {
-        "id": "417752",
-        "name": "Talk Shows & Podcasts"
-      },
-      "is_recurring": true
-    },
-    {
-      "id": "eyJzZWdtZW50SUQiOiI1MTgwMTJiYi0yNTdjLTRlNGItYjE3Mi1mM2EwNTA5ZjEzODIiLCJpc29ZZWFyIjoyMDIyLCJpc29XZWVrIjoxM30=",
-      "start_time": "2022-03-29T18:00:00Z",
-      "end_time": "2022-03-29T20:15:00Z",
-      "title": "POPCORN AVEC BEN, CHARLIE & ZACK",
-      "canceled_until": null,
-      "category": {
-        "id": "417752",
-        "name": "Talk Shows & Podcasts"
-      },
-      "is_recurring": true
-    },
-    {
-      "id": "eyJzZWdtZW50SUQiOiI1MTgwMTJiYi0yNTdjLTRlNGItYjE3Mi1mM2EwNTA5ZjEzODIiLCJpc29ZZWFyIjoyMDIyLCJpc29XZWVrIjoxNH0=",
-      "start_time": "2022-04-05T18:00:00Z",
-      "end_time": "2022-04-05T20:15:00Z",
-      "title": "POPCORN AVEC BEN, CHARLIE & ZACK",
-      "canceled_until": null,
-      "category": {
-        "id": "417752",
-        "name": "Talk Shows & Podcasts"
-      },
-      "is_recurring": true
-    },
-    {
-      "id": "eyJzZWdtZW50SUQiOiI1MTgwMTJiYi0yNTdjLTRlNGItYjE3Mi1mM2EwNTA5ZjEzODIiLCJpc29ZZWFyIjoyMDIyLCJpc29XZWVrIjoxNX0=",
-      "start_time": "2022-04-12T18:00:00Z",
-      "end_time": "2022-04-12T20:15:00Z",
-      "title": "POPCORN AVEC BEN, CHARLIE & ZACK",
-      "canceled_until": null,
-      "category": {
-        "id": "417752",
-        "name": "Talk Shows & Podcasts"
-      },
-      "is_recurring": true
-    },
-    {
-      "id": "eyJzZWdtZW50SUQiOiI1MTgwMTJiYi0yNTdjLTRlNGItYjE3Mi1mM2EwNTA5ZjEzODIiLCJpc29ZZWFyIjoyMDIyLCJpc29XZWVrIjoxNn0=",
-      "start_time": "2022-04-19T18:00:00Z",
-      "end_time": "2022-04-19T20:15:00Z",
-      "title": "POPCORN AVEC BEN, CHARLIE & ZACK",
-      "canceled_until": null,
-      "category": {
-        "id": "417752",
-        "name": "Talk Shows & Podcasts"
-      },
-      "is_recurring": true
-    },
-    {
-      "id": "eyJzZWdtZW50SUQiOiI1MTgwMTJiYi0yNTdjLTRlNGItYjE3Mi1mM2EwNTA5ZjEzODIiLCJpc29ZZWFyIjoyMDIyLCJpc29XZWVrIjoxN30=",
-      "start_time": "2022-04-26T18:00:00Z",
-      "end_time": "2022-04-26T20:15:00Z",
-      "title": "POPCORN AVEC BEN, CHARLIE & ZACK",
-      "canceled_until": null,
-      "category": {
-        "id": "417752",
-        "name": "Talk Shows & Podcasts"
-      },
-      "is_recurring": true
-    },
-    {
-      "id": "eyJzZWdtZW50SUQiOiI1MTgwMTJiYi0yNTdjLTRlNGItYjE3Mi1mM2EwNTA5ZjEzODIiLCJpc29ZZWFyIjoyMDIyLCJpc29XZWVrIjoxOH0=",
-      "start_time": "2022-05-03T18:00:00Z",
-      "end_time": "2022-05-03T20:15:00Z",
-      "title": "POPCORN AVEC BEN, CHARLIE & ZACK",
-      "canceled_until": null,
-      "category": {
-        "id": "417752",
-        "name": "Talk Shows & Podcasts"
-      },
-      "is_recurring": true
-    },
-    {
-      "id": "eyJzZWdtZW50SUQiOiI1MTgwMTJiYi0yNTdjLTRlNGItYjE3Mi1mM2EwNTA5ZjEzODIiLCJpc29ZZWFyIjoyMDIyLCJpc29XZWVrIjoxOX0=",
-      "start_time": "2022-05-10T18:00:00Z",
-      "end_time": "2022-05-10T20:15:00Z",
-      "title": "POPCORN AVEC BEN, CHARLIE & ZACK",
-      "canceled_until": null,
-      "category": {
-        "id": "417752",
-        "name": "Talk Shows & Podcasts"
-      },
-      "is_recurring": true
-    },
-    {
-      "id": "eyJzZWdtZW50SUQiOiI1MTgwMTJiYi0yNTdjLTRlNGItYjE3Mi1mM2EwNTA5ZjEzODIiLCJpc29ZZWFyIjoyMDIyLCJpc29XZWVrIjoyMH0=",
-      "start_time": "2022-05-17T18:00:00Z",
-      "end_time": "2022-05-17T20:15:00Z",
-      "title": "POPCORN AVEC BEN, CHARLIE & ZACK",
-      "canceled_until": null,
-      "category": {
-        "id": "417752",
-        "name": "Talk Shows & Podcasts"
+        "id": "509658",
+        "name": "Just Chatting"
       },
       "is_recurring": true
     },
     {
       "id": "eyJzZWdtZW50SUQiOiI1MTgwMTJiYi0yNTdjLTRlNGItYjE3Mi1mM2EwNTA5ZjEzODIiLCJpc29ZZWFyIjoyMDIyLCJpc29XZWVrIjoyMX0=",
       "start_time": "2022-05-24T18:00:00Z",
-      "end_time": "2022-05-24T20:15:00Z",
-      "title": "POPCORN AVEC BEN, CHARLIE & ZACK",
+      "end_time": "2022-05-24T20:30:00Z",
+      "title": "POPCORN AVEC ETOILES, PONCE & XARI (SARDOCHE EN VISIO)",
       "canceled_until": null,
       "category": {
         "id": "417752",
         "name": "Talk Shows & Podcasts"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiIwMjkzZTNhZS0wZWE0LTRhZjEtYTZmYi01Yjc2MmM4NmYyNWIiLCJpc29ZZWFyIjoyMDIyLCJpc29XZWVrIjoyMn0=",
+      "start_time": "2022-05-30T17:30:00Z",
+      "end_time": "2022-05-30T18:30:00Z",
+      "title": "PRÉ-LIVE",
+      "canceled_until": null,
+      "category": {
+        "id": "509658",
+        "name": "Just Chatting"
       },
       "is_recurring": true
     },
     {
       "id": "eyJzZWdtZW50SUQiOiI1MTgwMTJiYi0yNTdjLTRlNGItYjE3Mi1mM2EwNTA5ZjEzODIiLCJpc29ZZWFyIjoyMDIyLCJpc29XZWVrIjoyMn0=",
       "start_time": "2022-05-31T18:00:00Z",
-      "end_time": "2022-05-31T20:15:00Z",
-      "title": "POPCORN AVEC BEN, CHARLIE & ZACK",
+      "end_time": "2022-05-31T20:30:00Z",
+      "title": "POPCORN AVEC ETOILES, PONCE & XARI (SARDOCHE EN VISIO)",
       "canceled_until": null,
       "category": {
         "id": "417752",
         "name": "Talk Shows & Podcasts"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiIwMjkzZTNhZS0wZWE0LTRhZjEtYTZmYi01Yjc2MmM4NmYyNWIiLCJpc29ZZWFyIjoyMDIyLCJpc29XZWVrIjoyM30=",
+      "start_time": "2022-06-06T17:30:00Z",
+      "end_time": "2022-06-06T18:30:00Z",
+      "title": "PRÉ-LIVE",
+      "canceled_until": null,
+      "category": {
+        "id": "509658",
+        "name": "Just Chatting"
       },
       "is_recurring": true
     },
     {
       "id": "eyJzZWdtZW50SUQiOiI1MTgwMTJiYi0yNTdjLTRlNGItYjE3Mi1mM2EwNTA5ZjEzODIiLCJpc29ZZWFyIjoyMDIyLCJpc29XZWVrIjoyM30=",
       "start_time": "2022-06-07T18:00:00Z",
-      "end_time": "2022-06-07T20:15:00Z",
-      "title": "POPCORN AVEC BEN, CHARLIE & ZACK",
+      "end_time": "2022-06-07T20:30:00Z",
+      "title": "POPCORN AVEC ETOILES, PONCE & XARI (SARDOCHE EN VISIO)",
       "canceled_until": null,
       "category": {
         "id": "417752",
@@ -241,14 +97,158 @@
       "is_recurring": true
     },
     {
+      "id": "eyJzZWdtZW50SUQiOiIwMjkzZTNhZS0wZWE0LTRhZjEtYTZmYi01Yjc2MmM4NmYyNWIiLCJpc29ZZWFyIjoyMDIyLCJpc29XZWVrIjoyNH0=",
+      "start_time": "2022-06-13T17:30:00Z",
+      "end_time": "2022-06-13T18:30:00Z",
+      "title": "PRÉ-LIVE",
+      "canceled_until": null,
+      "category": {
+        "id": "509658",
+        "name": "Just Chatting"
+      },
+      "is_recurring": true
+    },
+    {
       "id": "eyJzZWdtZW50SUQiOiI1MTgwMTJiYi0yNTdjLTRlNGItYjE3Mi1mM2EwNTA5ZjEzODIiLCJpc29ZZWFyIjoyMDIyLCJpc29XZWVrIjoyNH0=",
       "start_time": "2022-06-14T18:00:00Z",
-      "end_time": "2022-06-14T20:15:00Z",
-      "title": "POPCORN AVEC BEN, CHARLIE & ZACK",
+      "end_time": "2022-06-14T20:30:00Z",
+      "title": "POPCORN AVEC ETOILES, PONCE & XARI (SARDOCHE EN VISIO)",
       "canceled_until": null,
       "category": {
         "id": "417752",
         "name": "Talk Shows & Podcasts"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiIwMjkzZTNhZS0wZWE0LTRhZjEtYTZmYi01Yjc2MmM4NmYyNWIiLCJpc29ZZWFyIjoyMDIyLCJpc29XZWVrIjoyNX0=",
+      "start_time": "2022-06-20T17:30:00Z",
+      "end_time": "2022-06-20T18:30:00Z",
+      "title": "PRÉ-LIVE",
+      "canceled_until": null,
+      "category": {
+        "id": "509658",
+        "name": "Just Chatting"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiI1MTgwMTJiYi0yNTdjLTRlNGItYjE3Mi1mM2EwNTA5ZjEzODIiLCJpc29ZZWFyIjoyMDIyLCJpc29XZWVrIjoyNX0=",
+      "start_time": "2022-06-21T18:00:00Z",
+      "end_time": "2022-06-21T20:30:00Z",
+      "title": "POPCORN AVEC ETOILES, PONCE & XARI (SARDOCHE EN VISIO)",
+      "canceled_until": null,
+      "category": {
+        "id": "417752",
+        "name": "Talk Shows & Podcasts"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiIwMjkzZTNhZS0wZWE0LTRhZjEtYTZmYi01Yjc2MmM4NmYyNWIiLCJpc29ZZWFyIjoyMDIyLCJpc29XZWVrIjoyNn0=",
+      "start_time": "2022-06-27T17:30:00Z",
+      "end_time": "2022-06-27T18:30:00Z",
+      "title": "PRÉ-LIVE",
+      "canceled_until": null,
+      "category": {
+        "id": "509658",
+        "name": "Just Chatting"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiI1MTgwMTJiYi0yNTdjLTRlNGItYjE3Mi1mM2EwNTA5ZjEzODIiLCJpc29ZZWFyIjoyMDIyLCJpc29XZWVrIjoyNn0=",
+      "start_time": "2022-06-28T18:00:00Z",
+      "end_time": "2022-06-28T20:30:00Z",
+      "title": "POPCORN AVEC ETOILES, PONCE & XARI (SARDOCHE EN VISIO)",
+      "canceled_until": null,
+      "category": {
+        "id": "417752",
+        "name": "Talk Shows & Podcasts"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiIwMjkzZTNhZS0wZWE0LTRhZjEtYTZmYi01Yjc2MmM4NmYyNWIiLCJpc29ZZWFyIjoyMDIyLCJpc29XZWVrIjoyN30=",
+      "start_time": "2022-07-04T17:30:00Z",
+      "end_time": "2022-07-04T18:30:00Z",
+      "title": "PRÉ-LIVE",
+      "canceled_until": null,
+      "category": {
+        "id": "509658",
+        "name": "Just Chatting"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiI1MTgwMTJiYi0yNTdjLTRlNGItYjE3Mi1mM2EwNTA5ZjEzODIiLCJpc29ZZWFyIjoyMDIyLCJpc29XZWVrIjoyN30=",
+      "start_time": "2022-07-05T18:00:00Z",
+      "end_time": "2022-07-05T20:30:00Z",
+      "title": "POPCORN AVEC ETOILES, PONCE & XARI (SARDOCHE EN VISIO)",
+      "canceled_until": null,
+      "category": {
+        "id": "417752",
+        "name": "Talk Shows & Podcasts"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiIwMjkzZTNhZS0wZWE0LTRhZjEtYTZmYi01Yjc2MmM4NmYyNWIiLCJpc29ZZWFyIjoyMDIyLCJpc29XZWVrIjoyOH0=",
+      "start_time": "2022-07-11T17:30:00Z",
+      "end_time": "2022-07-11T18:30:00Z",
+      "title": "PRÉ-LIVE",
+      "canceled_until": null,
+      "category": {
+        "id": "509658",
+        "name": "Just Chatting"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiI1MTgwMTJiYi0yNTdjLTRlNGItYjE3Mi1mM2EwNTA5ZjEzODIiLCJpc29ZZWFyIjoyMDIyLCJpc29XZWVrIjoyOH0=",
+      "start_time": "2022-07-12T18:00:00Z",
+      "end_time": "2022-07-12T20:30:00Z",
+      "title": "POPCORN AVEC ETOILES, PONCE & XARI (SARDOCHE EN VISIO)",
+      "canceled_until": null,
+      "category": {
+        "id": "417752",
+        "name": "Talk Shows & Podcasts"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiIwMjkzZTNhZS0wZWE0LTRhZjEtYTZmYi01Yjc2MmM4NmYyNWIiLCJpc29ZZWFyIjoyMDIyLCJpc29XZWVrIjoyOX0=",
+      "start_time": "2022-07-18T17:30:00Z",
+      "end_time": "2022-07-18T18:30:00Z",
+      "title": "PRÉ-LIVE",
+      "canceled_until": null,
+      "category": {
+        "id": "509658",
+        "name": "Just Chatting"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiI1MTgwMTJiYi0yNTdjLTRlNGItYjE3Mi1mM2EwNTA5ZjEzODIiLCJpc29ZZWFyIjoyMDIyLCJpc29XZWVrIjoyOX0=",
+      "start_time": "2022-07-19T18:00:00Z",
+      "end_time": "2022-07-19T20:30:00Z",
+      "title": "POPCORN AVEC ETOILES, PONCE & XARI (SARDOCHE EN VISIO)",
+      "canceled_until": null,
+      "category": {
+        "id": "417752",
+        "name": "Talk Shows & Podcasts"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiIwMjkzZTNhZS0wZWE0LTRhZjEtYTZmYi01Yjc2MmM4NmYyNWIiLCJpc29ZZWFyIjoyMDIyLCJpc29XZWVrIjozMH0=",
+      "start_time": "2022-07-25T17:30:00Z",
+      "end_time": "2022-07-25T18:30:00Z",
+      "title": "PRÉ-LIVE",
+      "canceled_until": null,
+      "category": {
+        "id": "509658",
+        "name": "Just Chatting"
       },
       "is_recurring": true
     }
