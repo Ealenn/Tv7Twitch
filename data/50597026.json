@@ -13,44 +13,41 @@
   },
   "schedulers": [
     {
-      "id": "eyJzZWdtZW50SUQiOiI3ZmEwOGYzYy00YTA3LTQ2ZjMtODBhOC0xNDBhMDMxMGE2YzUiLCJpc29ZZWFyIjoyMDIyLCJpc29XZWVrIjoyMX0=",
-      "start_time": "2022-05-23T09:00:00Z",
-      "end_time": "2022-05-23T15:00:00Z",
-      "title": "Culture et plaisir",
-      "canceled_until": null,
-      "category": {
-        "id": "338715930",
-        "name": "Maitre des Fleurs"
-      },
-      "is_recurring": true
-    },
-    {
       "id": "eyJzZWdtZW50SUQiOiJjZGZlMDhmOS01YTFhLTQ2MzctYjZjZS0wZDA4NTdmNzk2M2IiLCJpc29ZZWFyIjoyMDIyLCJpc29XZWVrIjoyMX0=",
       "start_time": "2022-05-24T09:00:00Z",
-      "end_time": "2022-05-24T15:00:00Z",
+      "end_time": "2022-05-24T14:00:00Z",
       "title": "Journée avec le FCF",
       "canceled_until": null,
-      "category": {
-        "id": "687129551",
-        "name": "Trackmania"
-      },
+      "category": null,
       "is_recurring": true
     },
     {
       "id": "eyJzZWdtZW50SUQiOiJhZDdhODg1YS04YTBkLTRjNTQtYTFiZC00MGM1YjQyYmMzZjAiLCJpc29ZZWFyIjoyMDIyLCJpc29XZWVrIjoyMX0=",
-      "start_time": "2022-05-24T18:00:00Z",
-      "end_time": "2022-05-24T20:00:00Z",
-      "title": "Popcorn (chaine de Domingo)",
+      "start_time": "2022-05-24T14:00:00Z",
+      "end_time": "2022-05-24T18:00:00Z",
+      "title": "Session V Rising avec Ultia, Riv, Onu et Wingo",
       "canceled_until": null,
       "category": {
-        "id": "417752",
-        "name": "Talk Shows & Podcasts"
+        "id": "766548668",
+        "name": "V Rising"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiJiZTYyYjU4Mi0xZTk4LTQwMTgtYTIxYi1mMTM3ZWQ4YTU2MmMiLCJpc29ZZWFyIjoyMDIyLCJpc29XZWVrIjoyMX0=",
+      "start_time": "2022-05-25T09:00:00Z",
+      "end_time": "2022-05-25T10:00:00Z",
+      "title": "Du click, des pokémons et de la discussion",
+      "canceled_until": null,
+      "category": {
+        "id": "1288885676",
+        "name": "PokéClicker"
       },
       "is_recurring": true
     },
     {
       "id": "eyJzZWdtZW50SUQiOiIzNDNlYzA0Mi1hOGQwLTQ2MjYtYjVkOS1mMGU0MzI4MGU4MmYiLCJpc29ZZWFyIjoyMDIyLCJpc29XZWVrIjoyMX0=",
-      "start_time": "2022-05-25T09:00:00Z",
+      "start_time": "2022-05-25T10:00:00Z",
       "end_time": "2022-05-25T12:00:00Z",
       "title": "On va suer sur Switch Sports !",
       "canceled_until": null,
@@ -63,7 +60,7 @@
     {
       "id": "eyJzZWdtZW50SUQiOiJkNzc3MDM3Mi1jNjkxLTRlZTItYmU4OC0xZDQwNDE0ODAyYzQiLCJpc29ZZWFyIjoyMDIyLCJpc29XZWVrIjoyMX0=",
       "start_time": "2022-05-25T12:00:00Z",
-      "end_time": "2022-05-25T15:00:00Z",
+      "end_time": "2022-05-25T16:00:00Z",
       "title": "Quelques runs sur Breath of the Wild !",
       "canceled_until": null,
       "category": {
@@ -73,22 +70,22 @@
       "is_recurring": true
     },
     {
-      "id": "eyJzZWdtZW50SUQiOiIwMzQzYTkwOC00YzJlLTQzZTYtYjcxYy02YTBmZjJjMTA2OWIiLCJpc29ZZWFyIjoyMDIyLCJpc29XZWVrIjoyMX0=",
-      "start_time": "2022-05-25T17:30:00Z",
-      "end_time": "2022-05-25T21:30:00Z",
-      "title": "Tournoi Smash des fleurs",
+      "id": "eyJzZWdtZW50SUQiOiI5ZjliMjkxNS05MzM5LTQyYTEtYTlkMi04MGIzYWMxNzhiMDUiLCJpc29ZZWFyIjoyMDIyLCJpc29XZWVrIjoyMX0=",
+      "start_time": "2022-05-26T09:00:00Z",
+      "end_time": "2022-05-26T10:00:00Z",
+      "title": "Du click, des pokémons et de la discussion",
       "canceled_until": null,
       "category": {
-        "id": "504461",
-        "name": "Super Smash Bros. Ultimate"
+        "id": "1288885676",
+        "name": "PokéClicker"
       },
       "is_recurring": true
     },
     {
       "id": "eyJzZWdtZW50SUQiOiIxYmFiYTQ3Ny0zYjI4LTRmMDUtYjM4YS0yZTE4NmFiZjRlMjMiLCJpc29ZZWFyIjoyMDIyLCJpc29XZWVrIjoyMX0=",
-      "start_time": "2022-05-26T09:00:00Z",
+      "start_time": "2022-05-26T10:00:00Z",
       "end_time": "2022-05-26T16:00:00Z",
-      "title": "Slowrun Elden Ring",
+      "title": "Suite du slowrun Elden Ring",
       "canceled_until": null,
       "category": {
         "id": "512953",
@@ -99,8 +96,29 @@
     {
       "id": "eyJzZWdtZW50SUQiOiI0MTZmYmZlZi03YjVhLTQ2NTYtYjQ1Zi1kZGEwYjhkOGJlNTAiLCJpc29ZZWFyIjoyMDIyLCJpc29XZWVrIjoyMX0=",
       "start_time": "2022-05-27T09:00:00Z",
-      "end_time": "2022-05-27T15:00:00Z",
+      "end_time": "2022-05-27T11:00:00Z",
       "title": "Multigaming avec les potes",
+      "canceled_until": null,
+      "category": null,
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiI0NWUyZGVjZi1lMGM1LTRkNjMtOTJiMS1iOWNkN2ExYWVlMTQiLCJpc29ZZWFyIjoyMDIyLCJpc29XZWVrIjoyMX0=",
+      "start_time": "2022-05-27T11:00:00Z",
+      "end_time": "2022-05-27T15:00:00Z",
+      "title": "Les vampires sont de retour, avec la team !",
+      "canceled_until": null,
+      "category": {
+        "id": "766548668",
+        "name": "V Rising"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiI2YjU1NmJjYy03MWM0LTQ5M2ItOGQyNi1iOTE5MGE2Yzc0OTYiLCJpc29ZZWFyIjoyMDIyLCJpc29XZWVrIjoyMX0=",
+      "start_time": "2022-05-27T18:00:00Z",
+      "end_time": "2022-05-27T22:00:00Z",
+      "title": "Ponce la Switch",
       "canceled_until": null,
       "category": {
         "id": "941530474",
@@ -110,9 +128,9 @@
     },
     {
       "id": "eyJzZWdtZW50SUQiOiI3YmMwZjU1YS03YjA3LTRlNTMtOTAwMy1kNzQ0Y2FiMjllNmMiLCJpc29ZZWFyIjoyMDIyLCJpc29XZWVrIjoyMX0=",
-      "start_time": "2022-05-28T14:00:00Z",
-      "end_time": "2022-05-28T17:00:00Z",
-      "title": "Rolland Garros Eseries avec LittleBigWhale et Rivenzi (Chaine de Riv)",
+      "start_time": "2022-05-28T16:00:00Z",
+      "end_time": "2022-05-28T19:00:00Z",
+      "title": "Invitational du Wanted (chaines de NTK et SolaryEvent)",
       "canceled_until": null,
       "category": {
         "id": "509663",
@@ -122,13 +140,13 @@
     },
     {
       "id": "eyJzZWdtZW50SUQiOiIxYjZkNjE4Yy1mYzg2LTQ3YjAtOWZjZi0wOTJmZTZjYzJiOTEiLCJpc29ZZWFyIjoyMDIyLCJpc29XZWVrIjoyMX0=",
-      "start_time": "2022-05-29T11:00:00Z",
+      "start_time": "2022-05-29T12:00:00Z",
       "end_time": "2022-05-29T15:00:00Z",
-      "title": "Le tournoi MK du dimanche",
+      "title": "Big 9 (chaine de Domingo)",
       "canceled_until": null,
       "category": {
-        "id": "941530474",
-        "name": "Mario Kart 8 Deluxe"
+        "id": "509663",
+        "name": "Special Events"
       },
       "is_recurring": true
     },
@@ -147,30 +165,39 @@
     {
       "id": "eyJzZWdtZW50SUQiOiJjZGZlMDhmOS01YTFhLTQ2MzctYjZjZS0wZDA4NTdmNzk2M2IiLCJpc29ZZWFyIjoyMDIyLCJpc29XZWVrIjoyMn0=",
       "start_time": "2022-05-31T09:00:00Z",
-      "end_time": "2022-05-31T15:00:00Z",
+      "end_time": "2022-05-31T14:00:00Z",
       "title": "Journée avec le FCF",
       "canceled_until": null,
-      "category": {
-        "id": "687129551",
-        "name": "Trackmania"
-      },
+      "category": null,
       "is_recurring": true
     },
     {
       "id": "eyJzZWdtZW50SUQiOiJhZDdhODg1YS04YTBkLTRjNTQtYTFiZC00MGM1YjQyYmMzZjAiLCJpc29ZZWFyIjoyMDIyLCJpc29XZWVrIjoyMn0=",
-      "start_time": "2022-05-31T18:00:00Z",
-      "end_time": "2022-05-31T20:00:00Z",
-      "title": "Popcorn (chaine de Domingo)",
+      "start_time": "2022-05-31T14:00:00Z",
+      "end_time": "2022-05-31T18:00:00Z",
+      "title": "Session V Rising avec Ultia, Riv, Onu et Wingo",
       "canceled_until": null,
       "category": {
-        "id": "417752",
-        "name": "Talk Shows & Podcasts"
+        "id": "766548668",
+        "name": "V Rising"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiJiZTYyYjU4Mi0xZTk4LTQwMTgtYTIxYi1mMTM3ZWQ4YTU2MmMiLCJpc29ZZWFyIjoyMDIyLCJpc29XZWVrIjoyMn0=",
+      "start_time": "2022-06-01T09:00:00Z",
+      "end_time": "2022-06-01T10:00:00Z",
+      "title": "Du click, des pokémons et de la discussion",
+      "canceled_until": null,
+      "category": {
+        "id": "1288885676",
+        "name": "PokéClicker"
       },
       "is_recurring": true
     },
     {
       "id": "eyJzZWdtZW50SUQiOiIzNDNlYzA0Mi1hOGQwLTQ2MjYtYjVkOS1mMGU0MzI4MGU4MmYiLCJpc29ZZWFyIjoyMDIyLCJpc29XZWVrIjoyMn0=",
-      "start_time": "2022-06-01T09:00:00Z",
+      "start_time": "2022-06-01T10:00:00Z",
       "end_time": "2022-06-01T12:00:00Z",
       "title": "On va suer sur Switch Sports !",
       "canceled_until": null,
@@ -183,7 +210,7 @@
     {
       "id": "eyJzZWdtZW50SUQiOiJkNzc3MDM3Mi1jNjkxLTRlZTItYmU4OC0xZDQwNDE0ODAyYzQiLCJpc29ZZWFyIjoyMDIyLCJpc29XZWVrIjoyMn0=",
       "start_time": "2022-06-01T12:00:00Z",
-      "end_time": "2022-06-01T15:00:00Z",
+      "end_time": "2022-06-01T16:00:00Z",
       "title": "Quelques runs sur Breath of the Wild !",
       "canceled_until": null,
       "category": {
@@ -193,62 +220,26 @@
       "is_recurring": true
     },
     {
-      "id": "eyJzZWdtZW50SUQiOiIwMzQzYTkwOC00YzJlLTQzZTYtYjcxYy02YTBmZjJjMTA2OWIiLCJpc29ZZWFyIjoyMDIyLCJpc29XZWVrIjoyMn0=",
-      "start_time": "2022-06-01T17:30:00Z",
-      "end_time": "2022-06-01T21:30:00Z",
-      "title": "Tournoi Smash des fleurs",
+      "id": "eyJzZWdtZW50SUQiOiI5ZjliMjkxNS05MzM5LTQyYTEtYTlkMi04MGIzYWMxNzhiMDUiLCJpc29ZZWFyIjoyMDIyLCJpc29XZWVrIjoyMn0=",
+      "start_time": "2022-06-02T09:00:00Z",
+      "end_time": "2022-06-02T10:00:00Z",
+      "title": "Du click, des pokémons et de la discussion",
       "canceled_until": null,
       "category": {
-        "id": "504461",
-        "name": "Super Smash Bros. Ultimate"
+        "id": "1288885676",
+        "name": "PokéClicker"
       },
       "is_recurring": true
     },
     {
       "id": "eyJzZWdtZW50SUQiOiIxYmFiYTQ3Ny0zYjI4LTRmMDUtYjM4YS0yZTE4NmFiZjRlMjMiLCJpc29ZZWFyIjoyMDIyLCJpc29XZWVrIjoyMn0=",
-      "start_time": "2022-06-02T09:00:00Z",
+      "start_time": "2022-06-02T10:00:00Z",
       "end_time": "2022-06-02T16:00:00Z",
-      "title": "Slowrun Elden Ring",
+      "title": "Suite du slowrun Elden Ring",
       "canceled_until": null,
       "category": {
         "id": "512953",
         "name": "Elden Ring"
-      },
-      "is_recurring": true
-    },
-    {
-      "id": "eyJzZWdtZW50SUQiOiI0MTZmYmZlZi03YjVhLTQ2NTYtYjQ1Zi1kZGEwYjhkOGJlNTAiLCJpc29ZZWFyIjoyMDIyLCJpc29XZWVrIjoyMn0=",
-      "start_time": "2022-06-03T09:00:00Z",
-      "end_time": "2022-06-03T15:00:00Z",
-      "title": "Multigaming avec les potes",
-      "canceled_until": null,
-      "category": {
-        "id": "941530474",
-        "name": "Mario Kart 8 Deluxe"
-      },
-      "is_recurring": true
-    },
-    {
-      "id": "eyJzZWdtZW50SUQiOiI3YmMwZjU1YS03YjA3LTRlNTMtOTAwMy1kNzQ0Y2FiMjllNmMiLCJpc29ZZWFyIjoyMDIyLCJpc29XZWVrIjoyMn0=",
-      "start_time": "2022-06-04T14:00:00Z",
-      "end_time": "2022-06-04T17:00:00Z",
-      "title": "Rolland Garros Eseries avec LittleBigWhale et Rivenzi (Chaine de Riv)",
-      "canceled_until": null,
-      "category": {
-        "id": "509663",
-        "name": "Special Events"
-      },
-      "is_recurring": true
-    },
-    {
-      "id": "eyJzZWdtZW50SUQiOiIxYjZkNjE4Yy1mYzg2LTQ3YjAtOWZjZi0wOTJmZTZjYzJiOTEiLCJpc29ZZWFyIjoyMDIyLCJpc29XZWVrIjoyMn0=",
-      "start_time": "2022-06-05T11:00:00Z",
-      "end_time": "2022-06-05T15:00:00Z",
-      "title": "Le tournoi MK du dimanche",
-      "canceled_until": null,
-      "category": {
-        "id": "941530474",
-        "name": "Mario Kart 8 Deluxe"
       },
       "is_recurring": true
     }
