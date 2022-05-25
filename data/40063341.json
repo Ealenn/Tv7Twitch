@@ -13,18 +13,6 @@
   },
   "schedulers": [
     {
-      "id": "eyJzZWdtZW50SUQiOiI1MTgwMTJiYi0yNTdjLTRlNGItYjE3Mi1mM2EwNTA5ZjEzODIiLCJpc29ZZWFyIjoyMDIyLCJpc29XZWVrIjoyMX0=",
-      "start_time": "2022-05-24T18:00:00Z",
-      "end_time": "2022-05-24T20:30:00Z",
-      "title": "POPCORN AVEC LAINK, MARIE & ZACK (INVITÉ : EVAN FOURNIER)",
-      "canceled_until": null,
-      "category": {
-        "id": "417752",
-        "name": "Talk Shows & Podcasts"
-      },
-      "is_recurring": true
-    },
-    {
       "id": "eyJzZWdtZW50SUQiOiI2Nzc1OTMzYi05NjI3LTQ1YzktYjU4YS0wMzQxZmJlYzJkZDMiLCJpc29ZZWFyIjoyMDIyLCJpc29XZWVrIjoyMX0=",
       "start_time": "2022-05-25T12:00:00Z",
       "end_time": "2022-05-25T13:00:00Z",
@@ -246,6 +234,18 @@
       "category": {
         "id": "509658",
         "name": "Just Chatting"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiI1MTgwMTJiYi0yNTdjLTRlNGItYjE3Mi1mM2EwNTA5ZjEzODIiLCJpc29ZZWFyIjoyMDIyLCJpc29XZWVrIjoyN30=",
+      "start_time": "2022-07-05T18:00:00Z",
+      "end_time": "2022-07-05T20:30:00Z",
+      "title": "POPCORN AVEC LAINK, MARIE & ZACK (INVITÉ : EVAN FOURNIER)",
+      "canceled_until": null,
+      "category": {
+        "id": "417752",
+        "name": "Talk Shows & Podcasts"
       },
       "is_recurring": true
     }
