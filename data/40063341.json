@@ -13,30 +13,6 @@
   },
   "schedulers": [
     {
-      "id": "eyJzZWdtZW50SUQiOiIxZWFjMGI4ZS0wZGIyLTRkM2UtYjc2Ny02OWI5ZTMxNjhlNTYiLCJpc29ZZWFyIjoyMDIyLCJpc29XZWVrIjoyMX0=",
-      "start_time": "2022-05-26T17:30:00Z",
-      "end_time": "2022-05-26T19:00:00Z",
-      "title": "OUVERTURE BILLETTERIE POPCORN FESTIVAL",
-      "canceled_until": null,
-      "category": {
-        "id": "509658",
-        "name": "Just Chatting"
-      },
-      "is_recurring": false
-    },
-    {
-      "id": "eyJzZWdtZW50SUQiOiI3ZmUzNDAxMS0zOGRkLTRiYjktOTY2MC03MDU3YTJhNDdhMWEiLCJpc29ZZWFyIjoyMDIyLCJpc29XZWVrIjoyMX0=",
-      "start_time": "2022-05-26T19:00:00Z",
-      "end_time": "2022-05-26T22:00:00Z",
-      "title": "REACT DOCU",
-      "canceled_until": null,
-      "category": {
-        "id": "509658",
-        "name": "Just Chatting"
-      },
-      "is_recurring": false
-    },
-    {
       "id": "eyJzZWdtZW50SUQiOiI0NWY5MzA4MS1kODk0LTQyM2EtODBjYi04MjhlNWYzMGU3NTgiLCJpc29ZZWFyIjoyMDIyLCJpc29XZWVrIjoyMX0=",
       "start_time": "2022-05-27T12:00:00Z",
       "end_time": "2022-05-27T13:00:00Z",
@@ -244,6 +220,30 @@
       "id": "eyJzZWdtZW50SUQiOiIwMjkzZTNhZS0wZWE0LTRhZjEtYTZmYi01Yjc2MmM4NmYyNWIiLCJpc29ZZWFyIjoyMDIyLCJpc29XZWVrIjoyOX0=",
       "start_time": "2022-07-18T17:30:00Z",
       "end_time": "2022-07-18T19:00:00Z",
+      "title": "PRÉ-LIVE",
+      "canceled_until": null,
+      "category": {
+        "id": "509658",
+        "name": "Just Chatting"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiI1MTgwMTJiYi0yNTdjLTRlNGItYjE3Mi1mM2EwNTA5ZjEzODIiLCJpc29ZZWFyIjoyMDIyLCJpc29XZWVrIjoyOX0=",
+      "start_time": "2022-07-19T18:00:00Z",
+      "end_time": "2022-07-19T20:30:00Z",
+      "title": "POPCORN AVEC LAINK, MARIE & ZACK (INVITÉ : EVAN FOURNIER)",
+      "canceled_until": null,
+      "category": {
+        "id": "417752",
+        "name": "Talk Shows & Podcasts"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiIwMjkzZTNhZS0wZWE0LTRhZjEtYTZmYi01Yjc2MmM4NmYyNWIiLCJpc29ZZWFyIjoyMDIyLCJpc29XZWVrIjozMH0=",
+      "start_time": "2022-07-25T17:30:00Z",
+      "end_time": "2022-07-25T19:00:00Z",
       "title": "PRÉ-LIVE",
       "canceled_until": null,
       "category": {
