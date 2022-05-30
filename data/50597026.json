@@ -13,18 +13,6 @@
   },
   "schedulers": [
     {
-      "id": "eyJzZWdtZW50SUQiOiIxYjZkNjE4Yy1mYzg2LTQ3YjAtOWZjZi0wOTJmZTZjYzJiOTEiLCJpc29ZZWFyIjoyMDIyLCJpc29XZWVrIjoyMX0=",
-      "start_time": "2022-05-29T12:00:00Z",
-      "end_time": "2022-05-29T15:00:00Z",
-      "title": "Big 9 (chaine de Domingo)",
-      "canceled_until": null,
-      "category": {
-        "id": "509663",
-        "name": "Special Events"
-      },
-      "is_recurring": true
-    },
-    {
       "id": "eyJzZWdtZW50SUQiOiI3ZmEwOGYzYy00YTA3LTQ2ZjMtODBhOC0xNDBhMDMxMGE2YzUiLCJpc29ZZWFyIjoyMDIyLCJpc29XZWVrIjoyMn0=",
       "start_time": "2022-05-30T09:00:00Z",
       "end_time": "2022-05-30T15:00:00Z",
@@ -39,41 +27,29 @@
     {
       "id": "eyJzZWdtZW50SUQiOiJjZGZlMDhmOS01YTFhLTQ2MzctYjZjZS0wZDA4NTdmNzk2M2IiLCJpc29ZZWFyIjoyMDIyLCJpc29XZWVrIjoyMn0=",
       "start_time": "2022-05-31T09:00:00Z",
-      "end_time": "2022-05-31T14:00:00Z",
+      "end_time": "2022-05-31T15:00:00Z",
       "title": "Journée avec le FCF",
       "canceled_until": null,
       "category": null,
       "is_recurring": true
     },
     {
-      "id": "eyJzZWdtZW50SUQiOiJhZDdhODg1YS04YTBkLTRjNTQtYTFiZC00MGM1YjQyYmMzZjAiLCJpc29ZZWFyIjoyMDIyLCJpc29XZWVrIjoyMn0=",
-      "start_time": "2022-05-31T14:00:00Z",
-      "end_time": "2022-05-31T18:00:00Z",
-      "title": "Session V Rising avec Ultia, Riv, Onu et Wingo",
+      "id": "eyJzZWdtZW50SUQiOiJiODIyMzk0ZS1jNWQwLTQzMWYtYTI1Yy03ZWM4YTAxNTY3ODkiLCJpc29ZZWFyIjoyMDIyLCJpc29XZWVrIjoyMn0=",
+      "start_time": "2022-05-31T18:00:00Z",
+      "end_time": "2022-05-31T20:00:00Z",
+      "title": "Popcorn (chaîne de Domingo)",
       "canceled_until": null,
       "category": {
-        "id": "766548668",
-        "name": "V Rising"
-      },
-      "is_recurring": true
-    },
-    {
-      "id": "eyJzZWdtZW50SUQiOiJiZTYyYjU4Mi0xZTk4LTQwMTgtYTIxYi1mMTM3ZWQ4YTU2MmMiLCJpc29ZZWFyIjoyMDIyLCJpc29XZWVrIjoyMn0=",
-      "start_time": "2022-06-01T09:00:00Z",
-      "end_time": "2022-06-01T10:00:00Z",
-      "title": "Du click, des pokémons et de la discussion",
-      "canceled_until": null,
-      "category": {
-        "id": "1288885676",
-        "name": "PokéClicker"
+        "id": "417752",
+        "name": "Talk Shows & Podcasts"
       },
       "is_recurring": true
     },
     {
       "id": "eyJzZWdtZW50SUQiOiIzNDNlYzA0Mi1hOGQwLTQ2MjYtYjVkOS1mMGU0MzI4MGU4MmYiLCJpc29ZZWFyIjoyMDIyLCJpc29XZWVrIjoyMn0=",
-      "start_time": "2022-06-01T10:00:00Z",
-      "end_time": "2022-06-01T12:00:00Z",
-      "title": "On va suer sur Switch Sports !",
+      "start_time": "2022-06-01T09:00:00Z",
+      "end_time": "2022-06-01T11:00:00Z",
+      "title": "Gameplay bowling sur Switch Sports",
       "canceled_until": null,
       "category": {
         "id": "2044170173",
@@ -83,9 +59,9 @@
     },
     {
       "id": "eyJzZWdtZW50SUQiOiJkNzc3MDM3Mi1jNjkxLTRlZTItYmU4OC0xZDQwNDE0ODAyYzQiLCJpc29ZZWFyIjoyMDIyLCJpc29XZWVrIjoyMn0=",
-      "start_time": "2022-06-01T12:00:00Z",
+      "start_time": "2022-06-01T11:00:00Z",
       "end_time": "2022-06-01T16:00:00Z",
-      "title": "Quelques runs sur Breath of the Wild !",
+      "title": "Speedrun any% Breath of the Wild !",
       "canceled_until": null,
       "category": {
         "id": "110758",
@@ -94,20 +70,8 @@
       "is_recurring": true
     },
     {
-      "id": "eyJzZWdtZW50SUQiOiI5ZjliMjkxNS05MzM5LTQyYTEtYTlkMi04MGIzYWMxNzhiMDUiLCJpc29ZZWFyIjoyMDIyLCJpc29XZWVrIjoyMn0=",
-      "start_time": "2022-06-02T09:00:00Z",
-      "end_time": "2022-06-02T10:00:00Z",
-      "title": "Du click, des pokémons et de la discussion",
-      "canceled_until": null,
-      "category": {
-        "id": "1288885676",
-        "name": "PokéClicker"
-      },
-      "is_recurring": true
-    },
-    {
       "id": "eyJzZWdtZW50SUQiOiIxYmFiYTQ3Ny0zYjI4LTRmMDUtYjM4YS0yZTE4NmFiZjRlMjMiLCJpc29ZZWFyIjoyMDIyLCJpc29XZWVrIjoyMn0=",
-      "start_time": "2022-06-02T10:00:00Z",
+      "start_time": "2022-06-02T09:00:00Z",
       "end_time": "2022-06-02T16:00:00Z",
       "title": "Suite du slowrun Elden Ring",
       "canceled_until": null,
@@ -118,31 +82,10 @@
       "is_recurring": true
     },
     {
-      "id": "eyJzZWdtZW50SUQiOiI0MTZmYmZlZi03YjVhLTQ2NTYtYjQ1Zi1kZGEwYjhkOGJlNTAiLCJpc29ZZWFyIjoyMDIyLCJpc29XZWVrIjoyMn0=",
-      "start_time": "2022-06-03T09:00:00Z",
-      "end_time": "2022-06-03T11:00:00Z",
-      "title": "Multigaming avec les potes",
-      "canceled_until": null,
-      "category": null,
-      "is_recurring": true
-    },
-    {
-      "id": "eyJzZWdtZW50SUQiOiI0NWUyZGVjZi1lMGM1LTRkNjMtOTJiMS1iOWNkN2ExYWVlMTQiLCJpc29ZZWFyIjoyMDIyLCJpc29XZWVrIjoyMn0=",
-      "start_time": "2022-06-03T11:00:00Z",
-      "end_time": "2022-06-03T15:00:00Z",
-      "title": "Les vampires sont de retour, avec la team !",
-      "canceled_until": null,
-      "category": {
-        "id": "766548668",
-        "name": "V Rising"
-      },
-      "is_recurring": true
-    },
-    {
-      "id": "eyJzZWdtZW50SUQiOiI2YjU1NmJjYy03MWM0LTQ5M2ItOGQyNi1iOTE5MGE2Yzc0OTYiLCJpc29ZZWFyIjoyMDIyLCJpc29XZWVrIjoyMn0=",
-      "start_time": "2022-06-03T18:00:00Z",
-      "end_time": "2022-06-03T22:00:00Z",
-      "title": "Ponce la Switch",
+      "id": "eyJzZWdtZW50SUQiOiIxYjZkNjE4Yy1mYzg2LTQ3YjAtOWZjZi0wOTJmZTZjYzJiOTEiLCJpc29ZZWFyIjoyMDIyLCJpc29XZWVrIjoyMn0=",
+      "start_time": "2022-06-05T11:00:00Z",
+      "end_time": "2022-06-05T15:00:00Z",
+      "title": "Tournoi MK",
       "canceled_until": null,
       "category": {
         "id": "941530474",
@@ -151,26 +94,14 @@
       "is_recurring": true
     },
     {
-      "id": "eyJzZWdtZW50SUQiOiI3YmMwZjU1YS03YjA3LTRlNTMtOTAwMy1kNzQ0Y2FiMjllNmMiLCJpc29ZZWFyIjoyMDIyLCJpc29XZWVrIjoyMn0=",
-      "start_time": "2022-06-04T16:00:00Z",
-      "end_time": "2022-06-04T19:00:00Z",
-      "title": "Invitational du Wanted (chaines de NTK et SolaryEvent)",
+      "id": "eyJzZWdtZW50SUQiOiJlNmQ0MzczNC1kZDgzLTRkZmYtOGNjNC00OGQ0ZGY0MDNjN2EiLCJpc29ZZWFyIjoyMDIyLCJpc29XZWVrIjoyMn0=",
+      "start_time": "2022-06-05T15:00:00Z",
+      "end_time": "2022-06-05T17:00:00Z",
+      "title": "Session Smash & Bonheur",
       "canceled_until": null,
       "category": {
-        "id": "509663",
-        "name": "Special Events"
-      },
-      "is_recurring": true
-    },
-    {
-      "id": "eyJzZWdtZW50SUQiOiIxYjZkNjE4Yy1mYzg2LTQ3YjAtOWZjZi0wOTJmZTZjYzJiOTEiLCJpc29ZZWFyIjoyMDIyLCJpc29XZWVrIjoyMn0=",
-      "start_time": "2022-06-05T12:00:00Z",
-      "end_time": "2022-06-05T15:00:00Z",
-      "title": "Big 9 (chaine de Domingo)",
-      "canceled_until": null,
-      "category": {
-        "id": "509663",
-        "name": "Special Events"
+        "id": "504461",
+        "name": "Super Smash Bros. Ultimate"
       },
       "is_recurring": true
     },
@@ -189,41 +120,29 @@
     {
       "id": "eyJzZWdtZW50SUQiOiJjZGZlMDhmOS01YTFhLTQ2MzctYjZjZS0wZDA4NTdmNzk2M2IiLCJpc29ZZWFyIjoyMDIyLCJpc29XZWVrIjoyM30=",
       "start_time": "2022-06-07T09:00:00Z",
-      "end_time": "2022-06-07T14:00:00Z",
+      "end_time": "2022-06-07T15:00:00Z",
       "title": "Journée avec le FCF",
       "canceled_until": null,
       "category": null,
       "is_recurring": true
     },
     {
-      "id": "eyJzZWdtZW50SUQiOiJhZDdhODg1YS04YTBkLTRjNTQtYTFiZC00MGM1YjQyYmMzZjAiLCJpc29ZZWFyIjoyMDIyLCJpc29XZWVrIjoyM30=",
-      "start_time": "2022-06-07T14:00:00Z",
-      "end_time": "2022-06-07T18:00:00Z",
-      "title": "Session V Rising avec Ultia, Riv, Onu et Wingo",
+      "id": "eyJzZWdtZW50SUQiOiJiODIyMzk0ZS1jNWQwLTQzMWYtYTI1Yy03ZWM4YTAxNTY3ODkiLCJpc29ZZWFyIjoyMDIyLCJpc29XZWVrIjoyM30=",
+      "start_time": "2022-06-07T18:00:00Z",
+      "end_time": "2022-06-07T20:00:00Z",
+      "title": "Popcorn (chaîne de Domingo)",
       "canceled_until": null,
       "category": {
-        "id": "766548668",
-        "name": "V Rising"
-      },
-      "is_recurring": true
-    },
-    {
-      "id": "eyJzZWdtZW50SUQiOiJiZTYyYjU4Mi0xZTk4LTQwMTgtYTIxYi1mMTM3ZWQ4YTU2MmMiLCJpc29ZZWFyIjoyMDIyLCJpc29XZWVrIjoyM30=",
-      "start_time": "2022-06-08T09:00:00Z",
-      "end_time": "2022-06-08T10:00:00Z",
-      "title": "Du click, des pokémons et de la discussion",
-      "canceled_until": null,
-      "category": {
-        "id": "1288885676",
-        "name": "PokéClicker"
+        "id": "417752",
+        "name": "Talk Shows & Podcasts"
       },
       "is_recurring": true
     },
     {
       "id": "eyJzZWdtZW50SUQiOiIzNDNlYzA0Mi1hOGQwLTQ2MjYtYjVkOS1mMGU0MzI4MGU4MmYiLCJpc29ZZWFyIjoyMDIyLCJpc29XZWVrIjoyM30=",
-      "start_time": "2022-06-08T10:00:00Z",
-      "end_time": "2022-06-08T12:00:00Z",
-      "title": "On va suer sur Switch Sports !",
+      "start_time": "2022-06-08T09:00:00Z",
+      "end_time": "2022-06-08T11:00:00Z",
+      "title": "Gameplay bowling sur Switch Sports",
       "canceled_until": null,
       "category": {
         "id": "2044170173",
@@ -233,13 +152,94 @@
     },
     {
       "id": "eyJzZWdtZW50SUQiOiJkNzc3MDM3Mi1jNjkxLTRlZTItYmU4OC0xZDQwNDE0ODAyYzQiLCJpc29ZZWFyIjoyMDIyLCJpc29XZWVrIjoyM30=",
-      "start_time": "2022-06-08T12:00:00Z",
+      "start_time": "2022-06-08T11:00:00Z",
       "end_time": "2022-06-08T16:00:00Z",
-      "title": "Quelques runs sur Breath of the Wild !",
+      "title": "Speedrun any% Breath of the Wild !",
       "canceled_until": null,
       "category": {
         "id": "110758",
         "name": "The Legend of Zelda: Breath of the Wild"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiIxYmFiYTQ3Ny0zYjI4LTRmMDUtYjM4YS0yZTE4NmFiZjRlMjMiLCJpc29ZZWFyIjoyMDIyLCJpc29XZWVrIjoyM30=",
+      "start_time": "2022-06-09T09:00:00Z",
+      "end_time": "2022-06-09T16:00:00Z",
+      "title": "Suite du slowrun Elden Ring",
+      "canceled_until": null,
+      "category": {
+        "id": "512953",
+        "name": "Elden Ring"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiIxYjZkNjE4Yy1mYzg2LTQ3YjAtOWZjZi0wOTJmZTZjYzJiOTEiLCJpc29ZZWFyIjoyMDIyLCJpc29XZWVrIjoyM30=",
+      "start_time": "2022-06-12T11:00:00Z",
+      "end_time": "2022-06-12T15:00:00Z",
+      "title": "Tournoi MK",
+      "canceled_until": null,
+      "category": {
+        "id": "941530474",
+        "name": "Mario Kart 8 Deluxe"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiJlNmQ0MzczNC1kZDgzLTRkZmYtOGNjNC00OGQ0ZGY0MDNjN2EiLCJpc29ZZWFyIjoyMDIyLCJpc29XZWVrIjoyM30=",
+      "start_time": "2022-06-12T15:00:00Z",
+      "end_time": "2022-06-12T17:00:00Z",
+      "title": "Session Smash & Bonheur",
+      "canceled_until": null,
+      "category": {
+        "id": "504461",
+        "name": "Super Smash Bros. Ultimate"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiI3ZmEwOGYzYy00YTA3LTQ2ZjMtODBhOC0xNDBhMDMxMGE2YzUiLCJpc29ZZWFyIjoyMDIyLCJpc29XZWVrIjoyNH0=",
+      "start_time": "2022-06-13T09:00:00Z",
+      "end_time": "2022-06-13T15:00:00Z",
+      "title": "Culture et plaisir",
+      "canceled_until": null,
+      "category": {
+        "id": "338715930",
+        "name": "Maitre des Fleurs"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiJjZGZlMDhmOS01YTFhLTQ2MzctYjZjZS0wZDA4NTdmNzk2M2IiLCJpc29ZZWFyIjoyMDIyLCJpc29XZWVrIjoyNH0=",
+      "start_time": "2022-06-14T09:00:00Z",
+      "end_time": "2022-06-14T15:00:00Z",
+      "title": "Journée avec le FCF",
+      "canceled_until": null,
+      "category": null,
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiJiODIyMzk0ZS1jNWQwLTQzMWYtYTI1Yy03ZWM4YTAxNTY3ODkiLCJpc29ZZWFyIjoyMDIyLCJpc29XZWVrIjoyNH0=",
+      "start_time": "2022-06-14T18:00:00Z",
+      "end_time": "2022-06-14T20:00:00Z",
+      "title": "Popcorn (chaîne de Domingo)",
+      "canceled_until": null,
+      "category": {
+        "id": "417752",
+        "name": "Talk Shows & Podcasts"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiIzNDNlYzA0Mi1hOGQwLTQ2MjYtYjVkOS1mMGU0MzI4MGU4MmYiLCJpc29ZZWFyIjoyMDIyLCJpc29XZWVrIjoyNH0=",
+      "start_time": "2022-06-15T09:00:00Z",
+      "end_time": "2022-06-15T11:00:00Z",
+      "title": "Gameplay bowling sur Switch Sports",
+      "canceled_until": null,
+      "category": {
+        "id": "2044170173",
+        "name": "Nintendo Switch Sports"
       },
       "is_recurring": true
     }

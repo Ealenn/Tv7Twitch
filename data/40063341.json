@@ -13,18 +13,6 @@
   },
   "schedulers": [
     {
-      "id": "eyJzZWdtZW50SUQiOiI5MjA5MWEzZC02YWZlLTQzZmYtOGYwYS0wMjI4ZTEyYWQyNGEiLCJpc29ZZWFyIjoyMDIyLCJpc29XZWVrIjoyMX0=",
-      "start_time": "2022-05-29T12:00:00Z",
-      "end_time": "2022-05-29T15:00:00Z",
-      "title": "BIG 9 (TEAM JIJI VS TEAM MICHOU VS TEAM PONCE)",
-      "canceled_until": null,
-      "category": {
-        "id": "518203",
-        "name": "Sports"
-      },
-      "is_recurring": false
-    },
-    {
       "id": "eyJzZWdtZW50SUQiOiIwMjkzZTNhZS0wZWE0LTRhZjEtYTZmYi01Yjc2MmM4NmYyNWIiLCJpc29ZZWFyIjoyMDIyLCJpc29XZWVrIjoyMn0=",
       "start_time": "2022-05-30T17:30:00Z",
       "end_time": "2022-05-30T19:00:00Z",
@@ -249,6 +237,18 @@
       "category": {
         "id": "509658",
         "name": "Just Chatting"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiI1MTgwMTJiYi0yNTdjLTRlNGItYjE3Mi1mM2EwNTA5ZjEzODIiLCJpc29ZZWFyIjoyMDIyLCJpc29XZWVrIjozMX0=",
+      "start_time": "2022-08-02T18:00:00Z",
+      "end_time": "2022-08-02T20:30:00Z",
+      "title": "POPCORN AVEC LAINK, MARIE & ZACK (INVITÉ : EVAN FOURNIER)",
+      "canceled_until": null,
+      "category": {
+        "id": "417752",
+        "name": "Talk Shows & Podcasts"
       },
       "is_recurring": true
     }
