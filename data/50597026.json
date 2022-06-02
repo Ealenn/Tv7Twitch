@@ -13,30 +13,6 @@
   },
   "schedulers": [
     {
-      "id": "eyJzZWdtZW50SUQiOiIzNDNlYzA0Mi1hOGQwLTQ2MjYtYjVkOS1mMGU0MzI4MGU4MmYiLCJpc29ZZWFyIjoyMDIyLCJpc29XZWVrIjoyMn0=",
-      "start_time": "2022-06-01T09:00:00Z",
-      "end_time": "2022-06-01T11:00:00Z",
-      "title": "Gameplay bowling sur Switch Sports",
-      "canceled_until": null,
-      "category": {
-        "id": "2044170173",
-        "name": "Nintendo Switch Sports"
-      },
-      "is_recurring": true
-    },
-    {
-      "id": "eyJzZWdtZW50SUQiOiJkNzc3MDM3Mi1jNjkxLTRlZTItYmU4OC0xZDQwNDE0ODAyYzQiLCJpc29ZZWFyIjoyMDIyLCJpc29XZWVrIjoyMn0=",
-      "start_time": "2022-06-01T11:00:00Z",
-      "end_time": "2022-06-01T16:00:00Z",
-      "title": "Speedrun any% Breath of the Wild !",
-      "canceled_until": null,
-      "category": {
-        "id": "110758",
-        "name": "The Legend of Zelda: Breath of the Wild"
-      },
-      "is_recurring": true
-    },
-    {
       "id": "eyJzZWdtZW50SUQiOiIxYmFiYTQ3Ny0zYjI4LTRmMDUtYjM4YS0yZTE4NmFiZjRlMjMiLCJpc29ZZWFyIjoyMDIyLCJpc29XZWVrIjoyMn0=",
       "start_time": "2022-06-02T09:00:00Z",
       "end_time": "2022-06-02T16:00:00Z",
@@ -243,6 +219,30 @@
       "category": {
         "id": "941530474",
         "name": "Mario Kart 8 Deluxe"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiJlNmQ0MzczNC1kZDgzLTRkZmYtOGNjNC00OGQ0ZGY0MDNjN2EiLCJpc29ZZWFyIjoyMDIyLCJpc29XZWVrIjoyNH0=",
+      "start_time": "2022-06-19T15:00:00Z",
+      "end_time": "2022-06-19T17:00:00Z",
+      "title": "Session Smash & Bonheur",
+      "canceled_until": null,
+      "category": {
+        "id": "504461",
+        "name": "Super Smash Bros. Ultimate"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiI3ZmEwOGYzYy00YTA3LTQ2ZjMtODBhOC0xNDBhMDMxMGE2YzUiLCJpc29ZZWFyIjoyMDIyLCJpc29XZWVrIjoyNX0=",
+      "start_time": "2022-06-20T09:00:00Z",
+      "end_time": "2022-06-20T15:00:00Z",
+      "title": "Culture et plaisir",
+      "canceled_until": null,
+      "category": {
+        "id": "338715930",
+        "name": "Maitre des Fleurs"
       },
       "is_recurring": true
     }
