@@ -13,30 +13,6 @@
   },
   "schedulers": [
     {
-      "id": "eyJzZWdtZW50SUQiOiJjMjc4MmY4Yy1mYjQ1LTQxN2EtOTkzMS02ODAyZjNhNWEyZWIiLCJpc29ZZWFyIjoyMDIyLCJpc29XZWVrIjoyMn0=",
-      "start_time": "2022-06-02T17:30:00Z",
-      "end_time": "2022-06-02T18:30:00Z",
-      "title": "PRÉ-LIVE",
-      "canceled_until": null,
-      "category": {
-        "id": "509658",
-        "name": "Just Chatting"
-      },
-      "is_recurring": false
-    },
-    {
-      "id": "eyJzZWdtZW50SUQiOiJkYjFlMzY4YS0xMGIxLTQwYTgtYjU1Mi1hY2Y1OGViZDBlMWQiLCJpc29ZZWFyIjoyMDIyLCJpc29XZWVrIjoyMn0=",
-      "start_time": "2022-06-02T18:30:00Z",
-      "end_time": "2022-06-02T22:00:00Z",
-      "title": "REACT (NOUVELLE SÉRIE)",
-      "canceled_until": null,
-      "category": {
-        "id": "509658",
-        "name": "Just Chatting"
-      },
-      "is_recurring": false
-    },
-    {
       "id": "eyJzZWdtZW50SUQiOiJhMmNjOGI2Mi0xYjc4LTQzYmEtOTY1Yi0yNzQ5N2ZhNDBmYWMiLCJpc29ZZWFyIjoyMDIyLCJpc29XZWVrIjoyMn0=",
       "start_time": "2022-06-03T12:00:00Z",
       "end_time": "2022-06-03T13:00:00Z",
@@ -241,6 +217,30 @@
       "id": "eyJzZWdtZW50SUQiOiI1MTgwMTJiYi0yNTdjLTRlNGItYjE3Mi1mM2EwNTA5ZjEzODIiLCJpc29ZZWFyIjoyMDIyLCJpc29XZWVrIjozMH0=",
       "start_time": "2022-07-26T18:00:00Z",
       "end_time": "2022-07-26T20:30:00Z",
+      "title": "POPCORN AVEC MARIE, MAGHLA & PONCE (INVITÉ : ESTEBAN OCON)",
+      "canceled_until": null,
+      "category": {
+        "id": "417752",
+        "name": "Talk Shows & Podcasts"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiIwMjkzZTNhZS0wZWE0LTRhZjEtYTZmYi01Yjc2MmM4NmYyNWIiLCJpc29ZZWFyIjoyMDIyLCJpc29XZWVrIjozMX0=",
+      "start_time": "2022-08-01T18:00:00Z",
+      "end_time": "2022-08-01T22:00:00Z",
+      "title": "OPEN WORLD (sur la chaine de GOTAGA)",
+      "canceled_until": null,
+      "category": {
+        "id": "509658",
+        "name": "Just Chatting"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiI1MTgwMTJiYi0yNTdjLTRlNGItYjE3Mi1mM2EwNTA5ZjEzODIiLCJpc29ZZWFyIjoyMDIyLCJpc29XZWVrIjozMX0=",
+      "start_time": "2022-08-02T18:00:00Z",
+      "end_time": "2022-08-02T20:30:00Z",
       "title": "POPCORN AVEC MARIE, MAGHLA & PONCE (INVITÉ : ESTEBAN OCON)",
       "canceled_until": null,
       "category": {
