@@ -13,30 +13,6 @@
   },
   "schedulers": [
     {
-      "id": "eyJzZWdtZW50SUQiOiIxYjZkNjE4Yy1mYzg2LTQ3YjAtOWZjZi0wOTJmZTZjYzJiOTEiLCJpc29ZZWFyIjoyMDIyLCJpc29XZWVrIjoyMn0=",
-      "start_time": "2022-06-05T11:00:00Z",
-      "end_time": "2022-06-05T15:00:00Z",
-      "title": "Tournoi MK",
-      "canceled_until": null,
-      "category": {
-        "id": "941530474",
-        "name": "Mario Kart 8 Deluxe"
-      },
-      "is_recurring": true
-    },
-    {
-      "id": "eyJzZWdtZW50SUQiOiJlNmQ0MzczNC1kZDgzLTRkZmYtOGNjNC00OGQ0ZGY0MDNjN2EiLCJpc29ZZWFyIjoyMDIyLCJpc29XZWVrIjoyMn0=",
-      "start_time": "2022-06-05T15:00:00Z",
-      "end_time": "2022-06-05T17:00:00Z",
-      "title": "Session Smash & Bonheur",
-      "canceled_until": null,
-      "category": {
-        "id": "504461",
-        "name": "Super Smash Bros. Ultimate"
-      },
-      "is_recurring": true
-    },
-    {
       "id": "eyJzZWdtZW50SUQiOiI3ZmEwOGYzYy00YTA3LTQ2ZjMtODBhOC0xNDBhMDMxMGE2YzUiLCJpc29ZZWFyIjoyMDIyLCJpc29XZWVrIjoyM30=",
       "start_time": "2022-06-06T09:00:00Z",
       "end_time": "2022-06-06T15:00:00Z",
@@ -51,22 +27,10 @@
     {
       "id": "eyJzZWdtZW50SUQiOiJjZGZlMDhmOS01YTFhLTQ2MzctYjZjZS0wZDA4NTdmNzk2M2IiLCJpc29ZZWFyIjoyMDIyLCJpc29XZWVrIjoyM30=",
       "start_time": "2022-06-07T09:00:00Z",
-      "end_time": "2022-06-07T15:00:00Z",
-      "title": "Journée avec le FCF",
+      "end_time": "2022-06-07T16:00:00Z",
+      "title": "Journée multi avec le FCF",
       "canceled_until": null,
       "category": null,
-      "is_recurring": true
-    },
-    {
-      "id": "eyJzZWdtZW50SUQiOiJiODIyMzk0ZS1jNWQwLTQzMWYtYTI1Yy03ZWM4YTAxNTY3ODkiLCJpc29ZZWFyIjoyMDIyLCJpc29XZWVrIjoyM30=",
-      "start_time": "2022-06-07T18:00:00Z",
-      "end_time": "2022-06-07T20:00:00Z",
-      "title": "Popcorn (chaîne de Domingo)",
-      "canceled_until": null,
-      "category": {
-        "id": "417752",
-        "name": "Talk Shows & Podcasts"
-      },
       "is_recurring": true
     },
     {
@@ -106,6 +70,18 @@
       "is_recurring": true
     },
     {
+      "id": "eyJzZWdtZW50SUQiOiI3YjE4Y2ZkYy0zZWIyLTQ5YTktYjE2Ny03ZjEyZDNmZDU5ZGMiLCJpc29ZZWFyIjoyMDIyLCJpc29XZWVrIjoyM30=",
+      "start_time": "2022-06-10T08:00:00Z",
+      "end_time": "2022-06-10T15:00:00Z",
+      "title": "Du foot et des carapaces",
+      "canceled_until": null,
+      "category": {
+        "id": "1769394593",
+        "name": "Mario Strikers: Battle League"
+      },
+      "is_recurring": true
+    },
+    {
       "id": "eyJzZWdtZW50SUQiOiIxYjZkNjE4Yy1mYzg2LTQ3YjAtOWZjZi0wOTJmZTZjYzJiOTEiLCJpc29ZZWFyIjoyMDIyLCJpc29XZWVrIjoyM30=",
       "start_time": "2022-06-12T11:00:00Z",
       "end_time": "2022-06-12T15:00:00Z",
@@ -120,12 +96,12 @@
     {
       "id": "eyJzZWdtZW50SUQiOiJlNmQ0MzczNC1kZDgzLTRkZmYtOGNjNC00OGQ0ZGY0MDNjN2EiLCJpc29ZZWFyIjoyMDIyLCJpc29XZWVrIjoyM30=",
       "start_time": "2022-06-12T15:00:00Z",
-      "end_time": "2022-06-12T17:00:00Z",
-      "title": "Session Smash & Bonheur",
+      "end_time": "2022-06-12T18:00:00Z",
+      "title": "Du foot et des carapaces",
       "canceled_until": null,
       "category": {
-        "id": "504461",
-        "name": "Super Smash Bros. Ultimate"
+        "id": "1769394593",
+        "name": "Mario Strikers: Battle League"
       },
       "is_recurring": true
     },
@@ -144,22 +120,10 @@
     {
       "id": "eyJzZWdtZW50SUQiOiJjZGZlMDhmOS01YTFhLTQ2MzctYjZjZS0wZDA4NTdmNzk2M2IiLCJpc29ZZWFyIjoyMDIyLCJpc29XZWVrIjoyNH0=",
       "start_time": "2022-06-14T09:00:00Z",
-      "end_time": "2022-06-14T15:00:00Z",
-      "title": "Journée avec le FCF",
+      "end_time": "2022-06-14T16:00:00Z",
+      "title": "Journée multi avec le FCF",
       "canceled_until": null,
       "category": null,
-      "is_recurring": true
-    },
-    {
-      "id": "eyJzZWdtZW50SUQiOiJiODIyMzk0ZS1jNWQwLTQzMWYtYTI1Yy03ZWM4YTAxNTY3ODkiLCJpc29ZZWFyIjoyMDIyLCJpc29XZWVrIjoyNH0=",
-      "start_time": "2022-06-14T18:00:00Z",
-      "end_time": "2022-06-14T20:00:00Z",
-      "title": "Popcorn (chaîne de Domingo)",
-      "canceled_until": null,
-      "category": {
-        "id": "417752",
-        "name": "Talk Shows & Podcasts"
-      },
       "is_recurring": true
     },
     {
@@ -199,6 +163,18 @@
       "is_recurring": true
     },
     {
+      "id": "eyJzZWdtZW50SUQiOiI3YjE4Y2ZkYy0zZWIyLTQ5YTktYjE2Ny03ZjEyZDNmZDU5ZGMiLCJpc29ZZWFyIjoyMDIyLCJpc29XZWVrIjoyNH0=",
+      "start_time": "2022-06-17T08:00:00Z",
+      "end_time": "2022-06-17T15:00:00Z",
+      "title": "Du foot et des carapaces",
+      "canceled_until": null,
+      "category": {
+        "id": "1769394593",
+        "name": "Mario Strikers: Battle League"
+      },
+      "is_recurring": true
+    },
+    {
       "id": "eyJzZWdtZW50SUQiOiIxYjZkNjE4Yy1mYzg2LTQ3YjAtOWZjZi0wOTJmZTZjYzJiOTEiLCJpc29ZZWFyIjoyMDIyLCJpc29XZWVrIjoyNH0=",
       "start_time": "2022-06-19T11:00:00Z",
       "end_time": "2022-06-19T15:00:00Z",
@@ -213,12 +189,12 @@
     {
       "id": "eyJzZWdtZW50SUQiOiJlNmQ0MzczNC1kZDgzLTRkZmYtOGNjNC00OGQ0ZGY0MDNjN2EiLCJpc29ZZWFyIjoyMDIyLCJpc29XZWVrIjoyNH0=",
       "start_time": "2022-06-19T15:00:00Z",
-      "end_time": "2022-06-19T17:00:00Z",
-      "title": "Session Smash & Bonheur",
+      "end_time": "2022-06-19T18:00:00Z",
+      "title": "Du foot et des carapaces",
       "canceled_until": null,
       "category": {
-        "id": "504461",
-        "name": "Super Smash Bros. Ultimate"
+        "id": "1769394593",
+        "name": "Mario Strikers: Battle League"
       },
       "is_recurring": true
     },
@@ -237,10 +213,34 @@
     {
       "id": "eyJzZWdtZW50SUQiOiJjZGZlMDhmOS01YTFhLTQ2MzctYjZjZS0wZDA4NTdmNzk2M2IiLCJpc29ZZWFyIjoyMDIyLCJpc29XZWVrIjoyNX0=",
       "start_time": "2022-06-21T09:00:00Z",
-      "end_time": "2022-06-21T15:00:00Z",
-      "title": "Journée avec le FCF",
+      "end_time": "2022-06-21T16:00:00Z",
+      "title": "Journée multi avec le FCF",
       "canceled_until": null,
       "category": null,
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiIzNDNlYzA0Mi1hOGQwLTQ2MjYtYjVkOS1mMGU0MzI4MGU4MmYiLCJpc29ZZWFyIjoyMDIyLCJpc29XZWVrIjoyNX0=",
+      "start_time": "2022-06-22T09:00:00Z",
+      "end_time": "2022-06-22T11:00:00Z",
+      "title": "Gameplay bowling sur Switch Sports",
+      "canceled_until": null,
+      "category": {
+        "id": "2044170173",
+        "name": "Nintendo Switch Sports"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiJkNzc3MDM3Mi1jNjkxLTRlZTItYmU4OC0xZDQwNDE0ODAyYzQiLCJpc29ZZWFyIjoyMDIyLCJpc29XZWVrIjoyNX0=",
+      "start_time": "2022-06-22T11:00:00Z",
+      "end_time": "2022-06-22T16:00:00Z",
+      "title": "Speedrun any% Breath of the Wild !",
+      "canceled_until": null,
+      "category": {
+        "id": "110758",
+        "name": "The Legend of Zelda: Breath of the Wild"
+      },
       "is_recurring": true
     }
   ]
