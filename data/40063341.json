@@ -7,28 +7,16 @@
     "broadcaster_type": "partner",
     "description": "",
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/3cdae7df-600c-4833-8dfe-8d2abc5a3b25-profile_image-300x300.png",
-    "offline_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/ce46d922-2dbe-44b5-9031-168756917d5b-channel_offline_image-1920x1080.png",
+    "offline_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/8a57c6f6-0603-4a5b-a1bc-5539129f7bc9-channel_offline_image-1920x1080.png",
     "view_count": 121218348,
     "created_at": "2013-02-05T19:20:22Z"
   },
   "schedulers": [
     {
-      "id": "eyJzZWdtZW50SUQiOiIwMjkzZTNhZS0wZWE0LTRhZjEtYTZmYi01Yjc2MmM4NmYyNWIiLCJpc29ZZWFyIjoyMDIyLCJpc29XZWVrIjoyM30=",
-      "start_time": "2022-06-06T18:00:00Z",
-      "end_time": "2022-06-06T22:00:00Z",
-      "title": "OPEN WORLD (sur la chaine de GOTAGA)",
-      "canceled_until": null,
-      "category": {
-        "id": "509658",
-        "name": "Just Chatting"
-      },
-      "is_recurring": true
-    },
-    {
       "id": "eyJzZWdtZW50SUQiOiI1MTgwMTJiYi0yNTdjLTRlNGItYjE3Mi1mM2EwNTA5ZjEzODIiLCJpc29ZZWFyIjoyMDIyLCJpc29XZWVrIjoyM30=",
       "start_time": "2022-06-07T18:00:00Z",
       "end_time": "2022-06-07T20:30:00Z",
-      "title": "POPCORN AVEC MARIE, MAGHLA & PONCE (INVITÉ : ESTEBAN OCON)",
+      "title": "POPCORN AVEC ETOILES, ULTIA & ZERATOR",
       "canceled_until": null,
       "category": {
         "id": "417752",
@@ -37,10 +25,82 @@
       "is_recurring": true
     },
     {
+      "id": "eyJzZWdtZW50SUQiOiI1YzZkODA3Yi1hZDE0LTRjZTEtYmU5OS0yNjFhZDc5MDQ5MDgiLCJpc29ZZWFyIjoyMDIyLCJpc29XZWVrIjoyM30=",
+      "start_time": "2022-06-08T11:00:00Z",
+      "end_time": "2022-06-08T12:00:00Z",
+      "title": "PRÉ-LIVE",
+      "canceled_until": null,
+      "category": {
+        "id": "509658",
+        "name": "Just Chatting"
+      },
+      "is_recurring": false
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiJhMzA2NWEyOS01YjIyLTRlZGQtYTQwNy0yZGQ4ZGMxZDY1MTYiLCJpc29ZZWFyIjoyMDIyLCJpc29XZWVrIjoyM30=",
+      "start_time": "2022-06-08T12:00:00Z",
+      "end_time": "2022-06-08T13:00:00Z",
+      "title": "HORLOGERIE AVEC FRANK SANS C",
+      "canceled_until": null,
+      "category": {
+        "id": "509658",
+        "name": "Just Chatting"
+      },
+      "is_recurring": false
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiJhODQ2YjMzMi05NmJkLTQ5YmYtYTU5ZS01Yjg2NmNiZDE1NDEiLCJpc29ZZWFyIjoyMDIyLCJpc29XZWVrIjoyM30=",
+      "start_time": "2022-06-08T19:00:00Z",
+      "end_time": "2022-06-08T21:00:00Z",
+      "title": "POKER AVEC GOTA & DOIG",
+      "canceled_until": null,
+      "category": {
+        "id": "488190",
+        "name": "Poker"
+      },
+      "is_recurring": false
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiJjZjFkYmQwMC02Yzg3LTQzZmUtODhiZS05NjhkOGVhMTJiZjkiLCJpc29ZZWFyIjoyMDIyLCJpc29XZWVrIjoyM30=",
+      "start_time": "2022-06-09T12:00:00Z",
+      "end_time": "2022-06-09T13:00:00Z",
+      "title": "PRÉ-LIVE",
+      "canceled_until": null,
+      "category": {
+        "id": "509658",
+        "name": "Just Chatting"
+      },
+      "is_recurring": false
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiI5OWJhMWY3NS01NGU3LTQ3YWUtYjhiNi0yNGIxNzI0ODA0N2EiLCJpc29ZZWFyIjoyMDIyLCJpc29XZWVrIjoyM30=",
+      "start_time": "2022-06-09T13:00:00Z",
+      "end_time": "2022-06-09T16:00:00Z",
+      "title": "STREAM LIBRE",
+      "canceled_until": null,
+      "category": {
+        "id": "509658",
+        "name": "Just Chatting"
+      },
+      "is_recurring": false
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiIxZDg5NjYzMi1lMjRlLTQwZDAtYmFiMS03NDI2NDQwOWM0OTMiLCJpc29ZZWFyIjoyMDIyLCJpc29XZWVrIjoyM30=",
+      "start_time": "2022-06-10T10:00:00Z",
+      "end_time": "2022-06-10T12:00:00Z",
+      "title": "LA PAUSE DEJ",
+      "canceled_until": null,
+      "category": {
+        "id": "509658",
+        "name": "Just Chatting"
+      },
+      "is_recurring": false
+    },
+    {
       "id": "eyJzZWdtZW50SUQiOiIwMjkzZTNhZS0wZWE0LTRhZjEtYTZmYi01Yjc2MmM4NmYyNWIiLCJpc29ZZWFyIjoyMDIyLCJpc29XZWVrIjoyNH0=",
-      "start_time": "2022-06-13T18:00:00Z",
-      "end_time": "2022-06-13T22:00:00Z",
-      "title": "OPEN WORLD (sur la chaine de GOTAGA)",
+      "start_time": "2022-06-13T17:30:00Z",
+      "end_time": "2022-06-13T18:30:00Z",
+      "title": "OUVERTURE BILLETTERIE ÉCHAPPÉE",
       "canceled_until": null,
       "category": {
         "id": "509658",
@@ -52,7 +112,7 @@
       "id": "eyJzZWdtZW50SUQiOiI1MTgwMTJiYi0yNTdjLTRlNGItYjE3Mi1mM2EwNTA5ZjEzODIiLCJpc29ZZWFyIjoyMDIyLCJpc29XZWVrIjoyNH0=",
       "start_time": "2022-06-14T18:00:00Z",
       "end_time": "2022-06-14T20:30:00Z",
-      "title": "POPCORN AVEC MARIE, MAGHLA & PONCE (INVITÉ : ESTEBAN OCON)",
+      "title": "POPCORN AVEC ETOILES, ULTIA & ZERATOR",
       "canceled_until": null,
       "category": {
         "id": "417752",
@@ -62,9 +122,9 @@
     },
     {
       "id": "eyJzZWdtZW50SUQiOiIwMjkzZTNhZS0wZWE0LTRhZjEtYTZmYi01Yjc2MmM4NmYyNWIiLCJpc29ZZWFyIjoyMDIyLCJpc29XZWVrIjoyNX0=",
-      "start_time": "2022-06-20T18:00:00Z",
-      "end_time": "2022-06-20T22:00:00Z",
-      "title": "OPEN WORLD (sur la chaine de GOTAGA)",
+      "start_time": "2022-06-20T17:30:00Z",
+      "end_time": "2022-06-20T18:30:00Z",
+      "title": "OUVERTURE BILLETTERIE ÉCHAPPÉE",
       "canceled_until": null,
       "category": {
         "id": "509658",
@@ -76,7 +136,7 @@
       "id": "eyJzZWdtZW50SUQiOiI1MTgwMTJiYi0yNTdjLTRlNGItYjE3Mi1mM2EwNTA5ZjEzODIiLCJpc29ZZWFyIjoyMDIyLCJpc29XZWVrIjoyNX0=",
       "start_time": "2022-06-21T18:00:00Z",
       "end_time": "2022-06-21T20:30:00Z",
-      "title": "POPCORN AVEC MARIE, MAGHLA & PONCE (INVITÉ : ESTEBAN OCON)",
+      "title": "POPCORN AVEC ETOILES, ULTIA & ZERATOR",
       "canceled_until": null,
       "category": {
         "id": "417752",
@@ -86,9 +146,9 @@
     },
     {
       "id": "eyJzZWdtZW50SUQiOiIwMjkzZTNhZS0wZWE0LTRhZjEtYTZmYi01Yjc2MmM4NmYyNWIiLCJpc29ZZWFyIjoyMDIyLCJpc29XZWVrIjoyNn0=",
-      "start_time": "2022-06-27T18:00:00Z",
-      "end_time": "2022-06-27T22:00:00Z",
-      "title": "OPEN WORLD (sur la chaine de GOTAGA)",
+      "start_time": "2022-06-27T17:30:00Z",
+      "end_time": "2022-06-27T18:30:00Z",
+      "title": "OUVERTURE BILLETTERIE ÉCHAPPÉE",
       "canceled_until": null,
       "category": {
         "id": "509658",
@@ -100,7 +160,7 @@
       "id": "eyJzZWdtZW50SUQiOiI1MTgwMTJiYi0yNTdjLTRlNGItYjE3Mi1mM2EwNTA5ZjEzODIiLCJpc29ZZWFyIjoyMDIyLCJpc29XZWVrIjoyNn0=",
       "start_time": "2022-06-28T18:00:00Z",
       "end_time": "2022-06-28T20:30:00Z",
-      "title": "POPCORN AVEC MARIE, MAGHLA & PONCE (INVITÉ : ESTEBAN OCON)",
+      "title": "POPCORN AVEC ETOILES, ULTIA & ZERATOR",
       "canceled_until": null,
       "category": {
         "id": "417752",
@@ -110,9 +170,9 @@
     },
     {
       "id": "eyJzZWdtZW50SUQiOiIwMjkzZTNhZS0wZWE0LTRhZjEtYTZmYi01Yjc2MmM4NmYyNWIiLCJpc29ZZWFyIjoyMDIyLCJpc29XZWVrIjoyN30=",
-      "start_time": "2022-07-04T18:00:00Z",
-      "end_time": "2022-07-04T22:00:00Z",
-      "title": "OPEN WORLD (sur la chaine de GOTAGA)",
+      "start_time": "2022-07-04T17:30:00Z",
+      "end_time": "2022-07-04T18:30:00Z",
+      "title": "OUVERTURE BILLETTERIE ÉCHAPPÉE",
       "canceled_until": null,
       "category": {
         "id": "509658",
@@ -124,7 +184,7 @@
       "id": "eyJzZWdtZW50SUQiOiI1MTgwMTJiYi0yNTdjLTRlNGItYjE3Mi1mM2EwNTA5ZjEzODIiLCJpc29ZZWFyIjoyMDIyLCJpc29XZWVrIjoyN30=",
       "start_time": "2022-07-05T18:00:00Z",
       "end_time": "2022-07-05T20:30:00Z",
-      "title": "POPCORN AVEC MARIE, MAGHLA & PONCE (INVITÉ : ESTEBAN OCON)",
+      "title": "POPCORN AVEC ETOILES, ULTIA & ZERATOR",
       "canceled_until": null,
       "category": {
         "id": "417752",
@@ -134,9 +194,9 @@
     },
     {
       "id": "eyJzZWdtZW50SUQiOiIwMjkzZTNhZS0wZWE0LTRhZjEtYTZmYi01Yjc2MmM4NmYyNWIiLCJpc29ZZWFyIjoyMDIyLCJpc29XZWVrIjoyOH0=",
-      "start_time": "2022-07-11T18:00:00Z",
-      "end_time": "2022-07-11T22:00:00Z",
-      "title": "OPEN WORLD (sur la chaine de GOTAGA)",
+      "start_time": "2022-07-11T17:30:00Z",
+      "end_time": "2022-07-11T18:30:00Z",
+      "title": "OUVERTURE BILLETTERIE ÉCHAPPÉE",
       "canceled_until": null,
       "category": {
         "id": "509658",
@@ -148,7 +208,7 @@
       "id": "eyJzZWdtZW50SUQiOiI1MTgwMTJiYi0yNTdjLTRlNGItYjE3Mi1mM2EwNTA5ZjEzODIiLCJpc29ZZWFyIjoyMDIyLCJpc29XZWVrIjoyOH0=",
       "start_time": "2022-07-12T18:00:00Z",
       "end_time": "2022-07-12T20:30:00Z",
-      "title": "POPCORN AVEC MARIE, MAGHLA & PONCE (INVITÉ : ESTEBAN OCON)",
+      "title": "POPCORN AVEC ETOILES, ULTIA & ZERATOR",
       "canceled_until": null,
       "category": {
         "id": "417752",
@@ -158,9 +218,9 @@
     },
     {
       "id": "eyJzZWdtZW50SUQiOiIwMjkzZTNhZS0wZWE0LTRhZjEtYTZmYi01Yjc2MmM4NmYyNWIiLCJpc29ZZWFyIjoyMDIyLCJpc29XZWVrIjoyOX0=",
-      "start_time": "2022-07-18T18:00:00Z",
-      "end_time": "2022-07-18T22:00:00Z",
-      "title": "OPEN WORLD (sur la chaine de GOTAGA)",
+      "start_time": "2022-07-18T17:30:00Z",
+      "end_time": "2022-07-18T18:30:00Z",
+      "title": "OUVERTURE BILLETTERIE ÉCHAPPÉE",
       "canceled_until": null,
       "category": {
         "id": "509658",
@@ -172,7 +232,7 @@
       "id": "eyJzZWdtZW50SUQiOiI1MTgwMTJiYi0yNTdjLTRlNGItYjE3Mi1mM2EwNTA5ZjEzODIiLCJpc29ZZWFyIjoyMDIyLCJpc29XZWVrIjoyOX0=",
       "start_time": "2022-07-19T18:00:00Z",
       "end_time": "2022-07-19T20:30:00Z",
-      "title": "POPCORN AVEC MARIE, MAGHLA & PONCE (INVITÉ : ESTEBAN OCON)",
+      "title": "POPCORN AVEC ETOILES, ULTIA & ZERATOR",
       "canceled_until": null,
       "category": {
         "id": "417752",
@@ -182,73 +242,13 @@
     },
     {
       "id": "eyJzZWdtZW50SUQiOiIwMjkzZTNhZS0wZWE0LTRhZjEtYTZmYi01Yjc2MmM4NmYyNWIiLCJpc29ZZWFyIjoyMDIyLCJpc29XZWVrIjozMH0=",
-      "start_time": "2022-07-25T18:00:00Z",
-      "end_time": "2022-07-25T22:00:00Z",
-      "title": "OPEN WORLD (sur la chaine de GOTAGA)",
+      "start_time": "2022-07-25T17:30:00Z",
+      "end_time": "2022-07-25T18:30:00Z",
+      "title": "OUVERTURE BILLETTERIE ÉCHAPPÉE",
       "canceled_until": null,
       "category": {
         "id": "509658",
         "name": "Just Chatting"
-      },
-      "is_recurring": true
-    },
-    {
-      "id": "eyJzZWdtZW50SUQiOiI1MTgwMTJiYi0yNTdjLTRlNGItYjE3Mi1mM2EwNTA5ZjEzODIiLCJpc29ZZWFyIjoyMDIyLCJpc29XZWVrIjozMH0=",
-      "start_time": "2022-07-26T18:00:00Z",
-      "end_time": "2022-07-26T20:30:00Z",
-      "title": "POPCORN AVEC MARIE, MAGHLA & PONCE (INVITÉ : ESTEBAN OCON)",
-      "canceled_until": null,
-      "category": {
-        "id": "417752",
-        "name": "Talk Shows & Podcasts"
-      },
-      "is_recurring": true
-    },
-    {
-      "id": "eyJzZWdtZW50SUQiOiIwMjkzZTNhZS0wZWE0LTRhZjEtYTZmYi01Yjc2MmM4NmYyNWIiLCJpc29ZZWFyIjoyMDIyLCJpc29XZWVrIjozMX0=",
-      "start_time": "2022-08-01T18:00:00Z",
-      "end_time": "2022-08-01T22:00:00Z",
-      "title": "OPEN WORLD (sur la chaine de GOTAGA)",
-      "canceled_until": null,
-      "category": {
-        "id": "509658",
-        "name": "Just Chatting"
-      },
-      "is_recurring": true
-    },
-    {
-      "id": "eyJzZWdtZW50SUQiOiI1MTgwMTJiYi0yNTdjLTRlNGItYjE3Mi1mM2EwNTA5ZjEzODIiLCJpc29ZZWFyIjoyMDIyLCJpc29XZWVrIjozMX0=",
-      "start_time": "2022-08-02T18:00:00Z",
-      "end_time": "2022-08-02T20:30:00Z",
-      "title": "POPCORN AVEC MARIE, MAGHLA & PONCE (INVITÉ : ESTEBAN OCON)",
-      "canceled_until": null,
-      "category": {
-        "id": "417752",
-        "name": "Talk Shows & Podcasts"
-      },
-      "is_recurring": true
-    },
-    {
-      "id": "eyJzZWdtZW50SUQiOiIwMjkzZTNhZS0wZWE0LTRhZjEtYTZmYi01Yjc2MmM4NmYyNWIiLCJpc29ZZWFyIjoyMDIyLCJpc29XZWVrIjozMn0=",
-      "start_time": "2022-08-08T18:00:00Z",
-      "end_time": "2022-08-08T22:00:00Z",
-      "title": "OPEN WORLD (sur la chaine de GOTAGA)",
-      "canceled_until": null,
-      "category": {
-        "id": "509658",
-        "name": "Just Chatting"
-      },
-      "is_recurring": true
-    },
-    {
-      "id": "eyJzZWdtZW50SUQiOiI1MTgwMTJiYi0yNTdjLTRlNGItYjE3Mi1mM2EwNTA5ZjEzODIiLCJpc29ZZWFyIjoyMDIyLCJpc29XZWVrIjozMn0=",
-      "start_time": "2022-08-09T18:00:00Z",
-      "end_time": "2022-08-09T20:30:00Z",
-      "title": "POPCORN AVEC MARIE, MAGHLA & PONCE (INVITÉ : ESTEBAN OCON)",
-      "canceled_until": null,
-      "category": {
-        "id": "417752",
-        "name": "Talk Shows & Podcasts"
       },
       "is_recurring": true
     }
