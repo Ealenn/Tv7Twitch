@@ -7,23 +7,11 @@
     "broadcaster_type": "partner",
     "description": "",
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/3cdae7df-600c-4833-8dfe-8d2abc5a3b25-profile_image-300x300.png",
-    "offline_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/8a57c6f6-0603-4a5b-a1bc-5539129f7bc9-channel_offline_image-1920x1080.png",
+    "offline_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/d0df3e99-714e-4664-98d2-9a3bca9b0d9b-channel_offline_image-1920x1080.png",
     "view_count": 121218348,
     "created_at": "2013-02-05T19:20:22Z"
   },
   "schedulers": [
-    {
-      "id": "eyJzZWdtZW50SUQiOiI1MTgwMTJiYi0yNTdjLTRlNGItYjE3Mi1mM2EwNTA5ZjEzODIiLCJpc29ZZWFyIjoyMDIyLCJpc29XZWVrIjoyM30=",
-      "start_time": "2022-06-07T18:00:00Z",
-      "end_time": "2022-06-07T20:30:00Z",
-      "title": "POPCORN AVEC ETOILES, ULTIA & ZERATOR",
-      "canceled_until": null,
-      "category": {
-        "id": "417752",
-        "name": "Talk Shows & Podcasts"
-      },
-      "is_recurring": true
-    },
     {
       "id": "eyJzZWdtZW50SUQiOiI1YzZkODA3Yi1hZDE0LTRjZTEtYmU5OS0yNjFhZDc5MDQ5MDgiLCJpc29ZZWFyIjoyMDIyLCJpc29XZWVrIjoyM30=",
       "start_time": "2022-06-08T11:00:00Z",
@@ -249,6 +237,18 @@
       "category": {
         "id": "509658",
         "name": "Just Chatting"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiI1MTgwMTJiYi0yNTdjLTRlNGItYjE3Mi1mM2EwNTA5ZjEzODIiLCJpc29ZZWFyIjoyMDIyLCJpc29XZWVrIjozMH0=",
+      "start_time": "2022-07-26T18:00:00Z",
+      "end_time": "2022-07-26T20:30:00Z",
+      "title": "POPCORN AVEC ETOILES, ULTIA & ZERATOR",
+      "canceled_until": null,
+      "category": {
+        "id": "417752",
+        "name": "Talk Shows & Podcasts"
       },
       "is_recurring": true
     }
