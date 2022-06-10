@@ -13,18 +13,6 @@
   },
   "schedulers": [
     {
-      "id": "eyJzZWdtZW50SUQiOiIxYmFiYTQ3Ny0zYjI4LTRmMDUtYjM4YS0yZTE4NmFiZjRlMjMiLCJpc29ZZWFyIjoyMDIyLCJpc29XZWVrIjoyM30=",
-      "start_time": "2022-06-09T09:00:00Z",
-      "end_time": "2022-06-09T16:00:00Z",
-      "title": "Suite du slowrun Elden Ring",
-      "canceled_until": null,
-      "category": {
-        "id": "512953",
-        "name": "Elden Ring"
-      },
-      "is_recurring": true
-    },
-    {
       "id": "eyJzZWdtZW50SUQiOiI3YjE4Y2ZkYy0zZWIyLTQ5YTktYjE2Ny03ZjEyZDNmZDU5ZGMiLCJpc29ZZWFyIjoyMDIyLCJpc29XZWVrIjoyM30=",
       "start_time": "2022-06-10T08:00:00Z",
       "end_time": "2022-06-10T15:00:00Z",
@@ -243,6 +231,18 @@
       "category": {
         "id": "1769394593",
         "name": "Mario Strikers: Battle League"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiI3ZmEwOGYzYy00YTA3LTQ2ZjMtODBhOC0xNDBhMDMxMGE2YzUiLCJpc29ZZWFyIjoyMDIyLCJpc29XZWVrIjoyNn0=",
+      "start_time": "2022-06-27T09:00:00Z",
+      "end_time": "2022-06-27T15:00:00Z",
+      "title": "Culture et plaisir",
+      "canceled_until": null,
+      "category": {
+        "id": "338715930",
+        "name": "Maitre des Fleurs"
       },
       "is_recurring": true
     }
