@@ -7,28 +7,16 @@
     "broadcaster_type": "partner",
     "description": "",
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/3cdae7df-600c-4833-8dfe-8d2abc5a3b25-profile_image-300x300.png",
-    "offline_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/d0df3e99-714e-4664-98d2-9a3bca9b0d9b-channel_offline_image-1920x1080.png",
+    "offline_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/c665dd76-f682-40a8-bee3-363260f987e2-channel_offline_image-1920x1080.png",
     "view_count": 121218348,
     "created_at": "2013-02-05T19:20:22Z"
   },
   "schedulers": [
     {
-      "id": "eyJzZWdtZW50SUQiOiIwMjkzZTNhZS0wZWE0LTRhZjEtYTZmYi01Yjc2MmM4NmYyNWIiLCJpc29ZZWFyIjoyMDIyLCJpc29XZWVrIjoyNH0=",
-      "start_time": "2022-06-13T17:30:00Z",
-      "end_time": "2022-06-13T18:30:00Z",
-      "title": "OUVERTURE BILLETTERIE ÉCHAPPÉE",
-      "canceled_until": null,
-      "category": {
-        "id": "509658",
-        "name": "Just Chatting"
-      },
-      "is_recurring": true
-    },
-    {
       "id": "eyJzZWdtZW50SUQiOiI1MTgwMTJiYi0yNTdjLTRlNGItYjE3Mi1mM2EwNTA5ZjEzODIiLCJpc29ZZWFyIjoyMDIyLCJpc29XZWVrIjoyNH0=",
       "start_time": "2022-06-14T18:00:00Z",
       "end_time": "2022-06-14T20:30:00Z",
-      "title": "POPCORN AVEC ETOILES, ULTIA & ZERATOR",
+      "title": "POPCORN AVEC INOXTAG, M. POULPE & ZACK (INVITÉ : CEB)",
       "canceled_until": null,
       "category": {
         "id": "417752",
@@ -37,10 +25,67 @@
       "is_recurring": true
     },
     {
+      "id": "eyJzZWdtZW50SUQiOiJkNGM1NWY2OS05N2MyLTQyNGYtOTk2NC1jYzIyMTZmZjQxMzEiLCJpc29ZZWFyIjoyMDIyLCJpc29XZWVrIjoyNH0=",
+      "start_time": "2022-06-15T18:00:00Z",
+      "end_time": "2022-06-15T19:00:00Z",
+      "title": "PRÉ-LIVE",
+      "canceled_until": null,
+      "category": {
+        "id": "509658",
+        "name": "Just Chatting"
+      },
+      "is_recurring": false
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiI5NGEwNGQ5Yy0yZWZmLTQzODktYjBiZC1kZjQ5NDFjOTkxNzMiLCJpc29ZZWFyIjoyMDIyLCJpc29XZWVrIjoyNH0=",
+      "start_time": "2022-06-15T19:00:00Z",
+      "end_time": "2022-06-15T21:00:00Z",
+      "title": "TRIBUNAL DES BANNIS",
+      "canceled_until": null,
+      "category": {
+        "id": "509658",
+        "name": "Just Chatting"
+      },
+      "is_recurring": false
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiI3ODc1ODEwMi1iNmQxLTQ4YzgtYTAwNC1hMWE0NDI1Nzc1NWMiLCJpc29ZZWFyIjoyMDIyLCJpc29XZWVrIjoyNH0=",
+      "start_time": "2022-06-16T13:00:00Z",
+      "end_time": "2022-06-16T17:00:00Z",
+      "title": "STREAM LIBRE",
+      "canceled_until": null,
+      "category": null,
+      "is_recurring": false
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiIxYTQ1NTM2Ni1mYTNkLTQ1MzAtYWMyNC0xMWVlMWUyOWNlOGYiLCJpc29ZZWFyIjoyMDIyLCJpc29XZWVrIjoyNH0=",
+      "start_time": "2022-06-17T10:00:00Z",
+      "end_time": "2022-06-17T12:00:00Z",
+      "title": "LA PAUSE DEJ'",
+      "canceled_until": null,
+      "category": {
+        "id": "509658",
+        "name": "Just Chatting"
+      },
+      "is_recurring": false
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiJlYThkZDBjMi1lOTI5LTRmYmItOTQ3Ni1mNjRmYmE5ZmIyYTciLCJpc29ZZWFyIjoyMDIyLCJpc29XZWVrIjoyNH0=",
+      "start_time": "2022-06-18T16:00:00Z",
+      "end_time": "2022-06-18T20:00:00Z",
+      "title": "L'ÉCHAPPÉE 4",
+      "canceled_until": null,
+      "category": {
+        "id": "518203",
+        "name": "Sports"
+      },
+      "is_recurring": false
+    },
+    {
       "id": "eyJzZWdtZW50SUQiOiIwMjkzZTNhZS0wZWE0LTRhZjEtYTZmYi01Yjc2MmM4NmYyNWIiLCJpc29ZZWFyIjoyMDIyLCJpc29XZWVrIjoyNX0=",
       "start_time": "2022-06-20T17:30:00Z",
       "end_time": "2022-06-20T18:30:00Z",
-      "title": "OUVERTURE BILLETTERIE ÉCHAPPÉE",
+      "title": "PRÉ-LIVE",
       "canceled_until": null,
       "category": {
         "id": "509658",
@@ -52,7 +97,7 @@
       "id": "eyJzZWdtZW50SUQiOiI1MTgwMTJiYi0yNTdjLTRlNGItYjE3Mi1mM2EwNTA5ZjEzODIiLCJpc29ZZWFyIjoyMDIyLCJpc29XZWVrIjoyNX0=",
       "start_time": "2022-06-21T18:00:00Z",
       "end_time": "2022-06-21T20:30:00Z",
-      "title": "POPCORN AVEC ETOILES, ULTIA & ZERATOR",
+      "title": "POPCORN AVEC INOXTAG, M. POULPE & ZACK (INVITÉ : CEB)",
       "canceled_until": null,
       "category": {
         "id": "417752",
@@ -64,7 +109,7 @@
       "id": "eyJzZWdtZW50SUQiOiIwMjkzZTNhZS0wZWE0LTRhZjEtYTZmYi01Yjc2MmM4NmYyNWIiLCJpc29ZZWFyIjoyMDIyLCJpc29XZWVrIjoyNn0=",
       "start_time": "2022-06-27T17:30:00Z",
       "end_time": "2022-06-27T18:30:00Z",
-      "title": "OUVERTURE BILLETTERIE ÉCHAPPÉE",
+      "title": "PRÉ-LIVE",
       "canceled_until": null,
       "category": {
         "id": "509658",
@@ -76,7 +121,7 @@
       "id": "eyJzZWdtZW50SUQiOiI1MTgwMTJiYi0yNTdjLTRlNGItYjE3Mi1mM2EwNTA5ZjEzODIiLCJpc29ZZWFyIjoyMDIyLCJpc29XZWVrIjoyNn0=",
       "start_time": "2022-06-28T18:00:00Z",
       "end_time": "2022-06-28T20:30:00Z",
-      "title": "POPCORN AVEC ETOILES, ULTIA & ZERATOR",
+      "title": "POPCORN AVEC INOXTAG, M. POULPE & ZACK (INVITÉ : CEB)",
       "canceled_until": null,
       "category": {
         "id": "417752",
@@ -88,7 +133,7 @@
       "id": "eyJzZWdtZW50SUQiOiIwMjkzZTNhZS0wZWE0LTRhZjEtYTZmYi01Yjc2MmM4NmYyNWIiLCJpc29ZZWFyIjoyMDIyLCJpc29XZWVrIjoyN30=",
       "start_time": "2022-07-04T17:30:00Z",
       "end_time": "2022-07-04T18:30:00Z",
-      "title": "OUVERTURE BILLETTERIE ÉCHAPPÉE",
+      "title": "PRÉ-LIVE",
       "canceled_until": null,
       "category": {
         "id": "509658",
@@ -100,7 +145,7 @@
       "id": "eyJzZWdtZW50SUQiOiI1MTgwMTJiYi0yNTdjLTRlNGItYjE3Mi1mM2EwNTA5ZjEzODIiLCJpc29ZZWFyIjoyMDIyLCJpc29XZWVrIjoyN30=",
       "start_time": "2022-07-05T18:00:00Z",
       "end_time": "2022-07-05T20:30:00Z",
-      "title": "POPCORN AVEC ETOILES, ULTIA & ZERATOR",
+      "title": "POPCORN AVEC INOXTAG, M. POULPE & ZACK (INVITÉ : CEB)",
       "canceled_until": null,
       "category": {
         "id": "417752",
@@ -112,7 +157,7 @@
       "id": "eyJzZWdtZW50SUQiOiIwMjkzZTNhZS0wZWE0LTRhZjEtYTZmYi01Yjc2MmM4NmYyNWIiLCJpc29ZZWFyIjoyMDIyLCJpc29XZWVrIjoyOH0=",
       "start_time": "2022-07-11T17:30:00Z",
       "end_time": "2022-07-11T18:30:00Z",
-      "title": "OUVERTURE BILLETTERIE ÉCHAPPÉE",
+      "title": "PRÉ-LIVE",
       "canceled_until": null,
       "category": {
         "id": "509658",
@@ -124,7 +169,7 @@
       "id": "eyJzZWdtZW50SUQiOiI1MTgwMTJiYi0yNTdjLTRlNGItYjE3Mi1mM2EwNTA5ZjEzODIiLCJpc29ZZWFyIjoyMDIyLCJpc29XZWVrIjoyOH0=",
       "start_time": "2022-07-12T18:00:00Z",
       "end_time": "2022-07-12T20:30:00Z",
-      "title": "POPCORN AVEC ETOILES, ULTIA & ZERATOR",
+      "title": "POPCORN AVEC INOXTAG, M. POULPE & ZACK (INVITÉ : CEB)",
       "canceled_until": null,
       "category": {
         "id": "417752",
@@ -136,7 +181,7 @@
       "id": "eyJzZWdtZW50SUQiOiIwMjkzZTNhZS0wZWE0LTRhZjEtYTZmYi01Yjc2MmM4NmYyNWIiLCJpc29ZZWFyIjoyMDIyLCJpc29XZWVrIjoyOX0=",
       "start_time": "2022-07-18T17:30:00Z",
       "end_time": "2022-07-18T18:30:00Z",
-      "title": "OUVERTURE BILLETTERIE ÉCHAPPÉE",
+      "title": "PRÉ-LIVE",
       "canceled_until": null,
       "category": {
         "id": "509658",
@@ -148,7 +193,7 @@
       "id": "eyJzZWdtZW50SUQiOiI1MTgwMTJiYi0yNTdjLTRlNGItYjE3Mi1mM2EwNTA5ZjEzODIiLCJpc29ZZWFyIjoyMDIyLCJpc29XZWVrIjoyOX0=",
       "start_time": "2022-07-19T18:00:00Z",
       "end_time": "2022-07-19T20:30:00Z",
-      "title": "POPCORN AVEC ETOILES, ULTIA & ZERATOR",
+      "title": "POPCORN AVEC INOXTAG, M. POULPE & ZACK (INVITÉ : CEB)",
       "canceled_until": null,
       "category": {
         "id": "417752",
@@ -160,7 +205,7 @@
       "id": "eyJzZWdtZW50SUQiOiIwMjkzZTNhZS0wZWE0LTRhZjEtYTZmYi01Yjc2MmM4NmYyNWIiLCJpc29ZZWFyIjoyMDIyLCJpc29XZWVrIjozMH0=",
       "start_time": "2022-07-25T17:30:00Z",
       "end_time": "2022-07-25T18:30:00Z",
-      "title": "OUVERTURE BILLETTERIE ÉCHAPPÉE",
+      "title": "PRÉ-LIVE",
       "canceled_until": null,
       "category": {
         "id": "509658",
@@ -172,7 +217,7 @@
       "id": "eyJzZWdtZW50SUQiOiI1MTgwMTJiYi0yNTdjLTRlNGItYjE3Mi1mM2EwNTA5ZjEzODIiLCJpc29ZZWFyIjoyMDIyLCJpc29XZWVrIjozMH0=",
       "start_time": "2022-07-26T18:00:00Z",
       "end_time": "2022-07-26T20:30:00Z",
-      "title": "POPCORN AVEC ETOILES, ULTIA & ZERATOR",
+      "title": "POPCORN AVEC INOXTAG, M. POULPE & ZACK (INVITÉ : CEB)",
       "canceled_until": null,
       "category": {
         "id": "417752",
@@ -184,7 +229,7 @@
       "id": "eyJzZWdtZW50SUQiOiIwMjkzZTNhZS0wZWE0LTRhZjEtYTZmYi01Yjc2MmM4NmYyNWIiLCJpc29ZZWFyIjoyMDIyLCJpc29XZWVrIjozMX0=",
       "start_time": "2022-08-01T17:30:00Z",
       "end_time": "2022-08-01T18:30:00Z",
-      "title": "OUVERTURE BILLETTERIE ÉCHAPPÉE",
+      "title": "PRÉ-LIVE",
       "canceled_until": null,
       "category": {
         "id": "509658",
@@ -196,55 +241,7 @@
       "id": "eyJzZWdtZW50SUQiOiI1MTgwMTJiYi0yNTdjLTRlNGItYjE3Mi1mM2EwNTA5ZjEzODIiLCJpc29ZZWFyIjoyMDIyLCJpc29XZWVrIjozMX0=",
       "start_time": "2022-08-02T18:00:00Z",
       "end_time": "2022-08-02T20:30:00Z",
-      "title": "POPCORN AVEC ETOILES, ULTIA & ZERATOR",
-      "canceled_until": null,
-      "category": {
-        "id": "417752",
-        "name": "Talk Shows & Podcasts"
-      },
-      "is_recurring": true
-    },
-    {
-      "id": "eyJzZWdtZW50SUQiOiIwMjkzZTNhZS0wZWE0LTRhZjEtYTZmYi01Yjc2MmM4NmYyNWIiLCJpc29ZZWFyIjoyMDIyLCJpc29XZWVrIjozMn0=",
-      "start_time": "2022-08-08T17:30:00Z",
-      "end_time": "2022-08-08T18:30:00Z",
-      "title": "OUVERTURE BILLETTERIE ÉCHAPPÉE",
-      "canceled_until": null,
-      "category": {
-        "id": "509658",
-        "name": "Just Chatting"
-      },
-      "is_recurring": true
-    },
-    {
-      "id": "eyJzZWdtZW50SUQiOiI1MTgwMTJiYi0yNTdjLTRlNGItYjE3Mi1mM2EwNTA5ZjEzODIiLCJpc29ZZWFyIjoyMDIyLCJpc29XZWVrIjozMn0=",
-      "start_time": "2022-08-09T18:00:00Z",
-      "end_time": "2022-08-09T20:30:00Z",
-      "title": "POPCORN AVEC ETOILES, ULTIA & ZERATOR",
-      "canceled_until": null,
-      "category": {
-        "id": "417752",
-        "name": "Talk Shows & Podcasts"
-      },
-      "is_recurring": true
-    },
-    {
-      "id": "eyJzZWdtZW50SUQiOiIwMjkzZTNhZS0wZWE0LTRhZjEtYTZmYi01Yjc2MmM4NmYyNWIiLCJpc29ZZWFyIjoyMDIyLCJpc29XZWVrIjozM30=",
-      "start_time": "2022-08-15T17:30:00Z",
-      "end_time": "2022-08-15T18:30:00Z",
-      "title": "OUVERTURE BILLETTERIE ÉCHAPPÉE",
-      "canceled_until": null,
-      "category": {
-        "id": "509658",
-        "name": "Just Chatting"
-      },
-      "is_recurring": true
-    },
-    {
-      "id": "eyJzZWdtZW50SUQiOiI1MTgwMTJiYi0yNTdjLTRlNGItYjE3Mi1mM2EwNTA5ZjEzODIiLCJpc29ZZWFyIjoyMDIyLCJpc29XZWVrIjozM30=",
-      "start_time": "2022-08-16T18:00:00Z",
-      "end_time": "2022-08-16T20:30:00Z",
-      "title": "POPCORN AVEC ETOILES, ULTIA & ZERATOR",
+      "title": "POPCORN AVEC INOXTAG, M. POULPE & ZACK (INVITÉ : CEB)",
       "canceled_until": null,
       "category": {
         "id": "417752",
