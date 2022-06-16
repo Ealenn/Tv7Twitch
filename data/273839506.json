@@ -13,15 +13,6 @@
   },
   "schedulers": [
     {
-      "id": "eyJzZWdtZW50SUQiOiJkYmY1YTJiZi01Zjc0LTRkM2UtYmU4Ni1iNDVjNDRkYWNmZTUiLCJpc29ZZWFyIjoyMDIyLCJpc29XZWVrIjoyNH0=",
-      "start_time": "2022-06-15T17:00:00Z",
-      "end_time": "2022-06-15T18:30:00Z",
-      "title": "Live chill",
-      "canceled_until": null,
-      "category": null,
-      "is_recurring": false
-    },
-    {
       "id": "eyJzZWdtZW50SUQiOiI0YzBkZjgzMS1hMDI5LTQ4ZmUtOGY3OS1lNjRhMmUwMWVkODYiLCJpc29ZZWFyIjoyMDIyLCJpc29XZWVrIjoyNX0=",
       "start_time": "2022-06-22T17:00:00Z",
       "end_time": "2022-06-22T18:30:00Z",

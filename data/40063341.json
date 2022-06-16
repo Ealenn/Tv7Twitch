@@ -13,30 +13,6 @@
   },
   "schedulers": [
     {
-      "id": "eyJzZWdtZW50SUQiOiJkNGM1NWY2OS05N2MyLTQyNGYtOTk2NC1jYzIyMTZmZjQxMzEiLCJpc29ZZWFyIjoyMDIyLCJpc29XZWVrIjoyNH0=",
-      "start_time": "2022-06-15T18:00:00Z",
-      "end_time": "2022-06-15T19:00:00Z",
-      "title": "PRÉ-LIVE",
-      "canceled_until": null,
-      "category": {
-        "id": "509658",
-        "name": "Just Chatting"
-      },
-      "is_recurring": false
-    },
-    {
-      "id": "eyJzZWdtZW50SUQiOiI5NGEwNGQ5Yy0yZWZmLTQzODktYjBiZC1kZjQ5NDFjOTkxNzMiLCJpc29ZZWFyIjoyMDIyLCJpc29XZWVrIjoyNH0=",
-      "start_time": "2022-06-15T19:00:00Z",
-      "end_time": "2022-06-15T21:00:00Z",
-      "title": "TRIBUNAL DES BANNIS",
-      "canceled_until": null,
-      "category": {
-        "id": "509658",
-        "name": "Just Chatting"
-      },
-      "is_recurring": false
-    },
-    {
       "id": "eyJzZWdtZW50SUQiOiI3ODc1ODEwMi1iNmQxLTQ4YzgtYTAwNC1hMWE0NDI1Nzc1NWMiLCJpc29ZZWFyIjoyMDIyLCJpc29XZWVrIjoyNH0=",
       "start_time": "2022-06-16T13:00:00Z",
       "end_time": "2022-06-16T17:00:00Z",
@@ -241,6 +217,30 @@
       "id": "eyJzZWdtZW50SUQiOiIwMjkzZTNhZS0wZWE0LTRhZjEtYTZmYi01Yjc2MmM4NmYyNWIiLCJpc29ZZWFyIjoyMDIyLCJpc29XZWVrIjozMn0=",
       "start_time": "2022-08-08T17:30:00Z",
       "end_time": "2022-08-08T18:30:00Z",
+      "title": "PRÉ-LIVE",
+      "canceled_until": null,
+      "category": {
+        "id": "509658",
+        "name": "Just Chatting"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiI1MTgwMTJiYi0yNTdjLTRlNGItYjE3Mi1mM2EwNTA5ZjEzODIiLCJpc29ZZWFyIjoyMDIyLCJpc29XZWVrIjozMn0=",
+      "start_time": "2022-08-09T18:00:00Z",
+      "end_time": "2022-08-09T20:30:00Z",
+      "title": "POPCORN AVEC INOXTAG, M. POULPE & ZACK (INVITÉ : CEB)",
+      "canceled_until": null,
+      "category": {
+        "id": "417752",
+        "name": "Talk Shows & Podcasts"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiIwMjkzZTNhZS0wZWE0LTRhZjEtYTZmYi01Yjc2MmM4NmYyNWIiLCJpc29ZZWFyIjoyMDIyLCJpc29XZWVrIjozM30=",
+      "start_time": "2022-08-15T17:30:00Z",
+      "end_time": "2022-08-15T18:30:00Z",
       "title": "PRÉ-LIVE",
       "canceled_until": null,
       "category": {
