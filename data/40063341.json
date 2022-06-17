@@ -13,15 +13,6 @@
   },
   "schedulers": [
     {
-      "id": "eyJzZWdtZW50SUQiOiI3ODc1ODEwMi1iNmQxLTQ4YzgtYTAwNC1hMWE0NDI1Nzc1NWMiLCJpc29ZZWFyIjoyMDIyLCJpc29XZWVrIjoyNH0=",
-      "start_time": "2022-06-16T13:00:00Z",
-      "end_time": "2022-06-16T17:00:00Z",
-      "title": "STREAM LIBRE",
-      "canceled_until": null,
-      "category": null,
-      "is_recurring": false
-    },
-    {
       "id": "eyJzZWdtZW50SUQiOiIxYTQ1NTM2Ni1mYTNkLTQ1MzAtYWMyNC0xMWVlMWUyOWNlOGYiLCJpc29ZZWFyIjoyMDIyLCJpc29XZWVrIjoyNH0=",
       "start_time": "2022-06-17T10:00:00Z",
       "end_time": "2022-06-17T12:00:00Z",
@@ -246,6 +237,18 @@
       "category": {
         "id": "509658",
         "name": "Just Chatting"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiI1MTgwMTJiYi0yNTdjLTRlNGItYjE3Mi1mM2EwNTA5ZjEzODIiLCJpc29ZZWFyIjoyMDIyLCJpc29XZWVrIjozM30=",
+      "start_time": "2022-08-16T18:00:00Z",
+      "end_time": "2022-08-16T20:30:00Z",
+      "title": "POPCORN AVEC INOXTAG, M. POULPE & ZACK (INVITÉ : CEB)",
+      "canceled_until": null,
+      "category": {
+        "id": "417752",
+        "name": "Talk Shows & Podcasts"
       },
       "is_recurring": true
     }

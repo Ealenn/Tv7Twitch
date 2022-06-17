@@ -13,18 +13,6 @@
   },
   "schedulers": [
     {
-      "id": "eyJzZWdtZW50SUQiOiIxYmFiYTQ3Ny0zYjI4LTRmMDUtYjM4YS0yZTE4NmFiZjRlMjMiLCJpc29ZZWFyIjoyMDIyLCJpc29XZWVrIjoyNH0=",
-      "start_time": "2022-06-16T09:00:00Z",
-      "end_time": "2022-06-16T16:00:00Z",
-      "title": "Suite du slowrun Elden Ring",
-      "canceled_until": null,
-      "category": {
-        "id": "512953",
-        "name": "Elden Ring"
-      },
-      "is_recurring": true
-    },
-    {
       "id": "eyJzZWdtZW50SUQiOiJjM2JlZDlkYi0wYmNmLTQzM2YtYjI1My0zZjdjZTg5ZjlkZjYiLCJpc29ZZWFyIjoyMDIyLCJpc29XZWVrIjoyNH0=",
       "start_time": "2022-06-18T16:00:00Z",
       "end_time": "2022-06-18T19:00:00Z",
@@ -244,6 +232,15 @@
         "id": "338715930",
         "name": "Maitre des Fleurs"
       },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiJjZGZlMDhmOS01YTFhLTQ2MzctYjZjZS0wZDA4NTdmNzk2M2IiLCJpc29ZZWFyIjoyMDIyLCJpc29XZWVrIjoyN30=",
+      "start_time": "2022-07-05T09:00:00Z",
+      "end_time": "2022-07-05T15:00:00Z",
+      "title": "Journée multi avé les copains",
+      "canceled_until": null,
+      "category": null,
       "is_recurring": true
     }
   ]
