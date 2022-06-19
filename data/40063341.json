@@ -13,18 +13,6 @@
   },
   "schedulers": [
     {
-      "id": "eyJzZWdtZW50SUQiOiJlYThkZDBjMi1lOTI5LTRmYmItOTQ3Ni1mNjRmYmE5ZmIyYTciLCJpc29ZZWFyIjoyMDIyLCJpc29XZWVrIjoyNH0=",
-      "start_time": "2022-06-18T16:00:00Z",
-      "end_time": "2022-06-18T20:00:00Z",
-      "title": "L'ÉCHAPPÉE 4",
-      "canceled_until": null,
-      "category": {
-        "id": "518203",
-        "name": "Sports"
-      },
-      "is_recurring": false
-    },
-    {
       "id": "eyJzZWdtZW50SUQiOiIwMjkzZTNhZS0wZWE0LTRhZjEtYTZmYi01Yjc2MmM4NmYyNWIiLCJpc29ZZWFyIjoyMDIyLCJpc29XZWVrIjoyNX0=",
       "start_time": "2022-06-20T17:30:00Z",
       "end_time": "2022-06-20T18:30:00Z",
@@ -249,6 +237,18 @@
       "category": {
         "id": "509658",
         "name": "Just Chatting"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiI1MTgwMTJiYi0yNTdjLTRlNGItYjE3Mi1mM2EwNTA5ZjEzODIiLCJpc29ZZWFyIjoyMDIyLCJpc29XZWVrIjozNH0=",
+      "start_time": "2022-08-23T18:00:00Z",
+      "end_time": "2022-08-23T20:30:00Z",
+      "title": "POPCORN AVEC INOXTAG, M. POULPE & ZACK (INVITÉ : CEB)",
+      "canceled_until": null,
+      "category": {
+        "id": "417752",
+        "name": "Talk Shows & Podcasts"
       },
       "is_recurring": true
     }
