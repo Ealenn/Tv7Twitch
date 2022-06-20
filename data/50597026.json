@@ -13,18 +13,6 @@
   },
   "schedulers": [
     {
-      "id": "eyJzZWdtZW50SUQiOiJhZTYwZGM1Ny1hYWEyLTQxZTMtODhmMy0wZWY4MDNjZGNhNTAiLCJpc29ZZWFyIjoyMDIyLCJpc29XZWVrIjoyNH0=",
-      "start_time": "2022-06-19T11:00:00Z",
-      "end_time": "2022-06-19T14:00:00Z",
-      "title": "Tournoi MK",
-      "canceled_until": null,
-      "category": {
-        "id": "941530474",
-        "name": "Mario Kart 8 Deluxe"
-      },
-      "is_recurring": true
-    },
-    {
       "id": "eyJzZWdtZW50SUQiOiI3ZmEwOGYzYy00YTA3LTQ2ZjMtODBhOC0xNDBhMDMxMGE2YzUiLCJpc29ZZWFyIjoyMDIyLCJpc29XZWVrIjoyNX0=",
       "start_time": "2022-06-20T09:00:00Z",
       "end_time": "2022-06-20T15:00:00Z",
@@ -240,6 +228,18 @@
       "category": {
         "id": "1769394593",
         "name": "Mario Strikers: Battle League"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiIzNDNlYzA0Mi1hOGQwLTQ2MjYtYjVkOS1mMGU0MzI4MGU4MmYiLCJpc29ZZWFyIjoyMDIyLCJpc29XZWVrIjoyN30=",
+      "start_time": "2022-07-06T09:00:00Z",
+      "end_time": "2022-07-06T11:00:00Z",
+      "title": "Gameplay bowling sur Switch Sports",
+      "canceled_until": null,
+      "category": {
+        "id": "2044170173",
+        "name": "Nintendo Switch Sports"
       },
       "is_recurring": true
     }
