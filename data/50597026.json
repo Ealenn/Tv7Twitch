@@ -13,30 +13,6 @@
   },
   "schedulers": [
     {
-      "id": "eyJzZWdtZW50SUQiOiIzNDNlYzA0Mi1hOGQwLTQ2MjYtYjVkOS1mMGU0MzI4MGU4MmYiLCJpc29ZZWFyIjoyMDIyLCJpc29XZWVrIjoyNX0=",
-      "start_time": "2022-06-22T09:00:00Z",
-      "end_time": "2022-06-22T12:00:00Z",
-      "title": "Gameplay bowling sur Switch Sports",
-      "canceled_until": null,
-      "category": {
-        "id": "2044170173",
-        "name": "Nintendo Switch Sports"
-      },
-      "is_recurring": true
-    },
-    {
-      "id": "eyJzZWdtZW50SUQiOiJkNzc3MDM3Mi1jNjkxLTRlZTItYmU4OC0xZDQwNDE0ODAyYzQiLCJpc29ZZWFyIjoyMDIyLCJpc29XZWVrIjoyNX0=",
-      "start_time": "2022-06-22T12:00:00Z",
-      "end_time": "2022-06-22T15:00:00Z",
-      "title": "Speedrun BOTW : RACE VS AIFE !",
-      "canceled_until": null,
-      "category": {
-        "id": "110758",
-        "name": "The Legend of Zelda: Breath of the Wild"
-      },
-      "is_recurring": true
-    },
-    {
       "id": "eyJzZWdtZW50SUQiOiIxYmFiYTQ3Ny0zYjI4LTRmMDUtYjM4YS0yZTE4NmFiZjRlMjMiLCJpc29ZZWFyIjoyMDIyLCJpc29XZWVrIjoyNX0=",
       "start_time": "2022-06-23T09:00:00Z",
       "end_time": "2022-06-23T16:00:00Z",
@@ -234,6 +210,27 @@
       "category": {
         "id": "338715930",
         "name": "Maitre des Fleurs"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiJjZGZlMDhmOS01YTFhLTQ2MzctYjZjZS0wZDA4NTdmNzk2M2IiLCJpc29ZZWFyIjoyMDIyLCJpc29XZWVrIjoyOH0=",
+      "start_time": "2022-07-12T09:00:00Z",
+      "end_time": "2022-07-12T15:00:00Z",
+      "title": "Journée multi avé les copains",
+      "canceled_until": null,
+      "category": null,
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiIzNDNlYzA0Mi1hOGQwLTQ2MjYtYjVkOS1mMGU0MzI4MGU4MmYiLCJpc29ZZWFyIjoyMDIyLCJpc29XZWVrIjoyOH0=",
+      "start_time": "2022-07-13T09:00:00Z",
+      "end_time": "2022-07-13T12:00:00Z",
+      "title": "Gameplay bowling sur Switch Sports",
+      "canceled_until": null,
+      "category": {
+        "id": "2044170173",
+        "name": "Nintendo Switch Sports"
       },
       "is_recurring": true
     }
