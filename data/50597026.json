@@ -13,18 +13,6 @@
   },
   "schedulers": [
     {
-      "id": "eyJzZWdtZW50SUQiOiIxYmFiYTQ3Ny0zYjI4LTRmMDUtYjM4YS0yZTE4NmFiZjRlMjMiLCJpc29ZZWFyIjoyMDIyLCJpc29XZWVrIjoyNX0=",
-      "start_time": "2022-06-23T09:00:00Z",
-      "end_time": "2022-06-23T16:00:00Z",
-      "title": "Suite du slowrun Elden Ring",
-      "canceled_until": null,
-      "category": {
-        "id": "512953",
-        "name": "Elden Ring"
-      },
-      "is_recurring": true
-    },
-    {
       "id": "eyJzZWdtZW50SUQiOiI3MjkwMDNmMC1kYTM2LTQ1YmYtOWQ0Yi03OWVkNWVjZGY1ZjEiLCJpc29ZZWFyIjoyMDIyLCJpc29XZWVrIjoyNX0=",
       "start_time": "2022-06-24T09:00:00Z",
       "end_time": "2022-06-24T16:00:00Z",
@@ -231,6 +219,18 @@
       "category": {
         "id": "2044170173",
         "name": "Nintendo Switch Sports"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiJkNzc3MDM3Mi1jNjkxLTRlZTItYmU4OC0xZDQwNDE0ODAyYzQiLCJpc29ZZWFyIjoyMDIyLCJpc29XZWVrIjoyOH0=",
+      "start_time": "2022-07-13T12:00:00Z",
+      "end_time": "2022-07-13T15:00:00Z",
+      "title": "Speedrun BOTW : RACE VS AIFE !",
+      "canceled_until": null,
+      "category": {
+        "id": "110758",
+        "name": "The Legend of Zelda: Breath of the Wild"
       },
       "is_recurring": true
     }
