@@ -13,18 +13,6 @@
   },
   "schedulers": [
     {
-      "id": "eyJzZWdtZW50SUQiOiI3ZmEwOGYzYy00YTA3LTQ2ZjMtODBhOC0xNDBhMDMxMGE2YzUiLCJpc29ZZWFyIjoyMDIyLCJpc29XZWVrIjoyNn0=",
-      "start_time": "2022-06-27T09:00:00Z",
-      "end_time": "2022-06-27T15:00:00Z",
-      "title": "Culture et plaisir",
-      "canceled_until": null,
-      "category": {
-        "id": "338715930",
-        "name": "Maitre des Fleurs"
-      },
-      "is_recurring": true
-    },
-    {
       "id": "eyJzZWdtZW50SUQiOiJjZGZlMDhmOS01YTFhLTQ2MzctYjZjZS0wZDA4NTdmNzk2M2IiLCJpc29ZZWFyIjoyMDIyLCJpc29XZWVrIjoyNn0=",
       "start_time": "2022-06-28T09:00:00Z",
       "end_time": "2022-06-28T15:00:00Z",
@@ -58,35 +46,38 @@
       "is_recurring": true
     },
     {
-      "id": "eyJzZWdtZW50SUQiOiIxYmFiYTQ3Ny0zYjI4LTRmMDUtYjM4YS0yZTE4NmFiZjRlMjMiLCJpc29ZZWFyIjoyMDIyLCJpc29XZWVrIjoyNn0=",
-      "start_time": "2022-06-30T09:00:00Z",
-      "end_time": "2022-06-30T16:00:00Z",
-      "title": "Suite du slowrun Elden Ring",
+      "id": "eyJzZWdtZW50SUQiOiIwZTQwMjhiOS1hZjdjLTRmYTktYWEzNS0yNDA4YjVkYjJkM2MiLCJpc29ZZWFyIjoyMDIyLCJpc29XZWVrIjoyNn0=",
+      "start_time": "2022-07-02T16:00:00Z",
+      "end_time": "2022-07-02T18:00:00Z",
+      "title": "Popcorn Festival (chaine de Domingo)",
       "canceled_until": null,
       "category": {
-        "id": "512953",
-        "name": "Elden Ring"
+        "id": "509663",
+        "name": "Special Events"
       },
       "is_recurring": true
     },
     {
-      "id": "eyJzZWdtZW50SUQiOiI3MjkwMDNmMC1kYTM2LTQ1YmYtOWQ0Yi03OWVkNWVjZGY1ZjEiLCJpc29ZZWFyIjoyMDIyLCJpc29XZWVrIjoyNn0=",
-      "start_time": "2022-07-01T09:00:00Z",
-      "end_time": "2022-07-01T16:00:00Z",
-      "title": "Journée multi avec les potes",
+      "id": "eyJzZWdtZW50SUQiOiJiZjIwMzU5YS0xOTcyLTQxYTEtYmU5OS04ZTZjNDI5NTY0YjkiLCJpc29ZZWFyIjoyMDIyLCJpc29XZWVrIjoyNn0=",
+      "start_time": "2022-07-02T18:00:00Z",
+      "end_time": "2022-07-02T21:00:00Z",
+      "title": "Emission Popcorn spéciale festival (chaine de Domingo)",
       "canceled_until": null,
-      "category": null,
+      "category": {
+        "id": "417752",
+        "name": "Talk Shows & Podcasts"
+      },
       "is_recurring": true
     },
     {
-      "id": "eyJzZWdtZW50SUQiOiJhZTYwZGM1Ny1hYWEyLTQxZTMtODhmMy0wZWY4MDNjZGNhNTAiLCJpc29ZZWFyIjoyMDIyLCJpc29XZWVrIjoyNn0=",
-      "start_time": "2022-07-03T11:00:00Z",
-      "end_time": "2022-07-03T14:00:00Z",
-      "title": "Tournoi MK",
+      "id": "eyJzZWdtZW50SUQiOiJjYzdkNzcxNy1mYTU5LTRkOTktYmU3YS1iYTE3YmE0MzBkNjEiLCJpc29ZZWFyIjoyMDIyLCJpc29XZWVrIjoyNn0=",
+      "start_time": "2022-07-02T21:00:00Z",
+      "end_time": "2022-07-02T22:00:00Z",
+      "title": "Popcorn Festival (chaine de Domingo)",
       "canceled_until": null,
       "category": {
-        "id": "941530474",
-        "name": "Mario Kart 8 Deluxe"
+        "id": "509663",
+        "name": "Special Events"
       },
       "is_recurring": true
     },
@@ -136,35 +127,38 @@
       "is_recurring": true
     },
     {
-      "id": "eyJzZWdtZW50SUQiOiIxYmFiYTQ3Ny0zYjI4LTRmMDUtYjM4YS0yZTE4NmFiZjRlMjMiLCJpc29ZZWFyIjoyMDIyLCJpc29XZWVrIjoyN30=",
-      "start_time": "2022-07-07T09:00:00Z",
-      "end_time": "2022-07-07T16:00:00Z",
-      "title": "Suite du slowrun Elden Ring",
+      "id": "eyJzZWdtZW50SUQiOiIwZTQwMjhiOS1hZjdjLTRmYTktYWEzNS0yNDA4YjVkYjJkM2MiLCJpc29ZZWFyIjoyMDIyLCJpc29XZWVrIjoyN30=",
+      "start_time": "2022-07-09T16:00:00Z",
+      "end_time": "2022-07-09T18:00:00Z",
+      "title": "Popcorn Festival (chaine de Domingo)",
       "canceled_until": null,
       "category": {
-        "id": "512953",
-        "name": "Elden Ring"
+        "id": "509663",
+        "name": "Special Events"
       },
       "is_recurring": true
     },
     {
-      "id": "eyJzZWdtZW50SUQiOiI3MjkwMDNmMC1kYTM2LTQ1YmYtOWQ0Yi03OWVkNWVjZGY1ZjEiLCJpc29ZZWFyIjoyMDIyLCJpc29XZWVrIjoyN30=",
-      "start_time": "2022-07-08T09:00:00Z",
-      "end_time": "2022-07-08T16:00:00Z",
-      "title": "Journée multi avec les potes",
+      "id": "eyJzZWdtZW50SUQiOiJiZjIwMzU5YS0xOTcyLTQxYTEtYmU5OS04ZTZjNDI5NTY0YjkiLCJpc29ZZWFyIjoyMDIyLCJpc29XZWVrIjoyN30=",
+      "start_time": "2022-07-09T18:00:00Z",
+      "end_time": "2022-07-09T21:00:00Z",
+      "title": "Emission Popcorn spéciale festival (chaine de Domingo)",
       "canceled_until": null,
-      "category": null,
+      "category": {
+        "id": "417752",
+        "name": "Talk Shows & Podcasts"
+      },
       "is_recurring": true
     },
     {
-      "id": "eyJzZWdtZW50SUQiOiJhZTYwZGM1Ny1hYWEyLTQxZTMtODhmMy0wZWY4MDNjZGNhNTAiLCJpc29ZZWFyIjoyMDIyLCJpc29XZWVrIjoyN30=",
-      "start_time": "2022-07-10T11:00:00Z",
-      "end_time": "2022-07-10T14:00:00Z",
-      "title": "Tournoi MK",
+      "id": "eyJzZWdtZW50SUQiOiJjYzdkNzcxNy1mYTU5LTRkOTktYmU3YS1iYTE3YmE0MzBkNjEiLCJpc29ZZWFyIjoyMDIyLCJpc29XZWVrIjoyN30=",
+      "start_time": "2022-07-09T21:00:00Z",
+      "end_time": "2022-07-09T22:00:00Z",
+      "title": "Popcorn Festival (chaine de Domingo)",
       "canceled_until": null,
       "category": {
-        "id": "941530474",
-        "name": "Mario Kart 8 Deluxe"
+        "id": "509663",
+        "name": "Special Events"
       },
       "is_recurring": true
     },
@@ -214,24 +208,39 @@
       "is_recurring": true
     },
     {
-      "id": "eyJzZWdtZW50SUQiOiIxYmFiYTQ3Ny0zYjI4LTRmMDUtYjM4YS0yZTE4NmFiZjRlMjMiLCJpc29ZZWFyIjoyMDIyLCJpc29XZWVrIjoyOH0=",
-      "start_time": "2022-07-14T09:00:00Z",
-      "end_time": "2022-07-14T16:00:00Z",
-      "title": "Suite du slowrun Elden Ring",
+      "id": "eyJzZWdtZW50SUQiOiIwZTQwMjhiOS1hZjdjLTRmYTktYWEzNS0yNDA4YjVkYjJkM2MiLCJpc29ZZWFyIjoyMDIyLCJpc29XZWVrIjoyOH0=",
+      "start_time": "2022-07-16T16:00:00Z",
+      "end_time": "2022-07-16T18:00:00Z",
+      "title": "Popcorn Festival (chaine de Domingo)",
       "canceled_until": null,
       "category": {
-        "id": "512953",
-        "name": "Elden Ring"
+        "id": "509663",
+        "name": "Special Events"
       },
       "is_recurring": true
     },
     {
-      "id": "eyJzZWdtZW50SUQiOiI3MjkwMDNmMC1kYTM2LTQ1YmYtOWQ0Yi03OWVkNWVjZGY1ZjEiLCJpc29ZZWFyIjoyMDIyLCJpc29XZWVrIjoyOH0=",
-      "start_time": "2022-07-15T09:00:00Z",
-      "end_time": "2022-07-15T16:00:00Z",
-      "title": "Journée multi avec les potes",
+      "id": "eyJzZWdtZW50SUQiOiJiZjIwMzU5YS0xOTcyLTQxYTEtYmU5OS04ZTZjNDI5NTY0YjkiLCJpc29ZZWFyIjoyMDIyLCJpc29XZWVrIjoyOH0=",
+      "start_time": "2022-07-16T18:00:00Z",
+      "end_time": "2022-07-16T21:00:00Z",
+      "title": "Emission Popcorn spéciale festival (chaine de Domingo)",
       "canceled_until": null,
-      "category": null,
+      "category": {
+        "id": "417752",
+        "name": "Talk Shows & Podcasts"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiJjYzdkNzcxNy1mYTU5LTRkOTktYmU3YS1iYTE3YmE0MzBkNjEiLCJpc29ZZWFyIjoyMDIyLCJpc29XZWVrIjoyOH0=",
+      "start_time": "2022-07-16T21:00:00Z",
+      "end_time": "2022-07-16T22:00:00Z",
+      "title": "Popcorn Festival (chaine de Domingo)",
+      "canceled_until": null,
+      "category": {
+        "id": "509663",
+        "name": "Special Events"
+      },
       "is_recurring": true
     }
   ]
