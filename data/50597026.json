@@ -13,15 +13,6 @@
   },
   "schedulers": [
     {
-      "id": "eyJzZWdtZW50SUQiOiJjZGZlMDhmOS01YTFhLTQ2MzctYjZjZS0wZDA4NTdmNzk2M2IiLCJpc29ZZWFyIjoyMDIyLCJpc29XZWVrIjoyNn0=",
-      "start_time": "2022-06-28T09:00:00Z",
-      "end_time": "2022-06-28T15:00:00Z",
-      "title": "Journée multi avé les copains",
-      "canceled_until": null,
-      "category": null,
-      "is_recurring": true
-    },
-    {
       "id": "eyJzZWdtZW50SUQiOiIzNDNlYzA0Mi1hOGQwLTQ2MjYtYjVkOS1mMGU0MzI4MGU4MmYiLCJpc29ZZWFyIjoyMDIyLCJpc29XZWVrIjoyNn0=",
       "start_time": "2022-06-29T09:00:00Z",
       "end_time": "2022-06-29T12:00:00Z",
@@ -47,7 +38,7 @@
     },
     {
       "id": "eyJzZWdtZW50SUQiOiIwZTQwMjhiOS1hZjdjLTRmYTktYWEzNS0yNDA4YjVkYjJkM2MiLCJpc29ZZWFyIjoyMDIyLCJpc29XZWVrIjoyNn0=",
-      "start_time": "2022-07-02T16:00:00Z",
+      "start_time": "2022-07-02T17:00:00Z",
       "end_time": "2022-07-02T18:00:00Z",
       "title": "Popcorn Festival (chaine de Domingo)",
       "canceled_until": null,
@@ -60,24 +51,12 @@
     {
       "id": "eyJzZWdtZW50SUQiOiJiZjIwMzU5YS0xOTcyLTQxYTEtYmU5OS04ZTZjNDI5NTY0YjkiLCJpc29ZZWFyIjoyMDIyLCJpc29XZWVrIjoyNn0=",
       "start_time": "2022-07-02T18:00:00Z",
-      "end_time": "2022-07-02T21:00:00Z",
+      "end_time": "2022-07-02T20:30:00Z",
       "title": "Emission Popcorn spéciale festival (chaine de Domingo)",
       "canceled_until": null,
       "category": {
         "id": "417752",
         "name": "Talk Shows & Podcasts"
-      },
-      "is_recurring": true
-    },
-    {
-      "id": "eyJzZWdtZW50SUQiOiJjYzdkNzcxNy1mYTU5LTRkOTktYmU3YS1iYTE3YmE0MzBkNjEiLCJpc29ZZWFyIjoyMDIyLCJpc29XZWVrIjoyNn0=",
-      "start_time": "2022-07-02T21:00:00Z",
-      "end_time": "2022-07-02T22:00:00Z",
-      "title": "Popcorn Festival (chaine de Domingo)",
-      "canceled_until": null,
-      "category": {
-        "id": "509663",
-        "name": "Special Events"
       },
       "is_recurring": true
     },
@@ -128,7 +107,7 @@
     },
     {
       "id": "eyJzZWdtZW50SUQiOiIwZTQwMjhiOS1hZjdjLTRmYTktYWEzNS0yNDA4YjVkYjJkM2MiLCJpc29ZZWFyIjoyMDIyLCJpc29XZWVrIjoyN30=",
-      "start_time": "2022-07-09T16:00:00Z",
+      "start_time": "2022-07-09T17:00:00Z",
       "end_time": "2022-07-09T18:00:00Z",
       "title": "Popcorn Festival (chaine de Domingo)",
       "canceled_until": null,
@@ -141,24 +120,12 @@
     {
       "id": "eyJzZWdtZW50SUQiOiJiZjIwMzU5YS0xOTcyLTQxYTEtYmU5OS04ZTZjNDI5NTY0YjkiLCJpc29ZZWFyIjoyMDIyLCJpc29XZWVrIjoyN30=",
       "start_time": "2022-07-09T18:00:00Z",
-      "end_time": "2022-07-09T21:00:00Z",
+      "end_time": "2022-07-09T20:30:00Z",
       "title": "Emission Popcorn spéciale festival (chaine de Domingo)",
       "canceled_until": null,
       "category": {
         "id": "417752",
         "name": "Talk Shows & Podcasts"
-      },
-      "is_recurring": true
-    },
-    {
-      "id": "eyJzZWdtZW50SUQiOiJjYzdkNzcxNy1mYTU5LTRkOTktYmU3YS1iYTE3YmE0MzBkNjEiLCJpc29ZZWFyIjoyMDIyLCJpc29XZWVrIjoyN30=",
-      "start_time": "2022-07-09T21:00:00Z",
-      "end_time": "2022-07-09T22:00:00Z",
-      "title": "Popcorn Festival (chaine de Domingo)",
-      "canceled_until": null,
-      "category": {
-        "id": "509663",
-        "name": "Special Events"
       },
       "is_recurring": true
     },
@@ -209,7 +176,7 @@
     },
     {
       "id": "eyJzZWdtZW50SUQiOiIwZTQwMjhiOS1hZjdjLTRmYTktYWEzNS0yNDA4YjVkYjJkM2MiLCJpc29ZZWFyIjoyMDIyLCJpc29XZWVrIjoyOH0=",
-      "start_time": "2022-07-16T16:00:00Z",
+      "start_time": "2022-07-16T17:00:00Z",
       "end_time": "2022-07-16T18:00:00Z",
       "title": "Popcorn Festival (chaine de Domingo)",
       "canceled_until": null,
@@ -222,7 +189,7 @@
     {
       "id": "eyJzZWdtZW50SUQiOiJiZjIwMzU5YS0xOTcyLTQxYTEtYmU5OS04ZTZjNDI5NTY0YjkiLCJpc29ZZWFyIjoyMDIyLCJpc29XZWVrIjoyOH0=",
       "start_time": "2022-07-16T18:00:00Z",
-      "end_time": "2022-07-16T21:00:00Z",
+      "end_time": "2022-07-16T20:30:00Z",
       "title": "Emission Popcorn spéciale festival (chaine de Domingo)",
       "canceled_until": null,
       "category": {
@@ -232,14 +199,47 @@
       "is_recurring": true
     },
     {
-      "id": "eyJzZWdtZW50SUQiOiJjYzdkNzcxNy1mYTU5LTRkOTktYmU3YS1iYTE3YmE0MzBkNjEiLCJpc29ZZWFyIjoyMDIyLCJpc29XZWVrIjoyOH0=",
-      "start_time": "2022-07-16T21:00:00Z",
-      "end_time": "2022-07-16T22:00:00Z",
-      "title": "Popcorn Festival (chaine de Domingo)",
+      "id": "eyJzZWdtZW50SUQiOiI3ZmEwOGYzYy00YTA3LTQ2ZjMtODBhOC0xNDBhMDMxMGE2YzUiLCJpc29ZZWFyIjoyMDIyLCJpc29XZWVrIjoyOX0=",
+      "start_time": "2022-07-18T09:00:00Z",
+      "end_time": "2022-07-18T15:00:00Z",
+      "title": "Culture et plaisir",
       "canceled_until": null,
       "category": {
-        "id": "509663",
-        "name": "Special Events"
+        "id": "338715930",
+        "name": "Maitre des Fleurs"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiJjZGZlMDhmOS01YTFhLTQ2MzctYjZjZS0wZDA4NTdmNzk2M2IiLCJpc29ZZWFyIjoyMDIyLCJpc29XZWVrIjoyOX0=",
+      "start_time": "2022-07-19T09:00:00Z",
+      "end_time": "2022-07-19T15:00:00Z",
+      "title": "Journée multi avé les copains",
+      "canceled_until": null,
+      "category": null,
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiIzNDNlYzA0Mi1hOGQwLTQ2MjYtYjVkOS1mMGU0MzI4MGU4MmYiLCJpc29ZZWFyIjoyMDIyLCJpc29XZWVrIjoyOX0=",
+      "start_time": "2022-07-20T09:00:00Z",
+      "end_time": "2022-07-20T12:00:00Z",
+      "title": "Gameplay bowling sur Switch Sports",
+      "canceled_until": null,
+      "category": {
+        "id": "2044170173",
+        "name": "Nintendo Switch Sports"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiJkNzc3MDM3Mi1jNjkxLTRlZTItYmU4OC0xZDQwNDE0ODAyYzQiLCJpc29ZZWFyIjoyMDIyLCJpc29XZWVrIjoyOX0=",
+      "start_time": "2022-07-20T12:00:00Z",
+      "end_time": "2022-07-20T15:00:00Z",
+      "title": "Speedrun BOTW : RACE VS AIFE !",
+      "canceled_until": null,
+      "category": {
+        "id": "110758",
+        "name": "The Legend of Zelda: Breath of the Wild"
       },
       "is_recurring": true
     }
