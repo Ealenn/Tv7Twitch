@@ -13,42 +13,6 @@
   },
   "schedulers": [
     {
-      "id": "eyJzZWdtZW50SUQiOiIzNDNlYzA0Mi1hOGQwLTQ2MjYtYjVkOS1mMGU0MzI4MGU4MmYiLCJpc29ZZWFyIjoyMDIyLCJpc29XZWVrIjoyN30=",
-      "start_time": "2022-07-06T09:00:00Z",
-      "end_time": "2022-07-06T12:00:00Z",
-      "title": "Gameplay bowling sur Switch Sports",
-      "canceled_until": null,
-      "category": {
-        "id": "2044170173",
-        "name": "Nintendo Switch Sports"
-      },
-      "is_recurring": true
-    },
-    {
-      "id": "eyJzZWdtZW50SUQiOiJkNzc3MDM3Mi1jNjkxLTRlZTItYmU4OC0xZDQwNDE0ODAyYzQiLCJpc29ZZWFyIjoyMDIyLCJpc29XZWVrIjoyN30=",
-      "start_time": "2022-07-06T12:00:00Z",
-      "end_time": "2022-07-06T14:00:00Z",
-      "title": "Speedrun BOTW : RACE VS AIFE !",
-      "canceled_until": null,
-      "category": {
-        "id": "110758",
-        "name": "The Legend of Zelda: Breath of the Wild"
-      },
-      "is_recurring": true
-    },
-    {
-      "id": "eyJzZWdtZW50SUQiOiJiNTEwYzQ2YS1jMjFlLTQ3N2ItYjgxYi01ZTczMTE4YmZlY2YiLCJpc29ZZWFyIjoyMDIyLCJpc29XZWVrIjoyN30=",
-      "start_time": "2022-07-06T18:00:00Z",
-      "end_time": "2022-07-06T20:00:00Z",
-      "title": "Tournoi Fall Guys des Fleurs",
-      "canceled_until": null,
-      "category": {
-        "id": "512980",
-        "name": "Fall Guys"
-      },
-      "is_recurring": true
-    },
-    {
       "id": "eyJzZWdtZW50SUQiOiI5NDBmZmQxZS01ZTgzLTQ1YTYtYTA3OS02Y2FjNGZjNjI3YzUiLCJpc29ZZWFyIjoyMDIyLCJpc29XZWVrIjoyN30=",
       "start_time": "2022-07-07T09:00:00Z",
       "end_time": "2022-07-07T14:00:00Z",
@@ -244,6 +208,39 @@
         "id": "512953",
         "name": "Elden Ring"
       },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiI0N2NlNTM2Mi0zZTRkLTRlOTItYmFkZC0xMDQwMzdhMjBhMmUiLCJpc29ZZWFyIjoyMDIyLCJpc29XZWVrIjoyOX0=",
+      "start_time": "2022-07-24T11:00:00Z",
+      "end_time": "2022-07-24T15:00:00Z",
+      "title": "Tournoi MK du dimanche",
+      "canceled_until": null,
+      "category": {
+        "id": "941530474",
+        "name": "Mario Kart 8 Deluxe"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiI3ZmEwOGYzYy00YTA3LTQ2ZjMtODBhOC0xNDBhMDMxMGE2YzUiLCJpc29ZZWFyIjoyMDIyLCJpc29XZWVrIjozMH0=",
+      "start_time": "2022-07-25T09:00:00Z",
+      "end_time": "2022-07-25T15:00:00Z",
+      "title": "Culture et plaisir",
+      "canceled_until": null,
+      "category": {
+        "id": "338715930",
+        "name": "Maitre des Fleurs"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiJjZGZlMDhmOS01YTFhLTQ2MzctYjZjZS0wZDA4NTdmNzk2M2IiLCJpc29ZZWFyIjoyMDIyLCJpc29XZWVrIjozMH0=",
+      "start_time": "2022-07-26T09:00:00Z",
+      "end_time": "2022-07-26T15:00:00Z",
+      "title": "Journée multi avé les copains",
+      "canceled_until": null,
+      "category": null,
       "is_recurring": true
     }
   ]
