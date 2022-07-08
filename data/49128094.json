@@ -13,18 +13,6 @@
   },
   "schedulers": [
     {
-      "id": "eyJzZWdtZW50SUQiOiJjMWYwMDMwZC1hOWU3LTQ5NTAtODFkNi05ZjgzMDMzNGVlZTEiLCJpc29ZZWFyIjoyMDIyLCJpc29XZWVrIjoyN30=",
-      "start_time": "2022-07-07T16:00:00Z",
-      "end_time": "2022-07-07T18:00:00Z",
-      "title": "On test le nouveau Slay the Spire de The Witcher!",
-      "canceled_until": null,
-      "category": {
-        "id": "509658",
-        "name": "Just Chatting"
-      },
-      "is_recurring": false
-    },
-    {
       "id": "eyJzZWdtZW50SUQiOiI5ODkyMzQwZi03MWI3LTQyNTYtYWU3OS1iMzljZTE3YzJkZGQiLCJpc29ZZWFyIjoyMDIyLCJpc29XZWVrIjoyOH0=",
       "start_time": "2022-07-13T16:00:00Z",
       "end_time": "2022-07-13T18:00:00Z",
@@ -244,6 +232,18 @@
       "id": "eyJzZWdtZW50SUQiOiI5ODkyMzQwZi03MWI3LTQyNTYtYWU3OS1iMzljZTE3YzJkZGQiLCJpc29ZZWFyIjoyMDIyLCJpc29XZWVrIjo0Nn0=",
       "start_time": "2022-11-16T17:00:00Z",
       "end_time": "2022-11-16T19:00:00Z",
+      "title": " Debrief' de l'actualité jeu vidéo de la semaine avec vous ☕",
+      "canceled_until": null,
+      "category": {
+        "id": "509658",
+        "name": "Just Chatting"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiI5ODkyMzQwZi03MWI3LTQyNTYtYWU3OS1iMzljZTE3YzJkZGQiLCJpc29ZZWFyIjoyMDIyLCJpc29XZWVrIjo0N30=",
+      "start_time": "2022-11-23T17:00:00Z",
+      "end_time": "2022-11-23T19:00:00Z",
       "title": " Debrief' de l'actualité jeu vidéo de la semaine avec vous ☕",
       "canceled_until": null,
       "category": {
