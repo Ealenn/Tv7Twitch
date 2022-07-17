@@ -13,18 +13,6 @@
   },
   "schedulers": [
     {
-      "id": "eyJzZWdtZW50SUQiOiI4OGRhNjgzNS1hYzgyLTQ0MGItYTA4OC0zNDJmZGE3YjA4YmYiLCJpc29ZZWFyIjoyMDIyLCJpc29XZWVrIjoyOH0=",
-      "start_time": "2022-07-16T08:30:00Z",
-      "end_time": "2022-07-16T11:30:00Z",
-      "title": "Twitch Rivals en direct de la twitchcon",
-      "canceled_until": null,
-      "category": {
-        "id": "509663",
-        "name": "Special Events"
-      },
-      "is_recurring": true
-    },
-    {
       "id": "eyJzZWdtZW50SUQiOiI3ZmEwOGYzYy00YTA3LTQ2ZjMtODBhOC0xNDBhMDMxMGE2YzUiLCJpc29ZZWFyIjoyMDIyLCJpc29XZWVrIjoyOX0=",
       "start_time": "2022-07-18T09:00:00Z",
       "end_time": "2022-07-18T15:00:00Z",
@@ -240,6 +228,18 @@
       "category": {
         "id": "110758",
         "name": "The Legend of Zelda: Breath of the Wild"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiI5NDBmZmQxZS01ZTgzLTQ1YTYtYTA3OS02Y2FjNGZjNjI3YzUiLCJpc29ZZWFyIjoyMDIyLCJpc29XZWVrIjozMX0=",
+      "start_time": "2022-08-04T11:00:00Z",
+      "end_time": "2022-08-04T18:00:00Z",
+      "title": "Suite du slowrun aiguille%",
+      "canceled_until": null,
+      "category": {
+        "id": "512953",
+        "name": "Elden Ring"
       },
       "is_recurring": true
     }
