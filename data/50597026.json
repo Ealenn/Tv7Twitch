@@ -14,65 +14,32 @@
   "schedulers": [
     {
       "id": "eyJzZWdtZW50SUQiOiI3ZmEwOGYzYy00YTA3LTQ2ZjMtODBhOC0xNDBhMDMxMGE2YzUiLCJpc29ZZWFyIjoyMDIyLCJpc29XZWVrIjoyOX0=",
-      "start_time": "2022-07-18T09:00:00Z",
-      "end_time": "2022-07-18T15:00:00Z",
+      "start_time": "2022-07-19T09:00:00Z",
+      "end_time": "2022-07-19T15:00:00Z",
       "title": "Culture et plaisir",
       "canceled_until": null,
       "category": {
         "id": "338715930",
         "name": "Maitre des Fleurs"
-      },
-      "is_recurring": true
-    },
-    {
-      "id": "eyJzZWdtZW50SUQiOiJjZGZlMDhmOS01YTFhLTQ2MzctYjZjZS0wZDA4NTdmNzk2M2IiLCJpc29ZZWFyIjoyMDIyLCJpc29XZWVrIjoyOX0=",
-      "start_time": "2022-07-19T09:00:00Z",
-      "end_time": "2022-07-19T15:00:00Z",
-      "title": "Journée multi avé les copains",
-      "canceled_until": null,
-      "category": null,
-      "is_recurring": true
-    },
-    {
-      "id": "eyJzZWdtZW50SUQiOiIxZWM4ZjgwZS1kYWNmLTRkM2QtYmVjZC0yODQxNTI0NTMwZWQiLCJpc29ZZWFyIjoyMDIyLCJpc29XZWVrIjoyOX0=",
-      "start_time": "2022-07-19T18:30:00Z",
-      "end_time": "2022-07-19T22:30:00Z",
-      "title": "Suite de l'aventure sur FFXIV Online",
-      "canceled_until": null,
-      "category": {
-        "id": "24241",
-        "name": "Final Fantasy XIV Online"
       },
       "is_recurring": true
     },
     {
       "id": "eyJzZWdtZW50SUQiOiIzNDNlYzA0Mi1hOGQwLTQ2MjYtYjVkOS1mMGU0MzI4MGU4MmYiLCJpc29ZZWFyIjoyMDIyLCJpc29XZWVrIjoyOX0=",
       "start_time": "2022-07-20T09:00:00Z",
-      "end_time": "2022-07-20T12:00:00Z",
-      "title": "Gameplay bowling sur Switch Sports",
+      "end_time": "2022-07-20T16:00:00Z",
+      "title": "Le début d'une nouvelle aventure",
       "canceled_until": null,
       "category": {
-        "id": "2044170173",
-        "name": "Nintendo Switch Sports"
-      },
-      "is_recurring": true
-    },
-    {
-      "id": "eyJzZWdtZW50SUQiOiJhNjkwYWRkOS1kZTJmLTRlYjAtYjQ0MS1mNDEwNGQyZTMwZGIiLCJpc29ZZWFyIjoyMDIyLCJpc29XZWVrIjoyOX0=",
-      "start_time": "2022-07-20T12:00:00Z",
-      "end_time": "2022-07-20T15:00:00Z",
-      "title": "Speedrun BOTW Race contre Aife",
-      "canceled_until": null,
-      "category": {
-        "id": "110758",
-        "name": "The Legend of Zelda: Breath of the Wild"
+        "id": "460619",
+        "name": "Ori and the Blind Forest"
       },
       "is_recurring": true
     },
     {
       "id": "eyJzZWdtZW50SUQiOiI5NDBmZmQxZS01ZTgzLTQ1YTYtYTA3OS02Y2FjNGZjNjI3YzUiLCJpc29ZZWFyIjoyMDIyLCJpc29XZWVrIjoyOX0=",
-      "start_time": "2022-07-21T11:00:00Z",
-      "end_time": "2022-07-21T18:00:00Z",
+      "start_time": "2022-07-21T09:00:00Z",
+      "end_time": "2022-07-21T14:00:00Z",
       "title": "Suite du slowrun aiguille%",
       "canceled_until": null,
       "category": {
@@ -82,78 +49,63 @@
       "is_recurring": true
     },
     {
-      "id": "eyJzZWdtZW50SUQiOiI4OGRhNjgzNS1hYzgyLTQ0MGItYTA4OC0zNDJmZGE3YjA4YmYiLCJpc29ZZWFyIjoyMDIyLCJpc29XZWVrIjoyOX0=",
-      "start_time": "2022-07-23T08:30:00Z",
-      "end_time": "2022-07-23T11:30:00Z",
-      "title": "Twitch Rivals en direct de la twitchcon",
+      "id": "eyJzZWdtZW50SUQiOiJmMTU0MThlOC03ZDExLTQ2ZTktYWU1ZC03M2ZlMmE0N2RhNGMiLCJpc29ZZWFyIjoyMDIyLCJpc29XZWVrIjoyOX0=",
+      "start_time": "2022-07-21T17:00:00Z",
+      "end_time": "2022-07-21T21:00:00Z",
+      "title": "Challenge Pokémon (avec plein de gens)",
       "canceled_until": null,
-      "category": {
-        "id": "509663",
-        "name": "Special Events"
-      },
+      "category": null,
       "is_recurring": true
     },
     {
-      "id": "eyJzZWdtZW50SUQiOiI3ZmEwOGYzYy00YTA3LTQ2ZjMtODBhOC0xNDBhMDMxMGE2YzUiLCJpc29ZZWFyIjoyMDIyLCJpc29XZWVrIjozMH0=",
-      "start_time": "2022-07-25T09:00:00Z",
-      "end_time": "2022-07-25T15:00:00Z",
-      "title": "Culture et plaisir",
-      "canceled_until": null,
-      "category": {
-        "id": "338715930",
-        "name": "Maitre des Fleurs"
-      },
-      "is_recurring": true
-    },
-    {
-      "id": "eyJzZWdtZW50SUQiOiJjZGZlMDhmOS01YTFhLTQ2MzctYjZjZS0wZDA4NTdmNzk2M2IiLCJpc29ZZWFyIjoyMDIyLCJpc29XZWVrIjozMH0=",
-      "start_time": "2022-07-26T09:00:00Z",
-      "end_time": "2022-07-26T15:00:00Z",
+      "id": "eyJzZWdtZW50SUQiOiJjZGZlMDhmOS01YTFhLTQ2MzctYjZjZS0wZDA4NTdmNzk2M2IiLCJpc29ZZWFyIjoyMDIyLCJpc29XZWVrIjoyOX0=",
+      "start_time": "2022-07-22T09:00:00Z",
+      "end_time": "2022-07-22T15:00:00Z",
       "title": "Journée multi avé les copains",
       "canceled_until": null,
       "category": null,
       "is_recurring": true
     },
     {
-      "id": "eyJzZWdtZW50SUQiOiIxZWM4ZjgwZS1kYWNmLTRkM2QtYmVjZC0yODQxNTI0NTMwZWQiLCJpc29ZZWFyIjoyMDIyLCJpc29XZWVrIjozMH0=",
-      "start_time": "2022-07-26T18:30:00Z",
-      "end_time": "2022-07-26T22:30:00Z",
-      "title": "Suite de l'aventure sur FFXIV Online",
+      "id": "eyJzZWdtZW50SUQiOiI5Y2NiODdlNy1mMDg5LTRiNDktODhhYi0zODUzNjA5NTc4NDAiLCJpc29ZZWFyIjoyMDIyLCJpc29XZWVrIjoyOX0=",
+      "start_time": "2022-07-24T11:00:00Z",
+      "end_time": "2022-07-24T15:00:00Z",
+      "title": "Le tournoi MK du dimanche",
       "canceled_until": null,
       "category": {
-        "id": "24241",
-        "name": "Final Fantasy XIV Online"
+        "id": "941530474",
+        "name": "Mario Kart 8 Deluxe"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiI3ZmEwOGYzYy00YTA3LTQ2ZjMtODBhOC0xNDBhMDMxMGE2YzUiLCJpc29ZZWFyIjoyMDIyLCJpc29XZWVrIjozMH0=",
+      "start_time": "2022-07-26T09:00:00Z",
+      "end_time": "2022-07-26T15:00:00Z",
+      "title": "Culture et plaisir",
+      "canceled_until": null,
+      "category": {
+        "id": "338715930",
+        "name": "Maitre des Fleurs"
       },
       "is_recurring": true
     },
     {
       "id": "eyJzZWdtZW50SUQiOiIzNDNlYzA0Mi1hOGQwLTQ2MjYtYjVkOS1mMGU0MzI4MGU4MmYiLCJpc29ZZWFyIjoyMDIyLCJpc29XZWVrIjozMH0=",
       "start_time": "2022-07-27T09:00:00Z",
-      "end_time": "2022-07-27T12:00:00Z",
-      "title": "Gameplay bowling sur Switch Sports",
+      "end_time": "2022-07-27T16:00:00Z",
+      "title": "Le début d'une nouvelle aventure",
       "canceled_until": null,
       "category": {
-        "id": "2044170173",
-        "name": "Nintendo Switch Sports"
-      },
-      "is_recurring": true
-    },
-    {
-      "id": "eyJzZWdtZW50SUQiOiJhNjkwYWRkOS1kZTJmLTRlYjAtYjQ0MS1mNDEwNGQyZTMwZGIiLCJpc29ZZWFyIjoyMDIyLCJpc29XZWVrIjozMH0=",
-      "start_time": "2022-07-27T12:00:00Z",
-      "end_time": "2022-07-27T15:00:00Z",
-      "title": "Speedrun BOTW Race contre Aife",
-      "canceled_until": null,
-      "category": {
-        "id": "110758",
-        "name": "The Legend of Zelda: Breath of the Wild"
+        "id": "460619",
+        "name": "Ori and the Blind Forest"
       },
       "is_recurring": true
     },
     {
       "id": "eyJzZWdtZW50SUQiOiI5NDBmZmQxZS01ZTgzLTQ1YTYtYTA3OS02Y2FjNGZjNjI3YzUiLCJpc29ZZWFyIjoyMDIyLCJpc29XZWVrIjozMH0=",
-      "start_time": "2022-07-28T11:00:00Z",
-      "end_time": "2022-07-28T18:00:00Z",
+      "start_time": "2022-07-28T09:00:00Z",
+      "end_time": "2022-07-28T14:00:00Z",
       "title": "Suite du slowrun aiguille%",
       "canceled_until": null,
       "category": {
@@ -163,21 +115,39 @@
       "is_recurring": true
     },
     {
-      "id": "eyJzZWdtZW50SUQiOiI4OGRhNjgzNS1hYzgyLTQ0MGItYTA4OC0zNDJmZGE3YjA4YmYiLCJpc29ZZWFyIjoyMDIyLCJpc29XZWVrIjozMH0=",
-      "start_time": "2022-07-30T08:30:00Z",
-      "end_time": "2022-07-30T11:30:00Z",
-      "title": "Twitch Rivals en direct de la twitchcon",
+      "id": "eyJzZWdtZW50SUQiOiJmMTU0MThlOC03ZDExLTQ2ZTktYWU1ZC03M2ZlMmE0N2RhNGMiLCJpc29ZZWFyIjoyMDIyLCJpc29XZWVrIjozMH0=",
+      "start_time": "2022-07-28T17:00:00Z",
+      "end_time": "2022-07-28T21:00:00Z",
+      "title": "Challenge Pokémon (avec plein de gens)",
+      "canceled_until": null,
+      "category": null,
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiJjZGZlMDhmOS01YTFhLTQ2MzctYjZjZS0wZDA4NTdmNzk2M2IiLCJpc29ZZWFyIjoyMDIyLCJpc29XZWVrIjozMH0=",
+      "start_time": "2022-07-29T09:00:00Z",
+      "end_time": "2022-07-29T15:00:00Z",
+      "title": "Journée multi avé les copains",
+      "canceled_until": null,
+      "category": null,
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiI5Y2NiODdlNy1mMDg5LTRiNDktODhhYi0zODUzNjA5NTc4NDAiLCJpc29ZZWFyIjoyMDIyLCJpc29XZWVrIjozMH0=",
+      "start_time": "2022-07-31T11:00:00Z",
+      "end_time": "2022-07-31T15:00:00Z",
+      "title": "Le tournoi MK du dimanche",
       "canceled_until": null,
       "category": {
-        "id": "509663",
-        "name": "Special Events"
+        "id": "941530474",
+        "name": "Mario Kart 8 Deluxe"
       },
       "is_recurring": true
     },
     {
       "id": "eyJzZWdtZW50SUQiOiI3ZmEwOGYzYy00YTA3LTQ2ZjMtODBhOC0xNDBhMDMxMGE2YzUiLCJpc29ZZWFyIjoyMDIyLCJpc29XZWVrIjozMX0=",
-      "start_time": "2022-08-01T09:00:00Z",
-      "end_time": "2022-08-01T15:00:00Z",
+      "start_time": "2022-08-02T09:00:00Z",
+      "end_time": "2022-08-02T15:00:00Z",
       "title": "Culture et plaisir",
       "canceled_until": null,
       "category": {
@@ -187,59 +157,80 @@
       "is_recurring": true
     },
     {
+      "id": "eyJzZWdtZW50SUQiOiIzNDNlYzA0Mi1hOGQwLTQ2MjYtYjVkOS1mMGU0MzI4MGU4MmYiLCJpc29ZZWFyIjoyMDIyLCJpc29XZWVrIjozMX0=",
+      "start_time": "2022-08-03T09:00:00Z",
+      "end_time": "2022-08-03T16:00:00Z",
+      "title": "Le début d'une nouvelle aventure",
+      "canceled_until": null,
+      "category": {
+        "id": "460619",
+        "name": "Ori and the Blind Forest"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiI5NDBmZmQxZS01ZTgzLTQ1YTYtYTA3OS02Y2FjNGZjNjI3YzUiLCJpc29ZZWFyIjoyMDIyLCJpc29XZWVrIjozMX0=",
+      "start_time": "2022-08-04T09:00:00Z",
+      "end_time": "2022-08-04T14:00:00Z",
+      "title": "Suite du slowrun aiguille%",
+      "canceled_until": null,
+      "category": {
+        "id": "512953",
+        "name": "Elden Ring"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiJmMTU0MThlOC03ZDExLTQ2ZTktYWU1ZC03M2ZlMmE0N2RhNGMiLCJpc29ZZWFyIjoyMDIyLCJpc29XZWVrIjozMX0=",
+      "start_time": "2022-08-04T17:00:00Z",
+      "end_time": "2022-08-04T21:00:00Z",
+      "title": "Challenge Pokémon (avec plein de gens)",
+      "canceled_until": null,
+      "category": null,
+      "is_recurring": true
+    },
+    {
       "id": "eyJzZWdtZW50SUQiOiJjZGZlMDhmOS01YTFhLTQ2MzctYjZjZS0wZDA4NTdmNzk2M2IiLCJpc29ZZWFyIjoyMDIyLCJpc29XZWVrIjozMX0=",
-      "start_time": "2022-08-02T09:00:00Z",
-      "end_time": "2022-08-02T15:00:00Z",
+      "start_time": "2022-08-05T09:00:00Z",
+      "end_time": "2022-08-05T15:00:00Z",
       "title": "Journée multi avé les copains",
       "canceled_until": null,
       "category": null,
       "is_recurring": true
     },
     {
-      "id": "eyJzZWdtZW50SUQiOiIxZWM4ZjgwZS1kYWNmLTRkM2QtYmVjZC0yODQxNTI0NTMwZWQiLCJpc29ZZWFyIjoyMDIyLCJpc29XZWVrIjozMX0=",
-      "start_time": "2022-08-02T18:30:00Z",
-      "end_time": "2022-08-02T22:30:00Z",
-      "title": "Suite de l'aventure sur FFXIV Online",
+      "id": "eyJzZWdtZW50SUQiOiI5Y2NiODdlNy1mMDg5LTRiNDktODhhYi0zODUzNjA5NTc4NDAiLCJpc29ZZWFyIjoyMDIyLCJpc29XZWVrIjozMX0=",
+      "start_time": "2022-08-07T11:00:00Z",
+      "end_time": "2022-08-07T15:00:00Z",
+      "title": "Le tournoi MK du dimanche",
       "canceled_until": null,
       "category": {
-        "id": "24241",
-        "name": "Final Fantasy XIV Online"
+        "id": "941530474",
+        "name": "Mario Kart 8 Deluxe"
       },
       "is_recurring": true
     },
     {
-      "id": "eyJzZWdtZW50SUQiOiIzNDNlYzA0Mi1hOGQwLTQ2MjYtYjVkOS1mMGU0MzI4MGU4MmYiLCJpc29ZZWFyIjoyMDIyLCJpc29XZWVrIjozMX0=",
-      "start_time": "2022-08-03T09:00:00Z",
-      "end_time": "2022-08-03T12:00:00Z",
-      "title": "Gameplay bowling sur Switch Sports",
+      "id": "eyJzZWdtZW50SUQiOiI3ZmEwOGYzYy00YTA3LTQ2ZjMtODBhOC0xNDBhMDMxMGE2YzUiLCJpc29ZZWFyIjoyMDIyLCJpc29XZWVrIjozMn0=",
+      "start_time": "2022-08-09T09:00:00Z",
+      "end_time": "2022-08-09T15:00:00Z",
+      "title": "Culture et plaisir",
       "canceled_until": null,
       "category": {
-        "id": "2044170173",
-        "name": "Nintendo Switch Sports"
+        "id": "338715930",
+        "name": "Maitre des Fleurs"
       },
       "is_recurring": true
     },
     {
-      "id": "eyJzZWdtZW50SUQiOiJhNjkwYWRkOS1kZTJmLTRlYjAtYjQ0MS1mNDEwNGQyZTMwZGIiLCJpc29ZZWFyIjoyMDIyLCJpc29XZWVrIjozMX0=",
-      "start_time": "2022-08-03T12:00:00Z",
-      "end_time": "2022-08-03T15:00:00Z",
-      "title": "Speedrun BOTW Race contre Aife",
+      "id": "eyJzZWdtZW50SUQiOiIzNDNlYzA0Mi1hOGQwLTQ2MjYtYjVkOS1mMGU0MzI4MGU4MmYiLCJpc29ZZWFyIjoyMDIyLCJpc29XZWVrIjozMn0=",
+      "start_time": "2022-08-10T09:00:00Z",
+      "end_time": "2022-08-10T16:00:00Z",
+      "title": "Le début d'une nouvelle aventure",
       "canceled_until": null,
       "category": {
-        "id": "110758",
-        "name": "The Legend of Zelda: Breath of the Wild"
-      },
-      "is_recurring": true
-    },
-    {
-      "id": "eyJzZWdtZW50SUQiOiI5NDBmZmQxZS01ZTgzLTQ1YTYtYTA3OS02Y2FjNGZjNjI3YzUiLCJpc29ZZWFyIjoyMDIyLCJpc29XZWVrIjozMX0=",
-      "start_time": "2022-08-04T11:00:00Z",
-      "end_time": "2022-08-04T18:00:00Z",
-      "title": "Suite du slowrun aiguille%",
-      "canceled_until": null,
-      "category": {
-        "id": "512953",
-        "name": "Elden Ring"
+        "id": "460619",
+        "name": "Ori and the Blind Forest"
       },
       "is_recurring": true
     }
