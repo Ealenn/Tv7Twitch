@@ -13,18 +13,6 @@
   },
   "schedulers": [
     {
-      "id": "eyJzZWdtZW50SUQiOiIzNDNlYzA0Mi1hOGQwLTQ2MjYtYjVkOS1mMGU0MzI4MGU4MmYiLCJpc29ZZWFyIjoyMDIyLCJpc29XZWVrIjoyOX0=",
-      "start_time": "2022-07-20T09:00:00Z",
-      "end_time": "2022-07-20T16:00:00Z",
-      "title": "Le début d'une nouvelle aventure",
-      "canceled_until": null,
-      "category": {
-        "id": "460619",
-        "name": "Ori and the Blind Forest"
-      },
-      "is_recurring": true
-    },
-    {
       "id": "eyJzZWdtZW50SUQiOiI5NDBmZmQxZS01ZTgzLTQ1YTYtYTA3OS02Y2FjNGZjNjI3YzUiLCJpc29ZZWFyIjoyMDIyLCJpc29XZWVrIjoyOX0=",
       "start_time": "2022-07-21T09:00:00Z",
       "end_time": "2022-07-21T14:00:00Z",
@@ -232,6 +220,15 @@
         "id": "512953",
         "name": "Elden Ring"
       },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiJmMTU0MThlOC03ZDExLTQ2ZTktYWU1ZC03M2ZlMmE0N2RhNGMiLCJpc29ZZWFyIjoyMDIyLCJpc29XZWVrIjozMn0=",
+      "start_time": "2022-08-11T17:00:00Z",
+      "end_time": "2022-08-11T21:00:00Z",
+      "title": "Challenge Pokémon (avec plein de gens)",
+      "canceled_until": null,
+      "category": null,
       "is_recurring": true
     }
   ]

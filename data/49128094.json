@@ -13,18 +13,6 @@
   },
   "schedulers": [
     {
-      "id": "eyJzZWdtZW50SUQiOiI5ODkyMzQwZi03MWI3LTQyNTYtYWU3OS1iMzljZTE3YzJkZGQiLCJpc29ZZWFyIjoyMDIyLCJpc29XZWVrIjoyOX0=",
-      "start_time": "2022-07-20T16:00:00Z",
-      "end_time": "2022-07-20T18:00:00Z",
-      "title": " Debrief' de l'actualité jeu vidéo de la semaine avec vous ☕",
-      "canceled_until": null,
-      "category": {
-        "id": "509658",
-        "name": "Just Chatting"
-      },
-      "is_recurring": true
-    },
-    {
       "id": "eyJzZWdtZW50SUQiOiI2MDVhZTkyMi03NjhkLTQzZmEtODA2Yy0wNzJhNDg4YWUwMTAiLCJpc29ZZWFyIjoyMDIyLCJpc29XZWVrIjoyOX0=",
       "start_time": "2022-07-23T19:00:00Z",
       "end_time": "2022-07-23T23:00:00Z",
@@ -244,6 +232,18 @@
       "id": "eyJzZWdtZW50SUQiOiI5ODkyMzQwZi03MWI3LTQyNTYtYWU3OS1iMzljZTE3YzJkZGQiLCJpc29ZZWFyIjoyMDIyLCJpc29XZWVrIjo0N30=",
       "start_time": "2022-11-23T17:00:00Z",
       "end_time": "2022-11-23T19:00:00Z",
+      "title": " Debrief' de l'actualité jeu vidéo de la semaine avec vous ☕",
+      "canceled_until": null,
+      "category": {
+        "id": "509658",
+        "name": "Just Chatting"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiI5ODkyMzQwZi03MWI3LTQyNTYtYWU3OS1iMzljZTE3YzJkZGQiLCJpc29ZZWFyIjoyMDIyLCJpc29XZWVrIjo0OH0=",
+      "start_time": "2022-11-30T17:00:00Z",
+      "end_time": "2022-11-30T19:00:00Z",
       "title": " Debrief' de l'actualité jeu vidéo de la semaine avec vous ☕",
       "canceled_until": null,
       "category": {
