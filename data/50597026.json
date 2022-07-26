@@ -13,31 +13,22 @@
   },
   "schedulers": [
     {
-      "id": "eyJzZWdtZW50SUQiOiI3ZmEwOGYzYy00YTA3LTQ2ZjMtODBhOC0xNDBhMDMxMGE2YzUiLCJpc29ZZWFyIjoyMDIyLCJpc29XZWVrIjozMH0=",
-      "start_time": "2022-07-25T09:00:00Z",
-      "end_time": "2022-07-25T15:00:00Z",
-      "title": "Culture et plaisir",
+      "id": "eyJzZWdtZW50SUQiOiJjZGZlMDhmOS01YTFhLTQ2MzctYjZjZS0wZDA4NTdmNzk2M2IiLCJpc29ZZWFyIjoyMDIyLCJpc29XZWVrIjozMH0=",
+      "start_time": "2022-07-26T13:00:00Z",
+      "end_time": "2022-07-26T17:00:00Z",
+      "title": "OMG FF14 OMG LE MEUPORG OMG LE GOLD SAUCER",
       "canceled_until": null,
       "category": {
-        "id": "338715930",
-        "name": "Maitre des Fleurs"
+        "id": "24241",
+        "name": "Final Fantasy XIV Online"
       },
-      "is_recurring": true
-    },
-    {
-      "id": "eyJzZWdtZW50SUQiOiJjZGZlMDhmOS01YTFhLTQ2MzctYjZjZS0wZDA4NTdmNzk2M2IiLCJpc29ZZWFyIjoyMDIyLCJpc29XZWVrIjozMH0=",
-      "start_time": "2022-07-26T09:00:00Z",
-      "end_time": "2022-07-26T15:00:00Z",
-      "title": "Journée multi avé les copains",
-      "canceled_until": null,
-      "category": null,
       "is_recurring": true
     },
     {
       "id": "eyJzZWdtZW50SUQiOiIzNjVlMzhlNC01MzJhLTRkZjktOGIxMC1jY2VmZjczM2JlZTMiLCJpc29ZZWFyIjoyMDIyLCJpc29XZWVrIjozMH0=",
       "start_time": "2022-07-26T18:00:00Z",
       "end_time": "2022-07-26T22:00:00Z",
-      "title": "Entraînement MK pour le twitch rivals avec la team ",
+      "title": "Entraînement MK avec la team ",
       "canceled_until": null,
       "category": {
         "id": "941530474",
@@ -60,7 +51,7 @@
     {
       "id": "eyJzZWdtZW50SUQiOiI5NDBmZmQxZS01ZTgzLTQ1YTYtYTA3OS02Y2FjNGZjNjI3YzUiLCJpc29ZZWFyIjoyMDIyLCJpc29XZWVrIjozMH0=",
       "start_time": "2022-07-28T09:00:00Z",
-      "end_time": "2022-07-28T14:00:00Z",
+      "end_time": "2022-07-28T15:00:00Z",
       "title": "Suite du slowrun aiguille%",
       "canceled_until": null,
       "category": {
@@ -95,18 +86,21 @@
     },
     {
       "id": "eyJzZWdtZW50SUQiOiJjZGZlMDhmOS01YTFhLTQ2MzctYjZjZS0wZDA4NTdmNzk2M2IiLCJpc29ZZWFyIjoyMDIyLCJpc29XZWVrIjozMX0=",
-      "start_time": "2022-08-02T09:00:00Z",
-      "end_time": "2022-08-02T15:00:00Z",
-      "title": "Journée multi avé les copains",
+      "start_time": "2022-08-02T13:00:00Z",
+      "end_time": "2022-08-02T17:00:00Z",
+      "title": "OMG FF14 OMG LE MEUPORG OMG LE GOLD SAUCER",
       "canceled_until": null,
-      "category": null,
+      "category": {
+        "id": "24241",
+        "name": "Final Fantasy XIV Online"
+      },
       "is_recurring": true
     },
     {
       "id": "eyJzZWdtZW50SUQiOiIzNjVlMzhlNC01MzJhLTRkZjktOGIxMC1jY2VmZjczM2JlZTMiLCJpc29ZZWFyIjoyMDIyLCJpc29XZWVrIjozMX0=",
       "start_time": "2022-08-02T18:00:00Z",
       "end_time": "2022-08-02T22:00:00Z",
-      "title": "Entraînement MK pour le twitch rivals avec la team ",
+      "title": "Entraînement MK avec la team ",
       "canceled_until": null,
       "category": {
         "id": "941530474",
@@ -129,7 +123,7 @@
     {
       "id": "eyJzZWdtZW50SUQiOiI5NDBmZmQxZS01ZTgzLTQ1YTYtYTA3OS02Y2FjNGZjNjI3YzUiLCJpc29ZZWFyIjoyMDIyLCJpc29XZWVrIjozMX0=",
       "start_time": "2022-08-04T09:00:00Z",
-      "end_time": "2022-08-04T14:00:00Z",
+      "end_time": "2022-08-04T15:00:00Z",
       "title": "Suite du slowrun aiguille%",
       "canceled_until": null,
       "category": {
@@ -164,18 +158,21 @@
     },
     {
       "id": "eyJzZWdtZW50SUQiOiJjZGZlMDhmOS01YTFhLTQ2MzctYjZjZS0wZDA4NTdmNzk2M2IiLCJpc29ZZWFyIjoyMDIyLCJpc29XZWVrIjozMn0=",
-      "start_time": "2022-08-09T09:00:00Z",
-      "end_time": "2022-08-09T15:00:00Z",
-      "title": "Journée multi avé les copains",
+      "start_time": "2022-08-09T13:00:00Z",
+      "end_time": "2022-08-09T17:00:00Z",
+      "title": "OMG FF14 OMG LE MEUPORG OMG LE GOLD SAUCER",
       "canceled_until": null,
-      "category": null,
+      "category": {
+        "id": "24241",
+        "name": "Final Fantasy XIV Online"
+      },
       "is_recurring": true
     },
     {
       "id": "eyJzZWdtZW50SUQiOiIzNjVlMzhlNC01MzJhLTRkZjktOGIxMC1jY2VmZjczM2JlZTMiLCJpc29ZZWFyIjoyMDIyLCJpc29XZWVrIjozMn0=",
       "start_time": "2022-08-09T18:00:00Z",
       "end_time": "2022-08-09T22:00:00Z",
-      "title": "Entraînement MK pour le twitch rivals avec la team ",
+      "title": "Entraînement MK avec la team ",
       "canceled_until": null,
       "category": {
         "id": "941530474",
@@ -198,7 +195,7 @@
     {
       "id": "eyJzZWdtZW50SUQiOiI5NDBmZmQxZS01ZTgzLTQ1YTYtYTA3OS02Y2FjNGZjNjI3YzUiLCJpc29ZZWFyIjoyMDIyLCJpc29XZWVrIjozMn0=",
       "start_time": "2022-08-11T09:00:00Z",
-      "end_time": "2022-08-11T14:00:00Z",
+      "end_time": "2022-08-11T15:00:00Z",
       "title": "Suite du slowrun aiguille%",
       "canceled_until": null,
       "category": {
@@ -233,11 +230,26 @@
     },
     {
       "id": "eyJzZWdtZW50SUQiOiJjZGZlMDhmOS01YTFhLTQ2MzctYjZjZS0wZDA4NTdmNzk2M2IiLCJpc29ZZWFyIjoyMDIyLCJpc29XZWVrIjozM30=",
-      "start_time": "2022-08-16T09:00:00Z",
-      "end_time": "2022-08-16T15:00:00Z",
-      "title": "Journée multi avé les copains",
+      "start_time": "2022-08-16T13:00:00Z",
+      "end_time": "2022-08-16T17:00:00Z",
+      "title": "OMG FF14 OMG LE MEUPORG OMG LE GOLD SAUCER",
       "canceled_until": null,
-      "category": null,
+      "category": {
+        "id": "24241",
+        "name": "Final Fantasy XIV Online"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiIzNjVlMzhlNC01MzJhLTRkZjktOGIxMC1jY2VmZjczM2JlZTMiLCJpc29ZZWFyIjoyMDIyLCJpc29XZWVrIjozM30=",
+      "start_time": "2022-08-16T18:00:00Z",
+      "end_time": "2022-08-16T22:00:00Z",
+      "title": "Entraînement MK avec la team ",
+      "canceled_until": null,
+      "category": {
+        "id": "941530474",
+        "name": "Mario Kart 8 Deluxe"
+      },
       "is_recurring": true
     }
   ]
