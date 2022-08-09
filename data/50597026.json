@@ -13,34 +13,10 @@
   },
   "schedulers": [
     {
-      "id": "eyJzZWdtZW50SUQiOiI3ZmEwOGYzYy00YTA3LTQ2ZjMtODBhOC0xNDBhMDMxMGE2YzUiLCJpc29ZZWFyIjoyMDIyLCJpc29XZWVrIjozMn0=",
-      "start_time": "2022-08-08T09:00:00Z",
-      "end_time": "2022-08-08T15:00:00Z",
-      "title": "Culture et plaisir",
-      "canceled_until": null,
-      "category": {
-        "id": "338715930",
-        "name": "Maitre des Fleurs"
-      },
-      "is_recurring": true
-    },
-    {
-      "id": "eyJzZWdtZW50SUQiOiJmOGNiZWVmMi1iNTU5LTQ1NWMtODMxOS05ZjdhMDdjZGE2ZGIiLCJpc29ZZWFyIjoyMDIyLCJpc29XZWVrIjozMn0=",
-      "start_time": "2022-08-08T18:30:00Z",
-      "end_time": "2022-08-08T22:30:00Z",
-      "title": "Entraînement MK avec la team (Etoiles, Jiraya, Ultia, Guill & JimmyBoy)",
-      "canceled_until": null,
-      "category": {
-        "id": "941530474",
-        "name": "Mario Kart 8 Deluxe"
-      },
-      "is_recurring": true
-    },
-    {
       "id": "eyJzZWdtZW50SUQiOiJjZGZlMDhmOS01YTFhLTQ2MzctYjZjZS0wZDA4NTdmNzk2M2IiLCJpc29ZZWFyIjoyMDIyLCJpc29XZWVrIjozMn0=",
       "start_time": "2022-08-09T14:00:00Z",
       "end_time": "2022-08-09T16:00:00Z",
-      "title": "Échauffement avant le Twitch Rivals ",
+      "title": "Mario Kart and chill",
       "canceled_until": null,
       "category": {
         "id": "941530474",
@@ -50,21 +26,21 @@
     },
     {
       "id": "eyJzZWdtZW50SUQiOiIzNjVlMzhlNC01MzJhLTRkZjktOGIxMC1jY2VmZjczM2JlZTMiLCJpc29ZZWFyIjoyMDIyLCJpc29XZWVrIjozMn0=",
-      "start_time": "2022-08-09T16:00:00Z",
+      "start_time": "2022-08-09T18:00:00Z",
       "end_time": "2022-08-09T22:00:00Z",
-      "title": "Twitch Rivals MK en team France (avec Etoiles, Jiraya, Ultia, Guill, JimmyBoy)",
+      "title": "Among us (avec Onutrem JDay Sundae Étoiles DFG et d’autres…)",
       "canceled_until": null,
       "category": {
-        "id": "941530474",
-        "name": "Mario Kart 8 Deluxe"
+        "id": "510218",
+        "name": "Among Us"
       },
       "is_recurring": true
     },
     {
       "id": "eyJzZWdtZW50SUQiOiIzNDNlYzA0Mi1hOGQwLTQ2MjYtYjVkOS1mMGU0MzI4MGU4MmYiLCJpc29ZZWFyIjoyMDIyLCJpc29XZWVrIjozMn0=",
       "start_time": "2022-08-10T09:00:00Z",
-      "end_time": "2022-08-10T17:00:00Z",
-      "title": "OMG, après tout ce temps, le let’s play Pokemon Colosseum est enfin là",
+      "end_time": "2022-08-10T16:00:00Z",
+      "title": "Suite de Pokémon Colosseum",
       "canceled_until": null,
       "category": {
         "id": "11879",
@@ -73,50 +49,14 @@
       "is_recurring": true
     },
     {
-      "id": "eyJzZWdtZW50SUQiOiI5NDBmZmQxZS01ZTgzLTQ1YTYtYTA3OS02Y2FjNGZjNjI3YzUiLCJpc29ZZWFyIjoyMDIyLCJpc29XZWVrIjozMn0=",
+      "id": "eyJzZWdtZW50SUQiOiJkNmYxNzI4NC1lNGIzLTRkYmYtOWI1NC1hYzVlMzk1NzdhMzEiLCJpc29ZZWFyIjoyMDIyLCJpc29XZWVrIjozMn0=",
       "start_time": "2022-08-11T09:00:00Z",
       "end_time": "2022-08-11T16:00:00Z",
-      "title": "Suite du slowrun aiguille% (On espère)",
+      "title": "Elden Ring",
       "canceled_until": null,
       "category": {
         "id": "512953",
         "name": "Elden Ring"
-      },
-      "is_recurring": true
-    },
-    {
-      "id": "eyJzZWdtZW50SUQiOiJiM2M4MjAyNi05NWVkLTRmYjYtYmEwMS1hNGRkNWMwN2Q5YWQiLCJpc29ZZWFyIjoyMDIyLCJpc29XZWVrIjozMn0=",
-      "start_time": "2022-08-11T19:00:00Z",
-      "end_time": "2022-08-11T22:00:00Z",
-      "title": "On va faire un petit tour à Madrigal avec Kenny (#AD)",
-      "canceled_until": null,
-      "category": {
-        "id": "20152",
-        "name": "Flyff"
-      },
-      "is_recurring": true
-    },
-    {
-      "id": "eyJzZWdtZW50SUQiOiIzYjg5ZGZmNS0wMzJlLTQzMGUtOTgxYy0xNzI4YWEzMWQ1NTkiLCJpc29ZZWFyIjoyMDIyLCJpc29XZWVrIjozMn0=",
-      "start_time": "2022-08-12T15:00:00Z",
-      "end_time": "2022-08-12T18:00:00Z",
-      "title": "L’addiction au Gold Saucer et au MEUPORG",
-      "canceled_until": null,
-      "category": {
-        "id": "24241",
-        "name": "Final Fantasy XIV Online"
-      },
-      "is_recurring": true
-    },
-    {
-      "id": "eyJzZWdtZW50SUQiOiIzMWViOTQ5OC00OGYwLTQ2NDMtYjllNi0yNDY5NTM3MDdjY2IiLCJpc29ZZWFyIjoyMDIyLCJpc29XZWVrIjozMn0=",
-      "start_time": "2022-08-12T18:00:00Z",
-      "end_time": "2022-08-12T22:00:00Z",
-      "title": "Ponce la Switch (avec Ultia & MisterJDay)",
-      "canceled_until": null,
-      "category": {
-        "id": "941530474",
-        "name": "Mario Kart 8 Deluxe"
       },
       "is_recurring": true
     },
@@ -145,22 +85,10 @@
       "is_recurring": true
     },
     {
-      "id": "eyJzZWdtZW50SUQiOiJmOGNiZWVmMi1iNTU5LTQ1NWMtODMxOS05ZjdhMDdjZGE2ZGIiLCJpc29ZZWFyIjoyMDIyLCJpc29XZWVrIjozM30=",
-      "start_time": "2022-08-15T18:30:00Z",
-      "end_time": "2022-08-15T22:30:00Z",
-      "title": "Entraînement MK avec la team (Etoiles, Jiraya, Ultia, Guill & JimmyBoy)",
-      "canceled_until": null,
-      "category": {
-        "id": "941530474",
-        "name": "Mario Kart 8 Deluxe"
-      },
-      "is_recurring": true
-    },
-    {
       "id": "eyJzZWdtZW50SUQiOiJjZGZlMDhmOS01YTFhLTQ2MzctYjZjZS0wZDA4NTdmNzk2M2IiLCJpc29ZZWFyIjoyMDIyLCJpc29XZWVrIjozM30=",
       "start_time": "2022-08-16T14:00:00Z",
       "end_time": "2022-08-16T16:00:00Z",
-      "title": "Échauffement avant le Twitch Rivals ",
+      "title": "Mario Kart and chill",
       "canceled_until": null,
       "category": {
         "id": "941530474",
@@ -170,21 +98,21 @@
     },
     {
       "id": "eyJzZWdtZW50SUQiOiIzNjVlMzhlNC01MzJhLTRkZjktOGIxMC1jY2VmZjczM2JlZTMiLCJpc29ZZWFyIjoyMDIyLCJpc29XZWVrIjozM30=",
-      "start_time": "2022-08-16T16:00:00Z",
+      "start_time": "2022-08-16T18:00:00Z",
       "end_time": "2022-08-16T22:00:00Z",
-      "title": "Twitch Rivals MK en team France (avec Etoiles, Jiraya, Ultia, Guill, JimmyBoy)",
+      "title": "Among us (avec Onutrem JDay Sundae Étoiles DFG et d’autres…)",
       "canceled_until": null,
       "category": {
-        "id": "941530474",
-        "name": "Mario Kart 8 Deluxe"
+        "id": "510218",
+        "name": "Among Us"
       },
       "is_recurring": true
     },
     {
       "id": "eyJzZWdtZW50SUQiOiIzNDNlYzA0Mi1hOGQwLTQ2MjYtYjVkOS1mMGU0MzI4MGU4MmYiLCJpc29ZZWFyIjoyMDIyLCJpc29XZWVrIjozM30=",
       "start_time": "2022-08-17T09:00:00Z",
-      "end_time": "2022-08-17T17:00:00Z",
-      "title": "OMG, après tout ce temps, le let’s play Pokemon Colosseum est enfin là",
+      "end_time": "2022-08-17T16:00:00Z",
+      "title": "Suite de Pokémon Colosseum",
       "canceled_until": null,
       "category": {
         "id": "11879",
@@ -193,50 +121,14 @@
       "is_recurring": true
     },
     {
-      "id": "eyJzZWdtZW50SUQiOiI5NDBmZmQxZS01ZTgzLTQ1YTYtYTA3OS02Y2FjNGZjNjI3YzUiLCJpc29ZZWFyIjoyMDIyLCJpc29XZWVrIjozM30=",
+      "id": "eyJzZWdtZW50SUQiOiJkNmYxNzI4NC1lNGIzLTRkYmYtOWI1NC1hYzVlMzk1NzdhMzEiLCJpc29ZZWFyIjoyMDIyLCJpc29XZWVrIjozM30=",
       "start_time": "2022-08-18T09:00:00Z",
       "end_time": "2022-08-18T16:00:00Z",
-      "title": "Suite du slowrun aiguille% (On espère)",
+      "title": "Elden Ring",
       "canceled_until": null,
       "category": {
         "id": "512953",
         "name": "Elden Ring"
-      },
-      "is_recurring": true
-    },
-    {
-      "id": "eyJzZWdtZW50SUQiOiJiM2M4MjAyNi05NWVkLTRmYjYtYmEwMS1hNGRkNWMwN2Q5YWQiLCJpc29ZZWFyIjoyMDIyLCJpc29XZWVrIjozM30=",
-      "start_time": "2022-08-18T19:00:00Z",
-      "end_time": "2022-08-18T22:00:00Z",
-      "title": "On va faire un petit tour à Madrigal avec Kenny (#AD)",
-      "canceled_until": null,
-      "category": {
-        "id": "20152",
-        "name": "Flyff"
-      },
-      "is_recurring": true
-    },
-    {
-      "id": "eyJzZWdtZW50SUQiOiIzYjg5ZGZmNS0wMzJlLTQzMGUtOTgxYy0xNzI4YWEzMWQ1NTkiLCJpc29ZZWFyIjoyMDIyLCJpc29XZWVrIjozM30=",
-      "start_time": "2022-08-19T15:00:00Z",
-      "end_time": "2022-08-19T18:00:00Z",
-      "title": "L’addiction au Gold Saucer et au MEUPORG",
-      "canceled_until": null,
-      "category": {
-        "id": "24241",
-        "name": "Final Fantasy XIV Online"
-      },
-      "is_recurring": true
-    },
-    {
-      "id": "eyJzZWdtZW50SUQiOiIzMWViOTQ5OC00OGYwLTQ2NDMtYjllNi0yNDY5NTM3MDdjY2IiLCJpc29ZZWFyIjoyMDIyLCJpc29XZWVrIjozM30=",
-      "start_time": "2022-08-19T18:00:00Z",
-      "end_time": "2022-08-19T22:00:00Z",
-      "title": "Ponce la Switch (avec Ultia & MisterJDay)",
-      "canceled_until": null,
-      "category": {
-        "id": "941530474",
-        "name": "Mario Kart 8 Deluxe"
       },
       "is_recurring": true
     },
@@ -249,6 +141,114 @@
       "category": {
         "id": "941530474",
         "name": "Mario Kart 8 Deluxe"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiI3ZmEwOGYzYy00YTA3LTQ2ZjMtODBhOC0xNDBhMDMxMGE2YzUiLCJpc29ZZWFyIjoyMDIyLCJpc29XZWVrIjozNH0=",
+      "start_time": "2022-08-22T09:00:00Z",
+      "end_time": "2022-08-22T15:00:00Z",
+      "title": "Culture et plaisir",
+      "canceled_until": null,
+      "category": {
+        "id": "338715930",
+        "name": "Maitre des Fleurs"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiJjZGZlMDhmOS01YTFhLTQ2MzctYjZjZS0wZDA4NTdmNzk2M2IiLCJpc29ZZWFyIjoyMDIyLCJpc29XZWVrIjozNH0=",
+      "start_time": "2022-08-23T14:00:00Z",
+      "end_time": "2022-08-23T16:00:00Z",
+      "title": "Mario Kart and chill",
+      "canceled_until": null,
+      "category": {
+        "id": "941530474",
+        "name": "Mario Kart 8 Deluxe"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiIzNjVlMzhlNC01MzJhLTRkZjktOGIxMC1jY2VmZjczM2JlZTMiLCJpc29ZZWFyIjoyMDIyLCJpc29XZWVrIjozNH0=",
+      "start_time": "2022-08-23T18:00:00Z",
+      "end_time": "2022-08-23T22:00:00Z",
+      "title": "Among us (avec Onutrem JDay Sundae Étoiles DFG et d’autres…)",
+      "canceled_until": null,
+      "category": {
+        "id": "510218",
+        "name": "Among Us"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiIzNDNlYzA0Mi1hOGQwLTQ2MjYtYjVkOS1mMGU0MzI4MGU4MmYiLCJpc29ZZWFyIjoyMDIyLCJpc29XZWVrIjozNH0=",
+      "start_time": "2022-08-24T09:00:00Z",
+      "end_time": "2022-08-24T16:00:00Z",
+      "title": "Suite de Pokémon Colosseum",
+      "canceled_until": null,
+      "category": {
+        "id": "11879",
+        "name": "Pokémon Colosseum"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiJkNmYxNzI4NC1lNGIzLTRkYmYtOWI1NC1hYzVlMzk1NzdhMzEiLCJpc29ZZWFyIjoyMDIyLCJpc29XZWVrIjozNH0=",
+      "start_time": "2022-08-25T09:00:00Z",
+      "end_time": "2022-08-25T16:00:00Z",
+      "title": "Elden Ring",
+      "canceled_until": null,
+      "category": {
+        "id": "512953",
+        "name": "Elden Ring"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiI5Y2NiODdlNy1mMDg5LTRiNDktODhhYi0zODUzNjA5NTc4NDAiLCJpc29ZZWFyIjoyMDIyLCJpc29XZWVrIjozNH0=",
+      "start_time": "2022-08-28T11:00:00Z",
+      "end_time": "2022-08-28T15:00:00Z",
+      "title": "Le tournoi MK du dimanche",
+      "canceled_until": null,
+      "category": {
+        "id": "941530474",
+        "name": "Mario Kart 8 Deluxe"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiI3ZmEwOGYzYy00YTA3LTQ2ZjMtODBhOC0xNDBhMDMxMGE2YzUiLCJpc29ZZWFyIjoyMDIyLCJpc29XZWVrIjozNX0=",
+      "start_time": "2022-08-29T09:00:00Z",
+      "end_time": "2022-08-29T15:00:00Z",
+      "title": "Culture et plaisir",
+      "canceled_until": null,
+      "category": {
+        "id": "338715930",
+        "name": "Maitre des Fleurs"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiJjZGZlMDhmOS01YTFhLTQ2MzctYjZjZS0wZDA4NTdmNzk2M2IiLCJpc29ZZWFyIjoyMDIyLCJpc29XZWVrIjozNX0=",
+      "start_time": "2022-08-30T14:00:00Z",
+      "end_time": "2022-08-30T16:00:00Z",
+      "title": "Mario Kart and chill",
+      "canceled_until": null,
+      "category": {
+        "id": "941530474",
+        "name": "Mario Kart 8 Deluxe"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiIzNjVlMzhlNC01MzJhLTRkZjktOGIxMC1jY2VmZjczM2JlZTMiLCJpc29ZZWFyIjoyMDIyLCJpc29XZWVrIjozNX0=",
+      "start_time": "2022-08-30T18:00:00Z",
+      "end_time": "2022-08-30T22:00:00Z",
+      "title": "Among us (avec Onutrem JDay Sundae Étoiles DFG et d’autres…)",
+      "canceled_until": null,
+      "category": {
+        "id": "510218",
+        "name": "Among Us"
       },
       "is_recurring": true
     }
