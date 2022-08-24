@@ -13,21 +13,9 @@
   },
   "schedulers": [
     {
-      "id": "eyJzZWdtZW50SUQiOiI5ZjFkZDU2Ni0wOTBkLTQ5MDctOTQ5Ni03ODIzMzk1NmNjMWYiLCJpc29ZZWFyIjoyMDIyLCJpc29XZWVrIjozNH0=",
-      "start_time": "2022-08-23T20:00:00Z",
-      "end_time": "2022-08-23T21:30:00Z",
-      "title": "NASA “Artemis Student Challenge” Teams Recap Their Competition Runs On NASA’s Simulated Moon, Mars and Microgravity Test Fields",
-      "canceled_until": null,
-      "category": {
-        "id": "509670",
-        "name": "Science & Technology"
-      },
-      "is_recurring": false
-    },
-    {
       "id": "eyJzZWdtZW50SUQiOiJiMmRmZmVlMy1hYjI5LTRmNDctYjEzOS1kNDkwZmYzNWYwZTciLCJpc29ZZWFyIjoyMDIyLCJpc29XZWVrIjozNX0=",
-      "start_time": "2022-08-29T09:30:00Z",
-      "end_time": "2022-08-29T13:30:00Z",
+      "start_time": "2022-08-29T10:30:00Z",
+      "end_time": "2022-08-29T14:30:00Z",
       "title": "Launch of Artemis I Mission to the Moon (Official NASA Broadcast)",
       "canceled_until": null,
       "category": {
