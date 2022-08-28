@@ -13,18 +13,6 @@
   },
   "schedulers": [
     {
-      "id": "eyJzZWdtZW50SUQiOiI4OWM0Yzg5YS1iNWQwLTQ3YWMtYTFkMi1kM2U3NDFkZWQ4M2QiLCJpc29ZZWFyIjoyMDIyLCJpc29XZWVrIjozNH0=",
-      "start_time": "2022-08-27T12:00:00Z",
-      "end_time": "2022-08-27T16:00:00Z",
-      "title": "Splatfest ",
-      "canceled_until": null,
-      "category": {
-        "id": "1158884259",
-        "name": "Splatoon 3"
-      },
-      "is_recurring": true
-    },
-    {
       "id": "eyJzZWdtZW50SUQiOiI5Y2NiODdlNy1mMDg5LTRiNDktODhhYi0zODUzNjA5NTc4NDAiLCJpc29ZZWFyIjoyMDIyLCJpc29XZWVrIjozNH0=",
       "start_time": "2022-08-28T11:00:00Z",
       "end_time": "2022-08-28T15:00:00Z",
@@ -249,6 +237,18 @@
       "category": {
         "id": "941530474",
         "name": "Mario Kart 8 Deluxe"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiI3ZmEwOGYzYy00YTA3LTQ2ZjMtODBhOC0xNDBhMDMxMGE2YzUiLCJpc29ZZWFyIjoyMDIyLCJpc29XZWVrIjozOH0=",
+      "start_time": "2022-09-20T11:00:00Z",
+      "end_time": "2022-09-20T18:00:00Z",
+      "title": "Culture et plaisir",
+      "canceled_until": null,
+      "category": {
+        "id": "338715930",
+        "name": "Maitre des Fleurs"
       },
       "is_recurring": true
     }
