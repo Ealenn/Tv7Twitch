@@ -13,18 +13,6 @@
   },
   "schedulers": [
     {
-      "id": "eyJzZWdtZW50SUQiOiI4OWM0Yzg5YS1iNWQwLTQ3YWMtYTFkMi1kM2U3NDFkZWQ4M2QiLCJpc29ZZWFyIjoyMDIyLCJpc29XZWVrIjozNX0=",
-      "start_time": "2022-09-03T13:00:00Z",
-      "end_time": "2022-09-03T15:00:00Z",
-      "title": "Live pétanque avec Etoiles, Rivenzi, Mister MV, Charlie Danger et Feldup",
-      "canceled_until": null,
-      "category": {
-        "id": "509663",
-        "name": "Special Events"
-      },
-      "is_recurring": true
-    },
-    {
       "id": "eyJzZWdtZW50SUQiOiI2MGRkNjY1ZC0wMjNiLTQzM2UtYjU0NS0wOGM1ZjQ1NWJkZjIiLCJpc29ZZWFyIjoyMDIyLCJpc29XZWVrIjozNX0=",
       "start_time": "2022-09-04T11:30:00Z",
       "end_time": "2022-09-04T13:30:00Z",
@@ -249,6 +237,18 @@
       "category": {
         "id": "512953",
         "name": "Elden Ring"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiI0YWRhNTQwNC1mNjNhLTQ0ZmYtYjA4Zi03YjgxZjIwY2Y1OWQiLCJpc29ZZWFyIjoyMDIyLCJpc29XZWVrIjozOH0=",
+      "start_time": "2022-09-22T18:00:00Z",
+      "end_time": "2022-09-22T22:00:00Z",
+      "title": "L’addiction au Gold Saucer et au MEUPORG",
+      "canceled_until": null,
+      "category": {
+        "id": "24241",
+        "name": "Final Fantasy XIV Online"
       },
       "is_recurring": true
     }
