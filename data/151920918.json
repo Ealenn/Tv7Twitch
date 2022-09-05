@@ -13,10 +13,10 @@
   },
   "schedulers": [
     {
-      "id": "eyJzZWdtZW50SUQiOiI4ZDE2ODlmMi0yNGMxLTRjODctYjE0MS1kY2ZlOGVjMDE2YzUiLCJpc29ZZWFyIjoyMDIyLCJpc29XZWVrIjozNn0=",
-      "start_time": "2022-09-05T21:00:00Z",
-      "end_time": "2022-09-06T00:00:00Z",
-      "title": "Artemis I Launch to the Moon (Official NASA Broadcast)",
+      "id": "eyJzZWdtZW50SUQiOiI4ZDE2ODlmMi0yNGMxLTRjODctYjE0MS1kY2ZlOGVjMDE2YzUiLCJpc29ZZWFyIjoyMDIyLCJpc29XZWVrIjozOH0=",
+      "start_time": "2022-09-19T04:00:00Z",
+      "end_time": "2022-09-19T07:00:00Z",
+      "title": "Artemis I Launch to the Moon (Official NASA Broadcast) - Date & Time TBD",
       "canceled_until": null,
       "category": {
         "id": "509670",
