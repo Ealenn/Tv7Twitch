@@ -13,18 +13,6 @@
   },
   "schedulers": [
     {
-      "id": "eyJzZWdtZW50SUQiOiI3ZmEwOGYzYy00YTA3LTQ2ZjMtODBhOC0xNDBhMDMxMGE2YzUiLCJpc29ZZWFyIjoyMDIyLCJpc29XZWVrIjozNn0=",
-      "start_time": "2022-09-05T15:00:00Z",
-      "end_time": "2022-09-05T22:00:00Z",
-      "title": "Culture et plaisir",
-      "canceled_until": null,
-      "category": {
-        "id": "338715930",
-        "name": "Maitre des Fleurs"
-      },
-      "is_recurring": true
-    },
-    {
       "id": "eyJzZWdtZW50SUQiOiIzNDNlYzA0Mi1hOGQwLTQ2MjYtYjVkOS1mMGU0MzI4MGU4MmYiLCJpc29ZZWFyIjoyMDIyLCJpc29XZWVrIjozNn0=",
       "start_time": "2022-09-06T09:00:00Z",
       "end_time": "2022-09-06T15:00:00Z",
@@ -98,7 +86,7 @@
     },
     {
       "id": "eyJzZWdtZW50SUQiOiI3ZmEwOGYzYy00YTA3LTQ2ZjMtODBhOC0xNDBhMDMxMGE2YzUiLCJpc29ZZWFyIjoyMDIyLCJpc29XZWVrIjozN30=",
-      "start_time": "2022-09-12T15:00:00Z",
+      "start_time": "2022-09-12T16:00:00Z",
       "end_time": "2022-09-12T22:00:00Z",
       "title": "Culture et plaisir",
       "canceled_until": null,
@@ -182,7 +170,7 @@
     },
     {
       "id": "eyJzZWdtZW50SUQiOiI3ZmEwOGYzYy00YTA3LTQ2ZjMtODBhOC0xNDBhMDMxMGE2YzUiLCJpc29ZZWFyIjoyMDIyLCJpc29XZWVrIjozOH0=",
-      "start_time": "2022-09-19T15:00:00Z",
+      "start_time": "2022-09-19T16:00:00Z",
       "end_time": "2022-09-19T22:00:00Z",
       "title": "Culture et plaisir",
       "canceled_until": null,
@@ -245,6 +233,18 @@
       "start_time": "2022-09-24T09:00:00Z",
       "end_time": "2022-09-24T22:00:00Z",
       "title": "Zevent (17h MDF spécial Écologie)",
+      "canceled_until": null,
+      "category": {
+        "id": "509663",
+        "name": "Special Events"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiIxNjg1MmIxMy0wZjI4LTQ4NzItYTZmYi0wZTAyMDA4YjNkZWUiLCJpc29ZZWFyIjoyMDIyLCJpc29XZWVrIjozOH0=",
+      "start_time": "2022-09-25T09:00:00Z",
+      "end_time": "2022-09-25T22:00:00Z",
+      "title": "Zevent",
       "canceled_until": null,
       "category": {
         "id": "509663",
