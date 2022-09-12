@@ -13,18 +13,6 @@
   },
   "schedulers": [
     {
-      "id": "eyJzZWdtZW50SUQiOiI2ZWY1Mjk4NC1hNTg4LTQxYjAtYmVlOC00NTE2YmZhYjM4OWUiLCJpc29ZZWFyIjoyMDIyLCJpc29XZWVrIjozNn0=",
-      "start_time": "2022-09-11T09:00:00Z",
-      "end_time": "2022-09-11T23:00:00Z",
-      "title": "ZEVENT - JOUR \"",
-      "canceled_until": null,
-      "category": {
-        "id": "509663",
-        "name": "Special Events"
-      },
-      "is_recurring": false
-    },
-    {
       "id": "eyJzZWdtZW50SUQiOiI3MzUyMjc5MC00NDVjLTQ2ODItOTg0My1jODJkZWRmNjBlNDciLCJpc29ZZWFyIjoyMDIyLCJpc29XZWVrIjozN30=",
       "start_time": "2022-09-12T17:30:00Z",
       "end_time": "2022-09-12T18:30:00Z",
@@ -249,6 +237,18 @@
       "category": {
         "id": "509658",
         "name": "Just Chatting"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiI5NGIyNmE1YS04ODAyLTQzNDktOGJkYi1kY2Q2MGNlYThiZDkiLCJpc29ZZWFyIjoyMDIyLCJpc29XZWVrIjo0Nn0=",
+      "start_time": "2022-11-15T19:00:00Z",
+      "end_time": "2022-11-15T21:30:00Z",
+      "title": "POPCORN AVEC BAGHERA, ETOILES ET PONCE (F. DESCRAQUES INVITÉ)",
+      "canceled_until": null,
+      "category": {
+        "id": "417752",
+        "name": "Talk Shows & Podcasts"
       },
       "is_recurring": true
     }
