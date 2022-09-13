@@ -13,38 +13,26 @@
   },
   "schedulers": [
     {
-      "id": "eyJzZWdtZW50SUQiOiI3ZmEwOGYzYy00YTA3LTQ2ZjMtODBhOC0xNDBhMDMxMGE2YzUiLCJpc29ZZWFyIjoyMDIyLCJpc29XZWVrIjozN30=",
-      "start_time": "2022-09-12T16:00:00Z",
-      "end_time": "2022-09-12T22:00:00Z",
-      "title": "Culture et plaisir",
-      "canceled_until": null,
-      "category": {
-        "id": "338715930",
-        "name": "Maitre des Fleurs"
-      },
-      "is_recurring": true
-    },
-    {
       "id": "eyJzZWdtZW50SUQiOiIzNDNlYzA0Mi1hOGQwLTQ2MjYtYjVkOS1mMGU0MzI4MGU4MmYiLCJpc29ZZWFyIjoyMDIyLCJpc29XZWVrIjozN30=",
       "start_time": "2022-09-13T09:00:00Z",
-      "end_time": "2022-09-13T15:00:00Z",
-      "title": "Suite de Pokémon Colosseum",
+      "end_time": "2022-09-13T13:00:00Z",
+      "title": "Débrief Zevent",
       "canceled_until": null,
       "category": {
-        "id": "11879",
-        "name": "Pokémon Colosseum"
+        "id": "509658",
+        "name": "Just Chatting"
       },
       "is_recurring": true
     },
     {
       "id": "eyJzZWdtZW50SUQiOiI2MGRkNjY1ZC0wMjNiLTQzM2UtYjU0NS0wOGM1ZjQ1NWJkZjIiLCJpc29ZZWFyIjoyMDIyLCJpc29XZWVrIjozN30=",
-      "start_time": "2022-09-13T18:00:00Z",
-      "end_time": "2022-09-13T20:30:00Z",
-      "title": "Le retour de Popcorn sur la chaîne de Domingo",
+      "start_time": "2022-09-13T13:00:00Z",
+      "end_time": "2022-09-13T16:00:00Z",
+      "title": "SPLATOOOOOOOOOOOOOOON [On regarde le Nintendo direct ensemble à 16h]",
       "canceled_until": null,
       "category": {
-        "id": "417752",
-        "name": "Talk Shows & Podcasts"
+        "id": "1158884259",
+        "name": "Splatoon 3"
       },
       "is_recurring": true
     },
@@ -52,67 +40,7 @@
       "id": "eyJzZWdtZW50SUQiOiJiNzUxMTUyOC00NzI0LTQwMzktYTk3Zi04M2I1NzA5ODJiOGYiLCJpc29ZZWFyIjoyMDIyLCJpc29XZWVrIjozN30=",
       "start_time": "2022-09-14T09:00:00Z",
       "end_time": "2022-09-14T16:00:00Z",
-      "title": "Le début de l'aventure Temtem ",
-      "canceled_until": null,
-      "category": {
-        "id": "510336",
-        "name": "Temtem"
-      },
-      "is_recurring": true
-    },
-    {
-      "id": "eyJzZWdtZW50SUQiOiI4YmUwNDQ4OS0yMmFjLTQwZTEtYmE4NC1lZTgxYmIxNzg0YWMiLCJpc29ZZWFyIjoyMDIyLCJpc29XZWVrIjozN30=",
-      "start_time": "2022-09-16T16:00:00Z",
-      "end_time": "2022-09-16T22:00:00Z",
-      "title": "Zevent",
-      "canceled_until": null,
-      "category": {
-        "id": "509663",
-        "name": "Special Events"
-      },
-      "is_recurring": true
-    },
-    {
-      "id": "eyJzZWdtZW50SUQiOiI4OWM0Yzg5YS1iNWQwLTQ3YWMtYTFkMi1kM2U3NDFkZWQ4M2QiLCJpc29ZZWFyIjoyMDIyLCJpc29XZWVrIjozN30=",
-      "start_time": "2022-09-17T09:00:00Z",
-      "end_time": "2022-09-17T22:00:00Z",
-      "title": "Zevent (17h MDF spécial Écologie)",
-      "canceled_until": null,
-      "category": {
-        "id": "509663",
-        "name": "Special Events"
-      },
-      "is_recurring": true
-    },
-    {
-      "id": "eyJzZWdtZW50SUQiOiIxNjg1MmIxMy0wZjI4LTQ4NzItYTZmYi0wZTAyMDA4YjNkZWUiLCJpc29ZZWFyIjoyMDIyLCJpc29XZWVrIjozN30=",
-      "start_time": "2022-09-18T09:00:00Z",
-      "end_time": "2022-09-18T22:00:00Z",
-      "title": "Zevent",
-      "canceled_until": null,
-      "category": {
-        "id": "509663",
-        "name": "Special Events"
-      },
-      "is_recurring": true
-    },
-    {
-      "id": "eyJzZWdtZW50SUQiOiI3ZmEwOGYzYy00YTA3LTQ2ZjMtODBhOC0xNDBhMDMxMGE2YzUiLCJpc29ZZWFyIjoyMDIyLCJpc29XZWVrIjozOH0=",
-      "start_time": "2022-09-19T16:00:00Z",
-      "end_time": "2022-09-19T22:00:00Z",
-      "title": "Culture et plaisir",
-      "canceled_until": null,
-      "category": {
-        "id": "338715930",
-        "name": "Maitre des Fleurs"
-      },
-      "is_recurring": true
-    },
-    {
-      "id": "eyJzZWdtZW50SUQiOiIzNDNlYzA0Mi1hOGQwLTQ2MjYtYjVkOS1mMGU0MzI4MGU4MmYiLCJpc29ZZWFyIjoyMDIyLCJpc29XZWVrIjozOH0=",
-      "start_time": "2022-09-20T09:00:00Z",
-      "end_time": "2022-09-20T15:00:00Z",
-      "title": "Suite de Pokémon Colosseum",
+      "title": "Suite de l'aventure Colosseum",
       "canceled_until": null,
       "category": {
         "id": "11879",
@@ -121,14 +49,86 @@
       "is_recurring": true
     },
     {
-      "id": "eyJzZWdtZW50SUQiOiI2MGRkNjY1ZC0wMjNiLTQzM2UtYjU0NS0wOGM1ZjQ1NWJkZjIiLCJpc29ZZWFyIjoyMDIyLCJpc29XZWVrIjozOH0=",
-      "start_time": "2022-09-20T18:00:00Z",
-      "end_time": "2022-09-20T20:30:00Z",
-      "title": "Le retour de Popcorn sur la chaîne de Domingo",
+      "id": "eyJzZWdtZW50SUQiOiI4OWM0Yzg5YS1iNWQwLTQ3YWMtYTFkMi1kM2U3NDFkZWQ4M2QiLCJpc29ZZWFyIjoyMDIyLCJpc29XZWVrIjozN30=",
+      "start_time": "2022-09-15T09:00:00Z",
+      "end_time": "2022-09-15T13:00:00Z",
+      "title": "Suite du slowrun aiguille any%",
       "canceled_until": null,
       "category": {
-        "id": "417752",
-        "name": "Talk Shows & Podcasts"
+        "id": "512953",
+        "name": "Elden Ring"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiJjYjUzZjE5Mi1kNjVjLTQ3ZmMtOWZlMi05ZTc4MjljYjQzYzkiLCJpc29ZZWFyIjoyMDIyLCJpc29XZWVrIjozN30=",
+      "start_time": "2022-09-15T15:00:00Z",
+      "end_time": "2022-09-15T18:00:00Z",
+      "title": "Atelier Néons (sur la chaîne d'Ultia)",
+      "canceled_until": null,
+      "category": {
+        "id": "509660",
+        "name": "Art"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiI4YmUwNDQ4OS0yMmFjLTQwZTEtYmE4NC1lZTgxYmIxNzg0YWMiLCJpc29ZZWFyIjoyMDIyLCJpc29XZWVrIjozN30=",
+      "start_time": "2022-09-16T09:00:00Z",
+      "end_time": "2022-09-16T16:00:00Z",
+      "title": "SPLATOOOOOOOOOOOOOOON",
+      "canceled_until": null,
+      "category": {
+        "id": "1158884259",
+        "name": "Splatoon 3"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiIxNjg1MmIxMy0wZjI4LTQ4NzItYTZmYi0wZTAyMDA4YjNkZWUiLCJpc29ZZWFyIjoyMDIyLCJpc29XZWVrIjozN30=",
+      "start_time": "2022-09-18T11:00:00Z",
+      "end_time": "2022-09-18T15:00:00Z",
+      "title": "Le Tournoi MK du dimanche",
+      "canceled_until": null,
+      "category": {
+        "id": "941530474",
+        "name": "Mario Kart 8 Deluxe"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiI5OTYxN2ExNC0xZjliLTRlNTktOGMwNS02Y2MwYmE1YWRhODIiLCJpc29ZZWFyIjoyMDIyLCJpc29XZWVrIjozN30=",
+      "start_time": "2022-09-18T15:00:00Z",
+      "end_time": "2022-09-18T17:00:00Z",
+      "title": "SPLATOOOOOOOOOOOOOOON",
+      "canceled_until": null,
+      "category": {
+        "id": "1158884259",
+        "name": "Splatoon 3"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiIzNDNlYzA0Mi1hOGQwLTQ2MjYtYjVkOS1mMGU0MzI4MGU4MmYiLCJpc29ZZWFyIjoyMDIyLCJpc29XZWVrIjozOH0=",
+      "start_time": "2022-09-20T09:00:00Z",
+      "end_time": "2022-09-20T13:00:00Z",
+      "title": "Débrief Zevent",
+      "canceled_until": null,
+      "category": {
+        "id": "509658",
+        "name": "Just Chatting"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiI2MGRkNjY1ZC0wMjNiLTQzM2UtYjU0NS0wOGM1ZjQ1NWJkZjIiLCJpc29ZZWFyIjoyMDIyLCJpc29XZWVrIjozOH0=",
+      "start_time": "2022-09-20T13:00:00Z",
+      "end_time": "2022-09-20T16:00:00Z",
+      "title": "SPLATOOOOOOOOOOOOOOON [On regarde le Nintendo direct ensemble à 16h]",
+      "canceled_until": null,
+      "category": {
+        "id": "1158884259",
+        "name": "Splatoon 3"
       },
       "is_recurring": true
     },
@@ -136,67 +136,7 @@
       "id": "eyJzZWdtZW50SUQiOiJiNzUxMTUyOC00NzI0LTQwMzktYTk3Zi04M2I1NzA5ODJiOGYiLCJpc29ZZWFyIjoyMDIyLCJpc29XZWVrIjozOH0=",
       "start_time": "2022-09-21T09:00:00Z",
       "end_time": "2022-09-21T16:00:00Z",
-      "title": "Le début de l'aventure Temtem ",
-      "canceled_until": null,
-      "category": {
-        "id": "510336",
-        "name": "Temtem"
-      },
-      "is_recurring": true
-    },
-    {
-      "id": "eyJzZWdtZW50SUQiOiI4YmUwNDQ4OS0yMmFjLTQwZTEtYmE4NC1lZTgxYmIxNzg0YWMiLCJpc29ZZWFyIjoyMDIyLCJpc29XZWVrIjozOH0=",
-      "start_time": "2022-09-23T16:00:00Z",
-      "end_time": "2022-09-23T22:00:00Z",
-      "title": "Zevent",
-      "canceled_until": null,
-      "category": {
-        "id": "509663",
-        "name": "Special Events"
-      },
-      "is_recurring": true
-    },
-    {
-      "id": "eyJzZWdtZW50SUQiOiI4OWM0Yzg5YS1iNWQwLTQ3YWMtYTFkMi1kM2U3NDFkZWQ4M2QiLCJpc29ZZWFyIjoyMDIyLCJpc29XZWVrIjozOH0=",
-      "start_time": "2022-09-24T09:00:00Z",
-      "end_time": "2022-09-24T22:00:00Z",
-      "title": "Zevent (17h MDF spécial Écologie)",
-      "canceled_until": null,
-      "category": {
-        "id": "509663",
-        "name": "Special Events"
-      },
-      "is_recurring": true
-    },
-    {
-      "id": "eyJzZWdtZW50SUQiOiIxNjg1MmIxMy0wZjI4LTQ4NzItYTZmYi0wZTAyMDA4YjNkZWUiLCJpc29ZZWFyIjoyMDIyLCJpc29XZWVrIjozOH0=",
-      "start_time": "2022-09-25T09:00:00Z",
-      "end_time": "2022-09-25T22:00:00Z",
-      "title": "Zevent",
-      "canceled_until": null,
-      "category": {
-        "id": "509663",
-        "name": "Special Events"
-      },
-      "is_recurring": true
-    },
-    {
-      "id": "eyJzZWdtZW50SUQiOiI3ZmEwOGYzYy00YTA3LTQ2ZjMtODBhOC0xNDBhMDMxMGE2YzUiLCJpc29ZZWFyIjoyMDIyLCJpc29XZWVrIjozOX0=",
-      "start_time": "2022-09-26T16:00:00Z",
-      "end_time": "2022-09-26T22:00:00Z",
-      "title": "Culture et plaisir",
-      "canceled_until": null,
-      "category": {
-        "id": "338715930",
-        "name": "Maitre des Fleurs"
-      },
-      "is_recurring": true
-    },
-    {
-      "id": "eyJzZWdtZW50SUQiOiIzNDNlYzA0Mi1hOGQwLTQ2MjYtYjVkOS1mMGU0MzI4MGU4MmYiLCJpc29ZZWFyIjoyMDIyLCJpc29XZWVrIjozOX0=",
-      "start_time": "2022-09-27T09:00:00Z",
-      "end_time": "2022-09-27T15:00:00Z",
-      "title": "Suite de Pokémon Colosseum",
+      "title": "Suite de l'aventure Colosseum",
       "canceled_until": null,
       "category": {
         "id": "11879",
@@ -205,14 +145,86 @@
       "is_recurring": true
     },
     {
-      "id": "eyJzZWdtZW50SUQiOiI2MGRkNjY1ZC0wMjNiLTQzM2UtYjU0NS0wOGM1ZjQ1NWJkZjIiLCJpc29ZZWFyIjoyMDIyLCJpc29XZWVrIjozOX0=",
-      "start_time": "2022-09-27T18:00:00Z",
-      "end_time": "2022-09-27T20:30:00Z",
-      "title": "Le retour de Popcorn sur la chaîne de Domingo",
+      "id": "eyJzZWdtZW50SUQiOiI4OWM0Yzg5YS1iNWQwLTQ3YWMtYTFkMi1kM2U3NDFkZWQ4M2QiLCJpc29ZZWFyIjoyMDIyLCJpc29XZWVrIjozOH0=",
+      "start_time": "2022-09-22T09:00:00Z",
+      "end_time": "2022-09-22T13:00:00Z",
+      "title": "Suite du slowrun aiguille any%",
       "canceled_until": null,
       "category": {
-        "id": "417752",
-        "name": "Talk Shows & Podcasts"
+        "id": "512953",
+        "name": "Elden Ring"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiJjYjUzZjE5Mi1kNjVjLTQ3ZmMtOWZlMi05ZTc4MjljYjQzYzkiLCJpc29ZZWFyIjoyMDIyLCJpc29XZWVrIjozOH0=",
+      "start_time": "2022-09-22T15:00:00Z",
+      "end_time": "2022-09-22T18:00:00Z",
+      "title": "Atelier Néons (sur la chaîne d'Ultia)",
+      "canceled_until": null,
+      "category": {
+        "id": "509660",
+        "name": "Art"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiI4YmUwNDQ4OS0yMmFjLTQwZTEtYmE4NC1lZTgxYmIxNzg0YWMiLCJpc29ZZWFyIjoyMDIyLCJpc29XZWVrIjozOH0=",
+      "start_time": "2022-09-23T09:00:00Z",
+      "end_time": "2022-09-23T16:00:00Z",
+      "title": "SPLATOOOOOOOOOOOOOOON",
+      "canceled_until": null,
+      "category": {
+        "id": "1158884259",
+        "name": "Splatoon 3"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiIxNjg1MmIxMy0wZjI4LTQ4NzItYTZmYi0wZTAyMDA4YjNkZWUiLCJpc29ZZWFyIjoyMDIyLCJpc29XZWVrIjozOH0=",
+      "start_time": "2022-09-25T11:00:00Z",
+      "end_time": "2022-09-25T15:00:00Z",
+      "title": "Le Tournoi MK du dimanche",
+      "canceled_until": null,
+      "category": {
+        "id": "941530474",
+        "name": "Mario Kart 8 Deluxe"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiI5OTYxN2ExNC0xZjliLTRlNTktOGMwNS02Y2MwYmE1YWRhODIiLCJpc29ZZWFyIjoyMDIyLCJpc29XZWVrIjozOH0=",
+      "start_time": "2022-09-25T15:00:00Z",
+      "end_time": "2022-09-25T17:00:00Z",
+      "title": "SPLATOOOOOOOOOOOOOOON",
+      "canceled_until": null,
+      "category": {
+        "id": "1158884259",
+        "name": "Splatoon 3"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiIzNDNlYzA0Mi1hOGQwLTQ2MjYtYjVkOS1mMGU0MzI4MGU4MmYiLCJpc29ZZWFyIjoyMDIyLCJpc29XZWVrIjozOX0=",
+      "start_time": "2022-09-27T09:00:00Z",
+      "end_time": "2022-09-27T13:00:00Z",
+      "title": "Débrief Zevent",
+      "canceled_until": null,
+      "category": {
+        "id": "509658",
+        "name": "Just Chatting"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiI2MGRkNjY1ZC0wMjNiLTQzM2UtYjU0NS0wOGM1ZjQ1NWJkZjIiLCJpc29ZZWFyIjoyMDIyLCJpc29XZWVrIjozOX0=",
+      "start_time": "2022-09-27T13:00:00Z",
+      "end_time": "2022-09-27T16:00:00Z",
+      "title": "SPLATOOOOOOOOOOOOOOON [On regarde le Nintendo direct ensemble à 16h]",
+      "canceled_until": null,
+      "category": {
+        "id": "1158884259",
+        "name": "Splatoon 3"
       },
       "is_recurring": true
     },
@@ -220,35 +232,23 @@
       "id": "eyJzZWdtZW50SUQiOiJiNzUxMTUyOC00NzI0LTQwMzktYTk3Zi04M2I1NzA5ODJiOGYiLCJpc29ZZWFyIjoyMDIyLCJpc29XZWVrIjozOX0=",
       "start_time": "2022-09-28T09:00:00Z",
       "end_time": "2022-09-28T16:00:00Z",
-      "title": "Le début de l'aventure Temtem ",
+      "title": "Suite de l'aventure Colosseum",
       "canceled_until": null,
       "category": {
-        "id": "510336",
-        "name": "Temtem"
-      },
-      "is_recurring": true
-    },
-    {
-      "id": "eyJzZWdtZW50SUQiOiI4YmUwNDQ4OS0yMmFjLTQwZTEtYmE4NC1lZTgxYmIxNzg0YWMiLCJpc29ZZWFyIjoyMDIyLCJpc29XZWVrIjozOX0=",
-      "start_time": "2022-09-30T16:00:00Z",
-      "end_time": "2022-09-30T22:00:00Z",
-      "title": "Zevent",
-      "canceled_until": null,
-      "category": {
-        "id": "509663",
-        "name": "Special Events"
+        "id": "11879",
+        "name": "Pokémon Colosseum"
       },
       "is_recurring": true
     },
     {
       "id": "eyJzZWdtZW50SUQiOiI4OWM0Yzg5YS1iNWQwLTQ3YWMtYTFkMi1kM2U3NDFkZWQ4M2QiLCJpc29ZZWFyIjoyMDIyLCJpc29XZWVrIjozOX0=",
-      "start_time": "2022-10-01T09:00:00Z",
-      "end_time": "2022-10-01T22:00:00Z",
-      "title": "Zevent (17h MDF spécial Écologie)",
+      "start_time": "2022-09-29T09:00:00Z",
+      "end_time": "2022-09-29T13:00:00Z",
+      "title": "Suite du slowrun aiguille any%",
       "canceled_until": null,
       "category": {
-        "id": "509663",
-        "name": "Special Events"
+        "id": "512953",
+        "name": "Elden Ring"
       },
       "is_recurring": true
     }
