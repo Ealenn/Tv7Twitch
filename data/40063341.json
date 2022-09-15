@@ -13,30 +13,6 @@
   },
   "schedulers": [
     {
-      "id": "eyJzZWdtZW50SUQiOiI4NzY3MTI0Ni04NmUzLTQxZGUtYmJmNy1kMDU5OTRlY2QxZTMiLCJpc29ZZWFyIjoyMDIyLCJpc29XZWVrIjozN30=",
-      "start_time": "2022-09-14T17:30:00Z",
-      "end_time": "2022-09-14T18:30:00Z",
-      "title": "PRÉ-LIVE",
-      "canceled_until": null,
-      "category": {
-        "id": "509658",
-        "name": "Just Chatting"
-      },
-      "is_recurring": false
-    },
-    {
-      "id": "eyJzZWdtZW50SUQiOiJhMTQ5YzAzMy0wODc4LTRjZGUtYjk5Yi03OWVmZDlhMDk1NTAiLCJpc29ZZWFyIjoyMDIyLCJpc29XZWVrIjozN30=",
-      "start_time": "2022-09-14T18:30:00Z",
-      "end_time": "2022-09-14T22:00:00Z",
-      "title": "REACT",
-      "canceled_until": null,
-      "category": {
-        "id": "509658",
-        "name": "Just Chatting"
-      },
-      "is_recurring": false
-    },
-    {
       "id": "eyJzZWdtZW50SUQiOiJjOTYyZjBmOC04YmYxLTQyZjQtYmU4Ny0xNDNhY2EwYTk1MGYiLCJpc29ZZWFyIjoyMDIyLCJpc29XZWVrIjozN30=",
       "start_time": "2022-09-15T18:30:00Z",
       "end_time": "2022-09-15T21:00:00Z",
@@ -241,6 +217,30 @@
       "id": "eyJzZWdtZW50SUQiOiI5NGIyNmE1YS04ODAyLTQzNDktOGJkYi1kY2Q2MGNlYThiZDkiLCJpc29ZZWFyIjoyMDIyLCJpc29XZWVrIjo0NX0=",
       "start_time": "2022-11-08T19:00:00Z",
       "end_time": "2022-11-08T21:30:00Z",
+      "title": "POPCORN AVEC ANTOINE DANIEL, AVA MIND, PAPE SAN ET TONTON (ZEVENT 2022)",
+      "canceled_until": null,
+      "category": {
+        "id": "417752",
+        "name": "Talk Shows & Podcasts"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiI3MzUyMjc5MC00NDVjLTQ2ODItOTg0My1jODJkZWRmNjBlNDciLCJpc29ZZWFyIjoyMDIyLCJpc29XZWVrIjo0Nn0=",
+      "start_time": "2022-11-14T18:30:00Z",
+      "end_time": "2022-11-14T19:30:00Z",
+      "title": "PRÉ-LIVE",
+      "canceled_until": null,
+      "category": {
+        "id": "509658",
+        "name": "Just Chatting"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiI5NGIyNmE1YS04ODAyLTQzNDktOGJkYi1kY2Q2MGNlYThiZDkiLCJpc29ZZWFyIjoyMDIyLCJpc29XZWVrIjo0Nn0=",
+      "start_time": "2022-11-15T19:00:00Z",
+      "end_time": "2022-11-15T21:30:00Z",
       "title": "POPCORN AVEC ANTOINE DANIEL, AVA MIND, PAPE SAN ET TONTON (ZEVENT 2022)",
       "canceled_until": null,
       "category": {
