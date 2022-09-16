@@ -13,18 +13,6 @@
   },
   "schedulers": [
     {
-      "id": "eyJzZWdtZW50SUQiOiJjOTYyZjBmOC04YmYxLTQyZjQtYmU4Ny0xNDNhY2EwYTk1MGYiLCJpc29ZZWFyIjoyMDIyLCJpc29XZWVrIjozN30=",
-      "start_time": "2022-09-15T18:30:00Z",
-      "end_time": "2022-09-15T21:00:00Z",
-      "title": "SESSION COACHING FT. YU",
-      "canceled_until": null,
-      "category": {
-        "id": "488190",
-        "name": "Poker"
-      },
-      "is_recurring": false
-    },
-    {
       "id": "eyJzZWdtZW50SUQiOiI0ODJiOWJjNC1kZTNiLTQyY2QtODU1ZS0wODg0ZTJlMjA4YjYiLCJpc29ZZWFyIjoyMDIyLCJpc29XZWVrIjozN30=",
       "start_time": "2022-09-16T12:00:00Z",
       "end_time": "2022-09-16T15:00:00Z",
@@ -246,6 +234,18 @@
       "category": {
         "id": "417752",
         "name": "Talk Shows & Podcasts"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiI3MzUyMjc5MC00NDVjLTQ2ODItOTg0My1jODJkZWRmNjBlNDciLCJpc29ZZWFyIjoyMDIyLCJpc29XZWVrIjo0N30=",
+      "start_time": "2022-11-21T18:30:00Z",
+      "end_time": "2022-11-21T19:30:00Z",
+      "title": "PRÉ-LIVE",
+      "canceled_until": null,
+      "category": {
+        "id": "509658",
+        "name": "Just Chatting"
       },
       "is_recurring": true
     }

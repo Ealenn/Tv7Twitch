@@ -13,30 +13,6 @@
   },
   "schedulers": [
     {
-      "id": "eyJzZWdtZW50SUQiOiI4OWM0Yzg5YS1iNWQwLTQ3YWMtYTFkMi1kM2U3NDFkZWQ4M2QiLCJpc29ZZWFyIjoyMDIyLCJpc29XZWVrIjozN30=",
-      "start_time": "2022-09-15T09:00:00Z",
-      "end_time": "2022-09-15T13:00:00Z",
-      "title": "Suite du slowrun aiguille any%",
-      "canceled_until": null,
-      "category": {
-        "id": "512953",
-        "name": "Elden Ring"
-      },
-      "is_recurring": true
-    },
-    {
-      "id": "eyJzZWdtZW50SUQiOiJjYjUzZjE5Mi1kNjVjLTQ3ZmMtOWZlMi05ZTc4MjljYjQzYzkiLCJpc29ZZWFyIjoyMDIyLCJpc29XZWVrIjozN30=",
-      "start_time": "2022-09-15T15:00:00Z",
-      "end_time": "2022-09-15T18:00:00Z",
-      "title": "Atelier Néons (sur la chaîne d'Ultia)",
-      "canceled_until": null,
-      "category": {
-        "id": "509660",
-        "name": "Art"
-      },
-      "is_recurring": true
-    },
-    {
       "id": "eyJzZWdtZW50SUQiOiI4YmUwNDQ4OS0yMmFjLTQwZTEtYmE4NC1lZTgxYmIxNzg0YWMiLCJpc29ZZWFyIjoyMDIyLCJpc29XZWVrIjozN30=",
       "start_time": "2022-09-16T09:00:00Z",
       "end_time": "2022-09-16T16:00:00Z",
@@ -249,6 +225,30 @@
       "category": {
         "id": "941530474",
         "name": "Mario Kart 8 Deluxe"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiI5OTYxN2ExNC0xZjliLTRlNTktOGMwNS02Y2MwYmE1YWRhODIiLCJpc29ZZWFyIjoyMDIyLCJpc29XZWVrIjozOX0=",
+      "start_time": "2022-10-02T15:00:00Z",
+      "end_time": "2022-10-02T17:00:00Z",
+      "title": "SPLATOOOOOOOOOOOOOOON",
+      "canceled_until": null,
+      "category": {
+        "id": "1158884259",
+        "name": "Splatoon 3"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiIzNDNlYzA0Mi1hOGQwLTQ2MjYtYjVkOS1mMGU0MzI4MGU4MmYiLCJpc29ZZWFyIjoyMDIyLCJpc29XZWVrIjo0MH0=",
+      "start_time": "2022-10-04T09:00:00Z",
+      "end_time": "2022-10-04T13:00:00Z",
+      "title": "Débrief Zevent",
+      "canceled_until": null,
+      "category": {
+        "id": "509658",
+        "name": "Just Chatting"
       },
       "is_recurring": true
     }
