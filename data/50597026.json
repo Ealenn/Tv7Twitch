@@ -13,18 +13,6 @@
   },
   "schedulers": [
     {
-      "id": "eyJzZWdtZW50SUQiOiIxNjg1MmIxMy0wZjI4LTQ4NzItYTZmYi0wZTAyMDA4YjNkZWUiLCJpc29ZZWFyIjoyMDIyLCJpc29XZWVrIjozOX0=",
-      "start_time": "2022-10-02T11:00:00Z",
-      "end_time": "2022-10-02T15:00:00Z",
-      "title": "Le Tournoi MK du dimanche",
-      "canceled_until": null,
-      "category": {
-        "id": "941530474",
-        "name": "Mario Kart 8 Deluxe"
-      },
-      "is_recurring": true
-    },
-    {
       "id": "eyJzZWdtZW50SUQiOiI1MzUxZWI1OC03ZjM5LTQ3ODgtYmQ1Ni00M2Y0ZjMyMTNlYzgiLCJpc29ZZWFyIjoyMDIyLCJpc29XZWVrIjo0MH0=",
       "start_time": "2022-10-03T09:00:00Z",
       "end_time": "2022-10-03T15:00:00Z",
@@ -37,10 +25,46 @@
       "is_recurring": true
     },
     {
-      "id": "eyJzZWdtZW50SUQiOiI2MGRkNjY1ZC0wMjNiLTQzM2UtYjU0NS0wOGM1ZjQ1NWJkZjIiLCJpc29ZZWFyIjoyMDIyLCJpc29XZWVrIjo0MH0=",
+      "id": "eyJzZWdtZW50SUQiOiIxMjY2MDg2Ni1kNDQzLTQzZGQtYjNlNi04NTc5ZGFjZjRjYTQiLCJpc29ZZWFyIjoyMDIyLCJpc29XZWVrIjo0MH0=",
       "start_time": "2022-10-04T09:00:00Z",
-      "end_time": "2022-10-04T16:00:00Z",
-      "title": "Le retour des aiguilles !",
+      "end_time": "2022-10-04T15:00:00Z",
+      "title": "On joue les espions pour sauver le monde avec le bro Wingo ",
+      "canceled_until": null,
+      "category": {
+        "id": "1582767179",
+        "name": "Operation: Tango"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiI5OWMzMTE1Ni03MjYzLTRiZWYtYjY4Ni04NjhiODNhZDk5MjkiLCJpc29ZZWFyIjoyMDIyLCJpc29XZWVrIjo0MH0=",
+      "start_time": "2022-10-04T18:00:00Z",
+      "end_time": "2022-10-04T21:00:00Z",
+      "title": "Popcorn sur la chaîne de Domingo",
+      "canceled_until": null,
+      "category": {
+        "id": "417752",
+        "name": "Talk Shows & Podcasts"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiJiNzUxMTUyOC00NzI0LTQwMzktYTk3Zi04M2I1NzA5ODJiOGYiLCJpc29ZZWFyIjoyMDIyLCJpc29XZWVrIjo0MH0=",
+      "start_time": "2022-10-05T09:00:00Z",
+      "end_time": "2022-10-05T15:00:00Z",
+      "title": "On continue l’aventure Temtem",
+      "canceled_until": null,
+      "category": {
+        "id": "510336",
+        "name": "Temtem"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiI2MGRkNjY1ZC0wMjNiLTQzM2UtYjU0NS0wOGM1ZjQ1NWJkZjIiLCJpc29ZZWFyIjoyMDIyLCJpc29XZWVrIjo0MH0=",
+      "start_time": "2022-10-06T09:00:00Z",
+      "end_time": "2022-10-06T16:00:00Z",
+      "title": "Cette fois c’est la bonne, Malénia je vais te détruire ! ",
       "canceled_until": null,
       "category": {
         "id": "512953",
@@ -49,15 +73,12 @@
       "is_recurring": true
     },
     {
-      "id": "eyJzZWdtZW50SUQiOiJiNzUxMTUyOC00NzI0LTQwMzktYTk3Zi04M2I1NzA5ODJiOGYiLCJpc29ZZWFyIjoyMDIyLCJpc29XZWVrIjo0MH0=",
-      "start_time": "2022-10-05T09:00:00Z",
-      "end_time": "2022-10-05T16:00:00Z",
-      "title": "On continue l’aventure Temtem",
+      "id": "eyJzZWdtZW50SUQiOiJhZGNjZWJhMS0xOWE0LTQ2OTAtYjBiNi02NGU4ZjgxMTJjOGEiLCJpc29ZZWFyIjoyMDIyLCJpc29XZWVrIjo0MH0=",
+      "start_time": "2022-10-07T09:00:00Z",
+      "end_time": "2022-10-07T13:00:00Z",
+      "title": "Multigaming avé les copains",
       "canceled_until": null,
-      "category": {
-        "id": "510336",
-        "name": "Temtem"
-      },
+      "category": null,
       "is_recurring": true
     },
     {
@@ -97,10 +118,46 @@
       "is_recurring": true
     },
     {
-      "id": "eyJzZWdtZW50SUQiOiI2MGRkNjY1ZC0wMjNiLTQzM2UtYjU0NS0wOGM1ZjQ1NWJkZjIiLCJpc29ZZWFyIjoyMDIyLCJpc29XZWVrIjo0MX0=",
+      "id": "eyJzZWdtZW50SUQiOiIxMjY2MDg2Ni1kNDQzLTQzZGQtYjNlNi04NTc5ZGFjZjRjYTQiLCJpc29ZZWFyIjoyMDIyLCJpc29XZWVrIjo0MX0=",
       "start_time": "2022-10-11T09:00:00Z",
-      "end_time": "2022-10-11T16:00:00Z",
-      "title": "Le retour des aiguilles !",
+      "end_time": "2022-10-11T15:00:00Z",
+      "title": "On joue les espions pour sauver le monde avec le bro Wingo ",
+      "canceled_until": null,
+      "category": {
+        "id": "1582767179",
+        "name": "Operation: Tango"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiI5OWMzMTE1Ni03MjYzLTRiZWYtYjY4Ni04NjhiODNhZDk5MjkiLCJpc29ZZWFyIjoyMDIyLCJpc29XZWVrIjo0MX0=",
+      "start_time": "2022-10-11T18:00:00Z",
+      "end_time": "2022-10-11T21:00:00Z",
+      "title": "Popcorn sur la chaîne de Domingo",
+      "canceled_until": null,
+      "category": {
+        "id": "417752",
+        "name": "Talk Shows & Podcasts"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiJiNzUxMTUyOC00NzI0LTQwMzktYTk3Zi04M2I1NzA5ODJiOGYiLCJpc29ZZWFyIjoyMDIyLCJpc29XZWVrIjo0MX0=",
+      "start_time": "2022-10-12T09:00:00Z",
+      "end_time": "2022-10-12T15:00:00Z",
+      "title": "On continue l’aventure Temtem",
+      "canceled_until": null,
+      "category": {
+        "id": "510336",
+        "name": "Temtem"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiI2MGRkNjY1ZC0wMjNiLTQzM2UtYjU0NS0wOGM1ZjQ1NWJkZjIiLCJpc29ZZWFyIjoyMDIyLCJpc29XZWVrIjo0MX0=",
+      "start_time": "2022-10-13T09:00:00Z",
+      "end_time": "2022-10-13T16:00:00Z",
+      "title": "Cette fois c’est la bonne, Malénia je vais te détruire ! ",
       "canceled_until": null,
       "category": {
         "id": "512953",
@@ -109,15 +166,12 @@
       "is_recurring": true
     },
     {
-      "id": "eyJzZWdtZW50SUQiOiJiNzUxMTUyOC00NzI0LTQwMzktYTk3Zi04M2I1NzA5ODJiOGYiLCJpc29ZZWFyIjoyMDIyLCJpc29XZWVrIjo0MX0=",
-      "start_time": "2022-10-12T09:00:00Z",
-      "end_time": "2022-10-12T16:00:00Z",
-      "title": "On continue l’aventure Temtem",
+      "id": "eyJzZWdtZW50SUQiOiJhZGNjZWJhMS0xOWE0LTQ2OTAtYjBiNi02NGU4ZjgxMTJjOGEiLCJpc29ZZWFyIjoyMDIyLCJpc29XZWVrIjo0MX0=",
+      "start_time": "2022-10-14T09:00:00Z",
+      "end_time": "2022-10-14T13:00:00Z",
+      "title": "Multigaming avé les copains",
       "canceled_until": null,
-      "category": {
-        "id": "510336",
-        "name": "Temtem"
-      },
+      "category": null,
       "is_recurring": true
     },
     {
@@ -157,98 +211,38 @@
       "is_recurring": true
     },
     {
-      "id": "eyJzZWdtZW50SUQiOiI2MGRkNjY1ZC0wMjNiLTQzM2UtYjU0NS0wOGM1ZjQ1NWJkZjIiLCJpc29ZZWFyIjoyMDIyLCJpc29XZWVrIjo0Mn0=",
+      "id": "eyJzZWdtZW50SUQiOiIxMjY2MDg2Ni1kNDQzLTQzZGQtYjNlNi04NTc5ZGFjZjRjYTQiLCJpc29ZZWFyIjoyMDIyLCJpc29XZWVrIjo0Mn0=",
       "start_time": "2022-10-18T09:00:00Z",
-      "end_time": "2022-10-18T16:00:00Z",
-      "title": "Le retour des aiguilles !",
+      "end_time": "2022-10-18T15:00:00Z",
+      "title": "On joue les espions pour sauver le monde avec le bro Wingo ",
       "canceled_until": null,
       "category": {
-        "id": "512953",
-        "name": "Elden Ring"
+        "id": "1582767179",
+        "name": "Operation: Tango"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiI5OWMzMTE1Ni03MjYzLTRiZWYtYjY4Ni04NjhiODNhZDk5MjkiLCJpc29ZZWFyIjoyMDIyLCJpc29XZWVrIjo0Mn0=",
+      "start_time": "2022-10-18T18:00:00Z",
+      "end_time": "2022-10-18T21:00:00Z",
+      "title": "Popcorn sur la chaîne de Domingo",
+      "canceled_until": null,
+      "category": {
+        "id": "417752",
+        "name": "Talk Shows & Podcasts"
       },
       "is_recurring": true
     },
     {
       "id": "eyJzZWdtZW50SUQiOiJiNzUxMTUyOC00NzI0LTQwMzktYTk3Zi04M2I1NzA5ODJiOGYiLCJpc29ZZWFyIjoyMDIyLCJpc29XZWVrIjo0Mn0=",
       "start_time": "2022-10-19T09:00:00Z",
-      "end_time": "2022-10-19T16:00:00Z",
+      "end_time": "2022-10-19T15:00:00Z",
       "title": "On continue l’aventure Temtem",
       "canceled_until": null,
       "category": {
         "id": "510336",
         "name": "Temtem"
-      },
-      "is_recurring": true
-    },
-    {
-      "id": "eyJzZWdtZW50SUQiOiIxNGE4YTM3OS0zZmYwLTRhNmUtOWJmMS02MDc4YmQwYTYwMjkiLCJpc29ZZWFyIjoyMDIyLCJpc29XZWVrIjo0Mn0=",
-      "start_time": "2022-10-21T13:00:00Z",
-      "end_time": "2022-10-21T17:00:00Z",
-      "title": "SPLATOOOOOOOOON!",
-      "canceled_until": null,
-      "category": {
-        "id": "1158884259",
-        "name": "Splatoon 3"
-      },
-      "is_recurring": true
-    },
-    {
-      "id": "eyJzZWdtZW50SUQiOiIxNjg1MmIxMy0wZjI4LTQ4NzItYTZmYi0wZTAyMDA4YjNkZWUiLCJpc29ZZWFyIjoyMDIyLCJpc29XZWVrIjo0Mn0=",
-      "start_time": "2022-10-23T11:00:00Z",
-      "end_time": "2022-10-23T15:00:00Z",
-      "title": "Le Tournoi MK du dimanche",
-      "canceled_until": null,
-      "category": {
-        "id": "941530474",
-        "name": "Mario Kart 8 Deluxe"
-      },
-      "is_recurring": true
-    },
-    {
-      "id": "eyJzZWdtZW50SUQiOiI1MzUxZWI1OC03ZjM5LTQ3ODgtYmQ1Ni00M2Y0ZjMyMTNlYzgiLCJpc29ZZWFyIjoyMDIyLCJpc29XZWVrIjo0M30=",
-      "start_time": "2022-10-24T09:00:00Z",
-      "end_time": "2022-10-24T15:00:00Z",
-      "title": "Culture & plaisir",
-      "canceled_until": null,
-      "category": {
-        "id": "338715930",
-        "name": "Maitre des Fleurs"
-      },
-      "is_recurring": true
-    },
-    {
-      "id": "eyJzZWdtZW50SUQiOiI2MGRkNjY1ZC0wMjNiLTQzM2UtYjU0NS0wOGM1ZjQ1NWJkZjIiLCJpc29ZZWFyIjoyMDIyLCJpc29XZWVrIjo0M30=",
-      "start_time": "2022-10-25T09:00:00Z",
-      "end_time": "2022-10-25T16:00:00Z",
-      "title": "Le retour des aiguilles !",
-      "canceled_until": null,
-      "category": {
-        "id": "512953",
-        "name": "Elden Ring"
-      },
-      "is_recurring": true
-    },
-    {
-      "id": "eyJzZWdtZW50SUQiOiJiNzUxMTUyOC00NzI0LTQwMzktYTk3Zi04M2I1NzA5ODJiOGYiLCJpc29ZZWFyIjoyMDIyLCJpc29XZWVrIjo0M30=",
-      "start_time": "2022-10-26T09:00:00Z",
-      "end_time": "2022-10-26T16:00:00Z",
-      "title": "On continue l’aventure Temtem",
-      "canceled_until": null,
-      "category": {
-        "id": "510336",
-        "name": "Temtem"
-      },
-      "is_recurring": true
-    },
-    {
-      "id": "eyJzZWdtZW50SUQiOiIxNGE4YTM3OS0zZmYwLTRhNmUtOWJmMS02MDc4YmQwYTYwMjkiLCJpc29ZZWFyIjoyMDIyLCJpc29XZWVrIjo0M30=",
-      "start_time": "2022-10-28T13:00:00Z",
-      "end_time": "2022-10-28T17:00:00Z",
-      "title": "SPLATOOOOOOOOON!",
-      "canceled_until": null,
-      "category": {
-        "id": "1158884259",
-        "name": "Splatoon 3"
       },
       "is_recurring": true
     }
