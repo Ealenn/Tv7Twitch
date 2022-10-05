@@ -14,8 +14,8 @@
   "schedulers": [
     {
       "id": "eyJzZWdtZW50SUQiOiJkNGUxOTZkNi02NGI1LTRlNWUtYjliYS03ZmM1N2UwODZhNjYiLCJpc29ZZWFyIjoyMDIyLCJpc29XZWVrIjo0MH0=",
-      "start_time": "2022-10-05T13:00:00Z",
-      "end_time": "2022-10-05T17:00:00Z",
+      "start_time": "2022-10-05T12:30:00Z",
+      "end_time": "2022-10-05T16:45:00Z",
       "title": "NASA's SpaceX Crew 5 Launch to the International Space Station (Official Broadcast)",
       "canceled_until": null,
       "category": {

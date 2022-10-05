@@ -13,30 +13,6 @@
   },
   "schedulers": [
     {
-      "id": "eyJzZWdtZW50SUQiOiIxMjY2MDg2Ni1kNDQzLTQzZGQtYjNlNi04NTc5ZGFjZjRjYTQiLCJpc29ZZWFyIjoyMDIyLCJpc29XZWVrIjo0MH0=",
-      "start_time": "2022-10-04T09:00:00Z",
-      "end_time": "2022-10-04T15:00:00Z",
-      "title": "On joue les espions pour sauver le monde avec le bro Wingo ",
-      "canceled_until": null,
-      "category": {
-        "id": "1582767179",
-        "name": "Operation: Tango"
-      },
-      "is_recurring": true
-    },
-    {
-      "id": "eyJzZWdtZW50SUQiOiI5OWMzMTE1Ni03MjYzLTRiZWYtYjY4Ni04NjhiODNhZDk5MjkiLCJpc29ZZWFyIjoyMDIyLCJpc29XZWVrIjo0MH0=",
-      "start_time": "2022-10-04T18:00:00Z",
-      "end_time": "2022-10-04T21:00:00Z",
-      "title": "Popcorn sur la chaîne de Domingo",
-      "canceled_until": null,
-      "category": {
-        "id": "417752",
-        "name": "Talk Shows & Podcasts"
-      },
-      "is_recurring": true
-    },
-    {
       "id": "eyJzZWdtZW50SUQiOiJiNzUxMTUyOC00NzI0LTQwMzktYTk3Zi04M2I1NzA5ODJiOGYiLCJpc29ZZWFyIjoyMDIyLCJpc29XZWVrIjo0MH0=",
       "start_time": "2022-10-05T09:00:00Z",
       "end_time": "2022-10-05T15:00:00Z",
@@ -243,6 +219,27 @@
       "category": {
         "id": "512953",
         "name": "Elden Ring"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiJhZGNjZWJhMS0xOWE0LTQ2OTAtYjBiNi02NGU4ZjgxMTJjOGEiLCJpc29ZZWFyIjoyMDIyLCJpc29XZWVrIjo0Mn0=",
+      "start_time": "2022-10-21T09:00:00Z",
+      "end_time": "2022-10-21T13:00:00Z",
+      "title": "Multigaming avé les copains",
+      "canceled_until": null,
+      "category": null,
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiIxNGE4YTM3OS0zZmYwLTRhNmUtOWJmMS02MDc4YmQwYTYwMjkiLCJpc29ZZWFyIjoyMDIyLCJpc29XZWVrIjo0Mn0=",
+      "start_time": "2022-10-21T13:00:00Z",
+      "end_time": "2022-10-21T17:00:00Z",
+      "title": "SPLATOOOOOOOOON!",
+      "canceled_until": null,
+      "category": {
+        "id": "1158884259",
+        "name": "Splatoon 3"
       },
       "is_recurring": true
     }
