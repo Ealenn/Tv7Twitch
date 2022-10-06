@@ -13,18 +13,6 @@
   },
   "schedulers": [
     {
-      "id": "eyJzZWdtZW50SUQiOiJiNzUxMTUyOC00NzI0LTQwMzktYTk3Zi04M2I1NzA5ODJiOGYiLCJpc29ZZWFyIjoyMDIyLCJpc29XZWVrIjo0MH0=",
-      "start_time": "2022-10-05T09:00:00Z",
-      "end_time": "2022-10-05T15:00:00Z",
-      "title": "On continue l’aventure Temtem",
-      "canceled_until": null,
-      "category": {
-        "id": "510336",
-        "name": "Temtem"
-      },
-      "is_recurring": true
-    },
-    {
       "id": "eyJzZWdtZW50SUQiOiI2MGRkNjY1ZC0wMjNiLTQzM2UtYjU0NS0wOGM1ZjQ1NWJkZjIiLCJpc29ZZWFyIjoyMDIyLCJpc29XZWVrIjo0MH0=",
       "start_time": "2022-10-06T09:00:00Z",
       "end_time": "2022-10-06T16:00:00Z",
@@ -240,6 +228,18 @@
       "category": {
         "id": "1158884259",
         "name": "Splatoon 3"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiIxNjg1MmIxMy0wZjI4LTQ4NzItYTZmYi0wZTAyMDA4YjNkZWUiLCJpc29ZZWFyIjoyMDIyLCJpc29XZWVrIjo0Mn0=",
+      "start_time": "2022-10-23T11:00:00Z",
+      "end_time": "2022-10-23T15:00:00Z",
+      "title": "Le Tournoi MK du dimanche",
+      "canceled_until": null,
+      "category": {
+        "id": "941530474",
+        "name": "Mario Kart 8 Deluxe"
       },
       "is_recurring": true
     }
