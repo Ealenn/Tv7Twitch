@@ -13,18 +13,6 @@
   },
   "schedulers": [
     {
-      "id": "eyJzZWdtZW50SUQiOiIyOGIyYzAzNy1jZDk3LTRmOTktOWY5OS1iZWMxOGE0MTNkMmUiLCJpc29ZZWFyIjoyMDIyLCJpc29XZWVrIjo0Mn0=",
-      "start_time": "2022-10-20T10:00:00Z",
-      "end_time": "2022-10-20T12:00:00Z",
-      "title": "LA PAUSE DEJ'",
-      "canceled_until": null,
-      "category": {
-        "id": "509658",
-        "name": "Just Chatting"
-      },
-      "is_recurring": true
-    },
-    {
       "id": "eyJzZWdtZW50SUQiOiI5MDQ4ODI0ZC0xOWZkLTQxODctOGYxOS02MTgzYTFkNDc1ZTQiLCJpc29ZZWFyIjoyMDIyLCJpc29XZWVrIjo0Mn0=",
       "start_time": "2022-10-21T18:30:00Z",
       "end_time": "2022-10-21T20:30:00Z",
@@ -249,6 +237,18 @@
       "category": {
         "id": "509658",
         "name": "Just Chatting"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiI5NGIyNmE1YS04ODAyLTQzNDktOGJkYi1kY2Q2MGNlYThiZDkiLCJpc29ZZWFyIjoyMDIyLCJpc29XZWVrIjo1Mn0=",
+      "start_time": "2022-12-27T19:00:00Z",
+      "end_time": "2022-12-27T21:30:00Z",
+      "title": "POPCORN AVEC FOULOSCOPIE, MAGHLA, ADRIEN MÉNIELLE ET PONCE",
+      "canceled_until": null,
+      "category": {
+        "id": "417752",
+        "name": "Talk Shows & Podcasts"
       },
       "is_recurring": true
     }
