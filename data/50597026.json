@@ -13,18 +13,6 @@
   },
   "schedulers": [
     {
-      "id": "eyJzZWdtZW50SUQiOiIxNGE4YTM3OS0zZmYwLTRhNmUtOWJmMS02MDc4YmQwYTYwMjkiLCJpc29ZZWFyIjoyMDIyLCJpc29XZWVrIjo0Mn0=",
-      "start_time": "2022-10-21T09:00:00Z",
-      "end_time": "2022-10-21T16:00:00Z",
-      "title": "Partons à la rescousse des Sparks et sauvons l'univers",
-      "canceled_until": null,
-      "category": {
-        "id": "582372781",
-        "name": "Mario + Rabbids Sparks of Hope"
-      },
-      "is_recurring": true
-    },
-    {
       "id": "eyJzZWdtZW50SUQiOiI4OWRjODI0Yy1mMjZjLTRhOGYtYjQ5MS1iM2FjZTRmY2E1NzciLCJpc29ZZWFyIjoyMDIyLCJpc29XZWVrIjo0Mn0=",
       "start_time": "2022-10-23T11:00:00Z",
       "end_time": "2022-10-23T15:00:00Z",
@@ -240,6 +228,18 @@
       "category": {
         "id": "510336",
         "name": "Temtem"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiI2MGRkNjY1ZC0wMjNiLTQzM2UtYjU0NS0wOGM1ZjQ1NWJkZjIiLCJpc29ZZWFyIjoyMDIyLCJpc29XZWVrIjo0NX0=",
+      "start_time": "2022-11-10T10:00:00Z",
+      "end_time": "2022-11-10T17:00:00Z",
+      "title": "On continue le Slowrun Aiguille % no invoc ",
+      "canceled_until": null,
+      "category": {
+        "id": "512953",
+        "name": "Elden Ring"
       },
       "is_recurring": true
     }
