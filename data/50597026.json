@@ -13,18 +13,6 @@
   },
   "schedulers": [
     {
-      "id": "eyJzZWdtZW50SUQiOiI4OWRjODI0Yy1mMjZjLTRhOGYtYjQ5MS1iM2FjZTRmY2E1NzciLCJpc29ZZWFyIjoyMDIyLCJpc29XZWVrIjo0Mn0=",
-      "start_time": "2022-10-23T11:00:00Z",
-      "end_time": "2022-10-23T15:00:00Z",
-      "title": "Le tournoi MK des fleurs",
-      "canceled_until": null,
-      "category": {
-        "id": "941530474",
-        "name": "Mario Kart 8 Deluxe"
-      },
-      "is_recurring": true
-    },
-    {
       "id": "eyJzZWdtZW50SUQiOiI1MzUxZWI1OC03ZjM5LTQ3ODgtYmQ1Ni00M2Y0ZjMyMTNlYzgiLCJpc29ZZWFyIjoyMDIyLCJpc29XZWVrIjo0M30=",
       "start_time": "2022-10-24T09:00:00Z",
       "end_time": "2022-10-24T15:00:00Z",
@@ -240,6 +228,18 @@
       "category": {
         "id": "512953",
         "name": "Elden Ring"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiIxNGE4YTM3OS0zZmYwLTRhNmUtOWJmMS02MDc4YmQwYTYwMjkiLCJpc29ZZWFyIjoyMDIyLCJpc29XZWVrIjo0NX0=",
+      "start_time": "2022-11-11T10:00:00Z",
+      "end_time": "2022-11-11T17:00:00Z",
+      "title": "Partons à la rescousse des Sparks et sauvons l'univers",
+      "canceled_until": null,
+      "category": {
+        "id": "582372781",
+        "name": "Mario + Rabbids Sparks of Hope"
       },
       "is_recurring": true
     }
