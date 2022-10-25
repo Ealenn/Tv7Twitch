@@ -13,36 +13,12 @@
   },
   "schedulers": [
     {
-      "id": "eyJzZWdtZW50SUQiOiI1MzUxZWI1OC03ZjM5LTQ3ODgtYmQ1Ni00M2Y0ZjMyMTNlYzgiLCJpc29ZZWFyIjoyMDIyLCJpc29XZWVrIjo0M30=",
-      "start_time": "2022-10-24T09:00:00Z",
-      "end_time": "2022-10-24T15:00:00Z",
-      "title": "Culture & plaisir",
-      "canceled_until": null,
-      "category": {
-        "id": "338715930",
-        "name": "Maitre des Fleurs"
-      },
-      "is_recurring": true
-    },
-    {
       "id": "eyJzZWdtZW50SUQiOiIxNjg1MmIxMy0wZjI4LTQ4NzItYTZmYi0wZTAyMDA4YjNkZWUiLCJpc29ZZWFyIjoyMDIyLCJpc29XZWVrIjo0M30=",
       "start_time": "2022-10-25T09:00:00Z",
-      "end_time": "2022-10-25T15:00:00Z",
+      "end_time": "2022-10-25T16:00:00Z",
       "title": "Multi avé les copaings",
       "canceled_until": null,
       "category": null,
-      "is_recurring": true
-    },
-    {
-      "id": "eyJzZWdtZW50SUQiOiIzZDQ2NzViOS0yYTcwLTQ3NDgtOGMxMS0xZjc3YTA2NzUxMzgiLCJpc29ZZWFyIjoyMDIyLCJpc29XZWVrIjo0M30=",
-      "start_time": "2022-10-25T18:00:00Z",
-      "end_time": "2022-10-25T20:30:00Z",
-      "title": "Popcorn sur la chaîne de Domingo",
-      "canceled_until": null,
-      "category": {
-        "id": "417752",
-        "name": "Talk Shows & Podcasts"
-      },
       "is_recurring": true
     },
     {
@@ -70,8 +46,32 @@
       "is_recurring": true
     },
     {
-      "id": "eyJzZWdtZW50SUQiOiIxNGE4YTM3OS0zZmYwLTRhNmUtOWJmMS02MDc4YmQwYTYwMjkiLCJpc29ZZWFyIjoyMDIyLCJpc29XZWVrIjo0M30=",
+      "id": "eyJzZWdtZW50SUQiOiIzZDQ2NzViOS0yYTcwLTQ3NDgtOGMxMS0xZjc3YTA2NzUxMzgiLCJpc29ZZWFyIjoyMDIyLCJpc29XZWVrIjo0M30=",
+      "start_time": "2022-10-27T19:00:00Z",
+      "end_time": "2022-10-27T22:00:00Z",
+      "title": "\"Le jeu de \" sur la chaîne de Aurélien Portehaut",
+      "canceled_until": null,
+      "category": {
+        "id": "509658",
+        "name": "Just Chatting"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiIxYjljOGQ4YS0xMjAwLTQ2ODMtYjYyOS1kY2JlNjk0YWRlOWYiLCJpc29ZZWFyIjoyMDIyLCJpc29XZWVrIjo0M30=",
       "start_time": "2022-10-28T09:00:00Z",
+      "end_time": "2022-10-28T12:00:00Z",
+      "title": "Un peu d'Overwatch avé les potes, l'addiction est présente",
+      "canceled_until": null,
+      "category": {
+        "id": "515025",
+        "name": "Overwatch 2"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiIxNGE4YTM3OS0zZmYwLTRhNmUtOWJmMS02MDc4YmQwYTYwMjkiLCJpc29ZZWFyIjoyMDIyLCJpc29XZWVrIjo0M30=",
+      "start_time": "2022-10-28T12:00:00Z",
       "end_time": "2022-10-28T16:00:00Z",
       "title": "Partons à la rescousse des Sparks et sauvons l'univers",
       "canceled_until": null,
@@ -82,21 +82,33 @@
       "is_recurring": true
     },
     {
-      "id": "eyJzZWdtZW50SUQiOiI4OWRjODI0Yy1mMjZjLTRhOGYtYjQ5MS1iM2FjZTRmY2E1NzciLCJpc29ZZWFyIjoyMDIyLCJpc29XZWVrIjo0M30=",
-      "start_time": "2022-10-30T12:00:00Z",
-      "end_time": "2022-10-30T16:00:00Z",
-      "title": "Le tournoi MK des fleurs",
+      "id": "eyJzZWdtZW50SUQiOiI2ZGFlNzJlYi1jMjA3LTRhYTYtYjZjMi00NmQ0ZDRhMjBiNDciLCJpc29ZZWFyIjoyMDIyLCJpc29XZWVrIjo0M30=",
+      "start_time": "2022-10-29T12:30:00Z",
+      "end_time": "2022-10-29T16:30:00Z",
+      "title": "Finale du tournoi Mario Tennis sur la chaîne de Rivenzi",
       "canceled_until": null,
       "category": {
-        "id": "941530474",
-        "name": "Mario Kart 8 Deluxe"
+        "id": "502429",
+        "name": "Mario Tennis Aces"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiI4OWRjODI0Yy1mMjZjLTRhOGYtYjQ5MS1iM2FjZTRmY2E1NzciLCJpc29ZZWFyIjoyMDIyLCJpc29XZWVrIjo0M30=",
+      "start_time": "2022-10-30T13:00:00Z",
+      "end_time": "2022-10-30T16:00:00Z",
+      "title": "Troussel Cup à St Malo avec le giga bro Rivenzi",
+      "canceled_until": null,
+      "category": {
+        "id": "509663",
+        "name": "Special Events"
       },
       "is_recurring": true
     },
     {
       "id": "eyJzZWdtZW50SUQiOiI1MzUxZWI1OC03ZjM5LTQ3ODgtYmQ1Ni00M2Y0ZjMyMTNlYzgiLCJpc29ZZWFyIjoyMDIyLCJpc29XZWVrIjo0NH0=",
       "start_time": "2022-10-31T10:00:00Z",
-      "end_time": "2022-10-31T16:00:00Z",
+      "end_time": "2022-10-31T17:00:00Z",
       "title": "Culture & plaisir",
       "canceled_until": null,
       "category": {
@@ -108,22 +120,10 @@
     {
       "id": "eyJzZWdtZW50SUQiOiIxNjg1MmIxMy0wZjI4LTQ4NzItYTZmYi0wZTAyMDA4YjNkZWUiLCJpc29ZZWFyIjoyMDIyLCJpc29XZWVrIjo0NH0=",
       "start_time": "2022-11-01T10:00:00Z",
-      "end_time": "2022-11-01T16:00:00Z",
+      "end_time": "2022-11-01T17:00:00Z",
       "title": "Multi avé les copaings",
       "canceled_until": null,
       "category": null,
-      "is_recurring": true
-    },
-    {
-      "id": "eyJzZWdtZW50SUQiOiIzZDQ2NzViOS0yYTcwLTQ3NDgtOGMxMS0xZjc3YTA2NzUxMzgiLCJpc29ZZWFyIjoyMDIyLCJpc29XZWVrIjo0NH0=",
-      "start_time": "2022-11-01T19:00:00Z",
-      "end_time": "2022-11-01T21:30:00Z",
-      "title": "Popcorn sur la chaîne de Domingo",
-      "canceled_until": null,
-      "category": {
-        "id": "417752",
-        "name": "Talk Shows & Podcasts"
-      },
       "is_recurring": true
     },
     {
@@ -151,8 +151,32 @@
       "is_recurring": true
     },
     {
-      "id": "eyJzZWdtZW50SUQiOiIxNGE4YTM3OS0zZmYwLTRhNmUtOWJmMS02MDc4YmQwYTYwMjkiLCJpc29ZZWFyIjoyMDIyLCJpc29XZWVrIjo0NH0=",
+      "id": "eyJzZWdtZW50SUQiOiIzZDQ2NzViOS0yYTcwLTQ3NDgtOGMxMS0xZjc3YTA2NzUxMzgiLCJpc29ZZWFyIjoyMDIyLCJpc29XZWVrIjo0NH0=",
+      "start_time": "2022-11-03T20:00:00Z",
+      "end_time": "2022-11-03T23:00:00Z",
+      "title": "\"Le jeu de \" sur la chaîne de Aurélien Portehaut",
+      "canceled_until": null,
+      "category": {
+        "id": "509658",
+        "name": "Just Chatting"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiIxYjljOGQ4YS0xMjAwLTQ2ODMtYjYyOS1kY2JlNjk0YWRlOWYiLCJpc29ZZWFyIjoyMDIyLCJpc29XZWVrIjo0NH0=",
       "start_time": "2022-11-04T10:00:00Z",
+      "end_time": "2022-11-04T13:00:00Z",
+      "title": "Un peu d'Overwatch avé les potes, l'addiction est présente",
+      "canceled_until": null,
+      "category": {
+        "id": "515025",
+        "name": "Overwatch 2"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiIxNGE4YTM3OS0zZmYwLTRhNmUtOWJmMS02MDc4YmQwYTYwMjkiLCJpc29ZZWFyIjoyMDIyLCJpc29XZWVrIjo0NH0=",
+      "start_time": "2022-11-04T13:00:00Z",
       "end_time": "2022-11-04T17:00:00Z",
       "title": "Partons à la rescousse des Sparks et sauvons l'univers",
       "canceled_until": null,
@@ -163,21 +187,33 @@
       "is_recurring": true
     },
     {
-      "id": "eyJzZWdtZW50SUQiOiI4OWRjODI0Yy1mMjZjLTRhOGYtYjQ5MS1iM2FjZTRmY2E1NzciLCJpc29ZZWFyIjoyMDIyLCJpc29XZWVrIjo0NH0=",
-      "start_time": "2022-11-06T12:00:00Z",
-      "end_time": "2022-11-06T16:00:00Z",
-      "title": "Le tournoi MK des fleurs",
+      "id": "eyJzZWdtZW50SUQiOiI2ZGFlNzJlYi1jMjA3LTRhYTYtYjZjMi00NmQ0ZDRhMjBiNDciLCJpc29ZZWFyIjoyMDIyLCJpc29XZWVrIjo0NH0=",
+      "start_time": "2022-11-05T13:30:00Z",
+      "end_time": "2022-11-05T17:30:00Z",
+      "title": "Finale du tournoi Mario Tennis sur la chaîne de Rivenzi",
       "canceled_until": null,
       "category": {
-        "id": "941530474",
-        "name": "Mario Kart 8 Deluxe"
+        "id": "502429",
+        "name": "Mario Tennis Aces"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiI4OWRjODI0Yy1mMjZjLTRhOGYtYjQ5MS1iM2FjZTRmY2E1NzciLCJpc29ZZWFyIjoyMDIyLCJpc29XZWVrIjo0NH0=",
+      "start_time": "2022-11-06T13:00:00Z",
+      "end_time": "2022-11-06T16:00:00Z",
+      "title": "Troussel Cup à St Malo avec le giga bro Rivenzi",
+      "canceled_until": null,
+      "category": {
+        "id": "509663",
+        "name": "Special Events"
       },
       "is_recurring": true
     },
     {
       "id": "eyJzZWdtZW50SUQiOiI1MzUxZWI1OC03ZjM5LTQ3ODgtYmQ1Ni00M2Y0ZjMyMTNlYzgiLCJpc29ZZWFyIjoyMDIyLCJpc29XZWVrIjo0NX0=",
       "start_time": "2022-11-07T10:00:00Z",
-      "end_time": "2022-11-07T16:00:00Z",
+      "end_time": "2022-11-07T17:00:00Z",
       "title": "Culture & plaisir",
       "canceled_until": null,
       "category": {
@@ -189,22 +225,10 @@
     {
       "id": "eyJzZWdtZW50SUQiOiIxNjg1MmIxMy0wZjI4LTQ4NzItYTZmYi0wZTAyMDA4YjNkZWUiLCJpc29ZZWFyIjoyMDIyLCJpc29XZWVrIjo0NX0=",
       "start_time": "2022-11-08T10:00:00Z",
-      "end_time": "2022-11-08T16:00:00Z",
+      "end_time": "2022-11-08T17:00:00Z",
       "title": "Multi avé les copaings",
       "canceled_until": null,
       "category": null,
-      "is_recurring": true
-    },
-    {
-      "id": "eyJzZWdtZW50SUQiOiIzZDQ2NzViOS0yYTcwLTQ3NDgtOGMxMS0xZjc3YTA2NzUxMzgiLCJpc29ZZWFyIjoyMDIyLCJpc29XZWVrIjo0NX0=",
-      "start_time": "2022-11-08T19:00:00Z",
-      "end_time": "2022-11-08T21:30:00Z",
-      "title": "Popcorn sur la chaîne de Domingo",
-      "canceled_until": null,
-      "category": {
-        "id": "417752",
-        "name": "Talk Shows & Podcasts"
-      },
       "is_recurring": true
     },
     {
@@ -216,30 +240,6 @@
       "category": {
         "id": "510336",
         "name": "Temtem"
-      },
-      "is_recurring": true
-    },
-    {
-      "id": "eyJzZWdtZW50SUQiOiI2MGRkNjY1ZC0wMjNiLTQzM2UtYjU0NS0wOGM1ZjQ1NWJkZjIiLCJpc29ZZWFyIjoyMDIyLCJpc29XZWVrIjo0NX0=",
-      "start_time": "2022-11-10T10:00:00Z",
-      "end_time": "2022-11-10T17:00:00Z",
-      "title": "On continue le Slowrun Aiguille % no invoc ",
-      "canceled_until": null,
-      "category": {
-        "id": "512953",
-        "name": "Elden Ring"
-      },
-      "is_recurring": true
-    },
-    {
-      "id": "eyJzZWdtZW50SUQiOiIxNGE4YTM3OS0zZmYwLTRhNmUtOWJmMS02MDc4YmQwYTYwMjkiLCJpc29ZZWFyIjoyMDIyLCJpc29XZWVrIjo0NX0=",
-      "start_time": "2022-11-11T10:00:00Z",
-      "end_time": "2022-11-11T17:00:00Z",
-      "title": "Partons à la rescousse des Sparks et sauvons l'univers",
-      "canceled_until": null,
-      "category": {
-        "id": "582372781",
-        "name": "Mario + Rabbids Sparks of Hope"
       },
       "is_recurring": true
     }
