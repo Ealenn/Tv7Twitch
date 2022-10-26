@@ -13,15 +13,6 @@
   },
   "schedulers": [
     {
-      "id": "eyJzZWdtZW50SUQiOiIxNjg1MmIxMy0wZjI4LTQ4NzItYTZmYi0wZTAyMDA4YjNkZWUiLCJpc29ZZWFyIjoyMDIyLCJpc29XZWVrIjo0M30=",
-      "start_time": "2022-10-25T09:00:00Z",
-      "end_time": "2022-10-25T16:00:00Z",
-      "title": "Multi avé les copaings",
-      "canceled_until": null,
-      "category": null,
-      "is_recurring": true
-    },
-    {
       "id": "eyJzZWdtZW50SUQiOiJiNzUxMTUyOC00NzI0LTQwMzktYTk3Zi04M2I1NzA5ODJiOGYiLCJpc29ZZWFyIjoyMDIyLCJpc29XZWVrIjo0M30=",
       "start_time": "2022-10-26T09:00:00Z",
       "end_time": "2022-10-26T16:00:00Z",
@@ -85,7 +76,7 @@
       "id": "eyJzZWdtZW50SUQiOiI2ZGFlNzJlYi1jMjA3LTRhYTYtYjZjMi00NmQ0ZDRhMjBiNDciLCJpc29ZZWFyIjoyMDIyLCJpc29XZWVrIjo0M30=",
       "start_time": "2022-10-29T12:30:00Z",
       "end_time": "2022-10-29T16:30:00Z",
-      "title": "Finale du tournoi Mario Tennis sur la chaîne de Rivenzi",
+      "title": "Finale du tournoi Mario Tennis avec Onu & Riv",
       "canceled_until": null,
       "category": {
         "id": "502429",
@@ -97,7 +88,7 @@
       "id": "eyJzZWdtZW50SUQiOiI4OWRjODI0Yy1mMjZjLTRhOGYtYjQ5MS1iM2FjZTRmY2E1NzciLCJpc29ZZWFyIjoyMDIyLCJpc29XZWVrIjo0M30=",
       "start_time": "2022-10-30T13:00:00Z",
       "end_time": "2022-10-30T16:00:00Z",
-      "title": "Troussel Cup à St Malo avec le giga bro Rivenzi",
+      "title": "Troussel Cup à St Malo sur la chaîne du giga bro Rivenzi",
       "canceled_until": null,
       "category": {
         "id": "509663",
@@ -190,7 +181,7 @@
       "id": "eyJzZWdtZW50SUQiOiI2ZGFlNzJlYi1jMjA3LTRhYTYtYjZjMi00NmQ0ZDRhMjBiNDciLCJpc29ZZWFyIjoyMDIyLCJpc29XZWVrIjo0NH0=",
       "start_time": "2022-11-05T13:30:00Z",
       "end_time": "2022-11-05T17:30:00Z",
-      "title": "Finale du tournoi Mario Tennis sur la chaîne de Rivenzi",
+      "title": "Finale du tournoi Mario Tennis avec Onu & Riv",
       "canceled_until": null,
       "category": {
         "id": "502429",
@@ -202,7 +193,7 @@
       "id": "eyJzZWdtZW50SUQiOiI4OWRjODI0Yy1mMjZjLTRhOGYtYjQ5MS1iM2FjZTRmY2E1NzciLCJpc29ZZWFyIjoyMDIyLCJpc29XZWVrIjo0NH0=",
       "start_time": "2022-11-06T13:00:00Z",
       "end_time": "2022-11-06T16:00:00Z",
-      "title": "Troussel Cup à St Malo avec le giga bro Rivenzi",
+      "title": "Troussel Cup à St Malo sur la chaîne du giga bro Rivenzi",
       "canceled_until": null,
       "category": {
         "id": "509663",
@@ -240,6 +231,18 @@
       "category": {
         "id": "510336",
         "name": "Temtem"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiI2MGRkNjY1ZC0wMjNiLTQzM2UtYjU0NS0wOGM1ZjQ1NWJkZjIiLCJpc29ZZWFyIjoyMDIyLCJpc29XZWVrIjo0NX0=",
+      "start_time": "2022-11-10T10:00:00Z",
+      "end_time": "2022-11-10T17:00:00Z",
+      "title": "On continue le Slowrun Aiguille % no invoc ",
+      "canceled_until": null,
+      "category": {
+        "id": "512953",
+        "name": "Elden Ring"
       },
       "is_recurring": true
     }
