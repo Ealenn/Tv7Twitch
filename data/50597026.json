@@ -13,18 +13,6 @@
   },
   "schedulers": [
     {
-      "id": "eyJzZWdtZW50SUQiOiJiNzUxMTUyOC00NzI0LTQwMzktYTk3Zi04M2I1NzA5ODJiOGYiLCJpc29ZZWFyIjoyMDIyLCJpc29XZWVrIjo0M30=",
-      "start_time": "2022-10-26T09:00:00Z",
-      "end_time": "2022-10-26T16:00:00Z",
-      "title": "On continue l’aventure Temtem",
-      "canceled_until": null,
-      "category": {
-        "id": "510336",
-        "name": "Temtem"
-      },
-      "is_recurring": true
-    },
-    {
       "id": "eyJzZWdtZW50SUQiOiI2MGRkNjY1ZC0wMjNiLTQzM2UtYjU0NS0wOGM1ZjQ1NWJkZjIiLCJpc29ZZWFyIjoyMDIyLCJpc29XZWVrIjo0M30=",
       "start_time": "2022-10-27T09:00:00Z",
       "end_time": "2022-10-27T16:00:00Z",
@@ -243,6 +231,18 @@
       "category": {
         "id": "512953",
         "name": "Elden Ring"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiIzZDQ2NzViOS0yYTcwLTQ3NDgtOGMxMS0xZjc3YTA2NzUxMzgiLCJpc29ZZWFyIjoyMDIyLCJpc29XZWVrIjo0NX0=",
+      "start_time": "2022-11-10T20:00:00Z",
+      "end_time": "2022-11-10T23:00:00Z",
+      "title": "\"Le jeu de \" sur la chaîne de Aurélien Portehaut",
+      "canceled_until": null,
+      "category": {
+        "id": "509658",
+        "name": "Just Chatting"
       },
       "is_recurring": true
     }
