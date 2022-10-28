@@ -13,30 +13,6 @@
   },
   "schedulers": [
     {
-      "id": "eyJzZWdtZW50SUQiOiI2MGRkNjY1ZC0wMjNiLTQzM2UtYjU0NS0wOGM1ZjQ1NWJkZjIiLCJpc29ZZWFyIjoyMDIyLCJpc29XZWVrIjo0M30=",
-      "start_time": "2022-10-27T09:00:00Z",
-      "end_time": "2022-10-27T16:00:00Z",
-      "title": "On continue le Slowrun Aiguille % no invoc ",
-      "canceled_until": null,
-      "category": {
-        "id": "512953",
-        "name": "Elden Ring"
-      },
-      "is_recurring": true
-    },
-    {
-      "id": "eyJzZWdtZW50SUQiOiIzZDQ2NzViOS0yYTcwLTQ3NDgtOGMxMS0xZjc3YTA2NzUxMzgiLCJpc29ZZWFyIjoyMDIyLCJpc29XZWVrIjo0M30=",
-      "start_time": "2022-10-27T19:00:00Z",
-      "end_time": "2022-10-27T22:00:00Z",
-      "title": "\"Le jeu de \" sur la chaîne de Aurélien Portehaut",
-      "canceled_until": null,
-      "category": {
-        "id": "509658",
-        "name": "Just Chatting"
-      },
-      "is_recurring": true
-    },
-    {
       "id": "eyJzZWdtZW50SUQiOiIxYjljOGQ4YS0xMjAwLTQ2ODMtYjYyOS1kY2JlNjk0YWRlOWYiLCJpc29ZZWFyIjoyMDIyLCJpc29XZWVrIjo0M30=",
       "start_time": "2022-10-28T09:00:00Z",
       "end_time": "2022-10-28T12:00:00Z",
@@ -243,6 +219,30 @@
       "category": {
         "id": "509658",
         "name": "Just Chatting"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiIxYjljOGQ4YS0xMjAwLTQ2ODMtYjYyOS1kY2JlNjk0YWRlOWYiLCJpc29ZZWFyIjoyMDIyLCJpc29XZWVrIjo0NX0=",
+      "start_time": "2022-11-11T10:00:00Z",
+      "end_time": "2022-11-11T13:00:00Z",
+      "title": "Un peu d'Overwatch avé les potes, l'addiction est présente",
+      "canceled_until": null,
+      "category": {
+        "id": "515025",
+        "name": "Overwatch 2"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiIxNGE4YTM3OS0zZmYwLTRhNmUtOWJmMS02MDc4YmQwYTYwMjkiLCJpc29ZZWFyIjoyMDIyLCJpc29XZWVrIjo0NX0=",
+      "start_time": "2022-11-11T13:00:00Z",
+      "end_time": "2022-11-11T17:00:00Z",
+      "title": "Partons à la rescousse des Sparks et sauvons l'univers",
+      "canceled_until": null,
+      "category": {
+        "id": "582372781",
+        "name": "Mario + Rabbids Sparks of Hope"
       },
       "is_recurring": true
     }
