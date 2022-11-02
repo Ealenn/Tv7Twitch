@@ -13,15 +13,6 @@
   },
   "schedulers": [
     {
-      "id": "eyJzZWdtZW50SUQiOiIxNjg1MmIxMy0wZjI4LTQ4NzItYTZmYi0wZTAyMDA4YjNkZWUiLCJpc29ZZWFyIjoyMDIyLCJpc29XZWVrIjo0NH0=",
-      "start_time": "2022-11-01T10:00:00Z",
-      "end_time": "2022-11-01T17:00:00Z",
-      "title": "Multi avé les copaings",
-      "canceled_until": null,
-      "category": null,
-      "is_recurring": true
-    },
-    {
       "id": "eyJzZWdtZW50SUQiOiJiNzUxMTUyOC00NzI0LTQwMzktYTk3Zi04M2I1NzA5ODJiOGYiLCJpc29ZZWFyIjoyMDIyLCJpc29XZWVrIjo0NH0=",
       "start_time": "2022-11-02T10:00:00Z",
       "end_time": "2022-11-02T17:00:00Z",
@@ -231,6 +222,18 @@
       "category": {
         "id": "941530474",
         "name": "Mario Kart 8 Deluxe"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiI1MzUxZWI1OC03ZjM5LTQ3ODgtYmQ1Ni00M2Y0ZjMyMTNlYzgiLCJpc29ZZWFyIjoyMDIyLCJpc29XZWVrIjo0N30=",
+      "start_time": "2022-11-21T10:00:00Z",
+      "end_time": "2022-11-21T16:00:00Z",
+      "title": "Culture & plaisir",
+      "canceled_until": null,
+      "category": {
+        "id": "338715930",
+        "name": "Maitre des Fleurs"
       },
       "is_recurring": true
     }
