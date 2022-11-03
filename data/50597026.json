@@ -13,18 +13,6 @@
   },
   "schedulers": [
     {
-      "id": "eyJzZWdtZW50SUQiOiJiNzUxMTUyOC00NzI0LTQwMzktYTk3Zi04M2I1NzA5ODJiOGYiLCJpc29ZZWFyIjoyMDIyLCJpc29XZWVrIjo0NH0=",
-      "start_time": "2022-11-02T10:00:00Z",
-      "end_time": "2022-11-02T17:00:00Z",
-      "title": "On continue l’aventure Temtem",
-      "canceled_until": null,
-      "category": {
-        "id": "510336",
-        "name": "Temtem"
-      },
-      "is_recurring": true
-    },
-    {
       "id": "eyJzZWdtZW50SUQiOiIyY2U0MWYwMy1hZDAzLTQzYTAtYmQ4Yy1kZjk2YjliNDA0YTkiLCJpc29ZZWFyIjoyMDIyLCJpc29XZWVrIjo0NH0=",
       "start_time": "2022-11-03T15:00:00Z",
       "end_time": "2022-11-03T19:00:00Z",
@@ -235,6 +223,15 @@
         "id": "338715930",
         "name": "Maitre des Fleurs"
       },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiIxNjg1MmIxMy0wZjI4LTQ4NzItYTZmYi0wZTAyMDA4YjNkZWUiLCJpc29ZZWFyIjoyMDIyLCJpc29XZWVrIjo0N30=",
+      "start_time": "2022-11-22T10:00:00Z",
+      "end_time": "2022-11-22T17:00:00Z",
+      "title": "Multi avé les copaings",
+      "canceled_until": null,
+      "category": null,
       "is_recurring": true
     }
   ]
