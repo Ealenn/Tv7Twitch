@@ -13,18 +13,6 @@
   },
   "schedulers": [
     {
-      "id": "eyJzZWdtZW50SUQiOiI4OWRjODI0Yy1mMjZjLTRhOGYtYjQ5MS1iM2FjZTRmY2E1NzciLCJpc29ZZWFyIjoyMDIyLCJpc29XZWVrIjo0NH0=",
-      "start_time": "2022-11-06T12:00:00Z",
-      "end_time": "2022-11-06T16:00:00Z",
-      "title": "Tournoi MK des fleurs ",
-      "canceled_until": null,
-      "category": {
-        "id": "941530474",
-        "name": "Mario Kart 8 Deluxe"
-      },
-      "is_recurring": true
-    },
-    {
       "id": "eyJzZWdtZW50SUQiOiI1MzUxZWI1OC03ZjM5LTQ3ODgtYmQ1Ni00M2Y0ZjMyMTNlYzgiLCJpc29ZZWFyIjoyMDIyLCJpc29XZWVrIjo0NX0=",
       "start_time": "2022-11-07T10:00:00Z",
       "end_time": "2022-11-07T16:00:00Z",
@@ -39,10 +27,25 @@
     {
       "id": "eyJzZWdtZW50SUQiOiIxNjg1MmIxMy0wZjI4LTQ4NzItYTZmYi0wZTAyMDA4YjNkZWUiLCJpc29ZZWFyIjoyMDIyLCJpc29XZWVrIjo0NX0=",
       "start_time": "2022-11-08T10:00:00Z",
-      "end_time": "2022-11-08T17:00:00Z",
-      "title": "Multi avé les copaings",
+      "end_time": "2022-11-08T13:00:00Z",
+      "title": "Mario Party avec Onu, Wingo et Bytell",
       "canceled_until": null,
-      "category": null,
+      "category": {
+        "id": "1068239917",
+        "name": "Mario Party Superstars"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiI0ZGVjYjI1Yi0yYmQzLTQyMzctOTQ5OC01MTAwOGRjODFlYzgiLCJpc29ZZWFyIjoyMDIyLCJpc29XZWVrIjo0NX0=",
+      "start_time": "2022-11-08T13:00:00Z",
+      "end_time": "2022-11-08T17:00:00Z",
+      "title": "L’addiction à Overwatch est présente ",
+      "canceled_until": null,
+      "category": {
+        "id": "515025",
+        "name": "Overwatch 2"
+      },
       "is_recurring": true
     },
     {
@@ -59,34 +62,37 @@
     },
     {
       "id": "eyJzZWdtZW50SUQiOiIyY2U0MWYwMy1hZDAzLTQzYTAtYmQ4Yy1kZjk2YjliNDA0YTkiLCJpc29ZZWFyIjoyMDIyLCJpc29XZWVrIjo0NX0=",
-      "start_time": "2022-11-10T15:00:00Z",
-      "end_time": "2022-11-10T19:00:00Z",
-      "title": "Un peu de Splatoon et de Smaaaaaaash",
-      "canceled_until": null,
-      "category": null,
-      "is_recurring": true
-    },
-    {
-      "id": "eyJzZWdtZW50SUQiOiI4NzU4OGQ1MC1hM2I1LTQ5NGEtYWQ1Yy00Mjk3NTUwZDJhYzIiLCJpc29ZZWFyIjoyMDIyLCJpc29XZWVrIjo0NX0=",
-      "start_time": "2022-11-10T19:00:00Z",
-      "end_time": "2022-11-10T23:00:00Z",
-      "title": "World Friends Series #2 avec plein de gens trop cools ",
+      "start_time": "2022-11-10T10:00:00Z",
+      "end_time": "2022-11-10T13:00:00Z",
+      "title": "Un peu d’Overwatch pour bien commencer la journée ",
       "canceled_until": null,
       "category": {
-        "id": "941530474",
-        "name": "Mario Kart 8 Deluxe"
+        "id": "515025",
+        "name": "Overwatch 2"
       },
       "is_recurring": true
     },
     {
       "id": "eyJzZWdtZW50SUQiOiIxNGE4YTM3OS0zZmYwLTRhNmUtOWJmMS02MDc4YmQwYTYwMjkiLCJpc29ZZWFyIjoyMDIyLCJpc29XZWVrIjo0NX0=",
-      "start_time": "2022-11-11T10:00:00Z",
-      "end_time": "2022-11-11T17:00:00Z",
+      "start_time": "2022-11-10T13:00:00Z",
+      "end_time": "2022-11-10T17:00:00Z",
       "title": "Partons à la rescousse des Sparks et sauvons l'univers",
       "canceled_until": null,
       "category": {
         "id": "582372781",
         "name": "Mario + Rabbids Sparks of Hope"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiI4NzU4OGQ1MC1hM2I1LTQ5NGEtYWQ1Yy00Mjk3NTUwZDJhYzIiLCJpc29ZZWFyIjoyMDIyLCJpc29XZWVrIjo0NX0=",
+      "start_time": "2022-11-11T19:00:00Z",
+      "end_time": "2022-11-11T23:00:00Z",
+      "title": "React au Tour de France du jeu vidéo avec Riv, Ultia et Manu (donation goal Zevent)",
+      "canceled_until": null,
+      "category": {
+        "id": "509658",
+        "name": "Just Chatting"
       },
       "is_recurring": true
     },
@@ -117,10 +123,25 @@
     {
       "id": "eyJzZWdtZW50SUQiOiIxNjg1MmIxMy0wZjI4LTQ4NzItYTZmYi0wZTAyMDA4YjNkZWUiLCJpc29ZZWFyIjoyMDIyLCJpc29XZWVrIjo0Nn0=",
       "start_time": "2022-11-15T10:00:00Z",
-      "end_time": "2022-11-15T17:00:00Z",
-      "title": "Multi avé les copaings",
+      "end_time": "2022-11-15T13:00:00Z",
+      "title": "Mario Party avec Onu, Wingo et Bytell",
       "canceled_until": null,
-      "category": null,
+      "category": {
+        "id": "1068239917",
+        "name": "Mario Party Superstars"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiI0ZGVjYjI1Yi0yYmQzLTQyMzctOTQ5OC01MTAwOGRjODFlYzgiLCJpc29ZZWFyIjoyMDIyLCJpc29XZWVrIjo0Nn0=",
+      "start_time": "2022-11-15T13:00:00Z",
+      "end_time": "2022-11-15T17:00:00Z",
+      "title": "L’addiction à Overwatch est présente ",
+      "canceled_until": null,
+      "category": {
+        "id": "515025",
+        "name": "Overwatch 2"
+      },
       "is_recurring": true
     },
     {
@@ -137,34 +158,37 @@
     },
     {
       "id": "eyJzZWdtZW50SUQiOiIyY2U0MWYwMy1hZDAzLTQzYTAtYmQ4Yy1kZjk2YjliNDA0YTkiLCJpc29ZZWFyIjoyMDIyLCJpc29XZWVrIjo0Nn0=",
-      "start_time": "2022-11-17T15:00:00Z",
-      "end_time": "2022-11-17T19:00:00Z",
-      "title": "Un peu de Splatoon et de Smaaaaaaash",
-      "canceled_until": null,
-      "category": null,
-      "is_recurring": true
-    },
-    {
-      "id": "eyJzZWdtZW50SUQiOiI4NzU4OGQ1MC1hM2I1LTQ5NGEtYWQ1Yy00Mjk3NTUwZDJhYzIiLCJpc29ZZWFyIjoyMDIyLCJpc29XZWVrIjo0Nn0=",
-      "start_time": "2022-11-17T19:00:00Z",
-      "end_time": "2022-11-17T23:00:00Z",
-      "title": "World Friends Series #2 avec plein de gens trop cools ",
+      "start_time": "2022-11-17T10:00:00Z",
+      "end_time": "2022-11-17T13:00:00Z",
+      "title": "Un peu d’Overwatch pour bien commencer la journée ",
       "canceled_until": null,
       "category": {
-        "id": "941530474",
-        "name": "Mario Kart 8 Deluxe"
+        "id": "515025",
+        "name": "Overwatch 2"
       },
       "is_recurring": true
     },
     {
       "id": "eyJzZWdtZW50SUQiOiIxNGE4YTM3OS0zZmYwLTRhNmUtOWJmMS02MDc4YmQwYTYwMjkiLCJpc29ZZWFyIjoyMDIyLCJpc29XZWVrIjo0Nn0=",
-      "start_time": "2022-11-18T10:00:00Z",
-      "end_time": "2022-11-18T17:00:00Z",
+      "start_time": "2022-11-17T13:00:00Z",
+      "end_time": "2022-11-17T17:00:00Z",
       "title": "Partons à la rescousse des Sparks et sauvons l'univers",
       "canceled_until": null,
       "category": {
         "id": "582372781",
         "name": "Mario + Rabbids Sparks of Hope"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiI4NzU4OGQ1MC1hM2I1LTQ5NGEtYWQ1Yy00Mjk3NTUwZDJhYzIiLCJpc29ZZWFyIjoyMDIyLCJpc29XZWVrIjo0Nn0=",
+      "start_time": "2022-11-18T19:00:00Z",
+      "end_time": "2022-11-18T23:00:00Z",
+      "title": "React au Tour de France du jeu vidéo avec Riv, Ultia et Manu (donation goal Zevent)",
+      "canceled_until": null,
+      "category": {
+        "id": "509658",
+        "name": "Just Chatting"
       },
       "is_recurring": true
     },
@@ -195,10 +219,25 @@
     {
       "id": "eyJzZWdtZW50SUQiOiIxNjg1MmIxMy0wZjI4LTQ4NzItYTZmYi0wZTAyMDA4YjNkZWUiLCJpc29ZZWFyIjoyMDIyLCJpc29XZWVrIjo0N30=",
       "start_time": "2022-11-22T10:00:00Z",
-      "end_time": "2022-11-22T17:00:00Z",
-      "title": "Multi avé les copaings",
+      "end_time": "2022-11-22T13:00:00Z",
+      "title": "Mario Party avec Onu, Wingo et Bytell",
       "canceled_until": null,
-      "category": null,
+      "category": {
+        "id": "1068239917",
+        "name": "Mario Party Superstars"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiI0ZGVjYjI1Yi0yYmQzLTQyMzctOTQ5OC01MTAwOGRjODFlYzgiLCJpc29ZZWFyIjoyMDIyLCJpc29XZWVrIjo0N30=",
+      "start_time": "2022-11-22T13:00:00Z",
+      "end_time": "2022-11-22T17:00:00Z",
+      "title": "L’addiction à Overwatch est présente ",
+      "canceled_until": null,
+      "category": {
+        "id": "515025",
+        "name": "Overwatch 2"
+      },
       "is_recurring": true
     },
     {
@@ -210,27 +249,6 @@
       "category": {
         "id": "510336",
         "name": "Temtem"
-      },
-      "is_recurring": true
-    },
-    {
-      "id": "eyJzZWdtZW50SUQiOiIyY2U0MWYwMy1hZDAzLTQzYTAtYmQ4Yy1kZjk2YjliNDA0YTkiLCJpc29ZZWFyIjoyMDIyLCJpc29XZWVrIjo0N30=",
-      "start_time": "2022-11-24T15:00:00Z",
-      "end_time": "2022-11-24T19:00:00Z",
-      "title": "Un peu de Splatoon et de Smaaaaaaash",
-      "canceled_until": null,
-      "category": null,
-      "is_recurring": true
-    },
-    {
-      "id": "eyJzZWdtZW50SUQiOiI4NzU4OGQ1MC1hM2I1LTQ5NGEtYWQ1Yy00Mjk3NTUwZDJhYzIiLCJpc29ZZWFyIjoyMDIyLCJpc29XZWVrIjo0N30=",
-      "start_time": "2022-11-24T19:00:00Z",
-      "end_time": "2022-11-24T23:00:00Z",
-      "title": "World Friends Series #2 avec plein de gens trop cools ",
-      "canceled_until": null,
-      "category": {
-        "id": "941530474",
-        "name": "Mario Kart 8 Deluxe"
       },
       "is_recurring": true
     }
