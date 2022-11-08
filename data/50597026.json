@@ -13,18 +13,6 @@
   },
   "schedulers": [
     {
-      "id": "eyJzZWdtZW50SUQiOiI1MzUxZWI1OC03ZjM5LTQ3ODgtYmQ1Ni00M2Y0ZjMyMTNlYzgiLCJpc29ZZWFyIjoyMDIyLCJpc29XZWVrIjo0NX0=",
-      "start_time": "2022-11-07T10:00:00Z",
-      "end_time": "2022-11-07T16:00:00Z",
-      "title": "Culture & plaisir",
-      "canceled_until": null,
-      "category": {
-        "id": "338715930",
-        "name": "Maitre des Fleurs"
-      },
-      "is_recurring": true
-    },
-    {
       "id": "eyJzZWdtZW50SUQiOiIxNjg1MmIxMy0wZjI4LTQ4NzItYTZmYi0wZTAyMDA4YjNkZWUiLCJpc29ZZWFyIjoyMDIyLCJpc29XZWVrIjo0NX0=",
       "start_time": "2022-11-08T10:00:00Z",
       "end_time": "2022-11-08T13:00:00Z",
@@ -249,6 +237,18 @@
       "category": {
         "id": "510336",
         "name": "Temtem"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiIyY2U0MWYwMy1hZDAzLTQzYTAtYmQ4Yy1kZjk2YjliNDA0YTkiLCJpc29ZZWFyIjoyMDIyLCJpc29XZWVrIjo0N30=",
+      "start_time": "2022-11-24T10:00:00Z",
+      "end_time": "2022-11-24T13:00:00Z",
+      "title": "Un peu d’Overwatch pour bien commencer la journée ",
+      "canceled_until": null,
+      "category": {
+        "id": "515025",
+        "name": "Overwatch 2"
       },
       "is_recurring": true
     }

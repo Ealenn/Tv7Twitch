@@ -7,16 +7,28 @@
     "broadcaster_type": "partner",
     "description": "",
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/3cdae7df-600c-4833-8dfe-8d2abc5a3b25-profile_image-300x300.png",
-    "offline_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/14b31485-6447-49da-bc40-10b40f58429b-channel_offline_image-1920x1080.png",
+    "offline_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/8cb3a3fc-2311-4011-9536-b59c1a995220-channel_offline_image-1920x1080.png",
     "view_count": 121218348,
     "created_at": "2013-02-05T19:20:22Z"
   },
   "schedulers": [
     {
-      "id": "eyJzZWdtZW50SUQiOiI1OWVkNDEyMy0zNjM1LTQxMzUtYmQxNi04ZmZlMjQyNGE5Y2YiLCJpc29ZZWFyIjoyMDIyLCJpc29XZWVrIjo0NX0=",
-      "start_time": "2022-11-07T18:30:00Z",
-      "end_time": "2022-11-07T19:30:00Z",
-      "title": "PRÉ-LIVE",
+      "id": "eyJzZWdtZW50SUQiOiI5NGIyNmE1YS04ODAyLTQzNDktOGJkYi1kY2Q2MGNlYThiZDkiLCJpc29ZZWFyIjoyMDIyLCJpc29XZWVrIjo0NX0=",
+      "start_time": "2022-11-08T19:00:00Z",
+      "end_time": "2022-11-08T21:30:00Z",
+      "title": "POPCORN AVEC MISTER MV, ANGLE DROIT, ZACK NANI & PP GARCIA",
+      "canceled_until": null,
+      "category": {
+        "id": "417752",
+        "name": "Talk Shows & Podcasts"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiI2NzYyOWQ4YS0wMmU5LTQzMDQtYmFjZC0yODdhZmQ5NTAzZmUiLCJpc29ZZWFyIjoyMDIyLCJpc29XZWVrIjo0NX0=",
+      "start_time": "2022-11-09T11:00:00Z",
+      "end_time": "2022-11-09T13:00:00Z",
+      "title": "LA PAUSE DÉJ'",
       "canceled_until": null,
       "category": {
         "id": "509658",
@@ -25,28 +37,16 @@
       "is_recurring": true
     },
     {
-      "id": "eyJzZWdtZW50SUQiOiJiMTJkNzk3OS03MGE3LTQwNzktYmE4Mi02NWY5NzAxZmY5ZjMiLCJpc29ZZWFyIjoyMDIyLCJpc29XZWVrIjo0NX0=",
-      "start_time": "2022-11-07T19:30:00Z",
-      "end_time": "2022-11-08T01:00:00Z",
-      "title": "Live Horreur 👻",
+      "id": "eyJzZWdtZW50SUQiOiJiMGJhNzFjZS03YTk1LTQ3NzYtODdhOS1iNTdhZmJiN2UwNjYiLCJpc29ZZWFyIjoyMDIyLCJpc29XZWVrIjo0NX0=",
+      "start_time": "2022-11-11T13:00:00Z",
+      "end_time": "2022-11-11T18:00:00Z",
+      "title": "STREAM LIBRE",
       "canceled_until": null,
       "category": {
-        "id": "494082",
-        "name": "Visage"
+        "id": "509658",
+        "name": "Just Chatting"
       },
-      "is_recurring": true
-    },
-    {
-      "id": "eyJzZWdtZW50SUQiOiI5NGIyNmE1YS04ODAyLTQzNDktOGJkYi1kY2Q2MGNlYThiZDkiLCJpc29ZZWFyIjoyMDIyLCJpc29XZWVrIjo0NX0=",
-      "start_time": "2022-11-08T19:00:00Z",
-      "end_time": "2022-11-08T21:30:00Z",
-      "title": "POPCORN AVEC BAGHERA, POULPE & RIVENZI (INVITÉ EN VISIO : AMINE)",
-      "canceled_until": null,
-      "category": {
-        "id": "417752",
-        "name": "Talk Shows & Podcasts"
-      },
-      "is_recurring": true
+      "is_recurring": false
     },
     {
       "id": "eyJzZWdtZW50SUQiOiI1OWVkNDEyMy0zNjM1LTQxMzUtYmQxNi04ZmZlMjQyNGE5Y2YiLCJpc29ZZWFyIjoyMDIyLCJpc29XZWVrIjo0Nn0=",
@@ -64,11 +64,11 @@
       "id": "eyJzZWdtZW50SUQiOiJiMTJkNzk3OS03MGE3LTQwNzktYmE4Mi02NWY5NzAxZmY5ZjMiLCJpc29ZZWFyIjoyMDIyLCJpc29XZWVrIjo0Nn0=",
       "start_time": "2022-11-14T19:30:00Z",
       "end_time": "2022-11-15T01:00:00Z",
-      "title": "Live Horreur 👻",
+      "title": "FC SILMI ",
       "canceled_until": null,
       "category": {
-        "id": "494082",
-        "name": "Visage"
+        "id": "1745202732",
+        "name": "FIFA 23"
       },
       "is_recurring": true
     },
@@ -76,11 +76,23 @@
       "id": "eyJzZWdtZW50SUQiOiI5NGIyNmE1YS04ODAyLTQzNDktOGJkYi1kY2Q2MGNlYThiZDkiLCJpc29ZZWFyIjoyMDIyLCJpc29XZWVrIjo0Nn0=",
       "start_time": "2022-11-15T19:00:00Z",
       "end_time": "2022-11-15T21:30:00Z",
-      "title": "POPCORN AVEC BAGHERA, POULPE & RIVENZI (INVITÉ EN VISIO : AMINE)",
+      "title": "POPCORN AVEC MISTER MV, ANGLE DROIT, ZACK NANI & PP GARCIA",
       "canceled_until": null,
       "category": {
         "id": "417752",
         "name": "Talk Shows & Podcasts"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiI2NzYyOWQ4YS0wMmU5LTQzMDQtYmFjZC0yODdhZmQ5NTAzZmUiLCJpc29ZZWFyIjoyMDIyLCJpc29XZWVrIjo0Nn0=",
+      "start_time": "2022-11-16T11:00:00Z",
+      "end_time": "2022-11-16T13:00:00Z",
+      "title": "LA PAUSE DÉJ'",
+      "canceled_until": null,
+      "category": {
+        "id": "509658",
+        "name": "Just Chatting"
       },
       "is_recurring": true
     },
@@ -100,11 +112,11 @@
       "id": "eyJzZWdtZW50SUQiOiJiMTJkNzk3OS03MGE3LTQwNzktYmE4Mi02NWY5NzAxZmY5ZjMiLCJpc29ZZWFyIjoyMDIyLCJpc29XZWVrIjo0N30=",
       "start_time": "2022-11-21T19:30:00Z",
       "end_time": "2022-11-22T01:00:00Z",
-      "title": "Live Horreur 👻",
+      "title": "FC SILMI ",
       "canceled_until": null,
       "category": {
-        "id": "494082",
-        "name": "Visage"
+        "id": "1745202732",
+        "name": "FIFA 23"
       },
       "is_recurring": true
     },
@@ -112,11 +124,23 @@
       "id": "eyJzZWdtZW50SUQiOiI5NGIyNmE1YS04ODAyLTQzNDktOGJkYi1kY2Q2MGNlYThiZDkiLCJpc29ZZWFyIjoyMDIyLCJpc29XZWVrIjo0N30=",
       "start_time": "2022-11-22T19:00:00Z",
       "end_time": "2022-11-22T21:30:00Z",
-      "title": "POPCORN AVEC BAGHERA, POULPE & RIVENZI (INVITÉ EN VISIO : AMINE)",
+      "title": "POPCORN AVEC MISTER MV, ANGLE DROIT, ZACK NANI & PP GARCIA",
       "canceled_until": null,
       "category": {
         "id": "417752",
         "name": "Talk Shows & Podcasts"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiI2NzYyOWQ4YS0wMmU5LTQzMDQtYmFjZC0yODdhZmQ5NTAzZmUiLCJpc29ZZWFyIjoyMDIyLCJpc29XZWVrIjo0N30=",
+      "start_time": "2022-11-23T11:00:00Z",
+      "end_time": "2022-11-23T13:00:00Z",
+      "title": "LA PAUSE DÉJ'",
+      "canceled_until": null,
+      "category": {
+        "id": "509658",
+        "name": "Just Chatting"
       },
       "is_recurring": true
     },
@@ -136,11 +160,11 @@
       "id": "eyJzZWdtZW50SUQiOiJiMTJkNzk3OS03MGE3LTQwNzktYmE4Mi02NWY5NzAxZmY5ZjMiLCJpc29ZZWFyIjoyMDIyLCJpc29XZWVrIjo0OH0=",
       "start_time": "2022-11-28T19:30:00Z",
       "end_time": "2022-11-29T01:00:00Z",
-      "title": "Live Horreur 👻",
+      "title": "FC SILMI ",
       "canceled_until": null,
       "category": {
-        "id": "494082",
-        "name": "Visage"
+        "id": "1745202732",
+        "name": "FIFA 23"
       },
       "is_recurring": true
     },
@@ -148,11 +172,23 @@
       "id": "eyJzZWdtZW50SUQiOiI5NGIyNmE1YS04ODAyLTQzNDktOGJkYi1kY2Q2MGNlYThiZDkiLCJpc29ZZWFyIjoyMDIyLCJpc29XZWVrIjo0OH0=",
       "start_time": "2022-11-29T19:00:00Z",
       "end_time": "2022-11-29T21:30:00Z",
-      "title": "POPCORN AVEC BAGHERA, POULPE & RIVENZI (INVITÉ EN VISIO : AMINE)",
+      "title": "POPCORN AVEC MISTER MV, ANGLE DROIT, ZACK NANI & PP GARCIA",
       "canceled_until": null,
       "category": {
         "id": "417752",
         "name": "Talk Shows & Podcasts"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiI2NzYyOWQ4YS0wMmU5LTQzMDQtYmFjZC0yODdhZmQ5NTAzZmUiLCJpc29ZZWFyIjoyMDIyLCJpc29XZWVrIjo0OH0=",
+      "start_time": "2022-11-30T11:00:00Z",
+      "end_time": "2022-11-30T13:00:00Z",
+      "title": "LA PAUSE DÉJ'",
+      "canceled_until": null,
+      "category": {
+        "id": "509658",
+        "name": "Just Chatting"
       },
       "is_recurring": true
     },
@@ -172,11 +208,11 @@
       "id": "eyJzZWdtZW50SUQiOiJiMTJkNzk3OS03MGE3LTQwNzktYmE4Mi02NWY5NzAxZmY5ZjMiLCJpc29ZZWFyIjoyMDIyLCJpc29XZWVrIjo0OX0=",
       "start_time": "2022-12-05T19:30:00Z",
       "end_time": "2022-12-06T01:00:00Z",
-      "title": "Live Horreur 👻",
+      "title": "FC SILMI ",
       "canceled_until": null,
       "category": {
-        "id": "494082",
-        "name": "Visage"
+        "id": "1745202732",
+        "name": "FIFA 23"
       },
       "is_recurring": true
     },
@@ -184,11 +220,23 @@
       "id": "eyJzZWdtZW50SUQiOiI5NGIyNmE1YS04ODAyLTQzNDktOGJkYi1kY2Q2MGNlYThiZDkiLCJpc29ZZWFyIjoyMDIyLCJpc29XZWVrIjo0OX0=",
       "start_time": "2022-12-06T19:00:00Z",
       "end_time": "2022-12-06T21:30:00Z",
-      "title": "POPCORN AVEC BAGHERA, POULPE & RIVENZI (INVITÉ EN VISIO : AMINE)",
+      "title": "POPCORN AVEC MISTER MV, ANGLE DROIT, ZACK NANI & PP GARCIA",
       "canceled_until": null,
       "category": {
         "id": "417752",
         "name": "Talk Shows & Podcasts"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiI2NzYyOWQ4YS0wMmU5LTQzMDQtYmFjZC0yODdhZmQ5NTAzZmUiLCJpc29ZZWFyIjoyMDIyLCJpc29XZWVrIjo0OX0=",
+      "start_time": "2022-12-07T11:00:00Z",
+      "end_time": "2022-12-07T13:00:00Z",
+      "title": "LA PAUSE DÉJ'",
+      "canceled_until": null,
+      "category": {
+        "id": "509658",
+        "name": "Just Chatting"
       },
       "is_recurring": true
     },
@@ -201,54 +249,6 @@
       "category": {
         "id": "509658",
         "name": "Just Chatting"
-      },
-      "is_recurring": true
-    },
-    {
-      "id": "eyJzZWdtZW50SUQiOiJiMTJkNzk3OS03MGE3LTQwNzktYmE4Mi02NWY5NzAxZmY5ZjMiLCJpc29ZZWFyIjoyMDIyLCJpc29XZWVrIjo1MH0=",
-      "start_time": "2022-12-12T19:30:00Z",
-      "end_time": "2022-12-13T01:00:00Z",
-      "title": "Live Horreur 👻",
-      "canceled_until": null,
-      "category": {
-        "id": "494082",
-        "name": "Visage"
-      },
-      "is_recurring": true
-    },
-    {
-      "id": "eyJzZWdtZW50SUQiOiI5NGIyNmE1YS04ODAyLTQzNDktOGJkYi1kY2Q2MGNlYThiZDkiLCJpc29ZZWFyIjoyMDIyLCJpc29XZWVrIjo1MH0=",
-      "start_time": "2022-12-13T19:00:00Z",
-      "end_time": "2022-12-13T21:30:00Z",
-      "title": "POPCORN AVEC BAGHERA, POULPE & RIVENZI (INVITÉ EN VISIO : AMINE)",
-      "canceled_until": null,
-      "category": {
-        "id": "417752",
-        "name": "Talk Shows & Podcasts"
-      },
-      "is_recurring": true
-    },
-    {
-      "id": "eyJzZWdtZW50SUQiOiI1OWVkNDEyMy0zNjM1LTQxMzUtYmQxNi04ZmZlMjQyNGE5Y2YiLCJpc29ZZWFyIjoyMDIyLCJpc29XZWVrIjo1MX0=",
-      "start_time": "2022-12-19T18:30:00Z",
-      "end_time": "2022-12-19T19:30:00Z",
-      "title": "PRÉ-LIVE",
-      "canceled_until": null,
-      "category": {
-        "id": "509658",
-        "name": "Just Chatting"
-      },
-      "is_recurring": true
-    },
-    {
-      "id": "eyJzZWdtZW50SUQiOiJiMTJkNzk3OS03MGE3LTQwNzktYmE4Mi02NWY5NzAxZmY5ZjMiLCJpc29ZZWFyIjoyMDIyLCJpc29XZWVrIjo1MX0=",
-      "start_time": "2022-12-19T19:30:00Z",
-      "end_time": "2022-12-20T01:00:00Z",
-      "title": "Live Horreur 👻",
-      "canceled_until": null,
-      "category": {
-        "id": "494082",
-        "name": "Visage"
       },
       "is_recurring": true
     }
