@@ -13,18 +13,6 @@
   },
   "schedulers": [
     {
-      "id": "eyJzZWdtZW50SUQiOiIwZTIyZGZmNC1kZDM3LTQ0YjAtOTBiNi05MDFkYmMxNmM5NDYiLCJpc29ZZWFyIjoyMDIyLCJpc29XZWVrIjo0NX0=",
-      "start_time": "2022-11-09T11:00:00Z",
-      "end_time": "2022-11-09T12:30:00Z",
-      "title": "Déjeuner thématique : spatial et phénomènes hydrologiques extrêmes",
-      "canceled_until": null,
-      "category": {
-        "id": "509670",
-        "name": "Science & Technology"
-      },
-      "is_recurring": false
-    },
-    {
       "id": "eyJzZWdtZW50SUQiOiIyOTQ1ZjI3Ny1jMjkyLTQ2YmMtYjcxNS0zN2M2ZTgyYjkwNjMiLCJpc29ZZWFyIjoyMDIyLCJpc29XZWVrIjo0Nn0=",
       "start_time": "2022-11-16T15:30:00Z",
       "end_time": "2022-11-16T17:00:00Z",
