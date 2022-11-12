@@ -13,18 +13,6 @@
   },
   "schedulers": [
     {
-      "id": "eyJzZWdtZW50SUQiOiI4NzU4OGQ1MC1hM2I1LTQ5NGEtYWQ1Yy00Mjk3NTUwZDJhYzIiLCJpc29ZZWFyIjoyMDIyLCJpc29XZWVrIjo0NX0=",
-      "start_time": "2022-11-11T19:00:00Z",
-      "end_time": "2022-11-11T23:00:00Z",
-      "title": "React au Tour de France du jeu vidéo avec Riv, Ultia et Manu (donation goal Zevent)",
-      "canceled_until": null,
-      "category": {
-        "id": "509658",
-        "name": "Just Chatting"
-      },
-      "is_recurring": true
-    },
-    {
       "id": "eyJzZWdtZW50SUQiOiI4OWRjODI0Yy1mMjZjLTRhOGYtYjQ5MS1iM2FjZTRmY2E1NzciLCJpc29ZZWFyIjoyMDIyLCJpc29XZWVrIjo0NX0=",
       "start_time": "2022-11-13T12:00:00Z",
       "end_time": "2022-11-13T16:00:00Z",
@@ -249,6 +237,18 @@
       "category": {
         "id": "1068239917",
         "name": "Mario Party Superstars"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiI0ZGVjYjI1Yi0yYmQzLTQyMzctOTQ5OC01MTAwOGRjODFlYzgiLCJpc29ZZWFyIjoyMDIyLCJpc29XZWVrIjo0OH0=",
+      "start_time": "2022-11-29T13:00:00Z",
+      "end_time": "2022-11-29T17:00:00Z",
+      "title": "L’addiction à Overwatch est présente ",
+      "canceled_until": null,
+      "category": {
+        "id": "515025",
+        "name": "Overwatch 2"
       },
       "is_recurring": true
     }
