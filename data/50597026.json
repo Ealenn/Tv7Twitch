@@ -13,18 +13,6 @@
   },
   "schedulers": [
     {
-      "id": "eyJzZWdtZW50SUQiOiI1MzUxZWI1OC03ZjM5LTQ3ODgtYmQ1Ni00M2Y0ZjMyMTNlYzgiLCJpc29ZZWFyIjoyMDIyLCJpc29XZWVrIjo0Nn0=",
-      "start_time": "2022-11-14T10:00:00Z",
-      "end_time": "2022-11-14T17:00:00Z",
-      "title": "Culture & plaisir",
-      "canceled_until": null,
-      "category": {
-        "id": "338715930",
-        "name": "Maitre des Fleurs"
-      },
-      "is_recurring": true
-    },
-    {
       "id": "eyJzZWdtZW50SUQiOiIxNjg1MmIxMy0wZjI4LTQ4NzItYTZmYi0wZTAyMDA4YjNkZWUiLCJpc29ZZWFyIjoyMDIyLCJpc29XZWVrIjo0Nn0=",
       "start_time": "2022-11-15T10:00:00Z",
       "end_time": "2022-11-15T13:00:00Z",
@@ -249,6 +237,18 @@
       "category": {
         "id": "417752",
         "name": "Talk Shows & Podcasts"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiJiNzUxMTUyOC00NzI0LTQwMzktYTk3Zi04M2I1NzA5ODJiOGYiLCJpc29ZZWFyIjoyMDIyLCJpc29XZWVrIjo0OH0=",
+      "start_time": "2022-11-30T10:00:00Z",
+      "end_time": "2022-11-30T17:00:00Z",
+      "title": "On continue l’aventure Temtem",
+      "canceled_until": null,
+      "category": {
+        "id": "510336",
+        "name": "Temtem"
       },
       "is_recurring": true
     }
