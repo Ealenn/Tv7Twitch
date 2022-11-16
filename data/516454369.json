@@ -13,6 +13,18 @@
   },
   "schedulers": [
     {
+      "id": "eyJzZWdtZW50SUQiOiI5Njc2NjJhNS1hNDFlLTQ5MDAtYTY2NC1jNWY3MzZmZGU0YTIiLCJpc29ZZWFyIjoyMDIyLCJpc29XZWVrIjo0Nn0=",
+      "start_time": "2022-11-16T05:30:00Z",
+      "end_time": "2022-11-16T09:30:00Z",
+      "title": "On regarde le lancement de la mission Artémis",
+      "canceled_until": null,
+      "category": {
+        "id": "509670",
+        "name": "Science & Technology"
+      },
+      "is_recurring": false
+    },
+    {
       "id": "eyJzZWdtZW50SUQiOiIyOTQ1ZjI3Ny1jMjkyLTQ2YmMtYjcxNS0zN2M2ZTgyYjkwNjMiLCJpc29ZZWFyIjoyMDIyLCJpc29XZWVrIjo0Nn0=",
       "start_time": "2022-11-16T15:30:00Z",
       "end_time": "2022-11-16T17:00:00Z",
@@ -21,6 +33,18 @@
       "category": {
         "id": "509670",
         "name": "Science & Technology"
+      },
+      "is_recurring": false
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiIxZjA2MjY2Zi0zZDk5LTQ3ZjctOWMxNy1lNjBhZWVmZTQ1ZDYiLCJpc29ZZWFyIjoyMDIyLCJpc29XZWVrIjo0N30=",
+      "start_time": "2022-11-22T19:00:00Z",
+      "end_time": "2022-11-22T21:00:00Z",
+      "title": "Soirée gaming : Out there avec FibreTigre !",
+      "canceled_until": null,
+      "category": {
+        "id": "459781",
+        "name": "Out There"
       },
       "is_recurring": false
     }

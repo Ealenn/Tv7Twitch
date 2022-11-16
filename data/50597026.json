@@ -13,42 +13,6 @@
   },
   "schedulers": [
     {
-      "id": "eyJzZWdtZW50SUQiOiIxNjg1MmIxMy0wZjI4LTQ4NzItYTZmYi0wZTAyMDA4YjNkZWUiLCJpc29ZZWFyIjoyMDIyLCJpc29XZWVrIjo0Nn0=",
-      "start_time": "2022-11-15T10:00:00Z",
-      "end_time": "2022-11-15T13:00:00Z",
-      "title": "Mario Party avec Onu, Wingo et Bytell",
-      "canceled_until": null,
-      "category": {
-        "id": "1068239917",
-        "name": "Mario Party Superstars"
-      },
-      "is_recurring": true
-    },
-    {
-      "id": "eyJzZWdtZW50SUQiOiI0ZGVjYjI1Yi0yYmQzLTQyMzctOTQ5OC01MTAwOGRjODFlYzgiLCJpc29ZZWFyIjoyMDIyLCJpc29XZWVrIjo0Nn0=",
-      "start_time": "2022-11-15T13:00:00Z",
-      "end_time": "2022-11-15T16:00:00Z",
-      "title": "L’addiction à Overwatch est présente ",
-      "canceled_until": null,
-      "category": {
-        "id": "515025",
-        "name": "Overwatch 2"
-      },
-      "is_recurring": true
-    },
-    {
-      "id": "eyJzZWdtZW50SUQiOiJkODUyOWQ1Zi04MTA1LTRjZTAtYWIzYi1lMWE1YzVkYTU3NmUiLCJpc29ZZWFyIjoyMDIyLCJpc29XZWVrIjo0Nn0=",
-      "start_time": "2022-11-15T19:00:00Z",
-      "end_time": "2022-11-15T21:00:00Z",
-      "title": "Popcorn sur la chaîne de Domingo",
-      "canceled_until": null,
-      "category": {
-        "id": "417752",
-        "name": "Talk Shows & Podcasts"
-      },
-      "is_recurring": true
-    },
-    {
       "id": "eyJzZWdtZW50SUQiOiJiNzUxMTUyOC00NzI0LTQwMzktYTk3Zi04M2I1NzA5ODJiOGYiLCJpc29ZZWFyIjoyMDIyLCJpc29XZWVrIjo0Nn0=",
       "start_time": "2022-11-16T10:00:00Z",
       "end_time": "2022-11-16T17:00:00Z",
@@ -92,7 +56,7 @@
       "canceled_until": null,
       "category": {
         "id": "670867987",
-        "name": "Pokémon Scarlet"
+        "name": "Pokémon Scarlet/Violet"
       },
       "is_recurring": true
     },
@@ -188,7 +152,7 @@
       "canceled_until": null,
       "category": {
         "id": "670867987",
-        "name": "Pokémon Scarlet"
+        "name": "Pokémon Scarlet/Violet"
       },
       "is_recurring": true
     },
@@ -249,6 +213,42 @@
       "category": {
         "id": "510336",
         "name": "Temtem"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiIyY2U0MWYwMy1hZDAzLTQzYTAtYmQ4Yy1kZjk2YjliNDA0YTkiLCJpc29ZZWFyIjoyMDIyLCJpc29XZWVrIjo0OH0=",
+      "start_time": "2022-12-01T10:00:00Z",
+      "end_time": "2022-12-01T13:00:00Z",
+      "title": "On ouvre des boosters et on joue aux cartes",
+      "canceled_until": null,
+      "category": {
+        "id": "32634",
+        "name": "Pokémon Trading Card Game Online"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiIxNGE4YTM3OS0zZmYwLTRhNmUtOWJmMS02MDc4YmQwYTYwMjkiLCJpc29ZZWFyIjoyMDIyLCJpc29XZWVrIjo0OH0=",
+      "start_time": "2022-12-01T13:00:00Z",
+      "end_time": "2022-12-01T17:00:00Z",
+      "title": "Partons à la rescousse des Sparks et sauvons l'univers",
+      "canceled_until": null,
+      "category": {
+        "id": "582372781",
+        "name": "Mario + Rabbids Sparks of Hope"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiI4NzU4OGQ1MC1hM2I1LTQ5NGEtYWQ1Yy00Mjk3NTUwZDJhYzIiLCJpc29ZZWFyIjoyMDIyLCJpc29XZWVrIjo0OH0=",
+      "start_time": "2022-12-02T10:00:00Z",
+      "end_time": "2022-12-02T17:00:00Z",
+      "title": "OMG LE NOUVEAU POKÉMON ",
+      "canceled_until": null,
+      "category": {
+        "id": "670867987",
+        "name": "Pokémon Scarlet/Violet"
       },
       "is_recurring": true
     }
