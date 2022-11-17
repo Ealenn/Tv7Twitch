@@ -7,35 +7,11 @@
     "broadcaster_type": "partner",
     "description": "Les émissions du CNES, le Centre National d'Études Spatiales. ",
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/05b8536b-1a8c-4a37-b4ce-230aae35bfec-profile_image-300x300.png",
-    "offline_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/ee3354ff-2625-4375-bd54-eb25ba7b0d0f-channel_offline_image-1920x1080.png",
+    "offline_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/93282682-58a5-4fc8-bf77-95eff3f3212f-channel_offline_image-1920x1080.png",
     "view_count": 731914,
     "created_at": "2020-04-18T14:49:41Z"
   },
   "schedulers": [
-    {
-      "id": "eyJzZWdtZW50SUQiOiI5Njc2NjJhNS1hNDFlLTQ5MDAtYTY2NC1jNWY3MzZmZGU0YTIiLCJpc29ZZWFyIjoyMDIyLCJpc29XZWVrIjo0Nn0=",
-      "start_time": "2022-11-16T05:30:00Z",
-      "end_time": "2022-11-16T09:30:00Z",
-      "title": "On regarde le lancement de la mission Artémis",
-      "canceled_until": null,
-      "category": {
-        "id": "509670",
-        "name": "Science & Technology"
-      },
-      "is_recurring": false
-    },
-    {
-      "id": "eyJzZWdtZW50SUQiOiIyOTQ1ZjI3Ny1jMjkyLTQ2YmMtYjcxNS0zN2M2ZTgyYjkwNjMiLCJpc29ZZWFyIjoyMDIyLCJpc29XZWVrIjo0Nn0=",
-      "start_time": "2022-11-16T15:30:00Z",
-      "end_time": "2022-11-16T17:00:00Z",
-      "title": "Les métiers du spatial",
-      "canceled_until": null,
-      "category": {
-        "id": "509670",
-        "name": "Science & Technology"
-      },
-      "is_recurring": false
-    },
     {
       "id": "eyJzZWdtZW50SUQiOiIxZjA2MjY2Zi0zZDk5LTQ3ZjctOWMxNy1lNjBhZWVmZTQ1ZDYiLCJpc29ZZWFyIjoyMDIyLCJpc29XZWVrIjo0N30=",
       "start_time": "2022-11-22T19:00:00Z",
