@@ -13,30 +13,6 @@
   },
   "schedulers": [
     {
-      "id": "eyJzZWdtZW50SUQiOiIxNGM2NDdkMC00OTUwLTQ3MzItOWM0NS1jMWNjZGI1OWVkN2MiLCJpc29ZZWFyIjoyMDIyLCJpc29XZWVrIjo0Nn0=",
-      "start_time": "2022-11-18T13:00:00Z",
-      "end_time": "2022-11-18T14:00:00Z",
-      "title": "PRÉ-LIVE",
-      "canceled_until": null,
-      "category": {
-        "id": "509658",
-        "name": "Just Chatting"
-      },
-      "is_recurring": false
-    },
-    {
-      "id": "eyJzZWdtZW50SUQiOiIyNDBiMzE5Zi0zNmVhLTRhNDUtYTU3Mi02MGQyNTc1MzZjYmYiLCJpc29ZZWFyIjoyMDIyLCJpc29XZWVrIjo0Nn0=",
-      "start_time": "2022-11-18T14:00:00Z",
-      "end_time": "2022-11-18T18:00:00Z",
-      "title": "ORGANS PLEASE",
-      "canceled_until": null,
-      "category": {
-        "id": "2057971943",
-        "name": "Organs Please"
-      },
-      "is_recurring": false
-    },
-    {
       "id": "eyJzZWdtZW50SUQiOiI1OWVkNDEyMy0zNjM1LTQxMzUtYmQxNi04ZmZlMjQyNGE5Y2YiLCJpc29ZZWFyIjoyMDIyLCJpc29XZWVrIjo0N30=",
       "start_time": "2022-11-21T19:00:00Z",
       "end_time": "2022-11-21T20:00:00Z",
@@ -249,6 +225,30 @@
       "category": {
         "id": "417752",
         "name": "Talk Shows & Podcasts"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiI1OWVkNDEyMy0zNjM1LTQxMzUtYmQxNi04ZmZlMjQyNGE5Y2YiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjoxfQ==",
+      "start_time": "2023-01-02T19:00:00Z",
+      "end_time": "2023-01-02T20:00:00Z",
+      "title": "PRÉ-LIVE",
+      "canceled_until": null,
+      "category": {
+        "id": "509658",
+        "name": "Just Chatting"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiJiMTJkNzk3OS03MGE3LTQwNzktYmE4Mi02NWY5NzAxZmY5ZjMiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjoxfQ==",
+      "start_time": "2023-01-02T20:00:00Z",
+      "end_time": "2023-01-02T23:00:00Z",
+      "title": "UNRAILED! AVEC XARI, JIRAYA & LOWAN",
+      "canceled_until": null,
+      "category": {
+        "id": "512058",
+        "name": "Unrailed!"
       },
       "is_recurring": true
     }
