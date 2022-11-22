@@ -7,40 +7,16 @@
     "broadcaster_type": "partner",
     "description": "",
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/3cdae7df-600c-4833-8dfe-8d2abc5a3b25-profile_image-300x300.png",
-    "offline_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/81e31dc1-8140-46be-ab4e-456f255b957a-channel_offline_image-1920x1080.png",
+    "offline_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/b161dcbd-c851-453e-9ee3-bb36ed84a16c-channel_offline_image-1920x1080.png",
     "view_count": 121218348,
     "created_at": "2013-02-05T19:20:22Z"
   },
   "schedulers": [
     {
-      "id": "eyJzZWdtZW50SUQiOiI1OWVkNDEyMy0zNjM1LTQxMzUtYmQxNi04ZmZlMjQyNGE5Y2YiLCJpc29ZZWFyIjoyMDIyLCJpc29XZWVrIjo0N30=",
-      "start_time": "2022-11-21T19:00:00Z",
-      "end_time": "2022-11-21T20:00:00Z",
-      "title": "PRÉ-LIVE",
-      "canceled_until": null,
-      "category": {
-        "id": "509658",
-        "name": "Just Chatting"
-      },
-      "is_recurring": true
-    },
-    {
-      "id": "eyJzZWdtZW50SUQiOiJiMTJkNzk3OS03MGE3LTQwNzktYmE4Mi02NWY5NzAxZmY5ZjMiLCJpc29ZZWFyIjoyMDIyLCJpc29XZWVrIjo0N30=",
-      "start_time": "2022-11-21T20:00:00Z",
-      "end_time": "2022-11-21T23:00:00Z",
-      "title": "UNRAILED! AVEC XARI, JIRAYA & LOWAN",
-      "canceled_until": null,
-      "category": {
-        "id": "512058",
-        "name": "Unrailed!"
-      },
-      "is_recurring": true
-    },
-    {
       "id": "eyJzZWdtZW50SUQiOiI5NGIyNmE1YS04ODAyLTQzNDktOGJkYi1kY2Q2MGNlYThiZDkiLCJpc29ZZWFyIjoyMDIyLCJpc29XZWVrIjo0N30=",
-      "start_time": "2022-11-22T19:00:00Z",
-      "end_time": "2022-11-22T21:30:00Z",
-      "title": "POPCORN AVEC CLARA LUCIANI, CYRUS NORTH & PONCE",
+      "start_time": "2022-11-22T17:30:00Z",
+      "end_time": "2022-11-22T19:00:00Z",
+      "title": "POPCORN AVEC AMINE, KAMEL, YANNOU & SAÏD",
       "canceled_until": null,
       "category": {
         "id": "417752",
@@ -49,8 +25,68 @@
       "is_recurring": true
     },
     {
+      "id": "eyJzZWdtZW50SUQiOiI5ZDllYWI4Ny1hOTBlLTRmODAtOTFkNC1lYzA4ODA3ZDZlMTYiLCJpc29ZZWFyIjoyMDIyLCJpc29XZWVrIjo0N30=",
+      "start_time": "2022-11-23T13:00:00Z",
+      "end_time": "2022-11-23T14:00:00Z",
+      "title": "PRÉ-LIVE",
+      "canceled_until": null,
+      "category": {
+        "id": "509658",
+        "name": "Just Chatting"
+      },
+      "is_recurring": false
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiJiNDg4NzRmOC0xOTA0LTQzYjItYmU0ZS1lMGZjYjI2ZTEyYmIiLCJpc29ZZWFyIjoyMDIyLCJpc29XZWVrIjo0N30=",
+      "start_time": "2022-11-23T14:00:00Z",
+      "end_time": "2022-11-23T18:00:00Z",
+      "title": "STREAM LIBRE",
+      "canceled_until": null,
+      "category": {
+        "id": "509658",
+        "name": "Just Chatting"
+      },
+      "is_recurring": false
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiI4M2E4NWJhNy1mNGU1LTQ4YTUtOGQ0NC1kODhkMzVkNzdmMzAiLCJpc29ZZWFyIjoyMDIyLCJpc29XZWVrIjo0N30=",
+      "start_time": "2022-11-24T11:00:00Z",
+      "end_time": "2022-11-24T13:00:00Z",
+      "title": "LA PAUSE DÉJ' ",
+      "canceled_until": null,
+      "category": {
+        "id": "509658",
+        "name": "Just Chatting"
+      },
+      "is_recurring": false
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiI0N2I4NDJlMy0xYTE5LTRmMDgtYmI4Ny1kMDBiMzRhOWVjOGUiLCJpc29ZZWFyIjoyMDIyLCJpc29XZWVrIjo0N30=",
+      "start_time": "2022-11-25T18:30:00Z",
+      "end_time": "2022-11-25T19:00:00Z",
+      "title": "PRÉ-LIVE",
+      "canceled_until": null,
+      "category": {
+        "id": "509658",
+        "name": "Just Chatting"
+      },
+      "is_recurring": false
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiJkZWVkZTIzYy01YWNhLTRlYTItYjRkNC01MThkMmYxZmU0OTUiLCJpc29ZZWFyIjoyMDIyLCJpc29XZWVrIjo0N30=",
+      "start_time": "2022-11-25T19:00:00Z",
+      "end_time": "2022-11-26T01:00:00Z",
+      "title": "THE DEVIL IN ME",
+      "canceled_until": null,
+      "category": {
+        "id": "654543582",
+        "name": "The Dark Pictures Anthology: The Devil in Me"
+      },
+      "is_recurring": false
+    },
+    {
       "id": "eyJzZWdtZW50SUQiOiI1OWVkNDEyMy0zNjM1LTQxMzUtYmQxNi04ZmZlMjQyNGE5Y2YiLCJpc29ZZWFyIjoyMDIyLCJpc29XZWVrIjo0OH0=",
-      "start_time": "2022-11-28T19:00:00Z",
+      "start_time": "2022-11-28T18:30:00Z",
       "end_time": "2022-11-28T20:00:00Z",
       "title": "PRÉ-LIVE",
       "canceled_until": null,
@@ -63,20 +99,20 @@
     {
       "id": "eyJzZWdtZW50SUQiOiJiMTJkNzk3OS03MGE3LTQwNzktYmE4Mi02NWY5NzAxZmY5ZjMiLCJpc29ZZWFyIjoyMDIyLCJpc29XZWVrIjo0OH0=",
       "start_time": "2022-11-28T20:00:00Z",
-      "end_time": "2022-11-28T23:00:00Z",
-      "title": "UNRAILED! AVEC XARI, JIRAYA & LOWAN",
+      "end_time": "2022-11-29T01:00:00Z",
+      "title": "FC Silmi",
       "canceled_until": null,
       "category": {
-        "id": "512058",
-        "name": "Unrailed!"
+        "id": "1745202732",
+        "name": "FIFA 23"
       },
       "is_recurring": true
     },
     {
       "id": "eyJzZWdtZW50SUQiOiI5NGIyNmE1YS04ODAyLTQzNDktOGJkYi1kY2Q2MGNlYThiZDkiLCJpc29ZZWFyIjoyMDIyLCJpc29XZWVrIjo0OH0=",
-      "start_time": "2022-11-29T19:00:00Z",
-      "end_time": "2022-11-29T21:30:00Z",
-      "title": "POPCORN AVEC CLARA LUCIANI, CYRUS NORTH & PONCE",
+      "start_time": "2022-11-29T17:30:00Z",
+      "end_time": "2022-11-29T19:00:00Z",
+      "title": "POPCORN AVEC AMINE, KAMEL, YANNOU & SAÏD",
       "canceled_until": null,
       "category": {
         "id": "417752",
@@ -86,7 +122,7 @@
     },
     {
       "id": "eyJzZWdtZW50SUQiOiI1OWVkNDEyMy0zNjM1LTQxMzUtYmQxNi04ZmZlMjQyNGE5Y2YiLCJpc29ZZWFyIjoyMDIyLCJpc29XZWVrIjo0OX0=",
-      "start_time": "2022-12-05T19:00:00Z",
+      "start_time": "2022-12-05T18:30:00Z",
       "end_time": "2022-12-05T20:00:00Z",
       "title": "PRÉ-LIVE",
       "canceled_until": null,
@@ -99,20 +135,20 @@
     {
       "id": "eyJzZWdtZW50SUQiOiJiMTJkNzk3OS03MGE3LTQwNzktYmE4Mi02NWY5NzAxZmY5ZjMiLCJpc29ZZWFyIjoyMDIyLCJpc29XZWVrIjo0OX0=",
       "start_time": "2022-12-05T20:00:00Z",
-      "end_time": "2022-12-05T23:00:00Z",
-      "title": "UNRAILED! AVEC XARI, JIRAYA & LOWAN",
+      "end_time": "2022-12-06T01:00:00Z",
+      "title": "FC Silmi",
       "canceled_until": null,
       "category": {
-        "id": "512058",
-        "name": "Unrailed!"
+        "id": "1745202732",
+        "name": "FIFA 23"
       },
       "is_recurring": true
     },
     {
       "id": "eyJzZWdtZW50SUQiOiI5NGIyNmE1YS04ODAyLTQzNDktOGJkYi1kY2Q2MGNlYThiZDkiLCJpc29ZZWFyIjoyMDIyLCJpc29XZWVrIjo0OX0=",
-      "start_time": "2022-12-06T19:00:00Z",
-      "end_time": "2022-12-06T21:30:00Z",
-      "title": "POPCORN AVEC CLARA LUCIANI, CYRUS NORTH & PONCE",
+      "start_time": "2022-12-06T17:30:00Z",
+      "end_time": "2022-12-06T19:00:00Z",
+      "title": "POPCORN AVEC AMINE, KAMEL, YANNOU & SAÏD",
       "canceled_until": null,
       "category": {
         "id": "417752",
@@ -122,7 +158,7 @@
     },
     {
       "id": "eyJzZWdtZW50SUQiOiI1OWVkNDEyMy0zNjM1LTQxMzUtYmQxNi04ZmZlMjQyNGE5Y2YiLCJpc29ZZWFyIjoyMDIyLCJpc29XZWVrIjo1MH0=",
-      "start_time": "2022-12-12T19:00:00Z",
+      "start_time": "2022-12-12T18:30:00Z",
       "end_time": "2022-12-12T20:00:00Z",
       "title": "PRÉ-LIVE",
       "canceled_until": null,
@@ -135,20 +171,20 @@
     {
       "id": "eyJzZWdtZW50SUQiOiJiMTJkNzk3OS03MGE3LTQwNzktYmE4Mi02NWY5NzAxZmY5ZjMiLCJpc29ZZWFyIjoyMDIyLCJpc29XZWVrIjo1MH0=",
       "start_time": "2022-12-12T20:00:00Z",
-      "end_time": "2022-12-12T23:00:00Z",
-      "title": "UNRAILED! AVEC XARI, JIRAYA & LOWAN",
+      "end_time": "2022-12-13T01:00:00Z",
+      "title": "FC Silmi",
       "canceled_until": null,
       "category": {
-        "id": "512058",
-        "name": "Unrailed!"
+        "id": "1745202732",
+        "name": "FIFA 23"
       },
       "is_recurring": true
     },
     {
       "id": "eyJzZWdtZW50SUQiOiI5NGIyNmE1YS04ODAyLTQzNDktOGJkYi1kY2Q2MGNlYThiZDkiLCJpc29ZZWFyIjoyMDIyLCJpc29XZWVrIjo1MH0=",
-      "start_time": "2022-12-13T19:00:00Z",
-      "end_time": "2022-12-13T21:30:00Z",
-      "title": "POPCORN AVEC CLARA LUCIANI, CYRUS NORTH & PONCE",
+      "start_time": "2022-12-13T17:30:00Z",
+      "end_time": "2022-12-13T19:00:00Z",
+      "title": "POPCORN AVEC AMINE, KAMEL, YANNOU & SAÏD",
       "canceled_until": null,
       "category": {
         "id": "417752",
@@ -158,7 +194,7 @@
     },
     {
       "id": "eyJzZWdtZW50SUQiOiI1OWVkNDEyMy0zNjM1LTQxMzUtYmQxNi04ZmZlMjQyNGE5Y2YiLCJpc29ZZWFyIjoyMDIyLCJpc29XZWVrIjo1MX0=",
-      "start_time": "2022-12-19T19:00:00Z",
+      "start_time": "2022-12-19T18:30:00Z",
       "end_time": "2022-12-19T20:00:00Z",
       "title": "PRÉ-LIVE",
       "canceled_until": null,
@@ -171,20 +207,20 @@
     {
       "id": "eyJzZWdtZW50SUQiOiJiMTJkNzk3OS03MGE3LTQwNzktYmE4Mi02NWY5NzAxZmY5ZjMiLCJpc29ZZWFyIjoyMDIyLCJpc29XZWVrIjo1MX0=",
       "start_time": "2022-12-19T20:00:00Z",
-      "end_time": "2022-12-19T23:00:00Z",
-      "title": "UNRAILED! AVEC XARI, JIRAYA & LOWAN",
+      "end_time": "2022-12-20T01:00:00Z",
+      "title": "FC Silmi",
       "canceled_until": null,
       "category": {
-        "id": "512058",
-        "name": "Unrailed!"
+        "id": "1745202732",
+        "name": "FIFA 23"
       },
       "is_recurring": true
     },
     {
       "id": "eyJzZWdtZW50SUQiOiI5NGIyNmE1YS04ODAyLTQzNDktOGJkYi1kY2Q2MGNlYThiZDkiLCJpc29ZZWFyIjoyMDIyLCJpc29XZWVrIjo1MX0=",
-      "start_time": "2022-12-20T19:00:00Z",
-      "end_time": "2022-12-20T21:30:00Z",
-      "title": "POPCORN AVEC CLARA LUCIANI, CYRUS NORTH & PONCE",
+      "start_time": "2022-12-20T17:30:00Z",
+      "end_time": "2022-12-20T19:00:00Z",
+      "title": "POPCORN AVEC AMINE, KAMEL, YANNOU & SAÏD",
       "canceled_until": null,
       "category": {
         "id": "417752",
@@ -194,7 +230,7 @@
     },
     {
       "id": "eyJzZWdtZW50SUQiOiI1OWVkNDEyMy0zNjM1LTQxMzUtYmQxNi04ZmZlMjQyNGE5Y2YiLCJpc29ZZWFyIjoyMDIyLCJpc29XZWVrIjo1Mn0=",
-      "start_time": "2022-12-26T19:00:00Z",
+      "start_time": "2022-12-26T18:30:00Z",
       "end_time": "2022-12-26T20:00:00Z",
       "title": "PRÉ-LIVE",
       "canceled_until": null,
@@ -207,48 +243,12 @@
     {
       "id": "eyJzZWdtZW50SUQiOiJiMTJkNzk3OS03MGE3LTQwNzktYmE4Mi02NWY5NzAxZmY5ZjMiLCJpc29ZZWFyIjoyMDIyLCJpc29XZWVrIjo1Mn0=",
       "start_time": "2022-12-26T20:00:00Z",
-      "end_time": "2022-12-26T23:00:00Z",
-      "title": "UNRAILED! AVEC XARI, JIRAYA & LOWAN",
+      "end_time": "2022-12-27T01:00:00Z",
+      "title": "FC Silmi",
       "canceled_until": null,
       "category": {
-        "id": "512058",
-        "name": "Unrailed!"
-      },
-      "is_recurring": true
-    },
-    {
-      "id": "eyJzZWdtZW50SUQiOiI5NGIyNmE1YS04ODAyLTQzNDktOGJkYi1kY2Q2MGNlYThiZDkiLCJpc29ZZWFyIjoyMDIyLCJpc29XZWVrIjo1Mn0=",
-      "start_time": "2022-12-27T19:00:00Z",
-      "end_time": "2022-12-27T21:30:00Z",
-      "title": "POPCORN AVEC CLARA LUCIANI, CYRUS NORTH & PONCE",
-      "canceled_until": null,
-      "category": {
-        "id": "417752",
-        "name": "Talk Shows & Podcasts"
-      },
-      "is_recurring": true
-    },
-    {
-      "id": "eyJzZWdtZW50SUQiOiI1OWVkNDEyMy0zNjM1LTQxMzUtYmQxNi04ZmZlMjQyNGE5Y2YiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjoxfQ==",
-      "start_time": "2023-01-02T19:00:00Z",
-      "end_time": "2023-01-02T20:00:00Z",
-      "title": "PRÉ-LIVE",
-      "canceled_until": null,
-      "category": {
-        "id": "509658",
-        "name": "Just Chatting"
-      },
-      "is_recurring": true
-    },
-    {
-      "id": "eyJzZWdtZW50SUQiOiJiMTJkNzk3OS03MGE3LTQwNzktYmE4Mi02NWY5NzAxZmY5ZjMiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjoxfQ==",
-      "start_time": "2023-01-02T20:00:00Z",
-      "end_time": "2023-01-02T23:00:00Z",
-      "title": "UNRAILED! AVEC XARI, JIRAYA & LOWAN",
-      "canceled_until": null,
-      "category": {
-        "id": "512058",
-        "name": "Unrailed!"
+        "id": "1745202732",
+        "name": "FIFA 23"
       },
       "is_recurring": true
     }

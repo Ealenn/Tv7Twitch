@@ -13,18 +13,6 @@
   },
   "schedulers": [
     {
-      "id": "eyJzZWdtZW50SUQiOiI1MzUxZWI1OC03ZjM5LTQ3ODgtYmQ1Ni00M2Y0ZjMyMTNlYzgiLCJpc29ZZWFyIjoyMDIyLCJpc29XZWVrIjo0N30=",
-      "start_time": "2022-11-21T10:00:00Z",
-      "end_time": "2022-11-21T17:00:00Z",
-      "title": "Culture & plaisir",
-      "canceled_until": null,
-      "category": {
-        "id": "338715930",
-        "name": "Maitre des Fleurs"
-      },
-      "is_recurring": true
-    },
-    {
       "id": "eyJzZWdtZW50SUQiOiI4NzU4OGQ1MC1hM2I1LTQ5NGEtYWQ1Yy00Mjk3NTUwZDJhYzIiLCJpc29ZZWFyIjoyMDIyLCJpc29XZWVrIjo0N30=",
       "start_time": "2022-11-22T10:00:00Z",
       "end_time": "2022-11-22T16:00:00Z",
@@ -76,7 +64,7 @@
       "id": "eyJzZWdtZW50SUQiOiIxNjg1MmIxMy0wZjI4LTQ4NzItYTZmYi0wZTAyMDA4YjNkZWUiLCJpc29ZZWFyIjoyMDIyLCJpc29XZWVrIjo0N30=",
       "start_time": "2022-11-24T10:00:00Z",
       "end_time": "2022-11-24T13:00:00Z",
-      "title": "Mario Party avé les copains",
+      "title": "Mario Party avec Onu, Wingo & Bytell",
       "canceled_until": null,
       "category": {
         "id": "1068239917",
@@ -100,9 +88,12 @@
       "id": "eyJzZWdtZW50SUQiOiIzNzc0ZTVjMy03MDU5LTQ4MTMtODc4Mi01MjY1NmY0NDY4MzYiLCJpc29ZZWFyIjoyMDIyLCJpc29XZWVrIjo0N30=",
       "start_time": "2022-11-25T19:00:00Z",
       "end_time": "2022-11-25T23:00:00Z",
-      "title": "Le banquet de Valdrakken",
+      "title": "Le banquet de Valdrakken avec Gomart, Wingo, Ultia, Riv et Xavier Pincemin ",
       "canceled_until": null,
-      "category": null,
+      "category": {
+        "id": "509667",
+        "name": "Food & Drink"
+      },
       "is_recurring": true
     },
     {
@@ -193,7 +184,7 @@
       "id": "eyJzZWdtZW50SUQiOiIxNjg1MmIxMy0wZjI4LTQ4NzItYTZmYi0wZTAyMDA4YjNkZWUiLCJpc29ZZWFyIjoyMDIyLCJpc29XZWVrIjo0OH0=",
       "start_time": "2022-12-01T10:00:00Z",
       "end_time": "2022-12-01T13:00:00Z",
-      "title": "Mario Party avé les copains",
+      "title": "Mario Party avec Onu, Wingo & Bytell",
       "canceled_until": null,
       "category": {
         "id": "1068239917",
@@ -217,9 +208,12 @@
       "id": "eyJzZWdtZW50SUQiOiIzNzc0ZTVjMy03MDU5LTQ4MTMtODc4Mi01MjY1NmY0NDY4MzYiLCJpc29ZZWFyIjoyMDIyLCJpc29XZWVrIjo0OH0=",
       "start_time": "2022-12-02T19:00:00Z",
       "end_time": "2022-12-02T23:00:00Z",
-      "title": "Le banquet de Valdrakken",
+      "title": "Le banquet de Valdrakken avec Gomart, Wingo, Ultia, Riv et Xavier Pincemin ",
       "canceled_until": null,
-      "category": null,
+      "category": {
+        "id": "509667",
+        "name": "Food & Drink"
+      },
       "is_recurring": true
     },
     {
@@ -243,6 +237,18 @@
       "category": {
         "id": "18122",
         "name": "World of Warcraft"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiI1MzUxZWI1OC03ZjM5LTQ3ODgtYmQ1Ni00M2Y0ZjMyMTNlYzgiLCJpc29ZZWFyIjoyMDIyLCJpc29XZWVrIjo0OX0=",
+      "start_time": "2022-12-05T10:00:00Z",
+      "end_time": "2022-12-05T17:00:00Z",
+      "title": "Culture & plaisir",
+      "canceled_until": null,
+      "category": {
+        "id": "338715930",
+        "name": "Maitre des Fleurs"
       },
       "is_recurring": true
     }
