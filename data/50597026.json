@@ -13,30 +13,6 @@
   },
   "schedulers": [
     {
-      "id": "eyJzZWdtZW50SUQiOiIxNjg1MmIxMy0wZjI4LTQ4NzItYTZmYi0wZTAyMDA4YjNkZWUiLCJpc29ZZWFyIjoyMDIyLCJpc29XZWVrIjo0N30=",
-      "start_time": "2022-11-24T10:00:00Z",
-      "end_time": "2022-11-24T13:00:00Z",
-      "title": "Mario Party avec Onu, Wingo & Bytell",
-      "canceled_until": null,
-      "category": {
-        "id": "1068239917",
-        "name": "Mario Party Superstars"
-      },
-      "is_recurring": true
-    },
-    {
-      "id": "eyJzZWdtZW50SUQiOiI5NmE4ZGIzMi05ZjIyLTQ3NzItOGJiNy1lYmZmNmJjYzllNDMiLCJpc29ZZWFyIjoyMDIyLCJpc29XZWVrIjo0N30=",
-      "start_time": "2022-11-24T13:00:00Z",
-      "end_time": "2022-11-24T17:00:00Z",
-      "title": "On continue le let's play sur Pokémon Écarlate",
-      "canceled_until": null,
-      "category": {
-        "id": "670867987",
-        "name": "Pokémon Scarlet/Violet"
-      },
-      "is_recurring": true
-    },
-    {
       "id": "eyJzZWdtZW50SUQiOiIzNzc0ZTVjMy03MDU5LTQ4MTMtODc4Mi01MjY1NmY0NDY4MzYiLCJpc29ZZWFyIjoyMDIyLCJpc29XZWVrIjo0N30=",
       "start_time": "2022-11-25T19:00:00Z",
       "end_time": "2022-11-25T23:00:00Z",
@@ -244,6 +220,30 @@
       "id": "eyJzZWdtZW50SUQiOiJhMTg1ZWQxMC04ZTM1LTRjZjAtOTNlZi0yZjFjYzJiOWEyNWUiLCJpc29ZZWFyIjoyMDIyLCJpc29XZWVrIjo0OX0=",
       "start_time": "2022-12-07T14:00:00Z",
       "end_time": "2022-12-07T17:00:00Z",
+      "title": "On continue le let's play sur Pokémon Écarlate",
+      "canceled_until": null,
+      "category": {
+        "id": "670867987",
+        "name": "Pokémon Scarlet/Violet"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiIxNjg1MmIxMy0wZjI4LTQ4NzItYTZmYi0wZTAyMDA4YjNkZWUiLCJpc29ZZWFyIjoyMDIyLCJpc29XZWVrIjo0OX0=",
+      "start_time": "2022-12-08T10:00:00Z",
+      "end_time": "2022-12-08T13:00:00Z",
+      "title": "Mario Party avec Onu, Wingo & Bytell",
+      "canceled_until": null,
+      "category": {
+        "id": "1068239917",
+        "name": "Mario Party Superstars"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiI5NmE4ZGIzMi05ZjIyLTQ3NzItOGJiNy1lYmZmNmJjYzllNDMiLCJpc29ZZWFyIjoyMDIyLCJpc29XZWVrIjo0OX0=",
+      "start_time": "2022-12-08T13:00:00Z",
+      "end_time": "2022-12-08T17:00:00Z",
       "title": "On continue le let's play sur Pokémon Écarlate",
       "canceled_until": null,
       "category": {
