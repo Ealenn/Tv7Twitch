@@ -13,18 +13,6 @@
   },
   "schedulers": [
     {
-      "id": "eyJzZWdtZW50SUQiOiI0NDY4MzQ4MC02YmVhLTRlNTMtYTVlMC1lYWM2NTdiZDYzZTciLCJpc29ZZWFyIjoyMDIyLCJpc29XZWVrIjo0OH0=",
-      "start_time": "2022-12-01T11:00:00Z",
-      "end_time": "2022-12-01T13:00:00Z",
-      "title": "LA PAUSE DÉJ' ",
-      "canceled_until": null,
-      "category": {
-        "id": "509658",
-        "name": "Just Chatting"
-      },
-      "is_recurring": true
-    },
-    {
       "id": "eyJzZWdtZW50SUQiOiI3ZDdmNWI2MC1hZjEyLTQxNGUtYjNiNC05ZGFmMWIxNDZiODUiLCJpc29ZZWFyIjoyMDIyLCJpc29XZWVrIjo0OH0=",
       "start_time": "2022-12-02T13:00:00Z",
       "end_time": "2022-12-02T14:00:00Z",
@@ -249,6 +237,18 @@
       "category": {
         "id": "2119862307",
         "name": "The Oregon Trail"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiI0NDY4MzQ4MC02YmVhLTRlNTMtYTVlMC1lYWM2NTdiZDYzZTciLCJpc29ZZWFyIjoyMDIyLCJpc29XZWVrIjo1MH0=",
+      "start_time": "2022-12-15T11:00:00Z",
+      "end_time": "2022-12-15T13:00:00Z",
+      "title": "LA PAUSE DÉJ' ",
+      "canceled_until": null,
+      "category": {
+        "id": "509658",
+        "name": "Just Chatting"
       },
       "is_recurring": true
     }

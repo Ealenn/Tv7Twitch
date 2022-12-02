@@ -13,42 +13,6 @@
   },
   "schedulers": [
     {
-      "id": "eyJzZWdtZW50SUQiOiIxNjg1MmIxMy0wZjI4LTQ4NzItYTZmYi0wZTAyMDA4YjNkZWUiLCJpc29ZZWFyIjoyMDIyLCJpc29XZWVrIjo0OH0=",
-      "start_time": "2022-12-01T10:00:00Z",
-      "end_time": "2022-12-01T13:00:00Z",
-      "title": "Mario Party avec Onu, Wingo & Bytell",
-      "canceled_until": null,
-      "category": {
-        "id": "1068239917",
-        "name": "Mario Party Superstars"
-      },
-      "is_recurring": true
-    },
-    {
-      "id": "eyJzZWdtZW50SUQiOiI5NmE4ZGIzMi05ZjIyLTQ3NzItOGJiNy1lYmZmNmJjYzllNDMiLCJpc29ZZWFyIjoyMDIyLCJpc29XZWVrIjo0OH0=",
-      "start_time": "2022-12-01T13:00:00Z",
-      "end_time": "2022-12-01T16:00:00Z",
-      "title": "On continue le let's play sur Pokémon Écarlate",
-      "canceled_until": null,
-      "category": {
-        "id": "670867987",
-        "name": "Pokémon Scarlet/Violet"
-      },
-      "is_recurring": true
-    },
-    {
-      "id": "eyJzZWdtZW50SUQiOiJkMDE1YmM1NS1lYThkLTQ5MGUtOTViOS00N2RmNGM2Mjg2NjgiLCJpc29ZZWFyIjoyMDIyLCJpc29XZWVrIjo0OH0=",
-      "start_time": "2022-12-01T19:00:00Z",
-      "end_time": "2022-12-01T23:00:00Z",
-      "title": "Donjon Mythique Dragonflight",
-      "canceled_until": null,
-      "category": {
-        "id": "18122",
-        "name": "World of Warcraft"
-      },
-      "is_recurring": true
-    },
-    {
       "id": "eyJzZWdtZW50SUQiOiI4NzU4OGQ1MC1hM2I1LTQ5NGEtYWQ1Yy00Mjk3NTUwZDJhYzIiLCJpc29ZZWFyIjoyMDIyLCJpc29XZWVrIjo0OH0=",
       "start_time": "2022-12-02T10:00:00Z",
       "end_time": "2022-12-02T12:00:00Z",
@@ -249,6 +213,42 @@
       "category": {
         "id": "670867987",
         "name": "Pokémon Scarlet/Violet"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiIxNjg1MmIxMy0wZjI4LTQ4NzItYTZmYi0wZTAyMDA4YjNkZWUiLCJpc29ZZWFyIjoyMDIyLCJpc29XZWVrIjo1MH0=",
+      "start_time": "2022-12-15T10:00:00Z",
+      "end_time": "2022-12-15T13:00:00Z",
+      "title": "Mario Party avec Onu, Wingo & Bytell",
+      "canceled_until": null,
+      "category": {
+        "id": "1068239917",
+        "name": "Mario Party Superstars"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiI5NmE4ZGIzMi05ZjIyLTQ3NzItOGJiNy1lYmZmNmJjYzllNDMiLCJpc29ZZWFyIjoyMDIyLCJpc29XZWVrIjo1MH0=",
+      "start_time": "2022-12-15T13:00:00Z",
+      "end_time": "2022-12-15T16:00:00Z",
+      "title": "On continue le let's play sur Pokémon Écarlate",
+      "canceled_until": null,
+      "category": {
+        "id": "670867987",
+        "name": "Pokémon Scarlet/Violet"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiJkMDE1YmM1NS1lYThkLTQ5MGUtOTViOS00N2RmNGM2Mjg2NjgiLCJpc29ZZWFyIjoyMDIyLCJpc29XZWVrIjo1MH0=",
+      "start_time": "2022-12-15T19:00:00Z",
+      "end_time": "2022-12-15T23:00:00Z",
+      "title": "Donjon Mythique Dragonflight",
+      "canceled_until": null,
+      "category": {
+        "id": "18122",
+        "name": "World of Warcraft"
       },
       "is_recurring": true
     }
