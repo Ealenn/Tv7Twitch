@@ -7,52 +7,16 @@
     "broadcaster_type": "partner",
     "description": "",
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/3cdae7df-600c-4833-8dfe-8d2abc5a3b25-profile_image-300x300.png",
-    "offline_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/05529822-f6b7-4619-86d5-17ffa9d7df52-channel_offline_image-1920x1080.png",
+    "offline_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/8bdd6bf4-63bd-4e56-8ead-c490d4a902e0-channel_offline_image-1920x1080.png",
     "view_count": 121218348,
     "created_at": "2013-02-05T19:20:22Z"
   },
   "schedulers": [
     {
-      "id": "eyJzZWdtZW50SUQiOiI1OWVkNDEyMy0zNjM1LTQxMzUtYmQxNi04ZmZlMjQyNGE5Y2YiLCJpc29ZZWFyIjoyMDIyLCJpc29XZWVrIjo0OX0=",
-      "start_time": "2022-12-05T18:30:00Z",
-      "end_time": "2022-12-05T19:30:00Z",
-      "title": "PRÉ-LIVE",
-      "canceled_until": null,
-      "category": {
-        "id": "509658",
-        "name": "Just Chatting"
-      },
-      "is_recurring": true
-    },
-    {
-      "id": "eyJzZWdtZW50SUQiOiJiMTJkNzk3OS03MGE3LTQwNzktYmE4Mi02NWY5NzAxZmY5ZjMiLCJpc29ZZWFyIjoyMDIyLCJpc29XZWVrIjo0OX0=",
-      "start_time": "2022-12-05T19:30:00Z",
-      "end_time": "2022-12-05T21:00:00Z",
-      "title": "RÉACT",
-      "canceled_until": null,
-      "category": {
-        "id": "509658",
-        "name": "Just Chatting"
-      },
-      "is_recurring": true
-    },
-    {
-      "id": "eyJzZWdtZW50SUQiOiI5OWU5NzFkOS0zMTIxLTQ0MmUtYTM4ZC1jNDhhZmI4NjA1ZWMiLCJpc29ZZWFyIjoyMDIyLCJpc29XZWVrIjo0OX0=",
-      "start_time": "2022-12-05T21:00:00Z",
-      "end_time": "2022-12-05T23:00:00Z",
-      "title": "WE WHO ARE ABOUT TO DIE",
-      "canceled_until": null,
-      "category": {
-        "id": "1533045811",
-        "name": "We Who Are About To Die"
-      },
-      "is_recurring": true
-    },
-    {
       "id": "eyJzZWdtZW50SUQiOiI5NGIyNmE1YS04ODAyLTQzNDktOGJkYi1kY2Q2MGNlYThiZDkiLCJpc29ZZWFyIjoyMDIyLCJpc29XZWVrIjo0OX0=",
       "start_time": "2022-12-06T19:00:00Z",
       "end_time": "2022-12-06T21:00:00Z",
-      "title": "POPCORN AVEC JDG, BILLY & ETOILES",
+      "title": "POPCORN AVEC AVA MIND, RIVENZI & ZACK NANI",
       "canceled_until": null,
       "category": {
         "id": "417752",
@@ -76,6 +40,18 @@
       "id": "eyJzZWdtZW50SUQiOiIyNzU1YzBlZC00NzhhLTQzNjEtODYyMy1jZDI2NGE1YjU1MDQiLCJpc29ZZWFyIjoyMDIyLCJpc29XZWVrIjo0OX0=",
       "start_time": "2022-12-07T14:00:00Z",
       "end_time": "2022-12-07T16:00:00Z",
+      "title": "WE WHO ARE ABOUT TO DIE",
+      "canceled_until": null,
+      "category": {
+        "id": "1533045811",
+        "name": "We Who Are About To Die"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiJhZDM1NTkwNy00YmU4LTQ0MWYtOWIxMC03NmJmNzZmYmJmMmQiLCJpc29ZZWFyIjoyMDIyLCJpc29XZWVrIjo0OX0=",
+      "start_time": "2022-12-07T16:00:00Z",
+      "end_time": "2022-12-07T18:00:00Z",
       "title": "STREAM LIBRE",
       "canceled_until": null,
       "category": {
@@ -85,28 +61,40 @@
       "is_recurring": true
     },
     {
-      "id": "eyJzZWdtZW50SUQiOiJhZDM1NTkwNy00YmU4LTQ0MWYtOWIxMC03NmJmNzZmYmJmMmQiLCJpc29ZZWFyIjoyMDIyLCJpc29XZWVrIjo0OX0=",
-      "start_time": "2022-12-07T16:00:00Z",
-      "end_time": "2022-12-07T18:00:00Z",
-      "title": "THE OREGON TRAIL",
-      "canceled_until": null,
-      "category": {
-        "id": "2119862307",
-        "name": "The Oregon Trail"
-      },
-      "is_recurring": true
-    },
-    {
       "id": "eyJzZWdtZW50SUQiOiI0NDY4MzQ4MC02YmVhLTRlNTMtYTVlMC1lYWM2NTdiZDYzZTciLCJpc29ZZWFyIjoyMDIyLCJpc29XZWVrIjo0OX0=",
-      "start_time": "2022-12-08T11:00:00Z",
-      "end_time": "2022-12-08T13:00:00Z",
-      "title": "LA PAUSE DÉJ' ",
+      "start_time": "2022-12-08T13:00:00Z",
+      "end_time": "2022-12-08T14:00:00Z",
+      "title": "PRÉ-LIVE",
       "canceled_until": null,
       "category": {
         "id": "509658",
         "name": "Just Chatting"
       },
       "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiIyMDg5MTBiYi0yMjM3LTRiZTYtODA4Yi0zNjgwZGI4ZWMzZDEiLCJpc29ZZWFyIjoyMDIyLCJpc29XZWVrIjo0OX0=",
+      "start_time": "2022-12-08T14:00:00Z",
+      "end_time": "2022-12-08T16:00:00Z",
+      "title": "MINECRAFT",
+      "canceled_until": null,
+      "category": {
+        "id": "27471",
+        "name": "Minecraft"
+      },
+      "is_recurring": false
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiJkNDYxNGUyZS1iMTIwLTQxZDItYjJjNC00YWY2ODU0M2RjYjgiLCJpc29ZZWFyIjoyMDIyLCJpc29XZWVrIjo0OX0=",
+      "start_time": "2022-12-08T16:00:00Z",
+      "end_time": "2022-12-08T18:00:00Z",
+      "title": "KILL IT WITH FIRE",
+      "canceled_until": null,
+      "category": {
+        "id": "515816",
+        "name": "Kill It With Fire"
+      },
+      "is_recurring": false
     },
     {
       "id": "eyJzZWdtZW50SUQiOiI3ZDdmNWI2MC1hZjEyLTQxNGUtYjNiNC05ZGFmMWIxNDZiODUiLCJpc29ZZWFyIjoyMDIyLCJpc29XZWVrIjo0OX0=",
@@ -123,12 +111,12 @@
     {
       "id": "eyJzZWdtZW50SUQiOiIzNWQ5ZDFmYy1jNmI1LTQyODYtYjIyZS01NjA3Zjc3NjUzMWEiLCJpc29ZZWFyIjoyMDIyLCJpc29XZWVrIjo0OX0=",
       "start_time": "2022-12-09T14:00:00Z",
-      "end_time": "2022-12-09T17:00:00Z",
-      "title": "STREAM LIBRE",
+      "end_time": "2022-12-09T18:00:00Z",
+      "title": "LA FIN DE THE OREGON TRAIL",
       "canceled_until": null,
       "category": {
-        "id": "509658",
-        "name": "Just Chatting"
+        "id": "2119862307",
+        "name": "The Oregon Trail"
       },
       "is_recurring": true
     },
@@ -147,24 +135,12 @@
     {
       "id": "eyJzZWdtZW50SUQiOiJiMTJkNzk3OS03MGE3LTQwNzktYmE4Mi02NWY5NzAxZmY5ZjMiLCJpc29ZZWFyIjoyMDIyLCJpc29XZWVrIjo1MH0=",
       "start_time": "2022-12-12T19:30:00Z",
-      "end_time": "2022-12-12T21:00:00Z",
-      "title": "RÉACT",
+      "end_time": "2022-12-13T01:00:00Z",
+      "title": "FC SILMI",
       "canceled_until": null,
       "category": {
-        "id": "509658",
-        "name": "Just Chatting"
-      },
-      "is_recurring": true
-    },
-    {
-      "id": "eyJzZWdtZW50SUQiOiI5OWU5NzFkOS0zMTIxLTQ0MmUtYTM4ZC1jNDhhZmI4NjA1ZWMiLCJpc29ZZWFyIjoyMDIyLCJpc29XZWVrIjo1MH0=",
-      "start_time": "2022-12-12T21:00:00Z",
-      "end_time": "2022-12-12T23:00:00Z",
-      "title": "WE WHO ARE ABOUT TO DIE",
-      "canceled_until": null,
-      "category": {
-        "id": "1533045811",
-        "name": "We Who Are About To Die"
+        "id": "1745202732",
+        "name": "FIFA 23"
       },
       "is_recurring": true
     },
@@ -172,7 +148,7 @@
       "id": "eyJzZWdtZW50SUQiOiI5NGIyNmE1YS04ODAyLTQzNDktOGJkYi1kY2Q2MGNlYThiZDkiLCJpc29ZZWFyIjoyMDIyLCJpc29XZWVrIjo1MH0=",
       "start_time": "2022-12-13T19:00:00Z",
       "end_time": "2022-12-13T21:00:00Z",
-      "title": "POPCORN AVEC JDG, BILLY & ETOILES",
+      "title": "POPCORN AVEC AVA MIND, RIVENZI & ZACK NANI",
       "canceled_until": null,
       "category": {
         "id": "417752",
@@ -196,6 +172,18 @@
       "id": "eyJzZWdtZW50SUQiOiIyNzU1YzBlZC00NzhhLTQzNjEtODYyMy1jZDI2NGE1YjU1MDQiLCJpc29ZZWFyIjoyMDIyLCJpc29XZWVrIjo1MH0=",
       "start_time": "2022-12-14T14:00:00Z",
       "end_time": "2022-12-14T16:00:00Z",
+      "title": "WE WHO ARE ABOUT TO DIE",
+      "canceled_until": null,
+      "category": {
+        "id": "1533045811",
+        "name": "We Who Are About To Die"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiJhZDM1NTkwNy00YmU4LTQ0MWYtOWIxMC03NmJmNzZmYmJmMmQiLCJpc29ZZWFyIjoyMDIyLCJpc29XZWVrIjo1MH0=",
+      "start_time": "2022-12-14T16:00:00Z",
+      "end_time": "2022-12-14T18:00:00Z",
       "title": "STREAM LIBRE",
       "canceled_until": null,
       "category": {
@@ -205,22 +193,10 @@
       "is_recurring": true
     },
     {
-      "id": "eyJzZWdtZW50SUQiOiJhZDM1NTkwNy00YmU4LTQ0MWYtOWIxMC03NmJmNzZmYmJmMmQiLCJpc29ZZWFyIjoyMDIyLCJpc29XZWVrIjo1MH0=",
-      "start_time": "2022-12-14T16:00:00Z",
-      "end_time": "2022-12-14T18:00:00Z",
-      "title": "THE OREGON TRAIL",
-      "canceled_until": null,
-      "category": {
-        "id": "2119862307",
-        "name": "The Oregon Trail"
-      },
-      "is_recurring": true
-    },
-    {
       "id": "eyJzZWdtZW50SUQiOiI0NDY4MzQ4MC02YmVhLTRlNTMtYTVlMC1lYWM2NTdiZDYzZTciLCJpc29ZZWFyIjoyMDIyLCJpc29XZWVrIjo1MH0=",
-      "start_time": "2022-12-15T11:00:00Z",
-      "end_time": "2022-12-15T13:00:00Z",
-      "title": "LA PAUSE DÉJ' ",
+      "start_time": "2022-12-15T13:00:00Z",
+      "end_time": "2022-12-15T14:00:00Z",
+      "title": "PRÉ-LIVE",
       "canceled_until": null,
       "category": {
         "id": "509658",
@@ -243,12 +219,36 @@
     {
       "id": "eyJzZWdtZW50SUQiOiIzNWQ5ZDFmYy1jNmI1LTQyODYtYjIyZS01NjA3Zjc3NjUzMWEiLCJpc29ZZWFyIjoyMDIyLCJpc29XZWVrIjo1MH0=",
       "start_time": "2022-12-16T14:00:00Z",
-      "end_time": "2022-12-16T17:00:00Z",
-      "title": "STREAM LIBRE",
+      "end_time": "2022-12-16T18:00:00Z",
+      "title": "LA FIN DE THE OREGON TRAIL",
+      "canceled_until": null,
+      "category": {
+        "id": "2119862307",
+        "name": "The Oregon Trail"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiI1OWVkNDEyMy0zNjM1LTQxMzUtYmQxNi04ZmZlMjQyNGE5Y2YiLCJpc29ZZWFyIjoyMDIyLCJpc29XZWVrIjo1MX0=",
+      "start_time": "2022-12-19T18:30:00Z",
+      "end_time": "2022-12-19T19:30:00Z",
+      "title": "PRÉ-LIVE",
       "canceled_until": null,
       "category": {
         "id": "509658",
         "name": "Just Chatting"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiJiMTJkNzk3OS03MGE3LTQwNzktYmE4Mi02NWY5NzAxZmY5ZjMiLCJpc29ZZWFyIjoyMDIyLCJpc29XZWVrIjo1MX0=",
+      "start_time": "2022-12-19T19:30:00Z",
+      "end_time": "2022-12-20T01:00:00Z",
+      "title": "FC SILMI",
+      "canceled_until": null,
+      "category": {
+        "id": "1745202732",
+        "name": "FIFA 23"
       },
       "is_recurring": true
     }
