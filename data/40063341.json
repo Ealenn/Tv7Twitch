@@ -13,42 +13,6 @@
   },
   "schedulers": [
     {
-      "id": "eyJzZWdtZW50SUQiOiI0NDY4MzQ4MC02YmVhLTRlNTMtYTVlMC1lYWM2NTdiZDYzZTciLCJpc29ZZWFyIjoyMDIyLCJpc29XZWVrIjo0OX0=",
-      "start_time": "2022-12-08T13:00:00Z",
-      "end_time": "2022-12-08T14:00:00Z",
-      "title": "PRÉ-LIVE",
-      "canceled_until": null,
-      "category": {
-        "id": "509658",
-        "name": "Just Chatting"
-      },
-      "is_recurring": true
-    },
-    {
-      "id": "eyJzZWdtZW50SUQiOiIyMDg5MTBiYi0yMjM3LTRiZTYtODA4Yi0zNjgwZGI4ZWMzZDEiLCJpc29ZZWFyIjoyMDIyLCJpc29XZWVrIjo0OX0=",
-      "start_time": "2022-12-08T14:00:00Z",
-      "end_time": "2022-12-08T16:00:00Z",
-      "title": "MINECRAFT",
-      "canceled_until": null,
-      "category": {
-        "id": "27471",
-        "name": "Minecraft"
-      },
-      "is_recurring": false
-    },
-    {
-      "id": "eyJzZWdtZW50SUQiOiJkNDYxNGUyZS1iMTIwLTQxZDItYjJjNC00YWY2ODU0M2RjYjgiLCJpc29ZZWFyIjoyMDIyLCJpc29XZWVrIjo0OX0=",
-      "start_time": "2022-12-08T16:00:00Z",
-      "end_time": "2022-12-08T18:00:00Z",
-      "title": "KILL IT WITH FIRE",
-      "canceled_until": null,
-      "category": {
-        "id": "515816",
-        "name": "Kill It With Fire"
-      },
-      "is_recurring": false
-    },
-    {
       "id": "eyJzZWdtZW50SUQiOiI3ZDdmNWI2MC1hZjEyLTQxNGUtYjNiNC05ZGFmMWIxNDZiODUiLCJpc29ZZWFyIjoyMDIyLCJpc29XZWVrIjo0OX0=",
       "start_time": "2022-12-09T13:00:00Z",
       "end_time": "2022-12-09T14:00:00Z",
@@ -249,6 +213,42 @@
       "category": {
         "id": "509658",
         "name": "Just Chatting"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiI0NDY4MzQ4MC02YmVhLTRlNTMtYTVlMC1lYWM2NTdiZDYzZTciLCJpc29ZZWFyIjoyMDIyLCJpc29XZWVrIjo1MX0=",
+      "start_time": "2022-12-22T13:00:00Z",
+      "end_time": "2022-12-22T14:00:00Z",
+      "title": "PRÉ-LIVE",
+      "canceled_until": null,
+      "category": {
+        "id": "509658",
+        "name": "Just Chatting"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiI3ZDdmNWI2MC1hZjEyLTQxNGUtYjNiNC05ZGFmMWIxNDZiODUiLCJpc29ZZWFyIjoyMDIyLCJpc29XZWVrIjo1MX0=",
+      "start_time": "2022-12-23T13:00:00Z",
+      "end_time": "2022-12-23T14:00:00Z",
+      "title": "PRÉ-LIVE",
+      "canceled_until": null,
+      "category": {
+        "id": "509658",
+        "name": "Just Chatting"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiIzNWQ5ZDFmYy1jNmI1LTQyODYtYjIyZS01NjA3Zjc3NjUzMWEiLCJpc29ZZWFyIjoyMDIyLCJpc29XZWVrIjo1MX0=",
+      "start_time": "2022-12-23T14:00:00Z",
+      "end_time": "2022-12-23T18:00:00Z",
+      "title": "LA FIN DE THE OREGON TRAIL",
+      "canceled_until": null,
+      "category": {
+        "id": "2119862307",
+        "name": "The Oregon Trail"
       },
       "is_recurring": true
     }
