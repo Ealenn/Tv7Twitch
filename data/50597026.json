@@ -13,10 +13,10 @@
   },
   "schedulers": [
     {
-      "id": "eyJzZWdtZW50SUQiOiI2MDg3ZjZkMi05MjNjLTRiZTAtYmY5Ny01MjY4OTg2NTk0YzUiLCJpc29ZZWFyIjoyMDIyLCJpc29XZWVrIjo1MX0=",
-      "start_time": "2022-12-21T12:00:00Z",
-      "end_time": "2022-12-21T23:00:00Z",
-      "title": "Semaine à l'hôtel avec Zera, Lapi, Kenny, Fukano, DFG, etc...",
+      "id": "eyJzZWdtZW50SUQiOiJiYWUwYzU3Yy0zYmZmLTQzNTUtOTZhMy0wYjJkNWViMzI4ZTIiLCJpc29ZZWFyIjoyMDIyLCJpc29XZWVrIjo1MX0=",
+      "start_time": "2022-12-20T12:00:00Z",
+      "end_time": "2022-12-20T23:00:00Z",
+      "title": "Ponce - Une semaine à l'hôtel - Dernier jour !wow !raid !wowgdoc !projet !sorts !ilvl | !label !son !rs !boutique",
       "canceled_until": null,
       "category": {
         "id": "18122",
@@ -27,20 +27,32 @@
     {
       "id": "eyJzZWdtZW50SUQiOiI0ODY4NmE2NS01NmZhLTQxMjAtODY4ZS02ZGM1YjQ3OGUyYjIiLCJpc29ZZWFyIjoyMDIyLCJpc29XZWVrIjo1MX0=",
       "start_time": "2022-12-22T12:00:00Z",
-      "end_time": "2022-12-22T23:00:00Z",
-      "title": "Semaine à l'hôtel avec Zera, Lapi, Kenny, Fukano, DFG, etc...",
+      "end_time": "2022-12-22T19:00:00Z",
+      "title": "Maitre des Fleurs !",
       "canceled_until": null,
       "category": {
-        "id": "18122",
-        "name": "World of Warcraft"
+        "id": "338715930",
+        "name": "Maitre des Fleurs"
       },
       "is_recurring": true
     },
     {
       "id": "eyJzZWdtZW50SUQiOiJkYjlhZTYwNi1mNTY4LTQ3MjQtOWMxOS1iOGE2ZWUxMmM2NDIiLCJpc29ZZWFyIjoyMDIyLCJpc29XZWVrIjo1MX0=",
-      "start_time": "2022-12-23T12:00:00Z",
-      "end_time": "2022-12-23T23:00:00Z",
-      "title": "Semaine à l'hôtel avec Zera, Lapi, Kenny, Fukano, DFG, etc...",
+      "start_time": "2022-12-23T10:00:00Z",
+      "end_time": "2022-12-23T17:00:00Z",
+      "title": "Le retour sur Pokemon !!!",
+      "canceled_until": null,
+      "category": {
+        "id": "670867987",
+        "name": "Pokémon Scarlet/Violet"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiIyNzU1ZGM5MC1hZTcyLTQ4M2EtYjhiZS1mMzIyNjdiYTFiNjAiLCJpc29ZZWFyIjoyMDIyLCJpc29XZWVrIjo1Mn0=",
+      "start_time": "2022-12-26T12:00:00Z",
+      "end_time": "2022-12-26T23:00:00Z",
+      "title": "Ponce - Une semaine à l'hôtel - Jour 6 !wow !raid !wowgdoc !projet !sorts !ilvl | !label !son !rs !boutique",
       "canceled_until": null,
       "category": {
         "id": "18122",
@@ -49,34 +61,10 @@
       "is_recurring": true
     },
     {
-      "id": "eyJzZWdtZW50SUQiOiJhYzkyYTcxZC03YzhjLTQ5YzgtOTg4NS1hODRkYTY4MDlhYmUiLCJpc29ZZWFyIjoyMDIyLCJpc29XZWVrIjo1MX0=",
-      "start_time": "2022-12-24T12:00:00Z",
-      "end_time": "2022-12-24T23:00:00Z",
-      "title": "Semaine à l'hôtel avec Zera, Lapi, Kenny, Fukano, DFG, etc...",
-      "canceled_until": null,
-      "category": {
-        "id": "18122",
-        "name": "World of Warcraft"
-      },
-      "is_recurring": true
-    },
-    {
-      "id": "eyJzZWdtZW50SUQiOiJiZjliMDJjMy1mYTIxLTQ0YjAtYjRhZi01MjhhNWNkNWMxNjYiLCJpc29ZZWFyIjoyMDIyLCJpc29XZWVrIjo1MX0=",
-      "start_time": "2022-12-25T12:00:00Z",
-      "end_time": "2022-12-25T23:00:00Z",
-      "title": "Semaine à l'hôtel avec Zera, Lapi, Kenny, Fukano, DFG, etc...",
-      "canceled_until": null,
-      "category": {
-        "id": "18122",
-        "name": "World of Warcraft"
-      },
-      "is_recurring": true
-    },
-    {
-      "id": "eyJzZWdtZW50SUQiOiI2MDg3ZjZkMi05MjNjLTRiZTAtYmY5Ny01MjY4OTg2NTk0YzUiLCJpc29ZZWFyIjoyMDIyLCJpc29XZWVrIjo1Mn0=",
-      "start_time": "2022-12-28T12:00:00Z",
-      "end_time": "2022-12-28T23:00:00Z",
-      "title": "Semaine à l'hôtel avec Zera, Lapi, Kenny, Fukano, DFG, etc...",
+      "id": "eyJzZWdtZW50SUQiOiJiYWUwYzU3Yy0zYmZmLTQzNTUtOTZhMy0wYjJkNWViMzI4ZTIiLCJpc29ZZWFyIjoyMDIyLCJpc29XZWVrIjo1Mn0=",
+      "start_time": "2022-12-27T12:00:00Z",
+      "end_time": "2022-12-27T23:00:00Z",
+      "title": "Ponce - Une semaine à l'hôtel - Dernier jour !wow !raid !wowgdoc !projet !sorts !ilvl | !label !son !rs !boutique",
       "canceled_until": null,
       "category": {
         "id": "18122",
@@ -87,20 +75,32 @@
     {
       "id": "eyJzZWdtZW50SUQiOiI0ODY4NmE2NS01NmZhLTQxMjAtODY4ZS02ZGM1YjQ3OGUyYjIiLCJpc29ZZWFyIjoyMDIyLCJpc29XZWVrIjo1Mn0=",
       "start_time": "2022-12-29T12:00:00Z",
-      "end_time": "2022-12-29T23:00:00Z",
-      "title": "Semaine à l'hôtel avec Zera, Lapi, Kenny, Fukano, DFG, etc...",
+      "end_time": "2022-12-29T19:00:00Z",
+      "title": "Maitre des Fleurs !",
       "canceled_until": null,
       "category": {
-        "id": "18122",
-        "name": "World of Warcraft"
+        "id": "338715930",
+        "name": "Maitre des Fleurs"
       },
       "is_recurring": true
     },
     {
       "id": "eyJzZWdtZW50SUQiOiJkYjlhZTYwNi1mNTY4LTQ3MjQtOWMxOS1iOGE2ZWUxMmM2NDIiLCJpc29ZZWFyIjoyMDIyLCJpc29XZWVrIjo1Mn0=",
-      "start_time": "2022-12-30T12:00:00Z",
-      "end_time": "2022-12-30T23:00:00Z",
-      "title": "Semaine à l'hôtel avec Zera, Lapi, Kenny, Fukano, DFG, etc...",
+      "start_time": "2022-12-30T10:00:00Z",
+      "end_time": "2022-12-30T17:00:00Z",
+      "title": "Le retour sur Pokemon !!!",
+      "canceled_until": null,
+      "category": {
+        "id": "670867987",
+        "name": "Pokémon Scarlet/Violet"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiIyNzU1ZGM5MC1hZTcyLTQ4M2EtYjhiZS1mMzIyNjdiYTFiNjAiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjoxfQ==",
+      "start_time": "2023-01-02T12:00:00Z",
+      "end_time": "2023-01-02T23:00:00Z",
+      "title": "Ponce - Une semaine à l'hôtel - Jour 6 !wow !raid !wowgdoc !projet !sorts !ilvl | !label !son !rs !boutique",
       "canceled_until": null,
       "category": {
         "id": "18122",
@@ -109,34 +109,10 @@
       "is_recurring": true
     },
     {
-      "id": "eyJzZWdtZW50SUQiOiJhYzkyYTcxZC03YzhjLTQ5YzgtOTg4NS1hODRkYTY4MDlhYmUiLCJpc29ZZWFyIjoyMDIyLCJpc29XZWVrIjo1Mn0=",
-      "start_time": "2022-12-31T12:00:00Z",
-      "end_time": "2022-12-31T23:00:00Z",
-      "title": "Semaine à l'hôtel avec Zera, Lapi, Kenny, Fukano, DFG, etc...",
-      "canceled_until": null,
-      "category": {
-        "id": "18122",
-        "name": "World of Warcraft"
-      },
-      "is_recurring": true
-    },
-    {
-      "id": "eyJzZWdtZW50SUQiOiJiZjliMDJjMy1mYTIxLTQ0YjAtYjRhZi01MjhhNWNkNWMxNjYiLCJpc29ZZWFyIjoyMDIyLCJpc29XZWVrIjo1Mn0=",
-      "start_time": "2023-01-01T12:00:00Z",
-      "end_time": "2023-01-01T23:00:00Z",
-      "title": "Semaine à l'hôtel avec Zera, Lapi, Kenny, Fukano, DFG, etc...",
-      "canceled_until": null,
-      "category": {
-        "id": "18122",
-        "name": "World of Warcraft"
-      },
-      "is_recurring": true
-    },
-    {
-      "id": "eyJzZWdtZW50SUQiOiI2MDg3ZjZkMi05MjNjLTRiZTAtYmY5Ny01MjY4OTg2NTk0YzUiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjoxfQ==",
-      "start_time": "2023-01-04T12:00:00Z",
-      "end_time": "2023-01-04T23:00:00Z",
-      "title": "Semaine à l'hôtel avec Zera, Lapi, Kenny, Fukano, DFG, etc...",
+      "id": "eyJzZWdtZW50SUQiOiJiYWUwYzU3Yy0zYmZmLTQzNTUtOTZhMy0wYjJkNWViMzI4ZTIiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjoxfQ==",
+      "start_time": "2023-01-03T12:00:00Z",
+      "end_time": "2023-01-03T23:00:00Z",
+      "title": "Ponce - Une semaine à l'hôtel - Dernier jour !wow !raid !wowgdoc !projet !sorts !ilvl | !label !son !rs !boutique",
       "canceled_until": null,
       "category": {
         "id": "18122",
@@ -147,20 +123,32 @@
     {
       "id": "eyJzZWdtZW50SUQiOiI0ODY4NmE2NS01NmZhLTQxMjAtODY4ZS02ZGM1YjQ3OGUyYjIiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjoxfQ==",
       "start_time": "2023-01-05T12:00:00Z",
-      "end_time": "2023-01-05T23:00:00Z",
-      "title": "Semaine à l'hôtel avec Zera, Lapi, Kenny, Fukano, DFG, etc...",
+      "end_time": "2023-01-05T19:00:00Z",
+      "title": "Maitre des Fleurs !",
       "canceled_until": null,
       "category": {
-        "id": "18122",
-        "name": "World of Warcraft"
+        "id": "338715930",
+        "name": "Maitre des Fleurs"
       },
       "is_recurring": true
     },
     {
       "id": "eyJzZWdtZW50SUQiOiJkYjlhZTYwNi1mNTY4LTQ3MjQtOWMxOS1iOGE2ZWUxMmM2NDIiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjoxfQ==",
-      "start_time": "2023-01-06T12:00:00Z",
-      "end_time": "2023-01-06T23:00:00Z",
-      "title": "Semaine à l'hôtel avec Zera, Lapi, Kenny, Fukano, DFG, etc...",
+      "start_time": "2023-01-06T10:00:00Z",
+      "end_time": "2023-01-06T17:00:00Z",
+      "title": "Le retour sur Pokemon !!!",
+      "canceled_until": null,
+      "category": {
+        "id": "670867987",
+        "name": "Pokémon Scarlet/Violet"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiIyNzU1ZGM5MC1hZTcyLTQ4M2EtYjhiZS1mMzIyNjdiYTFiNjAiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjoyfQ==",
+      "start_time": "2023-01-09T12:00:00Z",
+      "end_time": "2023-01-09T23:00:00Z",
+      "title": "Ponce - Une semaine à l'hôtel - Jour 6 !wow !raid !wowgdoc !projet !sorts !ilvl | !label !son !rs !boutique",
       "canceled_until": null,
       "category": {
         "id": "18122",
@@ -169,34 +157,10 @@
       "is_recurring": true
     },
     {
-      "id": "eyJzZWdtZW50SUQiOiJhYzkyYTcxZC03YzhjLTQ5YzgtOTg4NS1hODRkYTY4MDlhYmUiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjoxfQ==",
-      "start_time": "2023-01-07T12:00:00Z",
-      "end_time": "2023-01-07T23:00:00Z",
-      "title": "Semaine à l'hôtel avec Zera, Lapi, Kenny, Fukano, DFG, etc...",
-      "canceled_until": null,
-      "category": {
-        "id": "18122",
-        "name": "World of Warcraft"
-      },
-      "is_recurring": true
-    },
-    {
-      "id": "eyJzZWdtZW50SUQiOiJiZjliMDJjMy1mYTIxLTQ0YjAtYjRhZi01MjhhNWNkNWMxNjYiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjoxfQ==",
-      "start_time": "2023-01-08T12:00:00Z",
-      "end_time": "2023-01-08T23:00:00Z",
-      "title": "Semaine à l'hôtel avec Zera, Lapi, Kenny, Fukano, DFG, etc...",
-      "canceled_until": null,
-      "category": {
-        "id": "18122",
-        "name": "World of Warcraft"
-      },
-      "is_recurring": true
-    },
-    {
-      "id": "eyJzZWdtZW50SUQiOiI2MDg3ZjZkMi05MjNjLTRiZTAtYmY5Ny01MjY4OTg2NTk0YzUiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjoyfQ==",
-      "start_time": "2023-01-11T12:00:00Z",
-      "end_time": "2023-01-11T23:00:00Z",
-      "title": "Semaine à l'hôtel avec Zera, Lapi, Kenny, Fukano, DFG, etc...",
+      "id": "eyJzZWdtZW50SUQiOiJiYWUwYzU3Yy0zYmZmLTQzNTUtOTZhMy0wYjJkNWViMzI4ZTIiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjoyfQ==",
+      "start_time": "2023-01-10T12:00:00Z",
+      "end_time": "2023-01-10T23:00:00Z",
+      "title": "Ponce - Une semaine à l'hôtel - Dernier jour !wow !raid !wowgdoc !projet !sorts !ilvl | !label !son !rs !boutique",
       "canceled_until": null,
       "category": {
         "id": "18122",
@@ -207,20 +171,32 @@
     {
       "id": "eyJzZWdtZW50SUQiOiI0ODY4NmE2NS01NmZhLTQxMjAtODY4ZS02ZGM1YjQ3OGUyYjIiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjoyfQ==",
       "start_time": "2023-01-12T12:00:00Z",
-      "end_time": "2023-01-12T23:00:00Z",
-      "title": "Semaine à l'hôtel avec Zera, Lapi, Kenny, Fukano, DFG, etc...",
+      "end_time": "2023-01-12T19:00:00Z",
+      "title": "Maitre des Fleurs !",
       "canceled_until": null,
       "category": {
-        "id": "18122",
-        "name": "World of Warcraft"
+        "id": "338715930",
+        "name": "Maitre des Fleurs"
       },
       "is_recurring": true
     },
     {
       "id": "eyJzZWdtZW50SUQiOiJkYjlhZTYwNi1mNTY4LTQ3MjQtOWMxOS1iOGE2ZWUxMmM2NDIiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjoyfQ==",
-      "start_time": "2023-01-13T12:00:00Z",
-      "end_time": "2023-01-13T23:00:00Z",
-      "title": "Semaine à l'hôtel avec Zera, Lapi, Kenny, Fukano, DFG, etc...",
+      "start_time": "2023-01-13T10:00:00Z",
+      "end_time": "2023-01-13T17:00:00Z",
+      "title": "Le retour sur Pokemon !!!",
+      "canceled_until": null,
+      "category": {
+        "id": "670867987",
+        "name": "Pokémon Scarlet/Violet"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiIyNzU1ZGM5MC1hZTcyLTQ4M2EtYjhiZS1mMzIyNjdiYTFiNjAiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjozfQ==",
+      "start_time": "2023-01-16T12:00:00Z",
+      "end_time": "2023-01-16T23:00:00Z",
+      "title": "Ponce - Une semaine à l'hôtel - Jour 6 !wow !raid !wowgdoc !projet !sorts !ilvl | !label !son !rs !boutique",
       "canceled_until": null,
       "category": {
         "id": "18122",
@@ -229,10 +205,10 @@
       "is_recurring": true
     },
     {
-      "id": "eyJzZWdtZW50SUQiOiJhYzkyYTcxZC03YzhjLTQ5YzgtOTg4NS1hODRkYTY4MDlhYmUiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjoyfQ==",
-      "start_time": "2023-01-14T12:00:00Z",
-      "end_time": "2023-01-14T23:00:00Z",
-      "title": "Semaine à l'hôtel avec Zera, Lapi, Kenny, Fukano, DFG, etc...",
+      "id": "eyJzZWdtZW50SUQiOiJiYWUwYzU3Yy0zYmZmLTQzNTUtOTZhMy0wYjJkNWViMzI4ZTIiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjozfQ==",
+      "start_time": "2023-01-17T12:00:00Z",
+      "end_time": "2023-01-17T23:00:00Z",
+      "title": "Ponce - Une semaine à l'hôtel - Dernier jour !wow !raid !wowgdoc !projet !sorts !ilvl | !label !son !rs !boutique",
       "canceled_until": null,
       "category": {
         "id": "18122",
@@ -241,10 +217,34 @@
       "is_recurring": true
     },
     {
-      "id": "eyJzZWdtZW50SUQiOiJiZjliMDJjMy1mYTIxLTQ0YjAtYjRhZi01MjhhNWNkNWMxNjYiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjoyfQ==",
-      "start_time": "2023-01-15T12:00:00Z",
-      "end_time": "2023-01-15T23:00:00Z",
-      "title": "Semaine à l'hôtel avec Zera, Lapi, Kenny, Fukano, DFG, etc...",
+      "id": "eyJzZWdtZW50SUQiOiI0ODY4NmE2NS01NmZhLTQxMjAtODY4ZS02ZGM1YjQ3OGUyYjIiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjozfQ==",
+      "start_time": "2023-01-19T12:00:00Z",
+      "end_time": "2023-01-19T19:00:00Z",
+      "title": "Maitre des Fleurs !",
+      "canceled_until": null,
+      "category": {
+        "id": "338715930",
+        "name": "Maitre des Fleurs"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiJkYjlhZTYwNi1mNTY4LTQ3MjQtOWMxOS1iOGE2ZWUxMmM2NDIiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjozfQ==",
+      "start_time": "2023-01-20T10:00:00Z",
+      "end_time": "2023-01-20T17:00:00Z",
+      "title": "Le retour sur Pokemon !!!",
+      "canceled_until": null,
+      "category": {
+        "id": "670867987",
+        "name": "Pokémon Scarlet/Violet"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiIyNzU1ZGM5MC1hZTcyLTQ4M2EtYjhiZS1mMzIyNjdiYTFiNjAiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjo0fQ==",
+      "start_time": "2023-01-23T12:00:00Z",
+      "end_time": "2023-01-23T23:00:00Z",
+      "title": "Ponce - Une semaine à l'hôtel - Jour 6 !wow !raid !wowgdoc !projet !sorts !ilvl | !label !son !rs !boutique",
       "canceled_until": null,
       "category": {
         "id": "18122",
