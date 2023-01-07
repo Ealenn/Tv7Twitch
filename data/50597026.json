@@ -13,15 +13,6 @@
   },
   "schedulers": [
     {
-      "id": "eyJzZWdtZW50SUQiOiJiMzI3ZTI5Yy1mMzIzLTRmOGYtYjA0MC0yOGEwNDQ0YjRmYjIiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjoxfQ==",
-      "start_time": "2023-01-06T10:00:00Z",
-      "end_time": "2023-01-06T17:00:00Z",
-      "title": "Premier stream de 2023 !",
-      "canceled_until": null,
-      "category": null,
-      "is_recurring": false
-    },
-    {
       "id": "eyJzZWdtZW50SUQiOiI0NjYwNmU2OS0xMjIzLTQyNDctOTU3ZS00MjBhYzMzMTdkMGEiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjoxfQ==",
       "start_time": "2023-01-08T12:00:00Z",
       "end_time": "2023-01-08T16:00:00Z",
