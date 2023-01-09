@@ -13,18 +13,6 @@
   },
   "schedulers": [
     {
-      "id": "eyJzZWdtZW50SUQiOiI5NWNhNzhiNy0zOTVjLTRmODgtOTFjZi02M2ZkZGY4MDk2YjgiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjoxfQ==",
-      "start_time": "2023-01-08T20:00:00Z",
-      "end_time": "2023-01-08T23:00:00Z",
-      "title": "WINTER SERIES ",
-      "canceled_until": null,
-      "category": {
-        "id": "488190",
-        "name": "Poker"
-      },
-      "is_recurring": false
-    },
-    {
       "id": "eyJzZWdtZW50SUQiOiI1OWVkNDEyMy0zNjM1LTQxMzUtYmQxNi04ZmZlMjQyNGE5Y2YiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjoyfQ==",
       "start_time": "2023-01-09T18:00:00Z",
       "end_time": "2023-01-09T19:00:00Z",
@@ -249,6 +237,18 @@
       "category": {
         "id": "509658",
         "name": "Just Chatting"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiI0Zjc3NDRkOS1jOTVmLTRiNmItODk1Ny1iZTg1MjgxMzM0OGQiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjozfQ==",
+      "start_time": "2023-01-20T13:30:00Z",
+      "end_time": "2023-01-20T17:00:00Z",
+      "title": " ⚽ COACH BIZOT avec l'OL",
+      "canceled_until": null,
+      "category": {
+        "id": "1047410718",
+        "name": "Football Manager 2023"
       },
       "is_recurring": true
     }

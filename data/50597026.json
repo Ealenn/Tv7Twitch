@@ -13,16 +13,244 @@
   },
   "schedulers": [
     {
-      "id": "eyJzZWdtZW50SUQiOiI0NjYwNmU2OS0xMjIzLTQyNDctOTU3ZS00MjBhYzMzMTdkMGEiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjoxfQ==",
-      "start_time": "2023-01-08T12:00:00Z",
-      "end_time": "2023-01-08T16:00:00Z",
-      "title": "Tournoi MK",
+      "id": "eyJzZWdtZW50SUQiOiIxN2YwNjdmZC0wNzZhLTRmOTAtYjhjMy0zOGMxNDcwZGFmMDciLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjoyfQ==",
+      "start_time": "2023-01-09T10:00:00Z",
+      "end_time": "2023-01-09T17:00:00Z",
+      "title": "Culture & Plaisir ",
       "canceled_until": null,
       "category": {
-        "id": "941530474",
-        "name": "Mario Kart 8 Deluxe"
+        "id": "338715930",
+        "name": "Maitre des Fleurs"
       },
-      "is_recurring": false
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiI5YTlmZGM0YS1jZGM2LTQ5OTMtOTdjMC1kODkwNzVhZDAzYzYiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjoyfQ==",
+      "start_time": "2023-01-10T10:00:00Z",
+      "end_time": "2023-01-10T17:00:00Z",
+      "title": "On fait quelques ranked et on se fait coacher avec Fildrong ",
+      "canceled_until": null,
+      "category": {
+        "id": "670867987",
+        "name": "Pokémon Scarlet/Violet"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiIxYTQzZjY0NS1lMzNkLTQ1NmUtOGMyMS0yNGM5MmExYjE2YmQiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjoyfQ==",
+      "start_time": "2023-01-11T10:00:00Z",
+      "end_time": "2023-01-11T17:00:00Z",
+      "title": "On commence le speedrun Mario Odyssey",
+      "canceled_until": null,
+      "category": {
+        "id": "493997",
+        "name": "Super Mario Odyssey"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiJiY2I2N2U1MS02NzhkLTQxMDUtODEyNi0yMTI4ZDc3YWQ2OWUiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjoyfQ==",
+      "start_time": "2023-01-11T19:00:00Z",
+      "end_time": "2023-01-11T22:00:00Z",
+      "title": "OMG LE MEUPORG",
+      "canceled_until": null,
+      "category": {
+        "id": "24241",
+        "name": "Final Fantasy XIV Online"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiIyYzE2ZjZhNS0yNWEwLTRlZDItYTUzNi01Y2RlNTJjYzQ0M2IiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjoyfQ==",
+      "start_time": "2023-01-12T14:00:00Z",
+      "end_time": "2023-01-12T21:00:00Z",
+      "title": "On découvre Isaac OMG",
+      "canceled_until": null,
+      "category": {
+        "id": "1414860634",
+        "name": "The Binding of Isaac: Repentance"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiJjMGQ5ZGJiMC1jNDM0LTQ1MjEtYmFmOC04OWRlM2JiZjQ1ZmYiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjoyfQ==",
+      "start_time": "2023-01-13T10:00:00Z",
+      "end_time": "2023-01-13T13:00:00Z",
+      "title": "Un peu de golf pour commencer la journée avé les copains",
+      "canceled_until": null,
+      "category": {
+        "id": "2044170173",
+        "name": "Nintendo Switch Sports"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiJmZGU4NWY2Zi0zY2I5LTQ4OGQtOGJlNC1hOWIxYzljNDM0MjMiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjoyfQ==",
+      "start_time": "2023-01-13T13:00:00Z",
+      "end_time": "2023-01-13T17:00:00Z",
+      "title": "P'tit Code Names avé les copains",
+      "canceled_until": null,
+      "category": {
+        "id": "508509",
+        "name": "Codenames"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiI1MzViNTc2My1iNjYxLTQxY2QtYjdkMC02NzdhOTgxOWJhNGEiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjoyfQ==",
+      "start_time": "2023-01-15T16:00:00Z",
+      "end_time": "2023-01-15T20:00:00Z",
+      "title": "OUUUUEEEEE LE MEUPORG",
+      "canceled_until": null,
+      "category": {
+        "id": "24241",
+        "name": "Final Fantasy XIV Online"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiIxN2YwNjdmZC0wNzZhLTRmOTAtYjhjMy0zOGMxNDcwZGFmMDciLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjozfQ==",
+      "start_time": "2023-01-16T10:00:00Z",
+      "end_time": "2023-01-16T17:00:00Z",
+      "title": "Culture & Plaisir ",
+      "canceled_until": null,
+      "category": {
+        "id": "338715930",
+        "name": "Maitre des Fleurs"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiI5YTlmZGM0YS1jZGM2LTQ5OTMtOTdjMC1kODkwNzVhZDAzYzYiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjozfQ==",
+      "start_time": "2023-01-17T10:00:00Z",
+      "end_time": "2023-01-17T17:00:00Z",
+      "title": "On fait quelques ranked et on se fait coacher avec Fildrong ",
+      "canceled_until": null,
+      "category": {
+        "id": "670867987",
+        "name": "Pokémon Scarlet/Violet"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiIxYTQzZjY0NS1lMzNkLTQ1NmUtOGMyMS0yNGM5MmExYjE2YmQiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjozfQ==",
+      "start_time": "2023-01-18T10:00:00Z",
+      "end_time": "2023-01-18T17:00:00Z",
+      "title": "On commence le speedrun Mario Odyssey",
+      "canceled_until": null,
+      "category": {
+        "id": "493997",
+        "name": "Super Mario Odyssey"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiJiY2I2N2U1MS02NzhkLTQxMDUtODEyNi0yMTI4ZDc3YWQ2OWUiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjozfQ==",
+      "start_time": "2023-01-18T19:00:00Z",
+      "end_time": "2023-01-18T22:00:00Z",
+      "title": "OMG LE MEUPORG",
+      "canceled_until": null,
+      "category": {
+        "id": "24241",
+        "name": "Final Fantasy XIV Online"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiIyYzE2ZjZhNS0yNWEwLTRlZDItYTUzNi01Y2RlNTJjYzQ0M2IiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjozfQ==",
+      "start_time": "2023-01-19T14:00:00Z",
+      "end_time": "2023-01-19T21:00:00Z",
+      "title": "On découvre Isaac OMG",
+      "canceled_until": null,
+      "category": {
+        "id": "1414860634",
+        "name": "The Binding of Isaac: Repentance"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiJjMGQ5ZGJiMC1jNDM0LTQ1MjEtYmFmOC04OWRlM2JiZjQ1ZmYiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjozfQ==",
+      "start_time": "2023-01-20T10:00:00Z",
+      "end_time": "2023-01-20T13:00:00Z",
+      "title": "Un peu de golf pour commencer la journée avé les copains",
+      "canceled_until": null,
+      "category": {
+        "id": "2044170173",
+        "name": "Nintendo Switch Sports"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiJmZGU4NWY2Zi0zY2I5LTQ4OGQtOGJlNC1hOWIxYzljNDM0MjMiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjozfQ==",
+      "start_time": "2023-01-20T13:00:00Z",
+      "end_time": "2023-01-20T17:00:00Z",
+      "title": "P'tit Code Names avé les copains",
+      "canceled_until": null,
+      "category": {
+        "id": "508509",
+        "name": "Codenames"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiI1MzViNTc2My1iNjYxLTQxY2QtYjdkMC02NzdhOTgxOWJhNGEiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjozfQ==",
+      "start_time": "2023-01-22T16:00:00Z",
+      "end_time": "2023-01-22T20:00:00Z",
+      "title": "OUUUUEEEEE LE MEUPORG",
+      "canceled_until": null,
+      "category": {
+        "id": "24241",
+        "name": "Final Fantasy XIV Online"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiIxN2YwNjdmZC0wNzZhLTRmOTAtYjhjMy0zOGMxNDcwZGFmMDciLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjo0fQ==",
+      "start_time": "2023-01-23T10:00:00Z",
+      "end_time": "2023-01-23T17:00:00Z",
+      "title": "Culture & Plaisir ",
+      "canceled_until": null,
+      "category": {
+        "id": "338715930",
+        "name": "Maitre des Fleurs"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiI5YTlmZGM0YS1jZGM2LTQ5OTMtOTdjMC1kODkwNzVhZDAzYzYiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjo0fQ==",
+      "start_time": "2023-01-24T10:00:00Z",
+      "end_time": "2023-01-24T17:00:00Z",
+      "title": "On fait quelques ranked et on se fait coacher avec Fildrong ",
+      "canceled_until": null,
+      "category": {
+        "id": "670867987",
+        "name": "Pokémon Scarlet/Violet"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiIxYTQzZjY0NS1lMzNkLTQ1NmUtOGMyMS0yNGM5MmExYjE2YmQiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjo0fQ==",
+      "start_time": "2023-01-25T10:00:00Z",
+      "end_time": "2023-01-25T17:00:00Z",
+      "title": "On commence le speedrun Mario Odyssey",
+      "canceled_until": null,
+      "category": {
+        "id": "493997",
+        "name": "Super Mario Odyssey"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiJiY2I2N2U1MS02NzhkLTQxMDUtODEyNi0yMTI4ZDc3YWQ2OWUiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjo0fQ==",
+      "start_time": "2023-01-25T19:00:00Z",
+      "end_time": "2023-01-25T22:00:00Z",
+      "title": "OMG LE MEUPORG",
+      "canceled_until": null,
+      "category": {
+        "id": "24241",
+        "name": "Final Fantasy XIV Online"
+      },
+      "is_recurring": true
     }
   ]
 }
