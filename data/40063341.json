@@ -7,63 +7,27 @@
     "broadcaster_type": "partner",
     "description": "",
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/3cdae7df-600c-4833-8dfe-8d2abc5a3b25-profile_image-300x300.png",
-    "offline_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/e67e9587-22a1-482b-a2a4-774d4889edd7-channel_offline_image-1920x1080.png",
+    "offline_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/ad003af2-0bfd-4335-bd8a-e1509291dd5c-channel_offline_image-1920x1080.png",
     "view_count": 121218348,
     "created_at": "2013-02-05T19:20:22Z"
   },
   "schedulers": [
     {
-      "id": "eyJzZWdtZW50SUQiOiI1OWVkNDEyMy0zNjM1LTQxMzUtYmQxNi04ZmZlMjQyNGE5Y2YiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjoyfQ==",
-      "start_time": "2023-01-09T18:00:00Z",
-      "end_time": "2023-01-09T19:00:00Z",
-      "title": "🎙️ PRÉ-LIVE",
-      "canceled_until": null,
-      "category": {
-        "id": "509658",
-        "name": "Just Chatting"
-      },
-      "is_recurring": true
-    },
-    {
-      "id": "eyJzZWdtZW50SUQiOiJiMTJkNzk3OS03MGE3LTQwNzktYmE4Mi02NWY5NzAxZmY5ZjMiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjoyfQ==",
-      "start_time": "2023-01-09T19:00:00Z",
-      "end_time": "2023-01-09T23:00:00Z",
-      "title": "⚽ COACH BIZOT avec l'OL",
-      "canceled_until": null,
-      "category": {
-        "id": "1047410718",
-        "name": "Football Manager 2023"
-      },
-      "is_recurring": true
-    },
-    {
       "id": "eyJzZWdtZW50SUQiOiIxZWJiZmNlZS1iMjJiLTQxZGYtOGFmZC1lZjJjM2Q5MWQ0OGYiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjoyfQ==",
-      "start_time": "2023-01-10T13:00:00Z",
-      "end_time": "2023-01-10T13:30:00Z",
-      "title": "🎙️ PRÉ-LIVE",
+      "start_time": "2023-01-10T19:00:00Z",
+      "end_time": "2023-01-10T21:30:00Z",
+      "title": "🍿 POPCORN AVEC JEAN-PAUL ROUVE, AVA MIND, HORTY & ETOILES",
       "canceled_until": null,
       "category": {
-        "id": "509658",
-        "name": "Just Chatting"
-      },
-      "is_recurring": true
-    },
-    {
-      "id": "eyJzZWdtZW50SUQiOiI5NDZiYmY2MS1mMTM2LTQwYjYtYjEzMy1lOTNlNmY2MDAzZjYiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjoyfQ==",
-      "start_time": "2023-01-10T13:30:00Z",
-      "end_time": "2023-01-10T17:00:00Z",
-      "title": " ⚽ COACH BIZOT avec l'OL",
-      "canceled_until": null,
-      "category": {
-        "id": "1047410718",
-        "name": "Football Manager 2023"
+        "id": "417752",
+        "name": "Talk Shows & Podcasts"
       },
       "is_recurring": true
     },
     {
       "id": "eyJzZWdtZW50SUQiOiI2MGJmMDRjYy00ODYzLTRlODMtYjAyMy0xN2ZkYjZmM2JkMzUiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjoyfQ==",
-      "start_time": "2023-01-11T18:00:00Z",
-      "end_time": "2023-01-11T18:30:00Z",
+      "start_time": "2023-01-11T13:00:00Z",
+      "end_time": "2023-01-11T14:00:00Z",
       "title": "🎙️ PRÉ-LIVE",
       "canceled_until": null,
       "category": {
@@ -74,8 +38,8 @@
     },
     {
       "id": "eyJzZWdtZW50SUQiOiIwNTZkZmNlYy0xYmU0LTQ0NTMtYTYwMS1hMzZkOTc5N2RjOGQiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjoyfQ==",
-      "start_time": "2023-01-11T18:30:00Z",
-      "end_time": "2023-01-11T22:00:00Z",
+      "start_time": "2023-01-11T14:00:00Z",
+      "end_time": "2023-01-11T16:30:00Z",
       "title": " ⚽ COACH BIZOT avec l'OL",
       "canceled_until": null,
       "category": {
@@ -85,10 +49,22 @@
       "is_recurring": true
     },
     {
+      "id": "eyJzZWdtZW50SUQiOiIxY2UzMmIwNC04Nzk5LTQ3MjAtOTA3Zi1jNDNiM2U2NWMzNTAiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjoyfQ==",
+      "start_time": "2023-01-11T16:30:00Z",
+      "end_time": "2023-01-11T17:30:00Z",
+      "title": "BRAWL STARS",
+      "canceled_until": null,
+      "category": {
+        "id": "497497",
+        "name": "Brawl Stars"
+      },
+      "is_recurring": false
+    },
+    {
       "id": "eyJzZWdtZW50SUQiOiJlOTI2NDcyOS04ODM5LTQ4Y2MtOGI2MC04MjI4ZjA5MzFkYjIiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjoyfQ==",
-      "start_time": "2023-01-12T13:00:00Z",
-      "end_time": "2023-01-12T13:30:00Z",
-      "title": "🎙️ PRÉ-LIVE",
+      "start_time": "2023-01-12T19:00:00Z",
+      "end_time": null,
+      "title": "🥟 EN CUISINE AVEC BIGFLO",
       "canceled_until": null,
       "category": {
         "id": "509658",
@@ -97,21 +73,9 @@
       "is_recurring": true
     },
     {
-      "id": "eyJzZWdtZW50SUQiOiJlMDJmMTAwOS03MTY3LTRhNjMtYTQ5ZC1kZTA3NDhlYmNlMmMiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjoyfQ==",
-      "start_time": "2023-01-12T13:30:00Z",
-      "end_time": "2023-01-12T17:30:00Z",
-      "title": " ⚽ COACH BIZOT avec l'OL",
-      "canceled_until": null,
-      "category": {
-        "id": "1047410718",
-        "name": "Football Manager 2023"
-      },
-      "is_recurring": true
-    },
-    {
       "id": "eyJzZWdtZW50SUQiOiI2MzVmYzVkMi0xMTRiLTQ1NmYtYTUwZS1jOThkYjkzYmZkOTAiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjoyfQ==",
       "start_time": "2023-01-13T13:00:00Z",
-      "end_time": "2023-01-13T13:30:00Z",
+      "end_time": "2023-01-13T14:00:00Z",
       "title": "🎙️ PRÉ-LIVE",
       "canceled_until": null,
       "category": {
@@ -122,8 +86,8 @@
     },
     {
       "id": "eyJzZWdtZW50SUQiOiI0Zjc3NDRkOS1jOTVmLTRiNmItODk1Ny1iZTg1MjgxMzM0OGQiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjoyfQ==",
-      "start_time": "2023-01-13T13:30:00Z",
-      "end_time": "2023-01-13T17:00:00Z",
+      "start_time": "2023-01-13T14:00:00Z",
+      "end_time": "2023-01-13T18:00:00Z",
       "title": " ⚽ COACH BIZOT avec l'OL",
       "canceled_until": null,
       "category": {
@@ -134,8 +98,8 @@
     },
     {
       "id": "eyJzZWdtZW50SUQiOiI1OWVkNDEyMy0zNjM1LTQxMzUtYmQxNi04ZmZlMjQyNGE5Y2YiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjozfQ==",
-      "start_time": "2023-01-16T18:00:00Z",
-      "end_time": "2023-01-16T19:00:00Z",
+      "start_time": "2023-01-16T18:30:00Z",
+      "end_time": "2023-01-16T20:00:00Z",
       "title": "🎙️ PRÉ-LIVE",
       "canceled_until": null,
       "category": {
@@ -146,44 +110,32 @@
     },
     {
       "id": "eyJzZWdtZW50SUQiOiJiMTJkNzk3OS03MGE3LTQwNzktYmE4Mi02NWY5NzAxZmY5ZjMiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjozfQ==",
-      "start_time": "2023-01-16T19:00:00Z",
-      "end_time": "2023-01-16T23:00:00Z",
-      "title": "⚽ COACH BIZOT avec l'OL",
+      "start_time": "2023-01-16T20:00:00Z",
+      "end_time": "2023-01-17T00:00:00Z",
+      "title": "🃏 DAY 2 MAIN EVENT ",
       "canceled_until": null,
       "category": {
-        "id": "1047410718",
-        "name": "Football Manager 2023"
+        "id": "488190",
+        "name": "Poker"
       },
       "is_recurring": true
     },
     {
       "id": "eyJzZWdtZW50SUQiOiIxZWJiZmNlZS1iMjJiLTQxZGYtOGFmZC1lZjJjM2Q5MWQ0OGYiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjozfQ==",
-      "start_time": "2023-01-17T13:00:00Z",
-      "end_time": "2023-01-17T13:30:00Z",
-      "title": "🎙️ PRÉ-LIVE",
+      "start_time": "2023-01-17T19:00:00Z",
+      "end_time": "2023-01-17T21:30:00Z",
+      "title": "🍿 POPCORN AVEC JEAN-PAUL ROUVE, AVA MIND, HORTY & ETOILES",
       "canceled_until": null,
       "category": {
-        "id": "509658",
-        "name": "Just Chatting"
-      },
-      "is_recurring": true
-    },
-    {
-      "id": "eyJzZWdtZW50SUQiOiI5NDZiYmY2MS1mMTM2LTQwYjYtYjEzMy1lOTNlNmY2MDAzZjYiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjozfQ==",
-      "start_time": "2023-01-17T13:30:00Z",
-      "end_time": "2023-01-17T17:00:00Z",
-      "title": " ⚽ COACH BIZOT avec l'OL",
-      "canceled_until": null,
-      "category": {
-        "id": "1047410718",
-        "name": "Football Manager 2023"
+        "id": "417752",
+        "name": "Talk Shows & Podcasts"
       },
       "is_recurring": true
     },
     {
       "id": "eyJzZWdtZW50SUQiOiI2MGJmMDRjYy00ODYzLTRlODMtYjAyMy0xN2ZkYjZmM2JkMzUiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjozfQ==",
-      "start_time": "2023-01-18T18:00:00Z",
-      "end_time": "2023-01-18T18:30:00Z",
+      "start_time": "2023-01-18T13:00:00Z",
+      "end_time": "2023-01-18T14:00:00Z",
       "title": "🎙️ PRÉ-LIVE",
       "canceled_until": null,
       "category": {
@@ -194,8 +146,8 @@
     },
     {
       "id": "eyJzZWdtZW50SUQiOiIwNTZkZmNlYy0xYmU0LTQ0NTMtYTYwMS1hMzZkOTc5N2RjOGQiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjozfQ==",
-      "start_time": "2023-01-18T18:30:00Z",
-      "end_time": "2023-01-18T22:00:00Z",
+      "start_time": "2023-01-18T14:00:00Z",
+      "end_time": "2023-01-18T16:30:00Z",
       "title": " ⚽ COACH BIZOT avec l'OL",
       "canceled_until": null,
       "category": {
@@ -206,9 +158,9 @@
     },
     {
       "id": "eyJzZWdtZW50SUQiOiJlOTI2NDcyOS04ODM5LTQ4Y2MtOGI2MC04MjI4ZjA5MzFkYjIiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjozfQ==",
-      "start_time": "2023-01-19T13:00:00Z",
-      "end_time": "2023-01-19T13:30:00Z",
-      "title": "🎙️ PRÉ-LIVE",
+      "start_time": "2023-01-19T19:00:00Z",
+      "end_time": null,
+      "title": "🥟 EN CUISINE AVEC BIGFLO",
       "canceled_until": null,
       "category": {
         "id": "509658",
@@ -217,21 +169,9 @@
       "is_recurring": true
     },
     {
-      "id": "eyJzZWdtZW50SUQiOiJlMDJmMTAwOS03MTY3LTRhNjMtYTQ5ZC1kZTA3NDhlYmNlMmMiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjozfQ==",
-      "start_time": "2023-01-19T13:30:00Z",
-      "end_time": "2023-01-19T17:30:00Z",
-      "title": " ⚽ COACH BIZOT avec l'OL",
-      "canceled_until": null,
-      "category": {
-        "id": "1047410718",
-        "name": "Football Manager 2023"
-      },
-      "is_recurring": true
-    },
-    {
       "id": "eyJzZWdtZW50SUQiOiI2MzVmYzVkMi0xMTRiLTQ1NmYtYTUwZS1jOThkYjkzYmZkOTAiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjozfQ==",
       "start_time": "2023-01-20T13:00:00Z",
-      "end_time": "2023-01-20T13:30:00Z",
+      "end_time": "2023-01-20T14:00:00Z",
       "title": "🎙️ PRÉ-LIVE",
       "canceled_until": null,
       "category": {
@@ -242,8 +182,68 @@
     },
     {
       "id": "eyJzZWdtZW50SUQiOiI0Zjc3NDRkOS1jOTVmLTRiNmItODk1Ny1iZTg1MjgxMzM0OGQiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjozfQ==",
-      "start_time": "2023-01-20T13:30:00Z",
-      "end_time": "2023-01-20T17:00:00Z",
+      "start_time": "2023-01-20T14:00:00Z",
+      "end_time": "2023-01-20T18:00:00Z",
+      "title": " ⚽ COACH BIZOT avec l'OL",
+      "canceled_until": null,
+      "category": {
+        "id": "1047410718",
+        "name": "Football Manager 2023"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiI1OWVkNDEyMy0zNjM1LTQxMzUtYmQxNi04ZmZlMjQyNGE5Y2YiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjo0fQ==",
+      "start_time": "2023-01-23T18:30:00Z",
+      "end_time": "2023-01-23T20:00:00Z",
+      "title": "🎙️ PRÉ-LIVE",
+      "canceled_until": null,
+      "category": {
+        "id": "509658",
+        "name": "Just Chatting"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiJiMTJkNzk3OS03MGE3LTQwNzktYmE4Mi02NWY5NzAxZmY5ZjMiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjo0fQ==",
+      "start_time": "2023-01-23T20:00:00Z",
+      "end_time": "2023-01-24T00:00:00Z",
+      "title": "🃏 DAY 2 MAIN EVENT ",
+      "canceled_until": null,
+      "category": {
+        "id": "488190",
+        "name": "Poker"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiIxZWJiZmNlZS1iMjJiLTQxZGYtOGFmZC1lZjJjM2Q5MWQ0OGYiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjo0fQ==",
+      "start_time": "2023-01-24T19:00:00Z",
+      "end_time": "2023-01-24T21:30:00Z",
+      "title": "🍿 POPCORN AVEC JEAN-PAUL ROUVE, AVA MIND, HORTY & ETOILES",
+      "canceled_until": null,
+      "category": {
+        "id": "417752",
+        "name": "Talk Shows & Podcasts"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiI2MGJmMDRjYy00ODYzLTRlODMtYjAyMy0xN2ZkYjZmM2JkMzUiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjo0fQ==",
+      "start_time": "2023-01-25T13:00:00Z",
+      "end_time": "2023-01-25T14:00:00Z",
+      "title": "🎙️ PRÉ-LIVE",
+      "canceled_until": null,
+      "category": {
+        "id": "509658",
+        "name": "Just Chatting"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiIwNTZkZmNlYy0xYmU0LTQ0NTMtYTYwMS1hMzZkOTc5N2RjOGQiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjo0fQ==",
+      "start_time": "2023-01-25T14:00:00Z",
+      "end_time": "2023-01-25T16:30:00Z",
       "title": " ⚽ COACH BIZOT avec l'OL",
       "canceled_until": null,
       "category": {
