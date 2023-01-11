@@ -23,6 +23,30 @@
         "name": "Science & Technology"
       },
       "is_recurring": false
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiI0ZGE3NGE3MC1jNGFmLTQwZDEtYjM4OS0yYjJjOGE1NDEyNTIiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjozfQ==",
+      "start_time": "2023-01-18T11:00:00Z",
+      "end_time": "2023-01-18T12:30:00Z",
+      "title": "En direct du SISMOC : InSight",
+      "canceled_until": null,
+      "category": {
+        "id": "509670",
+        "name": "Science & Technology"
+      },
+      "is_recurring": false
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiIzMTU4MmJmYy0yZGE4LTRkOWQtOWRlNC00YWVlODBhNTc2N2YiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjo0fQ==",
+      "start_time": "2023-01-26T11:00:00Z",
+      "end_time": "2023-01-26T12:30:00Z",
+      "title": "Déjeuner thématique : SWOT",
+      "canceled_until": null,
+      "category": {
+        "id": "509670",
+        "name": "Science & Technology"
+      },
+      "is_recurring": false
     }
   ]
 }
