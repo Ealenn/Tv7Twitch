@@ -13,18 +13,6 @@
   },
   "schedulers": [
     {
-      "id": "eyJzZWdtZW50SUQiOiIwMzQxMTU5Mi0xYjEyLTRjMTEtOGRmMi1kYzdiN2E0NDNlNjIiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjoyfQ==",
-      "start_time": "2023-01-11T15:30:00Z",
-      "end_time": "2023-01-11T17:00:00Z",
-      "title": "À la découverte des métiers du spatial",
-      "canceled_until": null,
-      "category": {
-        "id": "509670",
-        "name": "Science & Technology"
-      },
-      "is_recurring": false
-    },
-    {
       "id": "eyJzZWdtZW50SUQiOiI0ZGE3NGE3MC1jNGFmLTQwZDEtYjM4OS0yYjJjOGE1NDEyNTIiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjozfQ==",
       "start_time": "2023-01-18T11:00:00Z",
       "end_time": "2023-01-18T12:30:00Z",
