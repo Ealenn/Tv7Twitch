@@ -13,30 +13,6 @@
   },
   "schedulers": [
     {
-      "id": "eyJzZWdtZW50SUQiOiI2MzVmYzVkMi0xMTRiLTQ1NmYtYTUwZS1jOThkYjkzYmZkOTAiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjoyfQ==",
-      "start_time": "2023-01-13T13:00:00Z",
-      "end_time": "2023-01-13T14:00:00Z",
-      "title": "🎙️ PRÉ-LIVE",
-      "canceled_until": null,
-      "category": {
-        "id": "509658",
-        "name": "Just Chatting"
-      },
-      "is_recurring": true
-    },
-    {
-      "id": "eyJzZWdtZW50SUQiOiI0Zjc3NDRkOS1jOTVmLTRiNmItODk1Ny1iZTg1MjgxMzM0OGQiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjoyfQ==",
-      "start_time": "2023-01-13T14:00:00Z",
-      "end_time": "2023-01-13T18:00:00Z",
-      "title": " ⚽ COACH BIZOT avec l'OL",
-      "canceled_until": null,
-      "category": {
-        "id": "1047410718",
-        "name": "Football Manager 2023"
-      },
-      "is_recurring": true
-    },
-    {
       "id": "eyJzZWdtZW50SUQiOiI1OWVkNDEyMy0zNjM1LTQxMzUtYmQxNi04ZmZlMjQyNGE5Y2YiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjozfQ==",
       "start_time": "2023-01-16T18:30:00Z",
       "end_time": "2023-01-16T20:00:00Z",
@@ -249,6 +225,30 @@
       "category": {
         "id": "488190",
         "name": "Poker"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiIxZWJiZmNlZS1iMjJiLTQxZGYtOGFmZC1lZjJjM2Q5MWQ0OGYiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjo1fQ==",
+      "start_time": "2023-01-31T19:00:00Z",
+      "end_time": "2023-01-31T21:30:00Z",
+      "title": "🍿 POPCORN AVEC JEAN-PAUL ROUVE, AVA MIND, HORTY & ETOILES",
+      "canceled_until": null,
+      "category": {
+        "id": "417752",
+        "name": "Talk Shows & Podcasts"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiI2MGJmMDRjYy00ODYzLTRlODMtYjAyMy0xN2ZkYjZmM2JkMzUiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjo1fQ==",
+      "start_time": "2023-02-01T13:00:00Z",
+      "end_time": "2023-02-01T14:00:00Z",
+      "title": "🎙️ PRÉ-LIVE",
+      "canceled_until": null,
+      "category": {
+        "id": "509658",
+        "name": "Just Chatting"
       },
       "is_recurring": true
     }
