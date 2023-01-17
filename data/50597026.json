@@ -13,22 +13,10 @@
   },
   "schedulers": [
     {
-      "id": "eyJzZWdtZW50SUQiOiIxN2YwNjdmZC0wNzZhLTRmOTAtYjhjMy0zOGMxNDcwZGFmMDciLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjozfQ==",
-      "start_time": "2023-01-16T10:00:00Z",
-      "end_time": "2023-01-16T17:00:00Z",
-      "title": "Culture & Plaisir ",
-      "canceled_until": null,
-      "category": {
-        "id": "338715930",
-        "name": "Maitre des Fleurs"
-      },
-      "is_recurring": true
-    },
-    {
       "id": "eyJzZWdtZW50SUQiOiI5YTlmZGM0YS1jZGM2LTQ5OTMtOTdjMC1kODkwNzVhZDAzYzYiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjozfQ==",
       "start_time": "2023-01-17T10:00:00Z",
-      "end_time": "2023-01-17T17:00:00Z",
-      "title": "On fait quelques ranked et on se fait coacher avec Fildrong ",
+      "end_time": "2023-01-17T16:00:00Z",
+      "title": "On fait quelques ranked oklm",
       "canceled_until": null,
       "category": {
         "id": "670867987",
@@ -37,10 +25,22 @@
       "is_recurring": true
     },
     {
+      "id": "eyJzZWdtZW50SUQiOiIzNjY5NWM5MS1lNTc0LTQ2MTMtYjE3MC05NmNlZWMxYTE3ZmUiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjozfQ==",
+      "start_time": "2023-01-17T19:00:00Z",
+      "end_time": "2023-01-17T22:00:00Z",
+      "title": "Popcorn sur la chaîne de Domingo",
+      "canceled_until": null,
+      "category": {
+        "id": "417752",
+        "name": "Talk Shows & Podcasts"
+      },
+      "is_recurring": true
+    },
+    {
       "id": "eyJzZWdtZW50SUQiOiIxYTQzZjY0NS1lMzNkLTQ1NmUtOGMyMS0yNGM5MmExYjE2YmQiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjozfQ==",
       "start_time": "2023-01-18T10:00:00Z",
       "end_time": "2023-01-18T17:00:00Z",
-      "title": "On commence le speedrun Mario Odyssey",
+      "title": "On continue d’apprendre le speedrun Mario Odyssey avec Aife",
       "canceled_until": null,
       "category": {
         "id": "493997",
@@ -49,22 +49,10 @@
       "is_recurring": true
     },
     {
-      "id": "eyJzZWdtZW50SUQiOiJiY2I2N2U1MS02NzhkLTQxMDUtODEyNi0yMTI4ZDc3YWQ2OWUiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjozfQ==",
-      "start_time": "2023-01-18T17:00:00Z",
-      "end_time": "2023-01-18T20:00:00Z",
-      "title": "OMG LE MEUPORG",
-      "canceled_until": null,
-      "category": {
-        "id": "24241",
-        "name": "Final Fantasy XIV Online"
-      },
-      "is_recurring": true
-    },
-    {
       "id": "eyJzZWdtZW50SUQiOiIyYzE2ZjZhNS0yNWEwLTRlZDItYTUzNi01Y2RlNTJjYzQ0M2IiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjozfQ==",
-      "start_time": "2023-01-19T14:00:00Z",
-      "end_time": "2023-01-19T21:00:00Z",
-      "title": "On découvre Isaac OMG",
+      "start_time": "2023-01-19T10:00:00Z",
+      "end_time": "2023-01-19T17:00:00Z",
+      "title": "La suite d’Isaac OMG",
       "canceled_until": null,
       "category": {
         "id": "1414860634",
@@ -75,36 +63,24 @@
     {
       "id": "eyJzZWdtZW50SUQiOiJjMGQ5ZGJiMC1jNDM0LTQ1MjEtYmFmOC04OWRlM2JiZjQ1ZmYiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjozfQ==",
       "start_time": "2023-01-20T10:00:00Z",
-      "end_time": "2023-01-20T13:00:00Z",
-      "title": "Un peu de golf pour commencer la journée avé les copains",
+      "end_time": "2023-01-20T16:00:00Z",
+      "title": "Partons collecter des emblèmes et empêchons le retour de Sombron",
       "canceled_until": null,
       "category": {
-        "id": "2044170173",
-        "name": "Nintendo Switch Sports"
+        "id": "1242184979",
+        "name": "Fire Emblem Engage"
       },
       "is_recurring": true
     },
     {
       "id": "eyJzZWdtZW50SUQiOiJmZGU4NWY2Zi0zY2I5LTQ4OGQtOGJlNC1hOWIxYzljNDM0MjMiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjozfQ==",
-      "start_time": "2023-01-20T13:00:00Z",
-      "end_time": "2023-01-20T17:00:00Z",
-      "title": "P'tit Code Names avé les copains",
+      "start_time": "2023-01-20T19:00:00Z",
+      "end_time": "2023-01-20T23:00:00Z",
+      "title": "JDR sur la chaîne de Rivenzi (avec Riv, Baghera & Berlu)",
       "canceled_until": null,
       "category": {
-        "id": "508509",
-        "name": "Codenames"
-      },
-      "is_recurring": true
-    },
-    {
-      "id": "eyJzZWdtZW50SUQiOiI1MzViNTc2My1iNjYxLTQxY2QtYjdkMC02NzdhOTgxOWJhNGEiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjozfQ==",
-      "start_time": "2023-01-22T16:00:00Z",
-      "end_time": "2023-01-22T20:00:00Z",
-      "title": "OUUUUEEEEE LE MEUPORG",
-      "canceled_until": null,
-      "category": {
-        "id": "24241",
-        "name": "Final Fantasy XIV Online"
+        "id": "509658",
+        "name": "Just Chatting"
       },
       "is_recurring": true
     },
@@ -123,8 +99,8 @@
     {
       "id": "eyJzZWdtZW50SUQiOiI5YTlmZGM0YS1jZGM2LTQ5OTMtOTdjMC1kODkwNzVhZDAzYzYiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjo0fQ==",
       "start_time": "2023-01-24T10:00:00Z",
-      "end_time": "2023-01-24T17:00:00Z",
-      "title": "On fait quelques ranked et on se fait coacher avec Fildrong ",
+      "end_time": "2023-01-24T16:00:00Z",
+      "title": "On fait quelques ranked oklm",
       "canceled_until": null,
       "category": {
         "id": "670867987",
@@ -133,10 +109,22 @@
       "is_recurring": true
     },
     {
+      "id": "eyJzZWdtZW50SUQiOiIzNjY5NWM5MS1lNTc0LTQ2MTMtYjE3MC05NmNlZWMxYTE3ZmUiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjo0fQ==",
+      "start_time": "2023-01-24T19:00:00Z",
+      "end_time": "2023-01-24T22:00:00Z",
+      "title": "Popcorn sur la chaîne de Domingo",
+      "canceled_until": null,
+      "category": {
+        "id": "417752",
+        "name": "Talk Shows & Podcasts"
+      },
+      "is_recurring": true
+    },
+    {
       "id": "eyJzZWdtZW50SUQiOiIxYTQzZjY0NS1lMzNkLTQ1NmUtOGMyMS0yNGM5MmExYjE2YmQiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjo0fQ==",
       "start_time": "2023-01-25T10:00:00Z",
       "end_time": "2023-01-25T17:00:00Z",
-      "title": "On commence le speedrun Mario Odyssey",
+      "title": "On continue d’apprendre le speedrun Mario Odyssey avec Aife",
       "canceled_until": null,
       "category": {
         "id": "493997",
@@ -145,22 +133,10 @@
       "is_recurring": true
     },
     {
-      "id": "eyJzZWdtZW50SUQiOiJiY2I2N2U1MS02NzhkLTQxMDUtODEyNi0yMTI4ZDc3YWQ2OWUiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjo0fQ==",
-      "start_time": "2023-01-25T17:00:00Z",
-      "end_time": "2023-01-25T20:00:00Z",
-      "title": "OMG LE MEUPORG",
-      "canceled_until": null,
-      "category": {
-        "id": "24241",
-        "name": "Final Fantasy XIV Online"
-      },
-      "is_recurring": true
-    },
-    {
       "id": "eyJzZWdtZW50SUQiOiIyYzE2ZjZhNS0yNWEwLTRlZDItYTUzNi01Y2RlNTJjYzQ0M2IiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjo0fQ==",
-      "start_time": "2023-01-26T14:00:00Z",
-      "end_time": "2023-01-26T21:00:00Z",
-      "title": "On découvre Isaac OMG",
+      "start_time": "2023-01-26T10:00:00Z",
+      "end_time": "2023-01-26T17:00:00Z",
+      "title": "La suite d’Isaac OMG",
       "canceled_until": null,
       "category": {
         "id": "1414860634",
@@ -171,36 +147,24 @@
     {
       "id": "eyJzZWdtZW50SUQiOiJjMGQ5ZGJiMC1jNDM0LTQ1MjEtYmFmOC04OWRlM2JiZjQ1ZmYiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjo0fQ==",
       "start_time": "2023-01-27T10:00:00Z",
-      "end_time": "2023-01-27T13:00:00Z",
-      "title": "Un peu de golf pour commencer la journée avé les copains",
+      "end_time": "2023-01-27T16:00:00Z",
+      "title": "Partons collecter des emblèmes et empêchons le retour de Sombron",
       "canceled_until": null,
       "category": {
-        "id": "2044170173",
-        "name": "Nintendo Switch Sports"
+        "id": "1242184979",
+        "name": "Fire Emblem Engage"
       },
       "is_recurring": true
     },
     {
       "id": "eyJzZWdtZW50SUQiOiJmZGU4NWY2Zi0zY2I5LTQ4OGQtOGJlNC1hOWIxYzljNDM0MjMiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjo0fQ==",
-      "start_time": "2023-01-27T13:00:00Z",
-      "end_time": "2023-01-27T17:00:00Z",
-      "title": "P'tit Code Names avé les copains",
+      "start_time": "2023-01-27T19:00:00Z",
+      "end_time": "2023-01-27T23:00:00Z",
+      "title": "JDR sur la chaîne de Rivenzi (avec Riv, Baghera & Berlu)",
       "canceled_until": null,
       "category": {
-        "id": "508509",
-        "name": "Codenames"
-      },
-      "is_recurring": true
-    },
-    {
-      "id": "eyJzZWdtZW50SUQiOiI1MzViNTc2My1iNjYxLTQxY2QtYjdkMC02NzdhOTgxOWJhNGEiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjo0fQ==",
-      "start_time": "2023-01-29T16:00:00Z",
-      "end_time": "2023-01-29T20:00:00Z",
-      "title": "OUUUUEEEEE LE MEUPORG",
-      "canceled_until": null,
-      "category": {
-        "id": "24241",
-        "name": "Final Fantasy XIV Online"
+        "id": "509658",
+        "name": "Just Chatting"
       },
       "is_recurring": true
     },
@@ -219,8 +183,8 @@
     {
       "id": "eyJzZWdtZW50SUQiOiI5YTlmZGM0YS1jZGM2LTQ5OTMtOTdjMC1kODkwNzVhZDAzYzYiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjo1fQ==",
       "start_time": "2023-01-31T10:00:00Z",
-      "end_time": "2023-01-31T17:00:00Z",
-      "title": "On fait quelques ranked et on se fait coacher avec Fildrong ",
+      "end_time": "2023-01-31T16:00:00Z",
+      "title": "On fait quelques ranked oklm",
       "canceled_until": null,
       "category": {
         "id": "670867987",
@@ -229,10 +193,22 @@
       "is_recurring": true
     },
     {
+      "id": "eyJzZWdtZW50SUQiOiIzNjY5NWM5MS1lNTc0LTQ2MTMtYjE3MC05NmNlZWMxYTE3ZmUiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjo1fQ==",
+      "start_time": "2023-01-31T19:00:00Z",
+      "end_time": "2023-01-31T22:00:00Z",
+      "title": "Popcorn sur la chaîne de Domingo",
+      "canceled_until": null,
+      "category": {
+        "id": "417752",
+        "name": "Talk Shows & Podcasts"
+      },
+      "is_recurring": true
+    },
+    {
       "id": "eyJzZWdtZW50SUQiOiIxYTQzZjY0NS1lMzNkLTQ1NmUtOGMyMS0yNGM5MmExYjE2YmQiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjo1fQ==",
       "start_time": "2023-02-01T10:00:00Z",
       "end_time": "2023-02-01T17:00:00Z",
-      "title": "On commence le speedrun Mario Odyssey",
+      "title": "On continue d’apprendre le speedrun Mario Odyssey avec Aife",
       "canceled_until": null,
       "category": {
         "id": "493997",
@@ -241,14 +217,38 @@
       "is_recurring": true
     },
     {
-      "id": "eyJzZWdtZW50SUQiOiJiY2I2N2U1MS02NzhkLTQxMDUtODEyNi0yMTI4ZDc3YWQ2OWUiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjo1fQ==",
-      "start_time": "2023-02-01T17:00:00Z",
-      "end_time": "2023-02-01T20:00:00Z",
-      "title": "OMG LE MEUPORG",
+      "id": "eyJzZWdtZW50SUQiOiIyYzE2ZjZhNS0yNWEwLTRlZDItYTUzNi01Y2RlNTJjYzQ0M2IiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjo1fQ==",
+      "start_time": "2023-02-02T10:00:00Z",
+      "end_time": "2023-02-02T17:00:00Z",
+      "title": "La suite d’Isaac OMG",
       "canceled_until": null,
       "category": {
-        "id": "24241",
-        "name": "Final Fantasy XIV Online"
+        "id": "1414860634",
+        "name": "The Binding of Isaac: Repentance"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiJjMGQ5ZGJiMC1jNDM0LTQ1MjEtYmFmOC04OWRlM2JiZjQ1ZmYiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjo1fQ==",
+      "start_time": "2023-02-03T10:00:00Z",
+      "end_time": "2023-02-03T16:00:00Z",
+      "title": "Partons collecter des emblèmes et empêchons le retour de Sombron",
+      "canceled_until": null,
+      "category": {
+        "id": "1242184979",
+        "name": "Fire Emblem Engage"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiJmZGU4NWY2Zi0zY2I5LTQ4OGQtOGJlNC1hOWIxYzljNDM0MjMiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjo1fQ==",
+      "start_time": "2023-02-03T19:00:00Z",
+      "end_time": "2023-02-03T23:00:00Z",
+      "title": "JDR sur la chaîne de Rivenzi (avec Riv, Baghera & Berlu)",
+      "canceled_until": null,
+      "category": {
+        "id": "509658",
+        "name": "Just Chatting"
       },
       "is_recurring": true
     }
