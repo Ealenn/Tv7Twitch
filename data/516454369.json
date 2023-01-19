@@ -7,23 +7,11 @@
     "broadcaster_type": "partner",
     "description": "Les émissions du CNES, le Centre National d'Études Spatiales. ",
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/05b8536b-1a8c-4a37-b4ce-230aae35bfec-profile_image-300x300.png",
-    "offline_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/0ee0b927-91aa-4250-a795-c66259958f4d-channel_offline_image-1920x1080.png",
+    "offline_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/c3d30649-c9ab-46fb-b0f3-26abbacf41d1-channel_offline_image-1920x1080.png",
     "view_count": 731914,
     "created_at": "2020-04-18T14:49:41Z"
   },
   "schedulers": [
-    {
-      "id": "eyJzZWdtZW50SUQiOiI0ZGE3NGE3MC1jNGFmLTQwZDEtYjM4OS0yYjJjOGE1NDEyNTIiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjozfQ==",
-      "start_time": "2023-01-18T11:00:00Z",
-      "end_time": "2023-01-18T12:30:00Z",
-      "title": "En direct du SISMOC : InSight",
-      "canceled_until": null,
-      "category": {
-        "id": "509670",
-        "name": "Science & Technology"
-      },
-      "is_recurring": false
-    },
     {
       "id": "eyJzZWdtZW50SUQiOiIzMTU4MmJmYy0yZGE4LTRkOWQtOWRlNC00YWVlODBhNTc2N2YiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjo0fQ==",
       "start_time": "2023-01-26T11:00:00Z",
@@ -33,6 +21,18 @@
       "category": {
         "id": "509670",
         "name": "Science & Technology"
+      },
+      "is_recurring": false
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiI1MmIwNGM5OC04MDc1LTRiZjgtYmM0Zi1lODcxYWM2N2U5NDQiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjo1fQ==",
+      "start_time": "2023-02-01T15:30:00Z",
+      "end_time": "2023-02-01T17:00:00Z",
+      "title": "Emission spéciale : orientation pré et post bac",
+      "canceled_until": null,
+      "category": {
+        "id": "509658",
+        "name": "Just Chatting"
       },
       "is_recurring": false
     }
