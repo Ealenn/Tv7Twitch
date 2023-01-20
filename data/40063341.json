@@ -13,30 +13,6 @@
   },
   "schedulers": [
     {
-      "id": "eyJzZWdtZW50SUQiOiJlOTI2NDcyOS04ODM5LTQ4Y2MtOGI2MC04MjI4ZjA5MzFkYjIiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjozfQ==",
-      "start_time": "2023-01-19T13:00:00Z",
-      "end_time": "2023-01-19T14:00:00Z",
-      "title": "🎙 PRÉ-LIVE",
-      "canceled_until": null,
-      "category": {
-        "id": "509658",
-        "name": "Just Chatting"
-      },
-      "is_recurring": true
-    },
-    {
-      "id": "eyJzZWdtZW50SUQiOiJlN2UzY2JhMy05YWIzLTRmODgtODE2OS03NDk5M2M0OGNiZTQiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjozfQ==",
-      "start_time": "2023-01-19T14:00:00Z",
-      "end_time": "2023-01-19T18:00:00Z",
-      "title": "⚽️ FOOTBALL MANAGER",
-      "canceled_until": null,
-      "category": {
-        "id": "1047410718",
-        "name": "Football Manager 2023"
-      },
-      "is_recurring": false
-    },
-    {
       "id": "eyJzZWdtZW50SUQiOiI2MzVmYzVkMi0xMTRiLTQ1NmYtYTUwZS1jOThkYjkzYmZkOTAiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjozfQ==",
       "start_time": "2023-01-20T13:00:00Z",
       "end_time": "2023-01-20T14:00:00Z",
@@ -244,6 +220,30 @@
       "id": "eyJzZWdtZW50SUQiOiI2MGJmMDRjYy00ODYzLTRlODMtYjAyMy0xN2ZkYjZmM2JkMzUiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjo2fQ==",
       "start_time": "2023-02-08T13:00:00Z",
       "end_time": "2023-02-08T14:00:00Z",
+      "title": "🎙️ PRÉ-LIVE",
+      "canceled_until": null,
+      "category": {
+        "id": "509658",
+        "name": "Just Chatting"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiJlOTI2NDcyOS04ODM5LTQ4Y2MtOGI2MC04MjI4ZjA5MzFkYjIiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjo2fQ==",
+      "start_time": "2023-02-09T13:00:00Z",
+      "end_time": "2023-02-09T14:00:00Z",
+      "title": "🎙 PRÉ-LIVE",
+      "canceled_until": null,
+      "category": {
+        "id": "509658",
+        "name": "Just Chatting"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiI2MzVmYzVkMi0xMTRiLTQ1NmYtYTUwZS1jOThkYjkzYmZkOTAiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjo2fQ==",
+      "start_time": "2023-02-10T13:00:00Z",
+      "end_time": "2023-02-10T14:00:00Z",
       "title": "🎙️ PRÉ-LIVE",
       "canceled_until": null,
       "category": {
