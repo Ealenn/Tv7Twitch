@@ -7,40 +7,16 @@
     "broadcaster_type": "partner",
     "description": "",
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/3cdae7df-600c-4833-8dfe-8d2abc5a3b25-profile_image-300x300.png",
-    "offline_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/203d5fb9-2c5f-4e05-bcd5-b51c9f892b98-channel_offline_image-1920x1080.png",
+    "offline_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/c4ab9106-38a1-4dcf-8855-e7a729c6d365-channel_offline_image-1920x1080.png",
     "view_count": 121218348,
     "created_at": "2013-02-05T19:20:22Z"
   },
   "schedulers": [
     {
-      "id": "eyJzZWdtZW50SUQiOiI1OWVkNDEyMy0zNjM1LTQxMzUtYmQxNi04ZmZlMjQyNGE5Y2YiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjo0fQ==",
-      "start_time": "2023-01-23T18:30:00Z",
-      "end_time": "2023-01-23T20:00:00Z",
-      "title": "🎙️ PRÉ-LIVE",
-      "canceled_until": null,
-      "category": {
-        "id": "509658",
-        "name": "Just Chatting"
-      },
-      "is_recurring": true
-    },
-    {
-      "id": "eyJzZWdtZW50SUQiOiJiMTJkNzk3OS03MGE3LTQwNzktYmE4Mi02NWY5NzAxZmY5ZjMiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjo0fQ==",
-      "start_time": "2023-01-23T20:00:00Z",
-      "end_time": "2023-01-23T23:00:00Z",
-      "title": "🦁 REACT ANIMAUX",
-      "canceled_until": null,
-      "category": {
-        "id": "509658",
-        "name": "Just Chatting"
-      },
-      "is_recurring": true
-    },
-    {
       "id": "eyJzZWdtZW50SUQiOiIxZWJiZmNlZS1iMjJiLTQxZGYtOGFmZC1lZjJjM2Q5MWQ0OGYiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjo0fQ==",
       "start_time": "2023-01-24T19:00:00Z",
       "end_time": "2023-01-24T21:30:00Z",
-      "title": "🍿 POPCORN AVEC TONY PARKER, ADRIEN MÉNIELLE, JIRAYA & PONCE",
+      "title": "🍿 POPCORN AVEC TONY ESTANGUET",
       "canceled_until": null,
       "category": {
         "id": "417752",
@@ -61,6 +37,18 @@
       "is_recurring": true
     },
     {
+      "id": "eyJzZWdtZW50SUQiOiI0ODA2YmNhOS1mZDBkLTRiMzgtYTFiMy04ZmQ5OWU4MGJlYWMiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjo0fQ==",
+      "start_time": "2023-01-25T14:00:00Z",
+      "end_time": "2023-01-25T17:00:00Z",
+      "title": "⚽ FOOTBALL MANAGER ",
+      "canceled_until": null,
+      "category": {
+        "id": "1047410718",
+        "name": "Football Manager 2023"
+      },
+      "is_recurring": true
+    },
+    {
       "id": "eyJzZWdtZW50SUQiOiJlOTI2NDcyOS04ODM5LTQ4Y2MtOGI2MC04MjI4ZjA5MzFkYjIiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjo0fQ==",
       "start_time": "2023-01-26T13:00:00Z",
       "end_time": "2023-01-26T14:00:00Z",
@@ -73,6 +61,18 @@
       "is_recurring": true
     },
     {
+      "id": "eyJzZWdtZW50SUQiOiI5ZjRlOGNhZi01MTViLTQ3NzQtYTNjNy0zNTJmMzI2NTQ3ODQiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjo0fQ==",
+      "start_time": "2023-01-26T14:00:00Z",
+      "end_time": "2023-01-26T17:00:00Z",
+      "title": "⚽ FOOTBALL MANAGER ",
+      "canceled_until": null,
+      "category": {
+        "id": "1047410718",
+        "name": "Football Manager 2023"
+      },
+      "is_recurring": true
+    },
+    {
       "id": "eyJzZWdtZW50SUQiOiI2MzVmYzVkMi0xMTRiLTQ1NmYtYTUwZS1jOThkYjkzYmZkOTAiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjo0fQ==",
       "start_time": "2023-01-27T13:00:00Z",
       "end_time": "2023-01-27T14:00:00Z",
@@ -81,6 +81,18 @@
       "category": {
         "id": "509658",
         "name": "Just Chatting"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiI5MDdmNTRlNi1kMDE4LTQ3YTUtYmVjYy00MjZkMzAxZWFmYjAiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjo0fQ==",
+      "start_time": "2023-01-27T14:00:00Z",
+      "end_time": "2023-01-27T17:00:00Z",
+      "title": "⚽ FOOTBALL MANAGER ",
+      "canceled_until": null,
+      "category": {
+        "id": "1047410718",
+        "name": "Football Manager 2023"
       },
       "is_recurring": true
     },
@@ -99,12 +111,12 @@
     {
       "id": "eyJzZWdtZW50SUQiOiJiMTJkNzk3OS03MGE3LTQwNzktYmE4Mi02NWY5NzAxZmY5ZjMiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjo1fQ==",
       "start_time": "2023-01-30T20:00:00Z",
-      "end_time": "2023-01-30T23:00:00Z",
-      "title": "🦁 REACT ANIMAUX",
+      "end_time": "2023-01-30T21:30:00Z",
+      "title": "🥊 Punch A Bunch",
       "canceled_until": null,
       "category": {
-        "id": "509658",
-        "name": "Just Chatting"
+        "id": "1835783852",
+        "name": "Punch A Bunch"
       },
       "is_recurring": true
     },
@@ -112,7 +124,7 @@
       "id": "eyJzZWdtZW50SUQiOiIxZWJiZmNlZS1iMjJiLTQxZGYtOGFmZC1lZjJjM2Q5MWQ0OGYiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjo1fQ==",
       "start_time": "2023-01-31T19:00:00Z",
       "end_time": "2023-01-31T21:30:00Z",
-      "title": "🍿 POPCORN AVEC TONY PARKER, ADRIEN MÉNIELLE, JIRAYA & PONCE",
+      "title": "🍿 POPCORN AVEC TONY ESTANGUET",
       "canceled_until": null,
       "category": {
         "id": "417752",
@@ -133,6 +145,18 @@
       "is_recurring": true
     },
     {
+      "id": "eyJzZWdtZW50SUQiOiI0ODA2YmNhOS1mZDBkLTRiMzgtYTFiMy04ZmQ5OWU4MGJlYWMiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjo1fQ==",
+      "start_time": "2023-02-01T14:00:00Z",
+      "end_time": "2023-02-01T17:00:00Z",
+      "title": "⚽ FOOTBALL MANAGER ",
+      "canceled_until": null,
+      "category": {
+        "id": "1047410718",
+        "name": "Football Manager 2023"
+      },
+      "is_recurring": true
+    },
+    {
       "id": "eyJzZWdtZW50SUQiOiJlOTI2NDcyOS04ODM5LTQ4Y2MtOGI2MC04MjI4ZjA5MzFkYjIiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjo1fQ==",
       "start_time": "2023-02-02T13:00:00Z",
       "end_time": "2023-02-02T14:00:00Z",
@@ -145,6 +169,18 @@
       "is_recurring": true
     },
     {
+      "id": "eyJzZWdtZW50SUQiOiI5ZjRlOGNhZi01MTViLTQ3NzQtYTNjNy0zNTJmMzI2NTQ3ODQiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjo1fQ==",
+      "start_time": "2023-02-02T14:00:00Z",
+      "end_time": "2023-02-02T17:00:00Z",
+      "title": "⚽ FOOTBALL MANAGER ",
+      "canceled_until": null,
+      "category": {
+        "id": "1047410718",
+        "name": "Football Manager 2023"
+      },
+      "is_recurring": true
+    },
+    {
       "id": "eyJzZWdtZW50SUQiOiI2MzVmYzVkMi0xMTRiLTQ1NmYtYTUwZS1jOThkYjkzYmZkOTAiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjo1fQ==",
       "start_time": "2023-02-03T13:00:00Z",
       "end_time": "2023-02-03T14:00:00Z",
@@ -153,6 +189,18 @@
       "category": {
         "id": "509658",
         "name": "Just Chatting"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiI5MDdmNTRlNi1kMDE4LTQ3YTUtYmVjYy00MjZkMzAxZWFmYjAiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjo1fQ==",
+      "start_time": "2023-02-03T14:00:00Z",
+      "end_time": "2023-02-03T17:00:00Z",
+      "title": "⚽ FOOTBALL MANAGER ",
+      "canceled_until": null,
+      "category": {
+        "id": "1047410718",
+        "name": "Football Manager 2023"
       },
       "is_recurring": true
     },
@@ -171,12 +219,12 @@
     {
       "id": "eyJzZWdtZW50SUQiOiJiMTJkNzk3OS03MGE3LTQwNzktYmE4Mi02NWY5NzAxZmY5ZjMiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjo2fQ==",
       "start_time": "2023-02-06T20:00:00Z",
-      "end_time": "2023-02-06T23:00:00Z",
-      "title": "🦁 REACT ANIMAUX",
+      "end_time": "2023-02-06T21:30:00Z",
+      "title": "🥊 Punch A Bunch",
       "canceled_until": null,
       "category": {
-        "id": "509658",
-        "name": "Just Chatting"
+        "id": "1835783852",
+        "name": "Punch A Bunch"
       },
       "is_recurring": true
     },
@@ -184,7 +232,7 @@
       "id": "eyJzZWdtZW50SUQiOiIxZWJiZmNlZS1iMjJiLTQxZGYtOGFmZC1lZjJjM2Q5MWQ0OGYiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjo2fQ==",
       "start_time": "2023-02-07T19:00:00Z",
       "end_time": "2023-02-07T21:30:00Z",
-      "title": "🍿 POPCORN AVEC TONY PARKER, ADRIEN MÉNIELLE, JIRAYA & PONCE",
+      "title": "🍿 POPCORN AVEC TONY ESTANGUET",
       "canceled_until": null,
       "category": {
         "id": "417752",
@@ -197,54 +245,6 @@
       "start_time": "2023-02-08T13:00:00Z",
       "end_time": "2023-02-08T14:00:00Z",
       "title": "🎙️ PRÉ-LIVE",
-      "canceled_until": null,
-      "category": {
-        "id": "509658",
-        "name": "Just Chatting"
-      },
-      "is_recurring": true
-    },
-    {
-      "id": "eyJzZWdtZW50SUQiOiJlOTI2NDcyOS04ODM5LTQ4Y2MtOGI2MC04MjI4ZjA5MzFkYjIiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjo2fQ==",
-      "start_time": "2023-02-09T13:00:00Z",
-      "end_time": "2023-02-09T14:00:00Z",
-      "title": "🎙 PRÉ-LIVE",
-      "canceled_until": null,
-      "category": {
-        "id": "509658",
-        "name": "Just Chatting"
-      },
-      "is_recurring": true
-    },
-    {
-      "id": "eyJzZWdtZW50SUQiOiI2MzVmYzVkMi0xMTRiLTQ1NmYtYTUwZS1jOThkYjkzYmZkOTAiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjo2fQ==",
-      "start_time": "2023-02-10T13:00:00Z",
-      "end_time": "2023-02-10T14:00:00Z",
-      "title": "🎙️ PRÉ-LIVE",
-      "canceled_until": null,
-      "category": {
-        "id": "509658",
-        "name": "Just Chatting"
-      },
-      "is_recurring": true
-    },
-    {
-      "id": "eyJzZWdtZW50SUQiOiI1OWVkNDEyMy0zNjM1LTQxMzUtYmQxNi04ZmZlMjQyNGE5Y2YiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjo3fQ==",
-      "start_time": "2023-02-13T18:30:00Z",
-      "end_time": "2023-02-13T20:00:00Z",
-      "title": "🎙️ PRÉ-LIVE",
-      "canceled_until": null,
-      "category": {
-        "id": "509658",
-        "name": "Just Chatting"
-      },
-      "is_recurring": true
-    },
-    {
-      "id": "eyJzZWdtZW50SUQiOiJiMTJkNzk3OS03MGE3LTQwNzktYmE4Mi02NWY5NzAxZmY5ZjMiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjo3fQ==",
-      "start_time": "2023-02-13T20:00:00Z",
-      "end_time": "2023-02-13T23:00:00Z",
-      "title": "🦁 REACT ANIMAUX",
       "canceled_until": null,
       "category": {
         "id": "509658",
