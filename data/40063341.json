@@ -7,23 +7,11 @@
     "broadcaster_type": "partner",
     "description": "",
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/3cdae7df-600c-4833-8dfe-8d2abc5a3b25-profile_image-300x300.png",
-    "offline_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/c4ab9106-38a1-4dcf-8855-e7a729c6d365-channel_offline_image-1920x1080.png",
+    "offline_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/670fdd83-d5d8-46f4-a160-63b45ad90cf1-channel_offline_image-1920x1080.png",
     "view_count": 121218348,
     "created_at": "2013-02-05T19:20:22Z"
   },
   "schedulers": [
-    {
-      "id": "eyJzZWdtZW50SUQiOiIxZWJiZmNlZS1iMjJiLTQxZGYtOGFmZC1lZjJjM2Q5MWQ0OGYiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjo0fQ==",
-      "start_time": "2023-01-24T19:00:00Z",
-      "end_time": "2023-01-24T21:30:00Z",
-      "title": "🍿 POPCORN AVEC TONY ESTANGUET",
-      "canceled_until": null,
-      "category": {
-        "id": "417752",
-        "name": "Talk Shows & Podcasts"
-      },
-      "is_recurring": true
-    },
     {
       "id": "eyJzZWdtZW50SUQiOiI2MGJmMDRjYy00ODYzLTRlODMtYjAyMy0xN2ZkYjZmM2JkMzUiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjo0fQ==",
       "start_time": "2023-01-25T13:00:00Z",
@@ -249,6 +237,18 @@
       "category": {
         "id": "509658",
         "name": "Just Chatting"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiI0ODA2YmNhOS1mZDBkLTRiMzgtYTFiMy04ZmQ5OWU4MGJlYWMiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjo2fQ==",
+      "start_time": "2023-02-08T14:00:00Z",
+      "end_time": "2023-02-08T17:00:00Z",
+      "title": "⚽ FOOTBALL MANAGER ",
+      "canceled_until": null,
+      "category": {
+        "id": "1047410718",
+        "name": "Football Manager 2023"
       },
       "is_recurring": true
     }
