@@ -13,30 +13,6 @@
   },
   "schedulers": [
     {
-      "id": "eyJzZWdtZW50SUQiOiI2MzVmYzVkMi0xMTRiLTQ1NmYtYTUwZS1jOThkYjkzYmZkOTAiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjo0fQ==",
-      "start_time": "2023-01-27T13:00:00Z",
-      "end_time": "2023-01-27T14:00:00Z",
-      "title": "🎙️ PRÉ-LIVE",
-      "canceled_until": null,
-      "category": {
-        "id": "509658",
-        "name": "Just Chatting"
-      },
-      "is_recurring": true
-    },
-    {
-      "id": "eyJzZWdtZW50SUQiOiI5MDdmNTRlNi1kMDE4LTQ3YTUtYmVjYy00MjZkMzAxZWFmYjAiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjo0fQ==",
-      "start_time": "2023-01-27T14:00:00Z",
-      "end_time": "2023-01-27T17:00:00Z",
-      "title": "⚽ FOOTBALL MANAGER ",
-      "canceled_until": null,
-      "category": {
-        "id": "1047410718",
-        "name": "Football Manager 2023"
-      },
-      "is_recurring": true
-    },
-    {
       "id": "eyJzZWdtZW50SUQiOiI1OWVkNDEyMy0zNjM1LTQxMzUtYmQxNi04ZmZlMjQyNGE5Y2YiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjo1fQ==",
       "start_time": "2023-01-30T18:30:00Z",
       "end_time": "2023-01-30T20:00:00Z",
@@ -249,6 +225,30 @@
       "category": {
         "id": "1047410718",
         "name": "Football Manager 2023"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiI1OWVkNDEyMy0zNjM1LTQxMzUtYmQxNi04ZmZlMjQyNGE5Y2YiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjo3fQ==",
+      "start_time": "2023-02-13T18:30:00Z",
+      "end_time": "2023-02-13T20:00:00Z",
+      "title": "🎙️ PRÉ-LIVE",
+      "canceled_until": null,
+      "category": {
+        "id": "509658",
+        "name": "Just Chatting"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiJiMTJkNzk3OS03MGE3LTQwNzktYmE4Mi02NWY5NzAxZmY5ZjMiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjo3fQ==",
+      "start_time": "2023-02-13T20:00:00Z",
+      "end_time": "2023-02-13T21:30:00Z",
+      "title": "🥊 Punch A Bunch",
+      "canceled_until": null,
+      "category": {
+        "id": "1835783852",
+        "name": "Punch A Bunch"
       },
       "is_recurring": true
     }
