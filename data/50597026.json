@@ -13,18 +13,6 @@
   },
   "schedulers": [
     {
-      "id": "eyJzZWdtZW50SUQiOiIxN2YwNjdmZC0wNzZhLTRmOTAtYjhjMy0zOGMxNDcwZGFmMDciLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjo1fQ==",
-      "start_time": "2023-01-30T10:00:00Z",
-      "end_time": "2023-01-30T17:00:00Z",
-      "title": "Culture & Plaisir ",
-      "canceled_until": null,
-      "category": {
-        "id": "338715930",
-        "name": "Maitre des Fleurs"
-      },
-      "is_recurring": true
-    },
-    {
       "id": "eyJzZWdtZW50SUQiOiI5YTlmZGM0YS1jZGM2LTQ5OTMtOTdjMC1kODkwNzVhZDAzYzYiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjo1fQ==",
       "start_time": "2023-01-31T10:00:00Z",
       "end_time": "2023-01-31T12:30:00Z",
@@ -39,7 +27,7 @@
     {
       "id": "eyJzZWdtZW50SUQiOiJkMTEwNmRlNi1jMjJjLTRhY2MtOTNkZC1iN2ExMmE0NzhkMDkiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjo1fQ==",
       "start_time": "2023-01-31T12:30:00Z",
-      "end_time": "2023-01-31T16:30:00Z",
+      "end_time": "2023-01-31T18:30:00Z",
       "title": "Ranked and chill : On prépare la team et on fait des rankeds",
       "canceled_until": null,
       "category": {
@@ -51,24 +39,12 @@
     {
       "id": "eyJzZWdtZW50SUQiOiIxYTQzZjY0NS1lMzNkLTQ1NmUtOGMyMS0yNGM5MmExYjE2YmQiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjo1fQ==",
       "start_time": "2023-02-01T10:00:00Z",
-      "end_time": "2023-02-01T14:00:00Z",
-      "title": "On continue d’apprendre le speedrun Mario Odyssey avec Aife & Julgane",
+      "end_time": "2023-02-01T17:00:00Z",
+      "title": "On essaye de battre mon PB du speedrun Mario Odyssey ",
       "canceled_until": null,
       "category": {
         "id": "493997",
         "name": "Super Mario Odyssey"
-      },
-      "is_recurring": true
-    },
-    {
-      "id": "eyJzZWdtZW50SUQiOiIzNDRhNjQ0Zi0xMDNiLTQxMzUtOTc2YS1jNDllMGZiOTY1NjgiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjo1fQ==",
-      "start_time": "2023-02-01T14:00:00Z",
-      "end_time": "2023-02-01T17:00:00Z",
-      "title": "On continue FE Engage !",
-      "canceled_until": null,
-      "category": {
-        "id": "1242184979",
-        "name": "Fire Emblem Engage"
       },
       "is_recurring": true
     },
@@ -85,26 +61,50 @@
       "is_recurring": true
     },
     {
-      "id": "eyJzZWdtZW50SUQiOiJmZGU4NWY2Zi0zY2I5LTQ4OGQtOGJlNC1hOWIxYzljNDM0MjMiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjo1fQ==",
-      "start_time": "2023-02-03T19:00:00Z",
-      "end_time": "2023-02-03T23:00:00Z",
-      "title": "Touche pas à mon mate",
+      "id": "eyJzZWdtZW50SUQiOiI4NmFkOGU5ZS0yNjJlLTQ3NjYtOTlhYi0yNjcxMzE0NGRjYWIiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjo1fQ==",
+      "start_time": "2023-02-02T19:00:00Z",
+      "end_time": "2023-02-02T22:00:00Z",
+      "title": "Séance coaching avec Fildrong pour le duel contre Onutrem",
       "canceled_until": null,
       "category": {
-        "id": "1089438810",
-        "name": "Among Us"
+        "id": "670867987",
+        "name": "Pokémon Scarlet/Violet"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiJmYTY3NDI2NS1mNGYwLTQyOWMtOWY2MS1jMmE2N2YyNjFmMmYiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjo1fQ==",
+      "start_time": "2023-02-03T10:00:00Z",
+      "end_time": "2023-02-03T12:30:00Z",
+      "title": "On part en cuisine avé les copains ",
+      "canceled_until": null,
+      "category": {
+        "id": "1115711128",
+        "name": "PlateUp!"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiI0ZWQxMmE5ZC01OGU2LTQ0MGUtYjE5Zi02MzU1YTJiYmFhYjgiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjo1fQ==",
+      "start_time": "2023-02-03T12:30:00Z",
+      "end_time": "2023-02-03T17:30:00Z",
+      "title": "On continue l’avanture Fire emblem ",
+      "canceled_until": null,
+      "category": {
+        "id": "1242184979",
+        "name": "Fire Emblem Engage"
       },
       "is_recurring": true
     },
     {
       "id": "eyJzZWdtZW50SUQiOiI5YzEwOWU3ZC05ZWU0LTRkMjktOTVhMS1kNmY0NDkwNGJjNTkiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjo1fQ==",
-      "start_time": "2023-02-05T12:00:00Z",
-      "end_time": "2023-02-05T16:00:00Z",
-      "title": "Tournoi mario kart (avec giveaway Nintendo)",
+      "start_time": "2023-02-05T18:30:00Z",
+      "end_time": "2023-02-05T22:30:00Z",
+      "title": "Live jeu de rôle sur la chaîne de Geek Fabula",
       "canceled_until": null,
       "category": {
-        "id": "941530474",
-        "name": "Mario Kart 8 Deluxe"
+        "id": "509658",
+        "name": "Just Chatting"
       },
       "is_recurring": true
     },
@@ -135,7 +135,7 @@
     {
       "id": "eyJzZWdtZW50SUQiOiJkMTEwNmRlNi1jMjJjLTRhY2MtOTNkZC1iN2ExMmE0NzhkMDkiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjo2fQ==",
       "start_time": "2023-02-07T12:30:00Z",
-      "end_time": "2023-02-07T16:30:00Z",
+      "end_time": "2023-02-07T18:30:00Z",
       "title": "Ranked and chill : On prépare la team et on fait des rankeds",
       "canceled_until": null,
       "category": {
@@ -147,24 +147,12 @@
     {
       "id": "eyJzZWdtZW50SUQiOiIxYTQzZjY0NS1lMzNkLTQ1NmUtOGMyMS0yNGM5MmExYjE2YmQiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjo2fQ==",
       "start_time": "2023-02-08T10:00:00Z",
-      "end_time": "2023-02-08T14:00:00Z",
-      "title": "On continue d’apprendre le speedrun Mario Odyssey avec Aife & Julgane",
+      "end_time": "2023-02-08T17:00:00Z",
+      "title": "On essaye de battre mon PB du speedrun Mario Odyssey ",
       "canceled_until": null,
       "category": {
         "id": "493997",
         "name": "Super Mario Odyssey"
-      },
-      "is_recurring": true
-    },
-    {
-      "id": "eyJzZWdtZW50SUQiOiIzNDRhNjQ0Zi0xMDNiLTQxMzUtOTc2YS1jNDllMGZiOTY1NjgiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjo2fQ==",
-      "start_time": "2023-02-08T14:00:00Z",
-      "end_time": "2023-02-08T17:00:00Z",
-      "title": "On continue FE Engage !",
-      "canceled_until": null,
-      "category": {
-        "id": "1242184979",
-        "name": "Fire Emblem Engage"
       },
       "is_recurring": true
     },
@@ -181,26 +169,50 @@
       "is_recurring": true
     },
     {
-      "id": "eyJzZWdtZW50SUQiOiJmZGU4NWY2Zi0zY2I5LTQ4OGQtOGJlNC1hOWIxYzljNDM0MjMiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjo2fQ==",
-      "start_time": "2023-02-10T19:00:00Z",
-      "end_time": "2023-02-10T23:00:00Z",
-      "title": "Touche pas à mon mate",
+      "id": "eyJzZWdtZW50SUQiOiI4NmFkOGU5ZS0yNjJlLTQ3NjYtOTlhYi0yNjcxMzE0NGRjYWIiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjo2fQ==",
+      "start_time": "2023-02-09T19:00:00Z",
+      "end_time": "2023-02-09T22:00:00Z",
+      "title": "Séance coaching avec Fildrong pour le duel contre Onutrem",
       "canceled_until": null,
       "category": {
-        "id": "1089438810",
-        "name": "Among Us"
+        "id": "670867987",
+        "name": "Pokémon Scarlet/Violet"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiJmYTY3NDI2NS1mNGYwLTQyOWMtOWY2MS1jMmE2N2YyNjFmMmYiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjo2fQ==",
+      "start_time": "2023-02-10T10:00:00Z",
+      "end_time": "2023-02-10T12:30:00Z",
+      "title": "On part en cuisine avé les copains ",
+      "canceled_until": null,
+      "category": {
+        "id": "1115711128",
+        "name": "PlateUp!"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiI0ZWQxMmE5ZC01OGU2LTQ0MGUtYjE5Zi02MzU1YTJiYmFhYjgiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjo2fQ==",
+      "start_time": "2023-02-10T12:30:00Z",
+      "end_time": "2023-02-10T17:30:00Z",
+      "title": "On continue l’avanture Fire emblem ",
+      "canceled_until": null,
+      "category": {
+        "id": "1242184979",
+        "name": "Fire Emblem Engage"
       },
       "is_recurring": true
     },
     {
       "id": "eyJzZWdtZW50SUQiOiI5YzEwOWU3ZC05ZWU0LTRkMjktOTVhMS1kNmY0NDkwNGJjNTkiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjo2fQ==",
-      "start_time": "2023-02-12T12:00:00Z",
-      "end_time": "2023-02-12T16:00:00Z",
-      "title": "Tournoi mario kart (avec giveaway Nintendo)",
+      "start_time": "2023-02-12T18:30:00Z",
+      "end_time": "2023-02-12T22:30:00Z",
+      "title": "Live jeu de rôle sur la chaîne de Geek Fabula",
       "canceled_until": null,
       "category": {
-        "id": "941530474",
-        "name": "Mario Kart 8 Deluxe"
+        "id": "509658",
+        "name": "Just Chatting"
       },
       "is_recurring": true
     },
@@ -231,24 +243,12 @@
     {
       "id": "eyJzZWdtZW50SUQiOiJkMTEwNmRlNi1jMjJjLTRhY2MtOTNkZC1iN2ExMmE0NzhkMDkiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjo3fQ==",
       "start_time": "2023-02-14T12:30:00Z",
-      "end_time": "2023-02-14T16:30:00Z",
+      "end_time": "2023-02-14T18:30:00Z",
       "title": "Ranked and chill : On prépare la team et on fait des rankeds",
       "canceled_until": null,
       "category": {
         "id": "670867987",
         "name": "Pokémon Scarlet/Violet"
-      },
-      "is_recurring": true
-    },
-    {
-      "id": "eyJzZWdtZW50SUQiOiIxYTQzZjY0NS1lMzNkLTQ1NmUtOGMyMS0yNGM5MmExYjE2YmQiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjo3fQ==",
-      "start_time": "2023-02-15T10:00:00Z",
-      "end_time": "2023-02-15T14:00:00Z",
-      "title": "On continue d’apprendre le speedrun Mario Odyssey avec Aife & Julgane",
-      "canceled_until": null,
-      "category": {
-        "id": "493997",
-        "name": "Super Mario Odyssey"
       },
       "is_recurring": true
     }
