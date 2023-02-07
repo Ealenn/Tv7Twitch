@@ -7,7 +7,7 @@
     "broadcaster_type": "partner",
     "description": "",
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/3cdae7df-600c-4833-8dfe-8d2abc5a3b25-profile_image-300x300.png",
-    "offline_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/7f75a6d0-3b46-4fb5-9617-96ff35f5a845-channel_offline_image-1920x1080.png",
+    "offline_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/f376d5ef-13ac-4d28-b7f0-89c25ce0a83b-channel_offline_image-1920x1080.png",
     "view_count": 121218348,
     "created_at": "2013-02-05T19:20:22Z"
   },
@@ -16,7 +16,7 @@
       "id": "eyJzZWdtZW50SUQiOiIxZWJiZmNlZS1iMjJiLTQxZGYtOGFmZC1lZjJjM2Q5MWQ0OGYiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjo2fQ==",
       "start_time": "2023-02-07T19:00:00Z",
       "end_time": "2023-02-07T21:30:00Z",
-      "title": "🍿 POPCORN AVEC BAGHERA, ETOILES, DFG & PP GARCIA",
+      "title": "🍿 POPCORN AVEC M. POULPE, ANAÏS MARION & PONCE",
       "canceled_until": null,
       "category": {
         "id": "417752",
@@ -40,35 +40,11 @@
       "id": "eyJzZWdtZW50SUQiOiI0ODA2YmNhOS1mZDBkLTRiMzgtYTFiMy04ZmQ5OWU4MGJlYWMiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjo2fQ==",
       "start_time": "2023-02-08T14:00:00Z",
       "end_time": "2023-02-08T17:00:00Z",
-      "title": "⚽ FOOTBALL MANAGER ",
+      "title": "💲 DRUG DEALER SIMULATOR",
       "canceled_until": null,
       "category": {
-        "id": "1047410718",
-        "name": "Football Manager 2023"
-      },
-      "is_recurring": true
-    },
-    {
-      "id": "eyJzZWdtZW50SUQiOiJlOTI2NDcyOS04ODM5LTQ4Y2MtOGI2MC04MjI4ZjA5MzFkYjIiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjo2fQ==",
-      "start_time": "2023-02-09T14:00:00Z",
-      "end_time": "2023-02-09T15:00:00Z",
-      "title": "🎙 PRÉ-LIVE",
-      "canceled_until": null,
-      "category": {
-        "id": "509658",
-        "name": "Just Chatting"
-      },
-      "is_recurring": true
-    },
-    {
-      "id": "eyJzZWdtZW50SUQiOiI5ZjRlOGNhZi01MTViLTQ3NzQtYTNjNy0zNTJmMzI2NTQ3ODQiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjo2fQ==",
-      "start_time": "2023-02-09T15:00:00Z",
-      "end_time": null,
-      "title": "⚽ FOOTBALL MANAGER ",
-      "canceled_until": null,
-      "category": {
-        "id": "1047410718",
-        "name": "Football Manager 2023"
+        "id": "511296",
+        "name": "Drug Dealer Simulator"
       },
       "is_recurring": true
     },
@@ -87,8 +63,20 @@
     {
       "id": "eyJzZWdtZW50SUQiOiI5MDdmNTRlNi1kMDE4LTQ3YTUtYmVjYy00MjZkMzAxZWFmYjAiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjo2fQ==",
       "start_time": "2023-02-10T14:00:00Z",
-      "end_time": "2023-02-10T17:00:00Z",
-      "title": "⚽ FOOTBALL MANAGER ",
+      "end_time": "2023-02-10T15:30:00Z",
+      "title": "💲 DRUG DEALER SIMULATOR",
+      "canceled_until": null,
+      "category": {
+        "id": "511296",
+        "name": "Drug Dealer Simulator"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiI1ZTk3MGI1YS0xNmE0LTQ4ZWUtYTg1Ny1mOTdlOTRhNGNhYjAiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjo2fQ==",
+      "start_time": "2023-02-10T15:30:00Z",
+      "end_time": null,
+      "title": "⚽ FM : 10 ANS APRÈS ",
       "canceled_until": null,
       "category": {
         "id": "1047410718",
@@ -97,10 +85,34 @@
       "is_recurring": true
     },
     {
+      "id": "eyJzZWdtZW50SUQiOiJjYzEyNDI1Ni03NmRmLTQ5YWEtODQ0NS0xZjViYWIwZDUxZmUiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjo3fQ==",
+      "start_time": "2023-02-13T18:30:00Z",
+      "end_time": "2023-02-13T19:30:00Z",
+      "title": "🎙️ PRÉ-LIVE",
+      "canceled_until": null,
+      "category": {
+        "id": "509658",
+        "name": "Just Chatting"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiJmYWQyZGI0Ni0xZDAzLTRiNmItYjMwOS1mMTRlZTg1MDRiZTkiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjo3fQ==",
+      "start_time": "2023-02-13T19:30:00Z",
+      "end_time": null,
+      "title": "🎬 REACT",
+      "canceled_until": null,
+      "category": {
+        "id": "509658",
+        "name": "Just Chatting"
+      },
+      "is_recurring": true
+    },
+    {
       "id": "eyJzZWdtZW50SUQiOiIxZWJiZmNlZS1iMjJiLTQxZGYtOGFmZC1lZjJjM2Q5MWQ0OGYiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjo3fQ==",
       "start_time": "2023-02-14T19:00:00Z",
       "end_time": "2023-02-14T21:30:00Z",
-      "title": "🍿 POPCORN AVEC BAGHERA, ETOILES, DFG & PP GARCIA",
+      "title": "🍿 POPCORN AVEC M. POULPE, ANAÏS MARION & PONCE",
       "canceled_until": null,
       "category": {
         "id": "417752",
@@ -124,35 +136,11 @@
       "id": "eyJzZWdtZW50SUQiOiI0ODA2YmNhOS1mZDBkLTRiMzgtYTFiMy04ZmQ5OWU4MGJlYWMiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjo3fQ==",
       "start_time": "2023-02-15T14:00:00Z",
       "end_time": "2023-02-15T17:00:00Z",
-      "title": "⚽ FOOTBALL MANAGER ",
+      "title": "💲 DRUG DEALER SIMULATOR",
       "canceled_until": null,
       "category": {
-        "id": "1047410718",
-        "name": "Football Manager 2023"
-      },
-      "is_recurring": true
-    },
-    {
-      "id": "eyJzZWdtZW50SUQiOiJlOTI2NDcyOS04ODM5LTQ4Y2MtOGI2MC04MjI4ZjA5MzFkYjIiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjo3fQ==",
-      "start_time": "2023-02-16T14:00:00Z",
-      "end_time": "2023-02-16T15:00:00Z",
-      "title": "🎙 PRÉ-LIVE",
-      "canceled_until": null,
-      "category": {
-        "id": "509658",
-        "name": "Just Chatting"
-      },
-      "is_recurring": true
-    },
-    {
-      "id": "eyJzZWdtZW50SUQiOiI5ZjRlOGNhZi01MTViLTQ3NzQtYTNjNy0zNTJmMzI2NTQ3ODQiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjo3fQ==",
-      "start_time": "2023-02-16T15:00:00Z",
-      "end_time": null,
-      "title": "⚽ FOOTBALL MANAGER ",
-      "canceled_until": null,
-      "category": {
-        "id": "1047410718",
-        "name": "Football Manager 2023"
+        "id": "511296",
+        "name": "Drug Dealer Simulator"
       },
       "is_recurring": true
     },
@@ -171,8 +159,20 @@
     {
       "id": "eyJzZWdtZW50SUQiOiI5MDdmNTRlNi1kMDE4LTQ3YTUtYmVjYy00MjZkMzAxZWFmYjAiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjo3fQ==",
       "start_time": "2023-02-17T14:00:00Z",
-      "end_time": "2023-02-17T17:00:00Z",
-      "title": "⚽ FOOTBALL MANAGER ",
+      "end_time": "2023-02-17T15:30:00Z",
+      "title": "💲 DRUG DEALER SIMULATOR",
+      "canceled_until": null,
+      "category": {
+        "id": "511296",
+        "name": "Drug Dealer Simulator"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiI1ZTk3MGI1YS0xNmE0LTQ4ZWUtYTg1Ny1mOTdlOTRhNGNhYjAiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjo3fQ==",
+      "start_time": "2023-02-17T15:30:00Z",
+      "end_time": null,
+      "title": "⚽ FM : 10 ANS APRÈS ",
       "canceled_until": null,
       "category": {
         "id": "1047410718",
@@ -181,10 +181,34 @@
       "is_recurring": true
     },
     {
+      "id": "eyJzZWdtZW50SUQiOiJjYzEyNDI1Ni03NmRmLTQ5YWEtODQ0NS0xZjViYWIwZDUxZmUiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjo4fQ==",
+      "start_time": "2023-02-20T18:30:00Z",
+      "end_time": "2023-02-20T19:30:00Z",
+      "title": "🎙️ PRÉ-LIVE",
+      "canceled_until": null,
+      "category": {
+        "id": "509658",
+        "name": "Just Chatting"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiJmYWQyZGI0Ni0xZDAzLTRiNmItYjMwOS1mMTRlZTg1MDRiZTkiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjo4fQ==",
+      "start_time": "2023-02-20T19:30:00Z",
+      "end_time": null,
+      "title": "🎬 REACT",
+      "canceled_until": null,
+      "category": {
+        "id": "509658",
+        "name": "Just Chatting"
+      },
+      "is_recurring": true
+    },
+    {
       "id": "eyJzZWdtZW50SUQiOiIxZWJiZmNlZS1iMjJiLTQxZGYtOGFmZC1lZjJjM2Q5MWQ0OGYiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjo4fQ==",
       "start_time": "2023-02-21T19:00:00Z",
       "end_time": "2023-02-21T21:30:00Z",
-      "title": "🍿 POPCORN AVEC BAGHERA, ETOILES, DFG & PP GARCIA",
+      "title": "🍿 POPCORN AVEC M. POULPE, ANAÏS MARION & PONCE",
       "canceled_until": null,
       "category": {
         "id": "417752",
@@ -208,35 +232,11 @@
       "id": "eyJzZWdtZW50SUQiOiI0ODA2YmNhOS1mZDBkLTRiMzgtYTFiMy04ZmQ5OWU4MGJlYWMiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjo4fQ==",
       "start_time": "2023-02-22T14:00:00Z",
       "end_time": "2023-02-22T17:00:00Z",
-      "title": "⚽ FOOTBALL MANAGER ",
+      "title": "💲 DRUG DEALER SIMULATOR",
       "canceled_until": null,
       "category": {
-        "id": "1047410718",
-        "name": "Football Manager 2023"
-      },
-      "is_recurring": true
-    },
-    {
-      "id": "eyJzZWdtZW50SUQiOiJlOTI2NDcyOS04ODM5LTQ4Y2MtOGI2MC04MjI4ZjA5MzFkYjIiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjo4fQ==",
-      "start_time": "2023-02-23T14:00:00Z",
-      "end_time": "2023-02-23T15:00:00Z",
-      "title": "🎙 PRÉ-LIVE",
-      "canceled_until": null,
-      "category": {
-        "id": "509658",
-        "name": "Just Chatting"
-      },
-      "is_recurring": true
-    },
-    {
-      "id": "eyJzZWdtZW50SUQiOiI5ZjRlOGNhZi01MTViLTQ3NzQtYTNjNy0zNTJmMzI2NTQ3ODQiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjo4fQ==",
-      "start_time": "2023-02-23T15:00:00Z",
-      "end_time": null,
-      "title": "⚽ FOOTBALL MANAGER ",
-      "canceled_until": null,
-      "category": {
-        "id": "1047410718",
-        "name": "Football Manager 2023"
+        "id": "511296",
+        "name": "Drug Dealer Simulator"
       },
       "is_recurring": true
     },
