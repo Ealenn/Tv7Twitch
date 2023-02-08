@@ -7,27 +7,15 @@
     "broadcaster_type": "partner",
     "description": "",
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/3cdae7df-600c-4833-8dfe-8d2abc5a3b25-profile_image-300x300.png",
-    "offline_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/f376d5ef-13ac-4d28-b7f0-89c25ce0a83b-channel_offline_image-1920x1080.png",
+    "offline_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/b61e18ac-34a3-4fe6-b027-90b49a2e5c38-channel_offline_image-1920x1080.png",
     "view_count": 121218348,
     "created_at": "2013-02-05T19:20:22Z"
   },
   "schedulers": [
     {
-      "id": "eyJzZWdtZW50SUQiOiIxZWJiZmNlZS1iMjJiLTQxZGYtOGFmZC1lZjJjM2Q5MWQ0OGYiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjo2fQ==",
-      "start_time": "2023-02-07T19:00:00Z",
-      "end_time": "2023-02-07T21:30:00Z",
-      "title": "🍿 POPCORN AVEC M. POULPE, ANAÏS MARION & PONCE",
-      "canceled_until": null,
-      "category": {
-        "id": "417752",
-        "name": "Talk Shows & Podcasts"
-      },
-      "is_recurring": true
-    },
-    {
       "id": "eyJzZWdtZW50SUQiOiI2MGJmMDRjYy00ODYzLTRlODMtYjAyMy0xN2ZkYjZmM2JkMzUiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjo2fQ==",
-      "start_time": "2023-02-08T13:00:00Z",
-      "end_time": "2023-02-08T14:00:00Z",
+      "start_time": "2023-02-08T18:30:00Z",
+      "end_time": "2023-02-08T19:30:00Z",
       "title": "🎙️ PRÉ-LIVE",
       "canceled_until": null,
       "category": {
@@ -38,8 +26,8 @@
     },
     {
       "id": "eyJzZWdtZW50SUQiOiI0ODA2YmNhOS1mZDBkLTRiMzgtYTFiMy04ZmQ5OWU4MGJlYWMiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjo2fQ==",
-      "start_time": "2023-02-08T14:00:00Z",
-      "end_time": "2023-02-08T17:00:00Z",
+      "start_time": "2023-02-08T19:30:00Z",
+      "end_time": null,
       "title": "💲 DRUG DEALER SIMULATOR",
       "canceled_until": null,
       "category": {
@@ -122,8 +110,8 @@
     },
     {
       "id": "eyJzZWdtZW50SUQiOiI2MGJmMDRjYy00ODYzLTRlODMtYjAyMy0xN2ZkYjZmM2JkMzUiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjo3fQ==",
-      "start_time": "2023-02-15T13:00:00Z",
-      "end_time": "2023-02-15T14:00:00Z",
+      "start_time": "2023-02-15T18:30:00Z",
+      "end_time": "2023-02-15T19:30:00Z",
       "title": "🎙️ PRÉ-LIVE",
       "canceled_until": null,
       "category": {
@@ -134,8 +122,8 @@
     },
     {
       "id": "eyJzZWdtZW50SUQiOiI0ODA2YmNhOS1mZDBkLTRiMzgtYTFiMy04ZmQ5OWU4MGJlYWMiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjo3fQ==",
-      "start_time": "2023-02-15T14:00:00Z",
-      "end_time": "2023-02-15T17:00:00Z",
+      "start_time": "2023-02-15T19:30:00Z",
+      "end_time": null,
       "title": "💲 DRUG DEALER SIMULATOR",
       "canceled_until": null,
       "category": {
@@ -218,8 +206,8 @@
     },
     {
       "id": "eyJzZWdtZW50SUQiOiI2MGJmMDRjYy00ODYzLTRlODMtYjAyMy0xN2ZkYjZmM2JkMzUiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjo4fQ==",
-      "start_time": "2023-02-22T13:00:00Z",
-      "end_time": "2023-02-22T14:00:00Z",
+      "start_time": "2023-02-22T18:30:00Z",
+      "end_time": "2023-02-22T19:30:00Z",
       "title": "🎙️ PRÉ-LIVE",
       "canceled_until": null,
       "category": {
@@ -230,8 +218,8 @@
     },
     {
       "id": "eyJzZWdtZW50SUQiOiI0ODA2YmNhOS1mZDBkLTRiMzgtYTFiMy04ZmQ5OWU4MGJlYWMiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjo4fQ==",
-      "start_time": "2023-02-22T14:00:00Z",
-      "end_time": "2023-02-22T17:00:00Z",
+      "start_time": "2023-02-22T19:30:00Z",
+      "end_time": null,
       "title": "💲 DRUG DEALER SIMULATOR",
       "canceled_until": null,
       "category": {
@@ -249,6 +237,18 @@
       "category": {
         "id": "509658",
         "name": "Just Chatting"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiI5MDdmNTRlNi1kMDE4LTQ3YTUtYmVjYy00MjZkMzAxZWFmYjAiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjo4fQ==",
+      "start_time": "2023-02-24T14:00:00Z",
+      "end_time": "2023-02-24T15:30:00Z",
+      "title": "💲 DRUG DEALER SIMULATOR",
+      "canceled_until": null,
+      "category": {
+        "id": "511296",
+        "name": "Drug Dealer Simulator"
       },
       "is_recurring": true
     }
