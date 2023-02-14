@@ -7,40 +7,16 @@
     "broadcaster_type": "partner",
     "description": "",
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/3cdae7df-600c-4833-8dfe-8d2abc5a3b25-profile_image-300x300.png",
-    "offline_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/09817790-5d4e-45e3-9a7e-d716e5fd6e6b-channel_offline_image-1920x1080.png",
+    "offline_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/cebf4db2-c367-44ae-b755-6c25efad6724-channel_offline_image-1920x1080.png",
     "view_count": 121218348,
     "created_at": "2013-02-05T19:20:22Z"
   },
   "schedulers": [
     {
-      "id": "eyJzZWdtZW50SUQiOiJjYzEyNDI1Ni03NmRmLTQ5YWEtODQ0NS0xZjViYWIwZDUxZmUiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjo3fQ==",
-      "start_time": "2023-02-13T18:30:00Z",
-      "end_time": "2023-02-13T19:30:00Z",
-      "title": "🎙️ PRÉ-LIVE",
-      "canceled_until": null,
-      "category": {
-        "id": "509658",
-        "name": "Just Chatting"
-      },
-      "is_recurring": true
-    },
-    {
-      "id": "eyJzZWdtZW50SUQiOiJmYWQyZGI0Ni0xZDAzLTRiNmItYjMwOS1mMTRlZTg1MDRiZTkiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjo3fQ==",
-      "start_time": "2023-02-13T19:30:00Z",
-      "end_time": null,
-      "title": "🎬 REACT",
-      "canceled_until": null,
-      "category": {
-        "id": "509658",
-        "name": "Just Chatting"
-      },
-      "is_recurring": true
-    },
-    {
       "id": "eyJzZWdtZW50SUQiOiIxZWJiZmNlZS1iMjJiLTQxZGYtOGFmZC1lZjJjM2Q5MWQ0OGYiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjo3fQ==",
       "start_time": "2023-02-14T19:00:00Z",
       "end_time": "2023-02-14T21:30:00Z",
-      "title": "🍿 POPCORN AVEC M. POULPE, ANAÏS MARION & PONCE",
+      "title": "🍿 POPCORN AVEC LÉO DUFF, ULTIA, ANGLE DROIT & LOUIS SAN",
       "canceled_until": null,
       "category": {
         "id": "417752",
@@ -50,8 +26,8 @@
     },
     {
       "id": "eyJzZWdtZW50SUQiOiI2MGJmMDRjYy00ODYzLTRlODMtYjAyMy0xN2ZkYjZmM2JkMzUiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjo3fQ==",
-      "start_time": "2023-02-15T18:30:00Z",
-      "end_time": "2023-02-15T19:30:00Z",
+      "start_time": "2023-02-15T13:00:00Z",
+      "end_time": "2023-02-15T14:00:00Z",
       "title": "🎙️ PRÉ-LIVE",
       "canceled_until": null,
       "category": {
@@ -62,21 +38,9 @@
     },
     {
       "id": "eyJzZWdtZW50SUQiOiI0ODA2YmNhOS1mZDBkLTRiMzgtYTFiMy04ZmQ5OWU4MGJlYWMiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjo3fQ==",
-      "start_time": "2023-02-15T19:30:00Z",
+      "start_time": "2023-02-15T14:00:00Z",
       "end_time": null,
-      "title": "💲 DRUG DEALER SIMULATOR",
-      "canceled_until": null,
-      "category": {
-        "id": "511296",
-        "name": "Drug Dealer Simulator"
-      },
-      "is_recurring": true
-    },
-    {
-      "id": "eyJzZWdtZW50SUQiOiI2MzVmYzVkMi0xMTRiLTQ1NmYtYTUwZS1jOThkYjkzYmZkOTAiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjo3fQ==",
-      "start_time": "2023-02-17T13:00:00Z",
-      "end_time": "2023-02-17T14:00:00Z",
-      "title": "🎙️ PRÉ-LIVE",
+      "title": "STREAM LIBRE",
       "canceled_until": null,
       "category": {
         "id": "509658",
@@ -85,26 +49,14 @@
       "is_recurring": true
     },
     {
-      "id": "eyJzZWdtZW50SUQiOiI5MDdmNTRlNi1kMDE4LTQ3YTUtYmVjYy00MjZkMzAxZWFmYjAiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjo3fQ==",
-      "start_time": "2023-02-17T14:00:00Z",
-      "end_time": "2023-02-17T15:30:00Z",
-      "title": "💲 DRUG DEALER SIMULATOR",
-      "canceled_until": null,
-      "category": {
-        "id": "511296",
-        "name": "Drug Dealer Simulator"
-      },
-      "is_recurring": true
-    },
-    {
       "id": "eyJzZWdtZW50SUQiOiI1ZTk3MGI1YS0xNmE0LTQ4ZWUtYTg1Ny1mOTdlOTRhNGNhYjAiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjo3fQ==",
-      "start_time": "2023-02-17T15:30:00Z",
+      "start_time": "2023-02-16T17:00:00Z",
       "end_time": null,
-      "title": "⚽ FM : 10 ANS APRÈS ",
+      "title": "⚽ BARÇA - MANCHESTER UNITED",
       "canceled_until": null,
       "category": {
-        "id": "1047410718",
-        "name": "Football Manager 2023"
+        "id": "509663",
+        "name": "Special Events"
       },
       "is_recurring": true
     },
@@ -124,7 +76,7 @@
       "id": "eyJzZWdtZW50SUQiOiJmYWQyZGI0Ni0xZDAzLTRiNmItYjMwOS1mMTRlZTg1MDRiZTkiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjo4fQ==",
       "start_time": "2023-02-20T19:30:00Z",
       "end_time": null,
-      "title": "🎬 REACT",
+      "title": "🎬 SOIRÉE REACT",
       "canceled_until": null,
       "category": {
         "id": "509658",
@@ -136,7 +88,7 @@
       "id": "eyJzZWdtZW50SUQiOiIxZWJiZmNlZS1iMjJiLTQxZGYtOGFmZC1lZjJjM2Q5MWQ0OGYiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjo4fQ==",
       "start_time": "2023-02-21T19:00:00Z",
       "end_time": "2023-02-21T21:30:00Z",
-      "title": "🍿 POPCORN AVEC M. POULPE, ANAÏS MARION & PONCE",
+      "title": "🍿 POPCORN AVEC LÉO DUFF, ULTIA, ANGLE DROIT & LOUIS SAN",
       "canceled_until": null,
       "category": {
         "id": "417752",
@@ -146,8 +98,8 @@
     },
     {
       "id": "eyJzZWdtZW50SUQiOiI2MGJmMDRjYy00ODYzLTRlODMtYjAyMy0xN2ZkYjZmM2JkMzUiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjo4fQ==",
-      "start_time": "2023-02-22T18:30:00Z",
-      "end_time": "2023-02-22T19:30:00Z",
+      "start_time": "2023-02-22T13:00:00Z",
+      "end_time": "2023-02-22T14:00:00Z",
       "title": "🎙️ PRÉ-LIVE",
       "canceled_until": null,
       "category": {
@@ -158,21 +110,9 @@
     },
     {
       "id": "eyJzZWdtZW50SUQiOiI0ODA2YmNhOS1mZDBkLTRiMzgtYTFiMy04ZmQ5OWU4MGJlYWMiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjo4fQ==",
-      "start_time": "2023-02-22T19:30:00Z",
+      "start_time": "2023-02-22T14:00:00Z",
       "end_time": null,
-      "title": "💲 DRUG DEALER SIMULATOR",
-      "canceled_until": null,
-      "category": {
-        "id": "511296",
-        "name": "Drug Dealer Simulator"
-      },
-      "is_recurring": true
-    },
-    {
-      "id": "eyJzZWdtZW50SUQiOiI2MzVmYzVkMi0xMTRiLTQ1NmYtYTUwZS1jOThkYjkzYmZkOTAiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjo4fQ==",
-      "start_time": "2023-02-24T13:00:00Z",
-      "end_time": "2023-02-24T14:00:00Z",
-      "title": "🎙️ PRÉ-LIVE",
+      "title": "STREAM LIBRE",
       "canceled_until": null,
       "category": {
         "id": "509658",
@@ -181,26 +121,14 @@
       "is_recurring": true
     },
     {
-      "id": "eyJzZWdtZW50SUQiOiI5MDdmNTRlNi1kMDE4LTQ3YTUtYmVjYy00MjZkMzAxZWFmYjAiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjo4fQ==",
-      "start_time": "2023-02-24T14:00:00Z",
-      "end_time": "2023-02-24T15:30:00Z",
-      "title": "💲 DRUG DEALER SIMULATOR",
-      "canceled_until": null,
-      "category": {
-        "id": "511296",
-        "name": "Drug Dealer Simulator"
-      },
-      "is_recurring": true
-    },
-    {
       "id": "eyJzZWdtZW50SUQiOiI1ZTk3MGI1YS0xNmE0LTQ4ZWUtYTg1Ny1mOTdlOTRhNGNhYjAiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjo4fQ==",
-      "start_time": "2023-02-24T15:30:00Z",
+      "start_time": "2023-02-23T17:00:00Z",
       "end_time": null,
-      "title": "⚽ FM : 10 ANS APRÈS ",
+      "title": "⚽ BARÇA - MANCHESTER UNITED",
       "canceled_until": null,
       "category": {
-        "id": "1047410718",
-        "name": "Football Manager 2023"
+        "id": "509663",
+        "name": "Special Events"
       },
       "is_recurring": true
     },
@@ -220,7 +148,7 @@
       "id": "eyJzZWdtZW50SUQiOiJmYWQyZGI0Ni0xZDAzLTRiNmItYjMwOS1mMTRlZTg1MDRiZTkiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjo5fQ==",
       "start_time": "2023-02-27T19:30:00Z",
       "end_time": null,
-      "title": "🎬 REACT",
+      "title": "🎬 SOIRÉE REACT",
       "canceled_until": null,
       "category": {
         "id": "509658",
@@ -232,7 +160,7 @@
       "id": "eyJzZWdtZW50SUQiOiIxZWJiZmNlZS1iMjJiLTQxZGYtOGFmZC1lZjJjM2Q5MWQ0OGYiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjo5fQ==",
       "start_time": "2023-02-28T19:00:00Z",
       "end_time": "2023-02-28T21:30:00Z",
-      "title": "🍿 POPCORN AVEC M. POULPE, ANAÏS MARION & PONCE",
+      "title": "🍿 POPCORN AVEC LÉO DUFF, ULTIA, ANGLE DROIT & LOUIS SAN",
       "canceled_until": null,
       "category": {
         "id": "417752",
@@ -242,8 +170,80 @@
     },
     {
       "id": "eyJzZWdtZW50SUQiOiI2MGJmMDRjYy00ODYzLTRlODMtYjAyMy0xN2ZkYjZmM2JkMzUiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjo5fQ==",
-      "start_time": "2023-03-01T18:30:00Z",
-      "end_time": "2023-03-01T19:30:00Z",
+      "start_time": "2023-03-01T13:00:00Z",
+      "end_time": "2023-03-01T14:00:00Z",
+      "title": "🎙️ PRÉ-LIVE",
+      "canceled_until": null,
+      "category": {
+        "id": "509658",
+        "name": "Just Chatting"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiI0ODA2YmNhOS1mZDBkLTRiMzgtYTFiMy04ZmQ5OWU4MGJlYWMiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjo5fQ==",
+      "start_time": "2023-03-01T14:00:00Z",
+      "end_time": null,
+      "title": "STREAM LIBRE",
+      "canceled_until": null,
+      "category": {
+        "id": "509658",
+        "name": "Just Chatting"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiI1ZTk3MGI1YS0xNmE0LTQ4ZWUtYTg1Ny1mOTdlOTRhNGNhYjAiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjo5fQ==",
+      "start_time": "2023-03-02T17:00:00Z",
+      "end_time": null,
+      "title": "⚽ BARÇA - MANCHESTER UNITED",
+      "canceled_until": null,
+      "category": {
+        "id": "509663",
+        "name": "Special Events"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiJjYzEyNDI1Ni03NmRmLTQ5YWEtODQ0NS0xZjViYWIwZDUxZmUiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjoxMH0=",
+      "start_time": "2023-03-06T18:30:00Z",
+      "end_time": "2023-03-06T19:30:00Z",
+      "title": "🎙️ PRÉ-LIVE",
+      "canceled_until": null,
+      "category": {
+        "id": "509658",
+        "name": "Just Chatting"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiJmYWQyZGI0Ni0xZDAzLTRiNmItYjMwOS1mMTRlZTg1MDRiZTkiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjoxMH0=",
+      "start_time": "2023-03-06T19:30:00Z",
+      "end_time": null,
+      "title": "🎬 SOIRÉE REACT",
+      "canceled_until": null,
+      "category": {
+        "id": "509658",
+        "name": "Just Chatting"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiIxZWJiZmNlZS1iMjJiLTQxZGYtOGFmZC1lZjJjM2Q5MWQ0OGYiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjoxMH0=",
+      "start_time": "2023-03-07T19:00:00Z",
+      "end_time": "2023-03-07T21:30:00Z",
+      "title": "🍿 POPCORN AVEC LÉO DUFF, ULTIA, ANGLE DROIT & LOUIS SAN",
+      "canceled_until": null,
+      "category": {
+        "id": "417752",
+        "name": "Talk Shows & Podcasts"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiI2MGJmMDRjYy00ODYzLTRlODMtYjAyMy0xN2ZkYjZmM2JkMzUiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjoxMH0=",
+      "start_time": "2023-03-08T13:00:00Z",
+      "end_time": "2023-03-08T14:00:00Z",
       "title": "🎙️ PRÉ-LIVE",
       "canceled_until": null,
       "category": {
