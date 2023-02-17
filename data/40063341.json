@@ -7,23 +7,11 @@
     "broadcaster_type": "partner",
     "description": "",
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/3cdae7df-600c-4833-8dfe-8d2abc5a3b25-profile_image-300x300.png",
-    "offline_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/231d840b-39b6-4621-80fc-cceca8493c95-channel_offline_image-1920x1080.png",
+    "offline_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/8136f947-8d9c-4164-9099-dacdaff957e9-channel_offline_image-1920x1080.png",
     "view_count": 121218348,
     "created_at": "2013-02-05T19:20:22Z"
   },
   "schedulers": [
-    {
-      "id": "eyJzZWdtZW50SUQiOiI1ZTk3MGI1YS0xNmE0LTQ4ZWUtYTg1Ny1mOTdlOTRhNGNhYjAiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjo3fQ==",
-      "start_time": "2023-02-16T17:00:00Z",
-      "end_time": null,
-      "title": "⚽ BARÇA - MANCHESTER UNITED",
-      "canceled_until": null,
-      "category": {
-        "id": "509663",
-        "name": "Special Events"
-      },
-      "is_recurring": true
-    },
     {
       "id": "eyJzZWdtZW50SUQiOiJjYzEyNDI1Ni03NmRmLTQ5YWEtODQ0NS0xZjViYWIwZDUxZmUiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjo4fQ==",
       "start_time": "2023-02-20T18:30:00Z",
@@ -245,6 +233,18 @@
       "start_time": "2023-03-13T18:30:00Z",
       "end_time": "2023-03-13T19:30:00Z",
       "title": "🎙️ PRÉ-LIVE",
+      "canceled_until": null,
+      "category": {
+        "id": "509658",
+        "name": "Just Chatting"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiJmYWQyZGI0Ni0xZDAzLTRiNmItYjMwOS1mMTRlZTg1MDRiZTkiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjoxMX0=",
+      "start_time": "2023-03-13T19:30:00Z",
+      "end_time": null,
+      "title": "🎬 SOIRÉE REACT",
       "canceled_until": null,
       "category": {
         "id": "509658",
