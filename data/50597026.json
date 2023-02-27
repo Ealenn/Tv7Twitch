@@ -13,18 +13,6 @@
   },
   "schedulers": [
     {
-      "id": "eyJzZWdtZW50SUQiOiI2YTI2NDM3ZS02Y2IzLTRjZjYtODQ4MC0xNzk5MzE3NmQ1ZDgiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjo4fQ==",
-      "start_time": "2023-02-26T12:00:00Z",
-      "end_time": "2023-02-26T16:00:00Z",
-      "title": "Le tournoi MK des fleurs",
-      "canceled_until": null,
-      "category": {
-        "id": "941530474",
-        "name": "Mario Kart 8 Deluxe"
-      },
-      "is_recurring": true
-    },
-    {
       "id": "eyJzZWdtZW50SUQiOiIxN2YwNjdmZC0wNzZhLTRmOTAtYjhjMy0zOGMxNDcwZGFmMDciLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjo5fQ==",
       "start_time": "2023-02-27T10:00:00Z",
       "end_time": "2023-02-27T17:00:00Z",
@@ -37,22 +25,10 @@
       "is_recurring": true
     },
     {
-      "id": "eyJzZWdtZW50SUQiOiI5YTlmZGM0YS1jZGM2LTQ5OTMtOTdjMC1kODkwNzVhZDAzYzYiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjo5fQ==",
-      "start_time": "2023-02-28T16:00:00Z",
-      "end_time": "2023-02-28T18:00:00Z",
-      "title": "On s'entraîne un peu avant le FFA",
-      "canceled_until": null,
-      "category": {
-        "id": "18122",
-        "name": "World of Warcraft"
-      },
-      "is_recurring": true
-    },
-    {
       "id": "eyJzZWdtZW50SUQiOiI2ZjlkNTcxOC0xN2RiLTQxZGQtYTM2ZC1lMmYxMzdiNWUwM2IiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjo5fQ==",
-      "start_time": "2023-02-28T18:00:00Z",
-      "end_time": "2023-02-28T22:00:00Z",
-      "title": "Tournoi Fight For Arena avec Luuxia",
+      "start_time": "2023-02-28T19:00:00Z",
+      "end_time": "2023-02-28T23:00:00Z",
+      "title": "Tournoi Fight For Arena avec Luuxia (sur la chaîne de Lapi)",
       "canceled_until": null,
       "category": {
         "id": "18122",
@@ -62,8 +38,8 @@
     },
     {
       "id": "eyJzZWdtZW50SUQiOiIxYTQzZjY0NS1lMzNkLTQ1NmUtOGMyMS0yNGM5MmExYjE2YmQiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjo5fQ==",
-      "start_time": "2023-03-01T10:00:00Z",
-      "end_time": "2023-03-01T16:00:00Z",
+      "start_time": "2023-03-01T16:00:00Z",
+      "end_time": "2023-03-01T21:00:00Z",
       "title": "On essaye de battre mon PB du speedrun SMO",
       "canceled_until": null,
       "category": {
@@ -73,21 +49,9 @@
       "is_recurring": true
     },
     {
-      "id": "eyJzZWdtZW50SUQiOiI0MmRkODA2Mi1iMDE2LTQzODYtODBjNi02NDc2NDJmMGY3YjciLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjo5fQ==",
-      "start_time": "2023-03-01T19:00:00Z",
-      "end_time": "2023-03-01T22:00:00Z",
-      "title": "Veridis Quo (sur la chaîne de Flonflon)",
-      "canceled_until": null,
-      "category": {
-        "id": "509658",
-        "name": "Just Chatting"
-      },
-      "is_recurring": true
-    },
-    {
       "id": "eyJzZWdtZW50SUQiOiIyYzE2ZjZhNS0yNWEwLTRlZDItYTUzNi01Y2RlNTJjYzQ0M2IiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjo5fQ==",
-      "start_time": "2023-03-02T13:00:00Z",
-      "end_time": "2023-03-02T20:00:00Z",
+      "start_time": "2023-03-02T10:00:00Z",
+      "end_time": "2023-03-02T19:00:00Z",
       "title": "On va buter maman let’s gooooo",
       "canceled_until": null,
       "category": {
@@ -109,42 +73,6 @@
       "is_recurring": true
     },
     {
-      "id": "eyJzZWdtZW50SUQiOiJhY2RmZTkxYS03MTJiLTQ1ZWYtOWEyYS05NWEzMmNiNGQ5YTMiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjo5fQ==",
-      "start_time": "2023-03-03T19:00:00Z",
-      "end_time": "2023-03-03T22:00:00Z",
-      "title": "L'Hebdo est tienne (sur la chaîne de Samuel Etienne)",
-      "canceled_until": null,
-      "category": {
-        "id": "509658",
-        "name": "Just Chatting"
-      },
-      "is_recurring": true
-    },
-    {
-      "id": "eyJzZWdtZW50SUQiOiIwZDdiM2ZmMC1mMjQwLTQ1NTYtYjdlNS01ZDE4YzUwYTk3NzIiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjo5fQ==",
-      "start_time": "2023-03-04T18:00:00Z",
-      "end_time": "2023-03-04T23:00:00Z",
-      "title": "Le conseil 4 ( évent pokémon Onu) ",
-      "canceled_until": null,
-      "category": {
-        "id": "670867987",
-        "name": "Pokémon Scarlet/Violet"
-      },
-      "is_recurring": true
-    },
-    {
-      "id": "eyJzZWdtZW50SUQiOiI2YTI2NDM3ZS02Y2IzLTRjZjYtODQ4MC0xNzk5MzE3NmQ1ZDgiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjo5fQ==",
-      "start_time": "2023-03-05T12:00:00Z",
-      "end_time": "2023-03-05T16:00:00Z",
-      "title": "Le tournoi MK des fleurs",
-      "canceled_until": null,
-      "category": {
-        "id": "941530474",
-        "name": "Mario Kart 8 Deluxe"
-      },
-      "is_recurring": true
-    },
-    {
       "id": "eyJzZWdtZW50SUQiOiIxN2YwNjdmZC0wNzZhLTRmOTAtYjhjMy0zOGMxNDcwZGFmMDciLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjoxMH0=",
       "start_time": "2023-03-06T10:00:00Z",
       "end_time": "2023-03-06T17:00:00Z",
@@ -157,22 +85,10 @@
       "is_recurring": true
     },
     {
-      "id": "eyJzZWdtZW50SUQiOiI5YTlmZGM0YS1jZGM2LTQ5OTMtOTdjMC1kODkwNzVhZDAzYzYiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjoxMH0=",
-      "start_time": "2023-03-07T16:00:00Z",
-      "end_time": "2023-03-07T18:00:00Z",
-      "title": "On s'entraîne un peu avant le FFA",
-      "canceled_until": null,
-      "category": {
-        "id": "18122",
-        "name": "World of Warcraft"
-      },
-      "is_recurring": true
-    },
-    {
       "id": "eyJzZWdtZW50SUQiOiI2ZjlkNTcxOC0xN2RiLTQxZGQtYTM2ZC1lMmYxMzdiNWUwM2IiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjoxMH0=",
-      "start_time": "2023-03-07T18:00:00Z",
-      "end_time": "2023-03-07T22:00:00Z",
-      "title": "Tournoi Fight For Arena avec Luuxia",
+      "start_time": "2023-03-07T19:00:00Z",
+      "end_time": "2023-03-07T23:00:00Z",
+      "title": "Tournoi Fight For Arena avec Luuxia (sur la chaîne de Lapi)",
       "canceled_until": null,
       "category": {
         "id": "18122",
@@ -182,8 +98,8 @@
     },
     {
       "id": "eyJzZWdtZW50SUQiOiIxYTQzZjY0NS1lMzNkLTQ1NmUtOGMyMS0yNGM5MmExYjE2YmQiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjoxMH0=",
-      "start_time": "2023-03-08T10:00:00Z",
-      "end_time": "2023-03-08T16:00:00Z",
+      "start_time": "2023-03-08T16:00:00Z",
+      "end_time": "2023-03-08T21:00:00Z",
       "title": "On essaye de battre mon PB du speedrun SMO",
       "canceled_until": null,
       "category": {
@@ -193,21 +109,9 @@
       "is_recurring": true
     },
     {
-      "id": "eyJzZWdtZW50SUQiOiI0MmRkODA2Mi1iMDE2LTQzODYtODBjNi02NDc2NDJmMGY3YjciLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjoxMH0=",
-      "start_time": "2023-03-08T19:00:00Z",
-      "end_time": "2023-03-08T22:00:00Z",
-      "title": "Veridis Quo (sur la chaîne de Flonflon)",
-      "canceled_until": null,
-      "category": {
-        "id": "509658",
-        "name": "Just Chatting"
-      },
-      "is_recurring": true
-    },
-    {
       "id": "eyJzZWdtZW50SUQiOiIyYzE2ZjZhNS0yNWEwLTRlZDItYTUzNi01Y2RlNTJjYzQ0M2IiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjoxMH0=",
-      "start_time": "2023-03-09T13:00:00Z",
-      "end_time": "2023-03-09T20:00:00Z",
+      "start_time": "2023-03-09T10:00:00Z",
+      "end_time": "2023-03-09T19:00:00Z",
       "title": "On va buter maman let’s gooooo",
       "canceled_until": null,
       "category": {
@@ -229,26 +133,122 @@
       "is_recurring": true
     },
     {
-      "id": "eyJzZWdtZW50SUQiOiJhY2RmZTkxYS03MTJiLTQ1ZWYtOWEyYS05NWEzMmNiNGQ5YTMiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjoxMH0=",
-      "start_time": "2023-03-10T19:00:00Z",
-      "end_time": "2023-03-10T22:00:00Z",
-      "title": "L'Hebdo est tienne (sur la chaîne de Samuel Etienne)",
+      "id": "eyJzZWdtZW50SUQiOiIxN2YwNjdmZC0wNzZhLTRmOTAtYjhjMy0zOGMxNDcwZGFmMDciLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjoxMX0=",
+      "start_time": "2023-03-13T10:00:00Z",
+      "end_time": "2023-03-13T17:00:00Z",
+      "title": "Culture & Plaisir ",
       "canceled_until": null,
       "category": {
-        "id": "509658",
-        "name": "Just Chatting"
+        "id": "338715930",
+        "name": "Maitre des Fleurs"
       },
       "is_recurring": true
     },
     {
-      "id": "eyJzZWdtZW50SUQiOiIwZDdiM2ZmMC1mMjQwLTQ1NTYtYjdlNS01ZDE4YzUwYTk3NzIiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjoxMH0=",
-      "start_time": "2023-03-11T18:00:00Z",
-      "end_time": "2023-03-11T23:00:00Z",
-      "title": "Le conseil 4 ( évent pokémon Onu) ",
+      "id": "eyJzZWdtZW50SUQiOiI2ZjlkNTcxOC0xN2RiLTQxZGQtYTM2ZC1lMmYxMzdiNWUwM2IiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjoxMX0=",
+      "start_time": "2023-03-14T19:00:00Z",
+      "end_time": "2023-03-14T23:00:00Z",
+      "title": "Tournoi Fight For Arena avec Luuxia (sur la chaîne de Lapi)",
       "canceled_until": null,
       "category": {
-        "id": "670867987",
-        "name": "Pokémon Scarlet/Violet"
+        "id": "18122",
+        "name": "World of Warcraft"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiIxYTQzZjY0NS1lMzNkLTQ1NmUtOGMyMS0yNGM5MmExYjE2YmQiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjoxMX0=",
+      "start_time": "2023-03-15T16:00:00Z",
+      "end_time": "2023-03-15T21:00:00Z",
+      "title": "On essaye de battre mon PB du speedrun SMO",
+      "canceled_until": null,
+      "category": {
+        "id": "493997",
+        "name": "Super Mario Odyssey"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiIyYzE2ZjZhNS0yNWEwLTRlZDItYTUzNi01Y2RlNTJjYzQ0M2IiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjoxMX0=",
+      "start_time": "2023-03-16T10:00:00Z",
+      "end_time": "2023-03-16T19:00:00Z",
+      "title": "On va buter maman let’s gooooo",
+      "canceled_until": null,
+      "category": {
+        "id": "1414860634",
+        "name": "The Binding of Isaac: Repentance"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiI0ZWQxMmE5ZC01OGU2LTQ0MGUtYjE5Zi02MzU1YTJiYmFhYjgiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjoxMX0=",
+      "start_time": "2023-03-17T10:00:00Z",
+      "end_time": "2023-03-17T16:00:00Z",
+      "title": "On continue l’aventure Fire emblem ",
+      "canceled_until": null,
+      "category": {
+        "id": "1242184979",
+        "name": "Fire Emblem Engage"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiIxN2YwNjdmZC0wNzZhLTRmOTAtYjhjMy0zOGMxNDcwZGFmMDciLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjoxMn0=",
+      "start_time": "2023-03-20T10:00:00Z",
+      "end_time": "2023-03-20T17:00:00Z",
+      "title": "Culture & Plaisir ",
+      "canceled_until": null,
+      "category": {
+        "id": "338715930",
+        "name": "Maitre des Fleurs"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiI2ZjlkNTcxOC0xN2RiLTQxZGQtYTM2ZC1lMmYxMzdiNWUwM2IiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjoxMn0=",
+      "start_time": "2023-03-21T19:00:00Z",
+      "end_time": "2023-03-21T23:00:00Z",
+      "title": "Tournoi Fight For Arena avec Luuxia (sur la chaîne de Lapi)",
+      "canceled_until": null,
+      "category": {
+        "id": "18122",
+        "name": "World of Warcraft"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiIxYTQzZjY0NS1lMzNkLTQ1NmUtOGMyMS0yNGM5MmExYjE2YmQiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjoxMn0=",
+      "start_time": "2023-03-22T16:00:00Z",
+      "end_time": "2023-03-22T21:00:00Z",
+      "title": "On essaye de battre mon PB du speedrun SMO",
+      "canceled_until": null,
+      "category": {
+        "id": "493997",
+        "name": "Super Mario Odyssey"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiIyYzE2ZjZhNS0yNWEwLTRlZDItYTUzNi01Y2RlNTJjYzQ0M2IiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjoxMn0=",
+      "start_time": "2023-03-23T10:00:00Z",
+      "end_time": "2023-03-23T19:00:00Z",
+      "title": "On va buter maman let’s gooooo",
+      "canceled_until": null,
+      "category": {
+        "id": "1414860634",
+        "name": "The Binding of Isaac: Repentance"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiI0ZWQxMmE5ZC01OGU2LTQ0MGUtYjE5Zi02MzU1YTJiYmFhYjgiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjoxMn0=",
+      "start_time": "2023-03-24T10:00:00Z",
+      "end_time": "2023-03-24T16:00:00Z",
+      "title": "On continue l’aventure Fire emblem ",
+      "canceled_until": null,
+      "category": {
+        "id": "1242184979",
+        "name": "Fire Emblem Engage"
       },
       "is_recurring": true
     }
