@@ -13,6 +13,18 @@
   },
   "schedulers": [
     {
+      "id": "eyJzZWdtZW50SUQiOiIxOWE1NjdkNi05NmYyLTQ5YzgtYTgxZC02MzQzNTBhNDk3NzkiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjo5fQ==",
+      "start_time": "2023-03-02T19:00:00Z",
+      "end_time": null,
+      "title": "🕵️‍♂️ 10 ANS DE STREAM",
+      "canceled_until": null,
+      "category": {
+        "id": "509663",
+        "name": "Special Events"
+      },
+      "is_recurring": false
+    },
+    {
       "id": "eyJzZWdtZW50SUQiOiIxZWJiZmNlZS1iMjJiLTQxZGYtOGFmZC1lZjJjM2Q5MWQ0OGYiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjoxMH0=",
       "start_time": "2023-03-07T19:00:00Z",
       "end_time": "2023-03-07T21:30:00Z",
@@ -232,18 +244,6 @@
       "id": "eyJzZWdtZW50SUQiOiIxZWJiZmNlZS1iMjJiLTQxZGYtOGFmZC1lZjJjM2Q5MWQ0OGYiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjoyOH0=",
       "start_time": "2023-07-11T18:00:00Z",
       "end_time": "2023-07-11T20:30:00Z",
-      "title": "🍿 POPCORN AVEC ANTOINE DANIEL, ETOILES & XARI",
-      "canceled_until": null,
-      "category": {
-        "id": "417752",
-        "name": "Talk Shows & Podcasts"
-      },
-      "is_recurring": true
-    },
-    {
-      "id": "eyJzZWdtZW50SUQiOiIxZWJiZmNlZS1iMjJiLTQxZGYtOGFmZC1lZjJjM2Q5MWQ0OGYiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjoyOX0=",
-      "start_time": "2023-07-18T18:00:00Z",
-      "end_time": "2023-07-18T20:30:00Z",
       "title": "🍿 POPCORN AVEC ANTOINE DANIEL, ETOILES & XARI",
       "canceled_until": null,
       "category": {
