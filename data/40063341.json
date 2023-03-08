@@ -7,23 +7,11 @@
     "broadcaster_type": "partner",
     "description": "",
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/3cdae7df-600c-4833-8dfe-8d2abc5a3b25-profile_image-300x300.png",
-    "offline_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/1d328b27-160f-4e5a-9ef8-e83a63af7e55-channel_offline_image-1920x1080.png",
+    "offline_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/b7ccf42e-2b5e-41b6-a969-6ea0c95c35b5-channel_offline_image-1920x1080.png",
     "view_count": 121218348,
     "created_at": "2013-02-05T19:20:22Z"
   },
   "schedulers": [
-    {
-      "id": "eyJzZWdtZW50SUQiOiIxZWJiZmNlZS1iMjJiLTQxZGYtOGFmZC1lZjJjM2Q5MWQ0OGYiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjoxMH0=",
-      "start_time": "2023-03-07T19:00:00Z",
-      "end_time": "2023-03-07T21:30:00Z",
-      "title": "🍿 POPCORN AVEC DOIGBY, JIRAYA & ZERATOR",
-      "canceled_until": null,
-      "category": {
-        "id": "417752",
-        "name": "Talk Shows & Podcasts"
-      },
-      "is_recurring": true
-    },
     {
       "id": "eyJzZWdtZW50SUQiOiIxM2IwODJhOC0wZjRlLTRkMjEtOWY1Mi02Y2ZjZGYwMDk4YWEiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjoxMH0=",
       "start_time": "2023-03-08T16:00:00Z",
@@ -249,6 +237,18 @@
       "category": {
         "id": "417752",
         "name": "Talk Shows & Podcasts"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiIyNzBjMzZjZS1mOTc5LTRiYTMtYjVlOS1jNTFmMzlmYzk2NTQiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjoxNn0=",
+      "start_time": "2023-04-20T10:00:00Z",
+      "end_time": "2023-04-20T12:00:00Z",
+      "title": "LA PAUSE DÉJ'",
+      "canceled_until": null,
+      "category": {
+        "id": "509658",
+        "name": "Just Chatting"
       },
       "is_recurring": true
     }

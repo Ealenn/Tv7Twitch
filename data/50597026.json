@@ -13,30 +13,6 @@
   },
   "schedulers": [
     {
-      "id": "eyJzZWdtZW50SUQiOiJmZGU1MDc4NC04YzBhLTQzNzMtOWM3NS05NmEyMGYyZmNjZjAiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjoxMH0=",
-      "start_time": "2023-03-07T10:00:00Z",
-      "end_time": "2023-03-07T13:00:00Z",
-      "title": "P’tite run SMO ",
-      "canceled_until": null,
-      "category": {
-        "id": "493997",
-        "name": "Super Mario Odyssey"
-      },
-      "is_recurring": true
-    },
-    {
-      "id": "eyJzZWdtZW50SUQiOiI2ZjlkNTcxOC0xN2RiLTQxZGQtYTM2ZC1lMmYxMzdiNWUwM2IiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjoxMH0=",
-      "start_time": "2023-03-07T13:00:00Z",
-      "end_time": "2023-03-07T18:00:00Z",
-      "title": "ON DÉCOUVRE CELESTE #HYPE",
-      "canceled_until": null,
-      "category": {
-        "id": "492535",
-        "name": "Celeste"
-      },
-      "is_recurring": true
-    },
-    {
       "id": "eyJzZWdtZW50SUQiOiIxYTQzZjY0NS1lMzNkLTQ1NmUtOGMyMS0yNGM5MmExYjE2YmQiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjoxMH0=",
       "start_time": "2023-03-08T10:00:00Z",
       "end_time": "2023-03-08T17:00:00Z",
@@ -249,6 +225,30 @@
       "category": {
         "id": "941530474",
         "name": "Mario Kart 8 Deluxe"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiIyYzE2ZjZhNS0yNWEwLTRlZDItYTUzNi01Y2RlNTJjYzQ0M2IiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjoxMn0=",
+      "start_time": "2023-03-23T12:00:00Z",
+      "end_time": "2023-03-23T17:00:00Z",
+      "title": "On retourne pleuré sur maman !",
+      "canceled_until": null,
+      "category": {
+        "id": "1414860634",
+        "name": "The Binding of Isaac: Repentance"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiIwNzlkNWNmZi00NjMxLTRmMzktYTM5MS1lZTY3OTgyY2RiZDIiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjoxMn0=",
+      "start_time": "2023-03-24T10:00:00Z",
+      "end_time": "2023-03-24T14:00:00Z",
+      "title": "P’tit Code Names avé les copaings",
+      "canceled_until": null,
+      "category": {
+        "id": "508509",
+        "name": "Codenames"
       },
       "is_recurring": true
     }
