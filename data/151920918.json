@@ -14,8 +14,8 @@
   "schedulers": [
     {
       "id": "eyJzZWdtZW50SUQiOiI1ZmFkOTZjZC1kZjNhLTQyYjQtOWFiMy1lMWQ3ZTc1NDU5NTgiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjoxMH0=",
-      "start_time": "2023-03-12T01:15:00Z",
-      "end_time": "2023-03-12T03:15:00Z",
+      "start_time": "2023-03-12T01:00:00Z",
+      "end_time": "2023-03-12T03:00:00Z",
       "title": "NASA's SpaceX Crew-5 Mission Returns to Earth",
       "canceled_until": null,
       "category": {

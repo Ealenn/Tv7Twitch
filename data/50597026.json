@@ -13,30 +13,6 @@
   },
   "schedulers": [
     {
-      "id": "eyJzZWdtZW50SUQiOiIwNzlkNWNmZi00NjMxLTRmMzktYTM5MS1lZTY3OTgyY2RiZDIiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjoxMH0=",
-      "start_time": "2023-03-10T10:00:00Z",
-      "end_time": "2023-03-10T14:00:00Z",
-      "title": "P’tit Code Names avé les copaings",
-      "canceled_until": null,
-      "category": {
-        "id": "508509",
-        "name": "Codenames"
-      },
-      "is_recurring": true
-    },
-    {
-      "id": "eyJzZWdtZW50SUQiOiI0ZWQxMmE5ZC01OGU2LTQ0MGUtYjE5Zi02MzU1YTJiYmFhYjgiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjoxMH0=",
-      "start_time": "2023-03-10T14:00:00Z",
-      "end_time": "2023-03-10T19:00:00Z",
-      "title": "On train les nouvelles maps MK ",
-      "canceled_until": null,
-      "category": {
-        "id": "941530474",
-        "name": "Mario Kart 8 Deluxe"
-      },
-      "is_recurring": true
-    },
-    {
       "id": "eyJzZWdtZW50SUQiOiIxN2YwNjdmZC0wNzZhLTRmOTAtYjhjMy0zOGMxNDcwZGFmMDciLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjoxMX0=",
       "start_time": "2023-03-13T10:00:00Z",
       "end_time": "2023-03-13T17:00:00Z",
@@ -245,6 +221,30 @@
       "start_time": "2023-03-28T09:00:00Z",
       "end_time": "2023-03-28T12:00:00Z",
       "title": "P’tite run SMO ",
+      "canceled_until": null,
+      "category": {
+        "id": "493997",
+        "name": "Super Mario Odyssey"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiI2ZjlkNTcxOC0xN2RiLTQxZGQtYTM2ZC1lMmYxMzdiNWUwM2IiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjoxM30=",
+      "start_time": "2023-03-28T12:00:00Z",
+      "end_time": "2023-03-28T17:00:00Z",
+      "title": "ON DÉCOUVRE CELESTE #HYPE",
+      "canceled_until": null,
+      "category": {
+        "id": "492535",
+        "name": "Celeste"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiIxYTQzZjY0NS1lMzNkLTQ1NmUtOGMyMS0yNGM5MmExYjE2YmQiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjoxM30=",
+      "start_time": "2023-03-29T09:00:00Z",
+      "end_time": "2023-03-29T16:00:00Z",
+      "title": "On essaye de battre mon PB du speedrun SMO",
       "canceled_until": null,
       "category": {
         "id": "493997",
