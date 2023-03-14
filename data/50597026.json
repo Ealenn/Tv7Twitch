@@ -13,18 +13,6 @@
   },
   "schedulers": [
     {
-      "id": "eyJzZWdtZW50SUQiOiIxN2YwNjdmZC0wNzZhLTRmOTAtYjhjMy0zOGMxNDcwZGFmMDciLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjoxMX0=",
-      "start_time": "2023-03-13T10:00:00Z",
-      "end_time": "2023-03-13T17:00:00Z",
-      "title": "Culture & Plaisir ",
-      "canceled_until": null,
-      "category": {
-        "id": "338715930",
-        "name": "Maitre des Fleurs"
-      },
-      "is_recurring": true
-    },
-    {
       "id": "eyJzZWdtZW50SUQiOiJmZGU1MDc4NC04YzBhLTQzNzMtOWM3NS05NmEyMGYyZmNjZjAiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjoxMX0=",
       "start_time": "2023-03-14T10:00:00Z",
       "end_time": "2023-03-14T13:00:00Z",
@@ -40,7 +28,7 @@
       "id": "eyJzZWdtZW50SUQiOiI2ZjlkNTcxOC0xN2RiLTQxZGQtYTM2ZC1lMmYxMzdiNWUwM2IiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjoxMX0=",
       "start_time": "2023-03-14T13:00:00Z",
       "end_time": "2023-03-14T18:00:00Z",
-      "title": "ON DÉCOUVRE CELESTE #HYPE",
+      "title": "ON CONTINUE CELESTE #HYPE",
       "canceled_until": null,
       "category": {
         "id": "492535",
@@ -51,7 +39,7 @@
     {
       "id": "eyJzZWdtZW50SUQiOiIxYTQzZjY0NS1lMzNkLTQ1NmUtOGMyMS0yNGM5MmExYjE2YmQiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjoxMX0=",
       "start_time": "2023-03-15T10:00:00Z",
-      "end_time": "2023-03-15T17:00:00Z",
+      "end_time": "2023-03-15T16:00:00Z",
       "title": "On essaye de battre mon PB du speedrun SMO",
       "canceled_until": null,
       "category": {
@@ -61,10 +49,10 @@
       "is_recurring": true
     },
     {
-      "id": "eyJzZWdtZW50SUQiOiJlYjdmYzFjYS0yNmUwLTQ1N2QtYmExZC01NjBkMjk5YjAwODgiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjoxMX0=",
-      "start_time": "2023-03-16T10:00:00Z",
-      "end_time": "2023-03-16T12:00:00Z",
-      "title": "Découverte des nouvelles maps MK",
+      "id": "eyJzZWdtZW50SUQiOiI0N2MwNjZlZC0xNGZjLTQ1MGItOTFmMi1hZTljZWZmNzRjMTIiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjoxMX0=",
+      "start_time": "2023-03-15T19:00:00Z",
+      "end_time": "2023-03-15T23:00:00Z",
+      "title": "Le retour de Ponce la switch ! ",
       "canceled_until": null,
       "category": {
         "id": "941530474",
@@ -73,10 +61,22 @@
       "is_recurring": true
     },
     {
+      "id": "eyJzZWdtZW50SUQiOiJlYjdmYzFjYS0yNmUwLTQ1N2QtYmExZC01NjBkMjk5YjAwODgiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjoxMX0=",
+      "start_time": "2023-03-16T10:00:00Z",
+      "end_time": "2023-03-16T13:00:00Z",
+      "title": "P’tite run SMO",
+      "canceled_until": null,
+      "category": {
+        "id": "493997",
+        "name": "Super Mario Odyssey"
+      },
+      "is_recurring": true
+    },
+    {
       "id": "eyJzZWdtZW50SUQiOiIyYzE2ZjZhNS0yNWEwLTRlZDItYTUzNi01Y2RlNTJjYzQ0M2IiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjoxMX0=",
-      "start_time": "2023-03-16T12:00:00Z",
-      "end_time": "2023-03-16T17:00:00Z",
-      "title": "On retourne pleuré sur maman !",
+      "start_time": "2023-03-16T13:00:00Z",
+      "end_time": "2023-03-16T18:00:00Z",
+      "title": "On retourne pleurer sur maman !",
       "canceled_until": null,
       "category": {
         "id": "1414860634",
@@ -85,33 +85,18 @@
       "is_recurring": true
     },
     {
-      "id": "eyJzZWdtZW50SUQiOiIwNzlkNWNmZi00NjMxLTRmMzktYTM5MS1lZTY3OTgyY2RiZDIiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjoxMX0=",
-      "start_time": "2023-03-17T10:00:00Z",
-      "end_time": "2023-03-17T14:00:00Z",
-      "title": "P’tit Code Names avé les copaings",
-      "canceled_until": null,
-      "category": {
-        "id": "508509",
-        "name": "Codenames"
-      },
-      "is_recurring": true
-    },
-    {
       "id": "eyJzZWdtZW50SUQiOiI0ZWQxMmE5ZC01OGU2LTQ0MGUtYjE5Zi02MzU1YTJiYmFhYjgiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjoxMX0=",
-      "start_time": "2023-03-17T14:00:00Z",
-      "end_time": "2023-03-17T19:00:00Z",
-      "title": "On train les nouvelles maps MK ",
+      "start_time": "2023-03-17T10:00:00Z",
+      "end_time": "2023-03-17T17:00:00Z",
+      "title": "Vendredi Multi avé les copains (Codenames…)",
       "canceled_until": null,
-      "category": {
-        "id": "941530474",
-        "name": "Mario Kart 8 Deluxe"
-      },
+      "category": null,
       "is_recurring": true
     },
     {
       "id": "eyJzZWdtZW50SUQiOiIxN2YwNjdmZC0wNzZhLTRmOTAtYjhjMy0zOGMxNDcwZGFmMDciLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjoxMn0=",
-      "start_time": "2023-03-20T10:00:00Z",
-      "end_time": "2023-03-20T17:00:00Z",
+      "start_time": "2023-03-20T11:00:00Z",
+      "end_time": "2023-03-20T18:00:00Z",
       "title": "Culture & Plaisir ",
       "canceled_until": null,
       "category": {
@@ -136,7 +121,7 @@
       "id": "eyJzZWdtZW50SUQiOiI2ZjlkNTcxOC0xN2RiLTQxZGQtYTM2ZC1lMmYxMzdiNWUwM2IiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjoxMn0=",
       "start_time": "2023-03-21T13:00:00Z",
       "end_time": "2023-03-21T18:00:00Z",
-      "title": "ON DÉCOUVRE CELESTE #HYPE",
+      "title": "ON CONTINUE CELESTE #HYPE",
       "canceled_until": null,
       "category": {
         "id": "492535",
@@ -147,7 +132,7 @@
     {
       "id": "eyJzZWdtZW50SUQiOiIxYTQzZjY0NS1lMzNkLTQ1NmUtOGMyMS0yNGM5MmExYjE2YmQiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjoxMn0=",
       "start_time": "2023-03-22T10:00:00Z",
-      "end_time": "2023-03-22T17:00:00Z",
+      "end_time": "2023-03-22T16:00:00Z",
       "title": "On essaye de battre mon PB du speedrun SMO",
       "canceled_until": null,
       "category": {
@@ -157,10 +142,10 @@
       "is_recurring": true
     },
     {
-      "id": "eyJzZWdtZW50SUQiOiJlYjdmYzFjYS0yNmUwLTQ1N2QtYmExZC01NjBkMjk5YjAwODgiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjoxMn0=",
-      "start_time": "2023-03-23T10:00:00Z",
-      "end_time": "2023-03-23T12:00:00Z",
-      "title": "Découverte des nouvelles maps MK",
+      "id": "eyJzZWdtZW50SUQiOiI0N2MwNjZlZC0xNGZjLTQ1MGItOTFmMi1hZTljZWZmNzRjMTIiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjoxMn0=",
+      "start_time": "2023-03-22T19:00:00Z",
+      "end_time": "2023-03-22T23:00:00Z",
+      "title": "Le retour de Ponce la switch ! ",
       "canceled_until": null,
       "category": {
         "id": "941530474",
@@ -169,10 +154,22 @@
       "is_recurring": true
     },
     {
+      "id": "eyJzZWdtZW50SUQiOiJlYjdmYzFjYS0yNmUwLTQ1N2QtYmExZC01NjBkMjk5YjAwODgiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjoxMn0=",
+      "start_time": "2023-03-23T10:00:00Z",
+      "end_time": "2023-03-23T13:00:00Z",
+      "title": "P’tite run SMO",
+      "canceled_until": null,
+      "category": {
+        "id": "493997",
+        "name": "Super Mario Odyssey"
+      },
+      "is_recurring": true
+    },
+    {
       "id": "eyJzZWdtZW50SUQiOiIyYzE2ZjZhNS0yNWEwLTRlZDItYTUzNi01Y2RlNTJjYzQ0M2IiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjoxMn0=",
-      "start_time": "2023-03-23T12:00:00Z",
-      "end_time": "2023-03-23T17:00:00Z",
-      "title": "On retourne pleuré sur maman !",
+      "start_time": "2023-03-23T13:00:00Z",
+      "end_time": "2023-03-23T18:00:00Z",
+      "title": "On retourne pleurer sur maman !",
       "canceled_until": null,
       "category": {
         "id": "1414860634",
@@ -181,33 +178,18 @@
       "is_recurring": true
     },
     {
-      "id": "eyJzZWdtZW50SUQiOiIwNzlkNWNmZi00NjMxLTRmMzktYTM5MS1lZTY3OTgyY2RiZDIiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjoxMn0=",
-      "start_time": "2023-03-24T10:00:00Z",
-      "end_time": "2023-03-24T14:00:00Z",
-      "title": "P’tit Code Names avé les copaings",
-      "canceled_until": null,
-      "category": {
-        "id": "508509",
-        "name": "Codenames"
-      },
-      "is_recurring": true
-    },
-    {
       "id": "eyJzZWdtZW50SUQiOiI0ZWQxMmE5ZC01OGU2LTQ0MGUtYjE5Zi02MzU1YTJiYmFhYjgiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjoxMn0=",
-      "start_time": "2023-03-24T14:00:00Z",
-      "end_time": "2023-03-24T19:00:00Z",
-      "title": "On train les nouvelles maps MK ",
+      "start_time": "2023-03-24T10:00:00Z",
+      "end_time": "2023-03-24T17:00:00Z",
+      "title": "Vendredi Multi avé les copains (Codenames…)",
       "canceled_until": null,
-      "category": {
-        "id": "941530474",
-        "name": "Mario Kart 8 Deluxe"
-      },
+      "category": null,
       "is_recurring": true
     },
     {
       "id": "eyJzZWdtZW50SUQiOiIxN2YwNjdmZC0wNzZhLTRmOTAtYjhjMy0zOGMxNDcwZGFmMDciLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjoxM30=",
-      "start_time": "2023-03-27T09:00:00Z",
-      "end_time": "2023-03-27T16:00:00Z",
+      "start_time": "2023-03-27T10:00:00Z",
+      "end_time": "2023-03-27T17:00:00Z",
       "title": "Culture & Plaisir ",
       "canceled_until": null,
       "category": {
@@ -232,7 +214,7 @@
       "id": "eyJzZWdtZW50SUQiOiI2ZjlkNTcxOC0xN2RiLTQxZGQtYTM2ZC1lMmYxMzdiNWUwM2IiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjoxM30=",
       "start_time": "2023-03-28T12:00:00Z",
       "end_time": "2023-03-28T17:00:00Z",
-      "title": "ON DÉCOUVRE CELESTE #HYPE",
+      "title": "ON CONTINUE CELESTE #HYPE",
       "canceled_until": null,
       "category": {
         "id": "492535",
@@ -243,12 +225,24 @@
     {
       "id": "eyJzZWdtZW50SUQiOiIxYTQzZjY0NS1lMzNkLTQ1NmUtOGMyMS0yNGM5MmExYjE2YmQiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjoxM30=",
       "start_time": "2023-03-29T09:00:00Z",
-      "end_time": "2023-03-29T16:00:00Z",
+      "end_time": "2023-03-29T15:00:00Z",
       "title": "On essaye de battre mon PB du speedrun SMO",
       "canceled_until": null,
       "category": {
         "id": "493997",
         "name": "Super Mario Odyssey"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiI0N2MwNjZlZC0xNGZjLTQ1MGItOTFmMi1hZTljZWZmNzRjMTIiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjoxM30=",
+      "start_time": "2023-03-29T18:00:00Z",
+      "end_time": "2023-03-29T22:00:00Z",
+      "title": "Le retour de Ponce la switch ! ",
+      "canceled_until": null,
+      "category": {
+        "id": "941530474",
+        "name": "Mario Kart 8 Deluxe"
       },
       "is_recurring": true
     }
