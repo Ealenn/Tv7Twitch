@@ -13,30 +13,6 @@
   },
   "schedulers": [
     {
-      "id": "eyJzZWdtZW50SUQiOiJlYjdmYzFjYS0yNmUwLTQ1N2QtYmExZC01NjBkMjk5YjAwODgiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjoxMX0=",
-      "start_time": "2023-03-16T10:00:00Z",
-      "end_time": "2023-03-16T13:00:00Z",
-      "title": "P’tite run SMO",
-      "canceled_until": null,
-      "category": {
-        "id": "493997",
-        "name": "Super Mario Odyssey"
-      },
-      "is_recurring": true
-    },
-    {
-      "id": "eyJzZWdtZW50SUQiOiIyYzE2ZjZhNS0yNWEwLTRlZDItYTUzNi01Y2RlNTJjYzQ0M2IiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjoxMX0=",
-      "start_time": "2023-03-16T13:00:00Z",
-      "end_time": "2023-03-16T18:00:00Z",
-      "title": "On retourne pleurer sur maman !",
-      "canceled_until": null,
-      "category": {
-        "id": "1414860634",
-        "name": "The Binding of Isaac: Repentance"
-      },
-      "is_recurring": true
-    },
-    {
       "id": "eyJzZWdtZW50SUQiOiI0ZWQxMmE5ZC01OGU2LTQ0MGUtYjE5Zi02MzU1YTJiYmFhYjgiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjoxMX0=",
       "start_time": "2023-03-17T10:00:00Z",
       "end_time": "2023-03-17T17:00:00Z",
@@ -240,6 +216,30 @@
       "category": {
         "id": "338715930",
         "name": "Maitre des Fleurs"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiJmZGU1MDc4NC04YzBhLTQzNzMtOWM3NS05NmEyMGYyZmNjZjAiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjoxNH0=",
+      "start_time": "2023-04-04T09:00:00Z",
+      "end_time": "2023-04-04T12:00:00Z",
+      "title": "P’tite run SMO ",
+      "canceled_until": null,
+      "category": {
+        "id": "493997",
+        "name": "Super Mario Odyssey"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiI2ZjlkNTcxOC0xN2RiLTQxZGQtYTM2ZC1lMmYxMzdiNWUwM2IiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjoxNH0=",
+      "start_time": "2023-04-04T12:00:00Z",
+      "end_time": "2023-04-04T17:00:00Z",
+      "title": "ON CONTINUE CELESTE #HYPE",
+      "canceled_until": null,
+      "category": {
+        "id": "492535",
+        "name": "Celeste"
       },
       "is_recurring": true
     }
