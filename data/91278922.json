@@ -13,15 +13,6 @@
   },
   "schedulers": [
     {
-      "id": "eyJzZWdtZW50SUQiOiJmN2Q5OGM1OC02OGEzLTRjYjEtYTE4ZS04MmMxYTc0MjliYmQiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjoxMX0=",
-      "start_time": "2023-03-18T08:30:00Z",
-      "end_time": "2023-03-18T12:30:00Z",
-      "title": "La matinale",
-      "canceled_until": null,
-      "category": null,
-      "is_recurring": true
-    },
-    {
       "id": "eyJzZWdtZW50SUQiOiJmN2Q5OGM1OC02OGEzLTRjYjEtYTE4ZS04MmMxYTc0MjliYmQiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjoxMn0=",
       "start_time": "2023-03-25T08:30:00Z",
       "end_time": "2023-03-25T12:30:00Z",
@@ -187,6 +178,15 @@
       "id": "eyJzZWdtZW50SUQiOiJmN2Q5OGM1OC02OGEzLTRjYjEtYTE4ZS04MmMxYTc0MjliYmQiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjozMH0=",
       "start_time": "2023-07-29T07:30:00Z",
       "end_time": "2023-07-29T11:30:00Z",
+      "title": "La matinale",
+      "canceled_until": null,
+      "category": null,
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiJmN2Q5OGM1OC02OGEzLTRjYjEtYTE4ZS04MmMxYTc0MjliYmQiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjozMX0=",
+      "start_time": "2023-08-05T07:30:00Z",
+      "end_time": "2023-08-05T11:30:00Z",
       "title": "La matinale",
       "canceled_until": null,
       "category": null,
