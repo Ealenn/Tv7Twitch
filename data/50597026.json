@@ -13,18 +13,6 @@
   },
   "schedulers": [
     {
-      "id": "eyJzZWdtZW50SUQiOiIxN2YwNjdmZC0wNzZhLTRmOTAtYjhjMy0zOGMxNDcwZGFmMDciLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjoxMn0=",
-      "start_time": "2023-03-20T10:00:00Z",
-      "end_time": "2023-03-20T17:00:00Z",
-      "title": "Culture & Plaisir ",
-      "canceled_until": null,
-      "category": {
-        "id": "338715930",
-        "name": "Maitre des Fleurs"
-      },
-      "is_recurring": true
-    },
-    {
       "id": "eyJzZWdtZW50SUQiOiJmZGU1MDc4NC04YzBhLTQzNzMtOWM3NS05NmEyMGYyZmNjZjAiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjoxMn0=",
       "start_time": "2023-03-21T13:00:00Z",
       "end_time": "2023-03-21T15:00:00Z",
@@ -239,6 +227,18 @@
       "start_time": "2023-04-05T09:00:00Z",
       "end_time": "2023-04-05T15:00:00Z",
       "title": "On essaye de battre mon PB du speedrun SMO",
+      "canceled_until": null,
+      "category": {
+        "id": "493997",
+        "name": "Super Mario Odyssey"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiJlYjdmYzFjYS0yNmUwLTQ1N2QtYmExZC01NjBkMjk5YjAwODgiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjoxNH0=",
+      "start_time": "2023-04-06T11:00:00Z",
+      "end_time": "2023-04-06T13:00:00Z",
+      "title": "P’tite run SMO",
       "canceled_until": null,
       "category": {
         "id": "493997",

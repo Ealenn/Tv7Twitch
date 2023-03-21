@@ -7,29 +7,41 @@
     "broadcaster_type": "partner",
     "description": "",
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/3cdae7df-600c-4833-8dfe-8d2abc5a3b25-profile_image-300x300.png",
-    "offline_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/5f3cb86f-c9cb-44d9-96b6-48ec9a54c4c8-channel_offline_image-1920x1080.png",
+    "offline_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/33d15fc2-a56c-42c2-82e0-c3479f0ece92-channel_offline_image-1920x1080.png",
     "view_count": 121218348,
     "created_at": "2013-02-05T19:20:22Z"
   },
   "schedulers": [
     {
-      "id": "eyJzZWdtZW50SUQiOiJjNDg1MWRhNC0yNjNjLTRmN2ItODEwYy0zOWI1ZmJkZGIxYmUiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjoxMn0=",
-      "start_time": "2023-03-20T18:30:00Z",
-      "end_time": "2023-03-20T20:00:00Z",
+      "id": "eyJzZWdtZW50SUQiOiI4MzI2MzliYy0wMDM5LTQyNTgtYjg2OC1lZGQxYWViMTdlNzYiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjoxMn0=",
+      "start_time": "2023-03-21T15:30:00Z",
+      "end_time": "2023-03-21T16:30:00Z",
       "title": "🎙 PRÉ-LIVE",
       "canceled_until": null,
       "category": {
         "id": "509658",
         "name": "Just Chatting"
       },
-      "is_recurring": true
+      "is_recurring": false
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiI4MGFmYTFmZC00MDVlLTRmZWQtYjQ4Ny0wZmI2NTFkOGQzN2QiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjoxMn0=",
+      "start_time": "2023-03-21T16:30:00Z",
+      "end_time": "2023-03-21T18:30:00Z",
+      "title": "🕵️‍♂️ DECEIVE INC.",
+      "canceled_until": null,
+      "category": {
+        "id": "512232",
+        "name": "Deceive Inc."
+      },
+      "is_recurring": false
     },
     {
       "id": "eyJzZWdtZW50SUQiOiIxZWJiZmNlZS1iMjJiLTQxZGYtOGFmZC1lZjJjM2Q5MWQ0OGYiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjoxMn0=",
       "start_time": "2023-03-21T19:00:00Z",
       "end_time": "2023-03-21T21:30:00Z",
-      "title": "🍿 POPCORN AVEC HEXAKIL, RIVENZI & ZACK (INVITÉS : APEX & ZYWOO)",
-      "canceled_until": null,
+      "title": "🍿 POPCORN ",
+      "canceled_until": "2023-03-21T21:30:00Z",
       "category": {
         "id": "417752",
         "name": "Talk Shows & Podcasts"
@@ -38,8 +50,8 @@
     },
     {
       "id": "eyJzZWdtZW50SUQiOiIxZGRlNWQ1Zi03MjU3LTQ2ZTItOTMwZi1jZWIxYWVjZmVkNDciLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjoxMn0=",
-      "start_time": "2023-03-22T13:00:00Z",
-      "end_time": "2023-03-22T14:00:00Z",
+      "start_time": "2023-03-22T18:30:00Z",
+      "end_time": "2023-03-22T19:30:00Z",
       "title": "🎙 PRÉ-LIVE",
       "canceled_until": null,
       "category": {
@@ -47,6 +59,18 @@
         "name": "Just Chatting"
       },
       "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiJkNjgyYmNlOS1mNTNkLTRiODUtOTJiNi05MmM0NTY0MjJkMzYiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjoxMn0=",
+      "start_time": "2023-03-22T19:30:00Z",
+      "end_time": "2023-03-22T23:00:00Z",
+      "title": "📺 REACT",
+      "canceled_until": null,
+      "category": {
+        "id": "509658",
+        "name": "Just Chatting"
+      },
+      "is_recurring": false
     },
     {
       "id": "eyJzZWdtZW50SUQiOiIyNzBjMzZjZS1mOTc5LTRiYTMtYjVlOS1jNTFmMzlmYzk2NTQiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjoxMn0=",
@@ -62,15 +86,27 @@
     },
     {
       "id": "eyJzZWdtZW50SUQiOiJhOTVhNDY1Mi1hMWEyLTQ3ZWYtYjE2OC0wZjczYjlhOTI2ZDIiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjoxMn0=",
-      "start_time": "2023-03-24T13:00:00Z",
-      "end_time": "2023-03-24T14:00:00Z",
-      "title": "🎙 PRÉ-LIVE",
+      "start_time": "2023-03-24T16:00:00Z",
+      "end_time": "2023-03-24T19:00:00Z",
+      "title": "🎙 STREAM LIBRE",
       "canceled_until": null,
       "category": {
         "id": "509658",
         "name": "Just Chatting"
       },
       "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiJlZGE5Nzk4YS0yMWE1LTQwNmEtOTg0Yy02YzMzM2UzMGM5MjEiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjoxMn0=",
+      "start_time": "2023-03-24T19:00:00Z",
+      "end_time": "2023-03-24T21:30:00Z",
+      "title": "♠ SOIRÉE POKER AVEC VALOUZZ & DOIGBY",
+      "canceled_until": null,
+      "category": {
+        "id": "488190",
+        "name": "Poker"
+      },
+      "is_recurring": false
     },
     {
       "id": "eyJzZWdtZW50SUQiOiJjNDg1MWRhNC0yNjNjLTRmN2ItODEwYy0zOWI1ZmJkZGIxYmUiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjoxM30=",
@@ -88,7 +124,7 @@
       "id": "eyJzZWdtZW50SUQiOiIxZWJiZmNlZS1iMjJiLTQxZGYtOGFmZC1lZjJjM2Q5MWQ0OGYiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjoxM30=",
       "start_time": "2023-03-28T18:00:00Z",
       "end_time": "2023-03-28T20:30:00Z",
-      "title": "🍿 POPCORN AVEC HEXAKIL, RIVENZI & ZACK (INVITÉS : APEX & ZYWOO)",
+      "title": "🍿 POPCORN ",
       "canceled_until": null,
       "category": {
         "id": "417752",
@@ -98,8 +134,8 @@
     },
     {
       "id": "eyJzZWdtZW50SUQiOiIxZGRlNWQ1Zi03MjU3LTQ2ZTItOTMwZi1jZWIxYWVjZmVkNDciLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjoxM30=",
-      "start_time": "2023-03-29T12:00:00Z",
-      "end_time": "2023-03-29T13:00:00Z",
+      "start_time": "2023-03-29T17:30:00Z",
+      "end_time": "2023-03-29T18:30:00Z",
       "title": "🎙 PRÉ-LIVE",
       "canceled_until": null,
       "category": {
@@ -122,9 +158,9 @@
     },
     {
       "id": "eyJzZWdtZW50SUQiOiJhOTVhNDY1Mi1hMWEyLTQ3ZWYtYjE2OC0wZjczYjlhOTI2ZDIiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjoxM30=",
-      "start_time": "2023-03-31T12:00:00Z",
-      "end_time": "2023-03-31T13:00:00Z",
-      "title": "🎙 PRÉ-LIVE",
+      "start_time": "2023-03-31T15:00:00Z",
+      "end_time": "2023-03-31T18:00:00Z",
+      "title": "🎙 STREAM LIBRE",
       "canceled_until": null,
       "category": {
         "id": "509658",
@@ -148,7 +184,7 @@
       "id": "eyJzZWdtZW50SUQiOiIxZWJiZmNlZS1iMjJiLTQxZGYtOGFmZC1lZjJjM2Q5MWQ0OGYiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjoxNH0=",
       "start_time": "2023-04-04T18:00:00Z",
       "end_time": "2023-04-04T20:30:00Z",
-      "title": "🍿 POPCORN AVEC HEXAKIL, RIVENZI & ZACK (INVITÉS : APEX & ZYWOO)",
+      "title": "🍿 POPCORN ",
       "canceled_until": null,
       "category": {
         "id": "417752",
@@ -158,8 +194,8 @@
     },
     {
       "id": "eyJzZWdtZW50SUQiOiIxZGRlNWQ1Zi03MjU3LTQ2ZTItOTMwZi1jZWIxYWVjZmVkNDciLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjoxNH0=",
-      "start_time": "2023-04-05T12:00:00Z",
-      "end_time": "2023-04-05T13:00:00Z",
+      "start_time": "2023-04-05T17:30:00Z",
+      "end_time": "2023-04-05T18:30:00Z",
       "title": "🎙 PRÉ-LIVE",
       "canceled_until": null,
       "category": {
@@ -182,9 +218,9 @@
     },
     {
       "id": "eyJzZWdtZW50SUQiOiJhOTVhNDY1Mi1hMWEyLTQ3ZWYtYjE2OC0wZjczYjlhOTI2ZDIiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjoxNH0=",
-      "start_time": "2023-04-07T12:00:00Z",
-      "end_time": "2023-04-07T13:00:00Z",
-      "title": "🎙 PRÉ-LIVE",
+      "start_time": "2023-04-07T15:00:00Z",
+      "end_time": "2023-04-07T18:00:00Z",
+      "title": "🎙 STREAM LIBRE",
       "canceled_until": null,
       "category": {
         "id": "509658",
@@ -208,47 +244,11 @@
       "id": "eyJzZWdtZW50SUQiOiIxZWJiZmNlZS1iMjJiLTQxZGYtOGFmZC1lZjJjM2Q5MWQ0OGYiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjoxNX0=",
       "start_time": "2023-04-11T18:00:00Z",
       "end_time": "2023-04-11T20:30:00Z",
-      "title": "🍿 POPCORN AVEC HEXAKIL, RIVENZI & ZACK (INVITÉS : APEX & ZYWOO)",
+      "title": "🍿 POPCORN ",
       "canceled_until": null,
       "category": {
         "id": "417752",
         "name": "Talk Shows & Podcasts"
-      },
-      "is_recurring": true
-    },
-    {
-      "id": "eyJzZWdtZW50SUQiOiIxZGRlNWQ1Zi03MjU3LTQ2ZTItOTMwZi1jZWIxYWVjZmVkNDciLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjoxNX0=",
-      "start_time": "2023-04-12T12:00:00Z",
-      "end_time": "2023-04-12T13:00:00Z",
-      "title": "🎙 PRÉ-LIVE",
-      "canceled_until": null,
-      "category": {
-        "id": "509658",
-        "name": "Just Chatting"
-      },
-      "is_recurring": true
-    },
-    {
-      "id": "eyJzZWdtZW50SUQiOiIyNzBjMzZjZS1mOTc5LTRiYTMtYjVlOS1jNTFmMzlmYzk2NTQiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjoxNX0=",
-      "start_time": "2023-04-13T10:00:00Z",
-      "end_time": "2023-04-13T12:00:00Z",
-      "title": "LA PAUSE DÉJ'",
-      "canceled_until": null,
-      "category": {
-        "id": "509658",
-        "name": "Just Chatting"
-      },
-      "is_recurring": true
-    },
-    {
-      "id": "eyJzZWdtZW50SUQiOiJhOTVhNDY1Mi1hMWEyLTQ3ZWYtYjE2OC0wZjczYjlhOTI2ZDIiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjoxNX0=",
-      "start_time": "2023-04-14T12:00:00Z",
-      "end_time": "2023-04-14T13:00:00Z",
-      "title": "🎙 PRÉ-LIVE",
-      "canceled_until": null,
-      "category": {
-        "id": "509658",
-        "name": "Just Chatting"
       },
       "is_recurring": true
     }
