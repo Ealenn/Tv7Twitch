@@ -13,42 +13,6 @@
   },
   "schedulers": [
     {
-      "id": "eyJzZWdtZW50SUQiOiI4MzI2MzliYy0wMDM5LTQyNTgtYjg2OC1lZGQxYWViMTdlNzYiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjoxMn0=",
-      "start_time": "2023-03-21T15:30:00Z",
-      "end_time": "2023-03-21T16:30:00Z",
-      "title": "🎙 PRÉ-LIVE",
-      "canceled_until": null,
-      "category": {
-        "id": "509658",
-        "name": "Just Chatting"
-      },
-      "is_recurring": false
-    },
-    {
-      "id": "eyJzZWdtZW50SUQiOiI4MGFmYTFmZC00MDVlLTRmZWQtYjQ4Ny0wZmI2NTFkOGQzN2QiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjoxMn0=",
-      "start_time": "2023-03-21T16:30:00Z",
-      "end_time": "2023-03-21T18:30:00Z",
-      "title": "🕵️‍♂️ DECEIVE INC.",
-      "canceled_until": null,
-      "category": {
-        "id": "512232",
-        "name": "Deceive Inc."
-      },
-      "is_recurring": false
-    },
-    {
-      "id": "eyJzZWdtZW50SUQiOiIxZWJiZmNlZS1iMjJiLTQxZGYtOGFmZC1lZjJjM2Q5MWQ0OGYiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjoxMn0=",
-      "start_time": "2023-03-21T19:00:00Z",
-      "end_time": "2023-03-21T21:30:00Z",
-      "title": "🍿 POPCORN ",
-      "canceled_until": "2023-03-21T21:30:00Z",
-      "category": {
-        "id": "417752",
-        "name": "Talk Shows & Podcasts"
-      },
-      "is_recurring": true
-    },
-    {
       "id": "eyJzZWdtZW50SUQiOiIxZGRlNWQ1Zi03MjU3LTQ2ZTItOTMwZi1jZWIxYWVjZmVkNDciLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjoxMn0=",
       "start_time": "2023-03-22T18:30:00Z",
       "end_time": "2023-03-22T19:30:00Z",
@@ -249,6 +213,42 @@
       "category": {
         "id": "417752",
         "name": "Talk Shows & Podcasts"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiIxZGRlNWQ1Zi03MjU3LTQ2ZTItOTMwZi1jZWIxYWVjZmVkNDciLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjoxNX0=",
+      "start_time": "2023-04-12T17:30:00Z",
+      "end_time": "2023-04-12T18:30:00Z",
+      "title": "🎙 PRÉ-LIVE",
+      "canceled_until": null,
+      "category": {
+        "id": "509658",
+        "name": "Just Chatting"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiIyNzBjMzZjZS1mOTc5LTRiYTMtYjVlOS1jNTFmMzlmYzk2NTQiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjoxNX0=",
+      "start_time": "2023-04-13T10:00:00Z",
+      "end_time": "2023-04-13T12:00:00Z",
+      "title": "LA PAUSE DÉJ'",
+      "canceled_until": null,
+      "category": {
+        "id": "509658",
+        "name": "Just Chatting"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiJhOTVhNDY1Mi1hMWEyLTQ3ZWYtYjE2OC0wZjczYjlhOTI2ZDIiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjoxNX0=",
+      "start_time": "2023-04-14T15:00:00Z",
+      "end_time": "2023-04-14T18:00:00Z",
+      "title": "🎙 STREAM LIBRE",
+      "canceled_until": null,
+      "category": {
+        "id": "509658",
+        "name": "Just Chatting"
       },
       "is_recurring": true
     }
