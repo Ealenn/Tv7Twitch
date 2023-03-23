@@ -13,30 +13,6 @@
   },
   "schedulers": [
     {
-      "id": "eyJzZWdtZW50SUQiOiIxZGRlNWQ1Zi03MjU3LTQ2ZTItOTMwZi1jZWIxYWVjZmVkNDciLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjoxMn0=",
-      "start_time": "2023-03-22T18:30:00Z",
-      "end_time": "2023-03-22T19:30:00Z",
-      "title": "🎙 PRÉ-LIVE",
-      "canceled_until": null,
-      "category": {
-        "id": "509658",
-        "name": "Just Chatting"
-      },
-      "is_recurring": true
-    },
-    {
-      "id": "eyJzZWdtZW50SUQiOiJkNjgyYmNlOS1mNTNkLTRiODUtOTJiNi05MmM0NTY0MjJkMzYiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjoxMn0=",
-      "start_time": "2023-03-22T19:30:00Z",
-      "end_time": "2023-03-22T23:00:00Z",
-      "title": "📺 REACT",
-      "canceled_until": null,
-      "category": {
-        "id": "509658",
-        "name": "Just Chatting"
-      },
-      "is_recurring": false
-    },
-    {
       "id": "eyJzZWdtZW50SUQiOiIyNzBjMzZjZS1mOTc5LTRiYTMtYjVlOS1jNTFmMzlmYzk2NTQiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjoxMn0=",
       "start_time": "2023-03-23T11:00:00Z",
       "end_time": "2023-03-23T13:00:00Z",
@@ -249,6 +225,30 @@
       "category": {
         "id": "509658",
         "name": "Just Chatting"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiJjNDg1MWRhNC0yNjNjLTRmN2ItODEwYy0zOWI1ZmJkZGIxYmUiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjoxNn0=",
+      "start_time": "2023-04-17T17:30:00Z",
+      "end_time": "2023-04-17T19:00:00Z",
+      "title": "🎙 PRÉ-LIVE",
+      "canceled_until": null,
+      "category": {
+        "id": "509658",
+        "name": "Just Chatting"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiIxZWJiZmNlZS1iMjJiLTQxZGYtOGFmZC1lZjJjM2Q5MWQ0OGYiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjoxNn0=",
+      "start_time": "2023-04-18T18:00:00Z",
+      "end_time": "2023-04-18T20:30:00Z",
+      "title": "🍿 POPCORN ",
+      "canceled_until": null,
+      "category": {
+        "id": "417752",
+        "name": "Talk Shows & Podcasts"
       },
       "is_recurring": true
     }
