@@ -13,18 +13,6 @@
   },
   "schedulers": [
     {
-      "id": "eyJzZWdtZW50SUQiOiIyNGY3MWE5Zi04MTJjLTQ3YzMtODdmMC1kNmMyZTQzOWY5NGUiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjoxMn0=",
-      "start_time": "2023-03-26T11:00:00Z",
-      "end_time": "2023-03-26T15:00:00Z",
-      "title": "Tournoi MK des fleurs (avec giveaway)",
-      "canceled_until": null,
-      "category": {
-        "id": "941530474",
-        "name": "Mario Kart 8 Deluxe"
-      },
-      "is_recurring": true
-    },
-    {
       "id": "eyJzZWdtZW50SUQiOiIxN2YwNjdmZC0wNzZhLTRmOTAtYjhjMy0zOGMxNDcwZGFmMDciLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjoxM30=",
       "start_time": "2023-03-27T09:00:00Z",
       "end_time": "2023-03-27T16:00:00Z",
@@ -33,30 +21,6 @@
       "category": {
         "id": "338715930",
         "name": "Maitre des Fleurs"
-      },
-      "is_recurring": true
-    },
-    {
-      "id": "eyJzZWdtZW50SUQiOiJmZGU1MDc4NC04YzBhLTQzNzMtOWM3NS05NmEyMGYyZmNjZjAiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjoxM30=",
-      "start_time": "2023-03-28T12:00:00Z",
-      "end_time": "2023-03-28T14:00:00Z",
-      "title": "P’tite run SMO ",
-      "canceled_until": null,
-      "category": {
-        "id": "493997",
-        "name": "Super Mario Odyssey"
-      },
-      "is_recurring": true
-    },
-    {
-      "id": "eyJzZWdtZW50SUQiOiI2ZjlkNTcxOC0xN2RiLTQxZGQtYTM2ZC1lMmYxMzdiNWUwM2IiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjoxM30=",
-      "start_time": "2023-03-28T14:00:00Z",
-      "end_time": "2023-03-28T20:00:00Z",
-      "title": "ON CONTINUE CELESTE #HYPE",
-      "canceled_until": null,
-      "category": {
-        "id": "492535",
-        "name": "Celeste"
       },
       "is_recurring": true
     },
@@ -74,9 +38,9 @@
     },
     {
       "id": "eyJzZWdtZW50SUQiOiJlYjdmYzFjYS0yNmUwLTQ1N2QtYmExZC01NjBkMjk5YjAwODgiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjoxM30=",
-      "start_time": "2023-03-30T11:00:00Z",
+      "start_time": "2023-03-30T09:00:00Z",
       "end_time": "2023-03-30T13:00:00Z",
-      "title": "P’tite run SMO",
+      "title": "2 P’tites runs SMO",
       "canceled_until": null,
       "category": {
         "id": "493997",
@@ -87,7 +51,7 @@
     {
       "id": "eyJzZWdtZW50SUQiOiIyYzE2ZjZhNS0yNWEwLTRlZDItYTUzNi01Y2RlNTJjYzQ0M2IiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjoxM30=",
       "start_time": "2023-03-30T13:00:00Z",
-      "end_time": "2023-03-30T18:00:00Z",
+      "end_time": "2023-03-30T17:00:00Z",
       "title": "On retourne pleurer sur maman !",
       "canceled_until": null,
       "category": {
@@ -97,23 +61,38 @@
       "is_recurring": true
     },
     {
-      "id": "eyJzZWdtZW50SUQiOiI0ZWQxMmE5ZC01OGU2LTQ0MGUtYjE5Zi02MzU1YTJiYmFhYjgiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjoxM30=",
+      "id": "eyJzZWdtZW50SUQiOiIwYjY4YzQyZi0yNGMzLTRlNzItYTgwMy0xZTU0N2RmOGVmZjUiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjoxM30=",
       "start_time": "2023-03-31T09:00:00Z",
-      "end_time": "2023-03-31T16:00:00Z",
-      "title": "Vendredi Multi avé les copains (Codenames…)",
+      "end_time": "2023-03-31T11:00:00Z",
+      "title": "P’tite run SMO",
       "canceled_until": null,
-      "category": null,
+      "category": {
+        "id": "493997",
+        "name": "Super Mario Odyssey"
+      },
       "is_recurring": true
     },
     {
-      "id": "eyJzZWdtZW50SUQiOiIyNGY3MWE5Zi04MTJjLTQ3YzMtODdmMC1kNmMyZTQzOWY5NGUiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjoxM30=",
-      "start_time": "2023-04-02T11:00:00Z",
-      "end_time": "2023-04-02T15:00:00Z",
-      "title": "Tournoi MK des fleurs (avec giveaway)",
+      "id": "eyJzZWdtZW50SUQiOiIxM2Y4ZTIwMC03NGQ2LTQyNGItODBkMS0yODMyOWVjZThkYzYiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjoxM30=",
+      "start_time": "2023-03-31T11:00:00Z",
+      "end_time": "2023-03-31T14:00:00Z",
+      "title": "Hades New File avé les copains",
       "canceled_until": null,
       "category": {
-        "id": "941530474",
-        "name": "Mario Kart 8 Deluxe"
+        "id": "510590",
+        "name": "Hades"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiI5YjBkZWJmMC1iZTYwLTQ3YzUtOGQyZS00YmZlM2I2M2IwNGQiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjoxM30=",
+      "start_time": "2023-03-31T14:00:00Z",
+      "end_time": "2023-03-31T16:00:00Z",
+      "title": "P’tit code names pour finir la journée avé les copains",
+      "canceled_until": null,
+      "category": {
+        "id": "508509",
+        "name": "Codenames"
       },
       "is_recurring": true
     },
@@ -126,30 +105,6 @@
       "category": {
         "id": "338715930",
         "name": "Maitre des Fleurs"
-      },
-      "is_recurring": true
-    },
-    {
-      "id": "eyJzZWdtZW50SUQiOiJmZGU1MDc4NC04YzBhLTQzNzMtOWM3NS05NmEyMGYyZmNjZjAiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjoxNH0=",
-      "start_time": "2023-04-04T12:00:00Z",
-      "end_time": "2023-04-04T14:00:00Z",
-      "title": "P’tite run SMO ",
-      "canceled_until": null,
-      "category": {
-        "id": "493997",
-        "name": "Super Mario Odyssey"
-      },
-      "is_recurring": true
-    },
-    {
-      "id": "eyJzZWdtZW50SUQiOiI2ZjlkNTcxOC0xN2RiLTQxZGQtYTM2ZC1lMmYxMzdiNWUwM2IiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjoxNH0=",
-      "start_time": "2023-04-04T14:00:00Z",
-      "end_time": "2023-04-04T20:00:00Z",
-      "title": "ON CONTINUE CELESTE #HYPE",
-      "canceled_until": null,
-      "category": {
-        "id": "492535",
-        "name": "Celeste"
       },
       "is_recurring": true
     },
@@ -167,9 +122,9 @@
     },
     {
       "id": "eyJzZWdtZW50SUQiOiJlYjdmYzFjYS0yNmUwLTQ1N2QtYmExZC01NjBkMjk5YjAwODgiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjoxNH0=",
-      "start_time": "2023-04-06T11:00:00Z",
+      "start_time": "2023-04-06T09:00:00Z",
       "end_time": "2023-04-06T13:00:00Z",
-      "title": "P’tite run SMO",
+      "title": "2 P’tites runs SMO",
       "canceled_until": null,
       "category": {
         "id": "493997",
@@ -180,7 +135,7 @@
     {
       "id": "eyJzZWdtZW50SUQiOiIyYzE2ZjZhNS0yNWEwLTRlZDItYTUzNi01Y2RlNTJjYzQ0M2IiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjoxNH0=",
       "start_time": "2023-04-06T13:00:00Z",
-      "end_time": "2023-04-06T18:00:00Z",
+      "end_time": "2023-04-06T17:00:00Z",
       "title": "On retourne pleurer sur maman !",
       "canceled_until": null,
       "category": {
@@ -190,23 +145,38 @@
       "is_recurring": true
     },
     {
-      "id": "eyJzZWdtZW50SUQiOiI0ZWQxMmE5ZC01OGU2LTQ0MGUtYjE5Zi02MzU1YTJiYmFhYjgiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjoxNH0=",
+      "id": "eyJzZWdtZW50SUQiOiIwYjY4YzQyZi0yNGMzLTRlNzItYTgwMy0xZTU0N2RmOGVmZjUiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjoxNH0=",
       "start_time": "2023-04-07T09:00:00Z",
-      "end_time": "2023-04-07T16:00:00Z",
-      "title": "Vendredi Multi avé les copains (Codenames…)",
+      "end_time": "2023-04-07T11:00:00Z",
+      "title": "P’tite run SMO",
       "canceled_until": null,
-      "category": null,
+      "category": {
+        "id": "493997",
+        "name": "Super Mario Odyssey"
+      },
       "is_recurring": true
     },
     {
-      "id": "eyJzZWdtZW50SUQiOiIyNGY3MWE5Zi04MTJjLTQ3YzMtODdmMC1kNmMyZTQzOWY5NGUiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjoxNH0=",
-      "start_time": "2023-04-09T11:00:00Z",
-      "end_time": "2023-04-09T15:00:00Z",
-      "title": "Tournoi MK des fleurs (avec giveaway)",
+      "id": "eyJzZWdtZW50SUQiOiIxM2Y4ZTIwMC03NGQ2LTQyNGItODBkMS0yODMyOWVjZThkYzYiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjoxNH0=",
+      "start_time": "2023-04-07T11:00:00Z",
+      "end_time": "2023-04-07T14:00:00Z",
+      "title": "Hades New File avé les copains",
       "canceled_until": null,
       "category": {
-        "id": "941530474",
-        "name": "Mario Kart 8 Deluxe"
+        "id": "510590",
+        "name": "Hades"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiI5YjBkZWJmMC1iZTYwLTQ3YzUtOGQyZS00YmZlM2I2M2IwNGQiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjoxNH0=",
+      "start_time": "2023-04-07T14:00:00Z",
+      "end_time": "2023-04-07T16:00:00Z",
+      "title": "P’tit code names pour finir la journée avé les copains",
+      "canceled_until": null,
+      "category": {
+        "id": "508509",
+        "name": "Codenames"
       },
       "is_recurring": true
     },
@@ -223,10 +193,10 @@
       "is_recurring": true
     },
     {
-      "id": "eyJzZWdtZW50SUQiOiJmZGU1MDc4NC04YzBhLTQzNzMtOWM3NS05NmEyMGYyZmNjZjAiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjoxNX0=",
-      "start_time": "2023-04-11T12:00:00Z",
-      "end_time": "2023-04-11T14:00:00Z",
-      "title": "P’tite run SMO ",
+      "id": "eyJzZWdtZW50SUQiOiIxYTQzZjY0NS1lMzNkLTQ1NmUtOGMyMS0yNGM5MmExYjE2YmQiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjoxNX0=",
+      "start_time": "2023-04-12T09:00:00Z",
+      "end_time": "2023-04-12T15:00:00Z",
+      "title": "On essaye de battre mon PB du speedrun SMO",
       "canceled_until": null,
       "category": {
         "id": "493997",
@@ -235,14 +205,50 @@
       "is_recurring": true
     },
     {
-      "id": "eyJzZWdtZW50SUQiOiI2ZjlkNTcxOC0xN2RiLTQxZGQtYTM2ZC1lMmYxMzdiNWUwM2IiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjoxNX0=",
-      "start_time": "2023-04-11T14:00:00Z",
-      "end_time": "2023-04-11T20:00:00Z",
-      "title": "ON CONTINUE CELESTE #HYPE",
+      "id": "eyJzZWdtZW50SUQiOiJlYjdmYzFjYS0yNmUwLTQ1N2QtYmExZC01NjBkMjk5YjAwODgiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjoxNX0=",
+      "start_time": "2023-04-13T09:00:00Z",
+      "end_time": "2023-04-13T13:00:00Z",
+      "title": "2 P’tites runs SMO",
       "canceled_until": null,
       "category": {
-        "id": "492535",
-        "name": "Celeste"
+        "id": "493997",
+        "name": "Super Mario Odyssey"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiIyYzE2ZjZhNS0yNWEwLTRlZDItYTUzNi01Y2RlNTJjYzQ0M2IiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjoxNX0=",
+      "start_time": "2023-04-13T13:00:00Z",
+      "end_time": "2023-04-13T17:00:00Z",
+      "title": "On retourne pleurer sur maman !",
+      "canceled_until": null,
+      "category": {
+        "id": "1414860634",
+        "name": "The Binding of Isaac: Repentance"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiIwYjY4YzQyZi0yNGMzLTRlNzItYTgwMy0xZTU0N2RmOGVmZjUiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjoxNX0=",
+      "start_time": "2023-04-14T09:00:00Z",
+      "end_time": "2023-04-14T11:00:00Z",
+      "title": "P’tite run SMO",
+      "canceled_until": null,
+      "category": {
+        "id": "493997",
+        "name": "Super Mario Odyssey"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiIxM2Y4ZTIwMC03NGQ2LTQyNGItODBkMS0yODMyOWVjZThkYzYiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjoxNX0=",
+      "start_time": "2023-04-14T11:00:00Z",
+      "end_time": "2023-04-14T14:00:00Z",
+      "title": "Hades New File avé les copains",
+      "canceled_until": null,
+      "category": {
+        "id": "510590",
+        "name": "Hades"
       },
       "is_recurring": true
     }
