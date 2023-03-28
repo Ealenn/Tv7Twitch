@@ -13,18 +13,6 @@
   },
   "schedulers": [
     {
-      "id": "eyJzZWdtZW50SUQiOiJiNDIzMTY5Yy04OWM5LTRlOGYtOGEzMS1mNmIzNTg0NWVlYzUiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjoxM30=",
-      "start_time": "2023-03-27T10:00:00Z",
-      "end_time": "2023-03-27T11:30:00Z",
-      "title": "SWOT : quoi de neuf depuis le lancement ?",
-      "canceled_until": null,
-      "category": {
-        "id": "509670",
-        "name": "Science & Technology"
-      },
-      "is_recurring": false
-    },
-    {
       "id": "eyJzZWdtZW50SUQiOiJiNjMxMGNhOS1kNGFkLTQ0OGEtYjI3MS1hZjQ4ZWRiY2JiMTQiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjoxNH0=",
       "start_time": "2023-04-06T17:30:00Z",
       "end_time": "2023-04-06T19:30:00Z",
