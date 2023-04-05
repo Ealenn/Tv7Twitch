@@ -7,35 +7,11 @@
     "broadcaster_type": "partner",
     "description": "",
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/3cdae7df-600c-4833-8dfe-8d2abc5a3b25-profile_image-300x300.png",
-    "offline_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/21c24ab2-2bc3-4be8-b28e-4c306a61225f-channel_offline_image-1920x1080.png",
+    "offline_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/835090d0-4ea3-450c-ac8f-32127ea2d19a-channel_offline_image-1920x1080.png",
     "view_count": 121218348,
     "created_at": "2013-02-05T19:20:22Z"
   },
   "schedulers": [
-    {
-      "id": "eyJzZWdtZW50SUQiOiIxZWJiZmNlZS1iMjJiLTQxZGYtOGFmZC1lZjJjM2Q5MWQ0OGYiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjoxNH0=",
-      "start_time": "2023-04-04T18:00:00Z",
-      "end_time": "2023-04-04T20:30:00Z",
-      "title": "🍿 POPCORN AVEC BAGHERA, SEB, SYLVAIN & PP GARCIA",
-      "canceled_until": null,
-      "category": {
-        "id": "417752",
-        "name": "Talk Shows & Podcasts"
-      },
-      "is_recurring": true
-    },
-    {
-      "id": "eyJzZWdtZW50SUQiOiIwMmE1ZGY5Ny0zOTZhLTRlZjktYjUyOS00NmY5OTU3Y2Y5YzkiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjoxNH0=",
-      "start_time": "2023-04-04T20:30:00Z",
-      "end_time": "2023-04-04T23:00:00Z",
-      "title": "ROAD 96 MILE 0",
-      "canceled_until": null,
-      "category": {
-        "id": "1218639684",
-        "name": "Road 96: Mile 0"
-      },
-      "is_recurring": false
-    },
     {
       "id": "eyJzZWdtZW50SUQiOiIyNzBjMzZjZS1mOTc5LTRiYTMtYjVlOS1jNTFmMzlmYzk2NTQiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjoxNH0=",
       "start_time": "2023-04-05T10:30:00Z",
@@ -246,6 +222,30 @@
       "category": {
         "id": "417752",
         "name": "Talk Shows & Podcasts"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiIyNzBjMzZjZS1mOTc5LTRiYTMtYjVlOS1jNTFmMzlmYzk2NTQiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjoxN30=",
+      "start_time": "2023-04-26T10:30:00Z",
+      "end_time": "2023-04-26T12:00:00Z",
+      "title": "LA PAUSE DÉJ'",
+      "canceled_until": null,
+      "category": {
+        "id": "509658",
+        "name": "Just Chatting"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiJmZDkzYWZlZC00ZmY3LTRmZWUtODJmZi05MDYxY2RkNDAyOTYiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjoxN30=",
+      "start_time": "2023-04-26T17:30:00Z",
+      "end_time": "2023-04-26T18:00:00Z",
+      "title": "🎙 PRÉ-LIVE ",
+      "canceled_until": null,
+      "category": {
+        "id": "509658",
+        "name": "Just Chatting"
       },
       "is_recurring": true
     }
