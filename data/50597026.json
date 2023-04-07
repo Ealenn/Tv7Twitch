@@ -13,30 +13,6 @@
   },
   "schedulers": [
     {
-      "id": "eyJzZWdtZW50SUQiOiJlYjdmYzFjYS0yNmUwLTQ1N2QtYmExZC01NjBkMjk5YjAwODgiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjoxNH0=",
-      "start_time": "2023-04-06T09:00:00Z",
-      "end_time": "2023-04-06T12:00:00Z",
-      "title": "On continue (et peut-être fini) Celeste",
-      "canceled_until": null,
-      "category": {
-        "id": "492535",
-        "name": "Celeste"
-      },
-      "is_recurring": true
-    },
-    {
-      "id": "eyJzZWdtZW50SUQiOiIyYzE2ZjZhNS0yNWEwLTRlZDItYTUzNi01Y2RlNTJjYzQ0M2IiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjoxNH0=",
-      "start_time": "2023-04-06T12:00:00Z",
-      "end_time": "2023-04-06T16:00:00Z",
-      "title": "On retourne pleurer sur maman !",
-      "canceled_until": null,
-      "category": {
-        "id": "1414860634",
-        "name": "The Binding of Isaac: Repentance"
-      },
-      "is_recurring": true
-    },
-    {
       "id": "eyJzZWdtZW50SUQiOiIxM2Y4ZTIwMC03NGQ2LTQyNGItODBkMS0yODMyOWVjZThkYzYiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjoxNH0=",
       "start_time": "2023-04-07T10:00:00Z",
       "end_time": "2023-04-07T14:00:00Z",
@@ -249,6 +225,30 @@
       "category": {
         "id": "509663",
         "name": "Special Events"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiIxYTQzZjY0NS1lMzNkLTQ1NmUtOGMyMS0yNGM5MmExYjE2YmQiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjoxN30=",
+      "start_time": "2023-04-26T09:00:00Z",
+      "end_time": "2023-04-26T15:00:00Z",
+      "title": "On essaye de battre mon PB du speedrun SMO",
+      "canceled_until": null,
+      "category": {
+        "id": "493997",
+        "name": "Super Mario Odyssey"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiJlYjdmYzFjYS0yNmUwLTQ1N2QtYmExZC01NjBkMjk5YjAwODgiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjoxN30=",
+      "start_time": "2023-04-27T09:00:00Z",
+      "end_time": "2023-04-27T12:00:00Z",
+      "title": "On continue (et peut-être fini) Celeste",
+      "canceled_until": null,
+      "category": {
+        "id": "492535",
+        "name": "Celeste"
       },
       "is_recurring": true
     }
