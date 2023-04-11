@@ -13,26 +13,26 @@
   },
   "schedulers": [
     {
-      "id": "eyJzZWdtZW50SUQiOiIxN2YwNjdmZC0wNzZhLTRmOTAtYjhjMy0zOGMxNDcwZGFmMDciLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjoxNX0=",
-      "start_time": "2023-04-10T09:00:00Z",
-      "end_time": "2023-04-10T16:00:00Z",
-      "title": "Culture & Plaisir ",
+      "id": "eyJzZWdtZW50SUQiOiI3YWY5M2FlMy01MTBhLTRiOWItYjYyNC0zNDc0YmFjZTM3MGUiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjoxNX0=",
+      "start_time": "2023-04-11T10:00:00Z",
+      "end_time": "2023-04-11T13:00:00Z",
+      "title": "P’tite run SMO",
       "canceled_until": null,
       "category": {
-        "id": "338715930",
-        "name": "Maitre des Fleurs"
+        "id": "493997",
+        "name": "Super Mario Odyssey"
       },
       "is_recurring": true
     },
     {
-      "id": "eyJzZWdtZW50SUQiOiI3YWY5M2FlMy01MTBhLTRiOWItYjYyNC0zNDc0YmFjZTM3MGUiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjoxNX0=",
-      "start_time": "2023-04-11T15:00:00Z",
-      "end_time": "2023-04-11T19:00:00Z",
-      "title": "Émission spéciale autour de Super Mario Bros le film #AD",
+      "id": "eyJzZWdtZW50SUQiOiJjNTJlOGE0MS1jOGE2LTRkMDMtYWUxMC1iYTkzNWIwOWRjM2MiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjoxNX0=",
+      "start_time": "2023-04-11T13:00:00Z",
+      "end_time": "2023-04-11T17:00:00Z",
+      "title": "On part à la recherche des fraises ",
       "canceled_until": null,
       "category": {
-        "id": "509663",
-        "name": "Special Events"
+        "id": "492535",
+        "name": "Celeste"
       },
       "is_recurring": true
     },
@@ -52,11 +52,11 @@
       "id": "eyJzZWdtZW50SUQiOiJlYjdmYzFjYS0yNmUwLTQ1N2QtYmExZC01NjBkMjk5YjAwODgiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjoxNX0=",
       "start_time": "2023-04-13T09:00:00Z",
       "end_time": "2023-04-13T12:00:00Z",
-      "title": "On continue (et peut-être fini) Celeste",
+      "title": "P’tite run SMO ",
       "canceled_until": null,
       "category": {
-        "id": "492535",
-        "name": "Celeste"
+        "id": "493997",
+        "name": "Super Mario Odyssey"
       },
       "is_recurring": true
     },
@@ -69,30 +69,6 @@
       "category": {
         "id": "1414860634",
         "name": "The Binding of Isaac: Repentance"
-      },
-      "is_recurring": true
-    },
-    {
-      "id": "eyJzZWdtZW50SUQiOiIxM2Y4ZTIwMC03NGQ2LTQyNGItODBkMS0yODMyOWVjZThkYzYiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjoxNX0=",
-      "start_time": "2023-04-14T10:00:00Z",
-      "end_time": "2023-04-14T14:00:00Z",
-      "title": "Hades New File avé les copains",
-      "canceled_until": null,
-      "category": {
-        "id": "510590",
-        "name": "Hades"
-      },
-      "is_recurring": true
-    },
-    {
-      "id": "eyJzZWdtZW50SUQiOiI5YjBkZWJmMC1iZTYwLTQ3YzUtOGQyZS00YmZlM2I2M2IwNGQiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjoxNX0=",
-      "start_time": "2023-04-14T14:00:00Z",
-      "end_time": "2023-04-14T16:00:00Z",
-      "title": "P’tit code names pour finir la journée avé les copains",
-      "canceled_until": null,
-      "category": {
-        "id": "508509",
-        "name": "Codenames"
       },
       "is_recurring": true
     },
@@ -110,13 +86,25 @@
     },
     {
       "id": "eyJzZWdtZW50SUQiOiI3YWY5M2FlMy01MTBhLTRiOWItYjYyNC0zNDc0YmFjZTM3MGUiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjoxNn0=",
-      "start_time": "2023-04-18T15:00:00Z",
-      "end_time": "2023-04-18T19:00:00Z",
-      "title": "Émission spéciale autour de Super Mario Bros le film #AD",
+      "start_time": "2023-04-18T10:00:00Z",
+      "end_time": "2023-04-18T13:00:00Z",
+      "title": "P’tite run SMO",
       "canceled_until": null,
       "category": {
-        "id": "509663",
-        "name": "Special Events"
+        "id": "493997",
+        "name": "Super Mario Odyssey"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiJjNTJlOGE0MS1jOGE2LTRkMDMtYWUxMC1iYTkzNWIwOWRjM2MiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjoxNn0=",
+      "start_time": "2023-04-18T13:00:00Z",
+      "end_time": "2023-04-18T17:00:00Z",
+      "title": "On part à la recherche des fraises ",
+      "canceled_until": null,
+      "category": {
+        "id": "492535",
+        "name": "Celeste"
       },
       "is_recurring": true
     },
@@ -136,11 +124,11 @@
       "id": "eyJzZWdtZW50SUQiOiJlYjdmYzFjYS0yNmUwLTQ1N2QtYmExZC01NjBkMjk5YjAwODgiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjoxNn0=",
       "start_time": "2023-04-20T09:00:00Z",
       "end_time": "2023-04-20T12:00:00Z",
-      "title": "On continue (et peut-être fini) Celeste",
+      "title": "P’tite run SMO ",
       "canceled_until": null,
       "category": {
-        "id": "492535",
-        "name": "Celeste"
+        "id": "493997",
+        "name": "Super Mario Odyssey"
       },
       "is_recurring": true
     },
@@ -153,30 +141,6 @@
       "category": {
         "id": "1414860634",
         "name": "The Binding of Isaac: Repentance"
-      },
-      "is_recurring": true
-    },
-    {
-      "id": "eyJzZWdtZW50SUQiOiIxM2Y4ZTIwMC03NGQ2LTQyNGItODBkMS0yODMyOWVjZThkYzYiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjoxNn0=",
-      "start_time": "2023-04-21T10:00:00Z",
-      "end_time": "2023-04-21T14:00:00Z",
-      "title": "Hades New File avé les copains",
-      "canceled_until": null,
-      "category": {
-        "id": "510590",
-        "name": "Hades"
-      },
-      "is_recurring": true
-    },
-    {
-      "id": "eyJzZWdtZW50SUQiOiI5YjBkZWJmMC1iZTYwLTQ3YzUtOGQyZS00YmZlM2I2M2IwNGQiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjoxNn0=",
-      "start_time": "2023-04-21T14:00:00Z",
-      "end_time": "2023-04-21T16:00:00Z",
-      "title": "P’tit code names pour finir la journée avé les copains",
-      "canceled_until": null,
-      "category": {
-        "id": "508509",
-        "name": "Codenames"
       },
       "is_recurring": true
     },
@@ -194,13 +158,25 @@
     },
     {
       "id": "eyJzZWdtZW50SUQiOiI3YWY5M2FlMy01MTBhLTRiOWItYjYyNC0zNDc0YmFjZTM3MGUiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjoxN30=",
-      "start_time": "2023-04-25T15:00:00Z",
-      "end_time": "2023-04-25T19:00:00Z",
-      "title": "Émission spéciale autour de Super Mario Bros le film #AD",
+      "start_time": "2023-04-25T10:00:00Z",
+      "end_time": "2023-04-25T13:00:00Z",
+      "title": "P’tite run SMO",
       "canceled_until": null,
       "category": {
-        "id": "509663",
-        "name": "Special Events"
+        "id": "493997",
+        "name": "Super Mario Odyssey"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiJjNTJlOGE0MS1jOGE2LTRkMDMtYWUxMC1iYTkzNWIwOWRjM2MiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjoxN30=",
+      "start_time": "2023-04-25T13:00:00Z",
+      "end_time": "2023-04-25T17:00:00Z",
+      "title": "On part à la recherche des fraises ",
+      "canceled_until": null,
+      "category": {
+        "id": "492535",
+        "name": "Celeste"
       },
       "is_recurring": true
     },
@@ -220,11 +196,11 @@
       "id": "eyJzZWdtZW50SUQiOiJlYjdmYzFjYS0yNmUwLTQ1N2QtYmExZC01NjBkMjk5YjAwODgiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjoxN30=",
       "start_time": "2023-04-27T09:00:00Z",
       "end_time": "2023-04-27T12:00:00Z",
-      "title": "On continue (et peut-être fini) Celeste",
+      "title": "P’tite run SMO ",
       "canceled_until": null,
       "category": {
-        "id": "492535",
-        "name": "Celeste"
+        "id": "493997",
+        "name": "Super Mario Odyssey"
       },
       "is_recurring": true
     },
@@ -241,14 +217,38 @@
       "is_recurring": true
     },
     {
-      "id": "eyJzZWdtZW50SUQiOiIxM2Y4ZTIwMC03NGQ2LTQyNGItODBkMS0yODMyOWVjZThkYzYiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjoxN30=",
-      "start_time": "2023-04-28T10:00:00Z",
-      "end_time": "2023-04-28T14:00:00Z",
-      "title": "Hades New File avé les copains",
+      "id": "eyJzZWdtZW50SUQiOiIxN2YwNjdmZC0wNzZhLTRmOTAtYjhjMy0zOGMxNDcwZGFmMDciLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjoxOH0=",
+      "start_time": "2023-05-01T09:00:00Z",
+      "end_time": "2023-05-01T16:00:00Z",
+      "title": "Culture & Plaisir ",
       "canceled_until": null,
       "category": {
-        "id": "510590",
-        "name": "Hades"
+        "id": "338715930",
+        "name": "Maitre des Fleurs"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiI3YWY5M2FlMy01MTBhLTRiOWItYjYyNC0zNDc0YmFjZTM3MGUiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjoxOH0=",
+      "start_time": "2023-05-02T10:00:00Z",
+      "end_time": "2023-05-02T13:00:00Z",
+      "title": "P’tite run SMO",
+      "canceled_until": null,
+      "category": {
+        "id": "493997",
+        "name": "Super Mario Odyssey"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiJjNTJlOGE0MS1jOGE2LTRkMDMtYWUxMC1iYTkzNWIwOWRjM2MiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjoxOH0=",
+      "start_time": "2023-05-02T13:00:00Z",
+      "end_time": "2023-05-02T17:00:00Z",
+      "title": "On part à la recherche des fraises ",
+      "canceled_until": null,
+      "category": {
+        "id": "492535",
+        "name": "Celeste"
       },
       "is_recurring": true
     }
