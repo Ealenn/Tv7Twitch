@@ -13,27 +13,6 @@
   },
   "schedulers": [
     {
-      "id": "eyJzZWdtZW50SUQiOiIxZGRlNWQ1Zi03MjU3LTQ2ZTItOTMwZi1jZWIxYWVjZmVkNDciLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjoxNX0=",
-      "start_time": "2023-04-14T12:00:00Z",
-      "end_time": "2023-04-14T13:00:00Z",
-      "title": "🎙 PRÉ-LIVE",
-      "canceled_until": null,
-      "category": {
-        "id": "509658",
-        "name": "Just Chatting"
-      },
-      "is_recurring": true
-    },
-    {
-      "id": "eyJzZWdtZW50SUQiOiIwN2I3MDMzMS1jMjdjLTRlN2ItOWE3NS1kZmQ2NjE2M2IwNzUiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjoxNX0=",
-      "start_time": "2023-04-14T13:00:00Z",
-      "end_time": "2023-04-14T17:00:00Z",
-      "title": "STREAM LIBRE",
-      "canceled_until": null,
-      "category": null,
-      "is_recurring": false
-    },
-    {
       "id": "eyJzZWdtZW50SUQiOiJjNDg1MWRhNC0yNjNjLTRmN2ItODEwYy0zOWI1ZmJkZGIxYmUiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjoxNn0=",
       "start_time": "2023-04-17T17:30:00Z",
       "end_time": "2023-04-17T19:00:00Z",
@@ -246,6 +225,30 @@
       "category": {
         "id": "417752",
         "name": "Talk Shows & Podcasts"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiJmZDkzYWZlZC00ZmY3LTRmZWUtODJmZi05MDYxY2RkNDAyOTYiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjoyMH0=",
+      "start_time": "2023-05-17T12:00:00Z",
+      "end_time": "2023-05-17T13:00:00Z",
+      "title": "🎙 PRÉ-LIVE ",
+      "canceled_until": null,
+      "category": {
+        "id": "509658",
+        "name": "Just Chatting"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiIxZGRlNWQ1Zi03MjU3LTQ2ZTItOTMwZi1jZWIxYWVjZmVkNDciLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjoyMH0=",
+      "start_time": "2023-05-19T12:00:00Z",
+      "end_time": "2023-05-19T13:00:00Z",
+      "title": "🎙 PRÉ-LIVE",
+      "canceled_until": null,
+      "category": {
+        "id": "509658",
+        "name": "Just Chatting"
       },
       "is_recurring": true
     }
