@@ -13,21 +13,9 @@
   },
   "schedulers": [
     {
-      "id": "eyJzZWdtZW50SUQiOiIxN2YwNjdmZC0wNzZhLTRmOTAtYjhjMy0zOGMxNDcwZGFmMDciLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjoxNn0=",
-      "start_time": "2023-04-17T09:00:00Z",
-      "end_time": "2023-04-17T16:00:00Z",
-      "title": "Culture & Plaisir ",
-      "canceled_until": null,
-      "category": {
-        "id": "338715930",
-        "name": "Maitre des Fleurs"
-      },
-      "is_recurring": true
-    },
-    {
       "id": "eyJzZWdtZW50SUQiOiI3YWY5M2FlMy01MTBhLTRiOWItYjYyNC0zNDc0YmFjZTM3MGUiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjoxNn0=",
-      "start_time": "2023-04-18T10:00:00Z",
-      "end_time": "2023-04-18T13:00:00Z",
+      "start_time": "2023-04-18T12:00:00Z",
+      "end_time": "2023-04-18T14:00:00Z",
       "title": "P’tite run SMO",
       "canceled_until": null,
       "category": {
@@ -38,9 +26,9 @@
     },
     {
       "id": "eyJzZWdtZW50SUQiOiJjNTJlOGE0MS1jOGE2LTRkMDMtYWUxMC1iYTkzNWIwOWRjM2MiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjoxNn0=",
-      "start_time": "2023-04-18T13:00:00Z",
-      "end_time": "2023-04-18T17:00:00Z",
-      "title": "On part à la recherche des fraises ",
+      "start_time": "2023-04-18T14:00:00Z",
+      "end_time": "2023-04-18T18:00:00Z",
+      "title": "On part à la recherche des fraises et des cœurs bleus",
       "canceled_until": null,
       "category": {
         "id": "492535",
@@ -49,38 +37,14 @@
       "is_recurring": true
     },
     {
-      "id": "eyJzZWdtZW50SUQiOiIxYTQzZjY0NS1lMzNkLTQ1NmUtOGMyMS0yNGM5MmExYjE2YmQiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjoxNn0=",
-      "start_time": "2023-04-19T09:00:00Z",
-      "end_time": "2023-04-19T15:00:00Z",
-      "title": "On essaye de battre mon PB du speedrun SMO",
+      "id": "eyJzZWdtZW50SUQiOiJjYTUxNjU2Yi02M2YzLTRhMTktOWIzYy1kMTY3YjdlMWJlMTAiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjoxNn0=",
+      "start_time": "2023-04-19T17:30:00Z",
+      "end_time": "2023-04-19T21:30:00Z",
+      "title": "Pod’fleur sur l’écologie ",
       "canceled_until": null,
       "category": {
-        "id": "493997",
-        "name": "Super Mario Odyssey"
-      },
-      "is_recurring": true
-    },
-    {
-      "id": "eyJzZWdtZW50SUQiOiJlYjdmYzFjYS0yNmUwLTQ1N2QtYmExZC01NjBkMjk5YjAwODgiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjoxNn0=",
-      "start_time": "2023-04-20T09:00:00Z",
-      "end_time": "2023-04-20T12:00:00Z",
-      "title": "P’tite run SMO ",
-      "canceled_until": null,
-      "category": {
-        "id": "493997",
-        "name": "Super Mario Odyssey"
-      },
-      "is_recurring": true
-    },
-    {
-      "id": "eyJzZWdtZW50SUQiOiIyYzE2ZjZhNS0yNWEwLTRlZDItYTUzNi01Y2RlNTJjYzQ0M2IiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjoxNn0=",
-      "start_time": "2023-04-20T12:00:00Z",
-      "end_time": "2023-04-20T16:00:00Z",
-      "title": "On retourne pleurer sur maman !",
-      "canceled_until": null,
-      "category": {
-        "id": "1414860634",
-        "name": "The Binding of Isaac: Repentance"
+        "id": "509658",
+        "name": "Just Chatting"
       },
       "is_recurring": true
     },
@@ -98,8 +62,8 @@
     },
     {
       "id": "eyJzZWdtZW50SUQiOiI3YWY5M2FlMy01MTBhLTRiOWItYjYyNC0zNDc0YmFjZTM3MGUiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjoxN30=",
-      "start_time": "2023-04-25T10:00:00Z",
-      "end_time": "2023-04-25T13:00:00Z",
+      "start_time": "2023-04-25T12:00:00Z",
+      "end_time": "2023-04-25T14:00:00Z",
       "title": "P’tite run SMO",
       "canceled_until": null,
       "category": {
@@ -110,9 +74,9 @@
     },
     {
       "id": "eyJzZWdtZW50SUQiOiJjNTJlOGE0MS1jOGE2LTRkMDMtYWUxMC1iYTkzNWIwOWRjM2MiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjoxN30=",
-      "start_time": "2023-04-25T13:00:00Z",
-      "end_time": "2023-04-25T17:00:00Z",
-      "title": "On part à la recherche des fraises ",
+      "start_time": "2023-04-25T14:00:00Z",
+      "end_time": "2023-04-25T18:00:00Z",
+      "title": "On part à la recherche des fraises et des cœurs bleus",
       "canceled_until": null,
       "category": {
         "id": "492535",
@@ -121,38 +85,14 @@
       "is_recurring": true
     },
     {
-      "id": "eyJzZWdtZW50SUQiOiIxYTQzZjY0NS1lMzNkLTQ1NmUtOGMyMS0yNGM5MmExYjE2YmQiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjoxN30=",
-      "start_time": "2023-04-26T09:00:00Z",
-      "end_time": "2023-04-26T15:00:00Z",
-      "title": "On essaye de battre mon PB du speedrun SMO",
+      "id": "eyJzZWdtZW50SUQiOiJjYTUxNjU2Yi02M2YzLTRhMTktOWIzYy1kMTY3YjdlMWJlMTAiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjoxN30=",
+      "start_time": "2023-04-26T17:30:00Z",
+      "end_time": "2023-04-26T21:30:00Z",
+      "title": "Pod’fleur sur l’écologie ",
       "canceled_until": null,
       "category": {
-        "id": "493997",
-        "name": "Super Mario Odyssey"
-      },
-      "is_recurring": true
-    },
-    {
-      "id": "eyJzZWdtZW50SUQiOiJlYjdmYzFjYS0yNmUwLTQ1N2QtYmExZC01NjBkMjk5YjAwODgiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjoxN30=",
-      "start_time": "2023-04-27T09:00:00Z",
-      "end_time": "2023-04-27T12:00:00Z",
-      "title": "P’tite run SMO ",
-      "canceled_until": null,
-      "category": {
-        "id": "493997",
-        "name": "Super Mario Odyssey"
-      },
-      "is_recurring": true
-    },
-    {
-      "id": "eyJzZWdtZW50SUQiOiIyYzE2ZjZhNS0yNWEwLTRlZDItYTUzNi01Y2RlNTJjYzQ0M2IiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjoxN30=",
-      "start_time": "2023-04-27T12:00:00Z",
-      "end_time": "2023-04-27T16:00:00Z",
-      "title": "On retourne pleurer sur maman !",
-      "canceled_until": null,
-      "category": {
-        "id": "1414860634",
-        "name": "The Binding of Isaac: Repentance"
+        "id": "509658",
+        "name": "Just Chatting"
       },
       "is_recurring": true
     },
@@ -170,8 +110,8 @@
     },
     {
       "id": "eyJzZWdtZW50SUQiOiI3YWY5M2FlMy01MTBhLTRiOWItYjYyNC0zNDc0YmFjZTM3MGUiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjoxOH0=",
-      "start_time": "2023-05-02T10:00:00Z",
-      "end_time": "2023-05-02T13:00:00Z",
+      "start_time": "2023-05-02T12:00:00Z",
+      "end_time": "2023-05-02T14:00:00Z",
       "title": "P’tite run SMO",
       "canceled_until": null,
       "category": {
@@ -182,9 +122,9 @@
     },
     {
       "id": "eyJzZWdtZW50SUQiOiJjNTJlOGE0MS1jOGE2LTRkMDMtYWUxMC1iYTkzNWIwOWRjM2MiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjoxOH0=",
-      "start_time": "2023-05-02T13:00:00Z",
-      "end_time": "2023-05-02T17:00:00Z",
-      "title": "On part à la recherche des fraises ",
+      "start_time": "2023-05-02T14:00:00Z",
+      "end_time": "2023-05-02T18:00:00Z",
+      "title": "On part à la recherche des fraises et des cœurs bleus",
       "canceled_until": null,
       "category": {
         "id": "492535",
@@ -193,38 +133,14 @@
       "is_recurring": true
     },
     {
-      "id": "eyJzZWdtZW50SUQiOiIxYTQzZjY0NS1lMzNkLTQ1NmUtOGMyMS0yNGM5MmExYjE2YmQiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjoxOH0=",
-      "start_time": "2023-05-03T09:00:00Z",
-      "end_time": "2023-05-03T15:00:00Z",
-      "title": "On essaye de battre mon PB du speedrun SMO",
+      "id": "eyJzZWdtZW50SUQiOiJjYTUxNjU2Yi02M2YzLTRhMTktOWIzYy1kMTY3YjdlMWJlMTAiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjoxOH0=",
+      "start_time": "2023-05-03T17:30:00Z",
+      "end_time": "2023-05-03T21:30:00Z",
+      "title": "Pod’fleur sur l’écologie ",
       "canceled_until": null,
       "category": {
-        "id": "493997",
-        "name": "Super Mario Odyssey"
-      },
-      "is_recurring": true
-    },
-    {
-      "id": "eyJzZWdtZW50SUQiOiJlYjdmYzFjYS0yNmUwLTQ1N2QtYmExZC01NjBkMjk5YjAwODgiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjoxOH0=",
-      "start_time": "2023-05-04T09:00:00Z",
-      "end_time": "2023-05-04T12:00:00Z",
-      "title": "P’tite run SMO ",
-      "canceled_until": null,
-      "category": {
-        "id": "493997",
-        "name": "Super Mario Odyssey"
-      },
-      "is_recurring": true
-    },
-    {
-      "id": "eyJzZWdtZW50SUQiOiIyYzE2ZjZhNS0yNWEwLTRlZDItYTUzNi01Y2RlNTJjYzQ0M2IiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjoxOH0=",
-      "start_time": "2023-05-04T12:00:00Z",
-      "end_time": "2023-05-04T16:00:00Z",
-      "title": "On retourne pleurer sur maman !",
-      "canceled_until": null,
-      "category": {
-        "id": "1414860634",
-        "name": "The Binding of Isaac: Repentance"
+        "id": "509658",
+        "name": "Just Chatting"
       },
       "is_recurring": true
     },
@@ -242,13 +158,97 @@
     },
     {
       "id": "eyJzZWdtZW50SUQiOiI3YWY5M2FlMy01MTBhLTRiOWItYjYyNC0zNDc0YmFjZTM3MGUiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjoxOX0=",
-      "start_time": "2023-05-09T10:00:00Z",
-      "end_time": "2023-05-09T13:00:00Z",
+      "start_time": "2023-05-09T12:00:00Z",
+      "end_time": "2023-05-09T14:00:00Z",
       "title": "P’tite run SMO",
       "canceled_until": null,
       "category": {
         "id": "493997",
         "name": "Super Mario Odyssey"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiJjNTJlOGE0MS1jOGE2LTRkMDMtYWUxMC1iYTkzNWIwOWRjM2MiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjoxOX0=",
+      "start_time": "2023-05-09T14:00:00Z",
+      "end_time": "2023-05-09T18:00:00Z",
+      "title": "On part à la recherche des fraises et des cœurs bleus",
+      "canceled_until": null,
+      "category": {
+        "id": "492535",
+        "name": "Celeste"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiJjYTUxNjU2Yi02M2YzLTRhMTktOWIzYy1kMTY3YjdlMWJlMTAiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjoxOX0=",
+      "start_time": "2023-05-10T17:30:00Z",
+      "end_time": "2023-05-10T21:30:00Z",
+      "title": "Pod’fleur sur l’écologie ",
+      "canceled_until": null,
+      "category": {
+        "id": "509658",
+        "name": "Just Chatting"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiIxN2YwNjdmZC0wNzZhLTRmOTAtYjhjMy0zOGMxNDcwZGFmMDciLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjoyMH0=",
+      "start_time": "2023-05-15T09:00:00Z",
+      "end_time": "2023-05-15T16:00:00Z",
+      "title": "Culture & Plaisir ",
+      "canceled_until": null,
+      "category": {
+        "id": "338715930",
+        "name": "Maitre des Fleurs"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiI3YWY5M2FlMy01MTBhLTRiOWItYjYyNC0zNDc0YmFjZTM3MGUiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjoyMH0=",
+      "start_time": "2023-05-16T12:00:00Z",
+      "end_time": "2023-05-16T14:00:00Z",
+      "title": "P’tite run SMO",
+      "canceled_until": null,
+      "category": {
+        "id": "493997",
+        "name": "Super Mario Odyssey"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiJjNTJlOGE0MS1jOGE2LTRkMDMtYWUxMC1iYTkzNWIwOWRjM2MiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjoyMH0=",
+      "start_time": "2023-05-16T14:00:00Z",
+      "end_time": "2023-05-16T18:00:00Z",
+      "title": "On part à la recherche des fraises et des cœurs bleus",
+      "canceled_until": null,
+      "category": {
+        "id": "492535",
+        "name": "Celeste"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiJjYTUxNjU2Yi02M2YzLTRhMTktOWIzYy1kMTY3YjdlMWJlMTAiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjoyMH0=",
+      "start_time": "2023-05-17T17:30:00Z",
+      "end_time": "2023-05-17T21:30:00Z",
+      "title": "Pod’fleur sur l’écologie ",
+      "canceled_until": null,
+      "category": {
+        "id": "509658",
+        "name": "Just Chatting"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiIxN2YwNjdmZC0wNzZhLTRmOTAtYjhjMy0zOGMxNDcwZGFmMDciLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjoyMX0=",
+      "start_time": "2023-05-22T09:00:00Z",
+      "end_time": "2023-05-22T16:00:00Z",
+      "title": "Culture & Plaisir ",
+      "canceled_until": null,
+      "category": {
+        "id": "338715930",
+        "name": "Maitre des Fleurs"
       },
       "is_recurring": true
     }
