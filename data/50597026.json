@@ -13,18 +13,6 @@
   },
   "schedulers": [
     {
-      "id": "eyJzZWdtZW50SUQiOiJjYTUxNjU2Yi02M2YzLTRhMTktOWIzYy1kMTY3YjdlMWJlMTAiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjoxNn0=",
-      "start_time": "2023-04-19T17:30:00Z",
-      "end_time": "2023-04-19T21:30:00Z",
-      "title": "Pod’fleur sur l’écologie ",
-      "canceled_until": null,
-      "category": {
-        "id": "509658",
-        "name": "Just Chatting"
-      },
-      "is_recurring": true
-    },
-    {
       "id": "eyJzZWdtZW50SUQiOiIxN2YwNjdmZC0wNzZhLTRmOTAtYjhjMy0zOGMxNDcwZGFmMDciLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjoxN30=",
       "start_time": "2023-04-24T09:00:00Z",
       "end_time": "2023-04-24T16:00:00Z",
@@ -249,6 +237,18 @@
       "category": {
         "id": "492535",
         "name": "Celeste"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiJjYTUxNjU2Yi02M2YzLTRhMTktOWIzYy1kMTY3YjdlMWJlMTAiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjoyMX0=",
+      "start_time": "2023-05-24T17:30:00Z",
+      "end_time": "2023-05-24T21:30:00Z",
+      "title": "Pod’fleur sur l’écologie ",
+      "canceled_until": null,
+      "category": {
+        "id": "509658",
+        "name": "Just Chatting"
       },
       "is_recurring": true
     }
