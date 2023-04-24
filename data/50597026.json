@@ -25,10 +25,22 @@
       "is_recurring": true
     },
     {
+      "id": "eyJzZWdtZW50SUQiOiJiZjAyODQ2Yi05NDlmLTRjMzYtODlkYS04YmJhM2Y0MWFlNTgiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjoxN30=",
+      "start_time": "2023-04-25T09:00:00Z",
+      "end_time": "2023-04-25T18:00:00Z",
+      "title": "Du WoW Classic Hardcore ",
+      "canceled_until": null,
+      "category": {
+        "id": "18122",
+        "name": "World of Warcraft"
+      },
+      "is_recurring": true
+    },
+    {
       "id": "eyJzZWdtZW50SUQiOiI3YWY5M2FlMy01MTBhLTRiOWItYjYyNC0zNDc0YmFjZTM3MGUiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjoxN30=",
-      "start_time": "2023-04-25T12:00:00Z",
-      "end_time": "2023-04-25T14:00:00Z",
-      "title": "P’tite run SMO",
+      "start_time": "2023-04-26T09:00:00Z",
+      "end_time": "2023-04-26T15:00:00Z",
+      "title": "On essaye de battre mon PB ",
       "canceled_until": null,
       "category": {
         "id": "493997",
@@ -37,9 +49,45 @@
       "is_recurring": true
     },
     {
+      "id": "eyJzZWdtZW50SUQiOiJhYTBiNDliMS0yNDlhLTQwYjUtOWUxYS1iMzQ5YjQ5YmQ4YTciLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjoxN30=",
+      "start_time": "2023-04-26T18:30:00Z",
+      "end_time": "2023-04-26T22:00:00Z",
+      "title": "Wow Classic Hardcore",
+      "canceled_until": null,
+      "category": {
+        "id": "18122",
+        "name": "World of Warcraft"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiJjZTcyZjk4Ni03ZThlLTQzN2EtOWNlMy1lYTdjYWFlMDY4MDUiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjoxN30=",
+      "start_time": "2023-04-27T13:00:00Z",
+      "end_time": "2023-04-27T18:30:00Z",
+      "title": "On va buter maman lezgoooo",
+      "canceled_until": null,
+      "category": {
+        "id": "1414860634",
+        "name": "The Binding of Isaac: Repentance"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiIwMzE2ODNjNy1jMDAzLTRlYTAtYmFlNy05YmVjNmUwYjU1MTkiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjoxN30=",
+      "start_time": "2023-04-27T18:30:00Z",
+      "end_time": "2023-04-27T22:00:00Z",
+      "title": "P’tit Among Us avec Jday et sa team",
+      "canceled_until": null,
+      "category": {
+        "id": "510218",
+        "name": "Among Us"
+      },
+      "is_recurring": true
+    },
+    {
       "id": "eyJzZWdtZW50SUQiOiJjNTJlOGE0MS1jOGE2LTRkMDMtYWUxMC1iYTkzNWIwOWRjM2MiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjoxN30=",
-      "start_time": "2023-04-25T14:00:00Z",
-      "end_time": "2023-04-25T18:00:00Z",
+      "start_time": "2023-04-28T09:00:00Z",
+      "end_time": "2023-04-28T12:00:00Z",
       "title": "On part à la recherche des fraises et des cœurs bleus",
       "canceled_until": null,
       "category": {
@@ -49,14 +97,38 @@
       "is_recurring": true
     },
     {
-      "id": "eyJzZWdtZW50SUQiOiJjYTUxNjU2Yi02M2YzLTRhMTktOWIzYy1kMTY3YjdlMWJlMTAiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjoxN30=",
-      "start_time": "2023-04-26T17:30:00Z",
-      "end_time": "2023-04-26T21:30:00Z",
-      "title": "Pod’fleur sur l’écologie ",
+      "id": "eyJzZWdtZW50SUQiOiI4YzU0MmVmZC0zM2NhLTQ0MDUtYjlmMS1hYjQxZmE5NWJjZWQiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjoxN30=",
+      "start_time": "2023-04-28T12:00:00Z",
+      "end_time": "2023-04-28T18:00:00Z",
+      "title": "Wow Classic Hardcore",
       "canceled_until": null,
       "category": {
-        "id": "509658",
-        "name": "Just Chatting"
+        "id": "18122",
+        "name": "World of Warcraft"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiI1NjJhNTI3OC03ODE4LTRhM2EtOTFmNy01OGU5YmU1MzY0ODEiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjoxN30=",
+      "start_time": "2023-04-30T11:00:00Z",
+      "end_time": "2023-04-30T15:00:00Z",
+      "title": "Le tournoi MK du dimanche ",
+      "canceled_until": null,
+      "category": {
+        "id": "941530474",
+        "name": "Mario Kart 8 Deluxe"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiJiNDkzZTNkNC0yZWQ2LTRlMzgtYjAxOS1hN2NlZTNhNDI5YmYiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjoxN30=",
+      "start_time": "2023-04-30T15:00:00Z",
+      "end_time": "2023-04-30T18:00:00Z",
+      "title": "WoW Classic Hardcore",
+      "canceled_until": null,
+      "category": {
+        "id": "18122",
+        "name": "World of Warcraft"
       },
       "is_recurring": true
     },
@@ -73,21 +145,69 @@
       "is_recurring": true
     },
     {
+      "id": "eyJzZWdtZW50SUQiOiJiZjAyODQ2Yi05NDlmLTRjMzYtODlkYS04YmJhM2Y0MWFlNTgiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjoxOH0=",
+      "start_time": "2023-05-02T09:00:00Z",
+      "end_time": "2023-05-02T18:00:00Z",
+      "title": "Du WoW Classic Hardcore ",
+      "canceled_until": null,
+      "category": {
+        "id": "18122",
+        "name": "World of Warcraft"
+      },
+      "is_recurring": true
+    },
+    {
       "id": "eyJzZWdtZW50SUQiOiI3YWY5M2FlMy01MTBhLTRiOWItYjYyNC0zNDc0YmFjZTM3MGUiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjoxOH0=",
-      "start_time": "2023-05-02T12:00:00Z",
-      "end_time": "2023-05-02T14:00:00Z",
-      "title": "P’tite run SMO",
+      "start_time": "2023-05-03T09:00:00Z",
+      "end_time": "2023-05-03T15:00:00Z",
+      "title": "On essaye de battre mon PB ",
       "canceled_until": null,
       "category": {
         "id": "493997",
         "name": "Super Mario Odyssey"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiJhYTBiNDliMS0yNDlhLTQwYjUtOWUxYS1iMzQ5YjQ5YmQ4YTciLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjoxOH0=",
+      "start_time": "2023-05-03T18:30:00Z",
+      "end_time": "2023-05-03T22:00:00Z",
+      "title": "Wow Classic Hardcore",
+      "canceled_until": null,
+      "category": {
+        "id": "18122",
+        "name": "World of Warcraft"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiJjZTcyZjk4Ni03ZThlLTQzN2EtOWNlMy1lYTdjYWFlMDY4MDUiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjoxOH0=",
+      "start_time": "2023-05-04T13:00:00Z",
+      "end_time": "2023-05-04T18:30:00Z",
+      "title": "On va buter maman lezgoooo",
+      "canceled_until": null,
+      "category": {
+        "id": "1414860634",
+        "name": "The Binding of Isaac: Repentance"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiIwMzE2ODNjNy1jMDAzLTRlYTAtYmFlNy05YmVjNmUwYjU1MTkiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjoxOH0=",
+      "start_time": "2023-05-04T18:30:00Z",
+      "end_time": "2023-05-04T22:00:00Z",
+      "title": "P’tit Among Us avec Jday et sa team",
+      "canceled_until": null,
+      "category": {
+        "id": "510218",
+        "name": "Among Us"
       },
       "is_recurring": true
     },
     {
       "id": "eyJzZWdtZW50SUQiOiJjNTJlOGE0MS1jOGE2LTRkMDMtYWUxMC1iYTkzNWIwOWRjM2MiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjoxOH0=",
-      "start_time": "2023-05-02T14:00:00Z",
-      "end_time": "2023-05-02T18:00:00Z",
+      "start_time": "2023-05-05T09:00:00Z",
+      "end_time": "2023-05-05T12:00:00Z",
       "title": "On part à la recherche des fraises et des cœurs bleus",
       "canceled_until": null,
       "category": {
@@ -97,158 +217,38 @@
       "is_recurring": true
     },
     {
-      "id": "eyJzZWdtZW50SUQiOiJjYTUxNjU2Yi02M2YzLTRhMTktOWIzYy1kMTY3YjdlMWJlMTAiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjoxOH0=",
-      "start_time": "2023-05-03T17:30:00Z",
-      "end_time": "2023-05-03T21:30:00Z",
-      "title": "Pod’fleur sur l’écologie ",
+      "id": "eyJzZWdtZW50SUQiOiI4YzU0MmVmZC0zM2NhLTQ0MDUtYjlmMS1hYjQxZmE5NWJjZWQiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjoxOH0=",
+      "start_time": "2023-05-05T12:00:00Z",
+      "end_time": "2023-05-05T18:00:00Z",
+      "title": "Wow Classic Hardcore",
       "canceled_until": null,
       "category": {
-        "id": "509658",
-        "name": "Just Chatting"
+        "id": "18122",
+        "name": "World of Warcraft"
       },
       "is_recurring": true
     },
     {
-      "id": "eyJzZWdtZW50SUQiOiIxN2YwNjdmZC0wNzZhLTRmOTAtYjhjMy0zOGMxNDcwZGFmMDciLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjoxOX0=",
-      "start_time": "2023-05-08T09:00:00Z",
-      "end_time": "2023-05-08T16:00:00Z",
-      "title": "Culture & Plaisir ",
+      "id": "eyJzZWdtZW50SUQiOiI1NjJhNTI3OC03ODE4LTRhM2EtOTFmNy01OGU5YmU1MzY0ODEiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjoxOH0=",
+      "start_time": "2023-05-07T11:00:00Z",
+      "end_time": "2023-05-07T15:00:00Z",
+      "title": "Le tournoi MK du dimanche ",
       "canceled_until": null,
       "category": {
-        "id": "338715930",
-        "name": "Maitre des Fleurs"
+        "id": "941530474",
+        "name": "Mario Kart 8 Deluxe"
       },
       "is_recurring": true
     },
     {
-      "id": "eyJzZWdtZW50SUQiOiI3YWY5M2FlMy01MTBhLTRiOWItYjYyNC0zNDc0YmFjZTM3MGUiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjoxOX0=",
-      "start_time": "2023-05-09T12:00:00Z",
-      "end_time": "2023-05-09T14:00:00Z",
-      "title": "P’tite run SMO",
+      "id": "eyJzZWdtZW50SUQiOiJiNDkzZTNkNC0yZWQ2LTRlMzgtYjAxOS1hN2NlZTNhNDI5YmYiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjoxOH0=",
+      "start_time": "2023-05-07T15:00:00Z",
+      "end_time": "2023-05-07T18:00:00Z",
+      "title": "WoW Classic Hardcore",
       "canceled_until": null,
       "category": {
-        "id": "493997",
-        "name": "Super Mario Odyssey"
-      },
-      "is_recurring": true
-    },
-    {
-      "id": "eyJzZWdtZW50SUQiOiJjNTJlOGE0MS1jOGE2LTRkMDMtYWUxMC1iYTkzNWIwOWRjM2MiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjoxOX0=",
-      "start_time": "2023-05-09T14:00:00Z",
-      "end_time": "2023-05-09T18:00:00Z",
-      "title": "On part à la recherche des fraises et des cœurs bleus",
-      "canceled_until": null,
-      "category": {
-        "id": "492535",
-        "name": "Celeste"
-      },
-      "is_recurring": true
-    },
-    {
-      "id": "eyJzZWdtZW50SUQiOiJjYTUxNjU2Yi02M2YzLTRhMTktOWIzYy1kMTY3YjdlMWJlMTAiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjoxOX0=",
-      "start_time": "2023-05-10T17:30:00Z",
-      "end_time": "2023-05-10T21:30:00Z",
-      "title": "Pod’fleur sur l’écologie ",
-      "canceled_until": null,
-      "category": {
-        "id": "509658",
-        "name": "Just Chatting"
-      },
-      "is_recurring": true
-    },
-    {
-      "id": "eyJzZWdtZW50SUQiOiIxN2YwNjdmZC0wNzZhLTRmOTAtYjhjMy0zOGMxNDcwZGFmMDciLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjoyMH0=",
-      "start_time": "2023-05-15T09:00:00Z",
-      "end_time": "2023-05-15T16:00:00Z",
-      "title": "Culture & Plaisir ",
-      "canceled_until": null,
-      "category": {
-        "id": "338715930",
-        "name": "Maitre des Fleurs"
-      },
-      "is_recurring": true
-    },
-    {
-      "id": "eyJzZWdtZW50SUQiOiI3YWY5M2FlMy01MTBhLTRiOWItYjYyNC0zNDc0YmFjZTM3MGUiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjoyMH0=",
-      "start_time": "2023-05-16T12:00:00Z",
-      "end_time": "2023-05-16T14:00:00Z",
-      "title": "P’tite run SMO",
-      "canceled_until": null,
-      "category": {
-        "id": "493997",
-        "name": "Super Mario Odyssey"
-      },
-      "is_recurring": true
-    },
-    {
-      "id": "eyJzZWdtZW50SUQiOiJjNTJlOGE0MS1jOGE2LTRkMDMtYWUxMC1iYTkzNWIwOWRjM2MiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjoyMH0=",
-      "start_time": "2023-05-16T14:00:00Z",
-      "end_time": "2023-05-16T18:00:00Z",
-      "title": "On part à la recherche des fraises et des cœurs bleus",
-      "canceled_until": null,
-      "category": {
-        "id": "492535",
-        "name": "Celeste"
-      },
-      "is_recurring": true
-    },
-    {
-      "id": "eyJzZWdtZW50SUQiOiJjYTUxNjU2Yi02M2YzLTRhMTktOWIzYy1kMTY3YjdlMWJlMTAiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjoyMH0=",
-      "start_time": "2023-05-17T17:30:00Z",
-      "end_time": "2023-05-17T21:30:00Z",
-      "title": "Pod’fleur sur l’écologie ",
-      "canceled_until": null,
-      "category": {
-        "id": "509658",
-        "name": "Just Chatting"
-      },
-      "is_recurring": true
-    },
-    {
-      "id": "eyJzZWdtZW50SUQiOiIxN2YwNjdmZC0wNzZhLTRmOTAtYjhjMy0zOGMxNDcwZGFmMDciLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjoyMX0=",
-      "start_time": "2023-05-22T09:00:00Z",
-      "end_time": "2023-05-22T16:00:00Z",
-      "title": "Culture & Plaisir ",
-      "canceled_until": null,
-      "category": {
-        "id": "338715930",
-        "name": "Maitre des Fleurs"
-      },
-      "is_recurring": true
-    },
-    {
-      "id": "eyJzZWdtZW50SUQiOiI3YWY5M2FlMy01MTBhLTRiOWItYjYyNC0zNDc0YmFjZTM3MGUiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjoyMX0=",
-      "start_time": "2023-05-23T12:00:00Z",
-      "end_time": "2023-05-23T14:00:00Z",
-      "title": "P’tite run SMO",
-      "canceled_until": null,
-      "category": {
-        "id": "493997",
-        "name": "Super Mario Odyssey"
-      },
-      "is_recurring": true
-    },
-    {
-      "id": "eyJzZWdtZW50SUQiOiJjNTJlOGE0MS1jOGE2LTRkMDMtYWUxMC1iYTkzNWIwOWRjM2MiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjoyMX0=",
-      "start_time": "2023-05-23T14:00:00Z",
-      "end_time": "2023-05-23T18:00:00Z",
-      "title": "On part à la recherche des fraises et des cœurs bleus",
-      "canceled_until": null,
-      "category": {
-        "id": "492535",
-        "name": "Celeste"
-      },
-      "is_recurring": true
-    },
-    {
-      "id": "eyJzZWdtZW50SUQiOiJjYTUxNjU2Yi02M2YzLTRhMTktOWIzYy1kMTY3YjdlMWJlMTAiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjoyMX0=",
-      "start_time": "2023-05-24T17:30:00Z",
-      "end_time": "2023-05-24T21:30:00Z",
-      "title": "Pod’fleur sur l’écologie ",
-      "canceled_until": null,
-      "category": {
-        "id": "509658",
-        "name": "Just Chatting"
+        "id": "18122",
+        "name": "World of Warcraft"
       },
       "is_recurring": true
     }
