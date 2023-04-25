@@ -13,18 +13,6 @@
   },
   "schedulers": [
     {
-      "id": "eyJzZWdtZW50SUQiOiIxN2YwNjdmZC0wNzZhLTRmOTAtYjhjMy0zOGMxNDcwZGFmMDciLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjoxN30=",
-      "start_time": "2023-04-24T09:00:00Z",
-      "end_time": "2023-04-24T16:00:00Z",
-      "title": "Culture & Plaisir ",
-      "canceled_until": null,
-      "category": {
-        "id": "338715930",
-        "name": "Maitre des Fleurs"
-      },
-      "is_recurring": true
-    },
-    {
       "id": "eyJzZWdtZW50SUQiOiJiZjAyODQ2Yi05NDlmLTRjMzYtODlkYS04YmJhM2Y0MWFlNTgiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjoxN30=",
       "start_time": "2023-04-25T09:00:00Z",
       "end_time": "2023-04-25T18:00:00Z",
@@ -40,7 +28,7 @@
       "id": "eyJzZWdtZW50SUQiOiI3YWY5M2FlMy01MTBhLTRiOWItYjYyNC0zNDc0YmFjZTM3MGUiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjoxN30=",
       "start_time": "2023-04-26T09:00:00Z",
       "end_time": "2023-04-26T15:00:00Z",
-      "title": "On essaye de battre mon PB ",
+      "title": "Speedrun Any% le plaisir",
       "canceled_until": null,
       "category": {
         "id": "493997",
@@ -99,7 +87,7 @@
     {
       "id": "eyJzZWdtZW50SUQiOiI4YzU0MmVmZC0zM2NhLTQ0MDUtYjlmMS1hYjQxZmE5NWJjZWQiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjoxN30=",
       "start_time": "2023-04-28T12:00:00Z",
-      "end_time": "2023-04-28T18:00:00Z",
+      "end_time": "2023-04-28T17:00:00Z",
       "title": "Wow Classic Hardcore",
       "canceled_until": null,
       "category": {
@@ -117,18 +105,6 @@
       "category": {
         "id": "941530474",
         "name": "Mario Kart 8 Deluxe"
-      },
-      "is_recurring": true
-    },
-    {
-      "id": "eyJzZWdtZW50SUQiOiJiNDkzZTNkNC0yZWQ2LTRlMzgtYjAxOS1hN2NlZTNhNDI5YmYiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjoxN30=",
-      "start_time": "2023-04-30T15:00:00Z",
-      "end_time": "2023-04-30T18:00:00Z",
-      "title": "WoW Classic Hardcore",
-      "canceled_until": null,
-      "category": {
-        "id": "18122",
-        "name": "World of Warcraft"
       },
       "is_recurring": true
     },
@@ -160,7 +136,7 @@
       "id": "eyJzZWdtZW50SUQiOiI3YWY5M2FlMy01MTBhLTRiOWItYjYyNC0zNDc0YmFjZTM3MGUiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjoxOH0=",
       "start_time": "2023-05-03T09:00:00Z",
       "end_time": "2023-05-03T15:00:00Z",
-      "title": "On essaye de battre mon PB ",
+      "title": "Speedrun Any% le plaisir",
       "canceled_until": null,
       "category": {
         "id": "493997",
@@ -219,7 +195,7 @@
     {
       "id": "eyJzZWdtZW50SUQiOiI4YzU0MmVmZC0zM2NhLTQ0MDUtYjlmMS1hYjQxZmE5NWJjZWQiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjoxOH0=",
       "start_time": "2023-05-05T12:00:00Z",
-      "end_time": "2023-05-05T18:00:00Z",
+      "end_time": "2023-05-05T17:00:00Z",
       "title": "Wow Classic Hardcore",
       "canceled_until": null,
       "category": {
@@ -241,14 +217,38 @@
       "is_recurring": true
     },
     {
-      "id": "eyJzZWdtZW50SUQiOiJiNDkzZTNkNC0yZWQ2LTRlMzgtYjAxOS1hN2NlZTNhNDI5YmYiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjoxOH0=",
-      "start_time": "2023-05-07T15:00:00Z",
-      "end_time": "2023-05-07T18:00:00Z",
-      "title": "WoW Classic Hardcore",
+      "id": "eyJzZWdtZW50SUQiOiIxN2YwNjdmZC0wNzZhLTRmOTAtYjhjMy0zOGMxNDcwZGFmMDciLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjoxOX0=",
+      "start_time": "2023-05-08T09:00:00Z",
+      "end_time": "2023-05-08T16:00:00Z",
+      "title": "Culture & Plaisir ",
+      "canceled_until": null,
+      "category": {
+        "id": "338715930",
+        "name": "Maitre des Fleurs"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiJiZjAyODQ2Yi05NDlmLTRjMzYtODlkYS04YmJhM2Y0MWFlNTgiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjoxOX0=",
+      "start_time": "2023-05-09T09:00:00Z",
+      "end_time": "2023-05-09T18:00:00Z",
+      "title": "Du WoW Classic Hardcore ",
       "canceled_until": null,
       "category": {
         "id": "18122",
         "name": "World of Warcraft"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiI3YWY5M2FlMy01MTBhLTRiOWItYjYyNC0zNDc0YmFjZTM3MGUiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjoxOX0=",
+      "start_time": "2023-05-10T09:00:00Z",
+      "end_time": "2023-05-10T15:00:00Z",
+      "title": "Speedrun Any% le plaisir",
+      "canceled_until": null,
+      "category": {
+        "id": "493997",
+        "name": "Super Mario Odyssey"
       },
       "is_recurring": true
     }
