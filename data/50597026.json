@@ -13,30 +13,6 @@
   },
   "schedulers": [
     {
-      "id": "eyJzZWdtZW50SUQiOiJjZTcyZjk4Ni03ZThlLTQzN2EtOWNlMy1lYTdjYWFlMDY4MDUiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjoxN30=",
-      "start_time": "2023-04-27T13:00:00Z",
-      "end_time": "2023-04-27T18:30:00Z",
-      "title": "On va buter maman lezgoooo",
-      "canceled_until": null,
-      "category": {
-        "id": "1414860634",
-        "name": "The Binding of Isaac: Repentance"
-      },
-      "is_recurring": true
-    },
-    {
-      "id": "eyJzZWdtZW50SUQiOiIwMzE2ODNjNy1jMDAzLTRlYTAtYmFlNy05YmVjNmUwYjU1MTkiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjoxN30=",
-      "start_time": "2023-04-27T18:30:00Z",
-      "end_time": "2023-04-27T22:00:00Z",
-      "title": "P’tit Among Us avec Jday et sa team",
-      "canceled_until": null,
-      "category": {
-        "id": "510218",
-        "name": "Among Us"
-      },
-      "is_recurring": true
-    },
-    {
       "id": "eyJzZWdtZW50SUQiOiJjNTJlOGE0MS1jOGE2LTRkMDMtYWUxMC1iYTkzNWIwOWRjM2MiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjoxN30=",
       "start_time": "2023-04-28T09:00:00Z",
       "end_time": "2023-04-28T12:00:00Z",
@@ -249,6 +225,30 @@
       "category": {
         "id": "510218",
         "name": "Among Us"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiJjNTJlOGE0MS1jOGE2LTRkMDMtYWUxMC1iYTkzNWIwOWRjM2MiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjoxOX0=",
+      "start_time": "2023-05-12T09:00:00Z",
+      "end_time": "2023-05-12T12:00:00Z",
+      "title": "On part à la recherche des fraises et des cœurs bleus",
+      "canceled_until": null,
+      "category": {
+        "id": "492535",
+        "name": "Celeste"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiI4YzU0MmVmZC0zM2NhLTQ0MDUtYjlmMS1hYjQxZmE5NWJjZWQiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjoxOX0=",
+      "start_time": "2023-05-12T12:00:00Z",
+      "end_time": "2023-05-12T17:00:00Z",
+      "title": "Wow Classic Hardcore",
+      "canceled_until": null,
+      "category": {
+        "id": "18122",
+        "name": "World of Warcraft"
       },
       "is_recurring": true
     }
