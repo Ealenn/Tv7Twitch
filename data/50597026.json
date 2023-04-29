@@ -13,30 +13,6 @@
   },
   "schedulers": [
     {
-      "id": "eyJzZWdtZW50SUQiOiJjNTJlOGE0MS1jOGE2LTRkMDMtYWUxMC1iYTkzNWIwOWRjM2MiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjoxN30=",
-      "start_time": "2023-04-28T09:00:00Z",
-      "end_time": "2023-04-28T12:00:00Z",
-      "title": "On part à la recherche des fraises et des cœurs bleus",
-      "canceled_until": null,
-      "category": {
-        "id": "492535",
-        "name": "Celeste"
-      },
-      "is_recurring": true
-    },
-    {
-      "id": "eyJzZWdtZW50SUQiOiI4YzU0MmVmZC0zM2NhLTQ0MDUtYjlmMS1hYjQxZmE5NWJjZWQiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjoxN30=",
-      "start_time": "2023-04-28T12:00:00Z",
-      "end_time": "2023-04-28T17:00:00Z",
-      "title": "Wow Classic Hardcore",
-      "canceled_until": null,
-      "category": {
-        "id": "18122",
-        "name": "World of Warcraft"
-      },
-      "is_recurring": true
-    },
-    {
       "id": "eyJzZWdtZW50SUQiOiI1NjJhNTI3OC03ODE4LTRhM2EtOTFmNy01OGU5YmU1MzY0ODEiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjoxN30=",
       "start_time": "2023-04-30T11:00:00Z",
       "end_time": "2023-04-30T15:00:00Z",
@@ -249,6 +225,30 @@
       "category": {
         "id": "18122",
         "name": "World of Warcraft"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiI1NjJhNTI3OC03ODE4LTRhM2EtOTFmNy01OGU5YmU1MzY0ODEiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjoxOX0=",
+      "start_time": "2023-05-14T11:00:00Z",
+      "end_time": "2023-05-14T15:00:00Z",
+      "title": "Le tournoi MK du dimanche ",
+      "canceled_until": null,
+      "category": {
+        "id": "941530474",
+        "name": "Mario Kart 8 Deluxe"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiIxN2YwNjdmZC0wNzZhLTRmOTAtYjhjMy0zOGMxNDcwZGFmMDciLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjoyMH0=",
+      "start_time": "2023-05-15T09:00:00Z",
+      "end_time": "2023-05-15T16:00:00Z",
+      "title": "Culture & Plaisir ",
+      "canceled_until": null,
+      "category": {
+        "id": "338715930",
+        "name": "Maitre des Fleurs"
       },
       "is_recurring": true
     }
