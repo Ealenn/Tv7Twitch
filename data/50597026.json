@@ -13,30 +13,6 @@
   },
   "schedulers": [
     {
-      "id": "eyJzZWdtZW50SUQiOiJjZTcyZjk4Ni03ZThlLTQzN2EtOWNlMy1lYTdjYWFlMDY4MDUiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjoxOH0=",
-      "start_time": "2023-05-04T11:00:00Z",
-      "end_time": "2023-05-04T14:00:00Z",
-      "title": "On va buter maman lezgoooo",
-      "canceled_until": null,
-      "category": {
-        "id": "1414860634",
-        "name": "The Binding of Isaac: Repentance"
-      },
-      "is_recurring": true
-    },
-    {
-      "id": "eyJzZWdtZW50SUQiOiIwMzE2ODNjNy1jMDAzLTRlYTAtYmFlNy05YmVjNmUwYjU1MTkiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjoxOH0=",
-      "start_time": "2023-05-04T14:00:00Z",
-      "end_time": "2023-05-04T18:00:00Z",
-      "title": "WoW Classic Hardcore ",
-      "canceled_until": null,
-      "category": {
-        "id": "18122",
-        "name": "World of Warcraft"
-      },
-      "is_recurring": true
-    },
-    {
       "id": "eyJzZWdtZW50SUQiOiJjNTJlOGE0MS1jOGE2LTRkMDMtYWUxMC1iYTkzNWIwOWRjM2MiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjoxOH0=",
       "start_time": "2023-05-05T09:00:00Z",
       "end_time": "2023-05-05T12:00:00Z",
@@ -245,6 +221,30 @@
       "start_time": "2023-05-19T12:00:00Z",
       "end_time": "2023-05-19T17:00:00Z",
       "title": "Wow Classic Hardcore",
+      "canceled_until": null,
+      "category": {
+        "id": "18122",
+        "name": "World of Warcraft"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiIxN2YwNjdmZC0wNzZhLTRmOTAtYjhjMy0zOGMxNDcwZGFmMDciLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjoyMX0=",
+      "start_time": "2023-05-22T09:00:00Z",
+      "end_time": "2023-05-22T16:00:00Z",
+      "title": "Culture & Plaisir ",
+      "canceled_until": null,
+      "category": {
+        "id": "338715930",
+        "name": "Maitre des Fleurs"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiJiZjAyODQ2Yi05NDlmLTRjMzYtODlkYS04YmJhM2Y0MWFlNTgiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjoyMX0=",
+      "start_time": "2023-05-23T09:00:00Z",
+      "end_time": "2023-05-23T18:00:00Z",
+      "title": "Du WoW Classic Hardcore ",
       "canceled_until": null,
       "category": {
         "id": "18122",
