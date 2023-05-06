@@ -13,21 +13,9 @@
   },
   "schedulers": [
     {
-      "id": "eyJzZWdtZW50SUQiOiI2YWZiOGU2Mi0zODEwLTQ5Y2ItOWRjNi05Zjk3ZTA3NWViNTkiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjoxOH0=",
-      "start_time": "2023-05-05T18:00:00Z",
-      "end_time": "2023-05-05T20:30:00Z",
-      "title": "🍽 EN CUISINE",
-      "canceled_until": null,
-      "category": {
-        "id": "509658",
-        "name": "Just Chatting"
-      },
-      "is_recurring": true
-    },
-    {
       "id": "eyJzZWdtZW50SUQiOiJmZDkzYWZlZC00ZmY3LTRmZWUtODJmZi05MDYxY2RkNDAyOTYiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjoxOH0=",
-      "start_time": "2023-05-06T12:00:00Z",
-      "end_time": "2023-05-06T15:00:00Z",
+      "start_time": "2023-05-06T10:00:00Z",
+      "end_time": "2023-05-06T13:00:00Z",
       "title": "TAPE TO TAPE",
       "canceled_until": null,
       "category": {
@@ -98,9 +86,9 @@
     },
     {
       "id": "eyJzZWdtZW50SUQiOiI2YWZiOGU2Mi0zODEwLTQ5Y2ItOWRjNi05Zjk3ZTA3NWViNTkiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjoxOX0=",
-      "start_time": "2023-05-12T18:00:00Z",
-      "end_time": "2023-05-12T20:30:00Z",
-      "title": "🍽 EN CUISINE",
+      "start_time": "2023-05-12T15:00:00Z",
+      "end_time": null,
+      "title": "STREAM LIBRE",
       "canceled_until": null,
       "category": {
         "id": "509658",
@@ -110,8 +98,8 @@
     },
     {
       "id": "eyJzZWdtZW50SUQiOiJmZDkzYWZlZC00ZmY3LTRmZWUtODJmZi05MDYxY2RkNDAyOTYiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjoxOX0=",
-      "start_time": "2023-05-13T12:00:00Z",
-      "end_time": "2023-05-13T15:00:00Z",
+      "start_time": "2023-05-13T10:00:00Z",
+      "end_time": "2023-05-13T13:00:00Z",
       "title": "TAPE TO TAPE",
       "canceled_until": null,
       "category": {
@@ -182,9 +170,9 @@
     },
     {
       "id": "eyJzZWdtZW50SUQiOiI2YWZiOGU2Mi0zODEwLTQ5Y2ItOWRjNi05Zjk3ZTA3NWViNTkiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjoyMH0=",
-      "start_time": "2023-05-19T18:00:00Z",
-      "end_time": "2023-05-19T20:30:00Z",
-      "title": "🍽 EN CUISINE",
+      "start_time": "2023-05-19T15:00:00Z",
+      "end_time": null,
+      "title": "STREAM LIBRE",
       "canceled_until": null,
       "category": {
         "id": "509658",
@@ -194,8 +182,8 @@
     },
     {
       "id": "eyJzZWdtZW50SUQiOiJmZDkzYWZlZC00ZmY3LTRmZWUtODJmZi05MDYxY2RkNDAyOTYiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjoyMH0=",
-      "start_time": "2023-05-20T12:00:00Z",
-      "end_time": "2023-05-20T15:00:00Z",
+      "start_time": "2023-05-20T10:00:00Z",
+      "end_time": "2023-05-20T13:00:00Z",
       "title": "TAPE TO TAPE",
       "canceled_until": null,
       "category": {
@@ -245,6 +233,18 @@
       "start_time": "2023-05-25T17:30:00Z",
       "end_time": "2023-05-25T18:00:00Z",
       "title": "🎙 PRÉ-LIVE",
+      "canceled_until": null,
+      "category": {
+        "id": "509658",
+        "name": "Just Chatting"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiI0ZDM2MDhlOC04MmM3LTRkZjUtYWM5Zi05NzI1ZjcxY2RiNzUiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjoyMX0=",
+      "start_time": "2023-05-25T18:30:00Z",
+      "end_time": "2023-05-25T23:00:00Z",
+      "title": "🎮SOIRÉE MULTIGAMING AVEC LOWAN, JIJI & XARI",
       "canceled_until": null,
       "category": {
         "id": "509658",

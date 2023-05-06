@@ -13,30 +13,6 @@
   },
   "schedulers": [
     {
-      "id": "eyJzZWdtZW50SUQiOiJjNTJlOGE0MS1jOGE2LTRkMDMtYWUxMC1iYTkzNWIwOWRjM2MiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjoxOH0=",
-      "start_time": "2023-05-05T09:00:00Z",
-      "end_time": "2023-05-05T12:00:00Z",
-      "title": "On part à la recherche des fraises et des cœurs bleus",
-      "canceled_until": null,
-      "category": {
-        "id": "492535",
-        "name": "Celeste"
-      },
-      "is_recurring": true
-    },
-    {
-      "id": "eyJzZWdtZW50SUQiOiI4YzU0MmVmZC0zM2NhLTQ0MDUtYjlmMS1hYjQxZmE5NWJjZWQiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjoxOH0=",
-      "start_time": "2023-05-05T12:00:00Z",
-      "end_time": "2023-05-05T17:00:00Z",
-      "title": "Wow Classic Hardcore",
-      "canceled_until": null,
-      "category": {
-        "id": "18122",
-        "name": "World of Warcraft"
-      },
-      "is_recurring": true
-    },
-    {
       "id": "eyJzZWdtZW50SUQiOiIxN2YwNjdmZC0wNzZhLTRmOTAtYjhjMy0zOGMxNDcwZGFmMDciLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjoxOX0=",
       "start_time": "2023-05-08T09:00:00Z",
       "end_time": "2023-05-08T16:00:00Z",
@@ -245,6 +221,30 @@
       "start_time": "2023-05-23T09:00:00Z",
       "end_time": "2023-05-23T18:00:00Z",
       "title": "Du WoW Classic Hardcore ",
+      "canceled_until": null,
+      "category": {
+        "id": "18122",
+        "name": "World of Warcraft"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiI3YWY5M2FlMy01MTBhLTRiOWItYjYyNC0zNDc0YmFjZTM3MGUiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjoyMX0=",
+      "start_time": "2023-05-24T09:00:00Z",
+      "end_time": "2023-05-24T14:00:00Z",
+      "title": "Speedrun Any% le plaisir",
+      "canceled_until": null,
+      "category": {
+        "id": "493997",
+        "name": "Super Mario Odyssey"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiJhYTBiNDliMS0yNDlhLTQwYjUtOWUxYS1iMzQ5YjQ5YmQ4YTciLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjoyMX0=",
+      "start_time": "2023-05-24T14:00:00Z",
+      "end_time": "2023-05-24T18:00:00Z",
+      "title": "Wow Classic Hardcore",
       "canceled_until": null,
       "category": {
         "id": "18122",
