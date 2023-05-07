@@ -13,18 +13,6 @@
   },
   "schedulers": [
     {
-      "id": "eyJzZWdtZW50SUQiOiJmZDkzYWZlZC00ZmY3LTRmZWUtODJmZi05MDYxY2RkNDAyOTYiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjoxOH0=",
-      "start_time": "2023-05-06T10:00:00Z",
-      "end_time": "2023-05-06T13:00:00Z",
-      "title": "TAPE TO TAPE",
-      "canceled_until": null,
-      "category": {
-        "id": "733916086",
-        "name": "Tape To Tape"
-      },
-      "is_recurring": true
-    },
-    {
       "id": "eyJzZWdtZW50SUQiOiJjNDg1MWRhNC0yNjNjLTRmN2ItODEwYy0zOWI1ZmJkZGIxYmUiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjoxOX0=",
       "start_time": "2023-05-08T17:30:00Z",
       "end_time": "2023-05-08T18:30:00Z",
@@ -245,6 +233,18 @@
       "start_time": "2023-05-25T18:30:00Z",
       "end_time": "2023-05-25T23:00:00Z",
       "title": "🎮SOIRÉE MULTIGAMING AVEC LOWAN, JIJI & XARI",
+      "canceled_until": null,
+      "category": {
+        "id": "509658",
+        "name": "Just Chatting"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiI2YWZiOGU2Mi0zODEwLTQ5Y2ItOWRjNi05Zjk3ZTA3NWViNTkiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjoyMX0=",
+      "start_time": "2023-05-26T15:00:00Z",
+      "end_time": null,
+      "title": "STREAM LIBRE",
       "canceled_until": null,
       "category": {
         "id": "509658",
