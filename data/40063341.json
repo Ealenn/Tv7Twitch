@@ -13,18 +13,6 @@
   },
   "schedulers": [
     {
-      "id": "eyJzZWdtZW50SUQiOiIxZWJiZmNlZS1iMjJiLTQxZGYtOGFmZC1lZjJjM2Q5MWQ0OGYiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjoxOX0=",
-      "start_time": "2023-05-09T18:00:00Z",
-      "end_time": "2023-05-09T20:30:00Z",
-      "title": "🍿 POPCORN AVEC KEVIN TRAN, AVA, BAGHERA & SYLVQIN",
-      "canceled_until": null,
-      "category": {
-        "id": "417752",
-        "name": "Talk Shows & Podcasts"
-      },
-      "is_recurring": true
-    },
-    {
       "id": "eyJzZWdtZW50SUQiOiIzY2U3ZWJkMy1iNzg5LTQ2ZWItODIzZi1kM2E1MDI3NjA4NzkiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjoxOX0=",
       "start_time": "2023-05-10T12:00:00Z",
       "end_time": "2023-05-10T13:00:00Z",
@@ -245,6 +233,18 @@
       "start_time": "2023-05-29T18:00:00Z",
       "end_time": "2023-05-29T19:30:00Z",
       "title": "🎙 PRÉ-LIVE",
+      "canceled_until": null,
+      "category": {
+        "id": "509658",
+        "name": "Just Chatting"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiJjNWYzZDBjMy0xOWI3LTRjY2MtOTM3Yy1kODI4Y2NjYjIzMzQiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjoyMn0=",
+      "start_time": "2023-05-29T19:30:00Z",
+      "end_time": null,
+      "title": "🎮 SOIRÉE TRAHISON AVEC KAMEL, BIBI, XARI, SKYYART & FUKANO",
       "canceled_until": null,
       "category": {
         "id": "509658",
