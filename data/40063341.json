@@ -13,18 +13,6 @@
   },
   "schedulers": [
     {
-      "id": "eyJzZWdtZW50SUQiOiI2NzE1NWMyZi1lOTFmLTRkYTYtODcyNy02Y2E0MzQ3NTY3MTAiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjoxOX0=",
-      "start_time": "2023-05-12T08:00:00Z",
-      "end_time": null,
-      "title": "🟢 ZLAN",
-      "canceled_until": null,
-      "category": {
-        "id": "509663",
-        "name": "Special Events"
-      },
-      "is_recurring": false
-    },
-    {
       "id": "eyJzZWdtZW50SUQiOiIwNzA0YWNlZS0zMjQ5LTQ2NDktOTU5OS1jMjY1OTNkMjU1OTQiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjoxOX0=",
       "start_time": "2023-05-13T08:00:00Z",
       "end_time": null,
@@ -249,6 +237,18 @@
       "category": {
         "id": "495856",
         "name": "Northgard"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiJjNDg1MWRhNC0yNjNjLTRmN2ItODEwYy0zOWI1ZmJkZGIxYmUiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjoyMn0=",
+      "start_time": "2023-06-01T18:00:00Z",
+      "end_time": null,
+      "title": "🏀 3V3 CONTEST",
+      "canceled_until": null,
+      "category": {
+        "id": "509663",
+        "name": "Special Events"
       },
       "is_recurring": true
     }
