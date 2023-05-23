@@ -13,26 +13,14 @@
   },
   "schedulers": [
     {
-      "id": "eyJzZWdtZW50SUQiOiIxN2YwNjdmZC0wNzZhLTRmOTAtYjhjMy0zOGMxNDcwZGFmMDciLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjoyMX0=",
-      "start_time": "2023-05-22T09:00:00Z",
-      "end_time": "2023-05-22T15:00:00Z",
-      "title": "Culture & Plaisir ",
-      "canceled_until": null,
-      "category": {
-        "id": "338715930",
-        "name": "Maitre des Fleurs"
-      },
-      "is_recurring": true
-    },
-    {
       "id": "eyJzZWdtZW50SUQiOiI3YWY5M2FlMy01MTBhLTRiOWItYjYyNC0zNDc0YmFjZTM3MGUiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjoyMX0=",
       "start_time": "2023-05-23T18:00:00Z",
-      "end_time": null,
-      "title": "Popcorn 20h ( Chaîne de Domingo) ",
+      "end_time": "2023-05-23T21:00:00Z",
+      "title": "Popcorn ( Chaîne de Domingo) ",
       "canceled_until": null,
       "category": {
-        "id": "509658",
-        "name": "Just Chatting"
+        "id": "417752",
+        "name": "Talk Shows & Podcasts"
       },
       "is_recurring": true
     },
@@ -63,12 +51,12 @@
     {
       "id": "eyJzZWdtZW50SUQiOiI3YWY5M2FlMy01MTBhLTRiOWItYjYyNC0zNDc0YmFjZTM3MGUiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjoyMn0=",
       "start_time": "2023-05-30T18:00:00Z",
-      "end_time": null,
-      "title": "Popcorn 20h ( Chaîne de Domingo) ",
+      "end_time": "2023-05-30T21:00:00Z",
+      "title": "Popcorn ( Chaîne de Domingo) ",
       "canceled_until": null,
       "category": {
-        "id": "509658",
-        "name": "Just Chatting"
+        "id": "417752",
+        "name": "Talk Shows & Podcasts"
       },
       "is_recurring": true
     },
@@ -99,12 +87,12 @@
     {
       "id": "eyJzZWdtZW50SUQiOiI3YWY5M2FlMy01MTBhLTRiOWItYjYyNC0zNDc0YmFjZTM3MGUiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjoyM30=",
       "start_time": "2023-06-06T18:00:00Z",
-      "end_time": null,
-      "title": "Popcorn 20h ( Chaîne de Domingo) ",
+      "end_time": "2023-06-06T21:00:00Z",
+      "title": "Popcorn ( Chaîne de Domingo) ",
       "canceled_until": null,
       "category": {
-        "id": "509658",
-        "name": "Just Chatting"
+        "id": "417752",
+        "name": "Talk Shows & Podcasts"
       },
       "is_recurring": true
     },
@@ -135,12 +123,12 @@
     {
       "id": "eyJzZWdtZW50SUQiOiI3YWY5M2FlMy01MTBhLTRiOWItYjYyNC0zNDc0YmFjZTM3MGUiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjoyNH0=",
       "start_time": "2023-06-13T18:00:00Z",
-      "end_time": null,
-      "title": "Popcorn 20h ( Chaîne de Domingo) ",
+      "end_time": "2023-06-13T21:00:00Z",
+      "title": "Popcorn ( Chaîne de Domingo) ",
       "canceled_until": null,
       "category": {
-        "id": "509658",
-        "name": "Just Chatting"
+        "id": "417752",
+        "name": "Talk Shows & Podcasts"
       },
       "is_recurring": true
     },
@@ -171,12 +159,12 @@
     {
       "id": "eyJzZWdtZW50SUQiOiI3YWY5M2FlMy01MTBhLTRiOWItYjYyNC0zNDc0YmFjZTM3MGUiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjoyNX0=",
       "start_time": "2023-06-20T18:00:00Z",
-      "end_time": null,
-      "title": "Popcorn 20h ( Chaîne de Domingo) ",
+      "end_time": "2023-06-20T21:00:00Z",
+      "title": "Popcorn ( Chaîne de Domingo) ",
       "canceled_until": null,
       "category": {
-        "id": "509658",
-        "name": "Just Chatting"
+        "id": "417752",
+        "name": "Talk Shows & Podcasts"
       },
       "is_recurring": true
     },
@@ -207,12 +195,12 @@
     {
       "id": "eyJzZWdtZW50SUQiOiI3YWY5M2FlMy01MTBhLTRiOWItYjYyNC0zNDc0YmFjZTM3MGUiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjoyNn0=",
       "start_time": "2023-06-27T18:00:00Z",
-      "end_time": null,
-      "title": "Popcorn 20h ( Chaîne de Domingo) ",
+      "end_time": "2023-06-27T21:00:00Z",
+      "title": "Popcorn ( Chaîne de Domingo) ",
       "canceled_until": null,
       "category": {
-        "id": "509658",
-        "name": "Just Chatting"
+        "id": "417752",
+        "name": "Talk Shows & Podcasts"
       },
       "is_recurring": true
     },
@@ -243,12 +231,24 @@
     {
       "id": "eyJzZWdtZW50SUQiOiI3YWY5M2FlMy01MTBhLTRiOWItYjYyNC0zNDc0YmFjZTM3MGUiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjoyN30=",
       "start_time": "2023-07-04T18:00:00Z",
-      "end_time": null,
-      "title": "Popcorn 20h ( Chaîne de Domingo) ",
+      "end_time": "2023-07-04T21:00:00Z",
+      "title": "Popcorn ( Chaîne de Domingo) ",
       "canceled_until": null,
       "category": {
-        "id": "509658",
-        "name": "Just Chatting"
+        "id": "417752",
+        "name": "Talk Shows & Podcasts"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiJhNzgyZmE1ZS05NGY2LTQ1YjQtYmM1MC00NWIwYzgzZmM3MjMiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjoyN30=",
+      "start_time": "2023-07-05T09:00:00Z",
+      "end_time": "2023-07-05T16:00:00Z",
+      "title": "Slowrun 100% chill et balade sur Zelda TOTK",
+      "canceled_until": null,
+      "category": {
+        "id": "512998",
+        "name": "The Legend of Zelda: Tears of the Kingdom"
       },
       "is_recurring": true
     }
