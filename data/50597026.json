@@ -13,45 +13,93 @@
   },
   "schedulers": [
     {
-      "id": "eyJzZWdtZW50SUQiOiIxN2YwNjdmZC0wNzZhLTRmOTAtYjhjMy0zOGMxNDcwZGFmMDciLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjoyMn0=",
-      "start_time": "2023-05-29T09:00:00Z",
-      "end_time": "2023-05-29T15:00:00Z",
-      "title": "Culture & Plaisir ",
+      "id": "eyJzZWdtZW50SUQiOiJiY2Q5OGExNy0wYzc3LTRkYjQtYmRiMS0wMDk1ZDJlM2ViMDUiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjoyMn0=",
+      "start_time": "2023-05-30T09:00:00Z",
+      "end_time": "2023-05-30T12:00:00Z",
+      "title": "Le p’tit Speedrun Any% du plaisir ",
       "canceled_until": null,
       "category": {
-        "id": "338715930",
-        "name": "Maitre des Fleurs"
+        "id": "493997",
+        "name": "Super Mario Odyssey"
       },
       "is_recurring": true
     },
     {
-      "id": "eyJzZWdtZW50SUQiOiI3YWY5M2FlMy01MTBhLTRiOWItYjYyNC0zNDc0YmFjZTM3MGUiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjoyMn0=",
-      "start_time": "2023-05-30T18:00:00Z",
-      "end_time": "2023-05-30T21:00:00Z",
-      "title": "Popcorn ( Chaîne de Domingo) ",
+      "id": "eyJzZWdtZW50SUQiOiJmMTA0MWMzMi02ZWFlLTRjMjMtOGEzYy0zNThkOTMyNDMwMjEiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjoyMn0=",
+      "start_time": "2023-05-30T12:00:00Z",
+      "end_time": "2023-05-30T18:00:00Z",
+      "title": "On continue l’aventure WoW Hardcore avec Luuxia ",
       "canceled_until": null,
       "category": {
-        "id": "417752",
-        "name": "Talk Shows & Podcasts"
+        "id": "18122",
+        "name": "World of Warcraft"
       },
       "is_recurring": true
     },
     {
       "id": "eyJzZWdtZW50SUQiOiJhNzgyZmE1ZS05NGY2LTQ1YjQtYmM1MC00NWIwYzgzZmM3MjMiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjoyMn0=",
       "start_time": "2023-05-31T09:00:00Z",
-      "end_time": "2023-05-31T16:00:00Z",
+      "end_time": "2023-05-31T18:00:00Z",
       "title": "Slowrun 100% chill et balade sur Zelda TOTK",
       "canceled_until": null,
       "category": {
         "id": "512998",
         "name": "The Legend of Zelda: Tears of the Kingdom"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiI3MDA1Nzk3Yy0wMDc3LTRhMWEtYTgwNC1lMzhjZjBjM2VhMGYiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjoyMn0=",
+      "start_time": "2023-06-02T11:00:00Z",
+      "end_time": "2023-06-02T18:00:00Z",
+      "title": "Découverte de Diablo 4 Hardcore",
+      "canceled_until": null,
+      "category": {
+        "id": "515024",
+        "name": "Diablo IV"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiJiMWZmZTYwNC1jYmVmLTRjMGItOWI3ZC02ZGQxMzc4ZGFlYTMiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjoyMn0=",
+      "start_time": "2023-06-02T18:00:00Z",
+      "end_time": "2023-06-02T20:00:00Z",
+      "title": "Quiz JV/Stream avec Solary ",
+      "canceled_until": null,
+      "category": {
+        "id": "509658",
+        "name": "Just Chatting"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiI4Y2U2YzRkOC01OWEzLTQ5OGQtODQ3YS00NzIxYTgyYmQ3OTgiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjoyMn0=",
+      "start_time": "2023-06-03T10:00:00Z",
+      "end_time": "2023-06-03T16:00:00Z",
+      "title": "Diablo 4 Hardcore",
+      "canceled_until": null,
+      "category": {
+        "id": "515024",
+        "name": "Diablo IV"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiIwZDYwYmYyYi0yYTRkLTQ3MTMtYmQ2ZC02ZDZjYjNmMDU2ZTAiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjoyMn0=",
+      "start_time": "2023-06-04T11:00:00Z",
+      "end_time": "2023-06-04T15:00:00Z",
+      "title": "Le tournoi MK du dimanche ",
+      "canceled_until": null,
+      "category": {
+        "id": "941530474",
+        "name": "Mario Kart 8 Deluxe"
       },
       "is_recurring": true
     },
     {
       "id": "eyJzZWdtZW50SUQiOiIxN2YwNjdmZC0wNzZhLTRmOTAtYjhjMy0zOGMxNDcwZGFmMDciLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjoyM30=",
       "start_time": "2023-06-05T09:00:00Z",
-      "end_time": "2023-06-05T15:00:00Z",
+      "end_time": "2023-06-05T16:00:00Z",
       "title": "Culture & Plaisir ",
       "canceled_until": null,
       "category": {
@@ -61,33 +109,93 @@
       "is_recurring": true
     },
     {
-      "id": "eyJzZWdtZW50SUQiOiI3YWY5M2FlMy01MTBhLTRiOWItYjYyNC0zNDc0YmFjZTM3MGUiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjoyM30=",
-      "start_time": "2023-06-06T18:00:00Z",
-      "end_time": "2023-06-06T21:00:00Z",
-      "title": "Popcorn ( Chaîne de Domingo) ",
+      "id": "eyJzZWdtZW50SUQiOiJiY2Q5OGExNy0wYzc3LTRkYjQtYmRiMS0wMDk1ZDJlM2ViMDUiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjoyM30=",
+      "start_time": "2023-06-06T09:00:00Z",
+      "end_time": "2023-06-06T12:00:00Z",
+      "title": "Le p’tit Speedrun Any% du plaisir ",
       "canceled_until": null,
       "category": {
-        "id": "417752",
-        "name": "Talk Shows & Podcasts"
+        "id": "493997",
+        "name": "Super Mario Odyssey"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiJmMTA0MWMzMi02ZWFlLTRjMjMtOGEzYy0zNThkOTMyNDMwMjEiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjoyM30=",
+      "start_time": "2023-06-06T12:00:00Z",
+      "end_time": "2023-06-06T18:00:00Z",
+      "title": "On continue l’aventure WoW Hardcore avec Luuxia ",
+      "canceled_until": null,
+      "category": {
+        "id": "18122",
+        "name": "World of Warcraft"
       },
       "is_recurring": true
     },
     {
       "id": "eyJzZWdtZW50SUQiOiJhNzgyZmE1ZS05NGY2LTQ1YjQtYmM1MC00NWIwYzgzZmM3MjMiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjoyM30=",
       "start_time": "2023-06-07T09:00:00Z",
-      "end_time": "2023-06-07T16:00:00Z",
+      "end_time": "2023-06-07T18:00:00Z",
       "title": "Slowrun 100% chill et balade sur Zelda TOTK",
       "canceled_until": null,
       "category": {
         "id": "512998",
         "name": "The Legend of Zelda: Tears of the Kingdom"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiI3MDA1Nzk3Yy0wMDc3LTRhMWEtYTgwNC1lMzhjZjBjM2VhMGYiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjoyM30=",
+      "start_time": "2023-06-09T11:00:00Z",
+      "end_time": "2023-06-09T18:00:00Z",
+      "title": "Découverte de Diablo 4 Hardcore",
+      "canceled_until": null,
+      "category": {
+        "id": "515024",
+        "name": "Diablo IV"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiJiMWZmZTYwNC1jYmVmLTRjMGItOWI3ZC02ZGQxMzc4ZGFlYTMiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjoyM30=",
+      "start_time": "2023-06-09T18:00:00Z",
+      "end_time": "2023-06-09T20:00:00Z",
+      "title": "Quiz JV/Stream avec Solary ",
+      "canceled_until": null,
+      "category": {
+        "id": "509658",
+        "name": "Just Chatting"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiI4Y2U2YzRkOC01OWEzLTQ5OGQtODQ3YS00NzIxYTgyYmQ3OTgiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjoyM30=",
+      "start_time": "2023-06-10T10:00:00Z",
+      "end_time": "2023-06-10T16:00:00Z",
+      "title": "Diablo 4 Hardcore",
+      "canceled_until": null,
+      "category": {
+        "id": "515024",
+        "name": "Diablo IV"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiIwZDYwYmYyYi0yYTRkLTQ3MTMtYmQ2ZC02ZDZjYjNmMDU2ZTAiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjoyM30=",
+      "start_time": "2023-06-11T11:00:00Z",
+      "end_time": "2023-06-11T15:00:00Z",
+      "title": "Le tournoi MK du dimanche ",
+      "canceled_until": null,
+      "category": {
+        "id": "941530474",
+        "name": "Mario Kart 8 Deluxe"
       },
       "is_recurring": true
     },
     {
       "id": "eyJzZWdtZW50SUQiOiIxN2YwNjdmZC0wNzZhLTRmOTAtYjhjMy0zOGMxNDcwZGFmMDciLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjoyNH0=",
       "start_time": "2023-06-12T09:00:00Z",
-      "end_time": "2023-06-12T15:00:00Z",
+      "end_time": "2023-06-12T16:00:00Z",
       "title": "Culture & Plaisir ",
       "canceled_until": null,
       "category": {
@@ -97,21 +205,33 @@
       "is_recurring": true
     },
     {
-      "id": "eyJzZWdtZW50SUQiOiI3YWY5M2FlMy01MTBhLTRiOWItYjYyNC0zNDc0YmFjZTM3MGUiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjoyNH0=",
-      "start_time": "2023-06-13T18:00:00Z",
-      "end_time": "2023-06-13T21:00:00Z",
-      "title": "Popcorn ( Chaîne de Domingo) ",
+      "id": "eyJzZWdtZW50SUQiOiJiY2Q5OGExNy0wYzc3LTRkYjQtYmRiMS0wMDk1ZDJlM2ViMDUiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjoyNH0=",
+      "start_time": "2023-06-13T09:00:00Z",
+      "end_time": "2023-06-13T12:00:00Z",
+      "title": "Le p’tit Speedrun Any% du plaisir ",
       "canceled_until": null,
       "category": {
-        "id": "417752",
-        "name": "Talk Shows & Podcasts"
+        "id": "493997",
+        "name": "Super Mario Odyssey"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiJmMTA0MWMzMi02ZWFlLTRjMjMtOGEzYy0zNThkOTMyNDMwMjEiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjoyNH0=",
+      "start_time": "2023-06-13T12:00:00Z",
+      "end_time": "2023-06-13T18:00:00Z",
+      "title": "On continue l’aventure WoW Hardcore avec Luuxia ",
+      "canceled_until": null,
+      "category": {
+        "id": "18122",
+        "name": "World of Warcraft"
       },
       "is_recurring": true
     },
     {
       "id": "eyJzZWdtZW50SUQiOiJhNzgyZmE1ZS05NGY2LTQ1YjQtYmM1MC00NWIwYzgzZmM3MjMiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjoyNH0=",
       "start_time": "2023-06-14T09:00:00Z",
-      "end_time": "2023-06-14T16:00:00Z",
+      "end_time": "2023-06-14T18:00:00Z",
       "title": "Slowrun 100% chill et balade sur Zelda TOTK",
       "canceled_until": null,
       "category": {
@@ -121,134 +241,14 @@
       "is_recurring": true
     },
     {
-      "id": "eyJzZWdtZW50SUQiOiIxN2YwNjdmZC0wNzZhLTRmOTAtYjhjMy0zOGMxNDcwZGFmMDciLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjoyNX0=",
-      "start_time": "2023-06-19T09:00:00Z",
-      "end_time": "2023-06-19T15:00:00Z",
-      "title": "Culture & Plaisir ",
+      "id": "eyJzZWdtZW50SUQiOiI3MDA1Nzk3Yy0wMDc3LTRhMWEtYTgwNC1lMzhjZjBjM2VhMGYiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjoyNH0=",
+      "start_time": "2023-06-16T11:00:00Z",
+      "end_time": "2023-06-16T18:00:00Z",
+      "title": "Découverte de Diablo 4 Hardcore",
       "canceled_until": null,
       "category": {
-        "id": "338715930",
-        "name": "Maitre des Fleurs"
-      },
-      "is_recurring": true
-    },
-    {
-      "id": "eyJzZWdtZW50SUQiOiI3YWY5M2FlMy01MTBhLTRiOWItYjYyNC0zNDc0YmFjZTM3MGUiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjoyNX0=",
-      "start_time": "2023-06-20T18:00:00Z",
-      "end_time": "2023-06-20T21:00:00Z",
-      "title": "Popcorn ( Chaîne de Domingo) ",
-      "canceled_until": null,
-      "category": {
-        "id": "417752",
-        "name": "Talk Shows & Podcasts"
-      },
-      "is_recurring": true
-    },
-    {
-      "id": "eyJzZWdtZW50SUQiOiJhNzgyZmE1ZS05NGY2LTQ1YjQtYmM1MC00NWIwYzgzZmM3MjMiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjoyNX0=",
-      "start_time": "2023-06-21T09:00:00Z",
-      "end_time": "2023-06-21T16:00:00Z",
-      "title": "Slowrun 100% chill et balade sur Zelda TOTK",
-      "canceled_until": null,
-      "category": {
-        "id": "512998",
-        "name": "The Legend of Zelda: Tears of the Kingdom"
-      },
-      "is_recurring": true
-    },
-    {
-      "id": "eyJzZWdtZW50SUQiOiIxN2YwNjdmZC0wNzZhLTRmOTAtYjhjMy0zOGMxNDcwZGFmMDciLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjoyNn0=",
-      "start_time": "2023-06-26T09:00:00Z",
-      "end_time": "2023-06-26T15:00:00Z",
-      "title": "Culture & Plaisir ",
-      "canceled_until": null,
-      "category": {
-        "id": "338715930",
-        "name": "Maitre des Fleurs"
-      },
-      "is_recurring": true
-    },
-    {
-      "id": "eyJzZWdtZW50SUQiOiI3YWY5M2FlMy01MTBhLTRiOWItYjYyNC0zNDc0YmFjZTM3MGUiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjoyNn0=",
-      "start_time": "2023-06-27T18:00:00Z",
-      "end_time": "2023-06-27T21:00:00Z",
-      "title": "Popcorn ( Chaîne de Domingo) ",
-      "canceled_until": null,
-      "category": {
-        "id": "417752",
-        "name": "Talk Shows & Podcasts"
-      },
-      "is_recurring": true
-    },
-    {
-      "id": "eyJzZWdtZW50SUQiOiJhNzgyZmE1ZS05NGY2LTQ1YjQtYmM1MC00NWIwYzgzZmM3MjMiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjoyNn0=",
-      "start_time": "2023-06-28T09:00:00Z",
-      "end_time": "2023-06-28T16:00:00Z",
-      "title": "Slowrun 100% chill et balade sur Zelda TOTK",
-      "canceled_until": null,
-      "category": {
-        "id": "512998",
-        "name": "The Legend of Zelda: Tears of the Kingdom"
-      },
-      "is_recurring": true
-    },
-    {
-      "id": "eyJzZWdtZW50SUQiOiIxN2YwNjdmZC0wNzZhLTRmOTAtYjhjMy0zOGMxNDcwZGFmMDciLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjoyN30=",
-      "start_time": "2023-07-03T09:00:00Z",
-      "end_time": "2023-07-03T15:00:00Z",
-      "title": "Culture & Plaisir ",
-      "canceled_until": null,
-      "category": {
-        "id": "338715930",
-        "name": "Maitre des Fleurs"
-      },
-      "is_recurring": true
-    },
-    {
-      "id": "eyJzZWdtZW50SUQiOiI3YWY5M2FlMy01MTBhLTRiOWItYjYyNC0zNDc0YmFjZTM3MGUiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjoyN30=",
-      "start_time": "2023-07-04T18:00:00Z",
-      "end_time": "2023-07-04T21:00:00Z",
-      "title": "Popcorn ( Chaîne de Domingo) ",
-      "canceled_until": null,
-      "category": {
-        "id": "417752",
-        "name": "Talk Shows & Podcasts"
-      },
-      "is_recurring": true
-    },
-    {
-      "id": "eyJzZWdtZW50SUQiOiJhNzgyZmE1ZS05NGY2LTQ1YjQtYmM1MC00NWIwYzgzZmM3MjMiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjoyN30=",
-      "start_time": "2023-07-05T09:00:00Z",
-      "end_time": "2023-07-05T16:00:00Z",
-      "title": "Slowrun 100% chill et balade sur Zelda TOTK",
-      "canceled_until": null,
-      "category": {
-        "id": "512998",
-        "name": "The Legend of Zelda: Tears of the Kingdom"
-      },
-      "is_recurring": true
-    },
-    {
-      "id": "eyJzZWdtZW50SUQiOiIxN2YwNjdmZC0wNzZhLTRmOTAtYjhjMy0zOGMxNDcwZGFmMDciLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjoyOH0=",
-      "start_time": "2023-07-10T09:00:00Z",
-      "end_time": "2023-07-10T15:00:00Z",
-      "title": "Culture & Plaisir ",
-      "canceled_until": null,
-      "category": {
-        "id": "338715930",
-        "name": "Maitre des Fleurs"
-      },
-      "is_recurring": true
-    },
-    {
-      "id": "eyJzZWdtZW50SUQiOiI3YWY5M2FlMy01MTBhLTRiOWItYjYyNC0zNDc0YmFjZTM3MGUiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjoyOH0=",
-      "start_time": "2023-07-11T18:00:00Z",
-      "end_time": "2023-07-11T21:00:00Z",
-      "title": "Popcorn ( Chaîne de Domingo) ",
-      "canceled_until": null,
-      "category": {
-        "id": "417752",
-        "name": "Talk Shows & Podcasts"
+        "id": "515024",
+        "name": "Diablo IV"
       },
       "is_recurring": true
     }

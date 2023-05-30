@@ -7,15 +7,39 @@
     "broadcaster_type": "partner",
     "description": "",
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/3cdae7df-600c-4833-8dfe-8d2abc5a3b25-profile_image-300x300.png",
-    "offline_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/edfcfdc1-2060-4907-af55-b537b1e57bcf-channel_offline_image-1920x1080.png",
+    "offline_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/fbd3e3ed-7412-47d8-8613-4abe886649a5-channel_offline_image-1920x1080.png",
     "view_count": 0,
     "created_at": "2013-02-05T19:20:22Z"
   },
   "schedulers": [
     {
-      "id": "eyJzZWdtZW50SUQiOiIxZGRlNWQ1Zi03MjU3LTQ2ZTItOTMwZi1jZWIxYWVjZmVkNDciLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjoyMn0=",
-      "start_time": "2023-05-29T17:30:00Z",
-      "end_time": "2023-05-29T18:30:00Z",
+      "id": "eyJzZWdtZW50SUQiOiIxZWJiZmNlZS1iMjJiLTQxZGYtOGFmZC1lZjJjM2Q5MWQ0OGYiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjoyMn0=",
+      "start_time": "2023-05-30T18:00:00Z",
+      "end_time": "2023-05-30T20:30:00Z",
+      "title": "🍿 POPCORN À MARSEILLE AVEC F. MANAUDOU, LUCIOLE, RIV & XARI",
+      "canceled_until": null,
+      "category": {
+        "id": "417752",
+        "name": "Talk Shows & Podcasts"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiJmOWU2ZTU4ZS1mNWY5LTRlOWMtYTZhMy1hY2YyMzcxYWRjMjkiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjoyMn0=",
+      "start_time": "2023-06-01T18:00:00Z",
+      "end_time": null,
+      "title": "EN CUISINE AVEC MAXIME BIAGGI",
+      "canceled_until": null,
+      "category": {
+        "id": "509663",
+        "name": "Special Events"
+      },
+      "is_recurring": false
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiIzY2U3ZWJkMy1iNzg5LTQ2ZWItODIzZi1kM2E1MDI3NjA4NzkiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjoyMn0=",
+      "start_time": "2023-06-02T12:00:00Z",
+      "end_time": "2023-06-02T13:00:00Z",
       "title": "🎙 PRÉ-LIVE ",
       "canceled_until": null,
       "category": {
@@ -25,28 +49,40 @@
       "is_recurring": true
     },
     {
-      "id": "eyJzZWdtZW50SUQiOiIxZWJiZmNlZS1iMjJiLTQxZGYtOGFmZC1lZjJjM2Q5MWQ0OGYiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjoyMn0=",
-      "start_time": "2023-05-30T18:00:00Z",
-      "end_time": "2023-05-30T20:30:00Z",
-      "title": "🍿 POPCORN AVEC PONCE, HORTY & SIMON PUECH (INVITÉ : PEDRO WINTER)",
+      "id": "eyJzZWdtZW50SUQiOiI3NzRhOGNjOC0xZTRhLTQ1ODMtYmYxMS1mMmMwMTMzZmU0ZTUiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjoyMn0=",
+      "start_time": "2023-06-02T13:00:00Z",
+      "end_time": null,
+      "title": "⚔ CKIII - L'EMPIRE CONTRE ATTAQUE",
       "canceled_until": null,
       "category": {
-        "id": "417752",
-        "name": "Talk Shows & Podcasts"
+        "id": "514888",
+        "name": "Crusader Kings III"
       },
-      "is_recurring": true
+      "is_recurring": false
     },
     {
-      "id": "eyJzZWdtZW50SUQiOiIzY2U3ZWJkMy1iNzg5LTQ2ZWItODIzZi1kM2E1MDI3NjA4NzkiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjoyMn0=",
-      "start_time": "2023-06-01T18:00:00Z",
+      "id": "eyJzZWdtZW50SUQiOiJiNTIzNzUxZS0yNDRkLTRhNGItOTUyOC01ZTAyNTEwYTkzZDkiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjoyMn0=",
+      "start_time": "2023-06-02T18:00:00Z",
       "end_time": null,
-      "title": "♠ LE CERCLE",
+      "title": "QUIZ CULTURE INTERNET PRÉSENTÉ PAR WAKZ",
       "canceled_until": null,
       "category": {
-        "id": "488190",
-        "name": "Poker"
+        "id": "509663",
+        "name": "Special Events"
       },
-      "is_recurring": true
+      "is_recurring": false
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiJhMTAzMGJjMC0xNzRlLTQ1ZWYtYmE1OS1jOTM5MTdmZTk5NmMiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjoyMn0=",
+      "start_time": "2023-06-03T11:00:00Z",
+      "end_time": null,
+      "title": "DÉCOUVERTE DE DIABLO IV AVEC LEBOUSEUH",
+      "canceled_until": null,
+      "category": {
+        "id": "515024",
+        "name": "Diablo IV"
+      },
+      "is_recurring": false
     },
     {
       "id": "eyJzZWdtZW50SUQiOiIxZGRlNWQ1Zi03MjU3LTQ2ZTItOTMwZi1jZWIxYWVjZmVkNDciLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjoyM30=",
@@ -64,7 +100,7 @@
       "id": "eyJzZWdtZW50SUQiOiIxZWJiZmNlZS1iMjJiLTQxZGYtOGFmZC1lZjJjM2Q5MWQ0OGYiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjoyM30=",
       "start_time": "2023-06-06T18:00:00Z",
       "end_time": "2023-06-06T20:30:00Z",
-      "title": "🍿 POPCORN AVEC PONCE, HORTY & SIMON PUECH (INVITÉ : PEDRO WINTER)",
+      "title": "🍿 POPCORN À MARSEILLE AVEC F. MANAUDOU, LUCIOLE, RIV & XARI",
       "canceled_until": null,
       "category": {
         "id": "417752",
@@ -74,13 +110,13 @@
     },
     {
       "id": "eyJzZWdtZW50SUQiOiIzY2U3ZWJkMy1iNzg5LTQ2ZWItODIzZi1kM2E1MDI3NjA4NzkiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjoyM30=",
-      "start_time": "2023-06-08T18:00:00Z",
-      "end_time": null,
-      "title": "♠ LE CERCLE",
+      "start_time": "2023-06-09T12:00:00Z",
+      "end_time": "2023-06-09T13:00:00Z",
+      "title": "🎙 PRÉ-LIVE ",
       "canceled_until": null,
       "category": {
-        "id": "488190",
-        "name": "Poker"
+        "id": "509658",
+        "name": "Just Chatting"
       },
       "is_recurring": true
     },
@@ -100,7 +136,7 @@
       "id": "eyJzZWdtZW50SUQiOiIxZWJiZmNlZS1iMjJiLTQxZGYtOGFmZC1lZjJjM2Q5MWQ0OGYiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjoyNH0=",
       "start_time": "2023-06-13T18:00:00Z",
       "end_time": "2023-06-13T20:30:00Z",
-      "title": "🍿 POPCORN AVEC PONCE, HORTY & SIMON PUECH (INVITÉ : PEDRO WINTER)",
+      "title": "🍿 POPCORN À MARSEILLE AVEC F. MANAUDOU, LUCIOLE, RIV & XARI",
       "canceled_until": null,
       "category": {
         "id": "417752",
@@ -110,13 +146,13 @@
     },
     {
       "id": "eyJzZWdtZW50SUQiOiIzY2U3ZWJkMy1iNzg5LTQ2ZWItODIzZi1kM2E1MDI3NjA4NzkiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjoyNH0=",
-      "start_time": "2023-06-15T18:00:00Z",
-      "end_time": null,
-      "title": "♠ LE CERCLE",
+      "start_time": "2023-06-16T12:00:00Z",
+      "end_time": "2023-06-16T13:00:00Z",
+      "title": "🎙 PRÉ-LIVE ",
       "canceled_until": null,
       "category": {
-        "id": "488190",
-        "name": "Poker"
+        "id": "509658",
+        "name": "Just Chatting"
       },
       "is_recurring": true
     },
@@ -136,7 +172,7 @@
       "id": "eyJzZWdtZW50SUQiOiIxZWJiZmNlZS1iMjJiLTQxZGYtOGFmZC1lZjJjM2Q5MWQ0OGYiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjoyNX0=",
       "start_time": "2023-06-20T18:00:00Z",
       "end_time": "2023-06-20T20:30:00Z",
-      "title": "🍿 POPCORN AVEC PONCE, HORTY & SIMON PUECH (INVITÉ : PEDRO WINTER)",
+      "title": "🍿 POPCORN À MARSEILLE AVEC F. MANAUDOU, LUCIOLE, RIV & XARI",
       "canceled_until": null,
       "category": {
         "id": "417752",
@@ -146,13 +182,13 @@
     },
     {
       "id": "eyJzZWdtZW50SUQiOiIzY2U3ZWJkMy1iNzg5LTQ2ZWItODIzZi1kM2E1MDI3NjA4NzkiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjoyNX0=",
-      "start_time": "2023-06-22T18:00:00Z",
-      "end_time": null,
-      "title": "♠ LE CERCLE",
+      "start_time": "2023-06-23T12:00:00Z",
+      "end_time": "2023-06-23T13:00:00Z",
+      "title": "🎙 PRÉ-LIVE ",
       "canceled_until": null,
       "category": {
-        "id": "488190",
-        "name": "Poker"
+        "id": "509658",
+        "name": "Just Chatting"
       },
       "is_recurring": true
     },
@@ -172,7 +208,7 @@
       "id": "eyJzZWdtZW50SUQiOiIxZWJiZmNlZS1iMjJiLTQxZGYtOGFmZC1lZjJjM2Q5MWQ0OGYiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjoyNn0=",
       "start_time": "2023-06-27T18:00:00Z",
       "end_time": "2023-06-27T20:30:00Z",
-      "title": "🍿 POPCORN AVEC PONCE, HORTY & SIMON PUECH (INVITÉ : PEDRO WINTER)",
+      "title": "🍿 POPCORN À MARSEILLE AVEC F. MANAUDOU, LUCIOLE, RIV & XARI",
       "canceled_until": null,
       "category": {
         "id": "417752",
@@ -182,13 +218,13 @@
     },
     {
       "id": "eyJzZWdtZW50SUQiOiIzY2U3ZWJkMy1iNzg5LTQ2ZWItODIzZi1kM2E1MDI3NjA4NzkiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjoyNn0=",
-      "start_time": "2023-06-29T18:00:00Z",
-      "end_time": null,
-      "title": "♠ LE CERCLE",
+      "start_time": "2023-06-30T12:00:00Z",
+      "end_time": "2023-06-30T13:00:00Z",
+      "title": "🎙 PRÉ-LIVE ",
       "canceled_until": null,
       "category": {
-        "id": "488190",
-        "name": "Poker"
+        "id": "509658",
+        "name": "Just Chatting"
       },
       "is_recurring": true
     },
@@ -208,43 +244,7 @@
       "id": "eyJzZWdtZW50SUQiOiIxZWJiZmNlZS1iMjJiLTQxZGYtOGFmZC1lZjJjM2Q5MWQ0OGYiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjoyN30=",
       "start_time": "2023-07-04T18:00:00Z",
       "end_time": "2023-07-04T20:30:00Z",
-      "title": "🍿 POPCORN AVEC PONCE, HORTY & SIMON PUECH (INVITÉ : PEDRO WINTER)",
-      "canceled_until": null,
-      "category": {
-        "id": "417752",
-        "name": "Talk Shows & Podcasts"
-      },
-      "is_recurring": true
-    },
-    {
-      "id": "eyJzZWdtZW50SUQiOiIzY2U3ZWJkMy1iNzg5LTQ2ZWItODIzZi1kM2E1MDI3NjA4NzkiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjoyN30=",
-      "start_time": "2023-07-06T18:00:00Z",
-      "end_time": null,
-      "title": "♠ LE CERCLE",
-      "canceled_until": null,
-      "category": {
-        "id": "488190",
-        "name": "Poker"
-      },
-      "is_recurring": true
-    },
-    {
-      "id": "eyJzZWdtZW50SUQiOiIxZGRlNWQ1Zi03MjU3LTQ2ZTItOTMwZi1jZWIxYWVjZmVkNDciLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjoyOH0=",
-      "start_time": "2023-07-10T17:30:00Z",
-      "end_time": "2023-07-10T18:30:00Z",
-      "title": "🎙 PRÉ-LIVE ",
-      "canceled_until": null,
-      "category": {
-        "id": "509658",
-        "name": "Just Chatting"
-      },
-      "is_recurring": true
-    },
-    {
-      "id": "eyJzZWdtZW50SUQiOiIxZWJiZmNlZS1iMjJiLTQxZGYtOGFmZC1lZjJjM2Q5MWQ0OGYiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjoyOH0=",
-      "start_time": "2023-07-11T18:00:00Z",
-      "end_time": "2023-07-11T20:30:00Z",
-      "title": "🍿 POPCORN AVEC PONCE, HORTY & SIMON PUECH (INVITÉ : PEDRO WINTER)",
+      "title": "🍿 POPCORN À MARSEILLE AVEC F. MANAUDOU, LUCIOLE, RIV & XARI",
       "canceled_until": null,
       "category": {
         "id": "417752",
