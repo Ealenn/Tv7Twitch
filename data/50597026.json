@@ -13,30 +13,6 @@
   },
   "schedulers": [
     {
-      "id": "eyJzZWdtZW50SUQiOiJiY2Q5OGExNy0wYzc3LTRkYjQtYmRiMS0wMDk1ZDJlM2ViMDUiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjoyMn0=",
-      "start_time": "2023-05-30T09:00:00Z",
-      "end_time": "2023-05-30T12:00:00Z",
-      "title": "Le p’tit Speedrun Any% du plaisir ",
-      "canceled_until": null,
-      "category": {
-        "id": "493997",
-        "name": "Super Mario Odyssey"
-      },
-      "is_recurring": true
-    },
-    {
-      "id": "eyJzZWdtZW50SUQiOiJmMTA0MWMzMi02ZWFlLTRjMjMtOGEzYy0zNThkOTMyNDMwMjEiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjoyMn0=",
-      "start_time": "2023-05-30T12:00:00Z",
-      "end_time": "2023-05-30T18:00:00Z",
-      "title": "On continue l’aventure WoW Hardcore avec Luuxia ",
-      "canceled_until": null,
-      "category": {
-        "id": "18122",
-        "name": "World of Warcraft"
-      },
-      "is_recurring": true
-    },
-    {
       "id": "eyJzZWdtZW50SUQiOiJhNzgyZmE1ZS05NGY2LTQ1YjQtYmM1MC00NWIwYzgzZmM3MjMiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjoyMn0=",
       "start_time": "2023-05-31T09:00:00Z",
       "end_time": "2023-05-31T18:00:00Z",
@@ -245,6 +221,30 @@
       "start_time": "2023-06-16T11:00:00Z",
       "end_time": "2023-06-16T18:00:00Z",
       "title": "Découverte de Diablo 4 Hardcore",
+      "canceled_until": null,
+      "category": {
+        "id": "515024",
+        "name": "Diablo IV"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiJiMWZmZTYwNC1jYmVmLTRjMGItOWI3ZC02ZGQxMzc4ZGFlYTMiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjoyNH0=",
+      "start_time": "2023-06-16T18:00:00Z",
+      "end_time": "2023-06-16T20:00:00Z",
+      "title": "Quiz JV/Stream avec Solary ",
+      "canceled_until": null,
+      "category": {
+        "id": "509658",
+        "name": "Just Chatting"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiI4Y2U2YzRkOC01OWEzLTQ5OGQtODQ3YS00NzIxYTgyYmQ3OTgiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjoyNH0=",
+      "start_time": "2023-06-17T10:00:00Z",
+      "end_time": "2023-06-17T16:00:00Z",
+      "title": "Diablo 4 Hardcore",
       "canceled_until": null,
       "category": {
         "id": "515024",
