@@ -13,18 +13,6 @@
   },
   "schedulers": [
     {
-      "id": "eyJzZWdtZW50SUQiOiJmOWU2ZTU4ZS1mNWY5LTRlOWMtYTZhMy1hY2YyMzcxYWRjMjkiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjoyMn0=",
-      "start_time": "2023-06-01T18:00:00Z",
-      "end_time": null,
-      "title": "EN CUISINE AVEC MAXIME BIAGGI",
-      "canceled_until": null,
-      "category": {
-        "id": "509663",
-        "name": "Special Events"
-      },
-      "is_recurring": false
-    },
-    {
       "id": "eyJzZWdtZW50SUQiOiIzY2U3ZWJkMy1iNzg5LTQ2ZWItODIzZi1kM2E1MDI3NjA4NzkiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjoyMn0=",
       "start_time": "2023-06-02T12:00:00Z",
       "end_time": "2023-06-02T13:00:00Z",
@@ -244,6 +232,18 @@
       "id": "eyJzZWdtZW50SUQiOiIzY2U3ZWJkMy1iNzg5LTQ2ZWItODIzZi1kM2E1MDI3NjA4NzkiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjoyN30=",
       "start_time": "2023-07-07T12:00:00Z",
       "end_time": "2023-07-07T13:00:00Z",
+      "title": "🎙 PRÉ-LIVE ",
+      "canceled_until": null,
+      "category": {
+        "id": "509658",
+        "name": "Just Chatting"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiIxZGRlNWQ1Zi03MjU3LTQ2ZTItOTMwZi1jZWIxYWVjZmVkNDciLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjoyOH0=",
+      "start_time": "2023-07-10T17:30:00Z",
+      "end_time": "2023-07-10T18:30:00Z",
       "title": "🎙 PRÉ-LIVE ",
       "canceled_until": null,
       "category": {
