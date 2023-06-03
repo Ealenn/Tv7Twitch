@@ -13,42 +13,6 @@
   },
   "schedulers": [
     {
-      "id": "eyJzZWdtZW50SUQiOiIzY2U3ZWJkMy1iNzg5LTQ2ZWItODIzZi1kM2E1MDI3NjA4NzkiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjoyMn0=",
-      "start_time": "2023-06-02T12:00:00Z",
-      "end_time": "2023-06-02T13:00:00Z",
-      "title": "🎙 PRÉ-LIVE ",
-      "canceled_until": null,
-      "category": {
-        "id": "509658",
-        "name": "Just Chatting"
-      },
-      "is_recurring": true
-    },
-    {
-      "id": "eyJzZWdtZW50SUQiOiI3NzRhOGNjOC0xZTRhLTQ1ODMtYmYxMS1mMmMwMTMzZmU0ZTUiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjoyMn0=",
-      "start_time": "2023-06-02T13:00:00Z",
-      "end_time": null,
-      "title": "⚔ CKIII - L'EMPIRE CONTRE ATTAQUE",
-      "canceled_until": null,
-      "category": {
-        "id": "514888",
-        "name": "Crusader Kings III"
-      },
-      "is_recurring": false
-    },
-    {
-      "id": "eyJzZWdtZW50SUQiOiJiNTIzNzUxZS0yNDRkLTRhNGItOTUyOC01ZTAyNTEwYTkzZDkiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjoyMn0=",
-      "start_time": "2023-06-02T18:00:00Z",
-      "end_time": null,
-      "title": "QUIZ CULTURE INTERNET PRÉSENTÉ PAR WAKZ",
-      "canceled_until": null,
-      "category": {
-        "id": "509663",
-        "name": "Special Events"
-      },
-      "is_recurring": false
-    },
-    {
       "id": "eyJzZWdtZW50SUQiOiJhMTAzMGJjMC0xNzRlLTQ1ZWYtYmE1OS1jOTM5MTdmZTk5NmMiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjoyMn0=",
       "start_time": "2023-06-03T11:00:00Z",
       "end_time": null,
@@ -244,6 +208,42 @@
       "id": "eyJzZWdtZW50SUQiOiIxZGRlNWQ1Zi03MjU3LTQ2ZTItOTMwZi1jZWIxYWVjZmVkNDciLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjoyOH0=",
       "start_time": "2023-07-10T17:30:00Z",
       "end_time": "2023-07-10T18:30:00Z",
+      "title": "🎙 PRÉ-LIVE ",
+      "canceled_until": null,
+      "category": {
+        "id": "509658",
+        "name": "Just Chatting"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiIxZWJiZmNlZS1iMjJiLTQxZGYtOGFmZC1lZjJjM2Q5MWQ0OGYiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjoyOH0=",
+      "start_time": "2023-07-11T18:00:00Z",
+      "end_time": "2023-07-11T20:30:00Z",
+      "title": "🍿 POPCORN À MARSEILLE AVEC F. MANAUDOU, LUCIOLE, RIV & XARI",
+      "canceled_until": null,
+      "category": {
+        "id": "417752",
+        "name": "Talk Shows & Podcasts"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiIzY2U3ZWJkMy1iNzg5LTQ2ZWItODIzZi1kM2E1MDI3NjA4NzkiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjoyOH0=",
+      "start_time": "2023-07-14T12:00:00Z",
+      "end_time": "2023-07-14T13:00:00Z",
+      "title": "🎙 PRÉ-LIVE ",
+      "canceled_until": null,
+      "category": {
+        "id": "509658",
+        "name": "Just Chatting"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiIxZGRlNWQ1Zi03MjU3LTQ2ZTItOTMwZi1jZWIxYWVjZmVkNDciLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjoyOX0=",
+      "start_time": "2023-07-17T17:30:00Z",
+      "end_time": "2023-07-17T18:30:00Z",
       "title": "🎙 PRÉ-LIVE ",
       "canceled_until": null,
       "category": {
