@@ -13,18 +13,6 @@
   },
   "schedulers": [
     {
-      "id": "eyJzZWdtZW50SUQiOiIwZDYwYmYyYi0yYTRkLTQ3MTMtYmQ2ZC02ZDZjYjNmMDU2ZTAiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjoyMn0=",
-      "start_time": "2023-06-04T11:00:00Z",
-      "end_time": "2023-06-04T15:00:00Z",
-      "title": "Le tournoi MK du dimanche ",
-      "canceled_until": null,
-      "category": {
-        "id": "941530474",
-        "name": "Mario Kart 8 Deluxe"
-      },
-      "is_recurring": true
-    },
-    {
       "id": "eyJzZWdtZW50SUQiOiIxN2YwNjdmZC0wNzZhLTRmOTAtYjhjMy0zOGMxNDcwZGFmMDciLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjoyM30=",
       "start_time": "2023-06-05T09:00:00Z",
       "end_time": "2023-06-05T16:00:00Z",
@@ -73,50 +61,38 @@
       "is_recurring": true
     },
     {
+      "id": "eyJzZWdtZW50SUQiOiJjYjhlNTkzZC05OWY4LTQyYjktOWVhYS1kYzc2MjNhZDk0MzEiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjoyM30=",
+      "start_time": "2023-06-08T09:00:00Z",
+      "end_time": "2023-06-08T12:00:00Z",
+      "title": "Le p’tit Speedrun Any% du plaisir",
+      "canceled_until": null,
+      "category": {
+        "id": "493997",
+        "name": "Super Mario Odyssey"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiIzZGM5N2M4ZS03ODBkLTRkMGUtOTVkYy1mMjM2OWExNTE2ZmEiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjoyM30=",
+      "start_time": "2023-06-08T12:00:00Z",
+      "end_time": "2023-06-08T18:00:00Z",
+      "title": "On teste les maps d'Ascension !",
+      "canceled_until": null,
+      "category": {
+        "id": "687129551",
+        "name": "Trackmania"
+      },
+      "is_recurring": true
+    },
+    {
       "id": "eyJzZWdtZW50SUQiOiI3MDA1Nzk3Yy0wMDc3LTRhMWEtYTgwNC1lMzhjZjBjM2VhMGYiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjoyM30=",
-      "start_time": "2023-06-09T11:00:00Z",
+      "start_time": "2023-06-09T14:00:00Z",
       "end_time": "2023-06-09T18:00:00Z",
-      "title": "Découverte de Diablo 4 Hardcore",
+      "title": "Contest de skate en live sur la chaîne de KennyStream",
       "canceled_until": null,
       "category": {
-        "id": "515024",
-        "name": "Diablo IV"
-      },
-      "is_recurring": true
-    },
-    {
-      "id": "eyJzZWdtZW50SUQiOiJiMWZmZTYwNC1jYmVmLTRjMGItOWI3ZC02ZGQxMzc4ZGFlYTMiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjoyM30=",
-      "start_time": "2023-06-09T18:00:00Z",
-      "end_time": "2023-06-09T20:00:00Z",
-      "title": "Quiz JV/Stream avec Solary ",
-      "canceled_until": null,
-      "category": {
-        "id": "509658",
-        "name": "Just Chatting"
-      },
-      "is_recurring": true
-    },
-    {
-      "id": "eyJzZWdtZW50SUQiOiI4Y2U2YzRkOC01OWEzLTQ5OGQtODQ3YS00NzIxYTgyYmQ3OTgiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjoyM30=",
-      "start_time": "2023-06-10T10:00:00Z",
-      "end_time": "2023-06-10T16:00:00Z",
-      "title": "Diablo 4 Hardcore",
-      "canceled_until": null,
-      "category": {
-        "id": "515024",
-        "name": "Diablo IV"
-      },
-      "is_recurring": true
-    },
-    {
-      "id": "eyJzZWdtZW50SUQiOiIwZDYwYmYyYi0yYTRkLTQ3MTMtYmQ2ZC02ZDZjYjNmMDU2ZTAiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjoyM30=",
-      "start_time": "2023-06-11T11:00:00Z",
-      "end_time": "2023-06-11T15:00:00Z",
-      "title": "Le tournoi MK du dimanche ",
-      "canceled_until": null,
-      "category": {
-        "id": "941530474",
-        "name": "Mario Kart 8 Deluxe"
+        "id": "509663",
+        "name": "Special Events"
       },
       "is_recurring": true
     },
@@ -169,50 +145,38 @@
       "is_recurring": true
     },
     {
+      "id": "eyJzZWdtZW50SUQiOiJjYjhlNTkzZC05OWY4LTQyYjktOWVhYS1kYzc2MjNhZDk0MzEiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjoyNH0=",
+      "start_time": "2023-06-15T09:00:00Z",
+      "end_time": "2023-06-15T12:00:00Z",
+      "title": "Le p’tit Speedrun Any% du plaisir",
+      "canceled_until": null,
+      "category": {
+        "id": "493997",
+        "name": "Super Mario Odyssey"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiIzZGM5N2M4ZS03ODBkLTRkMGUtOTVkYy1mMjM2OWExNTE2ZmEiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjoyNH0=",
+      "start_time": "2023-06-15T12:00:00Z",
+      "end_time": "2023-06-15T18:00:00Z",
+      "title": "On teste les maps d'Ascension !",
+      "canceled_until": null,
+      "category": {
+        "id": "687129551",
+        "name": "Trackmania"
+      },
+      "is_recurring": true
+    },
+    {
       "id": "eyJzZWdtZW50SUQiOiI3MDA1Nzk3Yy0wMDc3LTRhMWEtYTgwNC1lMzhjZjBjM2VhMGYiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjoyNH0=",
-      "start_time": "2023-06-16T11:00:00Z",
+      "start_time": "2023-06-16T14:00:00Z",
       "end_time": "2023-06-16T18:00:00Z",
-      "title": "Découverte de Diablo 4 Hardcore",
+      "title": "Contest de skate en live sur la chaîne de KennyStream",
       "canceled_until": null,
       "category": {
-        "id": "515024",
-        "name": "Diablo IV"
-      },
-      "is_recurring": true
-    },
-    {
-      "id": "eyJzZWdtZW50SUQiOiJiMWZmZTYwNC1jYmVmLTRjMGItOWI3ZC02ZGQxMzc4ZGFlYTMiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjoyNH0=",
-      "start_time": "2023-06-16T18:00:00Z",
-      "end_time": "2023-06-16T20:00:00Z",
-      "title": "Quiz JV/Stream avec Solary ",
-      "canceled_until": null,
-      "category": {
-        "id": "509658",
-        "name": "Just Chatting"
-      },
-      "is_recurring": true
-    },
-    {
-      "id": "eyJzZWdtZW50SUQiOiI4Y2U2YzRkOC01OWEzLTQ5OGQtODQ3YS00NzIxYTgyYmQ3OTgiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjoyNH0=",
-      "start_time": "2023-06-17T10:00:00Z",
-      "end_time": "2023-06-17T16:00:00Z",
-      "title": "Diablo 4 Hardcore",
-      "canceled_until": null,
-      "category": {
-        "id": "515024",
-        "name": "Diablo IV"
-      },
-      "is_recurring": true
-    },
-    {
-      "id": "eyJzZWdtZW50SUQiOiIwZDYwYmYyYi0yYTRkLTQ3MTMtYmQ2ZC02ZDZjYjNmMDU2ZTAiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjoyNH0=",
-      "start_time": "2023-06-18T11:00:00Z",
-      "end_time": "2023-06-18T15:00:00Z",
-      "title": "Le tournoi MK du dimanche ",
-      "canceled_until": null,
-      "category": {
-        "id": "941530474",
-        "name": "Mario Kart 8 Deluxe"
+        "id": "509663",
+        "name": "Special Events"
       },
       "is_recurring": true
     },
@@ -249,6 +213,42 @@
       "category": {
         "id": "18122",
         "name": "World of Warcraft"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiJhNzgyZmE1ZS05NGY2LTQ1YjQtYmM1MC00NWIwYzgzZmM3MjMiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjoyNX0=",
+      "start_time": "2023-06-21T09:00:00Z",
+      "end_time": "2023-06-21T18:00:00Z",
+      "title": "Slowrun 100% chill et balade sur Zelda TOTK",
+      "canceled_until": null,
+      "category": {
+        "id": "512998",
+        "name": "The Legend of Zelda: Tears of the Kingdom"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiJjYjhlNTkzZC05OWY4LTQyYjktOWVhYS1kYzc2MjNhZDk0MzEiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjoyNX0=",
+      "start_time": "2023-06-22T09:00:00Z",
+      "end_time": "2023-06-22T12:00:00Z",
+      "title": "Le p’tit Speedrun Any% du plaisir",
+      "canceled_until": null,
+      "category": {
+        "id": "493997",
+        "name": "Super Mario Odyssey"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiIzZGM5N2M4ZS03ODBkLTRkMGUtOTVkYy1mMjM2OWExNTE2ZmEiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjoyNX0=",
+      "start_time": "2023-06-22T12:00:00Z",
+      "end_time": "2023-06-22T18:00:00Z",
+      "title": "On teste les maps d'Ascension !",
+      "canceled_until": null,
+      "category": {
+        "id": "687129551",
+        "name": "Trackmania"
       },
       "is_recurring": true
     }
