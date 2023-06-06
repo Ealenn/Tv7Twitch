@@ -7,28 +7,16 @@
     "broadcaster_type": "partner",
     "description": "",
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/3cdae7df-600c-4833-8dfe-8d2abc5a3b25-profile_image-300x300.png",
-    "offline_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/fbd3e3ed-7412-47d8-8613-4abe886649a5-channel_offline_image-1920x1080.png",
+    "offline_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/5125f15e-881c-4f3a-b08d-0ddf80b0991b-channel_offline_image-1920x1080.png",
     "view_count": 0,
     "created_at": "2013-02-05T19:20:22Z"
   },
   "schedulers": [
     {
-      "id": "eyJzZWdtZW50SUQiOiIxZGRlNWQ1Zi03MjU3LTQ2ZTItOTMwZi1jZWIxYWVjZmVkNDciLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjoyM30=",
-      "start_time": "2023-06-05T17:30:00Z",
-      "end_time": "2023-06-05T18:30:00Z",
-      "title": "🎙 PRÉ-LIVE ",
-      "canceled_until": null,
-      "category": {
-        "id": "509658",
-        "name": "Just Chatting"
-      },
-      "is_recurring": true
-    },
-    {
       "id": "eyJzZWdtZW50SUQiOiIxZWJiZmNlZS1iMjJiLTQxZGYtOGFmZC1lZjJjM2Q5MWQ0OGYiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjoyM30=",
       "start_time": "2023-06-06T18:00:00Z",
       "end_time": "2023-06-06T20:30:00Z",
-      "title": "🍿 POPCORN À MARSEILLE AVEC F. MANAUDOU, LUCIOLE, RIV & XARI",
+      "title": "🍿 POPCORN AVEC CYRUS NORTH, JIRAYA & NIEMESIA (INVITÉE : AURÉLIE JEAN)",
       "canceled_until": null,
       "category": {
         "id": "417752",
@@ -37,10 +25,22 @@
       "is_recurring": true
     },
     {
-      "id": "eyJzZWdtZW50SUQiOiIzY2U3ZWJkMy1iNzg5LTQ2ZWItODIzZi1kM2E1MDI3NjA4NzkiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjoyM30=",
-      "start_time": "2023-06-09T12:00:00Z",
-      "end_time": "2023-06-09T13:00:00Z",
-      "title": "🎙 PRÉ-LIVE ",
+      "id": "eyJzZWdtZW50SUQiOiJjNTJjNGQwYS1lNDlmLTRjNmEtODI1OC02MDIwNjlmNjlkYTEiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjoyM30=",
+      "start_time": "2023-06-07T17:30:00Z",
+      "end_time": "2023-06-07T18:00:00Z",
+      "title": "🎙 PRÉ LIVE ",
+      "canceled_until": null,
+      "category": {
+        "id": "509658",
+        "name": "Just Chatting"
+      },
+      "is_recurring": false
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiIxZGRlNWQ1Zi03MjU3LTQ2ZTItOTMwZi1jZWIxYWVjZmVkNDciLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjoyM30=",
+      "start_time": "2023-06-07T18:00:00Z",
+      "end_time": "2023-06-07T19:30:00Z",
+      "title": "📺 GROS REACT SURPRISE",
       "canceled_until": null,
       "category": {
         "id": "509658",
@@ -49,22 +49,22 @@
       "is_recurring": true
     },
     {
-      "id": "eyJzZWdtZW50SUQiOiIxZGRlNWQ1Zi03MjU3LTQ2ZTItOTMwZi1jZWIxYWVjZmVkNDciLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjoyNH0=",
-      "start_time": "2023-06-12T17:30:00Z",
-      "end_time": "2023-06-12T18:30:00Z",
-      "title": "🎙 PRÉ-LIVE ",
+      "id": "eyJzZWdtZW50SUQiOiI4NjRmOWUyMi03ZDcyLTQxODMtYjEzMC04ZDMzNTA0MTYwNzkiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjoyM30=",
+      "start_time": "2023-06-07T19:30:00Z",
+      "end_time": "2023-06-07T23:00:00Z",
+      "title": "LE XARIATHLON AVEC XARI, PONCE, ULTIA, ZERATOR & ANTOINE DANIEL",
       "canceled_until": null,
       "category": {
-        "id": "509658",
-        "name": "Just Chatting"
+        "id": "509663",
+        "name": "Special Events"
       },
-      "is_recurring": true
+      "is_recurring": false
     },
     {
       "id": "eyJzZWdtZW50SUQiOiIxZWJiZmNlZS1iMjJiLTQxZGYtOGFmZC1lZjJjM2Q5MWQ0OGYiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjoyNH0=",
       "start_time": "2023-06-13T18:00:00Z",
       "end_time": "2023-06-13T20:30:00Z",
-      "title": "🍿 POPCORN À MARSEILLE AVEC F. MANAUDOU, LUCIOLE, RIV & XARI",
+      "title": "🍿 POPCORN AVEC CYRUS NORTH, JIRAYA & NIEMESIA (INVITÉE : AURÉLIE JEAN)",
       "canceled_until": null,
       "category": {
         "id": "417752",
@@ -73,22 +73,10 @@
       "is_recurring": true
     },
     {
-      "id": "eyJzZWdtZW50SUQiOiIzY2U3ZWJkMy1iNzg5LTQ2ZWItODIzZi1kM2E1MDI3NjA4NzkiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjoyNH0=",
-      "start_time": "2023-06-16T12:00:00Z",
-      "end_time": "2023-06-16T13:00:00Z",
-      "title": "🎙 PRÉ-LIVE ",
-      "canceled_until": null,
-      "category": {
-        "id": "509658",
-        "name": "Just Chatting"
-      },
-      "is_recurring": true
-    },
-    {
-      "id": "eyJzZWdtZW50SUQiOiIxZGRlNWQ1Zi03MjU3LTQ2ZTItOTMwZi1jZWIxYWVjZmVkNDciLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjoyNX0=",
-      "start_time": "2023-06-19T17:30:00Z",
-      "end_time": "2023-06-19T18:30:00Z",
-      "title": "🎙 PRÉ-LIVE ",
+      "id": "eyJzZWdtZW50SUQiOiIxZGRlNWQ1Zi03MjU3LTQ2ZTItOTMwZi1jZWIxYWVjZmVkNDciLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjoyNH0=",
+      "start_time": "2023-06-14T18:00:00Z",
+      "end_time": "2023-06-14T19:30:00Z",
+      "title": "📺 GROS REACT SURPRISE",
       "canceled_until": null,
       "category": {
         "id": "509658",
@@ -100,7 +88,7 @@
       "id": "eyJzZWdtZW50SUQiOiIxZWJiZmNlZS1iMjJiLTQxZGYtOGFmZC1lZjJjM2Q5MWQ0OGYiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjoyNX0=",
       "start_time": "2023-06-20T18:00:00Z",
       "end_time": "2023-06-20T20:30:00Z",
-      "title": "🍿 POPCORN À MARSEILLE AVEC F. MANAUDOU, LUCIOLE, RIV & XARI",
+      "title": "🍿 POPCORN AVEC CYRUS NORTH, JIRAYA & NIEMESIA (INVITÉE : AURÉLIE JEAN)",
       "canceled_until": null,
       "category": {
         "id": "417752",
@@ -109,22 +97,10 @@
       "is_recurring": true
     },
     {
-      "id": "eyJzZWdtZW50SUQiOiIzY2U3ZWJkMy1iNzg5LTQ2ZWItODIzZi1kM2E1MDI3NjA4NzkiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjoyNX0=",
-      "start_time": "2023-06-23T12:00:00Z",
-      "end_time": "2023-06-23T13:00:00Z",
-      "title": "🎙 PRÉ-LIVE ",
-      "canceled_until": null,
-      "category": {
-        "id": "509658",
-        "name": "Just Chatting"
-      },
-      "is_recurring": true
-    },
-    {
-      "id": "eyJzZWdtZW50SUQiOiIxZGRlNWQ1Zi03MjU3LTQ2ZTItOTMwZi1jZWIxYWVjZmVkNDciLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjoyNn0=",
-      "start_time": "2023-06-26T17:30:00Z",
-      "end_time": "2023-06-26T18:30:00Z",
-      "title": "🎙 PRÉ-LIVE ",
+      "id": "eyJzZWdtZW50SUQiOiIxZGRlNWQ1Zi03MjU3LTQ2ZTItOTMwZi1jZWIxYWVjZmVkNDciLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjoyNX0=",
+      "start_time": "2023-06-21T18:00:00Z",
+      "end_time": "2023-06-21T19:30:00Z",
+      "title": "📺 GROS REACT SURPRISE",
       "canceled_until": null,
       "category": {
         "id": "509658",
@@ -136,7 +112,7 @@
       "id": "eyJzZWdtZW50SUQiOiIxZWJiZmNlZS1iMjJiLTQxZGYtOGFmZC1lZjJjM2Q5MWQ0OGYiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjoyNn0=",
       "start_time": "2023-06-27T18:00:00Z",
       "end_time": "2023-06-27T20:30:00Z",
-      "title": "🍿 POPCORN À MARSEILLE AVEC F. MANAUDOU, LUCIOLE, RIV & XARI",
+      "title": "🍿 POPCORN AVEC CYRUS NORTH, JIRAYA & NIEMESIA (INVITÉE : AURÉLIE JEAN)",
       "canceled_until": null,
       "category": {
         "id": "417752",
@@ -145,22 +121,10 @@
       "is_recurring": true
     },
     {
-      "id": "eyJzZWdtZW50SUQiOiIzY2U3ZWJkMy1iNzg5LTQ2ZWItODIzZi1kM2E1MDI3NjA4NzkiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjoyNn0=",
-      "start_time": "2023-06-30T12:00:00Z",
-      "end_time": "2023-06-30T13:00:00Z",
-      "title": "🎙 PRÉ-LIVE ",
-      "canceled_until": null,
-      "category": {
-        "id": "509658",
-        "name": "Just Chatting"
-      },
-      "is_recurring": true
-    },
-    {
-      "id": "eyJzZWdtZW50SUQiOiIxZGRlNWQ1Zi03MjU3LTQ2ZTItOTMwZi1jZWIxYWVjZmVkNDciLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjoyN30=",
-      "start_time": "2023-07-03T17:30:00Z",
-      "end_time": "2023-07-03T18:30:00Z",
-      "title": "🎙 PRÉ-LIVE ",
+      "id": "eyJzZWdtZW50SUQiOiIxZGRlNWQ1Zi03MjU3LTQ2ZTItOTMwZi1jZWIxYWVjZmVkNDciLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjoyNn0=",
+      "start_time": "2023-06-28T18:00:00Z",
+      "end_time": "2023-06-28T19:30:00Z",
+      "title": "📺 GROS REACT SURPRISE",
       "canceled_until": null,
       "category": {
         "id": "509658",
@@ -172,7 +136,7 @@
       "id": "eyJzZWdtZW50SUQiOiIxZWJiZmNlZS1iMjJiLTQxZGYtOGFmZC1lZjJjM2Q5MWQ0OGYiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjoyN30=",
       "start_time": "2023-07-04T18:00:00Z",
       "end_time": "2023-07-04T20:30:00Z",
-      "title": "🍿 POPCORN À MARSEILLE AVEC F. MANAUDOU, LUCIOLE, RIV & XARI",
+      "title": "🍿 POPCORN AVEC CYRUS NORTH, JIRAYA & NIEMESIA (INVITÉE : AURÉLIE JEAN)",
       "canceled_until": null,
       "category": {
         "id": "417752",
@@ -181,22 +145,10 @@
       "is_recurring": true
     },
     {
-      "id": "eyJzZWdtZW50SUQiOiIzY2U3ZWJkMy1iNzg5LTQ2ZWItODIzZi1kM2E1MDI3NjA4NzkiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjoyN30=",
-      "start_time": "2023-07-07T12:00:00Z",
-      "end_time": "2023-07-07T13:00:00Z",
-      "title": "🎙 PRÉ-LIVE ",
-      "canceled_until": null,
-      "category": {
-        "id": "509658",
-        "name": "Just Chatting"
-      },
-      "is_recurring": true
-    },
-    {
-      "id": "eyJzZWdtZW50SUQiOiIxZGRlNWQ1Zi03MjU3LTQ2ZTItOTMwZi1jZWIxYWVjZmVkNDciLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjoyOH0=",
-      "start_time": "2023-07-10T17:30:00Z",
-      "end_time": "2023-07-10T18:30:00Z",
-      "title": "🎙 PRÉ-LIVE ",
+      "id": "eyJzZWdtZW50SUQiOiIxZGRlNWQ1Zi03MjU3LTQ2ZTItOTMwZi1jZWIxYWVjZmVkNDciLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjoyN30=",
+      "start_time": "2023-07-05T18:00:00Z",
+      "end_time": "2023-07-05T19:30:00Z",
+      "title": "📺 GROS REACT SURPRISE",
       "canceled_until": null,
       "category": {
         "id": "509658",
@@ -208,7 +160,7 @@
       "id": "eyJzZWdtZW50SUQiOiIxZWJiZmNlZS1iMjJiLTQxZGYtOGFmZC1lZjJjM2Q5MWQ0OGYiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjoyOH0=",
       "start_time": "2023-07-11T18:00:00Z",
       "end_time": "2023-07-11T20:30:00Z",
-      "title": "🍿 POPCORN À MARSEILLE AVEC F. MANAUDOU, LUCIOLE, RIV & XARI",
+      "title": "🍿 POPCORN AVEC CYRUS NORTH, JIRAYA & NIEMESIA (INVITÉE : AURÉLIE JEAN)",
       "canceled_until": null,
       "category": {
         "id": "417752",
@@ -217,22 +169,10 @@
       "is_recurring": true
     },
     {
-      "id": "eyJzZWdtZW50SUQiOiIzY2U3ZWJkMy1iNzg5LTQ2ZWItODIzZi1kM2E1MDI3NjA4NzkiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjoyOH0=",
-      "start_time": "2023-07-14T12:00:00Z",
-      "end_time": "2023-07-14T13:00:00Z",
-      "title": "🎙 PRÉ-LIVE ",
-      "canceled_until": null,
-      "category": {
-        "id": "509658",
-        "name": "Just Chatting"
-      },
-      "is_recurring": true
-    },
-    {
-      "id": "eyJzZWdtZW50SUQiOiIxZGRlNWQ1Zi03MjU3LTQ2ZTItOTMwZi1jZWIxYWVjZmVkNDciLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjoyOX0=",
-      "start_time": "2023-07-17T17:30:00Z",
-      "end_time": "2023-07-17T18:30:00Z",
-      "title": "🎙 PRÉ-LIVE ",
+      "id": "eyJzZWdtZW50SUQiOiIxZGRlNWQ1Zi03MjU3LTQ2ZTItOTMwZi1jZWIxYWVjZmVkNDciLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjoyOH0=",
+      "start_time": "2023-07-12T18:00:00Z",
+      "end_time": "2023-07-12T19:30:00Z",
+      "title": "📺 GROS REACT SURPRISE",
       "canceled_until": null,
       "category": {
         "id": "509658",
@@ -244,11 +184,71 @@
       "id": "eyJzZWdtZW50SUQiOiIxZWJiZmNlZS1iMjJiLTQxZGYtOGFmZC1lZjJjM2Q5MWQ0OGYiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjoyOX0=",
       "start_time": "2023-07-18T18:00:00Z",
       "end_time": "2023-07-18T20:30:00Z",
-      "title": "🍿 POPCORN À MARSEILLE AVEC F. MANAUDOU, LUCIOLE, RIV & XARI",
+      "title": "🍿 POPCORN AVEC CYRUS NORTH, JIRAYA & NIEMESIA (INVITÉE : AURÉLIE JEAN)",
       "canceled_until": null,
       "category": {
         "id": "417752",
         "name": "Talk Shows & Podcasts"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiIxZGRlNWQ1Zi03MjU3LTQ2ZTItOTMwZi1jZWIxYWVjZmVkNDciLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjoyOX0=",
+      "start_time": "2023-07-19T18:00:00Z",
+      "end_time": "2023-07-19T19:30:00Z",
+      "title": "📺 GROS REACT SURPRISE",
+      "canceled_until": null,
+      "category": {
+        "id": "509658",
+        "name": "Just Chatting"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiIxZWJiZmNlZS1iMjJiLTQxZGYtOGFmZC1lZjJjM2Q5MWQ0OGYiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjozMH0=",
+      "start_time": "2023-07-25T18:00:00Z",
+      "end_time": "2023-07-25T20:30:00Z",
+      "title": "🍿 POPCORN AVEC CYRUS NORTH, JIRAYA & NIEMESIA (INVITÉE : AURÉLIE JEAN)",
+      "canceled_until": null,
+      "category": {
+        "id": "417752",
+        "name": "Talk Shows & Podcasts"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiIxZGRlNWQ1Zi03MjU3LTQ2ZTItOTMwZi1jZWIxYWVjZmVkNDciLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjozMH0=",
+      "start_time": "2023-07-26T18:00:00Z",
+      "end_time": "2023-07-26T19:30:00Z",
+      "title": "📺 GROS REACT SURPRISE",
+      "canceled_until": null,
+      "category": {
+        "id": "509658",
+        "name": "Just Chatting"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiIxZWJiZmNlZS1iMjJiLTQxZGYtOGFmZC1lZjJjM2Q5MWQ0OGYiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjozMX0=",
+      "start_time": "2023-08-01T18:00:00Z",
+      "end_time": "2023-08-01T20:30:00Z",
+      "title": "🍿 POPCORN AVEC CYRUS NORTH, JIRAYA & NIEMESIA (INVITÉE : AURÉLIE JEAN)",
+      "canceled_until": null,
+      "category": {
+        "id": "417752",
+        "name": "Talk Shows & Podcasts"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiIxZGRlNWQ1Zi03MjU3LTQ2ZTItOTMwZi1jZWIxYWVjZmVkNDciLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjozMX0=",
+      "start_time": "2023-08-02T18:00:00Z",
+      "end_time": "2023-08-02T19:30:00Z",
+      "title": "📺 GROS REACT SURPRISE",
+      "canceled_until": null,
+      "category": {
+        "id": "509658",
+        "name": "Just Chatting"
       },
       "is_recurring": true
     }

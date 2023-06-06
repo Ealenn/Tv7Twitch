@@ -13,18 +13,6 @@
   },
   "schedulers": [
     {
-      "id": "eyJzZWdtZW50SUQiOiIxN2YwNjdmZC0wNzZhLTRmOTAtYjhjMy0zOGMxNDcwZGFmMDciLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjoyM30=",
-      "start_time": "2023-06-05T09:00:00Z",
-      "end_time": "2023-06-05T16:00:00Z",
-      "title": "Culture & Plaisir ",
-      "canceled_until": null,
-      "category": {
-        "id": "338715930",
-        "name": "Maitre des Fleurs"
-      },
-      "is_recurring": true
-    },
-    {
       "id": "eyJzZWdtZW50SUQiOiJiY2Q5OGExNy0wYzc3LTRkYjQtYmRiMS0wMDk1ZDJlM2ViMDUiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjoyM30=",
       "start_time": "2023-06-06T09:00:00Z",
       "end_time": "2023-06-06T12:00:00Z",
@@ -61,14 +49,26 @@
       "is_recurring": true
     },
     {
+      "id": "eyJzZWdtZW50SUQiOiI0MGQyMWQ4MS0yNWJiLTQ3M2UtOGJkYy0wMzNmNGRkZDVkMDAiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjoyM30=",
+      "start_time": "2023-06-07T19:30:00Z",
+      "end_time": "2023-06-07T22:00:00Z",
+      "title": "Xariathlon en équipe avec Ultia",
+      "canceled_until": null,
+      "category": {
+        "id": "509663",
+        "name": "Special Events"
+      },
+      "is_recurring": true
+    },
+    {
       "id": "eyJzZWdtZW50SUQiOiJjYjhlNTkzZC05OWY4LTQyYjktOWVhYS1kYzc2MjNhZDk0MzEiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjoyM30=",
       "start_time": "2023-06-08T09:00:00Z",
       "end_time": "2023-06-08T12:00:00Z",
-      "title": "Le p’tit Speedrun Any% du plaisir",
+      "title": "Le retour d'Isaac !",
       "canceled_until": null,
       "category": {
-        "id": "493997",
-        "name": "Super Mario Odyssey"
+        "id": "1414860634",
+        "name": "The Binding of Isaac: Repentance"
       },
       "is_recurring": true
     },
@@ -145,14 +145,26 @@
       "is_recurring": true
     },
     {
+      "id": "eyJzZWdtZW50SUQiOiI0MGQyMWQ4MS0yNWJiLTQ3M2UtOGJkYy0wMzNmNGRkZDVkMDAiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjoyNH0=",
+      "start_time": "2023-06-14T19:30:00Z",
+      "end_time": "2023-06-14T22:00:00Z",
+      "title": "Xariathlon en équipe avec Ultia",
+      "canceled_until": null,
+      "category": {
+        "id": "509663",
+        "name": "Special Events"
+      },
+      "is_recurring": true
+    },
+    {
       "id": "eyJzZWdtZW50SUQiOiJjYjhlNTkzZC05OWY4LTQyYjktOWVhYS1kYzc2MjNhZDk0MzEiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjoyNH0=",
       "start_time": "2023-06-15T09:00:00Z",
       "end_time": "2023-06-15T12:00:00Z",
-      "title": "Le p’tit Speedrun Any% du plaisir",
+      "title": "Le retour d'Isaac !",
       "canceled_until": null,
       "category": {
-        "id": "493997",
-        "name": "Super Mario Odyssey"
+        "id": "1414860634",
+        "name": "The Binding of Isaac: Repentance"
       },
       "is_recurring": true
     },
@@ -229,26 +241,14 @@
       "is_recurring": true
     },
     {
-      "id": "eyJzZWdtZW50SUQiOiJjYjhlNTkzZC05OWY4LTQyYjktOWVhYS1kYzc2MjNhZDk0MzEiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjoyNX0=",
-      "start_time": "2023-06-22T09:00:00Z",
-      "end_time": "2023-06-22T12:00:00Z",
-      "title": "Le p’tit Speedrun Any% du plaisir",
+      "id": "eyJzZWdtZW50SUQiOiI0MGQyMWQ4MS0yNWJiLTQ3M2UtOGJkYy0wMzNmNGRkZDVkMDAiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjoyNX0=",
+      "start_time": "2023-06-21T19:30:00Z",
+      "end_time": "2023-06-21T22:00:00Z",
+      "title": "Xariathlon en équipe avec Ultia",
       "canceled_until": null,
       "category": {
-        "id": "493997",
-        "name": "Super Mario Odyssey"
-      },
-      "is_recurring": true
-    },
-    {
-      "id": "eyJzZWdtZW50SUQiOiIzZGM5N2M4ZS03ODBkLTRkMGUtOTVkYy1mMjM2OWExNTE2ZmEiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjoyNX0=",
-      "start_time": "2023-06-22T12:00:00Z",
-      "end_time": "2023-06-22T18:00:00Z",
-      "title": "On teste les maps d'Ascension !",
-      "canceled_until": null,
-      "category": {
-        "id": "687129551",
-        "name": "Trackmania"
+        "id": "509663",
+        "name": "Special Events"
       },
       "is_recurring": true
     }
