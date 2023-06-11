@@ -13,42 +13,6 @@
   },
   "schedulers": [
     {
-      "id": "eyJzZWdtZW50SUQiOiJhZTI4YjhmNS0zNGFiLTQ1YWQtOWYxMS0xMDllMGNlNDRkYjQiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjoyM30=",
-      "start_time": "2023-06-10T15:00:00Z",
-      "end_time": "2023-06-10T16:00:00Z",
-      "title": "Future of Play Direct (Conférence)",
-      "canceled_until": null,
-      "category": {
-        "id": "509663",
-        "name": "Special Events"
-      },
-      "is_recurring": false
-    },
-    {
-      "id": "eyJzZWdtZW50SUQiOiI1YWNjN2EyYS1mMmIyLTQ2NGQtOWFlNS1hODNiYWU3NzdiNWMiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjoyM30=",
-      "start_time": "2023-06-10T16:00:00Z",
-      "end_time": "2023-06-10T17:00:00Z",
-      "title": "Wholesome Direct (Conférence)",
-      "canceled_until": null,
-      "category": {
-        "id": "509663",
-        "name": "Special Events"
-      },
-      "is_recurring": false
-    },
-    {
-      "id": "eyJzZWdtZW50SUQiOiJjMDYzMTI4MC05YTVjLTQ2YTgtYTE5MS0zMzdlNWMxMGJmYmQiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjoyM30=",
-      "start_time": "2023-06-10T17:00:00Z",
-      "end_time": "2023-06-10T18:00:00Z",
-      "title": "Future Game Show (Conférence)",
-      "canceled_until": null,
-      "category": {
-        "id": "509663",
-        "name": "Special Events"
-      },
-      "is_recurring": false
-    },
-    {
       "id": "eyJzZWdtZW50SUQiOiI2NzRmNzA4Yy0zYmI2LTRhZTgtOTAzYS01NDUxZjBiNWQxNWYiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjoyM30=",
       "start_time": "2023-06-11T17:00:00Z",
       "end_time": "2023-06-11T19:00:00Z",
@@ -244,6 +208,42 @@
       "id": "eyJzZWdtZW50SUQiOiI5ODkyMzQwZi03MWI3LTQyNTYtYWU3OS1iMzljZTE3YzJkZGQiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjozNn0=",
       "start_time": "2023-09-06T16:00:00Z",
       "end_time": "2023-09-06T18:00:00Z",
+      "title": " Debrief' de l'actualité jeu vidéo de la semaine avec vous ☕",
+      "canceled_until": null,
+      "category": {
+        "id": "509658",
+        "name": "Just Chatting"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiI5ODkyMzQwZi03MWI3LTQyNTYtYWU3OS1iMzljZTE3YzJkZGQiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjozN30=",
+      "start_time": "2023-09-13T16:00:00Z",
+      "end_time": "2023-09-13T18:00:00Z",
+      "title": " Debrief' de l'actualité jeu vidéo de la semaine avec vous ☕",
+      "canceled_until": null,
+      "category": {
+        "id": "509658",
+        "name": "Just Chatting"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiI5ODkyMzQwZi03MWI3LTQyNTYtYWU3OS1iMzljZTE3YzJkZGQiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjozOH0=",
+      "start_time": "2023-09-20T16:00:00Z",
+      "end_time": "2023-09-20T18:00:00Z",
+      "title": " Debrief' de l'actualité jeu vidéo de la semaine avec vous ☕",
+      "canceled_until": null,
+      "category": {
+        "id": "509658",
+        "name": "Just Chatting"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiI5ODkyMzQwZi03MWI3LTQyNTYtYWU3OS1iMzljZTE3YzJkZGQiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjozOX0=",
+      "start_time": "2023-09-27T16:00:00Z",
+      "end_time": "2023-09-27T18:00:00Z",
       "title": " Debrief' de l'actualité jeu vidéo de la semaine avec vous ☕",
       "canceled_until": null,
       "category": {
