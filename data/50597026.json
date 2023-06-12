@@ -27,7 +27,7 @@
     {
       "id": "eyJzZWdtZW50SUQiOiJiY2Q5OGExNy0wYzc3LTRkYjQtYmRiMS0wMDk1ZDJlM2ViMDUiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjoyNH0=",
       "start_time": "2023-06-13T09:00:00Z",
-      "end_time": "2023-06-13T12:00:00Z",
+      "end_time": "2023-06-13T13:00:00Z",
       "title": "Le p’tit Speedrun Any% du plaisir ",
       "canceled_until": null,
       "category": {
@@ -37,14 +37,14 @@
       "is_recurring": true
     },
     {
-      "id": "eyJzZWdtZW50SUQiOiJmMTA0MWMzMi02ZWFlLTRjMjMtOGEzYy0zNThkOTMyNDMwMjEiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjoyNH0=",
-      "start_time": "2023-06-13T12:00:00Z",
+      "id": "eyJzZWdtZW50SUQiOiJjYjhlNTkzZC05OWY4LTQyYjktOWVhYS1kYzc2MjNhZDk0MzEiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjoyNH0=",
+      "start_time": "2023-06-13T13:00:00Z",
       "end_time": "2023-06-13T18:00:00Z",
-      "title": "On continue l’aventure WoW Hardcore avec Luuxia ",
+      "title": "On essaye de tuer Megasatan",
       "canceled_until": null,
       "category": {
-        "id": "18122",
-        "name": "World of Warcraft"
+        "id": "1414860634",
+        "name": "The Binding of Isaac: Repentance"
       },
       "is_recurring": true
     },
@@ -61,51 +61,24 @@
       "is_recurring": true
     },
     {
-      "id": "eyJzZWdtZW50SUQiOiI0MGQyMWQ4MS0yNWJiLTQ3M2UtOGJkYy0wMzNmNGRkZDVkMDAiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjoyNH0=",
-      "start_time": "2023-06-14T19:30:00Z",
-      "end_time": "2023-06-14T22:00:00Z",
-      "title": "Xariathlon en équipe avec Ultia",
-      "canceled_until": null,
-      "category": {
-        "id": "509663",
-        "name": "Special Events"
-      },
-      "is_recurring": true
-    },
-    {
-      "id": "eyJzZWdtZW50SUQiOiJjYjhlNTkzZC05OWY4LTQyYjktOWVhYS1kYzc2MjNhZDk0MzEiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjoyNH0=",
-      "start_time": "2023-06-15T09:00:00Z",
-      "end_time": "2023-06-15T12:00:00Z",
-      "title": "Le retour d'Isaac !",
-      "canceled_until": null,
-      "category": {
-        "id": "1414860634",
-        "name": "The Binding of Isaac: Repentance"
-      },
-      "is_recurring": true
-    },
-    {
       "id": "eyJzZWdtZW50SUQiOiIzZGM5N2M4ZS03ODBkLTRkMGUtOTVkYy1mMjM2OWExNTE2ZmEiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjoyNH0=",
-      "start_time": "2023-06-15T12:00:00Z",
-      "end_time": "2023-06-15T18:00:00Z",
-      "title": "On teste les maps d'Ascension !",
+      "start_time": "2023-06-15T09:00:00Z",
+      "end_time": "2023-06-15T16:00:00Z",
+      "title": "Découvrons le destin des familles Holt et Walker",
       "canceled_until": null,
       "category": {
-        "id": "687129551",
-        "name": "Trackmania"
+        "id": "518875",
+        "name": "As Dusk Falls"
       },
       "is_recurring": true
     },
     {
-      "id": "eyJzZWdtZW50SUQiOiI3MDA1Nzk3Yy0wMDc3LTRhMWEtYTgwNC1lMzhjZjBjM2VhMGYiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjoyNH0=",
-      "start_time": "2023-06-16T14:00:00Z",
-      "end_time": "2023-06-16T18:00:00Z",
-      "title": "Contest de skate en live sur la chaîne de KennyStream",
+      "id": "eyJzZWdtZW50SUQiOiJmNWI0MWQzNy0xNDVlLTRhY2EtODMzZS0wM2Q2YTQ5ODBkMWIiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjoyNH0=",
+      "start_time": "2023-06-16T09:00:00Z",
+      "end_time": "2023-06-16T15:30:00Z",
+      "title": "Vendredi multi avé les copains",
       "canceled_until": null,
-      "category": {
-        "id": "509663",
-        "name": "Special Events"
-      },
+      "category": null,
       "is_recurring": true
     },
     {
@@ -123,7 +96,7 @@
     {
       "id": "eyJzZWdtZW50SUQiOiJiY2Q5OGExNy0wYzc3LTRkYjQtYmRiMS0wMDk1ZDJlM2ViMDUiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjoyNX0=",
       "start_time": "2023-06-20T09:00:00Z",
-      "end_time": "2023-06-20T12:00:00Z",
+      "end_time": "2023-06-20T13:00:00Z",
       "title": "Le p’tit Speedrun Any% du plaisir ",
       "canceled_until": null,
       "category": {
@@ -133,14 +106,14 @@
       "is_recurring": true
     },
     {
-      "id": "eyJzZWdtZW50SUQiOiJmMTA0MWMzMi02ZWFlLTRjMjMtOGEzYy0zNThkOTMyNDMwMjEiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjoyNX0=",
-      "start_time": "2023-06-20T12:00:00Z",
+      "id": "eyJzZWdtZW50SUQiOiJjYjhlNTkzZC05OWY4LTQyYjktOWVhYS1kYzc2MjNhZDk0MzEiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjoyNX0=",
+      "start_time": "2023-06-20T13:00:00Z",
       "end_time": "2023-06-20T18:00:00Z",
-      "title": "On continue l’aventure WoW Hardcore avec Luuxia ",
+      "title": "On essaye de tuer Megasatan",
       "canceled_until": null,
       "category": {
-        "id": "18122",
-        "name": "World of Warcraft"
+        "id": "1414860634",
+        "name": "The Binding of Isaac: Repentance"
       },
       "is_recurring": true
     },
@@ -157,51 +130,24 @@
       "is_recurring": true
     },
     {
-      "id": "eyJzZWdtZW50SUQiOiI0MGQyMWQ4MS0yNWJiLTQ3M2UtOGJkYy0wMzNmNGRkZDVkMDAiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjoyNX0=",
-      "start_time": "2023-06-21T19:30:00Z",
-      "end_time": "2023-06-21T22:00:00Z",
-      "title": "Xariathlon en équipe avec Ultia",
-      "canceled_until": null,
-      "category": {
-        "id": "509663",
-        "name": "Special Events"
-      },
-      "is_recurring": true
-    },
-    {
-      "id": "eyJzZWdtZW50SUQiOiJjYjhlNTkzZC05OWY4LTQyYjktOWVhYS1kYzc2MjNhZDk0MzEiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjoyNX0=",
-      "start_time": "2023-06-22T09:00:00Z",
-      "end_time": "2023-06-22T12:00:00Z",
-      "title": "Le retour d'Isaac !",
-      "canceled_until": null,
-      "category": {
-        "id": "1414860634",
-        "name": "The Binding of Isaac: Repentance"
-      },
-      "is_recurring": true
-    },
-    {
       "id": "eyJzZWdtZW50SUQiOiIzZGM5N2M4ZS03ODBkLTRkMGUtOTVkYy1mMjM2OWExNTE2ZmEiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjoyNX0=",
-      "start_time": "2023-06-22T12:00:00Z",
-      "end_time": "2023-06-22T18:00:00Z",
-      "title": "On teste les maps d'Ascension !",
+      "start_time": "2023-06-22T09:00:00Z",
+      "end_time": "2023-06-22T16:00:00Z",
+      "title": "Découvrons le destin des familles Holt et Walker",
       "canceled_until": null,
       "category": {
-        "id": "687129551",
-        "name": "Trackmania"
+        "id": "518875",
+        "name": "As Dusk Falls"
       },
       "is_recurring": true
     },
     {
-      "id": "eyJzZWdtZW50SUQiOiI3MDA1Nzk3Yy0wMDc3LTRhMWEtYTgwNC1lMzhjZjBjM2VhMGYiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjoyNX0=",
-      "start_time": "2023-06-23T14:00:00Z",
-      "end_time": "2023-06-23T18:00:00Z",
-      "title": "Contest de skate en live sur la chaîne de KennyStream",
+      "id": "eyJzZWdtZW50SUQiOiJmNWI0MWQzNy0xNDVlLTRhY2EtODMzZS0wM2Q2YTQ5ODBkMWIiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjoyNX0=",
+      "start_time": "2023-06-23T09:00:00Z",
+      "end_time": "2023-06-23T15:30:00Z",
+      "title": "Vendredi multi avé les copains",
       "canceled_until": null,
-      "category": {
-        "id": "509663",
-        "name": "Special Events"
-      },
+      "category": null,
       "is_recurring": true
     },
     {
@@ -219,7 +165,7 @@
     {
       "id": "eyJzZWdtZW50SUQiOiJiY2Q5OGExNy0wYzc3LTRkYjQtYmRiMS0wMDk1ZDJlM2ViMDUiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjoyNn0=",
       "start_time": "2023-06-27T09:00:00Z",
-      "end_time": "2023-06-27T12:00:00Z",
+      "end_time": "2023-06-27T13:00:00Z",
       "title": "Le p’tit Speedrun Any% du plaisir ",
       "canceled_until": null,
       "category": {
@@ -229,14 +175,14 @@
       "is_recurring": true
     },
     {
-      "id": "eyJzZWdtZW50SUQiOiJmMTA0MWMzMi02ZWFlLTRjMjMtOGEzYy0zNThkOTMyNDMwMjEiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjoyNn0=",
-      "start_time": "2023-06-27T12:00:00Z",
+      "id": "eyJzZWdtZW50SUQiOiJjYjhlNTkzZC05OWY4LTQyYjktOWVhYS1kYzc2MjNhZDk0MzEiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjoyNn0=",
+      "start_time": "2023-06-27T13:00:00Z",
       "end_time": "2023-06-27T18:00:00Z",
-      "title": "On continue l’aventure WoW Hardcore avec Luuxia ",
+      "title": "On essaye de tuer Megasatan",
       "canceled_until": null,
       "category": {
-        "id": "18122",
-        "name": "World of Warcraft"
+        "id": "1414860634",
+        "name": "The Binding of Isaac: Repentance"
       },
       "is_recurring": true
     },
@@ -249,6 +195,51 @@
       "category": {
         "id": "512998",
         "name": "The Legend of Zelda: Tears of the Kingdom"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiIzZGM5N2M4ZS03ODBkLTRkMGUtOTVkYy1mMjM2OWExNTE2ZmEiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjoyNn0=",
+      "start_time": "2023-06-29T09:00:00Z",
+      "end_time": "2023-06-29T16:00:00Z",
+      "title": "Découvrons le destin des familles Holt et Walker",
+      "canceled_until": null,
+      "category": {
+        "id": "518875",
+        "name": "As Dusk Falls"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiJmNWI0MWQzNy0xNDVlLTRhY2EtODMzZS0wM2Q2YTQ5ODBkMWIiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjoyNn0=",
+      "start_time": "2023-06-30T09:00:00Z",
+      "end_time": "2023-06-30T15:30:00Z",
+      "title": "Vendredi multi avé les copains",
+      "canceled_until": null,
+      "category": null,
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiIxN2YwNjdmZC0wNzZhLTRmOTAtYjhjMy0zOGMxNDcwZGFmMDciLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjoyN30=",
+      "start_time": "2023-07-03T09:00:00Z",
+      "end_time": "2023-07-03T16:00:00Z",
+      "title": "Culture & Plaisir ",
+      "canceled_until": null,
+      "category": {
+        "id": "338715930",
+        "name": "Maitre des Fleurs"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiJiY2Q5OGExNy0wYzc3LTRkYjQtYmRiMS0wMDk1ZDJlM2ViMDUiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjoyN30=",
+      "start_time": "2023-07-04T09:00:00Z",
+      "end_time": "2023-07-04T13:00:00Z",
+      "title": "Le p’tit Speedrun Any% du plaisir ",
+      "canceled_until": null,
+      "category": {
+        "id": "493997",
+        "name": "Super Mario Odyssey"
       },
       "is_recurring": true
     }
