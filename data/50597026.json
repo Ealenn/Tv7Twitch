@@ -6,33 +6,33 @@
     "type": "",
     "broadcaster_type": "partner",
     "description": "On se tape des immenses barres.",
-    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/125bbc49-45d1-432c-92b3-f5aef1e7ab21-profile_image-300x300.png",
+    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/d4737061-8f00-49d9-a56f-fcb4a9230b3f-profile_image-300x300.png",
     "offline_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/62c1d623-37e8-4a86-9a1c-566e94479204-channel_offline_image-1920x1080.png",
     "view_count": 0,
     "created_at": "2013-10-24T19:04:45Z"
   },
   "schedulers": [
     {
-      "id": "eyJzZWdtZW50SUQiOiIxN2YwNjdmZC0wNzZhLTRmOTAtYjhjMy0zOGMxNDcwZGFmMDciLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjoyNH0=",
-      "start_time": "2023-06-12T09:00:00Z",
-      "end_time": "2023-06-12T16:00:00Z",
-      "title": "Culture & Plaisir ",
-      "canceled_until": null,
-      "category": {
-        "id": "338715930",
-        "name": "Maitre des Fleurs"
-      },
-      "is_recurring": true
-    },
-    {
       "id": "eyJzZWdtZW50SUQiOiJiY2Q5OGExNy0wYzc3LTRkYjQtYmRiMS0wMDk1ZDJlM2ViMDUiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjoyNH0=",
       "start_time": "2023-06-13T09:00:00Z",
-      "end_time": "2023-06-13T13:00:00Z",
+      "end_time": "2023-06-13T12:00:00Z",
       "title": "Le p’tit Speedrun Any% du plaisir ",
       "canceled_until": null,
       "category": {
         "id": "493997",
         "name": "Super Mario Odyssey"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiI1MzgwNzU3Mi01NGI0LTRkOWUtOGJmNS1mZGM2YzY0OGNiMDQiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjoyNH0=",
+      "start_time": "2023-06-13T12:00:00Z",
+      "end_time": "2023-06-13T13:00:00Z",
+      "title": "Adieu Amer et Tume",
+      "canceled_until": null,
+      "category": {
+        "id": "18122",
+        "name": "World of Warcraft"
       },
       "is_recurring": true
     },
@@ -96,12 +96,24 @@
     {
       "id": "eyJzZWdtZW50SUQiOiJiY2Q5OGExNy0wYzc3LTRkYjQtYmRiMS0wMDk1ZDJlM2ViMDUiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjoyNX0=",
       "start_time": "2023-06-20T09:00:00Z",
-      "end_time": "2023-06-20T13:00:00Z",
+      "end_time": "2023-06-20T12:00:00Z",
       "title": "Le p’tit Speedrun Any% du plaisir ",
       "canceled_until": null,
       "category": {
         "id": "493997",
         "name": "Super Mario Odyssey"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiI1MzgwNzU3Mi01NGI0LTRkOWUtOGJmNS1mZGM2YzY0OGNiMDQiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjoyNX0=",
+      "start_time": "2023-06-20T12:00:00Z",
+      "end_time": "2023-06-20T13:00:00Z",
+      "title": "Adieu Amer et Tume",
+      "canceled_until": null,
+      "category": {
+        "id": "18122",
+        "name": "World of Warcraft"
       },
       "is_recurring": true
     },
@@ -165,12 +177,24 @@
     {
       "id": "eyJzZWdtZW50SUQiOiJiY2Q5OGExNy0wYzc3LTRkYjQtYmRiMS0wMDk1ZDJlM2ViMDUiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjoyNn0=",
       "start_time": "2023-06-27T09:00:00Z",
-      "end_time": "2023-06-27T13:00:00Z",
+      "end_time": "2023-06-27T12:00:00Z",
       "title": "Le p’tit Speedrun Any% du plaisir ",
       "canceled_until": null,
       "category": {
         "id": "493997",
         "name": "Super Mario Odyssey"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiI1MzgwNzU3Mi01NGI0LTRkOWUtOGJmNS1mZGM2YzY0OGNiMDQiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjoyNn0=",
+      "start_time": "2023-06-27T12:00:00Z",
+      "end_time": "2023-06-27T13:00:00Z",
+      "title": "Adieu Amer et Tume",
+      "canceled_until": null,
+      "category": {
+        "id": "18122",
+        "name": "World of Warcraft"
       },
       "is_recurring": true
     },
@@ -217,30 +241,6 @@
       "title": "Vendredi multi avé les copains",
       "canceled_until": null,
       "category": null,
-      "is_recurring": true
-    },
-    {
-      "id": "eyJzZWdtZW50SUQiOiIxN2YwNjdmZC0wNzZhLTRmOTAtYjhjMy0zOGMxNDcwZGFmMDciLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjoyN30=",
-      "start_time": "2023-07-03T09:00:00Z",
-      "end_time": "2023-07-03T16:00:00Z",
-      "title": "Culture & Plaisir ",
-      "canceled_until": null,
-      "category": {
-        "id": "338715930",
-        "name": "Maitre des Fleurs"
-      },
-      "is_recurring": true
-    },
-    {
-      "id": "eyJzZWdtZW50SUQiOiJiY2Q5OGExNy0wYzc3LTRkYjQtYmRiMS0wMDk1ZDJlM2ViMDUiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjoyN30=",
-      "start_time": "2023-07-04T09:00:00Z",
-      "end_time": "2023-07-04T13:00:00Z",
-      "title": "Le p’tit Speedrun Any% du plaisir ",
-      "canceled_until": null,
-      "category": {
-        "id": "493997",
-        "name": "Super Mario Odyssey"
-      },
       "is_recurring": true
     }
   ]
