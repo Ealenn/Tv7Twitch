@@ -13,30 +13,6 @@
   },
   "schedulers": [
     {
-      "id": "eyJzZWdtZW50SUQiOiJmMGMxNjJlOC1lZDYwLTRjN2EtYmY4Mi0wYjg3Yzc5NTc2MmUiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjoyNH0=",
-      "start_time": "2023-06-14T12:00:00Z",
-      "end_time": "2023-06-14T13:00:00Z",
-      "title": "🎙 PRÉ-LIVE ",
-      "canceled_until": null,
-      "category": {
-        "id": "509658",
-        "name": "Just Chatting"
-      },
-      "is_recurring": false
-    },
-    {
-      "id": "eyJzZWdtZW50SUQiOiI3NDMxOWJjMi1jZTg5LTQ3MDUtOWJiOC05NjVkODM2N2UwYzMiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjoyNH0=",
-      "start_time": "2023-06-14T13:00:00Z",
-      "end_time": "2023-06-14T17:00:00Z",
-      "title": "STREAM LIBRE",
-      "canceled_until": null,
-      "category": {
-        "id": "509658",
-        "name": "Just Chatting"
-      },
-      "is_recurring": false
-    },
-    {
       "id": "eyJzZWdtZW50SUQiOiI5NWVjNDhhMy03YjhmLTQ1NjYtYTVmMS00ZGZlYjJhN2IyNTYiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjoyNH0=",
       "start_time": "2023-06-15T18:00:00Z",
       "end_time": null,
@@ -244,6 +220,30 @@
       "id": "eyJzZWdtZW50SUQiOiIxZWJiZmNlZS1iMjJiLTQxZGYtOGFmZC1lZjJjM2Q5MWQ0OGYiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjozOX0=",
       "start_time": "2023-09-26T18:00:00Z",
       "end_time": "2023-09-26T20:30:00Z",
+      "title": "🍿 POPCORN AVEC AVA, ETOILES & ZACK NANI",
+      "canceled_until": null,
+      "category": {
+        "id": "417752",
+        "name": "Talk Shows & Podcasts"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiIxZWJiZmNlZS1iMjJiLTQxZGYtOGFmZC1lZjJjM2Q5MWQ0OGYiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjo0MH0=",
+      "start_time": "2023-10-03T18:00:00Z",
+      "end_time": "2023-10-03T20:30:00Z",
+      "title": "🍿 POPCORN AVEC AVA, ETOILES & ZACK NANI",
+      "canceled_until": null,
+      "category": {
+        "id": "417752",
+        "name": "Talk Shows & Podcasts"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiIxZWJiZmNlZS1iMjJiLTQxZGYtOGFmZC1lZjJjM2Q5MWQ0OGYiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjo0MX0=",
+      "start_time": "2023-10-10T18:00:00Z",
+      "end_time": "2023-10-10T20:30:00Z",
       "title": "🍿 POPCORN AVEC AVA, ETOILES & ZACK NANI",
       "canceled_until": null,
       "category": {
