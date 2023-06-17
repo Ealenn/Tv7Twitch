@@ -7,35 +7,11 @@
     "broadcaster_type": "partner",
     "description": "",
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/3cdae7df-600c-4833-8dfe-8d2abc5a3b25-profile_image-300x300.png",
-    "offline_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/e3ff1dbf-e34b-4134-a49d-608a5f64fc38-channel_offline_image-1920x1080.png",
+    "offline_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/54e4c802-cc9b-4476-acd6-4ad5de375606-channel_offline_image-1920x1080.png",
     "view_count": 0,
     "created_at": "2013-02-05T19:20:22Z"
   },
   "schedulers": [
-    {
-      "id": "eyJzZWdtZW50SUQiOiI0ZjhhM2RkOC03MWI3LTRmNjItOWNiMC0yYmVkMjBhY2I0NGYiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjoyNH0=",
-      "start_time": "2023-06-16T12:00:00Z",
-      "end_time": "2023-06-16T13:00:00Z",
-      "title": "🎙 PRÉ-LIVE ",
-      "canceled_until": null,
-      "category": {
-        "id": "509658",
-        "name": "Just Chatting"
-      },
-      "is_recurring": false
-    },
-    {
-      "id": "eyJzZWdtZW50SUQiOiIwYTllYzhlNS02NGQ5LTRlMDgtODc4NS0yMzY3NTQ1NWI0ZDMiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjoyNH0=",
-      "start_time": "2023-06-16T13:00:00Z",
-      "end_time": "2023-06-16T17:00:00Z",
-      "title": "STREAM LIBRE",
-      "canceled_until": null,
-      "category": {
-        "id": "509658",
-        "name": "Just Chatting"
-      },
-      "is_recurring": false
-    },
     {
       "id": "eyJzZWdtZW50SUQiOiIxZWJiZmNlZS1iMjJiLTQxZGYtOGFmZC1lZjJjM2Q5MWQ0OGYiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjoyNX0=",
       "start_time": "2023-06-20T18:00:00Z",
@@ -244,6 +220,30 @@
       "id": "eyJzZWdtZW50SUQiOiIxZWJiZmNlZS1iMjJiLTQxZGYtOGFmZC1lZjJjM2Q5MWQ0OGYiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjo0Mn0=",
       "start_time": "2023-10-17T18:00:00Z",
       "end_time": "2023-10-17T20:30:00Z",
+      "title": "🍿 POPCORN AVEC AVA, ETOILES & ZACK NANI",
+      "canceled_until": null,
+      "category": {
+        "id": "417752",
+        "name": "Talk Shows & Podcasts"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiIxZWJiZmNlZS1iMjJiLTQxZGYtOGFmZC1lZjJjM2Q5MWQ0OGYiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjo0M30=",
+      "start_time": "2023-10-24T18:00:00Z",
+      "end_time": "2023-10-24T20:30:00Z",
+      "title": "🍿 POPCORN AVEC AVA, ETOILES & ZACK NANI",
+      "canceled_until": null,
+      "category": {
+        "id": "417752",
+        "name": "Talk Shows & Podcasts"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiIxZWJiZmNlZS1iMjJiLTQxZGYtOGFmZC1lZjJjM2Q5MWQ0OGYiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjo0NH0=",
+      "start_time": "2023-10-31T19:00:00Z",
+      "end_time": "2023-10-31T21:30:00Z",
       "title": "🍿 POPCORN AVEC AVA, ETOILES & ZACK NANI",
       "canceled_until": null,
       "category": {
