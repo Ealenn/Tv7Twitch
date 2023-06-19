@@ -37,33 +37,21 @@
       "is_recurring": true
     },
     {
-      "id": "eyJzZWdtZW50SUQiOiI1MzgwNzU3Mi01NGI0LTRkOWUtOGJmNS1mZGM2YzY0OGNiMDQiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjoyNX0=",
+      "id": "eyJzZWdtZW50SUQiOiI0MjA3MGFlYi1iMTVlLTQ1ODYtOTIyMS04NTVjZmI0NjAwYWIiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjoyNX0=",
       "start_time": "2023-06-20T12:00:00Z",
-      "end_time": "2023-06-20T13:00:00Z",
-      "title": "Adieu Amer et Tume",
+      "end_time": "2023-06-20T16:00:00Z",
+      "title": "On écoute vos sonc avec Léo et JB",
       "canceled_until": null,
       "category": {
-        "id": "18122",
-        "name": "World of Warcraft"
-      },
-      "is_recurring": true
-    },
-    {
-      "id": "eyJzZWdtZW50SUQiOiJjYjhlNTkzZC05OWY4LTQyYjktOWVhYS1kYzc2MjNhZDk0MzEiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjoyNX0=",
-      "start_time": "2023-06-20T13:00:00Z",
-      "end_time": "2023-06-20T18:00:00Z",
-      "title": "On essaye de tuer Megasatan",
-      "canceled_until": null,
-      "category": {
-        "id": "1414860634",
-        "name": "The Binding of Isaac: Repentance"
+        "id": "26936",
+        "name": "Music"
       },
       "is_recurring": true
     },
     {
       "id": "eyJzZWdtZW50SUQiOiJhNzgyZmE1ZS05NGY2LTQ1YjQtYmM1MC00NWIwYzgzZmM3MjMiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjoyNX0=",
       "start_time": "2023-06-21T09:00:00Z",
-      "end_time": "2023-06-21T18:00:00Z",
+      "end_time": "2023-06-21T17:00:00Z",
       "title": "Slowrun 100% chill et balade sur Zelda TOTK",
       "canceled_until": null,
       "category": {
@@ -73,24 +61,27 @@
       "is_recurring": true
     },
     {
-      "id": "eyJzZWdtZW50SUQiOiIzZGM5N2M4ZS03ODBkLTRkMGUtOTVkYy1mMjM2OWExNTE2ZmEiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjoyNX0=",
-      "start_time": "2023-06-22T09:00:00Z",
-      "end_time": "2023-06-22T16:00:00Z",
-      "title": "Découvrons le destin des familles Holt et Walker",
+      "id": "eyJzZWdtZW50SUQiOiJjYjhlNTkzZC05OWY4LTQyYjktOWVhYS1kYzc2MjNhZDk0MzEiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjoyNX0=",
+      "start_time": "2023-06-22T12:00:00Z",
+      "end_time": "2023-06-22T17:00:00Z",
+      "title": "On essaye de tuer Megasatan",
       "canceled_until": null,
       "category": {
-        "id": "518875",
-        "name": "As Dusk Falls"
+        "id": "1414860634",
+        "name": "The Binding of Isaac: Repentance"
       },
       "is_recurring": true
     },
     {
       "id": "eyJzZWdtZW50SUQiOiJmNWI0MWQzNy0xNDVlLTRhY2EtODMzZS0wM2Q2YTQ5ODBkMWIiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjoyNX0=",
       "start_time": "2023-06-23T09:00:00Z",
-      "end_time": "2023-06-23T15:30:00Z",
-      "title": "Vendredi multi avé les copains",
+      "end_time": "2023-06-23T15:00:00Z",
+      "title": "On va se battre contre des insectes avec Riv et Ultia ",
       "canceled_until": null,
-      "category": null,
+      "category": {
+        "id": "516086",
+        "name": "Grounded"
+      },
       "is_recurring": true
     },
     {
@@ -118,33 +109,21 @@
       "is_recurring": true
     },
     {
-      "id": "eyJzZWdtZW50SUQiOiI1MzgwNzU3Mi01NGI0LTRkOWUtOGJmNS1mZGM2YzY0OGNiMDQiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjoyNn0=",
+      "id": "eyJzZWdtZW50SUQiOiI0MjA3MGFlYi1iMTVlLTQ1ODYtOTIyMS04NTVjZmI0NjAwYWIiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjoyNn0=",
       "start_time": "2023-06-27T12:00:00Z",
-      "end_time": "2023-06-27T13:00:00Z",
-      "title": "Adieu Amer et Tume",
+      "end_time": "2023-06-27T16:00:00Z",
+      "title": "On écoute vos sonc avec Léo et JB",
       "canceled_until": null,
       "category": {
-        "id": "18122",
-        "name": "World of Warcraft"
-      },
-      "is_recurring": true
-    },
-    {
-      "id": "eyJzZWdtZW50SUQiOiJjYjhlNTkzZC05OWY4LTQyYjktOWVhYS1kYzc2MjNhZDk0MzEiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjoyNn0=",
-      "start_time": "2023-06-27T13:00:00Z",
-      "end_time": "2023-06-27T18:00:00Z",
-      "title": "On essaye de tuer Megasatan",
-      "canceled_until": null,
-      "category": {
-        "id": "1414860634",
-        "name": "The Binding of Isaac: Repentance"
+        "id": "26936",
+        "name": "Music"
       },
       "is_recurring": true
     },
     {
       "id": "eyJzZWdtZW50SUQiOiJhNzgyZmE1ZS05NGY2LTQ1YjQtYmM1MC00NWIwYzgzZmM3MjMiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjoyNn0=",
       "start_time": "2023-06-28T09:00:00Z",
-      "end_time": "2023-06-28T18:00:00Z",
+      "end_time": "2023-06-28T17:00:00Z",
       "title": "Slowrun 100% chill et balade sur Zelda TOTK",
       "canceled_until": null,
       "category": {
@@ -154,24 +133,27 @@
       "is_recurring": true
     },
     {
-      "id": "eyJzZWdtZW50SUQiOiIzZGM5N2M4ZS03ODBkLTRkMGUtOTVkYy1mMjM2OWExNTE2ZmEiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjoyNn0=",
-      "start_time": "2023-06-29T09:00:00Z",
-      "end_time": "2023-06-29T16:00:00Z",
-      "title": "Découvrons le destin des familles Holt et Walker",
+      "id": "eyJzZWdtZW50SUQiOiJjYjhlNTkzZC05OWY4LTQyYjktOWVhYS1kYzc2MjNhZDk0MzEiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjoyNn0=",
+      "start_time": "2023-06-29T12:00:00Z",
+      "end_time": "2023-06-29T17:00:00Z",
+      "title": "On essaye de tuer Megasatan",
       "canceled_until": null,
       "category": {
-        "id": "518875",
-        "name": "As Dusk Falls"
+        "id": "1414860634",
+        "name": "The Binding of Isaac: Repentance"
       },
       "is_recurring": true
     },
     {
       "id": "eyJzZWdtZW50SUQiOiJmNWI0MWQzNy0xNDVlLTRhY2EtODMzZS0wM2Q2YTQ5ODBkMWIiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjoyNn0=",
       "start_time": "2023-06-30T09:00:00Z",
-      "end_time": "2023-06-30T15:30:00Z",
-      "title": "Vendredi multi avé les copains",
+      "end_time": "2023-06-30T15:00:00Z",
+      "title": "On va se battre contre des insectes avec Riv et Ultia ",
       "canceled_until": null,
-      "category": null,
+      "category": {
+        "id": "516086",
+        "name": "Grounded"
+      },
       "is_recurring": true
     },
     {
@@ -199,33 +181,21 @@
       "is_recurring": true
     },
     {
-      "id": "eyJzZWdtZW50SUQiOiI1MzgwNzU3Mi01NGI0LTRkOWUtOGJmNS1mZGM2YzY0OGNiMDQiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjoyN30=",
+      "id": "eyJzZWdtZW50SUQiOiI0MjA3MGFlYi1iMTVlLTQ1ODYtOTIyMS04NTVjZmI0NjAwYWIiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjoyN30=",
       "start_time": "2023-07-04T12:00:00Z",
-      "end_time": "2023-07-04T13:00:00Z",
-      "title": "Adieu Amer et Tume",
+      "end_time": "2023-07-04T16:00:00Z",
+      "title": "On écoute vos sonc avec Léo et JB",
       "canceled_until": null,
       "category": {
-        "id": "18122",
-        "name": "World of Warcraft"
-      },
-      "is_recurring": true
-    },
-    {
-      "id": "eyJzZWdtZW50SUQiOiJjYjhlNTkzZC05OWY4LTQyYjktOWVhYS1kYzc2MjNhZDk0MzEiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjoyN30=",
-      "start_time": "2023-07-04T13:00:00Z",
-      "end_time": "2023-07-04T18:00:00Z",
-      "title": "On essaye de tuer Megasatan",
-      "canceled_until": null,
-      "category": {
-        "id": "1414860634",
-        "name": "The Binding of Isaac: Repentance"
+        "id": "26936",
+        "name": "Music"
       },
       "is_recurring": true
     },
     {
       "id": "eyJzZWdtZW50SUQiOiJhNzgyZmE1ZS05NGY2LTQ1YjQtYmM1MC00NWIwYzgzZmM3MjMiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjoyN30=",
       "start_time": "2023-07-05T09:00:00Z",
-      "end_time": "2023-07-05T18:00:00Z",
+      "end_time": "2023-07-05T17:00:00Z",
       "title": "Slowrun 100% chill et balade sur Zelda TOTK",
       "canceled_until": null,
       "category": {
@@ -235,14 +205,50 @@
       "is_recurring": true
     },
     {
-      "id": "eyJzZWdtZW50SUQiOiIzZGM5N2M4ZS03ODBkLTRkMGUtOTVkYy1mMjM2OWExNTE2ZmEiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjoyN30=",
-      "start_time": "2023-07-06T09:00:00Z",
-      "end_time": "2023-07-06T16:00:00Z",
-      "title": "Découvrons le destin des familles Holt et Walker",
+      "id": "eyJzZWdtZW50SUQiOiJjYjhlNTkzZC05OWY4LTQyYjktOWVhYS1kYzc2MjNhZDk0MzEiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjoyN30=",
+      "start_time": "2023-07-06T12:00:00Z",
+      "end_time": "2023-07-06T17:00:00Z",
+      "title": "On essaye de tuer Megasatan",
       "canceled_until": null,
       "category": {
-        "id": "518875",
-        "name": "As Dusk Falls"
+        "id": "1414860634",
+        "name": "The Binding of Isaac: Repentance"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiJmNWI0MWQzNy0xNDVlLTRhY2EtODMzZS0wM2Q2YTQ5ODBkMWIiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjoyN30=",
+      "start_time": "2023-07-07T09:00:00Z",
+      "end_time": "2023-07-07T15:00:00Z",
+      "title": "On va se battre contre des insectes avec Riv et Ultia ",
+      "canceled_until": null,
+      "category": {
+        "id": "516086",
+        "name": "Grounded"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiIxN2YwNjdmZC0wNzZhLTRmOTAtYjhjMy0zOGMxNDcwZGFmMDciLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjoyOH0=",
+      "start_time": "2023-07-10T09:00:00Z",
+      "end_time": "2023-07-10T16:00:00Z",
+      "title": "Culture & Plaisir ",
+      "canceled_until": null,
+      "category": {
+        "id": "338715930",
+        "name": "Maitre des Fleurs"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiJiY2Q5OGExNy0wYzc3LTRkYjQtYmRiMS0wMDk1ZDJlM2ViMDUiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjoyOH0=",
+      "start_time": "2023-07-11T09:00:00Z",
+      "end_time": "2023-07-11T12:00:00Z",
+      "title": "Le p’tit Speedrun Any% du plaisir ",
+      "canceled_until": null,
+      "category": {
+        "id": "493997",
+        "name": "Super Mario Odyssey"
       },
       "is_recurring": true
     }
