@@ -7,35 +7,11 @@
     "broadcaster_type": "partner",
     "description": "",
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/3cdae7df-600c-4833-8dfe-8d2abc5a3b25-profile_image-300x300.png",
-    "offline_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/f494f9dc-1011-4d0c-8beb-991fbf9bb757-channel_offline_image-1920x1080.png",
+    "offline_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/d8b63d28-ed72-425d-8106-1071682392a1-channel_offline_image-1920x1080.png",
     "view_count": 0,
     "created_at": "2013-02-05T19:20:22Z"
   },
   "schedulers": [
-    {
-      "id": "eyJzZWdtZW50SUQiOiJjNzYxNzc2Yy0xNTkyLTRlNTEtOGVlYy0wYmE2ZjhkN2QzMWQiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjoyNX0=",
-      "start_time": "2023-06-22T17:30:00Z",
-      "end_time": "2023-06-22T18:00:00Z",
-      "title": "🎙PRÉLIVE",
-      "canceled_until": null,
-      "category": {
-        "id": "509658",
-        "name": "Just Chatting"
-      },
-      "is_recurring": true
-    },
-    {
-      "id": "eyJzZWdtZW50SUQiOiJkNTljMTllNC04NWZhLTRmYmEtYmI3NC1hZjQ3NTQxOGU5ZDAiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjoyNX0=",
-      "start_time": "2023-06-22T18:00:00Z",
-      "end_time": "2023-06-22T22:00:00Z",
-      "title": "LIVE SURPRISE",
-      "canceled_until": null,
-      "category": {
-        "id": "509663",
-        "name": "Special Events"
-      },
-      "is_recurring": false
-    },
     {
       "id": "eyJzZWdtZW50SUQiOiIyZGZjMjU2MC03MTVlLTQ1OGMtODhjMi1lY2I3ZmIzZDUwOTkiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjoyNX0=",
       "start_time": "2023-06-23T12:00:00Z",
@@ -61,28 +37,16 @@
       "is_recurring": false
     },
     {
-      "id": "eyJzZWdtZW50SUQiOiIxZWJiZmNlZS1iMjJiLTQxZGYtOGFmZC1lZjJjM2Q5MWQ0OGYiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjoyNn0=",
-      "start_time": "2023-06-27T18:00:00Z",
-      "end_time": "2023-06-27T20:30:00Z",
-      "title": "🍿 POPCORN AVEC ALAIN CHABAT, POULPE, MV, THOMAS DESEUR & CONSTANCE VILANOVA",
+      "id": "eyJzZWdtZW50SUQiOiIxNzgzODM2My1jZmE3LTRjYjktYjI2Yi0xNjRjMmM2NDY2YTIiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjoyNX0=",
+      "start_time": "2023-06-24T17:00:00Z",
+      "end_time": "2023-06-24T19:30:00Z",
+      "title": "SOIRÉE GEOGUESSR",
       "canceled_until": null,
       "category": {
-        "id": "417752",
-        "name": "Talk Shows & Podcasts"
+        "id": "369418",
+        "name": "GeoGuessr"
       },
-      "is_recurring": true
-    },
-    {
-      "id": "eyJzZWdtZW50SUQiOiI4NzYzYzRlMC1hZjBkLTQ0N2EtOGY4OC1kODhmYTNlN2QzMWUiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjoyNn0=",
-      "start_time": "2023-06-28T12:30:00Z",
-      "end_time": "2023-06-28T13:00:00Z",
-      "title": "PRÉLIVE",
-      "canceled_until": null,
-      "category": {
-        "id": "509658",
-        "name": "Just Chatting"
-      },
-      "is_recurring": true
+      "is_recurring": false
     },
     {
       "id": "eyJzZWdtZW50SUQiOiJjNzYxNzc2Yy0xNTkyLTRlNTEtOGVlYy0wYmE2ZjhkN2QzMWQiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjoyNn0=",
@@ -101,30 +65,6 @@
       "start_time": "2023-06-30T12:00:00Z",
       "end_time": "2023-06-30T13:00:00Z",
       "title": "🎙PRÉLIVE",
-      "canceled_until": null,
-      "category": {
-        "id": "509658",
-        "name": "Just Chatting"
-      },
-      "is_recurring": true
-    },
-    {
-      "id": "eyJzZWdtZW50SUQiOiIxZWJiZmNlZS1iMjJiLTQxZGYtOGFmZC1lZjJjM2Q5MWQ0OGYiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjoyN30=",
-      "start_time": "2023-07-04T18:00:00Z",
-      "end_time": "2023-07-04T20:30:00Z",
-      "title": "🍿 POPCORN AVEC ALAIN CHABAT, POULPE, MV, THOMAS DESEUR & CONSTANCE VILANOVA",
-      "canceled_until": null,
-      "category": {
-        "id": "417752",
-        "name": "Talk Shows & Podcasts"
-      },
-      "is_recurring": true
-    },
-    {
-      "id": "eyJzZWdtZW50SUQiOiI4NzYzYzRlMC1hZjBkLTQ0N2EtOGY4OC1kODhmYTNlN2QzMWUiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjoyN30=",
-      "start_time": "2023-07-05T12:30:00Z",
-      "end_time": "2023-07-05T13:00:00Z",
-      "title": "PRÉLIVE",
       "canceled_until": null,
       "category": {
         "id": "509658",
@@ -157,30 +97,6 @@
       "is_recurring": true
     },
     {
-      "id": "eyJzZWdtZW50SUQiOiIxZWJiZmNlZS1iMjJiLTQxZGYtOGFmZC1lZjJjM2Q5MWQ0OGYiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjoyOH0=",
-      "start_time": "2023-07-11T18:00:00Z",
-      "end_time": "2023-07-11T20:30:00Z",
-      "title": "🍿 POPCORN AVEC ALAIN CHABAT, POULPE, MV, THOMAS DESEUR & CONSTANCE VILANOVA",
-      "canceled_until": null,
-      "category": {
-        "id": "417752",
-        "name": "Talk Shows & Podcasts"
-      },
-      "is_recurring": true
-    },
-    {
-      "id": "eyJzZWdtZW50SUQiOiI4NzYzYzRlMC1hZjBkLTQ0N2EtOGY4OC1kODhmYTNlN2QzMWUiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjoyOH0=",
-      "start_time": "2023-07-12T12:30:00Z",
-      "end_time": "2023-07-12T13:00:00Z",
-      "title": "PRÉLIVE",
-      "canceled_until": null,
-      "category": {
-        "id": "509658",
-        "name": "Just Chatting"
-      },
-      "is_recurring": true
-    },
-    {
       "id": "eyJzZWdtZW50SUQiOiJjNzYxNzc2Yy0xNTkyLTRlNTEtOGVlYy0wYmE2ZjhkN2QzMWQiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjoyOH0=",
       "start_time": "2023-07-13T17:30:00Z",
       "end_time": "2023-07-13T18:00:00Z",
@@ -205,30 +121,6 @@
       "is_recurring": true
     },
     {
-      "id": "eyJzZWdtZW50SUQiOiIxZWJiZmNlZS1iMjJiLTQxZGYtOGFmZC1lZjJjM2Q5MWQ0OGYiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjoyOX0=",
-      "start_time": "2023-07-18T18:00:00Z",
-      "end_time": "2023-07-18T20:30:00Z",
-      "title": "🍿 POPCORN AVEC ALAIN CHABAT, POULPE, MV, THOMAS DESEUR & CONSTANCE VILANOVA",
-      "canceled_until": null,
-      "category": {
-        "id": "417752",
-        "name": "Talk Shows & Podcasts"
-      },
-      "is_recurring": true
-    },
-    {
-      "id": "eyJzZWdtZW50SUQiOiI4NzYzYzRlMC1hZjBkLTQ0N2EtOGY4OC1kODhmYTNlN2QzMWUiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjoyOX0=",
-      "start_time": "2023-07-19T12:30:00Z",
-      "end_time": "2023-07-19T13:00:00Z",
-      "title": "PRÉLIVE",
-      "canceled_until": null,
-      "category": {
-        "id": "509658",
-        "name": "Just Chatting"
-      },
-      "is_recurring": true
-    },
-    {
       "id": "eyJzZWdtZW50SUQiOiJjNzYxNzc2Yy0xNTkyLTRlNTEtOGVlYy0wYmE2ZjhkN2QzMWQiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjoyOX0=",
       "start_time": "2023-07-20T17:30:00Z",
       "end_time": "2023-07-20T18:00:00Z",
@@ -244,6 +136,114 @@
       "id": "eyJzZWdtZW50SUQiOiIyZGZjMjU2MC03MTVlLTQ1OGMtODhjMi1lY2I3ZmIzZDUwOTkiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjoyOX0=",
       "start_time": "2023-07-21T12:00:00Z",
       "end_time": "2023-07-21T13:00:00Z",
+      "title": "🎙PRÉLIVE",
+      "canceled_until": null,
+      "category": {
+        "id": "509658",
+        "name": "Just Chatting"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiJjNzYxNzc2Yy0xNTkyLTRlNTEtOGVlYy0wYmE2ZjhkN2QzMWQiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjozMH0=",
+      "start_time": "2023-07-27T17:30:00Z",
+      "end_time": "2023-07-27T18:00:00Z",
+      "title": "🎙PRÉLIVE",
+      "canceled_until": null,
+      "category": {
+        "id": "509658",
+        "name": "Just Chatting"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiIyZGZjMjU2MC03MTVlLTQ1OGMtODhjMi1lY2I3ZmIzZDUwOTkiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjozMH0=",
+      "start_time": "2023-07-28T12:00:00Z",
+      "end_time": "2023-07-28T13:00:00Z",
+      "title": "🎙PRÉLIVE",
+      "canceled_until": null,
+      "category": {
+        "id": "509658",
+        "name": "Just Chatting"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiJjNzYxNzc2Yy0xNTkyLTRlNTEtOGVlYy0wYmE2ZjhkN2QzMWQiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjozMX0=",
+      "start_time": "2023-08-03T17:30:00Z",
+      "end_time": "2023-08-03T18:00:00Z",
+      "title": "🎙PRÉLIVE",
+      "canceled_until": null,
+      "category": {
+        "id": "509658",
+        "name": "Just Chatting"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiIyZGZjMjU2MC03MTVlLTQ1OGMtODhjMi1lY2I3ZmIzZDUwOTkiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjozMX0=",
+      "start_time": "2023-08-04T12:00:00Z",
+      "end_time": "2023-08-04T13:00:00Z",
+      "title": "🎙PRÉLIVE",
+      "canceled_until": null,
+      "category": {
+        "id": "509658",
+        "name": "Just Chatting"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiJjNzYxNzc2Yy0xNTkyLTRlNTEtOGVlYy0wYmE2ZjhkN2QzMWQiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjozMn0=",
+      "start_time": "2023-08-10T17:30:00Z",
+      "end_time": "2023-08-10T18:00:00Z",
+      "title": "🎙PRÉLIVE",
+      "canceled_until": null,
+      "category": {
+        "id": "509658",
+        "name": "Just Chatting"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiIyZGZjMjU2MC03MTVlLTQ1OGMtODhjMi1lY2I3ZmIzZDUwOTkiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjozMn0=",
+      "start_time": "2023-08-11T12:00:00Z",
+      "end_time": "2023-08-11T13:00:00Z",
+      "title": "🎙PRÉLIVE",
+      "canceled_until": null,
+      "category": {
+        "id": "509658",
+        "name": "Just Chatting"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiJjNzYxNzc2Yy0xNTkyLTRlNTEtOGVlYy0wYmE2ZjhkN2QzMWQiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjozM30=",
+      "start_time": "2023-08-17T17:30:00Z",
+      "end_time": "2023-08-17T18:00:00Z",
+      "title": "🎙PRÉLIVE",
+      "canceled_until": null,
+      "category": {
+        "id": "509658",
+        "name": "Just Chatting"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiIyZGZjMjU2MC03MTVlLTQ1OGMtODhjMi1lY2I3ZmIzZDUwOTkiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjozM30=",
+      "start_time": "2023-08-18T12:00:00Z",
+      "end_time": "2023-08-18T13:00:00Z",
+      "title": "🎙PRÉLIVE",
+      "canceled_until": null,
+      "category": {
+        "id": "509658",
+        "name": "Just Chatting"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiJjNzYxNzc2Yy0xNTkyLTRlNTEtOGVlYy0wYmE2ZjhkN2QzMWQiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjozNH0=",
+      "start_time": "2023-08-24T17:30:00Z",
+      "end_time": "2023-08-24T18:00:00Z",
       "title": "🎙PRÉLIVE",
       "canceled_until": null,
       "category": {
