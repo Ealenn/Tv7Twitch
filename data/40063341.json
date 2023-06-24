@@ -13,30 +13,6 @@
   },
   "schedulers": [
     {
-      "id": "eyJzZWdtZW50SUQiOiIyZGZjMjU2MC03MTVlLTQ1OGMtODhjMi1lY2I3ZmIzZDUwOTkiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjoyNX0=",
-      "start_time": "2023-06-23T12:00:00Z",
-      "end_time": "2023-06-23T13:00:00Z",
-      "title": "🎙PRÉLIVE",
-      "canceled_until": null,
-      "category": {
-        "id": "509658",
-        "name": "Just Chatting"
-      },
-      "is_recurring": true
-    },
-    {
-      "id": "eyJzZWdtZW50SUQiOiJiNTg5MzAzOS02ZTk3LTRjZTctOTdiZS0wODlmN2E4M2U1ZDgiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjoyNX0=",
-      "start_time": "2023-06-23T13:00:00Z",
-      "end_time": "2023-06-23T17:00:00Z",
-      "title": "STREAM LIBRE",
-      "canceled_until": null,
-      "category": {
-        "id": "509658",
-        "name": "Just Chatting"
-      },
-      "is_recurring": false
-    },
-    {
       "id": "eyJzZWdtZW50SUQiOiIxNzgzODM2My1jZmE3LTRjYjktYjI2Yi0xNjRjMmM2NDY2YTIiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjoyNX0=",
       "start_time": "2023-06-24T17:00:00Z",
       "end_time": "2023-06-24T19:30:00Z",
@@ -244,6 +220,30 @@
       "id": "eyJzZWdtZW50SUQiOiJjNzYxNzc2Yy0xNTkyLTRlNTEtOGVlYy0wYmE2ZjhkN2QzMWQiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjozNH0=",
       "start_time": "2023-08-24T17:30:00Z",
       "end_time": "2023-08-24T18:00:00Z",
+      "title": "🎙PRÉLIVE",
+      "canceled_until": null,
+      "category": {
+        "id": "509658",
+        "name": "Just Chatting"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiIyZGZjMjU2MC03MTVlLTQ1OGMtODhjMi1lY2I3ZmIzZDUwOTkiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjozNH0=",
+      "start_time": "2023-08-25T12:00:00Z",
+      "end_time": "2023-08-25T13:00:00Z",
+      "title": "🎙PRÉLIVE",
+      "canceled_until": null,
+      "category": {
+        "id": "509658",
+        "name": "Just Chatting"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiJjNzYxNzc2Yy0xNTkyLTRlNTEtOGVlYy0wYmE2ZjhkN2QzMWQiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjozNX0=",
+      "start_time": "2023-08-31T17:30:00Z",
+      "end_time": "2023-08-31T18:00:00Z",
       "title": "🎙PRÉLIVE",
       "canceled_until": null,
       "category": {
