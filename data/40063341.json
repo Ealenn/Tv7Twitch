@@ -13,18 +13,6 @@
   },
   "schedulers": [
     {
-      "id": "eyJzZWdtZW50SUQiOiIxNzgzODM2My1jZmE3LTRjYjktYjI2Yi0xNjRjMmM2NDY2YTIiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjoyNX0=",
-      "start_time": "2023-06-24T17:00:00Z",
-      "end_time": "2023-06-24T19:30:00Z",
-      "title": "SOIRÉE GEOGUESSR",
-      "canceled_until": null,
-      "category": {
-        "id": "369418",
-        "name": "GeoGuessr"
-      },
-      "is_recurring": false
-    },
-    {
       "id": "eyJzZWdtZW50SUQiOiJjNzYxNzc2Yy0xNTkyLTRlNTEtOGVlYy0wYmE2ZjhkN2QzMWQiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjoyNn0=",
       "start_time": "2023-06-29T17:30:00Z",
       "end_time": "2023-06-29T18:00:00Z",
@@ -244,6 +232,18 @@
       "id": "eyJzZWdtZW50SUQiOiJjNzYxNzc2Yy0xNTkyLTRlNTEtOGVlYy0wYmE2ZjhkN2QzMWQiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjozNX0=",
       "start_time": "2023-08-31T17:30:00Z",
       "end_time": "2023-08-31T18:00:00Z",
+      "title": "🎙PRÉLIVE",
+      "canceled_until": null,
+      "category": {
+        "id": "509658",
+        "name": "Just Chatting"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiIyZGZjMjU2MC03MTVlLTQ1OGMtODhjMi1lY2I3ZmIzZDUwOTkiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjozNX0=",
+      "start_time": "2023-09-01T12:00:00Z",
+      "end_time": "2023-09-01T13:00:00Z",
       "title": "🎙PRÉLIVE",
       "canceled_until": null,
       "category": {
