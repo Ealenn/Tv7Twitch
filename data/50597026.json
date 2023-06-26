@@ -25,33 +25,33 @@
       "is_recurring": true
     },
     {
-      "id": "eyJzZWdtZW50SUQiOiJiY2Q5OGExNy0wYzc3LTRkYjQtYmRiMS0wMDk1ZDJlM2ViMDUiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjoyNn0=",
-      "start_time": "2023-06-27T09:00:00Z",
-      "end_time": "2023-06-27T12:00:00Z",
-      "title": "Le p’tit Speedrun Any% du plaisir ",
+      "id": "eyJzZWdtZW50SUQiOiI5NTA3Mzg3Yy00NzQ3LTRmYzQtYTM1Ni1iOGRmMWNkMWVmNWUiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjoyNn0=",
+      "start_time": "2023-06-27T15:00:00Z",
+      "end_time": "2023-06-27T18:00:00Z",
+      "title": "On découvre la démo de Jusant",
       "canceled_until": null,
       "category": {
-        "id": "493997",
-        "name": "Super Mario Odyssey"
+        "id": "524807049",
+        "name": "Jusant"
       },
       "is_recurring": true
     },
     {
-      "id": "eyJzZWdtZW50SUQiOiI0MjA3MGFlYi1iMTVlLTQ1ODYtOTIyMS04NTVjZmI0NjAwYWIiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjoyNn0=",
-      "start_time": "2023-06-27T12:00:00Z",
-      "end_time": "2023-06-27T16:00:00Z",
-      "title": "On écoute vos sons avec Léo et JB",
+      "id": "eyJzZWdtZW50SUQiOiI5Yjc5Y2Q0MS03NGZmLTQxODEtODEyNC04ODMxNWFjMDU5NTAiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjoyNn0=",
+      "start_time": "2023-06-27T18:00:00Z",
+      "end_time": "2023-06-27T22:00:00Z",
+      "title": "On commence FFXVI !",
       "canceled_until": null,
       "category": {
-        "id": "26936",
-        "name": "Music"
+        "id": "2090279789",
+        "name": "FINAL FANTASY XVI"
       },
       "is_recurring": true
     },
     {
       "id": "eyJzZWdtZW50SUQiOiJhNzgyZmE1ZS05NGY2LTQ1YjQtYmM1MC00NWIwYzgzZmM3MjMiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjoyNn0=",
       "start_time": "2023-06-28T09:00:00Z",
-      "end_time": "2023-06-28T17:00:00Z",
+      "end_time": "2023-06-28T16:00:00Z",
       "title": "Slowrun 100% chill et balade sur Zelda TOTK",
       "canceled_until": null,
       "category": {
@@ -85,6 +85,18 @@
       "is_recurring": true
     },
     {
+      "id": "eyJzZWdtZW50SUQiOiJjYmJkZWQ5NS1mZTJiLTQ4NmItODQ0ZC1mYzU4MDI1ODRlZjYiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjoyNn0=",
+      "start_time": "2023-07-02T11:00:00Z",
+      "end_time": "2023-07-02T15:00:00Z",
+      "title": "Le tournoi du Dimanche !",
+      "canceled_until": null,
+      "category": {
+        "id": "941530474",
+        "name": "Mario Kart 8 Deluxe"
+      },
+      "is_recurring": true
+    },
+    {
       "id": "eyJzZWdtZW50SUQiOiIxN2YwNjdmZC0wNzZhLTRmOTAtYjhjMy0zOGMxNDcwZGFmMDciLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjoyN30=",
       "start_time": "2023-07-03T09:00:00Z",
       "end_time": "2023-07-03T16:00:00Z",
@@ -97,33 +109,33 @@
       "is_recurring": true
     },
     {
-      "id": "eyJzZWdtZW50SUQiOiJiY2Q5OGExNy0wYzc3LTRkYjQtYmRiMS0wMDk1ZDJlM2ViMDUiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjoyN30=",
-      "start_time": "2023-07-04T09:00:00Z",
-      "end_time": "2023-07-04T12:00:00Z",
-      "title": "Le p’tit Speedrun Any% du plaisir ",
+      "id": "eyJzZWdtZW50SUQiOiI5NTA3Mzg3Yy00NzQ3LTRmYzQtYTM1Ni1iOGRmMWNkMWVmNWUiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjoyN30=",
+      "start_time": "2023-07-04T15:00:00Z",
+      "end_time": "2023-07-04T18:00:00Z",
+      "title": "On découvre la démo de Jusant",
       "canceled_until": null,
       "category": {
-        "id": "493997",
-        "name": "Super Mario Odyssey"
+        "id": "524807049",
+        "name": "Jusant"
       },
       "is_recurring": true
     },
     {
-      "id": "eyJzZWdtZW50SUQiOiI0MjA3MGFlYi1iMTVlLTQ1ODYtOTIyMS04NTVjZmI0NjAwYWIiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjoyN30=",
-      "start_time": "2023-07-04T12:00:00Z",
-      "end_time": "2023-07-04T16:00:00Z",
-      "title": "On écoute vos sons avec Léo et JB",
+      "id": "eyJzZWdtZW50SUQiOiI5Yjc5Y2Q0MS03NGZmLTQxODEtODEyNC04ODMxNWFjMDU5NTAiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjoyN30=",
+      "start_time": "2023-07-04T18:00:00Z",
+      "end_time": "2023-07-04T22:00:00Z",
+      "title": "On commence FFXVI !",
       "canceled_until": null,
       "category": {
-        "id": "26936",
-        "name": "Music"
+        "id": "2090279789",
+        "name": "FINAL FANTASY XVI"
       },
       "is_recurring": true
     },
     {
       "id": "eyJzZWdtZW50SUQiOiJhNzgyZmE1ZS05NGY2LTQ1YjQtYmM1MC00NWIwYzgzZmM3MjMiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjoyN30=",
       "start_time": "2023-07-05T09:00:00Z",
-      "end_time": "2023-07-05T17:00:00Z",
+      "end_time": "2023-07-05T16:00:00Z",
       "title": "Slowrun 100% chill et balade sur Zelda TOTK",
       "canceled_until": null,
       "category": {
@@ -157,6 +169,18 @@
       "is_recurring": true
     },
     {
+      "id": "eyJzZWdtZW50SUQiOiJjYmJkZWQ5NS1mZTJiLTQ4NmItODQ0ZC1mYzU4MDI1ODRlZjYiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjoyN30=",
+      "start_time": "2023-07-09T11:00:00Z",
+      "end_time": "2023-07-09T15:00:00Z",
+      "title": "Le tournoi du Dimanche !",
+      "canceled_until": null,
+      "category": {
+        "id": "941530474",
+        "name": "Mario Kart 8 Deluxe"
+      },
+      "is_recurring": true
+    },
+    {
       "id": "eyJzZWdtZW50SUQiOiIxN2YwNjdmZC0wNzZhLTRmOTAtYjhjMy0zOGMxNDcwZGFmMDciLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjoyOH0=",
       "start_time": "2023-07-10T09:00:00Z",
       "end_time": "2023-07-10T16:00:00Z",
@@ -169,33 +193,33 @@
       "is_recurring": true
     },
     {
-      "id": "eyJzZWdtZW50SUQiOiJiY2Q5OGExNy0wYzc3LTRkYjQtYmRiMS0wMDk1ZDJlM2ViMDUiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjoyOH0=",
-      "start_time": "2023-07-11T09:00:00Z",
-      "end_time": "2023-07-11T12:00:00Z",
-      "title": "Le p’tit Speedrun Any% du plaisir ",
+      "id": "eyJzZWdtZW50SUQiOiI5NTA3Mzg3Yy00NzQ3LTRmYzQtYTM1Ni1iOGRmMWNkMWVmNWUiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjoyOH0=",
+      "start_time": "2023-07-11T15:00:00Z",
+      "end_time": "2023-07-11T18:00:00Z",
+      "title": "On découvre la démo de Jusant",
       "canceled_until": null,
       "category": {
-        "id": "493997",
-        "name": "Super Mario Odyssey"
+        "id": "524807049",
+        "name": "Jusant"
       },
       "is_recurring": true
     },
     {
-      "id": "eyJzZWdtZW50SUQiOiI0MjA3MGFlYi1iMTVlLTQ1ODYtOTIyMS04NTVjZmI0NjAwYWIiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjoyOH0=",
-      "start_time": "2023-07-11T12:00:00Z",
-      "end_time": "2023-07-11T16:00:00Z",
-      "title": "On écoute vos sons avec Léo et JB",
+      "id": "eyJzZWdtZW50SUQiOiI5Yjc5Y2Q0MS03NGZmLTQxODEtODEyNC04ODMxNWFjMDU5NTAiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjoyOH0=",
+      "start_time": "2023-07-11T18:00:00Z",
+      "end_time": "2023-07-11T22:00:00Z",
+      "title": "On commence FFXVI !",
       "canceled_until": null,
       "category": {
-        "id": "26936",
-        "name": "Music"
+        "id": "2090279789",
+        "name": "FINAL FANTASY XVI"
       },
       "is_recurring": true
     },
     {
       "id": "eyJzZWdtZW50SUQiOiJhNzgyZmE1ZS05NGY2LTQ1YjQtYmM1MC00NWIwYzgzZmM3MjMiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjoyOH0=",
       "start_time": "2023-07-12T09:00:00Z",
-      "end_time": "2023-07-12T17:00:00Z",
+      "end_time": "2023-07-12T16:00:00Z",
       "title": "Slowrun 100% chill et balade sur Zelda TOTK",
       "canceled_until": null,
       "category": {
@@ -225,30 +249,6 @@
       "category": {
         "id": "516086",
         "name": "Grounded"
-      },
-      "is_recurring": true
-    },
-    {
-      "id": "eyJzZWdtZW50SUQiOiIxN2YwNjdmZC0wNzZhLTRmOTAtYjhjMy0zOGMxNDcwZGFmMDciLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjoyOX0=",
-      "start_time": "2023-07-17T09:00:00Z",
-      "end_time": "2023-07-17T16:00:00Z",
-      "title": "Culture & Plaisir ",
-      "canceled_until": null,
-      "category": {
-        "id": "338715930",
-        "name": "Maitre des Fleurs"
-      },
-      "is_recurring": true
-    },
-    {
-      "id": "eyJzZWdtZW50SUQiOiJiY2Q5OGExNy0wYzc3LTRkYjQtYmRiMS0wMDk1ZDJlM2ViMDUiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjoyOX0=",
-      "start_time": "2023-07-18T09:00:00Z",
-      "end_time": "2023-07-18T12:00:00Z",
-      "title": "Le p’tit Speedrun Any% du plaisir ",
-      "canceled_until": null,
-      "category": {
-        "id": "493997",
-        "name": "Super Mario Odyssey"
       },
       "is_recurring": true
     }
