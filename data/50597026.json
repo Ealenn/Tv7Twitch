@@ -13,30 +13,6 @@
   },
   "schedulers": [
     {
-      "id": "eyJzZWdtZW50SUQiOiI5NTA3Mzg3Yy00NzQ3LTRmYzQtYTM1Ni1iOGRmMWNkMWVmNWUiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjoyNn0=",
-      "start_time": "2023-06-27T15:00:00Z",
-      "end_time": "2023-06-27T18:00:00Z",
-      "title": "On découvre la démo de Jusant",
-      "canceled_until": null,
-      "category": {
-        "id": "524807049",
-        "name": "Jusant"
-      },
-      "is_recurring": true
-    },
-    {
-      "id": "eyJzZWdtZW50SUQiOiI5Yjc5Y2Q0MS03NGZmLTQxODEtODEyNC04ODMxNWFjMDU5NTAiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjoyNn0=",
-      "start_time": "2023-06-27T18:00:00Z",
-      "end_time": "2023-06-27T22:00:00Z",
-      "title": "On commence FFXVI !",
-      "canceled_until": null,
-      "category": {
-        "id": "2090279789",
-        "name": "FINAL FANTASY XVI"
-      },
-      "is_recurring": true
-    },
-    {
       "id": "eyJzZWdtZW50SUQiOiJhNzgyZmE1ZS05NGY2LTQ1YjQtYmM1MC00NWIwYzgzZmM3MjMiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjoyNn0=",
       "start_time": "2023-06-28T09:00:00Z",
       "end_time": "2023-06-28T16:00:00Z",
@@ -249,6 +225,30 @@
       "category": {
         "id": "941530474",
         "name": "Mario Kart 8 Deluxe"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiIxN2YwNjdmZC0wNzZhLTRmOTAtYjhjMy0zOGMxNDcwZGFmMDciLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjoyOX0=",
+      "start_time": "2023-07-17T09:00:00Z",
+      "end_time": "2023-07-17T16:00:00Z",
+      "title": "Culture & Plaisir ",
+      "canceled_until": null,
+      "category": {
+        "id": "338715930",
+        "name": "Maitre des Fleurs"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiI5NTA3Mzg3Yy00NzQ3LTRmYzQtYTM1Ni1iOGRmMWNkMWVmNWUiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjoyOX0=",
+      "start_time": "2023-07-18T15:00:00Z",
+      "end_time": "2023-07-18T18:00:00Z",
+      "title": "On découvre la démo de Jusant",
+      "canceled_until": null,
+      "category": {
+        "id": "524807049",
+        "name": "Jusant"
       },
       "is_recurring": true
     }

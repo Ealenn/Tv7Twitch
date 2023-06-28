@@ -13,18 +13,6 @@
   },
   "schedulers": [
     {
-      "id": "eyJzZWdtZW50SUQiOiI0NTE3ODJjMS1jNDQzLTQwNjktODAxOS1jMzhkYjdhNDcxMzciLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjoyNn0=",
-      "start_time": "2023-06-27T12:00:00Z",
-      "end_time": "2023-06-27T17:00:00Z",
-      "title": "STREAM LIBRE",
-      "canceled_until": null,
-      "category": {
-        "id": "509658",
-        "name": "Just Chatting"
-      },
-      "is_recurring": true
-    },
-    {
       "id": "eyJzZWdtZW50SUQiOiJjNzYxNzc2Yy0xNTkyLTRlNTEtOGVlYy0wYmE2ZjhkN2QzMWQiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjoyNn0=",
       "start_time": "2023-06-30T12:00:00Z",
       "end_time": null,
@@ -244,6 +232,18 @@
       "id": "eyJzZWdtZW50SUQiOiJjNzYxNzc2Yy0xNTkyLTRlNTEtOGVlYy0wYmE2ZjhkN2QzMWQiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjozNX0=",
       "start_time": "2023-09-01T12:00:00Z",
       "end_time": null,
+      "title": "STREAM LIBRE",
+      "canceled_until": null,
+      "category": {
+        "id": "509658",
+        "name": "Just Chatting"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiI0NTE3ODJjMS1jNDQzLTQwNjktODAxOS1jMzhkYjdhNDcxMzciLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjozNn0=",
+      "start_time": "2023-09-05T12:00:00Z",
+      "end_time": "2023-09-05T17:00:00Z",
       "title": "STREAM LIBRE",
       "canceled_until": null,
       "category": {
