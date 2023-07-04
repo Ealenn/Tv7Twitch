@@ -7,250 +7,82 @@
     "broadcaster_type": "partner",
     "description": "",
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/3cdae7df-600c-4833-8dfe-8d2abc5a3b25-profile_image-300x300.png",
-    "offline_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/182ea02a-74b5-4423-8a1d-4f5db3d28469-channel_offline_image-1920x1080.png",
+    "offline_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/821c9cbd-f9b9-471d-a48e-1ddb5c025e22-channel_offline_image-1920x1080.png",
     "view_count": 0,
     "created_at": "2013-02-05T19:20:22Z"
   },
   "schedulers": [
     {
-      "id": "eyJzZWdtZW50SUQiOiI0NTE3ODJjMS1jNDQzLTQwNjktODAxOS1jMzhkYjdhNDcxMzciLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjoyN30=",
+      "id": "eyJzZWdtZW50SUQiOiJjMzkyZjI0MC1jYTZiLTQzZDktOTkyNi02ZWJjZjM3N2Q0YTIiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjoyN30=",
+      "start_time": "2023-07-04T11:00:00Z",
+      "end_time": "2023-07-04T12:00:00Z",
+      "title": "PRÉ-LIVE",
+      "canceled_until": null,
+      "category": {
+        "id": "509658",
+        "name": "Just Chatting"
+      },
+      "is_recurring": false
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiIzZWYyNWRjZi03YTY0LTRhZjYtOTY0Yy0yNDM1MDZjMDc3MDciLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjoyN30=",
       "start_time": "2023-07-04T12:00:00Z",
-      "end_time": "2023-07-04T17:00:00Z",
+      "end_time": "2023-07-04T15:00:00Z",
       "title": "STREAM LIBRE",
       "canceled_until": null,
-      "category": {
-        "id": "509658",
-        "name": "Just Chatting"
-      },
-      "is_recurring": true
+      "category": null,
+      "is_recurring": false
     },
     {
-      "id": "eyJzZWdtZW50SUQiOiJjNzYxNzc2Yy0xNTkyLTRlNTEtOGVlYy0wYmE2ZjhkN2QzMWQiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjoyN30=",
-      "start_time": "2023-07-07T12:00:00Z",
-      "end_time": null,
-      "title": "STREAM LIBRE",
+      "id": "eyJzZWdtZW50SUQiOiJkY2NkYmIzMi05MjgwLTQ2NzgtOTVkNC0yNGI0YjI5YjAxMjQiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjoyN30=",
+      "start_time": "2023-07-04T18:00:00Z",
+      "end_time": "2023-07-04T20:00:00Z",
+      "title": "TOP SCORE (sur twitch.tv/doigby)",
       "canceled_until": null,
-      "category": {
-        "id": "509658",
-        "name": "Just Chatting"
-      },
-      "is_recurring": true
+      "category": null,
+      "is_recurring": false
     },
     {
-      "id": "eyJzZWdtZW50SUQiOiI0NTE3ODJjMS1jNDQzLTQwNjktODAxOS1jMzhkYjdhNDcxMzciLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjoyOH0=",
-      "start_time": "2023-07-11T12:00:00Z",
-      "end_time": "2023-07-11T17:00:00Z",
-      "title": "STREAM LIBRE",
+      "id": "eyJzZWdtZW50SUQiOiJhMjVlNzkyYy0xMjViLTRlNmQtYmY3OC03NGNjMDRkYTc2YmEiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjoyN30=",
+      "start_time": "2023-07-05T12:00:00Z",
+      "end_time": "2023-07-05T13:00:00Z",
+      "title": "PRÉ-LIVE",
       "canceled_until": null,
       "category": {
         "id": "509658",
         "name": "Just Chatting"
       },
-      "is_recurring": true
+      "is_recurring": false
     },
     {
-      "id": "eyJzZWdtZW50SUQiOiJjNzYxNzc2Yy0xNTkyLTRlNTEtOGVlYy0wYmE2ZjhkN2QzMWQiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjoyOH0=",
-      "start_time": "2023-07-14T12:00:00Z",
-      "end_time": null,
+      "id": "eyJzZWdtZW50SUQiOiI3NmQzMWYzNS0zMGVkLTQ0NjYtYTEwMC05ZDllYzA3YzQ4MzEiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjoyN30=",
+      "start_time": "2023-07-05T13:00:00Z",
+      "end_time": "2023-07-05T16:00:00Z",
       "title": "STREAM LIBRE",
       "canceled_until": null,
-      "category": {
-        "id": "509658",
-        "name": "Just Chatting"
-      },
-      "is_recurring": true
+      "category": null,
+      "is_recurring": false
     },
     {
-      "id": "eyJzZWdtZW50SUQiOiI0NTE3ODJjMS1jNDQzLTQwNjktODAxOS1jMzhkYjdhNDcxMzciLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjoyOX0=",
-      "start_time": "2023-07-18T12:00:00Z",
-      "end_time": "2023-07-18T17:00:00Z",
-      "title": "STREAM LIBRE",
+      "id": "eyJzZWdtZW50SUQiOiI0YmMzODVlNy02ZmYzLTRkMmYtYTMxZS1kYmQ4MmRiMTYwMGYiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjoyN30=",
+      "start_time": "2023-07-06T18:00:00Z",
+      "end_time": "2023-07-06T20:00:00Z",
+      "title": "TOAST (sur twitch.tv/chezpoulpe)",
       "canceled_until": null,
-      "category": {
-        "id": "509658",
-        "name": "Just Chatting"
-      },
-      "is_recurring": true
+      "category": null,
+      "is_recurring": false
     },
     {
-      "id": "eyJzZWdtZW50SUQiOiJjNzYxNzc2Yy0xNTkyLTRlNTEtOGVlYy0wYmE2ZjhkN2QzMWQiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjoyOX0=",
-      "start_time": "2023-07-21T12:00:00Z",
-      "end_time": null,
-      "title": "STREAM LIBRE",
+      "id": "eyJzZWdtZW50SUQiOiIxOGEzMzBiZi0yYzIxLTQ0OGUtOTY4NS04Mjc2OGE5MDRkMWUiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjoyN30=",
+      "start_time": "2023-07-07T18:00:00Z",
+      "end_time": "2023-07-07T20:00:00Z",
+      "title": "ANNONCE À VENIR",
       "canceled_until": null,
       "category": {
-        "id": "509658",
-        "name": "Just Chatting"
+        "id": "509663",
+        "name": "Special Events"
       },
-      "is_recurring": true
-    },
-    {
-      "id": "eyJzZWdtZW50SUQiOiI0NTE3ODJjMS1jNDQzLTQwNjktODAxOS1jMzhkYjdhNDcxMzciLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjozMH0=",
-      "start_time": "2023-07-25T12:00:00Z",
-      "end_time": "2023-07-25T17:00:00Z",
-      "title": "STREAM LIBRE",
-      "canceled_until": null,
-      "category": {
-        "id": "509658",
-        "name": "Just Chatting"
-      },
-      "is_recurring": true
-    },
-    {
-      "id": "eyJzZWdtZW50SUQiOiJjNzYxNzc2Yy0xNTkyLTRlNTEtOGVlYy0wYmE2ZjhkN2QzMWQiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjozMH0=",
-      "start_time": "2023-07-28T12:00:00Z",
-      "end_time": null,
-      "title": "STREAM LIBRE",
-      "canceled_until": null,
-      "category": {
-        "id": "509658",
-        "name": "Just Chatting"
-      },
-      "is_recurring": true
-    },
-    {
-      "id": "eyJzZWdtZW50SUQiOiI0NTE3ODJjMS1jNDQzLTQwNjktODAxOS1jMzhkYjdhNDcxMzciLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjozMX0=",
-      "start_time": "2023-08-01T12:00:00Z",
-      "end_time": "2023-08-01T17:00:00Z",
-      "title": "STREAM LIBRE",
-      "canceled_until": null,
-      "category": {
-        "id": "509658",
-        "name": "Just Chatting"
-      },
-      "is_recurring": true
-    },
-    {
-      "id": "eyJzZWdtZW50SUQiOiJjNzYxNzc2Yy0xNTkyLTRlNTEtOGVlYy0wYmE2ZjhkN2QzMWQiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjozMX0=",
-      "start_time": "2023-08-04T12:00:00Z",
-      "end_time": null,
-      "title": "STREAM LIBRE",
-      "canceled_until": null,
-      "category": {
-        "id": "509658",
-        "name": "Just Chatting"
-      },
-      "is_recurring": true
-    },
-    {
-      "id": "eyJzZWdtZW50SUQiOiI0NTE3ODJjMS1jNDQzLTQwNjktODAxOS1jMzhkYjdhNDcxMzciLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjozMn0=",
-      "start_time": "2023-08-08T12:00:00Z",
-      "end_time": "2023-08-08T17:00:00Z",
-      "title": "STREAM LIBRE",
-      "canceled_until": null,
-      "category": {
-        "id": "509658",
-        "name": "Just Chatting"
-      },
-      "is_recurring": true
-    },
-    {
-      "id": "eyJzZWdtZW50SUQiOiJjNzYxNzc2Yy0xNTkyLTRlNTEtOGVlYy0wYmE2ZjhkN2QzMWQiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjozMn0=",
-      "start_time": "2023-08-11T12:00:00Z",
-      "end_time": null,
-      "title": "STREAM LIBRE",
-      "canceled_until": null,
-      "category": {
-        "id": "509658",
-        "name": "Just Chatting"
-      },
-      "is_recurring": true
-    },
-    {
-      "id": "eyJzZWdtZW50SUQiOiI0NTE3ODJjMS1jNDQzLTQwNjktODAxOS1jMzhkYjdhNDcxMzciLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjozM30=",
-      "start_time": "2023-08-15T12:00:00Z",
-      "end_time": "2023-08-15T17:00:00Z",
-      "title": "STREAM LIBRE",
-      "canceled_until": null,
-      "category": {
-        "id": "509658",
-        "name": "Just Chatting"
-      },
-      "is_recurring": true
-    },
-    {
-      "id": "eyJzZWdtZW50SUQiOiJjNzYxNzc2Yy0xNTkyLTRlNTEtOGVlYy0wYmE2ZjhkN2QzMWQiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjozM30=",
-      "start_time": "2023-08-18T12:00:00Z",
-      "end_time": null,
-      "title": "STREAM LIBRE",
-      "canceled_until": null,
-      "category": {
-        "id": "509658",
-        "name": "Just Chatting"
-      },
-      "is_recurring": true
-    },
-    {
-      "id": "eyJzZWdtZW50SUQiOiI0NTE3ODJjMS1jNDQzLTQwNjktODAxOS1jMzhkYjdhNDcxMzciLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjozNH0=",
-      "start_time": "2023-08-22T12:00:00Z",
-      "end_time": "2023-08-22T17:00:00Z",
-      "title": "STREAM LIBRE",
-      "canceled_until": null,
-      "category": {
-        "id": "509658",
-        "name": "Just Chatting"
-      },
-      "is_recurring": true
-    },
-    {
-      "id": "eyJzZWdtZW50SUQiOiJjNzYxNzc2Yy0xNTkyLTRlNTEtOGVlYy0wYmE2ZjhkN2QzMWQiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjozNH0=",
-      "start_time": "2023-08-25T12:00:00Z",
-      "end_time": null,
-      "title": "STREAM LIBRE",
-      "canceled_until": null,
-      "category": {
-        "id": "509658",
-        "name": "Just Chatting"
-      },
-      "is_recurring": true
-    },
-    {
-      "id": "eyJzZWdtZW50SUQiOiI0NTE3ODJjMS1jNDQzLTQwNjktODAxOS1jMzhkYjdhNDcxMzciLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjozNX0=",
-      "start_time": "2023-08-29T12:00:00Z",
-      "end_time": "2023-08-29T17:00:00Z",
-      "title": "STREAM LIBRE",
-      "canceled_until": null,
-      "category": {
-        "id": "509658",
-        "name": "Just Chatting"
-      },
-      "is_recurring": true
-    },
-    {
-      "id": "eyJzZWdtZW50SUQiOiJjNzYxNzc2Yy0xNTkyLTRlNTEtOGVlYy0wYmE2ZjhkN2QzMWQiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjozNX0=",
-      "start_time": "2023-09-01T12:00:00Z",
-      "end_time": null,
-      "title": "STREAM LIBRE",
-      "canceled_until": null,
-      "category": {
-        "id": "509658",
-        "name": "Just Chatting"
-      },
-      "is_recurring": true
-    },
-    {
-      "id": "eyJzZWdtZW50SUQiOiI0NTE3ODJjMS1jNDQzLTQwNjktODAxOS1jMzhkYjdhNDcxMzciLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjozNn0=",
-      "start_time": "2023-09-05T12:00:00Z",
-      "end_time": "2023-09-05T17:00:00Z",
-      "title": "STREAM LIBRE",
-      "canceled_until": null,
-      "category": {
-        "id": "509658",
-        "name": "Just Chatting"
-      },
-      "is_recurring": true
-    },
-    {
-      "id": "eyJzZWdtZW50SUQiOiJjNzYxNzc2Yy0xNTkyLTRlNTEtOGVlYy0wYmE2ZjhkN2QzMWQiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjozNn0=",
-      "start_time": "2023-09-08T12:00:00Z",
-      "end_time": null,
-      "title": "STREAM LIBRE",
-      "canceled_until": null,
-      "category": {
-        "id": "509658",
-        "name": "Just Chatting"
-      },
-      "is_recurring": true
+      "is_recurring": false
     }
   ]
 }

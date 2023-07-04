@@ -13,38 +13,14 @@
   },
   "schedulers": [
     {
-      "id": "eyJzZWdtZW50SUQiOiIxN2YwNjdmZC0wNzZhLTRmOTAtYjhjMy0zOGMxNDcwZGFmMDciLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjoyN30=",
-      "start_time": "2023-07-03T09:00:00Z",
-      "end_time": "2023-07-03T16:00:00Z",
-      "title": "Culture & Plaisir ",
-      "canceled_until": null,
-      "category": {
-        "id": "338715930",
-        "name": "Maitre des Fleurs"
-      },
-      "is_recurring": true
-    },
-    {
       "id": "eyJzZWdtZW50SUQiOiI5NTA3Mzg3Yy00NzQ3LTRmYzQtYTM1Ni1iOGRmMWNkMWVmNWUiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjoyN30=",
-      "start_time": "2023-07-04T15:00:00Z",
-      "end_time": "2023-07-04T18:00:00Z",
-      "title": "On découvre la démo de Jusant",
+      "start_time": "2023-07-04T11:00:00Z",
+      "end_time": "2023-07-04T16:00:00Z",
+      "title": "Speedrun Any% SMO",
       "canceled_until": null,
       "category": {
-        "id": "524807049",
-        "name": "Jusant"
-      },
-      "is_recurring": true
-    },
-    {
-      "id": "eyJzZWdtZW50SUQiOiI5Yjc5Y2Q0MS03NGZmLTQxODEtODEyNC04ODMxNWFjMDU5NTAiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjoyN30=",
-      "start_time": "2023-07-04T18:00:00Z",
-      "end_time": "2023-07-04T22:00:00Z",
-      "title": "On commence FFXVI !",
-      "canceled_until": null,
-      "category": {
-        "id": "2090279789",
-        "name": "FINAL FANTASY XVI"
+        "id": "493997",
+        "name": "Super Mario Odyssey"
       },
       "is_recurring": true
     },
@@ -61,22 +37,10 @@
       "is_recurring": true
     },
     {
-      "id": "eyJzZWdtZW50SUQiOiJjYjhlNTkzZC05OWY4LTQyYjktOWVhYS1kYzc2MjNhZDk0MzEiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjoyN30=",
-      "start_time": "2023-07-06T18:00:00Z",
-      "end_time": "2023-07-06T22:00:00Z",
-      "title": "Jeu de rôle (chaine de MisterMV) (avec Bagz et l'équipe GoR)",
-      "canceled_until": null,
-      "category": {
-        "id": "509663",
-        "name": "Special Events"
-      },
-      "is_recurring": true
-    },
-    {
-      "id": "eyJzZWdtZW50SUQiOiJmNWI0MWQzNy0xNDVlLTRhY2EtODMzZS0wM2Q2YTQ5ODBkMWIiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjoyN30=",
-      "start_time": "2023-07-07T18:00:00Z",
-      "end_time": "2023-07-07T22:00:00Z",
-      "title": "Murder Party (chaine de Riv) (avec Bagz, Antoine, Florence, Ultia)",
+      "id": "eyJzZWdtZW50SUQiOiIxMjJlOGUxYS02OWFjLTQ3ZTctOTRlMy00NjI5MzUzODczOWIiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjoyN30=",
+      "start_time": "2023-07-08T11:00:00Z",
+      "end_time": "2023-07-08T13:00:00Z",
+      "title": "Twitch Con : Le Maitre des Peintres (avec plein d’invités !)",
       "canceled_until": null,
       "category": {
         "id": "509663",
@@ -86,13 +50,13 @@
     },
     {
       "id": "eyJzZWdtZW50SUQiOiJjYmJkZWQ5NS1mZTJiLTQ4NmItODQ0ZC1mYzU4MDI1ODRlZjYiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjoyN30=",
-      "start_time": "2023-07-09T11:00:00Z",
-      "end_time": "2023-07-09T15:00:00Z",
-      "title": "Le tournoi du Dimanche !",
+      "start_time": "2023-07-09T12:00:00Z",
+      "end_time": "2023-07-09T15:30:00Z",
+      "title": "Twitch Rivals Ultimate (avec Riv Ultia Wingo)",
       "canceled_until": null,
       "category": {
-        "id": "941530474",
-        "name": "Mario Kart 8 Deluxe"
+        "id": "509663",
+        "name": "Special Events"
       },
       "is_recurring": true
     },
@@ -110,25 +74,13 @@
     },
     {
       "id": "eyJzZWdtZW50SUQiOiI5NTA3Mzg3Yy00NzQ3LTRmYzQtYTM1Ni1iOGRmMWNkMWVmNWUiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjoyOH0=",
-      "start_time": "2023-07-11T15:00:00Z",
-      "end_time": "2023-07-11T18:00:00Z",
-      "title": "On découvre la démo de Jusant",
+      "start_time": "2023-07-11T11:00:00Z",
+      "end_time": "2023-07-11T16:00:00Z",
+      "title": "Speedrun Any% SMO",
       "canceled_until": null,
       "category": {
-        "id": "524807049",
-        "name": "Jusant"
-      },
-      "is_recurring": true
-    },
-    {
-      "id": "eyJzZWdtZW50SUQiOiI5Yjc5Y2Q0MS03NGZmLTQxODEtODEyNC04ODMxNWFjMDU5NTAiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjoyOH0=",
-      "start_time": "2023-07-11T18:00:00Z",
-      "end_time": "2023-07-11T22:00:00Z",
-      "title": "On commence FFXVI !",
-      "canceled_until": null,
-      "category": {
-        "id": "2090279789",
-        "name": "FINAL FANTASY XVI"
+        "id": "493997",
+        "name": "Super Mario Odyssey"
       },
       "is_recurring": true
     },
@@ -145,22 +97,10 @@
       "is_recurring": true
     },
     {
-      "id": "eyJzZWdtZW50SUQiOiJjYjhlNTkzZC05OWY4LTQyYjktOWVhYS1kYzc2MjNhZDk0MzEiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjoyOH0=",
-      "start_time": "2023-07-13T18:00:00Z",
-      "end_time": "2023-07-13T22:00:00Z",
-      "title": "Jeu de rôle (chaine de MisterMV) (avec Bagz et l'équipe GoR)",
-      "canceled_until": null,
-      "category": {
-        "id": "509663",
-        "name": "Special Events"
-      },
-      "is_recurring": true
-    },
-    {
-      "id": "eyJzZWdtZW50SUQiOiJmNWI0MWQzNy0xNDVlLTRhY2EtODMzZS0wM2Q2YTQ5ODBkMWIiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjoyOH0=",
-      "start_time": "2023-07-14T18:00:00Z",
-      "end_time": "2023-07-14T22:00:00Z",
-      "title": "Murder Party (chaine de Riv) (avec Bagz, Antoine, Florence, Ultia)",
+      "id": "eyJzZWdtZW50SUQiOiIxMjJlOGUxYS02OWFjLTQ3ZTctOTRlMy00NjI5MzUzODczOWIiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjoyOH0=",
+      "start_time": "2023-07-15T11:00:00Z",
+      "end_time": "2023-07-15T13:00:00Z",
+      "title": "Twitch Con : Le Maitre des Peintres (avec plein d’invités !)",
       "canceled_until": null,
       "category": {
         "id": "509663",
@@ -170,13 +110,13 @@
     },
     {
       "id": "eyJzZWdtZW50SUQiOiJjYmJkZWQ5NS1mZTJiLTQ4NmItODQ0ZC1mYzU4MDI1ODRlZjYiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjoyOH0=",
-      "start_time": "2023-07-16T11:00:00Z",
-      "end_time": "2023-07-16T15:00:00Z",
-      "title": "Le tournoi du Dimanche !",
+      "start_time": "2023-07-16T12:00:00Z",
+      "end_time": "2023-07-16T15:30:00Z",
+      "title": "Twitch Rivals Ultimate (avec Riv Ultia Wingo)",
       "canceled_until": null,
       "category": {
-        "id": "941530474",
-        "name": "Mario Kart 8 Deluxe"
+        "id": "509663",
+        "name": "Special Events"
       },
       "is_recurring": true
     },
@@ -194,25 +134,13 @@
     },
     {
       "id": "eyJzZWdtZW50SUQiOiI5NTA3Mzg3Yy00NzQ3LTRmYzQtYTM1Ni1iOGRmMWNkMWVmNWUiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjoyOX0=",
-      "start_time": "2023-07-18T15:00:00Z",
-      "end_time": "2023-07-18T18:00:00Z",
-      "title": "On découvre la démo de Jusant",
+      "start_time": "2023-07-18T11:00:00Z",
+      "end_time": "2023-07-18T16:00:00Z",
+      "title": "Speedrun Any% SMO",
       "canceled_until": null,
       "category": {
-        "id": "524807049",
-        "name": "Jusant"
-      },
-      "is_recurring": true
-    },
-    {
-      "id": "eyJzZWdtZW50SUQiOiI5Yjc5Y2Q0MS03NGZmLTQxODEtODEyNC04ODMxNWFjMDU5NTAiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjoyOX0=",
-      "start_time": "2023-07-18T18:00:00Z",
-      "end_time": "2023-07-18T22:00:00Z",
-      "title": "On commence FFXVI !",
-      "canceled_until": null,
-      "category": {
-        "id": "2090279789",
-        "name": "FINAL FANTASY XVI"
+        "id": "493997",
+        "name": "Super Mario Odyssey"
       },
       "is_recurring": true
     },
@@ -229,10 +157,10 @@
       "is_recurring": true
     },
     {
-      "id": "eyJzZWdtZW50SUQiOiJjYjhlNTkzZC05OWY4LTQyYjktOWVhYS1kYzc2MjNhZDk0MzEiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjoyOX0=",
-      "start_time": "2023-07-20T18:00:00Z",
-      "end_time": "2023-07-20T22:00:00Z",
-      "title": "Jeu de rôle (chaine de MisterMV) (avec Bagz et l'équipe GoR)",
+      "id": "eyJzZWdtZW50SUQiOiIxMjJlOGUxYS02OWFjLTQ3ZTctOTRlMy00NjI5MzUzODczOWIiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjoyOX0=",
+      "start_time": "2023-07-22T11:00:00Z",
+      "end_time": "2023-07-22T13:00:00Z",
+      "title": "Twitch Con : Le Maitre des Peintres (avec plein d’invités !)",
       "canceled_until": null,
       "category": {
         "id": "509663",
@@ -241,14 +169,86 @@
       "is_recurring": true
     },
     {
-      "id": "eyJzZWdtZW50SUQiOiJmNWI0MWQzNy0xNDVlLTRhY2EtODMzZS0wM2Q2YTQ5ODBkMWIiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjoyOX0=",
-      "start_time": "2023-07-21T18:00:00Z",
-      "end_time": "2023-07-21T22:00:00Z",
-      "title": "Murder Party (chaine de Riv) (avec Bagz, Antoine, Florence, Ultia)",
+      "id": "eyJzZWdtZW50SUQiOiJjYmJkZWQ5NS1mZTJiLTQ4NmItODQ0ZC1mYzU4MDI1ODRlZjYiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjoyOX0=",
+      "start_time": "2023-07-23T12:00:00Z",
+      "end_time": "2023-07-23T15:30:00Z",
+      "title": "Twitch Rivals Ultimate (avec Riv Ultia Wingo)",
       "canceled_until": null,
       "category": {
         "id": "509663",
         "name": "Special Events"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiIxN2YwNjdmZC0wNzZhLTRmOTAtYjhjMy0zOGMxNDcwZGFmMDciLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjozMH0=",
+      "start_time": "2023-07-24T09:00:00Z",
+      "end_time": "2023-07-24T16:00:00Z",
+      "title": "Culture & Plaisir ",
+      "canceled_until": null,
+      "category": {
+        "id": "338715930",
+        "name": "Maitre des Fleurs"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiI5NTA3Mzg3Yy00NzQ3LTRmYzQtYTM1Ni1iOGRmMWNkMWVmNWUiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjozMH0=",
+      "start_time": "2023-07-25T11:00:00Z",
+      "end_time": "2023-07-25T16:00:00Z",
+      "title": "Speedrun Any% SMO",
+      "canceled_until": null,
+      "category": {
+        "id": "493997",
+        "name": "Super Mario Odyssey"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiJhNzgyZmE1ZS05NGY2LTQ1YjQtYmM1MC00NWIwYzgzZmM3MjMiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjozMH0=",
+      "start_time": "2023-07-26T09:00:00Z",
+      "end_time": "2023-07-26T16:00:00Z",
+      "title": "Slowrun 100% chill et balade sur Zelda TOTK",
+      "canceled_until": null,
+      "category": {
+        "id": "512998",
+        "name": "The Legend of Zelda: Tears of the Kingdom"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiIxMjJlOGUxYS02OWFjLTQ3ZTctOTRlMy00NjI5MzUzODczOWIiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjozMH0=",
+      "start_time": "2023-07-29T11:00:00Z",
+      "end_time": "2023-07-29T13:00:00Z",
+      "title": "Twitch Con : Le Maitre des Peintres (avec plein d’invités !)",
+      "canceled_until": null,
+      "category": {
+        "id": "509663",
+        "name": "Special Events"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiJjYmJkZWQ5NS1mZTJiLTQ4NmItODQ0ZC1mYzU4MDI1ODRlZjYiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjozMH0=",
+      "start_time": "2023-07-30T12:00:00Z",
+      "end_time": "2023-07-30T15:30:00Z",
+      "title": "Twitch Rivals Ultimate (avec Riv Ultia Wingo)",
+      "canceled_until": null,
+      "category": {
+        "id": "509663",
+        "name": "Special Events"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiIxN2YwNjdmZC0wNzZhLTRmOTAtYjhjMy0zOGMxNDcwZGFmMDciLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjozMX0=",
+      "start_time": "2023-07-31T09:00:00Z",
+      "end_time": "2023-07-31T16:00:00Z",
+      "title": "Culture & Plaisir ",
+      "canceled_until": null,
+      "category": {
+        "id": "338715930",
+        "name": "Maitre des Fleurs"
       },
       "is_recurring": true
     }
