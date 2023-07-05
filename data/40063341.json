@@ -13,36 +13,6 @@
   },
   "schedulers": [
     {
-      "id": "eyJzZWdtZW50SUQiOiJjMzkyZjI0MC1jYTZiLTQzZDktOTkyNi02ZWJjZjM3N2Q0YTIiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjoyN30=",
-      "start_time": "2023-07-04T11:00:00Z",
-      "end_time": "2023-07-04T12:00:00Z",
-      "title": "PRÉ-LIVE",
-      "canceled_until": null,
-      "category": {
-        "id": "509658",
-        "name": "Just Chatting"
-      },
-      "is_recurring": false
-    },
-    {
-      "id": "eyJzZWdtZW50SUQiOiIzZWYyNWRjZi03YTY0LTRhZjYtOTY0Yy0yNDM1MDZjMDc3MDciLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjoyN30=",
-      "start_time": "2023-07-04T12:00:00Z",
-      "end_time": "2023-07-04T15:00:00Z",
-      "title": "STREAM LIBRE",
-      "canceled_until": null,
-      "category": null,
-      "is_recurring": false
-    },
-    {
-      "id": "eyJzZWdtZW50SUQiOiJkY2NkYmIzMi05MjgwLTQ2NzgtOTVkNC0yNGI0YjI5YjAxMjQiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjoyN30=",
-      "start_time": "2023-07-04T18:00:00Z",
-      "end_time": "2023-07-04T20:00:00Z",
-      "title": "TOP SCORE (sur twitch.tv/doigby)",
-      "canceled_until": null,
-      "category": null,
-      "is_recurring": false
-    },
-    {
       "id": "eyJzZWdtZW50SUQiOiJhMjVlNzkyYy0xMjViLTRlNmQtYmY3OC03NGNjMDRkYTc2YmEiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjoyN30=",
       "start_time": "2023-07-05T12:00:00Z",
       "end_time": "2023-07-05T13:00:00Z",
