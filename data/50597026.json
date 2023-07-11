@@ -13,10 +13,10 @@
   },
   "schedulers": [
     {
-      "id": "eyJzZWdtZW50SUQiOiIxN2YwNjdmZC0wNzZhLTRmOTAtYjhjMy0zOGMxNDcwZGFmMDciLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjoyOH0=",
-      "start_time": "2023-07-10T09:00:00Z",
-      "end_time": "2023-07-10T16:00:00Z",
-      "title": "Culture & Plaisir ",
+      "id": "eyJzZWdtZW50SUQiOiI5NTA3Mzg3Yy00NzQ3LTRmYzQtYTM1Ni1iOGRmMWNkMWVmNWUiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjoyOH0=",
+      "start_time": "2023-07-11T11:00:00Z",
+      "end_time": "2023-07-11T18:00:00Z",
+      "title": "Maitre des fleurs",
       "canceled_until": null,
       "category": {
         "id": "338715930",
@@ -25,19 +25,7 @@
       "is_recurring": true
     },
     {
-      "id": "eyJzZWdtZW50SUQiOiI5NTA3Mzg3Yy00NzQ3LTRmYzQtYTM1Ni1iOGRmMWNkMWVmNWUiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjoyOH0=",
-      "start_time": "2023-07-11T11:00:00Z",
-      "end_time": "2023-07-11T16:00:00Z",
-      "title": "Speedrun Any% SMO",
-      "canceled_until": null,
-      "category": {
-        "id": "493997",
-        "name": "Super Mario Odyssey"
-      },
-      "is_recurring": true
-    },
-    {
-      "id": "eyJzZWdtZW50SUQiOiJhNzgyZmE1ZS05NGY2LTQ1YjQtYmM1MC00NWIwYzgzZmM3MjMiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjoyOH0=",
+      "id": "eyJzZWdtZW50SUQiOiI2MDhiZjU3Mi04NzZlLTQ0YzQtYjNmMS02NTk2MWMwZDA5ZDAiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjoyOH0=",
       "start_time": "2023-07-12T09:00:00Z",
       "end_time": "2023-07-12T16:00:00Z",
       "title": "Slowrun 100% chill et balade sur Zelda TOTK",
@@ -49,34 +37,46 @@
       "is_recurring": true
     },
     {
-      "id": "eyJzZWdtZW50SUQiOiIxMjJlOGUxYS02OWFjLTQ3ZTctOTRlMy00NjI5MzUzODczOWIiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjoyOH0=",
-      "start_time": "2023-07-15T11:00:00Z",
-      "end_time": "2023-07-15T13:00:00Z",
-      "title": "Twitch Con : Le Maitre des Peintres (avec plein d’invités !)",
+      "id": "eyJzZWdtZW50SUQiOiJhNzgyZmE1ZS05NGY2LTQ1YjQtYmM1MC00NWIwYzgzZmM3MjMiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjoyOH0=",
+      "start_time": "2023-07-12T16:00:00Z",
+      "end_time": "2023-07-12T18:00:00Z",
+      "title": "Découverte avec @MisterJday des nouvelles maps de la vague 5 des DLC ! ",
       "canceled_until": null,
       "category": {
-        "id": "509663",
-        "name": "Special Events"
+        "id": "941530474",
+        "name": "Mario Kart 8 Deluxe"
       },
       "is_recurring": true
     },
     {
       "id": "eyJzZWdtZW50SUQiOiJjYmJkZWQ5NS1mZTJiLTQ4NmItODQ0ZC1mYzU4MDI1ODRlZjYiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjoyOH0=",
-      "start_time": "2023-07-16T12:00:00Z",
-      "end_time": "2023-07-16T15:30:00Z",
-      "title": "Twitch Rivals Ultimate (avec Riv Ultia Wingo)",
+      "start_time": "2023-07-16T13:00:00Z",
+      "end_time": "2023-07-16T17:30:00Z",
+      "title": "Slowrun 100% chill et balade sur Zelda TOTK",
       "canceled_until": null,
       "category": {
-        "id": "509663",
-        "name": "Special Events"
+        "id": "512998",
+        "name": "The Legend of Zelda: Tears of the Kingdom"
       },
       "is_recurring": true
     },
     {
       "id": "eyJzZWdtZW50SUQiOiIxN2YwNjdmZC0wNzZhLTRmOTAtYjhjMy0zOGMxNDcwZGFmMDciLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjoyOX0=",
-      "start_time": "2023-07-17T09:00:00Z",
-      "end_time": "2023-07-17T16:00:00Z",
-      "title": "Culture & Plaisir ",
+      "start_time": "2023-07-17T15:00:00Z",
+      "end_time": "2023-07-17T18:00:00Z",
+      "title": "Debrief Twitch Con",
+      "canceled_until": null,
+      "category": {
+        "id": "509658",
+        "name": "Just Chatting"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiI5NTA3Mzg3Yy00NzQ3LTRmYzQtYTM1Ni1iOGRmMWNkMWVmNWUiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjoyOX0=",
+      "start_time": "2023-07-18T11:00:00Z",
+      "end_time": "2023-07-18T18:00:00Z",
+      "title": "Maitre des fleurs",
       "canceled_until": null,
       "category": {
         "id": "338715930",
@@ -85,19 +85,7 @@
       "is_recurring": true
     },
     {
-      "id": "eyJzZWdtZW50SUQiOiI5NTA3Mzg3Yy00NzQ3LTRmYzQtYTM1Ni1iOGRmMWNkMWVmNWUiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjoyOX0=",
-      "start_time": "2023-07-18T11:00:00Z",
-      "end_time": "2023-07-18T16:00:00Z",
-      "title": "Speedrun Any% SMO",
-      "canceled_until": null,
-      "category": {
-        "id": "493997",
-        "name": "Super Mario Odyssey"
-      },
-      "is_recurring": true
-    },
-    {
-      "id": "eyJzZWdtZW50SUQiOiJhNzgyZmE1ZS05NGY2LTQ1YjQtYmM1MC00NWIwYzgzZmM3MjMiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjoyOX0=",
+      "id": "eyJzZWdtZW50SUQiOiI2MDhiZjU3Mi04NzZlLTQ0YzQtYjNmMS02NTk2MWMwZDA5ZDAiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjoyOX0=",
       "start_time": "2023-07-19T09:00:00Z",
       "end_time": "2023-07-19T16:00:00Z",
       "title": "Slowrun 100% chill et balade sur Zelda TOTK",
@@ -109,34 +97,46 @@
       "is_recurring": true
     },
     {
-      "id": "eyJzZWdtZW50SUQiOiIxMjJlOGUxYS02OWFjLTQ3ZTctOTRlMy00NjI5MzUzODczOWIiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjoyOX0=",
-      "start_time": "2023-07-22T11:00:00Z",
-      "end_time": "2023-07-22T13:00:00Z",
-      "title": "Twitch Con : Le Maitre des Peintres (avec plein d’invités !)",
+      "id": "eyJzZWdtZW50SUQiOiJhNzgyZmE1ZS05NGY2LTQ1YjQtYmM1MC00NWIwYzgzZmM3MjMiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjoyOX0=",
+      "start_time": "2023-07-19T16:00:00Z",
+      "end_time": "2023-07-19T18:00:00Z",
+      "title": "Découverte avec @MisterJday des nouvelles maps de la vague 5 des DLC ! ",
       "canceled_until": null,
       "category": {
-        "id": "509663",
-        "name": "Special Events"
+        "id": "941530474",
+        "name": "Mario Kart 8 Deluxe"
       },
       "is_recurring": true
     },
     {
       "id": "eyJzZWdtZW50SUQiOiJjYmJkZWQ5NS1mZTJiLTQ4NmItODQ0ZC1mYzU4MDI1ODRlZjYiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjoyOX0=",
-      "start_time": "2023-07-23T12:00:00Z",
-      "end_time": "2023-07-23T15:30:00Z",
-      "title": "Twitch Rivals Ultimate (avec Riv Ultia Wingo)",
+      "start_time": "2023-07-23T13:00:00Z",
+      "end_time": "2023-07-23T17:30:00Z",
+      "title": "Slowrun 100% chill et balade sur Zelda TOTK",
       "canceled_until": null,
       "category": {
-        "id": "509663",
-        "name": "Special Events"
+        "id": "512998",
+        "name": "The Legend of Zelda: Tears of the Kingdom"
       },
       "is_recurring": true
     },
     {
       "id": "eyJzZWdtZW50SUQiOiIxN2YwNjdmZC0wNzZhLTRmOTAtYjhjMy0zOGMxNDcwZGFmMDciLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjozMH0=",
-      "start_time": "2023-07-24T09:00:00Z",
-      "end_time": "2023-07-24T16:00:00Z",
-      "title": "Culture & Plaisir ",
+      "start_time": "2023-07-24T15:00:00Z",
+      "end_time": "2023-07-24T18:00:00Z",
+      "title": "Debrief Twitch Con",
+      "canceled_until": null,
+      "category": {
+        "id": "509658",
+        "name": "Just Chatting"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiI5NTA3Mzg3Yy00NzQ3LTRmYzQtYTM1Ni1iOGRmMWNkMWVmNWUiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjozMH0=",
+      "start_time": "2023-07-25T11:00:00Z",
+      "end_time": "2023-07-25T18:00:00Z",
+      "title": "Maitre des fleurs",
       "canceled_until": null,
       "category": {
         "id": "338715930",
@@ -145,19 +145,7 @@
       "is_recurring": true
     },
     {
-      "id": "eyJzZWdtZW50SUQiOiI5NTA3Mzg3Yy00NzQ3LTRmYzQtYTM1Ni1iOGRmMWNkMWVmNWUiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjozMH0=",
-      "start_time": "2023-07-25T11:00:00Z",
-      "end_time": "2023-07-25T16:00:00Z",
-      "title": "Speedrun Any% SMO",
-      "canceled_until": null,
-      "category": {
-        "id": "493997",
-        "name": "Super Mario Odyssey"
-      },
-      "is_recurring": true
-    },
-    {
-      "id": "eyJzZWdtZW50SUQiOiJhNzgyZmE1ZS05NGY2LTQ1YjQtYmM1MC00NWIwYzgzZmM3MjMiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjozMH0=",
+      "id": "eyJzZWdtZW50SUQiOiI2MDhiZjU3Mi04NzZlLTQ0YzQtYjNmMS02NTk2MWMwZDA5ZDAiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjozMH0=",
       "start_time": "2023-07-26T09:00:00Z",
       "end_time": "2023-07-26T16:00:00Z",
       "title": "Slowrun 100% chill et balade sur Zelda TOTK",
@@ -169,34 +157,46 @@
       "is_recurring": true
     },
     {
-      "id": "eyJzZWdtZW50SUQiOiIxMjJlOGUxYS02OWFjLTQ3ZTctOTRlMy00NjI5MzUzODczOWIiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjozMH0=",
-      "start_time": "2023-07-29T11:00:00Z",
-      "end_time": "2023-07-29T13:00:00Z",
-      "title": "Twitch Con : Le Maitre des Peintres (avec plein d’invités !)",
+      "id": "eyJzZWdtZW50SUQiOiJhNzgyZmE1ZS05NGY2LTQ1YjQtYmM1MC00NWIwYzgzZmM3MjMiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjozMH0=",
+      "start_time": "2023-07-26T16:00:00Z",
+      "end_time": "2023-07-26T18:00:00Z",
+      "title": "Découverte avec @MisterJday des nouvelles maps de la vague 5 des DLC ! ",
       "canceled_until": null,
       "category": {
-        "id": "509663",
-        "name": "Special Events"
+        "id": "941530474",
+        "name": "Mario Kart 8 Deluxe"
       },
       "is_recurring": true
     },
     {
       "id": "eyJzZWdtZW50SUQiOiJjYmJkZWQ5NS1mZTJiLTQ4NmItODQ0ZC1mYzU4MDI1ODRlZjYiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjozMH0=",
-      "start_time": "2023-07-30T12:00:00Z",
-      "end_time": "2023-07-30T15:30:00Z",
-      "title": "Twitch Rivals Ultimate (avec Riv Ultia Wingo)",
+      "start_time": "2023-07-30T13:00:00Z",
+      "end_time": "2023-07-30T17:30:00Z",
+      "title": "Slowrun 100% chill et balade sur Zelda TOTK",
       "canceled_until": null,
       "category": {
-        "id": "509663",
-        "name": "Special Events"
+        "id": "512998",
+        "name": "The Legend of Zelda: Tears of the Kingdom"
       },
       "is_recurring": true
     },
     {
       "id": "eyJzZWdtZW50SUQiOiIxN2YwNjdmZC0wNzZhLTRmOTAtYjhjMy0zOGMxNDcwZGFmMDciLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjozMX0=",
-      "start_time": "2023-07-31T09:00:00Z",
-      "end_time": "2023-07-31T16:00:00Z",
-      "title": "Culture & Plaisir ",
+      "start_time": "2023-07-31T15:00:00Z",
+      "end_time": "2023-07-31T18:00:00Z",
+      "title": "Debrief Twitch Con",
+      "canceled_until": null,
+      "category": {
+        "id": "509658",
+        "name": "Just Chatting"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiI5NTA3Mzg3Yy00NzQ3LTRmYzQtYTM1Ni1iOGRmMWNkMWVmNWUiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjozMX0=",
+      "start_time": "2023-08-01T11:00:00Z",
+      "end_time": "2023-08-01T18:00:00Z",
+      "title": "Maitre des fleurs",
       "canceled_until": null,
       "category": {
         "id": "338715930",
@@ -205,19 +205,7 @@
       "is_recurring": true
     },
     {
-      "id": "eyJzZWdtZW50SUQiOiI5NTA3Mzg3Yy00NzQ3LTRmYzQtYTM1Ni1iOGRmMWNkMWVmNWUiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjozMX0=",
-      "start_time": "2023-08-01T11:00:00Z",
-      "end_time": "2023-08-01T16:00:00Z",
-      "title": "Speedrun Any% SMO",
-      "canceled_until": null,
-      "category": {
-        "id": "493997",
-        "name": "Super Mario Odyssey"
-      },
-      "is_recurring": true
-    },
-    {
-      "id": "eyJzZWdtZW50SUQiOiJhNzgyZmE1ZS05NGY2LTQ1YjQtYmM1MC00NWIwYzgzZmM3MjMiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjozMX0=",
+      "id": "eyJzZWdtZW50SUQiOiI2MDhiZjU3Mi04NzZlLTQ0YzQtYjNmMS02NTk2MWMwZDA5ZDAiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjozMX0=",
       "start_time": "2023-08-02T09:00:00Z",
       "end_time": "2023-08-02T16:00:00Z",
       "title": "Slowrun 100% chill et balade sur Zelda TOTK",
@@ -229,26 +217,38 @@
       "is_recurring": true
     },
     {
-      "id": "eyJzZWdtZW50SUQiOiIxMjJlOGUxYS02OWFjLTQ3ZTctOTRlMy00NjI5MzUzODczOWIiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjozMX0=",
-      "start_time": "2023-08-05T11:00:00Z",
-      "end_time": "2023-08-05T13:00:00Z",
-      "title": "Twitch Con : Le Maitre des Peintres (avec plein d’invités !)",
+      "id": "eyJzZWdtZW50SUQiOiJhNzgyZmE1ZS05NGY2LTQ1YjQtYmM1MC00NWIwYzgzZmM3MjMiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjozMX0=",
+      "start_time": "2023-08-02T16:00:00Z",
+      "end_time": "2023-08-02T18:00:00Z",
+      "title": "Découverte avec @MisterJday des nouvelles maps de la vague 5 des DLC ! ",
       "canceled_until": null,
       "category": {
-        "id": "509663",
-        "name": "Special Events"
+        "id": "941530474",
+        "name": "Mario Kart 8 Deluxe"
       },
       "is_recurring": true
     },
     {
       "id": "eyJzZWdtZW50SUQiOiJjYmJkZWQ5NS1mZTJiLTQ4NmItODQ0ZC1mYzU4MDI1ODRlZjYiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjozMX0=",
-      "start_time": "2023-08-06T12:00:00Z",
-      "end_time": "2023-08-06T15:30:00Z",
-      "title": "Twitch Rivals Ultimate (avec Riv Ultia Wingo)",
+      "start_time": "2023-08-06T13:00:00Z",
+      "end_time": "2023-08-06T17:30:00Z",
+      "title": "Slowrun 100% chill et balade sur Zelda TOTK",
       "canceled_until": null,
       "category": {
-        "id": "509663",
-        "name": "Special Events"
+        "id": "512998",
+        "name": "The Legend of Zelda: Tears of the Kingdom"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiIxN2YwNjdmZC0wNzZhLTRmOTAtYjhjMy0zOGMxNDcwZGFmMDciLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjozMn0=",
+      "start_time": "2023-08-07T15:00:00Z",
+      "end_time": "2023-08-07T18:00:00Z",
+      "title": "Debrief Twitch Con",
+      "canceled_until": null,
+      "category": {
+        "id": "509658",
+        "name": "Just Chatting"
       },
       "is_recurring": true
     }
