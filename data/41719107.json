@@ -1,0 +1,256 @@
+{
+  "channel": {
+    "id": "41719107",
+    "login": "zerator",
+    "display_name": "ZeratoR",
+    "type": "",
+    "broadcaster_type": "partner",
+    "description": "Entrepreneur - Twitch partner - CEO @Unexpected_std & @MandatoryGG & Founder ZEVENT - Casu à mon grand dam mais j'organise des trucs. - contact : @alexdach on Twitter or dach@zerator.tv (we read emails)",
+    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/599b546a-c27f-4684-93ff-5eeecd01fb2b-profile_image-300x300.png",
+    "offline_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/f95af142-ad29-430d-ad35-509447813b56-channel_offline_image-1920x1080.jpeg",
+    "view_count": 0,
+    "created_at": "2013-03-25T23:44:28Z"
+  },
+  "schedulers": [
+    {
+      "id": "eyJzZWdtZW50SUQiOiIyNzM1ZjYxNi1mNTYxLTQ2MDMtODllMC0xZGNjOWIyNzczYWUiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjoyOH0=",
+      "start_time": "2023-07-12T18:00:00Z",
+      "end_time": "2023-07-12T22:00:00Z",
+      "title": "Découverte du nouveau méga-donjon avec Cruella, Lapi, Hyp, Kusa",
+      "canceled_until": null,
+      "category": {
+        "id": "18122",
+        "name": "World of Warcraft"
+      },
+      "is_recurring": false
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiJiNTE0YTNkMC0xM2IxLTRjMGYtYTAzMy05OTdiYzc4Yjc1YjEiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjoyOX0=",
+      "start_time": "2023-07-17T18:30:00Z",
+      "end_time": "2023-07-17T22:00:00Z",
+      "title": "Soirée du lundi",
+      "canceled_until": null,
+      "category": {
+        "id": "509658",
+        "name": "Just Chatting"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiJiNTE0YTNkMC0xM2IxLTRjMGYtYTAzMy05OTdiYzc4Yjc1YjEiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjozMH0=",
+      "start_time": "2023-07-24T18:30:00Z",
+      "end_time": "2023-07-24T22:00:00Z",
+      "title": "Soirée du lundi",
+      "canceled_until": null,
+      "category": {
+        "id": "509658",
+        "name": "Just Chatting"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiJiNTE0YTNkMC0xM2IxLTRjMGYtYTAzMy05OTdiYzc4Yjc1YjEiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjozMX0=",
+      "start_time": "2023-07-31T18:30:00Z",
+      "end_time": "2023-07-31T22:00:00Z",
+      "title": "Soirée du lundi",
+      "canceled_until": null,
+      "category": {
+        "id": "509658",
+        "name": "Just Chatting"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiJiNTE0YTNkMC0xM2IxLTRjMGYtYTAzMy05OTdiYzc4Yjc1YjEiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjozMn0=",
+      "start_time": "2023-08-07T18:30:00Z",
+      "end_time": "2023-08-07T22:00:00Z",
+      "title": "Soirée du lundi",
+      "canceled_until": null,
+      "category": {
+        "id": "509658",
+        "name": "Just Chatting"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiJiNTE0YTNkMC0xM2IxLTRjMGYtYTAzMy05OTdiYzc4Yjc1YjEiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjozM30=",
+      "start_time": "2023-08-14T18:30:00Z",
+      "end_time": "2023-08-14T22:00:00Z",
+      "title": "Soirée du lundi",
+      "canceled_until": null,
+      "category": {
+        "id": "509658",
+        "name": "Just Chatting"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiJiNTE0YTNkMC0xM2IxLTRjMGYtYTAzMy05OTdiYzc4Yjc1YjEiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjozNH0=",
+      "start_time": "2023-08-21T18:30:00Z",
+      "end_time": "2023-08-21T22:00:00Z",
+      "title": "Soirée du lundi",
+      "canceled_until": null,
+      "category": {
+        "id": "509658",
+        "name": "Just Chatting"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiJiNTE0YTNkMC0xM2IxLTRjMGYtYTAzMy05OTdiYzc4Yjc1YjEiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjozNX0=",
+      "start_time": "2023-08-28T18:30:00Z",
+      "end_time": "2023-08-28T22:00:00Z",
+      "title": "Soirée du lundi",
+      "canceled_until": null,
+      "category": {
+        "id": "509658",
+        "name": "Just Chatting"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiJiNTE0YTNkMC0xM2IxLTRjMGYtYTAzMy05OTdiYzc4Yjc1YjEiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjozNn0=",
+      "start_time": "2023-09-04T18:30:00Z",
+      "end_time": "2023-09-04T22:00:00Z",
+      "title": "Soirée du lundi",
+      "canceled_until": null,
+      "category": {
+        "id": "509658",
+        "name": "Just Chatting"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiJiNTE0YTNkMC0xM2IxLTRjMGYtYTAzMy05OTdiYzc4Yjc1YjEiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjozN30=",
+      "start_time": "2023-09-11T18:30:00Z",
+      "end_time": "2023-09-11T22:00:00Z",
+      "title": "Soirée du lundi",
+      "canceled_until": null,
+      "category": {
+        "id": "509658",
+        "name": "Just Chatting"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiJiNTE0YTNkMC0xM2IxLTRjMGYtYTAzMy05OTdiYzc4Yjc1YjEiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjozOH0=",
+      "start_time": "2023-09-18T18:30:00Z",
+      "end_time": "2023-09-18T22:00:00Z",
+      "title": "Soirée du lundi",
+      "canceled_until": null,
+      "category": {
+        "id": "509658",
+        "name": "Just Chatting"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiJiNTE0YTNkMC0xM2IxLTRjMGYtYTAzMy05OTdiYzc4Yjc1YjEiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjozOX0=",
+      "start_time": "2023-09-25T18:30:00Z",
+      "end_time": "2023-09-25T22:00:00Z",
+      "title": "Soirée du lundi",
+      "canceled_until": null,
+      "category": {
+        "id": "509658",
+        "name": "Just Chatting"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiJiNTE0YTNkMC0xM2IxLTRjMGYtYTAzMy05OTdiYzc4Yjc1YjEiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjo0MH0=",
+      "start_time": "2023-10-02T18:30:00Z",
+      "end_time": "2023-10-02T22:00:00Z",
+      "title": "Soirée du lundi",
+      "canceled_until": null,
+      "category": {
+        "id": "509658",
+        "name": "Just Chatting"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiJiNTE0YTNkMC0xM2IxLTRjMGYtYTAzMy05OTdiYzc4Yjc1YjEiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjo0MX0=",
+      "start_time": "2023-10-09T18:30:00Z",
+      "end_time": "2023-10-09T22:00:00Z",
+      "title": "Soirée du lundi",
+      "canceled_until": null,
+      "category": {
+        "id": "509658",
+        "name": "Just Chatting"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiJiNTE0YTNkMC0xM2IxLTRjMGYtYTAzMy05OTdiYzc4Yjc1YjEiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjo0Mn0=",
+      "start_time": "2023-10-16T18:30:00Z",
+      "end_time": "2023-10-16T22:00:00Z",
+      "title": "Soirée du lundi",
+      "canceled_until": null,
+      "category": {
+        "id": "509658",
+        "name": "Just Chatting"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiJiNTE0YTNkMC0xM2IxLTRjMGYtYTAzMy05OTdiYzc4Yjc1YjEiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjo0M30=",
+      "start_time": "2023-10-23T18:30:00Z",
+      "end_time": "2023-10-23T22:00:00Z",
+      "title": "Soirée du lundi",
+      "canceled_until": null,
+      "category": {
+        "id": "509658",
+        "name": "Just Chatting"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiJiNTE0YTNkMC0xM2IxLTRjMGYtYTAzMy05OTdiYzc4Yjc1YjEiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjo0NH0=",
+      "start_time": "2023-10-30T19:30:00Z",
+      "end_time": "2023-10-30T23:00:00Z",
+      "title": "Soirée du lundi",
+      "canceled_until": null,
+      "category": {
+        "id": "509658",
+        "name": "Just Chatting"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiJiNTE0YTNkMC0xM2IxLTRjMGYtYTAzMy05OTdiYzc4Yjc1YjEiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjo0NX0=",
+      "start_time": "2023-11-06T19:30:00Z",
+      "end_time": "2023-11-06T23:00:00Z",
+      "title": "Soirée du lundi",
+      "canceled_until": null,
+      "category": {
+        "id": "509658",
+        "name": "Just Chatting"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiJiNTE0YTNkMC0xM2IxLTRjMGYtYTAzMy05OTdiYzc4Yjc1YjEiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjo0Nn0=",
+      "start_time": "2023-11-13T19:30:00Z",
+      "end_time": "2023-11-13T23:00:00Z",
+      "title": "Soirée du lundi",
+      "canceled_until": null,
+      "category": {
+        "id": "509658",
+        "name": "Just Chatting"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiJiNTE0YTNkMC0xM2IxLTRjMGYtYTAzMy05OTdiYzc4Yjc1YjEiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjo0N30=",
+      "start_time": "2023-11-20T19:30:00Z",
+      "end_time": "2023-11-20T23:00:00Z",
+      "title": "Soirée du lundi",
+      "canceled_until": null,
+      "category": {
+        "id": "509658",
+        "name": "Just Chatting"
+      },
+      "is_recurring": true
+    }
+  ]
+}
