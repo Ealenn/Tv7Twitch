@@ -13,14 +13,14 @@
   },
   "schedulers": [
     {
-      "id": "eyJzZWdtZW50SUQiOiIyNzM1ZjYxNi1mNTYxLTQ2MDMtODllMC0xZGNjOWIyNzczYWUiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjoyOH0=",
-      "start_time": "2023-07-12T18:00:00Z",
-      "end_time": "2023-07-12T22:00:00Z",
-      "title": "Découverte du nouveau méga-donjon avec Cruella, Lapi, Hyp, Kusa",
+      "id": "eyJzZWdtZW50SUQiOiI5YmJkMjMyZS1lYjI2LTRiOWYtYjU0YS1jOTlkMzNiOGI4ODIiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjoyOH0=",
+      "start_time": "2023-07-13T16:00:00Z",
+      "end_time": "2023-07-13T17:00:00Z",
+      "title": "On écoute l'album mon album de musique",
       "canceled_until": null,
       "category": {
-        "id": "18122",
-        "name": "World of Warcraft"
+        "id": "26936",
+        "name": "Music"
       },
       "is_recurring": false
     },

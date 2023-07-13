@@ -13,33 +13,9 @@
   },
   "schedulers": [
     {
-      "id": "eyJzZWdtZW50SUQiOiI2MDhiZjU3Mi04NzZlLTQ0YzQtYjNmMS02NTk2MWMwZDA5ZDAiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjoyOH0=",
-      "start_time": "2023-07-12T09:00:00Z",
-      "end_time": "2023-07-12T16:00:00Z",
-      "title": "Slowrun 100% chill et balade sur Zelda TOTK",
-      "canceled_until": null,
-      "category": {
-        "id": "512998",
-        "name": "The Legend of Zelda: Tears of the Kingdom"
-      },
-      "is_recurring": true
-    },
-    {
-      "id": "eyJzZWdtZW50SUQiOiJhNzgyZmE1ZS05NGY2LTQ1YjQtYmM1MC00NWIwYzgzZmM3MjMiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjoyOH0=",
-      "start_time": "2023-07-12T16:00:00Z",
-      "end_time": "2023-07-12T18:00:00Z",
-      "title": "Découverte avec @MisterJday des nouvelles maps de la vague 5 des DLC ! ",
-      "canceled_until": null,
-      "category": {
-        "id": "941530474",
-        "name": "Mario Kart 8 Deluxe"
-      },
-      "is_recurring": true
-    },
-    {
       "id": "eyJzZWdtZW50SUQiOiJjYmJkZWQ5NS1mZTJiLTQ4NmItODQ0ZC1mYzU4MDI1ODRlZjYiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjoyOH0=",
       "start_time": "2023-07-16T13:00:00Z",
-      "end_time": "2023-07-16T17:30:00Z",
+      "end_time": "2023-07-16T16:00:00Z",
       "title": "Slowrun 100% chill et balade sur Zelda TOTK",
       "canceled_until": null,
       "category": {
@@ -99,7 +75,7 @@
     {
       "id": "eyJzZWdtZW50SUQiOiJjYmJkZWQ5NS1mZTJiLTQ4NmItODQ0ZC1mYzU4MDI1ODRlZjYiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjoyOX0=",
       "start_time": "2023-07-23T13:00:00Z",
-      "end_time": "2023-07-23T17:30:00Z",
+      "end_time": "2023-07-23T16:00:00Z",
       "title": "Slowrun 100% chill et balade sur Zelda TOTK",
       "canceled_until": null,
       "category": {
@@ -159,7 +135,7 @@
     {
       "id": "eyJzZWdtZW50SUQiOiJjYmJkZWQ5NS1mZTJiLTQ4NmItODQ0ZC1mYzU4MDI1ODRlZjYiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjozMH0=",
       "start_time": "2023-07-30T13:00:00Z",
-      "end_time": "2023-07-30T17:30:00Z",
+      "end_time": "2023-07-30T16:00:00Z",
       "title": "Slowrun 100% chill et balade sur Zelda TOTK",
       "canceled_until": null,
       "category": {
@@ -219,7 +195,7 @@
     {
       "id": "eyJzZWdtZW50SUQiOiJjYmJkZWQ5NS1mZTJiLTQ4NmItODQ0ZC1mYzU4MDI1ODRlZjYiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjozMX0=",
       "start_time": "2023-08-06T13:00:00Z",
-      "end_time": "2023-08-06T17:30:00Z",
+      "end_time": "2023-08-06T16:00:00Z",
       "title": "Slowrun 100% chill et balade sur Zelda TOTK",
       "canceled_until": null,
       "category": {
@@ -249,6 +225,30 @@
       "category": {
         "id": "338715930",
         "name": "Maitre des Fleurs"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiI2MDhiZjU3Mi04NzZlLTQ0YzQtYjNmMS02NTk2MWMwZDA5ZDAiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjozMn0=",
+      "start_time": "2023-08-09T09:00:00Z",
+      "end_time": "2023-08-09T16:00:00Z",
+      "title": "Slowrun 100% chill et balade sur Zelda TOTK",
+      "canceled_until": null,
+      "category": {
+        "id": "512998",
+        "name": "The Legend of Zelda: Tears of the Kingdom"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiJhNzgyZmE1ZS05NGY2LTQ1YjQtYmM1MC00NWIwYzgzZmM3MjMiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjozMn0=",
+      "start_time": "2023-08-09T16:00:00Z",
+      "end_time": "2023-08-09T18:00:00Z",
+      "title": "Découverte avec @MisterJday des nouvelles maps de la vague 5 des DLC ! ",
+      "canceled_until": null,
+      "category": {
+        "id": "941530474",
+        "name": "Mario Kart 8 Deluxe"
       },
       "is_recurring": true
     }
