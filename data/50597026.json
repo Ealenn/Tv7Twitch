@@ -13,34 +13,10 @@
   },
   "schedulers": [
     {
-      "id": "eyJzZWdtZW50SUQiOiJjYmJkZWQ5NS1mZTJiLTQ4NmItODQ0ZC1mYzU4MDI1ODRlZjYiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjoyOH0=",
-      "start_time": "2023-07-16T13:00:00Z",
-      "end_time": "2023-07-16T16:00:00Z",
-      "title": "Slowrun 100% chill et balade sur Zelda TOTK",
-      "canceled_until": null,
-      "category": {
-        "id": "512998",
-        "name": "The Legend of Zelda: Tears of the Kingdom"
-      },
-      "is_recurring": true
-    },
-    {
-      "id": "eyJzZWdtZW50SUQiOiIxN2YwNjdmZC0wNzZhLTRmOTAtYjhjMy0zOGMxNDcwZGFmMDciLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjoyOX0=",
-      "start_time": "2023-07-17T15:00:00Z",
+      "id": "eyJzZWdtZW50SUQiOiI2ZGZhYjBmMi1iMmE5LTRiNTgtODA2My0yOWJlNzM5ZmRkYmYiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjoyOX0=",
+      "start_time": "2023-07-17T11:00:00Z",
       "end_time": "2023-07-17T18:00:00Z",
-      "title": "Debrief Twitch Con",
-      "canceled_until": null,
-      "category": {
-        "id": "509658",
-        "name": "Just Chatting"
-      },
-      "is_recurring": true
-    },
-    {
-      "id": "eyJzZWdtZW50SUQiOiI5NTA3Mzg3Yy00NzQ3LTRmYzQtYTM1Ni1iOGRmMWNkMWVmNWUiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjoyOX0=",
-      "start_time": "2023-07-18T11:00:00Z",
-      "end_time": "2023-07-18T18:00:00Z",
-      "title": "Maitre des fleurs",
+      "title": "Culture et plaisir sur le Maître des Fleurs !",
       "canceled_until": null,
       "category": {
         "id": "338715930",
@@ -49,10 +25,22 @@
       "is_recurring": true
     },
     {
-      "id": "eyJzZWdtZW50SUQiOiI2MDhiZjU3Mi04NzZlLTQ0YzQtYjNmMS02NTk2MWMwZDA5ZDAiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjoyOX0=",
-      "start_time": "2023-07-19T09:00:00Z",
-      "end_time": "2023-07-19T16:00:00Z",
-      "title": "Slowrun 100% chill et balade sur Zelda TOTK",
+      "id": "eyJzZWdtZW50SUQiOiIzOWU1YWRkNy1mNGQxLTRjMTYtOTkyZC0zYmEzYjVmMGVhYTUiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjoyOX0=",
+      "start_time": "2023-07-18T09:00:00Z",
+      "end_time": "2023-07-18T16:00:00Z",
+      "title": "Speedrun SMO any%",
+      "canceled_until": null,
+      "category": {
+        "id": "493997",
+        "name": "Super Mario Odyssey"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiJiMjk3N2NlYi1hNDI2LTQ5MDItYmZmZi0zNDI5YmNiNDQ4MzgiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjoyOX0=",
+      "start_time": "2023-07-19T13:00:00Z",
+      "end_time": "2023-07-19T22:00:00Z",
+      "title": "Le slowrun TOTK (into nocturne souterrains)",
       "canceled_until": null,
       "category": {
         "id": "512998",
@@ -61,46 +49,34 @@
       "is_recurring": true
     },
     {
-      "id": "eyJzZWdtZW50SUQiOiJhNzgyZmE1ZS05NGY2LTQ1YjQtYmM1MC00NWIwYzgzZmM3MjMiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjoyOX0=",
-      "start_time": "2023-07-19T16:00:00Z",
-      "end_time": "2023-07-19T18:00:00Z",
-      "title": "Découverte avec @MisterJday des nouvelles maps de la vague 5 des DLC ! ",
+      "id": "eyJzZWdtZW50SUQiOiI4MWMwZjA2ZC00YThkLTQ0MDAtOWJlYi1iMThlMmNhNWY0OWEiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjoyOX0=",
+      "start_time": "2023-07-20T12:00:00Z",
+      "end_time": "2023-07-20T16:00:00Z",
+      "title": "Stream 100% commu",
       "canceled_until": null,
       "category": {
-        "id": "941530474",
-        "name": "Mario Kart 8 Deluxe"
+        "id": "509658",
+        "name": "Just Chatting"
       },
       "is_recurring": true
     },
     {
-      "id": "eyJzZWdtZW50SUQiOiJjYmJkZWQ5NS1mZTJiLTQ4NmItODQ0ZC1mYzU4MDI1ODRlZjYiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjoyOX0=",
-      "start_time": "2023-07-23T13:00:00Z",
-      "end_time": "2023-07-23T16:00:00Z",
-      "title": "Slowrun 100% chill et balade sur Zelda TOTK",
+      "id": "eyJzZWdtZW50SUQiOiJjM2M4ODhlYS02M2M1LTQyN2EtYTQ1OC1kYjk2M2NjYzhiMDUiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjoyOX0=",
+      "start_time": "2023-07-21T09:00:00Z",
+      "end_time": "2023-07-21T16:00:00Z",
+      "title": "Découverte de pikmin 4",
       "canceled_until": null,
       "category": {
-        "id": "512998",
-        "name": "The Legend of Zelda: Tears of the Kingdom"
+        "id": "494998",
+        "name": "Pikmin 4"
       },
       "is_recurring": true
     },
     {
-      "id": "eyJzZWdtZW50SUQiOiIxN2YwNjdmZC0wNzZhLTRmOTAtYjhjMy0zOGMxNDcwZGFmMDciLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjozMH0=",
-      "start_time": "2023-07-24T15:00:00Z",
+      "id": "eyJzZWdtZW50SUQiOiI2ZGZhYjBmMi1iMmE5LTRiNTgtODA2My0yOWJlNzM5ZmRkYmYiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjozMH0=",
+      "start_time": "2023-07-24T11:00:00Z",
       "end_time": "2023-07-24T18:00:00Z",
-      "title": "Debrief Twitch Con",
-      "canceled_until": null,
-      "category": {
-        "id": "509658",
-        "name": "Just Chatting"
-      },
-      "is_recurring": true
-    },
-    {
-      "id": "eyJzZWdtZW50SUQiOiI5NTA3Mzg3Yy00NzQ3LTRmYzQtYTM1Ni1iOGRmMWNkMWVmNWUiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjozMH0=",
-      "start_time": "2023-07-25T11:00:00Z",
-      "end_time": "2023-07-25T18:00:00Z",
-      "title": "Maitre des fleurs",
+      "title": "Culture et plaisir sur le Maître des Fleurs !",
       "canceled_until": null,
       "category": {
         "id": "338715930",
@@ -109,10 +85,22 @@
       "is_recurring": true
     },
     {
-      "id": "eyJzZWdtZW50SUQiOiI2MDhiZjU3Mi04NzZlLTQ0YzQtYjNmMS02NTk2MWMwZDA5ZDAiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjozMH0=",
-      "start_time": "2023-07-26T09:00:00Z",
-      "end_time": "2023-07-26T16:00:00Z",
-      "title": "Slowrun 100% chill et balade sur Zelda TOTK",
+      "id": "eyJzZWdtZW50SUQiOiIzOWU1YWRkNy1mNGQxLTRjMTYtOTkyZC0zYmEzYjVmMGVhYTUiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjozMH0=",
+      "start_time": "2023-07-25T09:00:00Z",
+      "end_time": "2023-07-25T16:00:00Z",
+      "title": "Speedrun SMO any%",
+      "canceled_until": null,
+      "category": {
+        "id": "493997",
+        "name": "Super Mario Odyssey"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiJiMjk3N2NlYi1hNDI2LTQ5MDItYmZmZi0zNDI5YmNiNDQ4MzgiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjozMH0=",
+      "start_time": "2023-07-26T13:00:00Z",
+      "end_time": "2023-07-26T22:00:00Z",
+      "title": "Le slowrun TOTK (into nocturne souterrains)",
       "canceled_until": null,
       "category": {
         "id": "512998",
@@ -121,46 +109,34 @@
       "is_recurring": true
     },
     {
-      "id": "eyJzZWdtZW50SUQiOiJhNzgyZmE1ZS05NGY2LTQ1YjQtYmM1MC00NWIwYzgzZmM3MjMiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjozMH0=",
-      "start_time": "2023-07-26T16:00:00Z",
-      "end_time": "2023-07-26T18:00:00Z",
-      "title": "Découverte avec @MisterJday des nouvelles maps de la vague 5 des DLC ! ",
+      "id": "eyJzZWdtZW50SUQiOiI4MWMwZjA2ZC00YThkLTQ0MDAtOWJlYi1iMThlMmNhNWY0OWEiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjozMH0=",
+      "start_time": "2023-07-27T12:00:00Z",
+      "end_time": "2023-07-27T16:00:00Z",
+      "title": "Stream 100% commu",
       "canceled_until": null,
       "category": {
-        "id": "941530474",
-        "name": "Mario Kart 8 Deluxe"
+        "id": "509658",
+        "name": "Just Chatting"
       },
       "is_recurring": true
     },
     {
-      "id": "eyJzZWdtZW50SUQiOiJjYmJkZWQ5NS1mZTJiLTQ4NmItODQ0ZC1mYzU4MDI1ODRlZjYiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjozMH0=",
-      "start_time": "2023-07-30T13:00:00Z",
-      "end_time": "2023-07-30T16:00:00Z",
-      "title": "Slowrun 100% chill et balade sur Zelda TOTK",
+      "id": "eyJzZWdtZW50SUQiOiJjM2M4ODhlYS02M2M1LTQyN2EtYTQ1OC1kYjk2M2NjYzhiMDUiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjozMH0=",
+      "start_time": "2023-07-28T09:00:00Z",
+      "end_time": "2023-07-28T16:00:00Z",
+      "title": "Découverte de pikmin 4",
       "canceled_until": null,
       "category": {
-        "id": "512998",
-        "name": "The Legend of Zelda: Tears of the Kingdom"
+        "id": "494998",
+        "name": "Pikmin 4"
       },
       "is_recurring": true
     },
     {
-      "id": "eyJzZWdtZW50SUQiOiIxN2YwNjdmZC0wNzZhLTRmOTAtYjhjMy0zOGMxNDcwZGFmMDciLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjozMX0=",
-      "start_time": "2023-07-31T15:00:00Z",
+      "id": "eyJzZWdtZW50SUQiOiI2ZGZhYjBmMi1iMmE5LTRiNTgtODA2My0yOWJlNzM5ZmRkYmYiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjozMX0=",
+      "start_time": "2023-07-31T11:00:00Z",
       "end_time": "2023-07-31T18:00:00Z",
-      "title": "Debrief Twitch Con",
-      "canceled_until": null,
-      "category": {
-        "id": "509658",
-        "name": "Just Chatting"
-      },
-      "is_recurring": true
-    },
-    {
-      "id": "eyJzZWdtZW50SUQiOiI5NTA3Mzg3Yy00NzQ3LTRmYzQtYTM1Ni1iOGRmMWNkMWVmNWUiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjozMX0=",
-      "start_time": "2023-08-01T11:00:00Z",
-      "end_time": "2023-08-01T18:00:00Z",
-      "title": "Maitre des fleurs",
+      "title": "Culture et plaisir sur le Maître des Fleurs !",
       "canceled_until": null,
       "category": {
         "id": "338715930",
@@ -169,10 +145,22 @@
       "is_recurring": true
     },
     {
-      "id": "eyJzZWdtZW50SUQiOiI2MDhiZjU3Mi04NzZlLTQ0YzQtYjNmMS02NTk2MWMwZDA5ZDAiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjozMX0=",
-      "start_time": "2023-08-02T09:00:00Z",
-      "end_time": "2023-08-02T16:00:00Z",
-      "title": "Slowrun 100% chill et balade sur Zelda TOTK",
+      "id": "eyJzZWdtZW50SUQiOiIzOWU1YWRkNy1mNGQxLTRjMTYtOTkyZC0zYmEzYjVmMGVhYTUiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjozMX0=",
+      "start_time": "2023-08-01T09:00:00Z",
+      "end_time": "2023-08-01T16:00:00Z",
+      "title": "Speedrun SMO any%",
+      "canceled_until": null,
+      "category": {
+        "id": "493997",
+        "name": "Super Mario Odyssey"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiJiMjk3N2NlYi1hNDI2LTQ5MDItYmZmZi0zNDI5YmNiNDQ4MzgiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjozMX0=",
+      "start_time": "2023-08-02T13:00:00Z",
+      "end_time": "2023-08-02T22:00:00Z",
+      "title": "Le slowrun TOTK (into nocturne souterrains)",
       "canceled_until": null,
       "category": {
         "id": "512998",
@@ -181,46 +169,34 @@
       "is_recurring": true
     },
     {
-      "id": "eyJzZWdtZW50SUQiOiJhNzgyZmE1ZS05NGY2LTQ1YjQtYmM1MC00NWIwYzgzZmM3MjMiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjozMX0=",
-      "start_time": "2023-08-02T16:00:00Z",
-      "end_time": "2023-08-02T18:00:00Z",
-      "title": "Découverte avec @MisterJday des nouvelles maps de la vague 5 des DLC ! ",
+      "id": "eyJzZWdtZW50SUQiOiI4MWMwZjA2ZC00YThkLTQ0MDAtOWJlYi1iMThlMmNhNWY0OWEiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjozMX0=",
+      "start_time": "2023-08-03T12:00:00Z",
+      "end_time": "2023-08-03T16:00:00Z",
+      "title": "Stream 100% commu",
       "canceled_until": null,
       "category": {
-        "id": "941530474",
-        "name": "Mario Kart 8 Deluxe"
+        "id": "509658",
+        "name": "Just Chatting"
       },
       "is_recurring": true
     },
     {
-      "id": "eyJzZWdtZW50SUQiOiJjYmJkZWQ5NS1mZTJiLTQ4NmItODQ0ZC1mYzU4MDI1ODRlZjYiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjozMX0=",
-      "start_time": "2023-08-06T13:00:00Z",
-      "end_time": "2023-08-06T16:00:00Z",
-      "title": "Slowrun 100% chill et balade sur Zelda TOTK",
+      "id": "eyJzZWdtZW50SUQiOiJjM2M4ODhlYS02M2M1LTQyN2EtYTQ1OC1kYjk2M2NjYzhiMDUiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjozMX0=",
+      "start_time": "2023-08-04T09:00:00Z",
+      "end_time": "2023-08-04T16:00:00Z",
+      "title": "Découverte de pikmin 4",
       "canceled_until": null,
       "category": {
-        "id": "512998",
-        "name": "The Legend of Zelda: Tears of the Kingdom"
+        "id": "494998",
+        "name": "Pikmin 4"
       },
       "is_recurring": true
     },
     {
-      "id": "eyJzZWdtZW50SUQiOiIxN2YwNjdmZC0wNzZhLTRmOTAtYjhjMy0zOGMxNDcwZGFmMDciLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjozMn0=",
-      "start_time": "2023-08-07T15:00:00Z",
+      "id": "eyJzZWdtZW50SUQiOiI2ZGZhYjBmMi1iMmE5LTRiNTgtODA2My0yOWJlNzM5ZmRkYmYiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjozMn0=",
+      "start_time": "2023-08-07T11:00:00Z",
       "end_time": "2023-08-07T18:00:00Z",
-      "title": "Debrief Twitch Con",
-      "canceled_until": null,
-      "category": {
-        "id": "509658",
-        "name": "Just Chatting"
-      },
-      "is_recurring": true
-    },
-    {
-      "id": "eyJzZWdtZW50SUQiOiI5NTA3Mzg3Yy00NzQ3LTRmYzQtYTM1Ni1iOGRmMWNkMWVmNWUiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjozMn0=",
-      "start_time": "2023-08-08T11:00:00Z",
-      "end_time": "2023-08-08T18:00:00Z",
-      "title": "Maitre des fleurs",
+      "title": "Culture et plaisir sur le Maître des Fleurs !",
       "canceled_until": null,
       "category": {
         "id": "338715930",
@@ -229,10 +205,22 @@
       "is_recurring": true
     },
     {
-      "id": "eyJzZWdtZW50SUQiOiI2MDhiZjU3Mi04NzZlLTQ0YzQtYjNmMS02NTk2MWMwZDA5ZDAiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjozMn0=",
-      "start_time": "2023-08-09T09:00:00Z",
-      "end_time": "2023-08-09T16:00:00Z",
-      "title": "Slowrun 100% chill et balade sur Zelda TOTK",
+      "id": "eyJzZWdtZW50SUQiOiIzOWU1YWRkNy1mNGQxLTRjMTYtOTkyZC0zYmEzYjVmMGVhYTUiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjozMn0=",
+      "start_time": "2023-08-08T09:00:00Z",
+      "end_time": "2023-08-08T16:00:00Z",
+      "title": "Speedrun SMO any%",
+      "canceled_until": null,
+      "category": {
+        "id": "493997",
+        "name": "Super Mario Odyssey"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiJiMjk3N2NlYi1hNDI2LTQ5MDItYmZmZi0zNDI5YmNiNDQ4MzgiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjozMn0=",
+      "start_time": "2023-08-09T13:00:00Z",
+      "end_time": "2023-08-09T22:00:00Z",
+      "title": "Le slowrun TOTK (into nocturne souterrains)",
       "canceled_until": null,
       "category": {
         "id": "512998",
@@ -241,14 +229,26 @@
       "is_recurring": true
     },
     {
-      "id": "eyJzZWdtZW50SUQiOiJhNzgyZmE1ZS05NGY2LTQ1YjQtYmM1MC00NWIwYzgzZmM3MjMiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjozMn0=",
-      "start_time": "2023-08-09T16:00:00Z",
-      "end_time": "2023-08-09T18:00:00Z",
-      "title": "Découverte avec @MisterJday des nouvelles maps de la vague 5 des DLC ! ",
+      "id": "eyJzZWdtZW50SUQiOiI4MWMwZjA2ZC00YThkLTQ0MDAtOWJlYi1iMThlMmNhNWY0OWEiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjozMn0=",
+      "start_time": "2023-08-10T12:00:00Z",
+      "end_time": "2023-08-10T16:00:00Z",
+      "title": "Stream 100% commu",
       "canceled_until": null,
       "category": {
-        "id": "941530474",
-        "name": "Mario Kart 8 Deluxe"
+        "id": "509658",
+        "name": "Just Chatting"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiJjM2M4ODhlYS02M2M1LTQyN2EtYTQ1OC1kYjk2M2NjYzhiMDUiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjozMn0=",
+      "start_time": "2023-08-11T09:00:00Z",
+      "end_time": "2023-08-11T16:00:00Z",
+      "title": "Découverte de pikmin 4",
+      "canceled_until": null,
+      "category": {
+        "id": "494998",
+        "name": "Pikmin 4"
       },
       "is_recurring": true
     }
