@@ -13,189 +13,168 @@
   },
   "schedulers": [
     {
-      "id": "eyJzZWdtZW50SUQiOiI2ZGZhYjBmMi1iMmE5LTRiNTgtODA2My0yOWJlNzM5ZmRkYmYiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjozMH0=",
-      "start_time": "2023-07-24T11:00:00Z",
-      "end_time": "2023-07-24T18:00:00Z",
-      "title": "Culture et plaisir sur le Maître des Fleurs !",
-      "canceled_until": null,
-      "category": {
-        "id": "338715930",
-        "name": "Maitre des Fleurs"
-      },
-      "is_recurring": true
-    },
-    {
-      "id": "eyJzZWdtZW50SUQiOiIzOWU1YWRkNy1mNGQxLTRjMTYtOTkyZC0zYmEzYjVmMGVhYTUiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjozMH0=",
-      "start_time": "2023-07-25T09:00:00Z",
-      "end_time": "2023-07-25T16:00:00Z",
-      "title": "Speedrun SMO any%",
-      "canceled_until": null,
-      "category": {
-        "id": "493997",
-        "name": "Super Mario Odyssey"
-      },
-      "is_recurring": true
-    },
-    {
       "id": "eyJzZWdtZW50SUQiOiJiMjk3N2NlYi1hNDI2LTQ5MDItYmZmZi0zNDI5YmNiNDQ4MzgiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjozMH0=",
-      "start_time": "2023-07-26T13:00:00Z",
+      "start_time": "2023-07-26T15:00:00Z",
       "end_time": "2023-07-26T22:00:00Z",
-      "title": "Le slowrun TOTK (into nocturne souterrains)",
+      "title": "LIVE EN DIRECT DE LAS VEGAS",
       "canceled_until": null,
-      "category": {
-        "id": "512998",
-        "name": "The Legend of Zelda: Tears of the Kingdom"
-      },
+      "category": null,
       "is_recurring": true
     },
     {
       "id": "eyJzZWdtZW50SUQiOiI4MWMwZjA2ZC00YThkLTQ0MDAtOWJlYi1iMThlMmNhNWY0OWEiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjozMH0=",
-      "start_time": "2023-07-27T12:00:00Z",
-      "end_time": "2023-07-27T16:00:00Z",
-      "title": "Stream 100% commu",
+      "start_time": "2023-07-27T15:00:00Z",
+      "end_time": "2023-07-27T19:00:00Z",
+      "title": "LIVE EN DIRECT DE LAS VEGAS",
       "canceled_until": null,
-      "category": {
-        "id": "509658",
-        "name": "Just Chatting"
-      },
+      "category": null,
       "is_recurring": true
     },
     {
-      "id": "eyJzZWdtZW50SUQiOiJjM2M4ODhlYS02M2M1LTQyN2EtYTQ1OC1kYjk2M2NjYzhiMDUiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjozMH0=",
-      "start_time": "2023-07-28T09:00:00Z",
-      "end_time": "2023-07-28T16:00:00Z",
-      "title": "Découverte de pikmin 4",
+      "id": "eyJzZWdtZW50SUQiOiIwNGJjYzE3MC1iZDMyLTQyNzQtYmU1OS02NjJmMWM3MDZhZGQiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjozMH0=",
+      "start_time": "2023-07-28T15:00:00Z",
+      "end_time": "2023-07-28T22:00:00Z",
+      "title": "LIVE EN DIRECT DE LAS VEGAS",
       "canceled_until": null,
-      "category": {
-        "id": "494998",
-        "name": "Pikmin 4"
-      },
+      "category": null,
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiI4Njk1OTg3OC1hNTczLTQ3MTctYmVlNy04OWVhMDE5MmFjYzAiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjozMH0=",
+      "start_time": "2023-07-29T15:00:00Z",
+      "end_time": "2023-07-29T22:00:00Z",
+      "title": "LIVE EN DIRECT DE LAS VEGAS",
+      "canceled_until": null,
+      "category": null,
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiI2MTgzMDFkOC0xMDk2LTQwM2YtOWUzMC0zZDNiOWVlN2YwNjkiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjozMH0=",
+      "start_time": "2023-07-30T15:00:00Z",
+      "end_time": "2023-07-30T22:00:00Z",
+      "title": "LIVE EN DIRECT DE LAS VEGAS",
+      "canceled_until": null,
+      "category": null,
       "is_recurring": true
     },
     {
       "id": "eyJzZWdtZW50SUQiOiI2ZGZhYjBmMi1iMmE5LTRiNTgtODA2My0yOWJlNzM5ZmRkYmYiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjozMX0=",
-      "start_time": "2023-07-31T11:00:00Z",
-      "end_time": "2023-07-31T18:00:00Z",
+      "start_time": "2023-07-31T09:00:00Z",
+      "end_time": "2023-07-31T14:00:00Z",
       "title": "Culture et plaisir sur le Maître des Fleurs !",
       "canceled_until": null,
       "category": {
         "id": "338715930",
         "name": "Maitre des Fleurs"
-      },
-      "is_recurring": true
-    },
-    {
-      "id": "eyJzZWdtZW50SUQiOiIzOWU1YWRkNy1mNGQxLTRjMTYtOTkyZC0zYmEzYjVmMGVhYTUiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjozMX0=",
-      "start_time": "2023-08-01T09:00:00Z",
-      "end_time": "2023-08-01T16:00:00Z",
-      "title": "Speedrun SMO any%",
-      "canceled_until": null,
-      "category": {
-        "id": "493997",
-        "name": "Super Mario Odyssey"
       },
       "is_recurring": true
     },
     {
       "id": "eyJzZWdtZW50SUQiOiJiMjk3N2NlYi1hNDI2LTQ5MDItYmZmZi0zNDI5YmNiNDQ4MzgiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjozMX0=",
-      "start_time": "2023-08-02T13:00:00Z",
+      "start_time": "2023-08-02T15:00:00Z",
       "end_time": "2023-08-02T22:00:00Z",
-      "title": "Le slowrun TOTK (into nocturne souterrains)",
+      "title": "LIVE EN DIRECT DE LAS VEGAS",
       "canceled_until": null,
-      "category": {
-        "id": "512998",
-        "name": "The Legend of Zelda: Tears of the Kingdom"
-      },
+      "category": null,
       "is_recurring": true
     },
     {
       "id": "eyJzZWdtZW50SUQiOiI4MWMwZjA2ZC00YThkLTQ0MDAtOWJlYi1iMThlMmNhNWY0OWEiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjozMX0=",
-      "start_time": "2023-08-03T12:00:00Z",
-      "end_time": "2023-08-03T16:00:00Z",
-      "title": "Stream 100% commu",
+      "start_time": "2023-08-03T15:00:00Z",
+      "end_time": "2023-08-03T19:00:00Z",
+      "title": "LIVE EN DIRECT DE LAS VEGAS",
       "canceled_until": null,
-      "category": {
-        "id": "509658",
-        "name": "Just Chatting"
-      },
+      "category": null,
       "is_recurring": true
     },
     {
-      "id": "eyJzZWdtZW50SUQiOiJjM2M4ODhlYS02M2M1LTQyN2EtYTQ1OC1kYjk2M2NjYzhiMDUiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjozMX0=",
-      "start_time": "2023-08-04T09:00:00Z",
-      "end_time": "2023-08-04T16:00:00Z",
-      "title": "Découverte de pikmin 4",
+      "id": "eyJzZWdtZW50SUQiOiIwNGJjYzE3MC1iZDMyLTQyNzQtYmU1OS02NjJmMWM3MDZhZGQiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjozMX0=",
+      "start_time": "2023-08-04T15:00:00Z",
+      "end_time": "2023-08-04T22:00:00Z",
+      "title": "LIVE EN DIRECT DE LAS VEGAS",
       "canceled_until": null,
-      "category": {
-        "id": "494998",
-        "name": "Pikmin 4"
-      },
+      "category": null,
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiI4Njk1OTg3OC1hNTczLTQ3MTctYmVlNy04OWVhMDE5MmFjYzAiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjozMX0=",
+      "start_time": "2023-08-05T15:00:00Z",
+      "end_time": "2023-08-05T22:00:00Z",
+      "title": "LIVE EN DIRECT DE LAS VEGAS",
+      "canceled_until": null,
+      "category": null,
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiI2MTgzMDFkOC0xMDk2LTQwM2YtOWUzMC0zZDNiOWVlN2YwNjkiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjozMX0=",
+      "start_time": "2023-08-06T15:00:00Z",
+      "end_time": "2023-08-06T22:00:00Z",
+      "title": "LIVE EN DIRECT DE LAS VEGAS",
+      "canceled_until": null,
+      "category": null,
       "is_recurring": true
     },
     {
       "id": "eyJzZWdtZW50SUQiOiI2ZGZhYjBmMi1iMmE5LTRiNTgtODA2My0yOWJlNzM5ZmRkYmYiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjozMn0=",
-      "start_time": "2023-08-07T11:00:00Z",
-      "end_time": "2023-08-07T18:00:00Z",
+      "start_time": "2023-08-07T09:00:00Z",
+      "end_time": "2023-08-07T14:00:00Z",
       "title": "Culture et plaisir sur le Maître des Fleurs !",
       "canceled_until": null,
       "category": {
         "id": "338715930",
         "name": "Maitre des Fleurs"
-      },
-      "is_recurring": true
-    },
-    {
-      "id": "eyJzZWdtZW50SUQiOiIzOWU1YWRkNy1mNGQxLTRjMTYtOTkyZC0zYmEzYjVmMGVhYTUiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjozMn0=",
-      "start_time": "2023-08-08T09:00:00Z",
-      "end_time": "2023-08-08T16:00:00Z",
-      "title": "Speedrun SMO any%",
-      "canceled_until": null,
-      "category": {
-        "id": "493997",
-        "name": "Super Mario Odyssey"
       },
       "is_recurring": true
     },
     {
       "id": "eyJzZWdtZW50SUQiOiJiMjk3N2NlYi1hNDI2LTQ5MDItYmZmZi0zNDI5YmNiNDQ4MzgiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjozMn0=",
-      "start_time": "2023-08-09T13:00:00Z",
+      "start_time": "2023-08-09T15:00:00Z",
       "end_time": "2023-08-09T22:00:00Z",
-      "title": "Le slowrun TOTK (into nocturne souterrains)",
+      "title": "LIVE EN DIRECT DE LAS VEGAS",
       "canceled_until": null,
-      "category": {
-        "id": "512998",
-        "name": "The Legend of Zelda: Tears of the Kingdom"
-      },
+      "category": null,
       "is_recurring": true
     },
     {
       "id": "eyJzZWdtZW50SUQiOiI4MWMwZjA2ZC00YThkLTQ0MDAtOWJlYi1iMThlMmNhNWY0OWEiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjozMn0=",
-      "start_time": "2023-08-10T12:00:00Z",
-      "end_time": "2023-08-10T16:00:00Z",
-      "title": "Stream 100% commu",
+      "start_time": "2023-08-10T15:00:00Z",
+      "end_time": "2023-08-10T19:00:00Z",
+      "title": "LIVE EN DIRECT DE LAS VEGAS",
       "canceled_until": null,
-      "category": {
-        "id": "509658",
-        "name": "Just Chatting"
-      },
+      "category": null,
       "is_recurring": true
     },
     {
-      "id": "eyJzZWdtZW50SUQiOiJjM2M4ODhlYS02M2M1LTQyN2EtYTQ1OC1kYjk2M2NjYzhiMDUiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjozMn0=",
-      "start_time": "2023-08-11T09:00:00Z",
-      "end_time": "2023-08-11T16:00:00Z",
-      "title": "Découverte de pikmin 4",
+      "id": "eyJzZWdtZW50SUQiOiIwNGJjYzE3MC1iZDMyLTQyNzQtYmU1OS02NjJmMWM3MDZhZGQiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjozMn0=",
+      "start_time": "2023-08-11T15:00:00Z",
+      "end_time": "2023-08-11T22:00:00Z",
+      "title": "LIVE EN DIRECT DE LAS VEGAS",
       "canceled_until": null,
-      "category": {
-        "id": "494998",
-        "name": "Pikmin 4"
-      },
+      "category": null,
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiI4Njk1OTg3OC1hNTczLTQ3MTctYmVlNy04OWVhMDE5MmFjYzAiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjozMn0=",
+      "start_time": "2023-08-12T15:00:00Z",
+      "end_time": "2023-08-12T22:00:00Z",
+      "title": "LIVE EN DIRECT DE LAS VEGAS",
+      "canceled_until": null,
+      "category": null,
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiI2MTgzMDFkOC0xMDk2LTQwM2YtOWUzMC0zZDNiOWVlN2YwNjkiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjozMn0=",
+      "start_time": "2023-08-13T15:00:00Z",
+      "end_time": "2023-08-13T22:00:00Z",
+      "title": "LIVE EN DIRECT DE LAS VEGAS",
+      "canceled_until": null,
+      "category": null,
       "is_recurring": true
     },
     {
       "id": "eyJzZWdtZW50SUQiOiI2ZGZhYjBmMi1iMmE5LTRiNTgtODA2My0yOWJlNzM5ZmRkYmYiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjozM30=",
-      "start_time": "2023-08-14T11:00:00Z",
-      "end_time": "2023-08-14T18:00:00Z",
+      "start_time": "2023-08-14T09:00:00Z",
+      "end_time": "2023-08-14T14:00:00Z",
       "title": "Culture et plaisir sur le Maître des Fleurs !",
       "canceled_until": null,
       "category": {
@@ -205,51 +184,21 @@
       "is_recurring": true
     },
     {
-      "id": "eyJzZWdtZW50SUQiOiIzOWU1YWRkNy1mNGQxLTRjMTYtOTkyZC0zYmEzYjVmMGVhYTUiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjozM30=",
-      "start_time": "2023-08-15T09:00:00Z",
-      "end_time": "2023-08-15T16:00:00Z",
-      "title": "Speedrun SMO any%",
-      "canceled_until": null,
-      "category": {
-        "id": "493997",
-        "name": "Super Mario Odyssey"
-      },
-      "is_recurring": true
-    },
-    {
       "id": "eyJzZWdtZW50SUQiOiJiMjk3N2NlYi1hNDI2LTQ5MDItYmZmZi0zNDI5YmNiNDQ4MzgiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjozM30=",
-      "start_time": "2023-08-16T13:00:00Z",
+      "start_time": "2023-08-16T15:00:00Z",
       "end_time": "2023-08-16T22:00:00Z",
-      "title": "Le slowrun TOTK (into nocturne souterrains)",
+      "title": "LIVE EN DIRECT DE LAS VEGAS",
       "canceled_until": null,
-      "category": {
-        "id": "512998",
-        "name": "The Legend of Zelda: Tears of the Kingdom"
-      },
+      "category": null,
       "is_recurring": true
     },
     {
       "id": "eyJzZWdtZW50SUQiOiI4MWMwZjA2ZC00YThkLTQ0MDAtOWJlYi1iMThlMmNhNWY0OWEiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjozM30=",
-      "start_time": "2023-08-17T12:00:00Z",
-      "end_time": "2023-08-17T16:00:00Z",
-      "title": "Stream 100% commu",
+      "start_time": "2023-08-17T15:00:00Z",
+      "end_time": "2023-08-17T19:00:00Z",
+      "title": "LIVE EN DIRECT DE LAS VEGAS",
       "canceled_until": null,
-      "category": {
-        "id": "509658",
-        "name": "Just Chatting"
-      },
-      "is_recurring": true
-    },
-    {
-      "id": "eyJzZWdtZW50SUQiOiJjM2M4ODhlYS02M2M1LTQyN2EtYTQ1OC1kYjk2M2NjYzhiMDUiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjozM30=",
-      "start_time": "2023-08-18T09:00:00Z",
-      "end_time": "2023-08-18T16:00:00Z",
-      "title": "Découverte de pikmin 4",
-      "canceled_until": null,
-      "category": {
-        "id": "494998",
-        "name": "Pikmin 4"
-      },
+      "category": null,
       "is_recurring": true
     }
   ]
