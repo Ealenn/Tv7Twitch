@@ -13,15 +13,6 @@
   },
   "schedulers": [
     {
-      "id": "eyJzZWdtZW50SUQiOiI2MTgzMDFkOC0xMDk2LTQwM2YtOWUzMC0zZDNiOWVlN2YwNjkiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjozMH0=",
-      "start_time": "2023-07-30T15:00:00Z",
-      "end_time": "2023-07-30T22:00:00Z",
-      "title": "LIVE EN DIRECT DE LAS VEGAS",
-      "canceled_until": null,
-      "category": null,
-      "is_recurring": true
-    },
-    {
       "id": "eyJzZWdtZW50SUQiOiI2ZGZhYjBmMi1iMmE5LTRiNTgtODA2My0yOWJlNzM5ZmRkYmYiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjozMX0=",
       "start_time": "2023-07-31T09:00:00Z",
       "end_time": "2023-07-31T14:00:00Z",
@@ -202,6 +193,15 @@
         "id": "338715930",
         "name": "Maitre des Fleurs"
       },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiJiMjk3N2NlYi1hNDI2LTQ5MDItYmZmZi0zNDI5YmNiNDQ4MzgiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjozNH0=",
+      "start_time": "2023-08-23T15:00:00Z",
+      "end_time": "2023-08-23T22:00:00Z",
+      "title": "LIVE EN DIRECT DE LAS VEGAS",
+      "canceled_until": null,
+      "category": null,
       "is_recurring": true
     }
   ]
