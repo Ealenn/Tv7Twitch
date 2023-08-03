@@ -13,16 +13,16 @@
   },
   "schedulers": [
     {
-      "id": "eyJzZWdtZW50SUQiOiI5ODkyMzQwZi03MWI3LTQyNTYtYWU3OS1iMzljZTE3YzJkZGQiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjozMX0=",
-      "start_time": "2023-08-02T16:00:00Z",
-      "end_time": "2023-08-02T18:00:00Z",
-      "title": " Debrief' de l'actualité jeu vidéo de la semaine avec vous ☕",
+      "id": "eyJzZWdtZW50SUQiOiJjZTVjMDAyOS0xMGJiLTQwOTEtYmY5ZC01NTk3NzNmMTVkYTYiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjozMX0=",
+      "start_time": "2023-08-04T18:00:00Z",
+      "end_time": "2023-08-04T21:00:00Z",
+      "title": "A l'abordage! avec M4f, Pressea & Eventis",
       "canceled_until": null,
       "category": {
-        "id": "509658",
-        "name": "Just Chatting"
+        "id": "490377",
+        "name": "Sea of Thieves"
       },
-      "is_recurring": true
+      "is_recurring": false
     },
     {
       "id": "eyJzZWdtZW50SUQiOiI5ODkyMzQwZi03MWI3LTQyNTYtYWU3OS1iMzljZTE3YzJkZGQiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjozMn0=",

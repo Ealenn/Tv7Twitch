@@ -13,30 +13,6 @@
   },
   "schedulers": [
     {
-      "id": "eyJzZWdtZW50SUQiOiJiMjk3N2NlYi1hNDI2LTQ5MDItYmZmZi0zNDI5YmNiNDQ4MzgiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjozMX0=",
-      "start_time": "2023-08-02T15:00:00Z",
-      "end_time": "2023-08-02T18:00:00Z",
-      "title": "LIVE EN DIRECT DE LA VILLA LAS VEGAS (ZELDA TOTK)",
-      "canceled_until": null,
-      "category": {
-        "id": "512998",
-        "name": "The Legend of Zelda: Tears of the Kingdom"
-      },
-      "is_recurring": true
-    },
-    {
-      "id": "eyJzZWdtZW50SUQiOiJkOGQzM2M0Zi02YmE5LTQxNDktYjc4MC0wZDFjZDY0MDc2ZTMiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjozMX0=",
-      "start_time": "2023-08-02T18:00:00Z",
-      "end_time": "2023-08-02T22:00:00Z",
-      "title": "Live multi avec les potes de la villa (Zerator, Florence, Antoine, Ultia, Kenny, Lapi, sur Pummel Party et microworks)",
-      "canceled_until": null,
-      "category": {
-        "id": "509549",
-        "name": "Pummel Party"
-      },
-      "is_recurring": true
-    },
-    {
       "id": "eyJzZWdtZW50SUQiOiI2MTgzMDFkOC0xMDk2LTQwM2YtOWUzMC0zZDNiOWVlN2YwNjkiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjozMX0=",
       "start_time": "2023-08-06T12:00:00Z",
       "end_time": "2023-08-06T15:00:00Z",
@@ -249,6 +225,30 @@
       "category": {
         "id": "24241",
         "name": "FINAL FANTASY XIV ONLINE"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiJiMjk3N2NlYi1hNDI2LTQ5MDItYmZmZi0zNDI5YmNiNDQ4MzgiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjozNX0=",
+      "start_time": "2023-08-30T15:00:00Z",
+      "end_time": "2023-08-30T18:00:00Z",
+      "title": "LIVE EN DIRECT DE LA VILLA LAS VEGAS (ZELDA TOTK)",
+      "canceled_until": null,
+      "category": {
+        "id": "512998",
+        "name": "The Legend of Zelda: Tears of the Kingdom"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiJkOGQzM2M0Zi02YmE5LTQxNDktYjc4MC0wZDFjZDY0MDc2ZTMiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjozNX0=",
+      "start_time": "2023-08-30T18:00:00Z",
+      "end_time": "2023-08-30T22:00:00Z",
+      "title": "Live multi avec les potes de la villa (Zerator, Florence, Antoine, Ultia, Kenny, Lapi, sur Pummel Party et microworks)",
+      "canceled_until": null,
+      "category": {
+        "id": "509549",
+        "name": "Pummel Party"
       },
       "is_recurring": true
     }
