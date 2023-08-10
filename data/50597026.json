@@ -13,30 +13,6 @@
   },
   "schedulers": [
     {
-      "id": "eyJzZWdtZW50SUQiOiJiMjk3N2NlYi1hNDI2LTQ5MDItYmZmZi0zNDI5YmNiNDQ4MzgiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjozMn0=",
-      "start_time": "2023-08-09T09:00:00Z",
-      "end_time": "2023-08-09T15:00:00Z",
-      "title": "Le bon slowrun du plaisir sur Zelda TOTK",
-      "canceled_until": null,
-      "category": {
-        "id": "512998",
-        "name": "The Legend of Zelda: Tears of the Kingdom"
-      },
-      "is_recurring": true
-    },
-    {
-      "id": "eyJzZWdtZW50SUQiOiI3YmZlNTFlOS1kNWI2LTQyN2UtOGMyYi1hNDM2NjE3OWUyODkiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjozMn0=",
-      "start_time": "2023-08-09T18:30:00Z",
-      "end_time": "2023-08-09T22:30:00Z",
-      "title": "Oh le bon RPG avec Shisheyu et Ultia",
-      "canceled_until": null,
-      "category": {
-        "id": "512923",
-        "name": "Baldur's Gate 3"
-      },
-      "is_recurring": true
-    },
-    {
       "id": "eyJzZWdtZW50SUQiOiJlOTQ4ODEwMC1hMjgwLTQyYjUtYjRiMC05NmI0ZTE5MWNkOTYiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjozMn0=",
       "start_time": "2023-08-10T12:00:00Z",
       "end_time": "2023-08-10T18:00:00Z",
@@ -249,6 +225,30 @@
       "category": {
         "id": "338715930",
         "name": "Maitre des Fleurs"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiI4YzllODYwMC02MDk2LTQ2YzctODMyYS05OTk2ZmEyMjUyZWUiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjozNX0=",
+      "start_time": "2023-08-29T09:00:00Z",
+      "end_time": "2023-08-29T16:00:00Z",
+      "title": "La suite de l’aventure Pikmin 4 (15h: on regarde le Pokemon present)",
+      "canceled_until": null,
+      "category": {
+        "id": "494998",
+        "name": "Pikmin 4"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiJiMjk3N2NlYi1hNDI2LTQ5MDItYmZmZi0zNDI5YmNiNDQ4MzgiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjozNX0=",
+      "start_time": "2023-08-30T09:00:00Z",
+      "end_time": "2023-08-30T15:00:00Z",
+      "title": "Le bon slowrun du plaisir sur Zelda TOTK",
+      "canceled_until": null,
+      "category": {
+        "id": "512998",
+        "name": "The Legend of Zelda: Tears of the Kingdom"
       },
       "is_recurring": true
     }
