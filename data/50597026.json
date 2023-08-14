@@ -28,7 +28,7 @@
       "id": "eyJzZWdtZW50SUQiOiI4YzllODYwMC02MDk2LTQ2YzctODMyYS05OTk2ZmEyMjUyZWUiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjozM30=",
       "start_time": "2023-08-15T09:00:00Z",
       "end_time": "2023-08-15T16:00:00Z",
-      "title": "La suite de l’aventure Pikmin 4 (15h: on regarde le Pokemon present)",
+      "title": "La suite de l’aventure Pikmin 4 ",
       "canceled_until": null,
       "category": {
         "id": "494998",
@@ -39,7 +39,7 @@
     {
       "id": "eyJzZWdtZW50SUQiOiJiMjk3N2NlYi1hNDI2LTQ5MDItYmZmZi0zNDI5YmNiNDQ4MzgiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjozM30=",
       "start_time": "2023-08-16T09:00:00Z",
-      "end_time": "2023-08-16T15:00:00Z",
+      "end_time": "2023-08-16T17:00:00Z",
       "title": "Le bon slowrun du plaisir sur Zelda TOTK",
       "canceled_until": null,
       "category": {
@@ -49,22 +49,10 @@
       "is_recurring": true
     },
     {
-      "id": "eyJzZWdtZW50SUQiOiI3YmZlNTFlOS1kNWI2LTQyN2UtOGMyYi1hNDM2NjE3OWUyODkiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjozM30=",
-      "start_time": "2023-08-16T18:30:00Z",
-      "end_time": "2023-08-16T22:30:00Z",
-      "title": "Oh le bon RPG avec Shisheyu et Ultia",
-      "canceled_until": null,
-      "category": {
-        "id": "512923",
-        "name": "Baldur's Gate 3"
-      },
-      "is_recurring": true
-    },
-    {
       "id": "eyJzZWdtZW50SUQiOiJlOTQ4ODEwMC1hMjgwLTQyYjUtYjRiMC05NmI0ZTE5MWNkOTYiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjozM30=",
       "start_time": "2023-08-17T12:00:00Z",
       "end_time": "2023-08-17T18:00:00Z",
-      "title": "Suite et fin de l’aventure Pikmin 4",
+      "title": "Suite et peut-être fin de l’aventure Pikmin 4",
       "canceled_until": null,
       "category": {
         "id": "494998",
@@ -73,10 +61,34 @@
       "is_recurring": true
     },
     {
+      "id": "eyJzZWdtZW50SUQiOiJkZTQ0MDA4NS00NGY2LTQ4MmItOGI3Ni04YzNlMDYzODAyOTAiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjozM30=",
+      "start_time": "2023-08-18T15:00:00Z",
+      "end_time": "2023-08-18T18:00:00Z",
+      "title": "P’tite run SMO ",
+      "canceled_until": null,
+      "category": {
+        "id": "493997",
+        "name": "Super Mario Odyssey"
+      },
+      "is_recurring": true
+    },
+    {
       "id": "eyJzZWdtZW50SUQiOiJjOTA4YjI5Yy1iNzFkLTQwZTUtOThiMS04ZGFjNGE2NzYyZWEiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjozM30=",
-      "start_time": "2023-08-18T12:00:00Z",
-      "end_time": "2023-08-18T16:00:00Z",
-      "title": "Le p’tit RPG avé les copains Shisheyu et Ultia",
+      "start_time": "2023-08-18T18:00:00Z",
+      "end_time": "2023-08-18T22:00:00Z",
+      "title": "Le p’tit RPG avé les copains Shisheyu, Aeterna et Ultia",
+      "canceled_until": null,
+      "category": {
+        "id": "512923",
+        "name": "Baldur's Gate 3"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiI3YmZlNTFlOS1kNWI2LTQyN2UtOGMyYi1hNDM2NjE3OWUyODkiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjozM30=",
+      "start_time": "2023-08-20T12:00:00Z",
+      "end_time": "2023-08-20T17:00:00Z",
+      "title": "Suite de l’aventure de Jerry Khan et la team avec Shisheyu, Aeterna et Ultia",
       "canceled_until": null,
       "category": {
         "id": "512923",
@@ -100,7 +112,7 @@
       "id": "eyJzZWdtZW50SUQiOiI4YzllODYwMC02MDk2LTQ2YzctODMyYS05OTk2ZmEyMjUyZWUiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjozNH0=",
       "start_time": "2023-08-22T09:00:00Z",
       "end_time": "2023-08-22T16:00:00Z",
-      "title": "La suite de l’aventure Pikmin 4 (15h: on regarde le Pokemon present)",
+      "title": "La suite de l’aventure Pikmin 4 ",
       "canceled_until": null,
       "category": {
         "id": "494998",
@@ -111,7 +123,7 @@
     {
       "id": "eyJzZWdtZW50SUQiOiJiMjk3N2NlYi1hNDI2LTQ5MDItYmZmZi0zNDI5YmNiNDQ4MzgiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjozNH0=",
       "start_time": "2023-08-23T09:00:00Z",
-      "end_time": "2023-08-23T15:00:00Z",
+      "end_time": "2023-08-23T17:00:00Z",
       "title": "Le bon slowrun du plaisir sur Zelda TOTK",
       "canceled_until": null,
       "category": {
@@ -121,22 +133,10 @@
       "is_recurring": true
     },
     {
-      "id": "eyJzZWdtZW50SUQiOiI3YmZlNTFlOS1kNWI2LTQyN2UtOGMyYi1hNDM2NjE3OWUyODkiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjozNH0=",
-      "start_time": "2023-08-23T18:30:00Z",
-      "end_time": "2023-08-23T22:30:00Z",
-      "title": "Oh le bon RPG avec Shisheyu et Ultia",
-      "canceled_until": null,
-      "category": {
-        "id": "512923",
-        "name": "Baldur's Gate 3"
-      },
-      "is_recurring": true
-    },
-    {
       "id": "eyJzZWdtZW50SUQiOiJlOTQ4ODEwMC1hMjgwLTQyYjUtYjRiMC05NmI0ZTE5MWNkOTYiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjozNH0=",
       "start_time": "2023-08-24T12:00:00Z",
       "end_time": "2023-08-24T18:00:00Z",
-      "title": "Suite et fin de l’aventure Pikmin 4",
+      "title": "Suite et peut-être fin de l’aventure Pikmin 4",
       "canceled_until": null,
       "category": {
         "id": "494998",
@@ -145,10 +145,34 @@
       "is_recurring": true
     },
     {
+      "id": "eyJzZWdtZW50SUQiOiJkZTQ0MDA4NS00NGY2LTQ4MmItOGI3Ni04YzNlMDYzODAyOTAiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjozNH0=",
+      "start_time": "2023-08-25T15:00:00Z",
+      "end_time": "2023-08-25T18:00:00Z",
+      "title": "P’tite run SMO ",
+      "canceled_until": null,
+      "category": {
+        "id": "493997",
+        "name": "Super Mario Odyssey"
+      },
+      "is_recurring": true
+    },
+    {
       "id": "eyJzZWdtZW50SUQiOiJjOTA4YjI5Yy1iNzFkLTQwZTUtOThiMS04ZGFjNGE2NzYyZWEiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjozNH0=",
-      "start_time": "2023-08-25T12:00:00Z",
-      "end_time": "2023-08-25T16:00:00Z",
-      "title": "Le p’tit RPG avé les copains Shisheyu et Ultia",
+      "start_time": "2023-08-25T18:00:00Z",
+      "end_time": "2023-08-25T22:00:00Z",
+      "title": "Le p’tit RPG avé les copains Shisheyu, Aeterna et Ultia",
+      "canceled_until": null,
+      "category": {
+        "id": "512923",
+        "name": "Baldur's Gate 3"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiI3YmZlNTFlOS1kNWI2LTQyN2UtOGMyYi1hNDM2NjE3OWUyODkiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjozNH0=",
+      "start_time": "2023-08-27T12:00:00Z",
+      "end_time": "2023-08-27T17:00:00Z",
+      "title": "Suite de l’aventure de Jerry Khan et la team avec Shisheyu, Aeterna et Ultia",
       "canceled_until": null,
       "category": {
         "id": "512923",
@@ -172,7 +196,7 @@
       "id": "eyJzZWdtZW50SUQiOiI4YzllODYwMC02MDk2LTQ2YzctODMyYS05OTk2ZmEyMjUyZWUiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjozNX0=",
       "start_time": "2023-08-29T09:00:00Z",
       "end_time": "2023-08-29T16:00:00Z",
-      "title": "La suite de l’aventure Pikmin 4 (15h: on regarde le Pokemon present)",
+      "title": "La suite de l’aventure Pikmin 4 ",
       "canceled_until": null,
       "category": {
         "id": "494998",
@@ -183,7 +207,7 @@
     {
       "id": "eyJzZWdtZW50SUQiOiJiMjk3N2NlYi1hNDI2LTQ5MDItYmZmZi0zNDI5YmNiNDQ4MzgiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjozNX0=",
       "start_time": "2023-08-30T09:00:00Z",
-      "end_time": "2023-08-30T15:00:00Z",
+      "end_time": "2023-08-30T17:00:00Z",
       "title": "Le bon slowrun du plaisir sur Zelda TOTK",
       "canceled_until": null,
       "category": {
@@ -193,62 +217,38 @@
       "is_recurring": true
     },
     {
-      "id": "eyJzZWdtZW50SUQiOiI3YmZlNTFlOS1kNWI2LTQyN2UtOGMyYi1hNDM2NjE3OWUyODkiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjozNX0=",
-      "start_time": "2023-08-30T18:30:00Z",
-      "end_time": "2023-08-30T22:30:00Z",
-      "title": "Oh le bon RPG avec Shisheyu et Ultia",
-      "canceled_until": null,
-      "category": {
-        "id": "512923",
-        "name": "Baldur's Gate 3"
-      },
-      "is_recurring": true
-    },
-    {
       "id": "eyJzZWdtZW50SUQiOiJlOTQ4ODEwMC1hMjgwLTQyYjUtYjRiMC05NmI0ZTE5MWNkOTYiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjozNX0=",
       "start_time": "2023-08-31T12:00:00Z",
       "end_time": "2023-08-31T18:00:00Z",
-      "title": "Suite et fin de l’aventure Pikmin 4",
+      "title": "Suite et peut-être fin de l’aventure Pikmin 4",
       "canceled_until": null,
       "category": {
         "id": "494998",
         "name": "Pikmin 4"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiJkZTQ0MDA4NS00NGY2LTQ4MmItOGI3Ni04YzNlMDYzODAyOTAiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjozNX0=",
+      "start_time": "2023-09-01T15:00:00Z",
+      "end_time": "2023-09-01T18:00:00Z",
+      "title": "P’tite run SMO ",
+      "canceled_until": null,
+      "category": {
+        "id": "493997",
+        "name": "Super Mario Odyssey"
       },
       "is_recurring": true
     },
     {
       "id": "eyJzZWdtZW50SUQiOiJjOTA4YjI5Yy1iNzFkLTQwZTUtOThiMS04ZGFjNGE2NzYyZWEiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjozNX0=",
-      "start_time": "2023-09-01T12:00:00Z",
-      "end_time": "2023-09-01T16:00:00Z",
-      "title": "Le p’tit RPG avé les copains Shisheyu et Ultia",
+      "start_time": "2023-09-01T18:00:00Z",
+      "end_time": "2023-09-01T22:00:00Z",
+      "title": "Le p’tit RPG avé les copains Shisheyu, Aeterna et Ultia",
       "canceled_until": null,
       "category": {
         "id": "512923",
         "name": "Baldur's Gate 3"
-      },
-      "is_recurring": true
-    },
-    {
-      "id": "eyJzZWdtZW50SUQiOiI2ZGZhYjBmMi1iMmE5LTRiNTgtODA2My0yOWJlNzM5ZmRkYmYiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjozNn0=",
-      "start_time": "2023-09-04T09:00:00Z",
-      "end_time": "2023-09-04T15:00:00Z",
-      "title": "Culture et plaisir sur le Maître des Fleurs !",
-      "canceled_until": null,
-      "category": {
-        "id": "338715930",
-        "name": "Maitre des Fleurs"
-      },
-      "is_recurring": true
-    },
-    {
-      "id": "eyJzZWdtZW50SUQiOiI4YzllODYwMC02MDk2LTQ2YzctODMyYS05OTk2ZmEyMjUyZWUiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjozNn0=",
-      "start_time": "2023-09-05T09:00:00Z",
-      "end_time": "2023-09-05T16:00:00Z",
-      "title": "La suite de l’aventure Pikmin 4 (15h: on regarde le Pokemon present)",
-      "canceled_until": null,
-      "category": {
-        "id": "494998",
-        "name": "Pikmin 4"
       },
       "is_recurring": true
     }
