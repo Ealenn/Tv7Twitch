@@ -1,0 +1,256 @@
+{
+  "channel": {
+    "id": "40063341",
+    "login": "domingo",
+    "display_name": "Domingo",
+    "type": "",
+    "broadcaster_type": "partner",
+    "description": "",
+    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/3cdae7df-600c-4833-8dfe-8d2abc5a3b25-profile_image-300x300.png",
+    "offline_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/a6d0d2de-74a7-44ea-963b-35f05de2c9d3-channel_offline_image-1920x1080.png",
+    "view_count": 0,
+    "created_at": "2013-02-05T19:20:22Z"
+  },
+  "schedulers": [
+    {
+      "id": "eyJzZWdtZW50SUQiOiJlMjU5NjM2MC1jNGM0LTQ0MWMtODMwYi1iNzQwMWI3OGE4MDYiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjozM30=",
+      "start_time": "2023-08-15T12:00:00Z",
+      "end_time": "2023-08-15T13:00:00Z",
+      "title": "🎙 PRÉLIVE",
+      "canceled_until": null,
+      "category": {
+        "id": "509658",
+        "name": "Just Chatting"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiJlZTI4ZmY3Yi1iMDNiLTQxMjEtOTYwNi04Yjg3ZmQ1MmMzY2EiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjozM30=",
+      "start_time": "2023-08-15T13:00:00Z",
+      "end_time": "2023-08-15T15:00:00Z",
+      "title": "PUNCH CLUB 2",
+      "canceled_until": null,
+      "category": {
+        "id": "497584",
+        "name": "Punch Club 2: Fast Forward"
+      },
+      "is_recurring": false
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiIyZDQ0ODg1OS1lM2ViLTRhYjYtOGE0Ny0zYTY5ODFmMzU3ODgiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjozM30=",
+      "start_time": "2023-08-15T15:00:00Z",
+      "end_time": "2023-08-15T17:00:00Z",
+      "title": "LA SUITE DE STORYTELLER",
+      "canceled_until": null,
+      "category": {
+        "id": "1409017406",
+        "name": "Storyteller"
+      },
+      "is_recurring": false
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiJlOWQ4N2VhNi0yMmJmLTQxMzAtODgzOC1kMjJlMjcyOWQ5MzYiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjozM30=",
+      "start_time": "2023-08-16T12:00:00Z",
+      "end_time": "2023-08-16T13:00:00Z",
+      "title": "🎙 PRÉLIVE",
+      "canceled_until": null,
+      "category": {
+        "id": "509658",
+        "name": "Just Chatting"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiI0NmRiYWMyMC0zYTQxLTRkZWItODlkNy05YWExOTBmMDdmMTQiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjozM30=",
+      "start_time": "2023-08-16T13:00:00Z",
+      "end_time": "2023-08-16T17:00:00Z",
+      "title": "STREAM LIBRE ",
+      "canceled_until": null,
+      "category": {
+        "id": "509658",
+        "name": "Just Chatting"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiIxODU4ZmI3OS0yODVhLTQ2NzYtOTk0NS01OWU5ZGZiZDAzMWYiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjozM30=",
+      "start_time": "2023-08-17T12:00:00Z",
+      "end_time": "2023-08-17T13:00:00Z",
+      "title": "🎙 PRÉLIVE",
+      "canceled_until": null,
+      "category": {
+        "id": "509658",
+        "name": "Just Chatting"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiJhMWI4MTczNC0yYWU1LTRiZjUtYjE1ZS02ZDBhMTBhNWNiMTciLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjozM30=",
+      "start_time": "2023-08-17T13:00:00Z",
+      "end_time": "2023-08-17T17:00:00Z",
+      "title": "STREAM LIBRE ",
+      "canceled_until": null,
+      "category": {
+        "id": "509658",
+        "name": "Just Chatting"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiJjZGNlMDZkMi03ZjdkLTRlZWMtOGM5YS1iZTQ0ZTNlOWRjMDkiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjozM30=",
+      "start_time": "2023-08-18T10:00:00Z",
+      "end_time": "2023-08-18T12:00:00Z",
+      "title": "🍽 LA PAUSE DÉJ'",
+      "canceled_until": null,
+      "category": {
+        "id": "509658",
+        "name": "Just Chatting"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiIyODYwNDIzNS1lY2E4LTQyYmUtOGQ0Yi01MTM3YjllYjdlYTYiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjozNH0=",
+      "start_time": "2023-08-21T18:00:00Z",
+      "end_time": "2023-08-21T18:30:00Z",
+      "title": "🎙 PRÉLIVE",
+      "canceled_until": null,
+      "category": {
+        "id": "509658",
+        "name": "Just Chatting"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiJlMjU5NjM2MC1jNGM0LTQ0MWMtODMwYi1iNzQwMWI3OGE4MDYiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjozNH0=",
+      "start_time": "2023-08-22T12:00:00Z",
+      "end_time": "2023-08-22T13:00:00Z",
+      "title": "🎙 PRÉLIVE",
+      "canceled_until": null,
+      "category": {
+        "id": "509658",
+        "name": "Just Chatting"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiJlOWQ4N2VhNi0yMmJmLTQxMzAtODgzOC1kMjJlMjcyOWQ5MzYiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjozNH0=",
+      "start_time": "2023-08-23T12:00:00Z",
+      "end_time": "2023-08-23T13:00:00Z",
+      "title": "🎙 PRÉLIVE",
+      "canceled_until": null,
+      "category": {
+        "id": "509658",
+        "name": "Just Chatting"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiI0NmRiYWMyMC0zYTQxLTRkZWItODlkNy05YWExOTBmMDdmMTQiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjozNH0=",
+      "start_time": "2023-08-23T13:00:00Z",
+      "end_time": "2023-08-23T17:00:00Z",
+      "title": "STREAM LIBRE ",
+      "canceled_until": null,
+      "category": {
+        "id": "509658",
+        "name": "Just Chatting"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiIxODU4ZmI3OS0yODVhLTQ2NzYtOTk0NS01OWU5ZGZiZDAzMWYiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjozNH0=",
+      "start_time": "2023-08-24T12:00:00Z",
+      "end_time": "2023-08-24T13:00:00Z",
+      "title": "🎙 PRÉLIVE",
+      "canceled_until": null,
+      "category": {
+        "id": "509658",
+        "name": "Just Chatting"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiJhMWI4MTczNC0yYWU1LTRiZjUtYjE1ZS02ZDBhMTBhNWNiMTciLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjozNH0=",
+      "start_time": "2023-08-24T13:00:00Z",
+      "end_time": "2023-08-24T17:00:00Z",
+      "title": "STREAM LIBRE ",
+      "canceled_until": null,
+      "category": {
+        "id": "509658",
+        "name": "Just Chatting"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiJjZGNlMDZkMi03ZjdkLTRlZWMtOGM5YS1iZTQ0ZTNlOWRjMDkiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjozNH0=",
+      "start_time": "2023-08-25T10:00:00Z",
+      "end_time": "2023-08-25T12:00:00Z",
+      "title": "🍽 LA PAUSE DÉJ'",
+      "canceled_until": null,
+      "category": {
+        "id": "509658",
+        "name": "Just Chatting"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiIyODYwNDIzNS1lY2E4LTQyYmUtOGQ0Yi01MTM3YjllYjdlYTYiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjozNX0=",
+      "start_time": "2023-08-28T18:00:00Z",
+      "end_time": "2023-08-28T18:30:00Z",
+      "title": "🎙 PRÉLIVE",
+      "canceled_until": null,
+      "category": {
+        "id": "509658",
+        "name": "Just Chatting"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiJlMjU5NjM2MC1jNGM0LTQ0MWMtODMwYi1iNzQwMWI3OGE4MDYiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjozNX0=",
+      "start_time": "2023-08-29T12:00:00Z",
+      "end_time": "2023-08-29T13:00:00Z",
+      "title": "🎙 PRÉLIVE",
+      "canceled_until": null,
+      "category": {
+        "id": "509658",
+        "name": "Just Chatting"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiJlOWQ4N2VhNi0yMmJmLTQxMzAtODgzOC1kMjJlMjcyOWQ5MzYiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjozNX0=",
+      "start_time": "2023-08-30T12:00:00Z",
+      "end_time": "2023-08-30T13:00:00Z",
+      "title": "🎙 PRÉLIVE",
+      "canceled_until": null,
+      "category": {
+        "id": "509658",
+        "name": "Just Chatting"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiI0NmRiYWMyMC0zYTQxLTRkZWItODlkNy05YWExOTBmMDdmMTQiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjozNX0=",
+      "start_time": "2023-08-30T13:00:00Z",
+      "end_time": "2023-08-30T17:00:00Z",
+      "title": "STREAM LIBRE ",
+      "canceled_until": null,
+      "category": {
+        "id": "509658",
+        "name": "Just Chatting"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiIxODU4ZmI3OS0yODVhLTQ2NzYtOTk0NS01OWU5ZGZiZDAzMWYiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjozNX0=",
+      "start_time": "2023-08-31T12:00:00Z",
+      "end_time": "2023-08-31T13:00:00Z",
+      "title": "🎙 PRÉLIVE",
+      "canceled_until": null,
+      "category": {
+        "id": "509658",
+        "name": "Just Chatting"
+      },
+      "is_recurring": true
+    }
+  ]
+}
