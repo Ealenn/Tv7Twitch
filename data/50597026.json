@@ -13,18 +13,6 @@
   },
   "schedulers": [
     {
-      "id": "eyJzZWdtZW50SUQiOiJiMjk3N2NlYi1hNDI2LTQ5MDItYmZmZi0zNDI5YmNiNDQ4MzgiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjozM30=",
-      "start_time": "2023-08-16T09:00:00Z",
-      "end_time": "2023-08-16T17:00:00Z",
-      "title": "Le bon slowrun du plaisir sur Zelda TOTK",
-      "canceled_until": null,
-      "category": {
-        "id": "512998",
-        "name": "The Legend of Zelda: Tears of the Kingdom"
-      },
-      "is_recurring": true
-    },
-    {
       "id": "eyJzZWdtZW50SUQiOiIxNTFkMTAwMy1iMzE0LTQ1ODEtOGFiOC0zYTE5MzdmODAxODIiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjozM30=",
       "start_time": "2023-08-17T11:00:00Z",
       "end_time": "2023-08-17T13:00:00Z",
@@ -249,6 +237,18 @@
       "category": {
         "id": "493997",
         "name": "Super Mario Odyssey"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiJjOTA4YjI5Yy1iNzFkLTQwZTUtOThiMS04ZGFjNGE2NzYyZWEiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjozNX0=",
+      "start_time": "2023-09-01T18:00:00Z",
+      "end_time": "2023-09-01T22:00:00Z",
+      "title": "Le p’tit RPG avé les copains Shisheyu, Aeterna et Ultia",
+      "canceled_until": null,
+      "category": {
+        "id": "512923",
+        "name": "Baldur's Gate 3"
       },
       "is_recurring": true
     }
