@@ -13,30 +13,6 @@
   },
   "schedulers": [
     {
-      "id": "eyJzZWdtZW50SUQiOiIxNTFkMTAwMy1iMzE0LTQ1ODEtOGFiOC0zYTE5MzdmODAxODIiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjozM30=",
-      "start_time": "2023-08-17T11:00:00Z",
-      "end_time": "2023-08-17T13:00:00Z",
-      "title": "Découverte de En Garde! [Publicité]",
-      "canceled_until": null,
-      "category": {
-        "id": "612019458",
-        "name": "En Garde!"
-      },
-      "is_recurring": true
-    },
-    {
-      "id": "eyJzZWdtZW50SUQiOiJlOTQ4ODEwMC1hMjgwLTQyYjUtYjRiMC05NmI0ZTE5MWNkOTYiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjozM30=",
-      "start_time": "2023-08-17T13:00:00Z",
-      "end_time": "2023-08-17T19:00:00Z",
-      "title": "Suite et peut-être fin de l’aventure Pikmin 4",
-      "canceled_until": null,
-      "category": {
-        "id": "494998",
-        "name": "Pikmin 4"
-      },
-      "is_recurring": true
-    },
-    {
       "id": "eyJzZWdtZW50SUQiOiJkZTQ0MDA4NS00NGY2LTQ4MmItOGI3Ni04YzNlMDYzODAyOTAiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjozM30=",
       "start_time": "2023-08-18T15:00:00Z",
       "end_time": "2023-08-18T18:00:00Z",
@@ -249,6 +225,30 @@
       "category": {
         "id": "512923",
         "name": "Baldur's Gate 3"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiI3YmZlNTFlOS1kNWI2LTQyN2UtOGMyYi1hNDM2NjE3OWUyODkiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjozNX0=",
+      "start_time": "2023-09-03T12:00:00Z",
+      "end_time": "2023-09-03T17:00:00Z",
+      "title": "Suite de l’aventure de Jerry Khan et la team avec Shisheyu, Aeterna et Ultia",
+      "canceled_until": null,
+      "category": {
+        "id": "512923",
+        "name": "Baldur's Gate 3"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiI2ZGZhYjBmMi1iMmE5LTRiNTgtODA2My0yOWJlNzM5ZmRkYmYiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjozNn0=",
+      "start_time": "2023-09-04T09:00:00Z",
+      "end_time": "2023-09-04T15:00:00Z",
+      "title": "Culture et plaisir sur le Maître des Fleurs !",
+      "canceled_until": null,
+      "category": {
+        "id": "338715930",
+        "name": "Maitre des Fleurs"
       },
       "is_recurring": true
     }
