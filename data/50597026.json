@@ -13,18 +13,6 @@
   },
   "schedulers": [
     {
-      "id": "eyJzZWdtZW50SUQiOiI4YzllODYwMC02MDk2LTQ2YzctODMyYS05OTk2ZmEyMjUyZWUiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjozNH0=",
-      "start_time": "2023-08-22T09:00:00Z",
-      "end_time": "2023-08-22T16:00:00Z",
-      "title": "La suite de l’aventure Pikmin 4 ",
-      "canceled_until": null,
-      "category": {
-        "id": "494998",
-        "name": "Pikmin 4"
-      },
-      "is_recurring": true
-    },
-    {
       "id": "eyJzZWdtZW50SUQiOiJiMjk3N2NlYi1hNDI2LTQ5MDItYmZmZi0zNDI5YmNiNDQ4MzgiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjozNH0=",
       "start_time": "2023-08-23T09:00:00Z",
       "end_time": "2023-08-23T17:00:00Z",
@@ -249,6 +237,18 @@
       "category": {
         "id": "494998",
         "name": "Pikmin 4"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiJkZTQ0MDA4NS00NGY2LTQ4MmItOGI3Ni04YzNlMDYzODAyOTAiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjozNn0=",
+      "start_time": "2023-09-08T15:00:00Z",
+      "end_time": "2023-09-08T18:00:00Z",
+      "title": "P’tite run SMO ",
+      "canceled_until": null,
+      "category": {
+        "id": "493997",
+        "name": "Super Mario Odyssey"
       },
       "is_recurring": true
     }

@@ -13,30 +13,6 @@
   },
   "schedulers": [
     {
-      "id": "eyJzZWdtZW50SUQiOiJlMjU5NjM2MC1jNGM0LTQ0MWMtODMwYi1iNzQwMWI3OGE4MDYiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjozNH0=",
-      "start_time": "2023-08-22T12:00:00Z",
-      "end_time": "2023-08-22T13:00:00Z",
-      "title": "🎙 PRÉLIVE",
-      "canceled_until": null,
-      "category": {
-        "id": "509658",
-        "name": "Just Chatting"
-      },
-      "is_recurring": true
-    },
-    {
-      "id": "eyJzZWdtZW50SUQiOiI0NmRiYWMyMC0zYTQxLTRkZWItODlkNy05YWExOTBmMDdmMTQiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjozNH0=",
-      "start_time": "2023-08-22T13:00:00Z",
-      "end_time": "2023-08-22T17:00:00Z",
-      "title": "STREAM LIBRE ",
-      "canceled_until": null,
-      "category": {
-        "id": "509658",
-        "name": "Just Chatting"
-      },
-      "is_recurring": true
-    },
-    {
       "id": "eyJzZWdtZW50SUQiOiIyODYwNDIzNS1lY2E4LTQyYmUtOGQ0Yi01MTM3YjllYjdlYTYiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjozNX0=",
       "start_time": "2023-08-28T17:30:00Z",
       "end_time": "2023-08-28T19:00:00Z",
@@ -245,6 +221,30 @@
       "start_time": "2023-10-03T13:00:00Z",
       "end_time": "2023-10-03T17:00:00Z",
       "title": "STREAM LIBRE ",
+      "canceled_until": null,
+      "category": {
+        "id": "509658",
+        "name": "Just Chatting"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiIyODYwNDIzNS1lY2E4LTQyYmUtOGQ0Yi01MTM3YjllYjdlYTYiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjo0MX0=",
+      "start_time": "2023-10-09T17:30:00Z",
+      "end_time": "2023-10-09T19:00:00Z",
+      "title": "🎙 PRÉLIVE",
+      "canceled_until": null,
+      "category": {
+        "id": "509658",
+        "name": "Just Chatting"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiJlMjU5NjM2MC1jNGM0LTQ0MWMtODMwYi1iNzQwMWI3OGE4MDYiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjo0MX0=",
+      "start_time": "2023-10-10T12:00:00Z",
+      "end_time": "2023-10-10T13:00:00Z",
+      "title": "🎙 PRÉLIVE",
       "canceled_until": null,
       "category": {
         "id": "509658",
