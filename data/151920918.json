@@ -14,8 +14,8 @@
   "schedulers": [
     {
       "id": "eyJzZWdtZW50SUQiOiI1ZDI4NjBmNS1iNjE5LTQ2OTktOTMxMy1hZjhhZjdhNmRhZGEiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjozNH0=",
-      "start_time": "2023-08-25T04:00:00Z",
-      "end_time": "2023-08-25T08:15:00Z",
+      "start_time": "2023-08-27T03:30:00Z",
+      "end_time": "2023-08-27T07:45:00Z",
       "title": "NASA's SpaceX Crew-7 Launch (Official NASA Broadcast)",
       "canceled_until": null,
       "category": {
