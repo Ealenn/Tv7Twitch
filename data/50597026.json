@@ -13,18 +13,6 @@
   },
   "schedulers": [
     {
-      "id": "eyJzZWdtZW50SUQiOiI4YzllODYwMC02MDk2LTQ2YzctODMyYS05OTk2ZmEyMjUyZWUiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjozNX0=",
-      "start_time": "2023-08-29T09:00:00Z",
-      "end_time": "2023-08-29T16:00:00Z",
-      "title": "La suite de l’aventure Pikmin 4 ",
-      "canceled_until": null,
-      "category": {
-        "id": "494998",
-        "name": "Pikmin 4"
-      },
-      "is_recurring": true
-    },
-    {
       "id": "eyJzZWdtZW50SUQiOiJiMjk3N2NlYi1hNDI2LTQ5MDItYmZmZi0zNDI5YmNiNDQ4MzgiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjozNX0=",
       "start_time": "2023-08-30T09:00:00Z",
       "end_time": "2023-08-30T17:00:00Z",
@@ -249,6 +237,18 @@
       "category": {
         "id": "494998",
         "name": "Pikmin 4"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiJiMjk3N2NlYi1hNDI2LTQ5MDItYmZmZi0zNDI5YmNiNDQ4MzgiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjozOH0=",
+      "start_time": "2023-09-20T09:00:00Z",
+      "end_time": "2023-09-20T17:00:00Z",
+      "title": "Le bon slowrun du plaisir sur Zelda TOTK",
+      "canceled_until": null,
+      "category": {
+        "id": "512998",
+        "name": "The Legend of Zelda: Tears of the Kingdom"
       },
       "is_recurring": true
     }
