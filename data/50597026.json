@@ -13,14 +13,98 @@
   },
   "schedulers": [
     {
-      "id": "eyJzZWdtZW50SUQiOiI2NDlhYTY0NS01MDg1LTQ4N2YtOWY0Mi05YjdkZmQ4OWRiNWYiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjozNX0=",
-      "start_time": "2023-09-03T11:00:00Z",
-      "end_time": "2023-09-03T15:00:00Z",
-      "title": "Tournoi Mario Kart",
+      "id": "eyJzZWdtZW50SUQiOiJhZTFhYWEyMC1lMTUzLTQyMjctOGVlYy0yMDI1NjM0ZDZjZTQiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjozNn0=",
+      "start_time": "2023-09-04T09:00:00Z",
+      "end_time": "2023-09-04T16:00:00Z",
+      "title": " Maitre des fleurs",
       "canceled_until": null,
       "category": {
-        "id": "941530474",
-        "name": "Mario Kart 8 Deluxe"
+        "id": "338715930",
+        "name": "Maitre des Fleurs"
+      },
+      "is_recurring": false
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiJjNTBmMmYxNy1kNjI0LTQ3ZTUtYWQyNy02MDhmYjY3YjU4OTciLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjozNn0=",
+      "start_time": "2023-09-05T09:00:00Z",
+      "end_time": "2023-09-05T12:00:00Z",
+      "title": "Speedrun SMO",
+      "canceled_until": null,
+      "category": {
+        "id": "493997",
+        "name": "Super Mario Odyssey"
+      },
+      "is_recurring": false
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiI0NTk2MjM2Yi00MjhkLTQ0ZjAtYWQ2NS1kNzI0OTE5OGRhZTUiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjozNn0=",
+      "start_time": "2023-09-05T12:00:00Z",
+      "end_time": "2023-09-05T18:00:00Z",
+      "title": "Nouvelle aventure sur WOW Hardcore avec Luuxia !",
+      "canceled_until": null,
+      "category": {
+        "id": "18122",
+        "name": "World of Warcraft"
+      },
+      "is_recurring": false
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiI4NWM1M2RkNC1lM2FmLTRjM2EtODBmOS1hYjc1NTI3M2M2MWQiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjozNn0=",
+      "start_time": "2023-09-06T09:00:00Z",
+      "end_time": "2023-09-06T15:00:00Z",
+      "title": "Suite de l'aventure sur Zelda TOTK",
+      "canceled_until": null,
+      "category": {
+        "id": "512998",
+        "name": "The Legend of Zelda: Tears of the Kingdom"
+      },
+      "is_recurring": false
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiIyYjhkNzA1NC00ZGZkLTRlNTktOWJiYS05YjQ0MmM2NzFmZWUiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjozNn0=",
+      "start_time": "2023-09-06T18:00:00Z",
+      "end_time": "2023-09-06T22:00:00Z",
+      "title": "Maitre des fleurs spécial avec AngleDroit !",
+      "canceled_until": null,
+      "category": {
+        "id": "338715930",
+        "name": "Maitre des Fleurs"
+      },
+      "is_recurring": false
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiI4NjQzMzc3Yi1iOGY2LTQ3Y2YtYjg3NS01NjJiNTU2MDQyYjciLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjozNn0=",
+      "start_time": "2023-09-07T12:00:00Z",
+      "end_time": "2023-09-07T18:00:00Z",
+      "title": "Objectif RECORD pour le speedrun SMO !",
+      "canceled_until": null,
+      "category": {
+        "id": "493997",
+        "name": "Super Mario Odyssey"
+      },
+      "is_recurring": false
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiIwYzk3MDk1MC1hMDE4LTRmMmUtOWEwOS1lN2I4ZjBhYjg4MmIiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjozNn0=",
+      "start_time": "2023-09-08T09:00:00Z",
+      "end_time": "2023-09-08T12:00:00Z",
+      "title": "Mario Party avec Wingobear, Onutrem et Mynthos",
+      "canceled_until": null,
+      "category": {
+        "id": "1068239917",
+        "name": "Mario Party Superstars"
+      },
+      "is_recurring": false
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiJjNjVlYTRjYi1mZWFkLTQyMzctODQ4ZS0yMDI0NjkwYWUxYzgiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjozNn0=",
+      "start_time": "2023-09-08T12:00:00Z",
+      "end_time": "2023-09-08T15:00:00Z",
+      "title": "Codenames avec Modiie, Naho, Wingobear, Bytell et Mynthos",
+      "canceled_until": null,
+      "category": {
+        "id": "508509",
+        "name": "Codenames"
       },
       "is_recurring": false
     }
