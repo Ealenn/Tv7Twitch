@@ -13,30 +13,6 @@
   },
   "schedulers": [
     {
-      "id": "eyJzZWdtZW50SUQiOiI4NWM1M2RkNC1lM2FmLTRjM2EtODBmOS1hYjc1NTI3M2M2MWQiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjozNn0=",
-      "start_time": "2023-09-06T09:00:00Z",
-      "end_time": "2023-09-06T15:00:00Z",
-      "title": "Suite de l'aventure sur Zelda TOTK",
-      "canceled_until": null,
-      "category": {
-        "id": "512998",
-        "name": "The Legend of Zelda: Tears of the Kingdom"
-      },
-      "is_recurring": false
-    },
-    {
-      "id": "eyJzZWdtZW50SUQiOiIyYjhkNzA1NC00ZGZkLTRlNTktOWJiYS05YjQ0MmM2NzFmZWUiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjozNn0=",
-      "start_time": "2023-09-06T18:00:00Z",
-      "end_time": "2023-09-06T22:00:00Z",
-      "title": "Maitre des fleurs spécial avec AngleDroit !",
-      "canceled_until": null,
-      "category": {
-        "id": "338715930",
-        "name": "Maitre des Fleurs"
-      },
-      "is_recurring": false
-    },
-    {
       "id": "eyJzZWdtZW50SUQiOiI4NjQzMzc3Yi1iOGY2LTQ3Y2YtYjg3NS01NjJiNTU2MDQyYjciLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjozNn0=",
       "start_time": "2023-09-07T12:00:00Z",
       "end_time": "2023-09-07T18:00:00Z",
