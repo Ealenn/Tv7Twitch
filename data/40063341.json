@@ -7,23 +7,11 @@
     "broadcaster_type": "partner",
     "description": "",
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/3cdae7df-600c-4833-8dfe-8d2abc5a3b25-profile_image-300x300.png",
-    "offline_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/40696bfb-d47a-41c6-9d35-7867243d7749-channel_offline_image-1920x1080.png",
+    "offline_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/ab4cdd70-f569-423b-9452-d0d43db8258a-channel_offline_image-1920x1080.png",
     "view_count": 0,
     "created_at": "2013-02-05T19:20:22Z"
   },
   "schedulers": [
-    {
-      "id": "eyJzZWdtZW50SUQiOiJhMTI2NDdjMi00NzBlLTQyYWEtOTE1OC1kMTE0N2I0NWYxYTgiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjozN30=",
-      "start_time": "2023-09-12T18:00:00Z",
-      "end_time": "2023-09-12T20:00:00Z",
-      "title": "🍿 POPCORN AVEC AMIXEM, BOUZI & ANA ON AIR",
-      "canceled_until": null,
-      "category": {
-        "id": "417752",
-        "name": "Talk Shows & Podcasts"
-      },
-      "is_recurring": true
-    },
     {
       "id": "eyJzZWdtZW50SUQiOiJjY2QwOTFkOS04ZTRjLTRhNzEtOWVkNy1hOGFiMTM4YmJmMmEiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjozN30=",
       "start_time": "2023-09-13T12:00:00Z",
@@ -245,6 +233,18 @@
       "start_time": "2023-09-28T10:00:00Z",
       "end_time": null,
       "title": "📺 REACT ",
+      "canceled_until": null,
+      "category": {
+        "id": "509658",
+        "name": "Just Chatting"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiI0N2UxZjg4YS1hNjY0LTQzMjYtYWY4YS0xMGZhZTgyYmY2NzQiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjozOX0=",
+      "start_time": "2023-09-29T12:00:00Z",
+      "end_time": "2023-09-29T13:00:00Z",
+      "title": "🎙 PRÉLIVE",
       "canceled_until": null,
       "category": {
         "id": "509658",

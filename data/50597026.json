@@ -13,18 +13,6 @@
   },
   "schedulers": [
     {
-      "id": "eyJzZWdtZW50SUQiOiIxZTcxOGEzZS04NTU5LTQ2MTgtODM5My0yOWY1N2QzY2RmY2MiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjozN30=",
-      "start_time": "2023-09-12T12:00:00Z",
-      "end_time": "2023-09-12T18:00:00Z",
-      "title": "WoW Hardcore officiel avec Luuxia",
-      "canceled_until": null,
-      "category": {
-        "id": "18122",
-        "name": "World of Warcraft"
-      },
-      "is_recurring": false
-    },
-    {
       "id": "eyJzZWdtZW50SUQiOiJjNzZjODRmMy00MTkzLTQxYmItYjZkOC02ZDU0ZTdmY2FkMTkiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjozN30=",
       "start_time": "2023-09-13T09:00:00Z",
       "end_time": "2023-09-13T15:00:00Z",
