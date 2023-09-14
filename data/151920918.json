@@ -13,18 +13,6 @@
   },
   "schedulers": [
     {
-      "id": "eyJzZWdtZW50SUQiOiJiODU5N2FhOC0zMmYxLTQ3OTEtODRlZi1lNTZiZjkxNjFjMTUiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjozN30=",
-      "start_time": "2023-09-13T20:00:00Z",
-      "end_time": "2023-09-13T21:00:00Z",
-      "title": "NASA's OSIRIS-REx Mission Previews Asteroid Sample Return with OpenSpace (tech demo + Q&A)",
-      "canceled_until": null,
-      "category": {
-        "id": "509670",
-        "name": "Science & Technology"
-      },
-      "is_recurring": false
-    },
-    {
       "id": "eyJzZWdtZW50SUQiOiJmYzU1ZGY1NS1iYTMzLTRkZTgtYTJhYS03Yzk3MzE5N2I2YjciLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjo0MX0=",
       "start_time": "2023-10-14T15:30:00Z",
       "end_time": "2023-10-14T17:15:00Z",
