@@ -13,14 +13,98 @@
   },
   "schedulers": [
     {
-      "id": "eyJzZWdtZW50SUQiOiI4YzJiMDBiYS0wOGEyLTQ4ZGMtOTljZC05OGZjOGNmMDAwZTciLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjozN30=",
-      "start_time": "2023-09-17T12:00:00Z",
-      "end_time": "2023-09-17T18:00:00Z",
+      "id": "eyJzZWdtZW50SUQiOiIxZTIxN2E5ZS1jZDA0LTRiM2QtYTVlOC0xZThlZjE1Nzk1NWMiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjozOH0=",
+      "start_time": "2023-09-18T09:00:00Z",
+      "end_time": "2023-09-18T16:00:00Z",
+      "title": "Maitre des Fleurs",
+      "canceled_until": null,
+      "category": {
+        "id": "338715930",
+        "name": "Maitre des Fleurs"
+      },
+      "is_recurring": false
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiJmMDdlYzkzZi00Yjg3LTQ3NWEtYjA4Ny1mN2VmMzM3MzVlYzAiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjozOH0=",
+      "start_time": "2023-09-19T09:00:00Z",
+      "end_time": "2023-09-19T12:00:00Z",
+      "title": "Super Bomberman R2 avec Ultia et Riv",
+      "canceled_until": null,
+      "category": {
+        "id": "1523261012",
+        "name": "Super Bomberman R 2"
+      },
+      "is_recurring": false
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiJmYTAwMDM1ZS04NjYyLTQ1MGYtYmIxNy1hOGIwYTRmNTgxMjMiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjozOH0=",
+      "start_time": "2023-09-19T12:00:00Z",
+      "end_time": "2023-09-19T18:00:00Z",
       "title": "WoW Hardcore officiel avec Luuxia",
       "canceled_until": null,
       "category": {
         "id": "18122",
         "name": "World of Warcraft"
+      },
+      "is_recurring": false
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiJiYjVjOGZlMi05ZjhiLTRkOGEtOWM2My1mY2QwMzdmN2M2MjYiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjozOH0=",
+      "start_time": "2023-09-20T09:00:00Z",
+      "end_time": "2023-09-20T15:00:00Z",
+      "title": "Zelda TOTK ",
+      "canceled_until": null,
+      "category": {
+        "id": "512998",
+        "name": "The Legend of Zelda: Tears of the Kingdom"
+      },
+      "is_recurring": false
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiI5ZmExODRmMC1lNTVjLTQ0OTMtYWNmYS0yYWM4M2JkMTBiNjgiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjozOH0=",
+      "start_time": "2023-09-20T18:00:00Z",
+      "end_time": "2023-09-20T22:00:00Z",
+      "title": "FFS WoW Hardcore",
+      "canceled_until": null,
+      "category": {
+        "id": "18122",
+        "name": "World of Warcraft"
+      },
+      "is_recurring": false
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiI3ZWViMzFkYS0xYTE3LTQwODAtOGRmMC1kNDA1NmZmMDg5ZmEiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjozOH0=",
+      "start_time": "2023-09-21T12:00:00Z",
+      "end_time": "2023-09-21T18:00:00Z",
+      "title": "Objectif RECORD : Speedrun SMO",
+      "canceled_until": null,
+      "category": {
+        "id": "493997",
+        "name": "Super Mario Odyssey"
+      },
+      "is_recurring": false
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiI2NGM3NDIxNC00ODY3LTQ2MDItYWRlNi1hMTE5ZDI3ZGJkMDkiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjozOH0=",
+      "start_time": "2023-09-22T09:00:00Z",
+      "end_time": "2023-09-22T14:00:00Z",
+      "title": " Grounded avec Ultia et Riv",
+      "canceled_until": null,
+      "category": {
+        "id": "516086",
+        "name": "Grounded"
+      },
+      "is_recurring": false
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiJiY2U2ZDBiOC1mOTViLTRmNjgtOGQ3My1kNzQ2YjgzYjA2MjYiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjozOH0=",
+      "start_time": "2023-09-22T14:00:00Z",
+      "end_time": "2023-09-22T16:00:00Z",
+      "title": "Trombone Champ",
+      "canceled_until": null,
+      "category": {
+        "id": "177569847",
+        "name": "Trombone Champ"
       },
       "is_recurring": false
     }
