@@ -13,30 +13,6 @@
   },
   "schedulers": [
     {
-      "id": "eyJzZWdtZW50SUQiOiJmMDdlYzkzZi00Yjg3LTQ3NWEtYjA4Ny1mN2VmMzM3MzVlYzAiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjozOH0=",
-      "start_time": "2023-09-19T09:00:00Z",
-      "end_time": "2023-09-19T12:00:00Z",
-      "title": "Super Bomberman R2 avec Ultia et Riv",
-      "canceled_until": null,
-      "category": {
-        "id": "1523261012",
-        "name": "Super Bomberman R 2"
-      },
-      "is_recurring": false
-    },
-    {
-      "id": "eyJzZWdtZW50SUQiOiJmYTAwMDM1ZS04NjYyLTQ1MGYtYmIxNy1hOGIwYTRmNTgxMjMiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjozOH0=",
-      "start_time": "2023-09-19T12:00:00Z",
-      "end_time": "2023-09-19T18:00:00Z",
-      "title": "WoW Hardcore officiel avec Luuxia",
-      "canceled_until": null,
-      "category": {
-        "id": "18122",
-        "name": "World of Warcraft"
-      },
-      "is_recurring": false
-    },
-    {
       "id": "eyJzZWdtZW50SUQiOiJiYjVjOGZlMi05ZjhiLTRkOGEtOWM2My1mY2QwMzdmN2M2MjYiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjozOH0=",
       "start_time": "2023-09-20T09:00:00Z",
       "end_time": "2023-09-20T15:00:00Z",

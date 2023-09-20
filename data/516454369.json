@@ -37,6 +37,18 @@
       "is_recurring": false
     },
     {
+      "id": "eyJzZWdtZW50SUQiOiI2OGNkMjM3Mi0xODg1LTQxZGEtYTUzMS0yZDQ3MDhiNTE3ZTIiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjozOX0=",
+      "start_time": "2023-09-26T17:30:00Z",
+      "end_time": "2023-09-26T20:30:00Z",
+      "title": "Nos ingés sur KSP",
+      "canceled_until": null,
+      "category": {
+        "id": "32742",
+        "name": "Kerbal Space Program"
+      },
+      "is_recurring": false
+    },
+    {
       "id": "eyJzZWdtZW50SUQiOiI0ZDg4OTBmOC02MzJkLTRlY2EtYThlNS0yNDk1NmYyMjZjM2YiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjo0MX0=",
       "start_time": "2023-10-11T10:00:00Z",
       "end_time": "2023-10-11T12:00:00Z",
