@@ -13,30 +13,6 @@
   },
   "schedulers": [
     {
-      "id": "eyJzZWdtZW50SUQiOiJiYjVjOGZlMi05ZjhiLTRkOGEtOWM2My1mY2QwMzdmN2M2MjYiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjozOH0=",
-      "start_time": "2023-09-20T09:00:00Z",
-      "end_time": "2023-09-20T15:00:00Z",
-      "title": "Zelda TOTK ",
-      "canceled_until": null,
-      "category": {
-        "id": "512998",
-        "name": "The Legend of Zelda: Tears of the Kingdom"
-      },
-      "is_recurring": false
-    },
-    {
-      "id": "eyJzZWdtZW50SUQiOiI5ZmExODRmMC1lNTVjLTQ0OTMtYWNmYS0yYWM4M2JkMTBiNjgiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjozOH0=",
-      "start_time": "2023-09-20T18:00:00Z",
-      "end_time": "2023-09-20T22:00:00Z",
-      "title": "FFS WoW Hardcore",
-      "canceled_until": null,
-      "category": {
-        "id": "18122",
-        "name": "World of Warcraft"
-      },
-      "is_recurring": false
-    },
-    {
       "id": "eyJzZWdtZW50SUQiOiI3ZWViMzFkYS0xYTE3LTQwODAtOGRmMC1kNDA1NmZmMDg5ZmEiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjozOH0=",
       "start_time": "2023-09-21T12:00:00Z",
       "end_time": "2023-09-21T18:00:00Z",
