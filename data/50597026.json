@@ -13,18 +13,6 @@
   },
   "schedulers": [
     {
-      "id": "eyJzZWdtZW50SUQiOiI3ZWViMzFkYS0xYTE3LTQwODAtOGRmMC1kNDA1NmZmMDg5ZmEiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjozOH0=",
-      "start_time": "2023-09-21T12:00:00Z",
-      "end_time": "2023-09-21T18:00:00Z",
-      "title": "Objectif RECORD : Speedrun SMO",
-      "canceled_until": null,
-      "category": {
-        "id": "493997",
-        "name": "Super Mario Odyssey"
-      },
-      "is_recurring": false
-    },
-    {
       "id": "eyJzZWdtZW50SUQiOiI2NGM3NDIxNC00ODY3LTQ2MDItYWRlNi1hMTE5ZDI3ZGJkMDkiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjozOH0=",
       "start_time": "2023-09-22T09:00:00Z",
       "end_time": "2023-09-22T14:00:00Z",

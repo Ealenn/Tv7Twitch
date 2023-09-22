@@ -13,30 +13,6 @@
   },
   "schedulers": [
     {
-      "id": "eyJzZWdtZW50SUQiOiI2MDQzN2E0MS1mNzExLTRlMWMtYjI0My01Y2IyOTQzZjY4N2QiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjozOH0=",
-      "start_time": "2023-09-21T16:00:00Z",
-      "end_time": "2023-09-21T17:00:00Z",
-      "title": "Mandatory VS Exalty (coupe de France)",
-      "canceled_until": null,
-      "category": {
-        "id": "516575",
-        "name": "VALORANT"
-      },
-      "is_recurring": false
-    },
-    {
-      "id": "eyJzZWdtZW50SUQiOiJjZGY5YmIzYi1hMTZhLTQ5NzMtOTAxZS03YjE0YTVhZjg5ODUiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjozOH0=",
-      "start_time": "2023-09-21T17:00:00Z",
-      "end_time": "2023-09-21T19:00:00Z",
-      "title": "Découverte Dragonheir: Silent Gods (Publicité)",
-      "canceled_until": null,
-      "category": {
-        "id": "1972660570",
-        "name": "Dragonheir: Silent Gods"
-      },
-      "is_recurring": false
-    },
-    {
       "id": "eyJzZWdtZW50SUQiOiI4M2RhODEwYi05NjVlLTRjNTItOWJjMS0zMjRiN2M3YjIzMTAiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjozOH0=",
       "start_time": "2023-09-22T18:00:00Z",
       "end_time": "2023-09-22T19:00:00Z",
@@ -244,6 +220,30 @@
       "id": "eyJzZWdtZW50SUQiOiJiNTE0YTNkMC0xM2IxLTRjMGYtYTAzMy05OTdiYzc4Yjc1YjEiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjo0OX0=",
       "start_time": "2023-12-04T19:30:00Z",
       "end_time": "2023-12-04T23:00:00Z",
+      "title": "Soirée du lundi",
+      "canceled_until": null,
+      "category": {
+        "id": "509658",
+        "name": "Just Chatting"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiJiNTE0YTNkMC0xM2IxLTRjMGYtYTAzMy05OTdiYzc4Yjc1YjEiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjo1MH0=",
+      "start_time": "2023-12-11T19:30:00Z",
+      "end_time": "2023-12-11T23:00:00Z",
+      "title": "Soirée du lundi",
+      "canceled_until": null,
+      "category": {
+        "id": "509658",
+        "name": "Just Chatting"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiJiNTE0YTNkMC0xM2IxLTRjMGYtYTAzMy05OTdiYzc4Yjc1YjEiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjo1MX0=",
+      "start_time": "2023-12-18T19:30:00Z",
+      "end_time": "2023-12-18T23:00:00Z",
       "title": "Soirée du lundi",
       "canceled_until": null,
       "category": {
