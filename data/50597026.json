@@ -7,23 +7,11 @@
     "broadcaster_type": "partner",
     "description": "On se tape des immenses barres.",
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/d4737061-8f00-49d9-a56f-fcb4a9230b3f-profile_image-300x300.png",
-    "offline_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/635b82a7-e42b-4895-9fe2-500b8d329df3-channel_offline_image-1920x1080.jpeg",
+    "offline_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/8f565062-9958-4862-877b-a64875421738-channel_offline_image-1920x1080.jpeg",
     "view_count": 0,
     "created_at": "2013-10-24T19:04:45Z"
   },
   "schedulers": [
-    {
-      "id": "eyJzZWdtZW50SUQiOiI5ZDZjYTg3Ny03NGEwLTRhNjktYjQzYS1hN2ZmZDVjMWMyNzYiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjozOX0=",
-      "start_time": "2023-09-25T09:00:00Z",
-      "end_time": "2023-09-25T16:00:00Z",
-      "title": "Maitre des Fleurs",
-      "canceled_until": null,
-      "category": {
-        "id": "338715930",
-        "name": "Maitre des Fleurs"
-      },
-      "is_recurring": false
-    },
     {
       "id": "eyJzZWdtZW50SUQiOiIzZWMzNzk3Zi1hNWE5LTQ0YTUtYTA2ZC1kOGE0MTRjNjk4OWYiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjozOX0=",
       "start_time": "2023-09-26T09:00:00Z",
