@@ -7,23 +7,11 @@
     "broadcaster_type": "partner",
     "description": "",
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/3cdae7df-600c-4833-8dfe-8d2abc5a3b25-profile_image-300x300.png",
-    "offline_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/f6265c4d-ddb6-451f-826a-85ad6272219d-channel_offline_image-1920x1080.png",
+    "offline_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/fb972f02-0313-4ee8-8a7c-a5c0168086cf-channel_offline_image-1920x1080.png",
     "view_count": 0,
     "created_at": "2013-02-05T19:20:22Z"
   },
   "schedulers": [
-    {
-      "id": "eyJzZWdtZW50SUQiOiJhMTI2NDdjMi00NzBlLTQyYWEtOTE1OC1kMTE0N2I0NWYxYTgiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjozOX0=",
-      "start_time": "2023-09-26T18:00:00Z",
-      "end_time": "2023-09-26T20:00:00Z",
-      "title": "🍿 POPCORN AVEC MAGHLA, OCEANE & GURKY ",
-      "canceled_until": null,
-      "category": {
-        "id": "417752",
-        "name": "Talk Shows & Podcasts"
-      },
-      "is_recurring": true
-    },
     {
       "id": "eyJzZWdtZW50SUQiOiI5Y2I4ZWYzZi1jYWNkLTQwZjUtODYzNC0zZGIxYWRmZTkzNmIiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjozOX0=",
       "start_time": "2023-09-27T12:00:00Z",
@@ -245,6 +233,18 @@
       "start_time": "2023-10-11T13:00:00Z",
       "end_time": "2023-10-11T17:00:00Z",
       "title": "STREAM LIBRE",
+      "canceled_until": null,
+      "category": {
+        "id": "509658",
+        "name": "Just Chatting"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiIwZTdiYzY3Ny1kYjE5LTRjOTMtYjI1MS01NjZjMWI3OGYwM2QiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjo0MX0=",
+      "start_time": "2023-10-12T17:30:00Z",
+      "end_time": "2023-10-12T18:30:00Z",
+      "title": "🎙 PRÉ LIVE",
       "canceled_until": null,
       "category": {
         "id": "509658",

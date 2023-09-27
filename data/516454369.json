@@ -7,23 +7,11 @@
     "broadcaster_type": "partner",
     "description": "Les émissions du CNES, le Centre National d'Études Spatiales. ",
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/05b8536b-1a8c-4a37-b4ce-230aae35bfec-profile_image-300x300.png",
-    "offline_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/b55ec62d-27ad-47e8-b216-a5976a555264-channel_offline_image-1920x1080.png",
+    "offline_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/517afb26-4211-400c-bbda-9b044cbfbfa5-channel_offline_image-1920x1080.png",
     "view_count": 0,
     "created_at": "2020-04-18T14:49:41Z"
   },
   "schedulers": [
-    {
-      "id": "eyJzZWdtZW50SUQiOiI2OGNkMjM3Mi0xODg1LTQxZGEtYTUzMS0yZDQ3MDhiNTE3ZTIiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjozOX0=",
-      "start_time": "2023-09-26T17:30:00Z",
-      "end_time": "2023-09-26T20:30:00Z",
-      "title": "Nos ingés sur KSP",
-      "canceled_until": null,
-      "category": {
-        "id": "32742",
-        "name": "Kerbal Space Program"
-      },
-      "is_recurring": false
-    },
     {
       "id": "eyJzZWdtZW50SUQiOiI0ZDg4OTBmOC02MzJkLTRlY2EtYThlNS0yNDk1NmYyMjZjM2YiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjo0MX0=",
       "start_time": "2023-10-11T10:00:00Z",
