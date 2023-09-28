@@ -13,30 +13,6 @@
   },
   "schedulers": [
     {
-      "id": "eyJzZWdtZW50SUQiOiI5Y2I4ZWYzZi1jYWNkLTQwZjUtODYzNC0zZGIxYWRmZTkzNmIiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjozOX0=",
-      "start_time": "2023-09-27T12:00:00Z",
-      "end_time": "2023-09-27T13:00:00Z",
-      "title": "🎙 PRÉ LIVE",
-      "canceled_until": null,
-      "category": {
-        "id": "509658",
-        "name": "Just Chatting"
-      },
-      "is_recurring": true
-    },
-    {
-      "id": "eyJzZWdtZW50SUQiOiIxNzkzNjE5OS05OGFkLTRmYjAtOTExZC00OTVmZTE4ZWZhZTEiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjozOX0=",
-      "start_time": "2023-09-27T13:00:00Z",
-      "end_time": "2023-09-27T17:00:00Z",
-      "title": "STREAM LIBRE",
-      "canceled_until": null,
-      "category": {
-        "id": "509658",
-        "name": "Just Chatting"
-      },
-      "is_recurring": true
-    },
-    {
       "id": "eyJzZWdtZW50SUQiOiIwZTdiYzY3Ny1kYjE5LTRjOTMtYjI1MS01NjZjMWI3OGYwM2QiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjozOX0=",
       "start_time": "2023-09-28T17:30:00Z",
       "end_time": "2023-09-28T18:30:00Z",
@@ -244,6 +220,30 @@
       "id": "eyJzZWdtZW50SUQiOiIwZTdiYzY3Ny1kYjE5LTRjOTMtYjI1MS01NjZjMWI3OGYwM2QiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjo0MX0=",
       "start_time": "2023-10-12T17:30:00Z",
       "end_time": "2023-10-12T18:30:00Z",
+      "title": "🎙 PRÉ LIVE",
+      "canceled_until": null,
+      "category": {
+        "id": "509658",
+        "name": "Just Chatting"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiJkZGU2OTk4My0wZDViLTQ2NGYtODFkNC1mY2Q5ZjZlN2NjMzkiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjo0MX0=",
+      "start_time": "2023-10-12T20:00:00Z",
+      "end_time": "2023-10-12T22:00:00Z",
+      "title": "STREAM LIBRE",
+      "canceled_until": null,
+      "category": {
+        "id": "509658",
+        "name": "Just Chatting"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiIxMWFiYjdiNC0wOGJhLTRhNTctOWRiZC1kMWMzZDM4NzNmZjgiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjo0MX0=",
+      "start_time": "2023-10-13T12:00:00Z",
+      "end_time": "2023-10-13T13:00:00Z",
       "title": "🎙 PRÉ LIVE",
       "canceled_until": null,
       "category": {
