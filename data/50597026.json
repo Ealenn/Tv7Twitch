@@ -13,42 +13,6 @@
   },
   "schedulers": [
     {
-      "id": "eyJzZWdtZW50SUQiOiJkNTlmZGRlZi1kZDRlLTQwMTAtYjFkMi04ZDU5YzQyNTA5NTIiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjo0MH0=",
-      "start_time": "2023-10-03T09:00:00Z",
-      "end_time": "2023-10-03T12:00:00Z",
-      "title": "Code Names avé les copaings",
-      "canceled_until": null,
-      "category": {
-        "id": "508509",
-        "name": "Codenames"
-      },
-      "is_recurring": false
-    },
-    {
-      "id": "eyJzZWdtZW50SUQiOiIzYjMxOGRlOC01NDVlLTQyZmUtYmVmMy0yNTQxMjg4MmNkMjMiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjo0MH0=",
-      "start_time": "2023-10-03T12:00:00Z",
-      "end_time": "2023-10-03T19:00:00Z",
-      "title": "Suite de l’aventure de Brígitte et Manü",
-      "canceled_until": null,
-      "category": {
-        "id": "18122",
-        "name": "World of Warcraft"
-      },
-      "is_recurring": false
-    },
-    {
-      "id": "eyJzZWdtZW50SUQiOiI3MzE0ZmEwMC02OTBhLTQ3MTctOTA2Ny0zMDRkM2RkZGVmNTMiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjo0MH0=",
-      "start_time": "2023-10-03T19:00:00Z",
-      "end_time": "2023-10-03T22:00:00Z",
-      "title": "Embarquons dans une nouvelle aventure direction Avalon",
-      "canceled_until": null,
-      "category": {
-        "id": "515586",
-        "name": "Tainted Grail: The Fall of Avalon"
-      },
-      "is_recurring": false
-    },
-    {
       "id": "eyJzZWdtZW50SUQiOiI2ZDdmN2Q4ZS02ZDc3LTQ3NmUtOWE3Ni1iN2ExYmFiNzRjMGEiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjo0MH0=",
       "start_time": "2023-10-04T09:00:00Z",
       "end_time": "2023-10-04T17:00:00Z",
