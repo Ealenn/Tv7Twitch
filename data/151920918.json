@@ -13,6 +13,18 @@
   },
   "schedulers": [
     {
+      "id": "eyJzZWdtZW50SUQiOiJjZDU0MGRhYi1hMTYwLTRjZjUtYmI3Ni03YjE3OThiMDA2YzQiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjo0MX0=",
+      "start_time": "2023-10-11T15:00:00Z",
+      "end_time": "2023-10-11T16:00:00Z",
+      "title": "Revealing the OSIRIS-REx Asteroid Sample (Official NASA Broadcast)",
+      "canceled_until": null,
+      "category": {
+        "id": "509670",
+        "name": "Science & Technology"
+      },
+      "is_recurring": false
+    },
+    {
       "id": "eyJzZWdtZW50SUQiOiJmYzU1ZGY1NS1iYTMzLTRkZTgtYTJhYS03Yzk3MzE5N2I2YjciLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjo0MX0=",
       "start_time": "2023-10-14T15:30:00Z",
       "end_time": "2023-10-14T17:15:00Z",

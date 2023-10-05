@@ -13,18 +13,6 @@
   },
   "schedulers": [
     {
-      "id": "eyJzZWdtZW50SUQiOiI2ZDdmN2Q4ZS02ZDc3LTQ3NmUtOWE3Ni1iN2ExYmFiNzRjMGEiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjo0MH0=",
-      "start_time": "2023-10-04T09:00:00Z",
-      "end_time": "2023-10-04T17:00:00Z",
-      "title": "Le Slowrun du plaisir",
-      "canceled_until": null,
-      "category": {
-        "id": "512998",
-        "name": "The Legend of Zelda: Tears of the Kingdom"
-      },
-      "is_recurring": false
-    },
-    {
       "id": "eyJzZWdtZW50SUQiOiIyZGVlN2IxYi0zNWEwLTRhNzgtODdmNC03MjQwZGNlYWVmNjIiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjo0MH0=",
       "start_time": "2023-10-05T12:00:00Z",
       "end_time": "2023-10-05T15:00:00Z",
