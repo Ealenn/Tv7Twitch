@@ -13,30 +13,6 @@
   },
   "schedulers": [
     {
-      "id": "eyJzZWdtZW50SUQiOiIyZGVlN2IxYi0zNWEwLTRhNzgtODdmNC03MjQwZGNlYWVmNjIiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjo0MH0=",
-      "start_time": "2023-10-05T12:00:00Z",
-      "end_time": "2023-10-05T15:00:00Z",
-      "title": "Code Names avé les copaings",
-      "canceled_until": null,
-      "category": {
-        "id": "508509",
-        "name": "Codenames"
-      },
-      "is_recurring": false
-    },
-    {
-      "id": "eyJzZWdtZW50SUQiOiI1ZTZmNTFmZS04YjM2LTRkZjEtYWZkNS0zNWNkMGYwYjdiOTkiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjo0MH0=",
-      "start_time": "2023-10-05T15:00:00Z",
-      "end_time": "2023-10-05T21:00:00Z",
-      "title": "L’aventure hardcore continue",
-      "canceled_until": null,
-      "category": {
-        "id": "18122",
-        "name": "World of Warcraft"
-      },
-      "is_recurring": false
-    },
-    {
       "id": "eyJzZWdtZW50SUQiOiIzOGRmNWViMS1mNDE5LTRiZWYtYjhjNS1lMDI4NzFmM2EzNDMiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjo0MH0=",
       "start_time": "2023-10-06T18:00:00Z",
       "end_time": "2023-10-06T22:00:00Z",
