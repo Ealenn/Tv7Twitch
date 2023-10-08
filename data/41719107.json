@@ -13,18 +13,6 @@
   },
   "schedulers": [
     {
-      "id": "eyJzZWdtZW50SUQiOiJhNGVlNzUwZS1hYzAyLTQ5YWQtYWYzNS0zMDdjMWQ3YjQ2NzUiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjo0MH0=",
-      "start_time": "2023-10-07T09:00:00Z",
-      "end_time": "2023-10-07T10:00:00Z",
-      "title": "BOULANJOUR. RDV à 11h dans votre boulangerie la plus proche !",
-      "canceled_until": null,
-      "category": {
-        "id": "509658",
-        "name": "Just Chatting"
-      },
-      "is_recurring": false
-    },
-    {
       "id": "eyJzZWdtZW50SUQiOiJiNTE0YTNkMC0xM2IxLTRjMGYtYTAzMy05OTdiYzc4Yjc1YjEiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjo0MX0=",
       "start_time": "2023-10-09T18:30:00Z",
       "end_time": "2023-10-09T22:00:00Z",
@@ -244,6 +232,18 @@
       "id": "eyJzZWdtZW50SUQiOiJiNTE0YTNkMC0xM2IxLTRjMGYtYTAzMy05OTdiYzc4Yjc1YjEiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjo3fQ==",
       "start_time": "2024-02-12T19:30:00Z",
       "end_time": "2024-02-12T23:00:00Z",
+      "title": "Soirée du lundi",
+      "canceled_until": null,
+      "category": {
+        "id": "509658",
+        "name": "Just Chatting"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiJiNTE0YTNkMC0xM2IxLTRjMGYtYTAzMy05OTdiYzc4Yjc1YjEiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjo4fQ==",
+      "start_time": "2024-02-19T19:30:00Z",
+      "end_time": "2024-02-19T23:00:00Z",
       "title": "Soirée du lundi",
       "canceled_until": null,
       "category": {

@@ -13,18 +13,6 @@
   },
   "schedulers": [
     {
-      "id": "eyJzZWdtZW50SUQiOiJjMzJjY2RmNi02MmU3LTRjNjMtYjM5OS1iNWM0MjQ1M2M0ODEiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjo0MH0=",
-      "start_time": "2023-10-07T11:00:00Z",
-      "end_time": "2023-10-07T16:00:00Z",
-      "title": "MSF Quest",
-      "canceled_until": null,
-      "category": {
-        "id": "509663",
-        "name": "Special Events"
-      },
-      "is_recurring": false
-    },
-    {
       "id": "eyJzZWdtZW50SUQiOiI5NDllNjk4Mi01OWM5LTQ5MGYtODM2MC03ZGIxNDRiN2M4NjYiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjo0MH0=",
       "start_time": "2023-10-08T11:00:00Z",
       "end_time": "2023-10-08T16:00:00Z",
