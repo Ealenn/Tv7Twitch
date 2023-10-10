@@ -7,40 +7,16 @@
     "broadcaster_type": "partner",
     "description": "",
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/3cdae7df-600c-4833-8dfe-8d2abc5a3b25-profile_image-300x300.png",
-    "offline_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/84511c54-5a23-4861-9e6f-976dfe63fb7b-channel_offline_image-1920x1080.png",
+    "offline_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/debbeda4-46be-4f37-ae52-bc31113dd7c3-channel_offline_image-1920x1080.png",
     "view_count": 0,
     "created_at": "2013-02-05T19:20:22Z"
   },
   "schedulers": [
     {
-      "id": "eyJzZWdtZW50SUQiOiI3YmQwMDNlNC05Y2YxLTQ0MzItOTUwNC02ZWFmMzlkYzJkZGMiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjo0MX0=",
-      "start_time": "2023-10-09T17:30:00Z",
-      "end_time": "2023-10-09T18:30:00Z",
-      "title": "🎙 PRÉ LIVE",
-      "canceled_until": null,
-      "category": {
-        "id": "509658",
-        "name": "Just Chatting"
-      },
-      "is_recurring": true
-    },
-    {
-      "id": "eyJzZWdtZW50SUQiOiIyODYwNDIzNS1lY2E4LTQyYmUtOGQ0Yi01MTM3YjllYjdlYTYiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjo0MX0=",
-      "start_time": "2023-10-09T18:30:00Z",
-      "end_time": "2023-10-09T22:30:00Z",
-      "title": "AS DUSK FALLS",
-      "canceled_until": null,
-      "category": {
-        "id": "518875",
-        "name": "As Dusk Falls"
-      },
-      "is_recurring": true
-    },
-    {
       "id": "eyJzZWdtZW50SUQiOiJhMTI2NDdjMi00NzBlLTQyYWEtOTE1OC1kMTE0N2I0NWYxYTgiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjo0MX0=",
       "start_time": "2023-10-10T18:00:00Z",
       "end_time": "2023-10-10T20:00:00Z",
-      "title": "🍿 POPCORN AVEC ENJOY PHOENIX, SIMON PUECH, LEO DUFF & RIVENZI",
+      "title": "🍿 POPCORN AVEC ANTOINE DANIEL, BAGHERA JONES, ETOILES & JIRAYA",
       "canceled_until": null,
       "category": {
         "id": "417752",
@@ -64,23 +40,11 @@
       "id": "eyJzZWdtZW50SUQiOiIyOWE5ZWNhMi1lYmRmLTRlYmMtYmU0MC02ZGQ0NWU4MjdmMzIiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjo0MX0=",
       "start_time": "2023-10-11T13:00:00Z",
       "end_time": "2023-10-11T15:00:00Z",
-      "title": "PAYDAY AVEC JIJI & ZANK",
+      "title": "LOL AVEC XARI",
       "canceled_until": null,
       "category": {
-        "id": "2113043143",
-        "name": "PAYDAY 3"
-      },
-      "is_recurring": true
-    },
-    {
-      "id": "eyJzZWdtZW50SUQiOiIxNzkzNjE5OS05OGFkLTRmYjAtOTExZC00OTVmZTE4ZWZhZTEiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjo0MX0=",
-      "start_time": "2023-10-11T15:00:00Z",
-      "end_time": "2023-10-11T17:00:00Z",
-      "title": "AS DUSK FALLS",
-      "canceled_until": null,
-      "category": {
-        "id": "518875",
-        "name": "As Dusk Falls"
+        "id": "21779",
+        "name": "League of Legends"
       },
       "is_recurring": true
     },
@@ -100,7 +64,7 @@
       "id": "eyJzZWdtZW50SUQiOiJkZGU2OTk4My0wZDViLTQ2NGYtODFkNC1mY2Q5ZjZlN2NjMzkiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjo0MX0=",
       "start_time": "2023-10-12T14:00:00Z",
       "end_time": "2023-10-12T15:30:00Z",
-      "title": "CROSS GEN'",
+      "title": "STREAM LIBRE",
       "canceled_until": null,
       "category": {
         "id": "509658",
@@ -123,6 +87,18 @@
     {
       "id": "eyJzZWdtZW50SUQiOiI2ZTNmMDY1OC0yZmIyLTRkZmQtOGQ2ZS04YTY2MDRiZmY2YTAiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjo0MX0=",
       "start_time": "2023-10-13T13:00:00Z",
+      "end_time": "2023-10-13T15:00:00Z",
+      "title": "COD AVEC ZANK",
+      "canceled_until": null,
+      "category": {
+        "id": "1337444628",
+        "name": "Call of Duty: Modern Warfare III"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiI0ZTAzMDI5NC1kMjNmLTQwZGYtYmRkNy05YjJiOTczMzYwY2EiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjo0MX0=",
+      "start_time": "2023-10-13T15:00:00Z",
       "end_time": "2023-10-13T17:00:00Z",
       "title": "STREAM LIBRE",
       "canceled_until": null,
@@ -147,12 +123,12 @@
     {
       "id": "eyJzZWdtZW50SUQiOiIyODYwNDIzNS1lY2E4LTQyYmUtOGQ0Yi01MTM3YjllYjdlYTYiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjo0Mn0=",
       "start_time": "2023-10-16T18:30:00Z",
-      "end_time": "2023-10-16T22:30:00Z",
-      "title": "AS DUSK FALLS",
+      "end_time": "2023-10-16T22:00:00Z",
+      "title": "📺 REACT \"THE ISLAND\"",
       "canceled_until": null,
       "category": {
-        "id": "518875",
-        "name": "As Dusk Falls"
+        "id": "509658",
+        "name": "Just Chatting"
       },
       "is_recurring": true
     },
@@ -160,7 +136,7 @@
       "id": "eyJzZWdtZW50SUQiOiJhMTI2NDdjMi00NzBlLTQyYWEtOTE1OC1kMTE0N2I0NWYxYTgiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjo0Mn0=",
       "start_time": "2023-10-17T18:00:00Z",
       "end_time": "2023-10-17T20:00:00Z",
-      "title": "🍿 POPCORN AVEC ENJOY PHOENIX, SIMON PUECH, LEO DUFF & RIVENZI",
+      "title": "🍿 POPCORN AVEC ANTOINE DANIEL, BAGHERA JONES, ETOILES & JIRAYA",
       "canceled_until": null,
       "category": {
         "id": "417752",
@@ -184,23 +160,11 @@
       "id": "eyJzZWdtZW50SUQiOiIyOWE5ZWNhMi1lYmRmLTRlYmMtYmU0MC02ZGQ0NWU4MjdmMzIiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjo0Mn0=",
       "start_time": "2023-10-18T13:00:00Z",
       "end_time": "2023-10-18T15:00:00Z",
-      "title": "PAYDAY AVEC JIJI & ZANK",
+      "title": "LOL AVEC XARI",
       "canceled_until": null,
       "category": {
-        "id": "2113043143",
-        "name": "PAYDAY 3"
-      },
-      "is_recurring": true
-    },
-    {
-      "id": "eyJzZWdtZW50SUQiOiIxNzkzNjE5OS05OGFkLTRmYjAtOTExZC00OTVmZTE4ZWZhZTEiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjo0Mn0=",
-      "start_time": "2023-10-18T15:00:00Z",
-      "end_time": "2023-10-18T17:00:00Z",
-      "title": "AS DUSK FALLS",
-      "canceled_until": null,
-      "category": {
-        "id": "518875",
-        "name": "As Dusk Falls"
+        "id": "21779",
+        "name": "League of Legends"
       },
       "is_recurring": true
     },
@@ -220,7 +184,7 @@
       "id": "eyJzZWdtZW50SUQiOiJkZGU2OTk4My0wZDViLTQ2NGYtODFkNC1mY2Q5ZjZlN2NjMzkiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjo0Mn0=",
       "start_time": "2023-10-19T14:00:00Z",
       "end_time": "2023-10-19T15:30:00Z",
-      "title": "CROSS GEN'",
+      "title": "STREAM LIBRE",
       "canceled_until": null,
       "category": {
         "id": "509658",
@@ -243,8 +207,44 @@
     {
       "id": "eyJzZWdtZW50SUQiOiI2ZTNmMDY1OC0yZmIyLTRkZmQtOGQ2ZS04YTY2MDRiZmY2YTAiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjo0Mn0=",
       "start_time": "2023-10-20T13:00:00Z",
+      "end_time": "2023-10-20T15:00:00Z",
+      "title": "COD AVEC ZANK",
+      "canceled_until": null,
+      "category": {
+        "id": "1337444628",
+        "name": "Call of Duty: Modern Warfare III"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiI0ZTAzMDI5NC1kMjNmLTQwZGYtYmRkNy05YjJiOTczMzYwY2EiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjo0Mn0=",
+      "start_time": "2023-10-20T15:00:00Z",
       "end_time": "2023-10-20T17:00:00Z",
       "title": "STREAM LIBRE",
+      "canceled_until": null,
+      "category": {
+        "id": "509658",
+        "name": "Just Chatting"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiI3YmQwMDNlNC05Y2YxLTQ0MzItOTUwNC02ZWFmMzlkYzJkZGMiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjo0M30=",
+      "start_time": "2023-10-23T17:30:00Z",
+      "end_time": "2023-10-23T18:30:00Z",
+      "title": "🎙 PRÉ LIVE",
+      "canceled_until": null,
+      "category": {
+        "id": "509658",
+        "name": "Just Chatting"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiIyODYwNDIzNS1lY2E4LTQyYmUtOGQ0Yi01MTM3YjllYjdlYTYiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjo0M30=",
+      "start_time": "2023-10-23T18:30:00Z",
+      "end_time": "2023-10-23T22:00:00Z",
+      "title": "📺 REACT \"THE ISLAND\"",
       "canceled_until": null,
       "category": {
         "id": "509658",
