@@ -13,18 +13,6 @@
   },
   "schedulers": [
     {
-      "id": "eyJzZWdtZW50SUQiOiJlOWY3YmZiNC01YWE3LTQ5ODgtOTdmZS02NzI5M2JkNDVlZjgiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjo0MX0=",
-      "start_time": "2023-10-10T14:00:00Z",
-      "end_time": "2023-10-10T20:00:00Z",
-      "title": "L'addiction F-Zero 99",
-      "canceled_until": null,
-      "category": {
-        "id": "1055516282",
-        "name": "F-Zero 99"
-      },
-      "is_recurring": false
-    },
-    {
       "id": "eyJzZWdtZW50SUQiOiJkOGZkZjIwYy1iNjY3LTQyNzYtYjM2My04NjUxNTlkN2FmNjAiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjo0MX0=",
       "start_time": "2023-10-11T09:00:00Z",
       "end_time": "2023-10-11T17:00:00Z",
