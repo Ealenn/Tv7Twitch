@@ -13,10 +13,10 @@
   },
   "schedulers": [
     {
-      "id": "eyJzZWdtZW50SUQiOiJjZDU0MGRhYi1hMTYwLTRjZjUtYmI3Ni03YjE3OThiMDA2YzQiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjo0MX0=",
-      "start_time": "2023-10-11T15:00:00Z",
-      "end_time": "2023-10-11T16:00:00Z",
-      "title": "Revealing the OSIRIS-REx Asteroid Sample (Official NASA Broadcast)",
+      "id": "eyJzZWdtZW50SUQiOiIzYTQxOTZlMy0wOGI4LTQ2YWQtODQyOS04NzBlMzFmMmY1ZDEiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjo0MX0=",
+      "start_time": "2023-10-13T13:30:00Z",
+      "end_time": "2023-10-13T15:30:00Z",
+      "title": "Psyche Launches to a Metal Asteroid",
       "canceled_until": null,
       "category": {
         "id": "509670",
