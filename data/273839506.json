@@ -1,0 +1,76 @@
+{
+  "channel": {
+    "id": "273839506",
+    "login": "micode",
+    "display_name": "Micode",
+    "type": "",
+    "broadcaster_type": "partner",
+    "description": "Underscore_ le talk-show des passionnés de l'IT, un mercredi sur 2, à 19h",
+    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/e10f7afd-6132-4198-8309-5bd6bbb215e2-profile_image-300x300.png",
+    "offline_image_url": "",
+    "view_count": 0,
+    "created_at": "2018-11-10T10:20:40Z"
+  },
+  "schedulers": [
+    {
+      "id": "eyJzZWdtZW50SUQiOiI1ODBiYzQxMC0yYjgwLTRhZjEtYjNmYy0xNTY5YWM1MTZhMzAiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjo0M30=",
+      "start_time": "2023-10-25T17:00:00Z",
+      "end_time": "2023-10-25T19:00:00Z",
+      "title": "Underscore_",
+      "canceled_until": null,
+      "category": {
+        "id": "417752",
+        "name": "Talk Shows & Podcasts"
+      },
+      "is_recurring": false
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiI1MWVkZTBiMC1iMmU0LTQ4ZjQtOTU1Zi1kMWY3YjI2ZTk2ZjAiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjo0NX0=",
+      "start_time": "2023-11-08T18:00:00Z",
+      "end_time": "2023-11-08T20:00:00Z",
+      "title": "Underscore_",
+      "canceled_until": null,
+      "category": {
+        "id": "417752",
+        "name": "Talk Shows & Podcasts"
+      },
+      "is_recurring": false
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiJjYThmZWVlYS02N2NlLTQ0YTAtYWNmOS04ZjE0ZmY4Y2I3MGEiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjo0N30=",
+      "start_time": "2023-11-22T18:00:00Z",
+      "end_time": "2023-11-22T20:00:00Z",
+      "title": "Underscore_",
+      "canceled_until": null,
+      "category": {
+        "id": "417752",
+        "name": "Talk Shows & Podcasts"
+      },
+      "is_recurring": false
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiIwZTdiMWE5ZS04MjI2LTQ5NGYtOTBkZi0yMDY2MTMwODlmM2UiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjo0OX0=",
+      "start_time": "2023-12-06T18:00:00Z",
+      "end_time": "2023-12-06T20:00:00Z",
+      "title": "Underscore_",
+      "canceled_until": null,
+      "category": {
+        "id": "417752",
+        "name": "Talk Shows & Podcasts"
+      },
+      "is_recurring": false
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiJkN2MxODE2YS1jMTc0LTQ5ODgtODU2YS04NjdkNTRkZjZlYzUiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjo1MX0=",
+      "start_time": "2023-12-20T18:00:00Z",
+      "end_time": "2023-12-20T20:00:00Z",
+      "title": "Underscore_",
+      "canceled_until": null,
+      "category": {
+        "id": "417752",
+        "name": "Talk Shows & Podcasts"
+      },
+      "is_recurring": false
+    }
+  ]
+}
