@@ -13,42 +13,6 @@
   },
   "schedulers": [
     {
-      "id": "eyJzZWdtZW50SUQiOiIxMWFiYjdiNC0wOGJhLTRhNTctOWRiZC1kMWMzZDM4NzNmZjgiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjo0MX0=",
-      "start_time": "2023-10-13T12:00:00Z",
-      "end_time": "2023-10-13T13:00:00Z",
-      "title": "🎙 PRÉ LIVE",
-      "canceled_until": null,
-      "category": {
-        "id": "509658",
-        "name": "Just Chatting"
-      },
-      "is_recurring": true
-    },
-    {
-      "id": "eyJzZWdtZW50SUQiOiI2ZTNmMDY1OC0yZmIyLTRkZmQtOGQ2ZS04YTY2MDRiZmY2YTAiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjo0MX0=",
-      "start_time": "2023-10-13T13:00:00Z",
-      "end_time": "2023-10-13T15:00:00Z",
-      "title": "COD AVEC ZANK",
-      "canceled_until": null,
-      "category": {
-        "id": "1337444628",
-        "name": "Call of Duty: Modern Warfare III"
-      },
-      "is_recurring": true
-    },
-    {
-      "id": "eyJzZWdtZW50SUQiOiI0ZTAzMDI5NC1kMjNmLTQwZGYtYmRkNy05YjJiOTczMzYwY2EiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjo0MX0=",
-      "start_time": "2023-10-13T15:00:00Z",
-      "end_time": "2023-10-13T17:00:00Z",
-      "title": "STREAM LIBRE",
-      "canceled_until": null,
-      "category": {
-        "id": "509658",
-        "name": "Just Chatting"
-      },
-      "is_recurring": true
-    },
-    {
       "id": "eyJzZWdtZW50SUQiOiI3YmQwMDNlNC05Y2YxLTQ0MzItOTUwNC02ZWFmMzlkYzJkZGMiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjo0Mn0=",
       "start_time": "2023-10-16T17:30:00Z",
       "end_time": "2023-10-16T18:30:00Z",
@@ -244,6 +208,42 @@
       "id": "eyJzZWdtZW50SUQiOiJkZGU2OTk4My0wZDViLTQ2NGYtODFkNC1mY2Q5ZjZlN2NjMzkiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjo0M30=",
       "start_time": "2023-10-26T14:00:00Z",
       "end_time": "2023-10-26T15:30:00Z",
+      "title": "STREAM LIBRE",
+      "canceled_until": null,
+      "category": {
+        "id": "509658",
+        "name": "Just Chatting"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiIxMWFiYjdiNC0wOGJhLTRhNTctOWRiZC1kMWMzZDM4NzNmZjgiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjo0M30=",
+      "start_time": "2023-10-27T12:00:00Z",
+      "end_time": "2023-10-27T13:00:00Z",
+      "title": "🎙 PRÉ LIVE",
+      "canceled_until": null,
+      "category": {
+        "id": "509658",
+        "name": "Just Chatting"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiI2ZTNmMDY1OC0yZmIyLTRkZmQtOGQ2ZS04YTY2MDRiZmY2YTAiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjo0M30=",
+      "start_time": "2023-10-27T13:00:00Z",
+      "end_time": "2023-10-27T15:00:00Z",
+      "title": "COD AVEC ZANK",
+      "canceled_until": null,
+      "category": {
+        "id": "1337444628",
+        "name": "Call of Duty: Modern Warfare III"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiI0ZTAzMDI5NC1kMjNmLTQwZGYtYmRkNy05YjJiOTczMzYwY2EiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjo0M30=",
+      "start_time": "2023-10-27T15:00:00Z",
+      "end_time": "2023-10-27T17:00:00Z",
       "title": "STREAM LIBRE",
       "canceled_until": null,
       "category": {
