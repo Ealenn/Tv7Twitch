@@ -1,0 +1,100 @@
+{
+  "channel": {
+    "id": "50597026",
+    "login": "ponce",
+    "display_name": "Ponce",
+    "type": "",
+    "broadcaster_type": "partner",
+    "description": "On se tape des immenses barres.",
+    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/d4737061-8f00-49d9-a56f-fcb4a9230b3f-profile_image-300x300.png",
+    "offline_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/5f9f84de-56f0-4dc7-8f28-bea8955b81ff-channel_offline_image-1920x1080.jpeg",
+    "view_count": 0,
+    "created_at": "2013-10-24T19:04:45Z"
+  },
+  "schedulers": [
+    {
+      "id": "eyJzZWdtZW50SUQiOiIwNzc4ZjE3OS05OTYxLTRjNzctYTY4OC1mMWI5M2M1OGRlZDEiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjo0Mn0=",
+      "start_time": "2023-10-16T09:00:00Z",
+      "end_time": "2023-10-16T17:00:00Z",
+      "title": "Culture et plaisir",
+      "canceled_until": null,
+      "category": {
+        "id": "338715930",
+        "name": "Maitre des Fleurs"
+      },
+      "is_recurring": false
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiJhZDA5MzJjNS00MDE1LTQ5ZWQtYTBmYi0xZmQzMGY1NzNhNDAiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjo0Mn0=",
+      "start_time": "2023-10-17T09:00:00Z",
+      "end_time": "2023-10-17T12:00:00Z",
+      "title": "Code Names avec les copains LyeGaia, Bytell, Lutti, Pressea et d’autres",
+      "canceled_until": null,
+      "category": {
+        "id": "508509",
+        "name": "Codenames"
+      },
+      "is_recurring": false
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiJmZmUxOThjZC1hODJkLTRiN2EtYmYyMy05MGEzZmY0ZWJlNjciLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjo0Mn0=",
+      "start_time": "2023-10-17T12:00:00Z",
+      "end_time": "2023-10-17T17:00:00Z",
+      "title": "On écoute vos sons avec Léo et JB de Floral Records",
+      "canceled_until": null,
+      "category": {
+        "id": "26936",
+        "name": "Music"
+      },
+      "is_recurring": false
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiI3NjhmODg5ZS0zNjI3LTRhNTQtYmI1YS1hMTA3OGIzNmQ4MGIiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjo0Mn0=",
+      "start_time": "2023-10-18T09:00:00Z",
+      "end_time": "2023-10-18T15:00:00Z",
+      "title": "La suite du slowrun 100% plaisir",
+      "canceled_until": null,
+      "category": {
+        "id": "512998",
+        "name": "The Legend of Zelda: Tears of the Kingdom"
+      },
+      "is_recurring": false
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiI5OGZmMWM2Zi02ZDFjLTQwYTItOWVhMS02OTNkNjRhNTNiYzciLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjo0Mn0=",
+      "start_time": "2023-10-18T18:00:00Z",
+      "end_time": "2023-10-18T22:00:00Z",
+      "title": "P’tit Maitre des fleurs avec Shisheyu",
+      "canceled_until": null,
+      "category": {
+        "id": "338715930",
+        "name": "Maitre des Fleurs"
+      },
+      "is_recurring": false
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiI4MTMxMWE4Ny02NmNjLTQ5OTAtYTZkMy1lOTUxYTZjNTZhNTAiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjo0Mn0=",
+      "start_time": "2023-10-19T12:00:00Z",
+      "end_time": "2023-10-19T17:00:00Z",
+      "title": "Rocket League spécial anniversaire de la boss, la crack, la meilleure de toute Céline ",
+      "canceled_until": null,
+      "category": {
+        "id": "30921",
+        "name": "Rocket League"
+      },
+      "is_recurring": false
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiJiYjE4NjQ3My03YTVjLTQ4ODMtOTVjOC1kMjMzNmQzYTJhZmUiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjo0Mn0=",
+      "start_time": "2023-10-20T09:00:00Z",
+      "end_time": "2023-10-20T16:00:00Z",
+      "title": "OMG la decouverte du nouveau Mario Bros",
+      "canceled_until": null,
+      "category": {
+        "id": "463447553",
+        "name": "Super Mario Bros. Wonder"
+      },
+      "is_recurring": false
+    }
+  ]
+}
