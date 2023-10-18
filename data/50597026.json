@@ -13,30 +13,6 @@
   },
   "schedulers": [
     {
-      "id": "eyJzZWdtZW50SUQiOiJhZDA5MzJjNS00MDE1LTQ5ZWQtYTBmYi0xZmQzMGY1NzNhNDAiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjo0Mn0=",
-      "start_time": "2023-10-17T09:00:00Z",
-      "end_time": "2023-10-17T12:00:00Z",
-      "title": "Code Names avec les copains LyeGaia, Bytell, Lutti, Pressea et d’autres",
-      "canceled_until": null,
-      "category": {
-        "id": "508509",
-        "name": "Codenames"
-      },
-      "is_recurring": false
-    },
-    {
-      "id": "eyJzZWdtZW50SUQiOiJmZmUxOThjZC1hODJkLTRiN2EtYmYyMy05MGEzZmY0ZWJlNjciLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjo0Mn0=",
-      "start_time": "2023-10-17T12:00:00Z",
-      "end_time": "2023-10-17T17:00:00Z",
-      "title": "On écoute vos sons avec Léo et JB de Floral Records",
-      "canceled_until": null,
-      "category": {
-        "id": "26936",
-        "name": "Music"
-      },
-      "is_recurring": false
-    },
-    {
       "id": "eyJzZWdtZW50SUQiOiI3NjhmODg5ZS0zNjI3LTRhNTQtYmI1YS1hMTA3OGIzNmQ4MGIiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjo0Mn0=",
       "start_time": "2023-10-18T09:00:00Z",
       "end_time": "2023-10-18T15:00:00Z",
