@@ -13,18 +13,6 @@
   },
   "schedulers": [
     {
-      "id": "eyJzZWdtZW50SUQiOiI4MTMxMWE4Ny02NmNjLTQ5OTAtYTZkMy1lOTUxYTZjNTZhNTAiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjo0Mn0=",
-      "start_time": "2023-10-19T12:00:00Z",
-      "end_time": "2023-10-19T17:00:00Z",
-      "title": "Rocket League spécial anniversaire de la boss, la crack, la meilleure de toute Céline ",
-      "canceled_until": null,
-      "category": {
-        "id": "30921",
-        "name": "Rocket League"
-      },
-      "is_recurring": false
-    },
-    {
       "id": "eyJzZWdtZW50SUQiOiJiYjE4NjQ3My03YTVjLTQ4ODMtOTVjOC1kMjMzNmQzYTJhZmUiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjo0Mn0=",
       "start_time": "2023-10-20T09:00:00Z",
       "end_time": "2023-10-20T16:00:00Z",
