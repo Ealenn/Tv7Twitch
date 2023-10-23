@@ -1,0 +1,256 @@
+{
+  "channel": {
+    "id": "50597026",
+    "login": "ponce",
+    "display_name": "Ponce",
+    "type": "",
+    "broadcaster_type": "partner",
+    "description": "On se tape des immenses barres.",
+    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/d4737061-8f00-49d9-a56f-fcb4a9230b3f-profile_image-300x300.png",
+    "offline_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/33c46446-1249-40dc-89a8-ed1b241f171b-channel_offline_image-1920x1080.jpeg",
+    "view_count": 0,
+    "created_at": "2013-10-24T19:04:45Z"
+  },
+  "schedulers": [
+    {
+      "id": "eyJzZWdtZW50SUQiOiIyZmZmYWZhNi1mN2RiLTQ2NzEtODlmYy03MGM1OThmYzVhMmQiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjo0M30=",
+      "start_time": "2023-10-23T09:00:00Z",
+      "end_time": "2023-10-23T17:00:00Z",
+      "title": "Maitre des Fleurs ",
+      "canceled_until": null,
+      "category": {
+        "id": "338715930",
+        "name": "Maitre des Fleurs"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiIyNDQ3YmQ0Yi0wOGVlLTQ2MzUtYjE4Yi1hYmUxZmI0ZWFkYzIiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjo0M30=",
+      "start_time": "2023-10-24T09:00:00Z",
+      "end_time": "2023-10-24T12:00:00Z",
+      "title": "Party Animals avé les copains !",
+      "canceled_until": null,
+      "category": {
+        "id": "518186",
+        "name": "Party Animals"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiI3NzM5ZGY4YS1lZjY0LTRiOWQtYTYyOC03ZDNjM2Y1ZThhMDEiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjo0M30=",
+      "start_time": "2023-10-24T12:00:00Z",
+      "end_time": "2023-10-24T17:00:00Z",
+      "title": "Suite de l'aventure Super Mario Bros Wonder !",
+      "canceled_until": null,
+      "category": {
+        "id": "463447553",
+        "name": "Super Mario Bros. Wonder"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiI5N2FjYjdkMi1lODZiLTQ2MjAtODNkMi0zYTZjMjEwYjNlMmMiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjo0M30=",
+      "start_time": "2023-10-25T09:00:00Z",
+      "end_time": "2023-10-25T17:00:00Z",
+      "title": "Suite du 100% Zelda TOTK",
+      "canceled_until": null,
+      "category": {
+        "id": "512998",
+        "name": "The Legend of Zelda: Tears of the Kingdom"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiI3YjdhNzdmNy04YTBlLTQyODItYTU4YS0zMjU5NTQzMjY4MjciLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjo0M30=",
+      "start_time": "2023-10-26T15:00:00Z",
+      "end_time": "2023-10-26T18:00:00Z",
+      "title": "L'addiction continue sur F-Zero 99",
+      "canceled_until": null,
+      "category": {
+        "id": "1055516282",
+        "name": "F-Zero 99"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiI4ZDk3NDgwYy04OTQ3LTRhMzEtOWJhMy1lZjdkNjc0ZTgxZjgiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjo0M30=",
+      "start_time": "2023-10-26T18:00:00Z",
+      "end_time": "2023-10-26T22:00:00Z",
+      "title": "Soirée Among us avec pleins de personnes !",
+      "canceled_until": null,
+      "category": {
+        "id": "510218",
+        "name": "Among Us"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiJmMzEwZTEyNy1iMThhLTRmMDMtOTAyOS0zMTVkNzk5YjAxMTEiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjo0M30=",
+      "start_time": "2023-10-27T09:00:00Z",
+      "end_time": "2023-10-27T17:00:00Z",
+      "title": "Suite de l'aventure Super Mario Bros Wonder !",
+      "canceled_until": null,
+      "category": {
+        "id": "463447553",
+        "name": "Super Mario Bros. Wonder"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiIyZmZmYWZhNi1mN2RiLTQ2NzEtODlmYy03MGM1OThmYzVhMmQiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjo0NH0=",
+      "start_time": "2023-10-30T10:00:00Z",
+      "end_time": "2023-10-30T18:00:00Z",
+      "title": "Maitre des Fleurs ",
+      "canceled_until": null,
+      "category": {
+        "id": "338715930",
+        "name": "Maitre des Fleurs"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiIyNDQ3YmQ0Yi0wOGVlLTQ2MzUtYjE4Yi1hYmUxZmI0ZWFkYzIiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjo0NH0=",
+      "start_time": "2023-10-31T10:00:00Z",
+      "end_time": "2023-10-31T13:00:00Z",
+      "title": "Party Animals avé les copains !",
+      "canceled_until": null,
+      "category": {
+        "id": "518186",
+        "name": "Party Animals"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiI3NzM5ZGY4YS1lZjY0LTRiOWQtYTYyOC03ZDNjM2Y1ZThhMDEiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjo0NH0=",
+      "start_time": "2023-10-31T13:00:00Z",
+      "end_time": "2023-10-31T18:00:00Z",
+      "title": "Suite de l'aventure Super Mario Bros Wonder !",
+      "canceled_until": null,
+      "category": {
+        "id": "463447553",
+        "name": "Super Mario Bros. Wonder"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiI5N2FjYjdkMi1lODZiLTQ2MjAtODNkMi0zYTZjMjEwYjNlMmMiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjo0NH0=",
+      "start_time": "2023-11-01T10:00:00Z",
+      "end_time": "2023-11-01T18:00:00Z",
+      "title": "Suite du 100% Zelda TOTK",
+      "canceled_until": null,
+      "category": {
+        "id": "512998",
+        "name": "The Legend of Zelda: Tears of the Kingdom"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiI3YjdhNzdmNy04YTBlLTQyODItYTU4YS0zMjU5NTQzMjY4MjciLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjo0NH0=",
+      "start_time": "2023-11-02T16:00:00Z",
+      "end_time": "2023-11-02T19:00:00Z",
+      "title": "L'addiction continue sur F-Zero 99",
+      "canceled_until": null,
+      "category": {
+        "id": "1055516282",
+        "name": "F-Zero 99"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiI4ZDk3NDgwYy04OTQ3LTRhMzEtOWJhMy1lZjdkNjc0ZTgxZjgiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjo0NH0=",
+      "start_time": "2023-11-02T19:00:00Z",
+      "end_time": "2023-11-02T23:00:00Z",
+      "title": "Soirée Among us avec pleins de personnes !",
+      "canceled_until": null,
+      "category": {
+        "id": "510218",
+        "name": "Among Us"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiJmMzEwZTEyNy1iMThhLTRmMDMtOTAyOS0zMTVkNzk5YjAxMTEiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjo0NH0=",
+      "start_time": "2023-11-03T10:00:00Z",
+      "end_time": "2023-11-03T18:00:00Z",
+      "title": "Suite de l'aventure Super Mario Bros Wonder !",
+      "canceled_until": null,
+      "category": {
+        "id": "463447553",
+        "name": "Super Mario Bros. Wonder"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiIyZmZmYWZhNi1mN2RiLTQ2NzEtODlmYy03MGM1OThmYzVhMmQiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjo0NX0=",
+      "start_time": "2023-11-06T10:00:00Z",
+      "end_time": "2023-11-06T18:00:00Z",
+      "title": "Maitre des Fleurs ",
+      "canceled_until": null,
+      "category": {
+        "id": "338715930",
+        "name": "Maitre des Fleurs"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiIyNDQ3YmQ0Yi0wOGVlLTQ2MzUtYjE4Yi1hYmUxZmI0ZWFkYzIiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjo0NX0=",
+      "start_time": "2023-11-07T10:00:00Z",
+      "end_time": "2023-11-07T13:00:00Z",
+      "title": "Party Animals avé les copains !",
+      "canceled_until": null,
+      "category": {
+        "id": "518186",
+        "name": "Party Animals"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiI3NzM5ZGY4YS1lZjY0LTRiOWQtYTYyOC03ZDNjM2Y1ZThhMDEiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjo0NX0=",
+      "start_time": "2023-11-07T13:00:00Z",
+      "end_time": "2023-11-07T18:00:00Z",
+      "title": "Suite de l'aventure Super Mario Bros Wonder !",
+      "canceled_until": null,
+      "category": {
+        "id": "463447553",
+        "name": "Super Mario Bros. Wonder"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiI5N2FjYjdkMi1lODZiLTQ2MjAtODNkMi0zYTZjMjEwYjNlMmMiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjo0NX0=",
+      "start_time": "2023-11-08T10:00:00Z",
+      "end_time": "2023-11-08T18:00:00Z",
+      "title": "Suite du 100% Zelda TOTK",
+      "canceled_until": null,
+      "category": {
+        "id": "512998",
+        "name": "The Legend of Zelda: Tears of the Kingdom"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiI3YjdhNzdmNy04YTBlLTQyODItYTU4YS0zMjU5NTQzMjY4MjciLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjo0NX0=",
+      "start_time": "2023-11-09T16:00:00Z",
+      "end_time": "2023-11-09T19:00:00Z",
+      "title": "L'addiction continue sur F-Zero 99",
+      "canceled_until": null,
+      "category": {
+        "id": "1055516282",
+        "name": "F-Zero 99"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiI4ZDk3NDgwYy04OTQ3LTRhMzEtOWJhMy1lZjdkNjc0ZTgxZjgiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjo0NX0=",
+      "start_time": "2023-11-09T19:00:00Z",
+      "end_time": "2023-11-09T23:00:00Z",
+      "title": "Soirée Among us avec pleins de personnes !",
+      "canceled_until": null,
+      "category": {
+        "id": "510218",
+        "name": "Among Us"
+      },
+      "is_recurring": true
+    }
+  ]
+}
