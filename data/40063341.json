@@ -7,23 +7,11 @@
     "broadcaster_type": "partner",
     "description": "",
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/3cdae7df-600c-4833-8dfe-8d2abc5a3b25-profile_image-300x300.png",
-    "offline_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/ed98894a-86c2-437d-9623-0898b8e997ab-channel_offline_image-1920x1080.png",
+    "offline_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/80c58b26-3830-4636-bdba-69908eb8c005-channel_offline_image-1920x1080.png",
     "view_count": 0,
     "created_at": "2013-02-05T19:20:22Z"
   },
   "schedulers": [
-    {
-      "id": "eyJzZWdtZW50SUQiOiJhMTI2NDdjMi00NzBlLTQyYWEtOTE1OC1kMTE0N2I0NWYxYTgiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjo0M30=",
-      "start_time": "2023-10-24T18:00:00Z",
-      "end_time": "2023-10-24T20:00:00Z",
-      "title": "🍿 POPCORN AVEC MV, PRESSEA & ZERATOR",
-      "canceled_until": null,
-      "category": {
-        "id": "417752",
-        "name": "Talk Shows & Podcasts"
-      },
-      "is_recurring": true
-    },
     {
       "id": "eyJzZWdtZW50SUQiOiI5Y2I4ZWYzZi1jYWNkLTQwZjUtODYzNC0zZGIxYWRmZTkzNmIiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjo0M30=",
       "start_time": "2023-10-25T12:00:00Z",
@@ -249,6 +237,18 @@
       "category": {
         "id": "556907291",
         "name": "Cities: Skylines II"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiI2NTZkODU5ZC1mM2YyLTQ0OTQtOGE0NS1mNTRlYmJkZWUyNzgiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjo0NX0=",
+      "start_time": "2023-11-08T16:00:00Z",
+      "end_time": "2023-11-08T18:00:00Z",
+      "title": "STREAM LIBRE",
+      "canceled_until": null,
+      "category": {
+        "id": "509658",
+        "name": "Just Chatting"
       },
       "is_recurring": true
     }
