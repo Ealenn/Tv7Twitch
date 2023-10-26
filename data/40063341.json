@@ -13,42 +13,6 @@
   },
   "schedulers": [
     {
-      "id": "eyJzZWdtZW50SUQiOiI5Y2I4ZWYzZi1jYWNkLTQwZjUtODYzNC0zZGIxYWRmZTkzNmIiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjo0M30=",
-      "start_time": "2023-10-25T12:00:00Z",
-      "end_time": "2023-10-25T13:00:00Z",
-      "title": "🎙 PRÉ LIVE",
-      "canceled_until": null,
-      "category": {
-        "id": "509658",
-        "name": "Just Chatting"
-      },
-      "is_recurring": true
-    },
-    {
-      "id": "eyJzZWdtZW50SUQiOiIyOWE5ZWNhMi1lYmRmLTRlYmMtYmU0MC02ZGQ0NWU4MjdmMzIiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjo0M30=",
-      "start_time": "2023-10-25T13:00:00Z",
-      "end_time": "2023-10-25T15:00:00Z",
-      "title": "🏢 CITIES SKYLINES 2",
-      "canceled_until": null,
-      "category": {
-        "id": "556907291",
-        "name": "Cities: Skylines II"
-      },
-      "is_recurring": true
-    },
-    {
-      "id": "eyJzZWdtZW50SUQiOiI2NTZkODU5ZC1mM2YyLTQ0OTQtOGE0NS1mNTRlYmJkZWUyNzgiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjo0M30=",
-      "start_time": "2023-10-25T15:00:00Z",
-      "end_time": "2023-10-25T17:00:00Z",
-      "title": "STREAM LIBRE",
-      "canceled_until": null,
-      "category": {
-        "id": "509658",
-        "name": "Just Chatting"
-      },
-      "is_recurring": true
-    },
-    {
       "id": "eyJzZWdtZW50SUQiOiI3MjIzNmEyZi05ZGMxLTQwZTYtODEwNC1lODE3NWI1Yjg2N2EiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjo0M30=",
       "start_time": "2023-10-26T12:00:00Z",
       "end_time": "2023-10-26T13:30:00Z",
@@ -245,6 +209,42 @@
       "start_time": "2023-11-08T16:00:00Z",
       "end_time": "2023-11-08T18:00:00Z",
       "title": "STREAM LIBRE",
+      "canceled_until": null,
+      "category": {
+        "id": "509658",
+        "name": "Just Chatting"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiI3MjIzNmEyZi05ZGMxLTQwZTYtODEwNC1lODE3NWI1Yjg2N2EiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjo0NX0=",
+      "start_time": "2023-11-09T13:00:00Z",
+      "end_time": "2023-11-09T14:30:00Z",
+      "title": "🎙 PRÉ LIVE",
+      "canceled_until": null,
+      "category": {
+        "id": "509658",
+        "name": "Just Chatting"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiIyNmFlYmFmOC04YmY5LTQ4OGItOGI1MC1hNjA0OGJhNjU0MmIiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjo0NX0=",
+      "start_time": "2023-11-10T13:00:00Z",
+      "end_time": "2023-11-10T17:00:00Z",
+      "title": "STREAM LIBRE",
+      "canceled_until": null,
+      "category": {
+        "id": "509658",
+        "name": "Just Chatting"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiI3YmQwMDNlNC05Y2YxLTQ0MzItOTUwNC02ZWFmMzlkYzJkZGMiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjo0Nn0=",
+      "start_time": "2023-11-13T18:30:00Z",
+      "end_time": "2023-11-13T19:30:00Z",
+      "title": "🎙 PRÉ LIVE",
       "canceled_until": null,
       "category": {
         "id": "509658",
