@@ -13,30 +13,6 @@
   },
   "schedulers": [
     {
-      "id": "eyJzZWdtZW50SUQiOiJmOGNiOGNlYy0wZTM1LTQ5YjctODM2Yi03MThhZDQzYjFkMGIiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjo0NH0=",
-      "start_time": "2023-11-02T10:00:00Z",
-      "end_time": "2023-11-02T13:00:00Z",
-      "title": "Mario party avec Onutrem, Wingo & ?",
-      "canceled_until": null,
-      "category": {
-        "id": "1068239917",
-        "name": "Mario Party Superstars"
-      },
-      "is_recurring": true
-    },
-    {
-      "id": "eyJzZWdtZW50SUQiOiJkZGYzZmM0Ni1kZDE3LTRhNTItOTA4MC00YTgyYjFjYWZiZDUiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjo0NH0=",
-      "start_time": "2023-11-02T13:00:00Z",
-      "end_time": "2023-11-02T16:00:00Z",
-      "title": "On s’entraîne un peu avant le tournoi de dimanche ",
-      "canceled_until": null,
-      "category": {
-        "id": "941530474",
-        "name": "Mario Kart 8 Deluxe"
-      },
-      "is_recurring": true
-    },
-    {
       "id": "eyJzZWdtZW50SUQiOiI5OTAwYTc5NS01NGEzLTRjMjYtODI2My0yNTVjYjI0ZTY0NmMiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjo0NH0=",
       "start_time": "2023-11-03T10:00:00Z",
       "end_time": "2023-11-03T16:00:00Z",
@@ -249,6 +225,30 @@
       "category": {
         "id": "941530474",
         "name": "Mario Kart 8 Deluxe"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiIyZmZmYWZhNi1mN2RiLTQ2NzEtODlmYy03MGM1OThmYzVhMmQiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjo0N30=",
+      "start_time": "2023-11-20T10:00:00Z",
+      "end_time": "2023-11-20T18:00:00Z",
+      "title": "Culture & Plaisir ",
+      "canceled_until": null,
+      "category": {
+        "id": "338715930",
+        "name": "Maitre des Fleurs"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiIyNDQ3YmQ0Yi0wOGVlLTQ2MzUtYjE4Yi1hYmUxZmI0ZWFkYzIiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjo0N30=",
+      "start_time": "2023-11-21T10:00:00Z",
+      "end_time": "2023-11-21T13:00:00Z",
+      "title": "Code Names avec Naho, Bytell & ? ",
+      "canceled_until": null,
+      "category": {
+        "id": "508509",
+        "name": "Codenames"
       },
       "is_recurring": true
     }
