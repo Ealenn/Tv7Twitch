@@ -13,18 +13,6 @@
   },
   "schedulers": [
     {
-      "id": "eyJzZWdtZW50SUQiOiJlMWJjMzA2OC1iNzAzLTRjMGYtYjYzMS1iZTM4OThjMzhlZGIiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjo0NH0=",
-      "start_time": "2023-11-05T12:00:00Z",
-      "end_time": "2023-11-05T16:00:00Z",
-      "title": "Le tournoi MK des fleurs",
-      "canceled_until": null,
-      "category": {
-        "id": "941530474",
-        "name": "Mario Kart 8 Deluxe"
-      },
-      "is_recurring": true
-    },
-    {
       "id": "eyJzZWdtZW50SUQiOiIyZmZmYWZhNi1mN2RiLTQ2NzEtODlmYy03MGM1OThmYzVhMmQiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjo0NX0=",
       "start_time": "2023-11-06T10:00:00Z",
       "end_time": "2023-11-06T18:00:00Z",
@@ -249,6 +237,18 @@
       "category": {
         "id": "463447553",
         "name": "Super Mario Bros. Wonder"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiJiODIyMzM0My1jZTM4LTRkZDItYWEyOC05YWYxZTU4ZTQ0NGYiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjo0N30=",
+      "start_time": "2023-11-22T10:00:00Z",
+      "end_time": "2023-11-22T16:00:00Z",
+      "title": "Le créneau slowrun 100% chill et plaisir",
+      "canceled_until": null,
+      "category": {
+        "id": "512998",
+        "name": "The Legend of Zelda: Tears of the Kingdom"
       },
       "is_recurring": true
     }
