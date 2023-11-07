@@ -7,15 +7,39 @@
     "broadcaster_type": "partner",
     "description": "",
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/3cdae7df-600c-4833-8dfe-8d2abc5a3b25-profile_image-300x300.png",
-    "offline_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/44edde31-1a54-4568-9080-697e96ac09f3-channel_offline_image-1920x1080.png",
+    "offline_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/0ed043b3-cbb3-4e8d-a1bf-68deb35b9c2f-channel_offline_image-1920x1080.png",
     "view_count": 0,
     "created_at": "2013-02-05T19:20:22Z"
   },
   "schedulers": [
     {
+      "id": "eyJzZWdtZW50SUQiOiJhMTI2NDdjMi00NzBlLTQyYWEtOTE1OC1kMTE0N2I0NWYxYTgiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjo0NX0=",
+      "start_time": "2023-11-07T19:00:00Z",
+      "end_time": "2023-11-07T21:00:00Z",
+      "title": "🍿 POPCORN AVEC JIJI, BAGZ, BIGFLO & OLI",
+      "canceled_until": null,
+      "category": {
+        "id": "417752",
+        "name": "Talk Shows & Podcasts"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiIyNmFlYmFmOC04YmY5LTQ4OGItOGI1MC1hNjA0OGJhNjU0MmIiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjo0NX0=",
+      "start_time": "2023-11-08T11:30:00Z",
+      "end_time": "2023-11-08T13:30:00Z",
+      "title": "👨‍🍳 EN CUISINE ",
+      "canceled_until": null,
+      "category": {
+        "id": "509667",
+        "name": "Food & Drink"
+      },
+      "is_recurring": true
+    },
+    {
       "id": "eyJzZWdtZW50SUQiOiI3YmQwMDNlNC05Y2YxLTQ0MzItOTUwNC02ZWFmMzlkYzJkZGMiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjo0NX0=",
-      "start_time": "2023-11-06T19:00:00Z",
-      "end_time": "2023-11-06T19:30:00Z",
+      "start_time": "2023-11-09T13:00:00Z",
+      "end_time": "2023-11-09T14:00:00Z",
       "title": "🎙 PRÉ LIVE",
       "canceled_until": null,
       "category": {
@@ -26,32 +50,20 @@
     },
     {
       "id": "eyJzZWdtZW50SUQiOiIyODYwNDIzNS1lY2E4LTQyYmUtOGQ0Yi01MTM3YjllYjdlYTYiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjo0NX0=",
-      "start_time": "2023-11-06T19:30:00Z",
-      "end_time": "2023-11-06T23:00:00Z",
-      "title": "👻 SOIRÉE HORREUR",
+      "start_time": "2023-11-09T14:00:00Z",
+      "end_time": "2023-11-09T17:00:00Z",
+      "title": "⛽ PUMPING SIMULATOR 2",
       "canceled_until": null,
       "category": {
-        "id": "494082",
-        "name": "Visage"
-      },
-      "is_recurring": true
-    },
-    {
-      "id": "eyJzZWdtZW50SUQiOiJhMTI2NDdjMi00NzBlLTQyYWEtOTE1OC1kMTE0N2I0NWYxYTgiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjo0NX0=",
-      "start_time": "2023-11-07T19:00:00Z",
-      "end_time": "2023-11-07T21:00:00Z",
-      "title": "🍿 POPCORN AVEC SKYY, BEN NÉVERT, XARI (CHRONIQUE MARDI TURFU)",
-      "canceled_until": null,
-      "category": {
-        "id": "417752",
-        "name": "Talk Shows & Podcasts"
+        "id": "791282594",
+        "name": "Pumping Simulator 2"
       },
       "is_recurring": true
     },
     {
       "id": "eyJzZWdtZW50SUQiOiI5Y2I4ZWYzZi1jYWNkLTQwZjUtODYzNC0zZGIxYWRmZTkzNmIiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjo0NX0=",
-      "start_time": "2023-11-08T13:00:00Z",
-      "end_time": "2023-11-08T14:00:00Z",
+      "start_time": "2023-11-10T12:00:00Z",
+      "end_time": "2023-11-10T13:00:00Z",
       "title": "🎙 PRÉ LIVE",
       "canceled_until": null,
       "category": {
@@ -62,8 +74,8 @@
     },
     {
       "id": "eyJzZWdtZW50SUQiOiIyOWE5ZWNhMi1lYmRmLTRlYmMtYmU0MC02ZGQ0NWU4MjdmMzIiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjo0NX0=",
-      "start_time": "2023-11-08T14:00:00Z",
-      "end_time": "2023-11-08T18:00:00Z",
+      "start_time": "2023-11-10T14:00:00Z",
+      "end_time": "2023-11-10T18:00:00Z",
       "title": "STREAM LIBRE",
       "canceled_until": null,
       "category": {
@@ -73,21 +85,33 @@
       "is_recurring": true
     },
     {
-      "id": "eyJzZWdtZW50SUQiOiIyNmFlYmFmOC04YmY5LTQ4OGItOGI1MC1hNjA0OGJhNjU0MmIiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjo0NX0=",
-      "start_time": "2023-11-10T10:00:00Z",
-      "end_time": "2023-11-10T11:30:00Z",
-      "title": "🎳 FINALE CROSS' GEN AVEC DANIELE EN DIRECT DE LA PGW",
+      "id": "eyJzZWdtZW50SUQiOiJhMTI2NDdjMi00NzBlLTQyYWEtOTE1OC1kMTE0N2I0NWYxYTgiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjo0Nn0=",
+      "start_time": "2023-11-14T19:00:00Z",
+      "end_time": "2023-11-14T21:00:00Z",
+      "title": "🍿 POPCORN AVEC JIJI, BAGZ, BIGFLO & OLI",
       "canceled_until": null,
       "category": {
-        "id": "12232",
-        "name": "Wii Sports"
+        "id": "417752",
+        "name": "Talk Shows & Podcasts"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiIyNmFlYmFmOC04YmY5LTQ4OGItOGI1MC1hNjA0OGJhNjU0MmIiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjo0Nn0=",
+      "start_time": "2023-11-15T11:30:00Z",
+      "end_time": "2023-11-15T13:30:00Z",
+      "title": "👨‍🍳 EN CUISINE ",
+      "canceled_until": null,
+      "category": {
+        "id": "509667",
+        "name": "Food & Drink"
       },
       "is_recurring": true
     },
     {
       "id": "eyJzZWdtZW50SUQiOiI3YmQwMDNlNC05Y2YxLTQ0MzItOTUwNC02ZWFmMzlkYzJkZGMiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjo0Nn0=",
-      "start_time": "2023-11-13T19:00:00Z",
-      "end_time": "2023-11-13T19:30:00Z",
+      "start_time": "2023-11-16T13:00:00Z",
+      "end_time": "2023-11-16T14:00:00Z",
       "title": "🎙 PRÉ LIVE",
       "canceled_until": null,
       "category": {
@@ -98,32 +122,20 @@
     },
     {
       "id": "eyJzZWdtZW50SUQiOiIyODYwNDIzNS1lY2E4LTQyYmUtOGQ0Yi01MTM3YjllYjdlYTYiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjo0Nn0=",
-      "start_time": "2023-11-13T19:30:00Z",
-      "end_time": "2023-11-13T23:00:00Z",
-      "title": "👻 SOIRÉE HORREUR",
+      "start_time": "2023-11-16T14:00:00Z",
+      "end_time": "2023-11-16T17:00:00Z",
+      "title": "⛽ PUMPING SIMULATOR 2",
       "canceled_until": null,
       "category": {
-        "id": "494082",
-        "name": "Visage"
-      },
-      "is_recurring": true
-    },
-    {
-      "id": "eyJzZWdtZW50SUQiOiJhMTI2NDdjMi00NzBlLTQyYWEtOTE1OC1kMTE0N2I0NWYxYTgiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjo0Nn0=",
-      "start_time": "2023-11-14T19:00:00Z",
-      "end_time": "2023-11-14T21:00:00Z",
-      "title": "🍿 POPCORN AVEC SKYY, BEN NÉVERT, XARI (CHRONIQUE MARDI TURFU)",
-      "canceled_until": null,
-      "category": {
-        "id": "417752",
-        "name": "Talk Shows & Podcasts"
+        "id": "791282594",
+        "name": "Pumping Simulator 2"
       },
       "is_recurring": true
     },
     {
       "id": "eyJzZWdtZW50SUQiOiI5Y2I4ZWYzZi1jYWNkLTQwZjUtODYzNC0zZGIxYWRmZTkzNmIiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjo0Nn0=",
-      "start_time": "2023-11-15T13:00:00Z",
-      "end_time": "2023-11-15T14:00:00Z",
+      "start_time": "2023-11-17T12:00:00Z",
+      "end_time": "2023-11-17T13:00:00Z",
       "title": "🎙 PRÉ LIVE",
       "canceled_until": null,
       "category": {
@@ -134,8 +146,8 @@
     },
     {
       "id": "eyJzZWdtZW50SUQiOiIyOWE5ZWNhMi1lYmRmLTRlYmMtYmU0MC02ZGQ0NWU4MjdmMzIiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjo0Nn0=",
-      "start_time": "2023-11-15T14:00:00Z",
-      "end_time": "2023-11-15T18:00:00Z",
+      "start_time": "2023-11-17T14:00:00Z",
+      "end_time": "2023-11-17T18:00:00Z",
       "title": "STREAM LIBRE",
       "canceled_until": null,
       "category": {
@@ -145,21 +157,33 @@
       "is_recurring": true
     },
     {
-      "id": "eyJzZWdtZW50SUQiOiIyNmFlYmFmOC04YmY5LTQ4OGItOGI1MC1hNjA0OGJhNjU0MmIiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjo0Nn0=",
-      "start_time": "2023-11-17T10:00:00Z",
-      "end_time": "2023-11-17T11:30:00Z",
-      "title": "🎳 FINALE CROSS' GEN AVEC DANIELE EN DIRECT DE LA PGW",
+      "id": "eyJzZWdtZW50SUQiOiJhMTI2NDdjMi00NzBlLTQyYWEtOTE1OC1kMTE0N2I0NWYxYTgiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjo0N30=",
+      "start_time": "2023-11-21T19:00:00Z",
+      "end_time": "2023-11-21T21:00:00Z",
+      "title": "🍿 POPCORN AVEC JIJI, BAGZ, BIGFLO & OLI",
       "canceled_until": null,
       "category": {
-        "id": "12232",
-        "name": "Wii Sports"
+        "id": "417752",
+        "name": "Talk Shows & Podcasts"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiIyNmFlYmFmOC04YmY5LTQ4OGItOGI1MC1hNjA0OGJhNjU0MmIiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjo0N30=",
+      "start_time": "2023-11-22T11:30:00Z",
+      "end_time": "2023-11-22T13:30:00Z",
+      "title": "👨‍🍳 EN CUISINE ",
+      "canceled_until": null,
+      "category": {
+        "id": "509667",
+        "name": "Food & Drink"
       },
       "is_recurring": true
     },
     {
       "id": "eyJzZWdtZW50SUQiOiI3YmQwMDNlNC05Y2YxLTQ0MzItOTUwNC02ZWFmMzlkYzJkZGMiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjo0N30=",
-      "start_time": "2023-11-20T19:00:00Z",
-      "end_time": "2023-11-20T19:30:00Z",
+      "start_time": "2023-11-23T13:00:00Z",
+      "end_time": "2023-11-23T14:00:00Z",
       "title": "🎙 PRÉ LIVE",
       "canceled_until": null,
       "category": {
@@ -170,32 +194,20 @@
     },
     {
       "id": "eyJzZWdtZW50SUQiOiIyODYwNDIzNS1lY2E4LTQyYmUtOGQ0Yi01MTM3YjllYjdlYTYiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjo0N30=",
-      "start_time": "2023-11-20T19:30:00Z",
-      "end_time": "2023-11-20T23:00:00Z",
-      "title": "👻 SOIRÉE HORREUR",
+      "start_time": "2023-11-23T14:00:00Z",
+      "end_time": "2023-11-23T17:00:00Z",
+      "title": "⛽ PUMPING SIMULATOR 2",
       "canceled_until": null,
       "category": {
-        "id": "494082",
-        "name": "Visage"
-      },
-      "is_recurring": true
-    },
-    {
-      "id": "eyJzZWdtZW50SUQiOiJhMTI2NDdjMi00NzBlLTQyYWEtOTE1OC1kMTE0N2I0NWYxYTgiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjo0N30=",
-      "start_time": "2023-11-21T19:00:00Z",
-      "end_time": "2023-11-21T21:00:00Z",
-      "title": "🍿 POPCORN AVEC SKYY, BEN NÉVERT, XARI (CHRONIQUE MARDI TURFU)",
-      "canceled_until": null,
-      "category": {
-        "id": "417752",
-        "name": "Talk Shows & Podcasts"
+        "id": "791282594",
+        "name": "Pumping Simulator 2"
       },
       "is_recurring": true
     },
     {
       "id": "eyJzZWdtZW50SUQiOiI5Y2I4ZWYzZi1jYWNkLTQwZjUtODYzNC0zZGIxYWRmZTkzNmIiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjo0N30=",
-      "start_time": "2023-11-22T13:00:00Z",
-      "end_time": "2023-11-22T14:00:00Z",
+      "start_time": "2023-11-24T12:00:00Z",
+      "end_time": "2023-11-24T13:00:00Z",
       "title": "🎙 PRÉ LIVE",
       "canceled_until": null,
       "category": {
@@ -206,8 +218,8 @@
     },
     {
       "id": "eyJzZWdtZW50SUQiOiIyOWE5ZWNhMi1lYmRmLTRlYmMtYmU0MC02ZGQ0NWU4MjdmMzIiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjo0N30=",
-      "start_time": "2023-11-22T14:00:00Z",
-      "end_time": "2023-11-22T18:00:00Z",
+      "start_time": "2023-11-24T14:00:00Z",
+      "end_time": "2023-11-24T18:00:00Z",
       "title": "STREAM LIBRE",
       "canceled_until": null,
       "category": {
@@ -217,38 +229,26 @@
       "is_recurring": true
     },
     {
-      "id": "eyJzZWdtZW50SUQiOiIyNmFlYmFmOC04YmY5LTQ4OGItOGI1MC1hNjA0OGJhNjU0MmIiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjo0N30=",
-      "start_time": "2023-11-24T10:00:00Z",
-      "end_time": "2023-11-24T11:30:00Z",
-      "title": "🎳 FINALE CROSS' GEN AVEC DANIELE EN DIRECT DE LA PGW",
+      "id": "eyJzZWdtZW50SUQiOiJhMTI2NDdjMi00NzBlLTQyYWEtOTE1OC1kMTE0N2I0NWYxYTgiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjo0OH0=",
+      "start_time": "2023-11-28T19:00:00Z",
+      "end_time": "2023-11-28T21:00:00Z",
+      "title": "🍿 POPCORN AVEC JIJI, BAGZ, BIGFLO & OLI",
       "canceled_until": null,
       "category": {
-        "id": "12232",
-        "name": "Wii Sports"
+        "id": "417752",
+        "name": "Talk Shows & Podcasts"
       },
       "is_recurring": true
     },
     {
-      "id": "eyJzZWdtZW50SUQiOiI3YmQwMDNlNC05Y2YxLTQ0MzItOTUwNC02ZWFmMzlkYzJkZGMiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjo0OH0=",
-      "start_time": "2023-11-27T19:00:00Z",
-      "end_time": "2023-11-27T19:30:00Z",
-      "title": "🎙 PRÉ LIVE",
+      "id": "eyJzZWdtZW50SUQiOiIyNmFlYmFmOC04YmY5LTQ4OGItOGI1MC1hNjA0OGJhNjU0MmIiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjo0OH0=",
+      "start_time": "2023-11-29T11:30:00Z",
+      "end_time": "2023-11-29T13:30:00Z",
+      "title": "👨‍🍳 EN CUISINE ",
       "canceled_until": null,
       "category": {
-        "id": "509658",
-        "name": "Just Chatting"
-      },
-      "is_recurring": true
-    },
-    {
-      "id": "eyJzZWdtZW50SUQiOiIyODYwNDIzNS1lY2E4LTQyYmUtOGQ0Yi01MTM3YjllYjdlYTYiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjo0OH0=",
-      "start_time": "2023-11-27T19:30:00Z",
-      "end_time": "2023-11-27T23:00:00Z",
-      "title": "👻 SOIRÉE HORREUR",
-      "canceled_until": null,
-      "category": {
-        "id": "494082",
-        "name": "Visage"
+        "id": "509667",
+        "name": "Food & Drink"
       },
       "is_recurring": true
     }
