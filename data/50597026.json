@@ -13,30 +13,6 @@
   },
   "schedulers": [
     {
-      "id": "eyJzZWdtZW50SUQiOiJiODIyMzM0My1jZTM4LTRkZDItYWEyOC05YWYxZTU4ZTQ0NGYiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjo0NX0=",
-      "start_time": "2023-11-08T14:00:00Z",
-      "end_time": "2023-11-08T19:00:00Z",
-      "title": "Le créneau slowrun 100% chill et plaisir",
-      "canceled_until": null,
-      "category": {
-        "id": "512998",
-        "name": "The Legend of Zelda: Tears of the Kingdom"
-      },
-      "is_recurring": true
-    },
-    {
-      "id": "eyJzZWdtZW50SUQiOiI3NzBkM2E4YS03NWNhLTQzZWUtODY5Yi04ZWJhNTQ2YTM1ZmEiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjo0NX0=",
-      "start_time": "2023-11-08T19:00:00Z",
-      "end_time": "2023-11-08T23:00:00Z",
-      "title": "Nocturne Souterrain !",
-      "canceled_until": null,
-      "category": {
-        "id": "512998",
-        "name": "The Legend of Zelda: Tears of the Kingdom"
-      },
-      "is_recurring": true
-    },
-    {
       "id": "eyJzZWdtZW50SUQiOiJmOGNiOGNlYy0wZTM1LTQ5YjctODM2Yi03MThhZDQzYjFkMGIiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjo0NX0=",
       "start_time": "2023-11-09T10:00:00Z",
       "end_time": "2023-11-09T13:00:00Z",
@@ -249,6 +225,30 @@
       "category": {
         "id": "338715930",
         "name": "Maitre des Fleurs"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiIyNDQ3YmQ0Yi0wOGVlLTQ2MzUtYjE4Yi1hYmUxZmI0ZWFkYzIiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjo0OH0=",
+      "start_time": "2023-11-28T10:00:00Z",
+      "end_time": "2023-11-28T17:00:00Z",
+      "title": "Découverte du nouveau Wario Ware Move it !",
+      "canceled_until": null,
+      "category": {
+        "id": "1015973760",
+        "name": "WarioWare: Move It!"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiJiODIyMzM0My1jZTM4LTRkZDItYWEyOC05YWYxZTU4ZTQ0NGYiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjo0OH0=",
+      "start_time": "2023-11-29T14:00:00Z",
+      "end_time": "2023-11-29T19:00:00Z",
+      "title": "Le créneau slowrun 100% chill et plaisir",
+      "canceled_until": null,
+      "category": {
+        "id": "512998",
+        "name": "The Legend of Zelda: Tears of the Kingdom"
       },
       "is_recurring": true
     }

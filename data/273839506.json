@@ -13,18 +13,6 @@
   },
   "schedulers": [
     {
-      "id": "eyJzZWdtZW50SUQiOiI1MWVkZTBiMC1iMmU0LTQ4ZjQtOTU1Zi1kMWY3YjI2ZTk2ZjAiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjo0NX0=",
-      "start_time": "2023-11-08T18:00:00Z",
-      "end_time": "2023-11-08T20:00:00Z",
-      "title": "Underscore_",
-      "canceled_until": null,
-      "category": {
-        "id": "417752",
-        "name": "Talk Shows & Podcasts"
-      },
-      "is_recurring": false
-    },
-    {
       "id": "eyJzZWdtZW50SUQiOiJjYThmZWVlYS02N2NlLTQ0YTAtYWNmOS04ZjE0ZmY4Y2I3MGEiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjo0N30=",
       "start_time": "2023-11-22T18:00:00Z",
       "end_time": "2023-11-22T20:00:00Z",

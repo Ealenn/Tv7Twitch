@@ -13,18 +13,6 @@
   },
   "schedulers": [
     {
-      "id": "eyJzZWdtZW50SUQiOiIyNmFlYmFmOC04YmY5LTQ4OGItOGI1MC1hNjA0OGJhNjU0MmIiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjo0NX0=",
-      "start_time": "2023-11-08T11:30:00Z",
-      "end_time": "2023-11-08T13:30:00Z",
-      "title": "👨‍🍳 EN CUISINE ",
-      "canceled_until": null,
-      "category": {
-        "id": "509667",
-        "name": "Food & Drink"
-      },
-      "is_recurring": true
-    },
-    {
       "id": "eyJzZWdtZW50SUQiOiI3YmQwMDNlNC05Y2YxLTQ0MzItOTUwNC02ZWFmMzlkYzJkZGMiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjo0NX0=",
       "start_time": "2023-11-09T13:00:00Z",
       "end_time": "2023-11-09T14:00:00Z",
@@ -249,6 +237,18 @@
       "category": {
         "id": "509658",
         "name": "Just Chatting"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiIyODYwNDIzNS1lY2E4LTQyYmUtOGQ0Yi01MTM3YjllYjdlYTYiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjo0OH0=",
+      "start_time": "2023-11-30T14:00:00Z",
+      "end_time": "2023-11-30T17:00:00Z",
+      "title": "⛽ PUMPING SIMULATOR 2",
+      "canceled_until": null,
+      "category": {
+        "id": "791282594",
+        "name": "Pumping Simulator 2"
       },
       "is_recurring": true
     }
