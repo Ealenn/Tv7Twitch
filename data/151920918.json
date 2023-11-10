@@ -13,18 +13,6 @@
   },
   "schedulers": [
     {
-      "id": "eyJzZWdtZW50SUQiOiI2ODM4MWJhYy0xZDliLTQ3MjEtYjdkZi0wYWE4NjUyZmQ4NDEiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjo0NX0=",
-      "start_time": "2023-11-09T20:00:00Z",
-      "end_time": "2023-11-09T21:30:00Z",
-      "title": "VIPER de la NASA:\"Watch party\" de la construcción del explorador robótico",
-      "canceled_until": null,
-      "category": {
-        "id": "509670",
-        "name": "Science & Technology"
-      },
-      "is_recurring": false
-    },
-    {
       "id": "eyJzZWdtZW50SUQiOiI0ZDYyYjZkNC0zMTdjLTRhOGMtYTMyOS0zNjAyMmI4YWRlZGQiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjo0OX0=",
       "start_time": "2023-12-06T20:00:00Z",
       "end_time": "2023-12-06T21:30:00Z",
