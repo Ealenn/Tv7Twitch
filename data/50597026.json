@@ -13,30 +13,6 @@
   },
   "schedulers": [
     {
-      "id": "eyJzZWdtZW50SUQiOiJiODIyMzM0My1jZTM4LTRkZDItYWEyOC05YWYxZTU4ZTQ0NGYiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjo0Nn0=",
-      "start_time": "2023-11-15T10:00:00Z",
-      "end_time": "2023-11-15T16:00:00Z",
-      "title": "Le créneau slowrun 100% chill et plaisir",
-      "canceled_until": null,
-      "category": {
-        "id": "512998",
-        "name": "The Legend of Zelda: Tears of the Kingdom"
-      },
-      "is_recurring": true
-    },
-    {
-      "id": "eyJzZWdtZW50SUQiOiI3NzBkM2E4YS03NWNhLTQzZWUtODY5Yi04ZWJhNTQ2YTM1ZmEiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjo0Nn0=",
-      "start_time": "2023-11-15T19:00:00Z",
-      "end_time": "2023-11-15T23:00:00Z",
-      "title": "Maître des fleurs spécial avec Antoine ",
-      "canceled_until": null,
-      "category": {
-        "id": "338715930",
-        "name": "Maitre des Fleurs"
-      },
-      "is_recurring": true
-    },
-    {
       "id": "eyJzZWdtZW50SUQiOiJkZGYzZmM0Ni1kZDE3LTRhNTItOTA4MC00YTgyYjFjYWZiZDUiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjo0Nn0=",
       "start_time": "2023-11-16T12:00:00Z",
       "end_time": "2023-11-16T15:00:00Z",
@@ -235,6 +211,30 @@
       "title": "Aprem YOLO ",
       "canceled_until": null,
       "category": null,
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiI5OTAwYTc5NS01NGEzLTRjMjYtODI2My0yNTVjYjI0ZTY0NmMiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjo0OH0=",
+      "start_time": "2023-12-01T10:00:00Z",
+      "end_time": "2023-12-01T17:00:00Z",
+      "title": "Découverte de Super Mario RPG",
+      "canceled_until": null,
+      "category": {
+        "id": "1675405846",
+        "name": "Super Mario RPG"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiIyZmZmYWZhNi1mN2RiLTQ2NzEtODlmYy03MGM1OThmYzVhMmQiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjo0OX0=",
+      "start_time": "2023-12-04T10:00:00Z",
+      "end_time": "2023-12-04T18:00:00Z",
+      "title": "Culture & Plaisir ",
+      "canceled_until": null,
+      "category": {
+        "id": "338715930",
+        "name": "Maitre des Fleurs"
+      },
       "is_recurring": true
     }
   ]
