@@ -13,27 +13,6 @@
   },
   "schedulers": [
     {
-      "id": "eyJzZWdtZW50SUQiOiJkZGYzZmM0Ni1kZDE3LTRhNTItOTA4MC00YTgyYjFjYWZiZDUiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjo0Nn0=",
-      "start_time": "2023-11-16T12:00:00Z",
-      "end_time": "2023-11-16T15:00:00Z",
-      "title": "Code Names avé les copains ! Bytell/LyeGaia/Wingo/Lutti",
-      "canceled_until": null,
-      "category": {
-        "id": "508509",
-        "name": "Codenames"
-      },
-      "is_recurring": true
-    },
-    {
-      "id": "eyJzZWdtZW50SUQiOiI5MGMwN2JlYi04MDU0LTQzN2ItOTg4MC1hYTE1NDIyNjQ2OGUiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjo0Nn0=",
-      "start_time": "2023-11-16T15:00:00Z",
-      "end_time": "2023-11-16T18:00:00Z",
-      "title": "Aprem YOLO ",
-      "canceled_until": null,
-      "category": null,
-      "is_recurring": true
-    },
-    {
       "id": "eyJzZWdtZW50SUQiOiI5OTAwYTc5NS01NGEzLTRjMjYtODI2My0yNTVjYjI0ZTY0NmMiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjo0Nn0=",
       "start_time": "2023-11-17T10:00:00Z",
       "end_time": "2023-11-17T17:00:00Z",
@@ -235,6 +214,27 @@
         "id": "338715930",
         "name": "Maitre des Fleurs"
       },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiIyNDQ3YmQ0Yi0wOGVlLTQ2MzUtYjE4Yi1hYmUxZmI0ZWFkYzIiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjo0OX0=",
+      "start_time": "2023-12-05T10:00:00Z",
+      "end_time": "2023-12-05T13:00:00Z",
+      "title": "Mario Party 3V1 avec Onu, Wingo et Bytell",
+      "canceled_until": null,
+      "category": {
+        "id": "1068239917",
+        "name": "Mario Party Superstars"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiJkM2ZiMDExOC0yYzQ1LTRjN2EtYTVhMC1kYzQ1NWJjYjZmNWEiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjo0OX0=",
+      "start_time": "2023-12-05T13:00:00Z",
+      "end_time": "2023-12-05T17:00:00Z",
+      "title": "Aprem YOLO",
+      "canceled_until": null,
+      "category": null,
       "is_recurring": true
     }
   ]
