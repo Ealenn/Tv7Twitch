@@ -13,19 +13,7 @@
   },
   "schedulers": [
     {
-      "id": "eyJzZWdtZW50SUQiOiIyZmZmYWZhNi1mN2RiLTQ2NzEtODlmYy03MGM1OThmYzVhMmQiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjo0N30=",
-      "start_time": "2023-11-20T10:00:00Z",
-      "end_time": "2023-11-20T18:00:00Z",
-      "title": "Culture & Plaisir ",
-      "canceled_until": null,
-      "category": {
-        "id": "338715930",
-        "name": "Maitre des Fleurs"
-      },
-      "is_recurring": true
-    },
-    {
-      "id": "eyJzZWdtZW50SUQiOiIyNDQ3YmQ0Yi0wOGVlLTQ2MzUtYjE4Yi1hYmUxZmI0ZWFkYzIiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjo0N30=",
+      "id": "eyJzZWdtZW50SUQiOiJkYjI4MmY0Yy00YjVkLTQ2YzctOTRjNi1kNjU5Mzc4ZTYyZmYiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjo0N30=",
       "start_time": "2023-11-21T10:00:00Z",
       "end_time": "2023-11-21T13:00:00Z",
       "title": "Mario Party 3V1 avec Onu, Wingo et Bytell",
@@ -34,208 +22,55 @@
         "id": "1068239917",
         "name": "Mario Party Superstars"
       },
-      "is_recurring": true
+      "is_recurring": false
     },
     {
-      "id": "eyJzZWdtZW50SUQiOiJkM2ZiMDExOC0yYzQ1LTRjN2EtYTVhMC1kYzQ1NWJjYjZmNWEiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjo0N30=",
+      "id": "eyJzZWdtZW50SUQiOiJlYTliZmE4NS0wZWJlLTQ2YWItOTU3My0xZTQ0OWIwYmE1OWMiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjo0N30=",
       "start_time": "2023-11-21T13:00:00Z",
       "end_time": "2023-11-21T17:00:00Z",
-      "title": "Aprem YOLO",
+      "title": "Suite de l'aventure Super Mario RPG",
       "canceled_until": null,
-      "category": null,
-      "is_recurring": true
+      "category": {
+        "id": "1675405846",
+        "name": "Super Mario RPG"
+      },
+      "is_recurring": false
     },
     {
-      "id": "eyJzZWdtZW50SUQiOiJiODIyMzM0My1jZTM4LTRkZDItYWEyOC05YWYxZTU4ZTQ0NGYiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjo0N30=",
+      "id": "eyJzZWdtZW50SUQiOiI1N2EzZjMyZi1lMjUwLTRjNjItYjVjNS1hYTgxNmVhZjA2OTYiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjo0N30=",
       "start_time": "2023-11-22T10:00:00Z",
-      "end_time": "2023-11-22T16:00:00Z",
-      "title": "Le créneau slowrun 100% chill et plaisir",
+      "end_time": "2023-11-22T17:00:00Z",
+      "title": "Slowrun 100%, le créneau chill et plaisir ",
       "canceled_until": null,
       "category": {
         "id": "512998",
         "name": "The Legend of Zelda: Tears of the Kingdom"
       },
-      "is_recurring": true
+      "is_recurring": false
     },
     {
-      "id": "eyJzZWdtZW50SUQiOiI3NzBkM2E4YS03NWNhLTQzZWUtODY5Yi04ZWJhNTQ2YTM1ZmEiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjo0N30=",
-      "start_time": "2023-11-22T19:00:00Z",
-      "end_time": "2023-11-22T23:00:00Z",
-      "title": "Maître des fleurs spécial avec Antoine ",
-      "canceled_until": null,
-      "category": {
-        "id": "338715930",
-        "name": "Maitre des Fleurs"
-      },
-      "is_recurring": true
-    },
-    {
-      "id": "eyJzZWdtZW50SUQiOiJkZGYzZmM0Ni1kZDE3LTRhNTItOTA4MC00YTgyYjFjYWZiZDUiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjo0N30=",
-      "start_time": "2023-11-23T12:00:00Z",
-      "end_time": "2023-11-23T15:00:00Z",
-      "title": "Code Names avé les copains ! Bytell/LyeGaia/Wingo/Lutti",
-      "canceled_until": null,
-      "category": {
-        "id": "508509",
-        "name": "Codenames"
-      },
-      "is_recurring": true
-    },
-    {
-      "id": "eyJzZWdtZW50SUQiOiI5MGMwN2JlYi04MDU0LTQzN2ItOTg4MC1hYTE1NDIyNjQ2OGUiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjo0N30=",
-      "start_time": "2023-11-23T15:00:00Z",
+      "id": "eyJzZWdtZW50SUQiOiI3YmZkM2RlNC1mNmRiLTQwZTMtOTAwNS1jMzYyZDRjYmE5YzIiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjo0N30=",
+      "start_time": "2023-11-23T13:00:00Z",
       "end_time": "2023-11-23T18:00:00Z",
-      "title": "Aprem YOLO ",
+      "title": "P'tit aprem YOLO ",
       "canceled_until": null,
-      "category": null,
-      "is_recurring": true
+      "category": {
+        "id": "509658",
+        "name": "Just Chatting"
+      },
+      "is_recurring": false
     },
     {
-      "id": "eyJzZWdtZW50SUQiOiI5OTAwYTc5NS01NGEzLTRjMjYtODI2My0yNTVjYjI0ZTY0NmMiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjo0N30=",
+      "id": "eyJzZWdtZW50SUQiOiJlZjU4ZTJhNi0yNzVhLTQ4OWEtOTQ1Ni0yNzlkN2IxYzYzZDQiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjo0N30=",
       "start_time": "2023-11-24T10:00:00Z",
       "end_time": "2023-11-24T17:00:00Z",
-      "title": "Découverte de Super Mario RPG",
+      "title": "Suite de l'aventure Super Mario RPG",
       "canceled_until": null,
       "category": {
         "id": "1675405846",
         "name": "Super Mario RPG"
       },
-      "is_recurring": true
-    },
-    {
-      "id": "eyJzZWdtZW50SUQiOiIyZmZmYWZhNi1mN2RiLTQ2NzEtODlmYy03MGM1OThmYzVhMmQiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjo0OH0=",
-      "start_time": "2023-11-27T10:00:00Z",
-      "end_time": "2023-11-27T18:00:00Z",
-      "title": "Culture & Plaisir ",
-      "canceled_until": null,
-      "category": {
-        "id": "338715930",
-        "name": "Maitre des Fleurs"
-      },
-      "is_recurring": true
-    },
-    {
-      "id": "eyJzZWdtZW50SUQiOiIyNDQ3YmQ0Yi0wOGVlLTQ2MzUtYjE4Yi1hYmUxZmI0ZWFkYzIiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjo0OH0=",
-      "start_time": "2023-11-28T10:00:00Z",
-      "end_time": "2023-11-28T13:00:00Z",
-      "title": "Mario Party 3V1 avec Onu, Wingo et Bytell",
-      "canceled_until": null,
-      "category": {
-        "id": "1068239917",
-        "name": "Mario Party Superstars"
-      },
-      "is_recurring": true
-    },
-    {
-      "id": "eyJzZWdtZW50SUQiOiJkM2ZiMDExOC0yYzQ1LTRjN2EtYTVhMC1kYzQ1NWJjYjZmNWEiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjo0OH0=",
-      "start_time": "2023-11-28T13:00:00Z",
-      "end_time": "2023-11-28T17:00:00Z",
-      "title": "Aprem YOLO",
-      "canceled_until": null,
-      "category": null,
-      "is_recurring": true
-    },
-    {
-      "id": "eyJzZWdtZW50SUQiOiJiODIyMzM0My1jZTM4LTRkZDItYWEyOC05YWYxZTU4ZTQ0NGYiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjo0OH0=",
-      "start_time": "2023-11-29T10:00:00Z",
-      "end_time": "2023-11-29T16:00:00Z",
-      "title": "Le créneau slowrun 100% chill et plaisir",
-      "canceled_until": null,
-      "category": {
-        "id": "512998",
-        "name": "The Legend of Zelda: Tears of the Kingdom"
-      },
-      "is_recurring": true
-    },
-    {
-      "id": "eyJzZWdtZW50SUQiOiI3NzBkM2E4YS03NWNhLTQzZWUtODY5Yi04ZWJhNTQ2YTM1ZmEiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjo0OH0=",
-      "start_time": "2023-11-29T19:00:00Z",
-      "end_time": "2023-11-29T23:00:00Z",
-      "title": "Maître des fleurs spécial avec Antoine ",
-      "canceled_until": null,
-      "category": {
-        "id": "338715930",
-        "name": "Maitre des Fleurs"
-      },
-      "is_recurring": true
-    },
-    {
-      "id": "eyJzZWdtZW50SUQiOiJkZGYzZmM0Ni1kZDE3LTRhNTItOTA4MC00YTgyYjFjYWZiZDUiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjo0OH0=",
-      "start_time": "2023-11-30T12:00:00Z",
-      "end_time": "2023-11-30T15:00:00Z",
-      "title": "Code Names avé les copains ! Bytell/LyeGaia/Wingo/Lutti",
-      "canceled_until": null,
-      "category": {
-        "id": "508509",
-        "name": "Codenames"
-      },
-      "is_recurring": true
-    },
-    {
-      "id": "eyJzZWdtZW50SUQiOiI5MGMwN2JlYi04MDU0LTQzN2ItOTg4MC1hYTE1NDIyNjQ2OGUiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjo0OH0=",
-      "start_time": "2023-11-30T15:00:00Z",
-      "end_time": "2023-11-30T18:00:00Z",
-      "title": "Aprem YOLO ",
-      "canceled_until": null,
-      "category": null,
-      "is_recurring": true
-    },
-    {
-      "id": "eyJzZWdtZW50SUQiOiI5OTAwYTc5NS01NGEzLTRjMjYtODI2My0yNTVjYjI0ZTY0NmMiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjo0OH0=",
-      "start_time": "2023-12-01T10:00:00Z",
-      "end_time": "2023-12-01T17:00:00Z",
-      "title": "Découverte de Super Mario RPG",
-      "canceled_until": null,
-      "category": {
-        "id": "1675405846",
-        "name": "Super Mario RPG"
-      },
-      "is_recurring": true
-    },
-    {
-      "id": "eyJzZWdtZW50SUQiOiIyZmZmYWZhNi1mN2RiLTQ2NzEtODlmYy03MGM1OThmYzVhMmQiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjo0OX0=",
-      "start_time": "2023-12-04T10:00:00Z",
-      "end_time": "2023-12-04T18:00:00Z",
-      "title": "Culture & Plaisir ",
-      "canceled_until": null,
-      "category": {
-        "id": "338715930",
-        "name": "Maitre des Fleurs"
-      },
-      "is_recurring": true
-    },
-    {
-      "id": "eyJzZWdtZW50SUQiOiIyNDQ3YmQ0Yi0wOGVlLTQ2MzUtYjE4Yi1hYmUxZmI0ZWFkYzIiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjo0OX0=",
-      "start_time": "2023-12-05T10:00:00Z",
-      "end_time": "2023-12-05T13:00:00Z",
-      "title": "Mario Party 3V1 avec Onu, Wingo et Bytell",
-      "canceled_until": null,
-      "category": {
-        "id": "1068239917",
-        "name": "Mario Party Superstars"
-      },
-      "is_recurring": true
-    },
-    {
-      "id": "eyJzZWdtZW50SUQiOiJkM2ZiMDExOC0yYzQ1LTRjN2EtYTVhMC1kYzQ1NWJjYjZmNWEiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjo0OX0=",
-      "start_time": "2023-12-05T13:00:00Z",
-      "end_time": "2023-12-05T17:00:00Z",
-      "title": "Aprem YOLO",
-      "canceled_until": null,
-      "category": null,
-      "is_recurring": true
-    },
-    {
-      "id": "eyJzZWdtZW50SUQiOiJiODIyMzM0My1jZTM4LTRkZDItYWEyOC05YWYxZTU4ZTQ0NGYiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjo0OX0=",
-      "start_time": "2023-12-06T10:00:00Z",
-      "end_time": "2023-12-06T16:00:00Z",
-      "title": "Le créneau slowrun 100% chill et plaisir",
-      "canceled_until": null,
-      "category": {
-        "id": "512998",
-        "name": "The Legend of Zelda: Tears of the Kingdom"
-      },
-      "is_recurring": true
+      "is_recurring": false
     }
   ]
 }
