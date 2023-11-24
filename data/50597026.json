@@ -13,18 +13,6 @@
   },
   "schedulers": [
     {
-      "id": "eyJzZWdtZW50SUQiOiI3YmZkM2RlNC1mNmRiLTQwZTMtOTAwNS1jMzYyZDRjYmE5YzIiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjo0N30=",
-      "start_time": "2023-11-23T13:00:00Z",
-      "end_time": "2023-11-23T18:00:00Z",
-      "title": "P'tit aprem YOLO ",
-      "canceled_until": null,
-      "category": {
-        "id": "509658",
-        "name": "Just Chatting"
-      },
-      "is_recurring": false
-    },
-    {
       "id": "eyJzZWdtZW50SUQiOiJlZjU4ZTJhNi0yNzVhLTQ4OWEtOTQ1Ni0yNzlkN2IxYzYzZDQiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjo0N30=",
       "start_time": "2023-11-24T10:00:00Z",
       "end_time": "2023-11-24T17:00:00Z",
