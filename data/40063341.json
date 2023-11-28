@@ -7,52 +7,16 @@
     "broadcaster_type": "partner",
     "description": "",
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/3cdae7df-600c-4833-8dfe-8d2abc5a3b25-profile_image-300x300.png",
-    "offline_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/55b083f7-4820-4a91-8025-10f4268fcd8d-channel_offline_image-1920x1080.png",
+    "offline_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/d361bc46-5da9-4e44-a1f4-25f76e6ebe80-channel_offline_image-1920x1080.png",
     "view_count": 0,
     "created_at": "2013-02-05T19:20:22Z"
   },
   "schedulers": [
     {
-      "id": "eyJzZWdtZW50SUQiOiJkMjc5YTZhMi1mNjhlLTQ0NTktOGZlNS0yNWU3NmZiNWVmNzEiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjo0OH0=",
-      "start_time": "2023-11-27T18:30:00Z",
-      "end_time": "2023-11-27T19:30:00Z",
-      "title": "🎙 PRÉ LIVE",
-      "canceled_until": null,
-      "category": {
-        "id": "509658",
-        "name": "Just Chatting"
-      },
-      "is_recurring": true
-    },
-    {
-      "id": "eyJzZWdtZW50SUQiOiJkMTQ5NTRkZS02MTE4LTQ1NDgtYTM0Mi0zZTJhZDJlYThkNTMiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjo0OH0=",
-      "start_time": "2023-11-27T19:30:00Z",
-      "end_time": "2023-11-27T21:30:00Z",
-      "title": "📺 REACT THE ISLAND",
-      "canceled_until": null,
-      "category": {
-        "id": "509658",
-        "name": "Just Chatting"
-      },
-      "is_recurring": true
-    },
-    {
-      "id": "eyJzZWdtZW50SUQiOiIyOWE5ZWNhMi1lYmRmLTRlYmMtYmU0MC02ZGQ0NWU4MjdmMzIiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjo0OH0=",
-      "start_time": "2023-11-27T21:30:00Z",
-      "end_time": "2023-11-27T23:00:00Z",
-      "title": "📺 REACT",
-      "canceled_until": null,
-      "category": {
-        "id": "509658",
-        "name": "Just Chatting"
-      },
-      "is_recurring": true
-    },
-    {
       "id": "eyJzZWdtZW50SUQiOiJhMTI2NDdjMi00NzBlLTQyYWEtOTE1OC1kMTE0N2I0NWYxYTgiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjo0OH0=",
       "start_time": "2023-11-28T19:00:00Z",
-      "end_time": "2023-11-28T21:00:00Z",
-      "title": "🍿 POPCORN AVEC DOIGBY, MICHOU, MCFLY & CARLITO (INVITÉS : LES FRÈRES LEBRUN 🏓) ",
+      "end_time": "2023-11-28T21:30:00Z",
+      "title": "🍿 POPCORN AVEC PONCE, OPCROTTE & XARI",
       "canceled_until": null,
       "category": {
         "id": "417752",
@@ -85,9 +49,45 @@
       "is_recurring": true
     },
     {
+      "id": "eyJzZWdtZW50SUQiOiJiZmRhZWYzNi1jNjc3LTRlODktOTgyZS04NjhmMTViZmFiMDQiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjo0OH0=",
+      "start_time": "2023-11-30T13:00:00Z",
+      "end_time": "2023-11-30T14:00:00Z",
+      "title": "🎙 PRÉ LIVE ",
+      "canceled_until": null,
+      "category": {
+        "id": "509658",
+        "name": "Just Chatting"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiIxNDM5YzUxYi02MTA0LTRjZGQtYTYwMC02OTQxN2ZiMmU5YzEiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjo0OH0=",
+      "start_time": "2023-11-30T14:00:00Z",
+      "end_time": "2023-11-30T16:00:00Z",
+      "title": "💲 STORAGE WARS",
+      "canceled_until": null,
+      "category": {
+        "id": "572098971",
+        "name": "Storage Hustle"
+      },
+      "is_recurring": false
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiI1NjQ0MWFhOS1mOTY3LTQ5OWQtOTQ3Ni1lZTA3YmM2ODRmODYiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjo0OH0=",
+      "start_time": "2023-11-30T16:00:00Z",
+      "end_time": "2023-11-30T18:00:00Z",
+      "title": "STREAM LIBRE",
+      "canceled_until": null,
+      "category": {
+        "id": "509658",
+        "name": "Just Chatting"
+      },
+      "is_recurring": true
+    },
+    {
       "id": "eyJzZWdtZW50SUQiOiJhMWNiMzQyNi01N2QwLTQ2YWYtYTljNi0xYzY5N2ZhMDAxMTUiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjo0OH0=",
-      "start_time": "2023-12-01T11:00:00Z",
-      "end_time": "2023-12-01T13:00:00Z",
+      "start_time": "2023-12-01T17:00:00Z",
+      "end_time": "2023-12-01T19:00:00Z",
       "title": "🎙 PRÉ LIVE",
       "canceled_until": null,
       "category": {
@@ -98,20 +98,20 @@
     },
     {
       "id": "eyJzZWdtZW50SUQiOiIzOGI4ZjBlOS1jNDlkLTRjZGUtYTliOS1mNWQxYmYyMDA5MmMiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjo0OH0=",
-      "start_time": "2023-12-01T13:00:00Z",
-      "end_time": "2023-12-01T15:00:00Z",
-      "title": "League of Legends",
+      "start_time": "2023-12-01T19:00:00Z",
+      "end_time": "2023-12-01T22:00:00Z",
+      "title": "♠ SIT & GO BATTLE AVEC GOTA, DOIG & XARI",
       "canceled_until": null,
       "category": {
-        "id": "21779",
-        "name": "League of Legends"
+        "id": "488190",
+        "name": "Poker"
       },
       "is_recurring": true
     },
     {
       "id": "eyJzZWdtZW50SUQiOiJkMjc5YTZhMi1mNjhlLTQ0NTktOGZlNS0yNWU3NmZiNWVmNzEiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjo0OX0=",
       "start_time": "2023-12-04T18:30:00Z",
-      "end_time": "2023-12-04T19:30:00Z",
+      "end_time": "2023-12-04T19:00:00Z",
       "title": "🎙 PRÉ LIVE",
       "canceled_until": null,
       "category": {
@@ -121,10 +121,10 @@
       "is_recurring": true
     },
     {
-      "id": "eyJzZWdtZW50SUQiOiJkMTQ5NTRkZS02MTE4LTQ1NDgtYTM0Mi0zZTJhZDJlYThkNTMiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjo0OX0=",
-      "start_time": "2023-12-04T19:30:00Z",
-      "end_time": "2023-12-04T21:30:00Z",
-      "title": "📺 REACT THE ISLAND",
+      "id": "eyJzZWdtZW50SUQiOiIyOWE5ZWNhMi1lYmRmLTRlYmMtYmU0MC02ZGQ0NWU4MjdmMzIiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjo0OX0=",
+      "start_time": "2023-12-04T19:00:00Z",
+      "end_time": "2023-12-04T20:00:00Z",
+      "title": "📺 REACT LES COULISSES DE L'ÉCHAPPÉE",
       "canceled_until": null,
       "category": {
         "id": "509658",
@@ -133,10 +133,10 @@
       "is_recurring": true
     },
     {
-      "id": "eyJzZWdtZW50SUQiOiIyOWE5ZWNhMi1lYmRmLTRlYmMtYmU0MC02ZGQ0NWU4MjdmMzIiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjo0OX0=",
-      "start_time": "2023-12-04T21:30:00Z",
+      "id": "eyJzZWdtZW50SUQiOiJkMTQ5NTRkZS02MTE4LTQ1NDgtYTM0Mi0zZTJhZDJlYThkNTMiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjo0OX0=",
+      "start_time": "2023-12-04T20:00:00Z",
       "end_time": "2023-12-04T23:00:00Z",
-      "title": "📺 REACT",
+      "title": "📺 REACT THE ISLAND",
       "canceled_until": null,
       "category": {
         "id": "509658",
@@ -147,8 +147,8 @@
     {
       "id": "eyJzZWdtZW50SUQiOiJhMTI2NDdjMi00NzBlLTQyYWEtOTE1OC1kMTE0N2I0NWYxYTgiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjo0OX0=",
       "start_time": "2023-12-05T19:00:00Z",
-      "end_time": "2023-12-05T21:00:00Z",
-      "title": "🍿 POPCORN AVEC DOIGBY, MICHOU, MCFLY & CARLITO (INVITÉS : LES FRÈRES LEBRUN 🏓) ",
+      "end_time": "2023-12-05T21:30:00Z",
+      "title": "🍿 POPCORN AVEC PONCE, OPCROTTE & XARI",
       "canceled_until": null,
       "category": {
         "id": "417752",
@@ -181,9 +181,33 @@
       "is_recurring": true
     },
     {
+      "id": "eyJzZWdtZW50SUQiOiJiZmRhZWYzNi1jNjc3LTRlODktOTgyZS04NjhmMTViZmFiMDQiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjo0OX0=",
+      "start_time": "2023-12-07T13:00:00Z",
+      "end_time": "2023-12-07T14:00:00Z",
+      "title": "🎙 PRÉ LIVE ",
+      "canceled_until": null,
+      "category": {
+        "id": "509658",
+        "name": "Just Chatting"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiI1NjQ0MWFhOS1mOTY3LTQ5OWQtOTQ3Ni1lZTA3YmM2ODRmODYiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjo0OX0=",
+      "start_time": "2023-12-07T16:00:00Z",
+      "end_time": "2023-12-07T18:00:00Z",
+      "title": "STREAM LIBRE",
+      "canceled_until": null,
+      "category": {
+        "id": "509658",
+        "name": "Just Chatting"
+      },
+      "is_recurring": true
+    },
+    {
       "id": "eyJzZWdtZW50SUQiOiJhMWNiMzQyNi01N2QwLTQ2YWYtYTljNi0xYzY5N2ZhMDAxMTUiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjo0OX0=",
-      "start_time": "2023-12-08T11:00:00Z",
-      "end_time": "2023-12-08T13:00:00Z",
+      "start_time": "2023-12-08T17:00:00Z",
+      "end_time": "2023-12-08T19:00:00Z",
       "title": "🎙 PRÉ LIVE",
       "canceled_until": null,
       "category": {
@@ -194,20 +218,20 @@
     },
     {
       "id": "eyJzZWdtZW50SUQiOiIzOGI4ZjBlOS1jNDlkLTRjZGUtYTliOS1mNWQxYmYyMDA5MmMiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjo0OX0=",
-      "start_time": "2023-12-08T13:00:00Z",
-      "end_time": "2023-12-08T15:00:00Z",
-      "title": "League of Legends",
+      "start_time": "2023-12-08T19:00:00Z",
+      "end_time": "2023-12-08T22:00:00Z",
+      "title": "♠ SIT & GO BATTLE AVEC GOTA, DOIG & XARI",
       "canceled_until": null,
       "category": {
-        "id": "21779",
-        "name": "League of Legends"
+        "id": "488190",
+        "name": "Poker"
       },
       "is_recurring": true
     },
     {
       "id": "eyJzZWdtZW50SUQiOiJkMjc5YTZhMi1mNjhlLTQ0NTktOGZlNS0yNWU3NmZiNWVmNzEiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjo1MH0=",
       "start_time": "2023-12-11T18:30:00Z",
-      "end_time": "2023-12-11T19:30:00Z",
+      "end_time": "2023-12-11T19:00:00Z",
       "title": "🎙 PRÉ LIVE",
       "canceled_until": null,
       "category": {
@@ -217,38 +241,14 @@
       "is_recurring": true
     },
     {
-      "id": "eyJzZWdtZW50SUQiOiJkMTQ5NTRkZS02MTE4LTQ1NDgtYTM0Mi0zZTJhZDJlYThkNTMiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjo1MH0=",
-      "start_time": "2023-12-11T19:30:00Z",
-      "end_time": "2023-12-11T21:30:00Z",
-      "title": "📺 REACT THE ISLAND",
-      "canceled_until": null,
-      "category": {
-        "id": "509658",
-        "name": "Just Chatting"
-      },
-      "is_recurring": true
-    },
-    {
       "id": "eyJzZWdtZW50SUQiOiIyOWE5ZWNhMi1lYmRmLTRlYmMtYmU0MC02ZGQ0NWU4MjdmMzIiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjo1MH0=",
-      "start_time": "2023-12-11T21:30:00Z",
-      "end_time": "2023-12-11T23:00:00Z",
-      "title": "📺 REACT",
+      "start_time": "2023-12-11T19:00:00Z",
+      "end_time": "2023-12-11T20:00:00Z",
+      "title": "📺 REACT LES COULISSES DE L'ÉCHAPPÉE",
       "canceled_until": null,
       "category": {
         "id": "509658",
         "name": "Just Chatting"
-      },
-      "is_recurring": true
-    },
-    {
-      "id": "eyJzZWdtZW50SUQiOiJhMTI2NDdjMi00NzBlLTQyYWEtOTE1OC1kMTE0N2I0NWYxYTgiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjo1MH0=",
-      "start_time": "2023-12-12T19:00:00Z",
-      "end_time": "2023-12-12T21:00:00Z",
-      "title": "🍿 POPCORN AVEC DOIGBY, MICHOU, MCFLY & CARLITO (INVITÉS : LES FRÈRES LEBRUN 🏓) ",
-      "canceled_until": null,
-      "category": {
-        "id": "417752",
-        "name": "Talk Shows & Podcasts"
       },
       "is_recurring": true
     }
