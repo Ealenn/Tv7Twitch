@@ -13,18 +13,6 @@
   },
   "schedulers": [
     {
-      "id": "eyJzZWdtZW50SUQiOiI0OTZhODUzZi05YzA4LTQ2MWEtYmU0Ny04MGRkNGRmNGViZDMiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjo0OH0=",
-      "start_time": "2023-11-30T19:00:00Z",
-      "end_time": "2023-11-30T20:30:00Z",
-      "title": "K-Listo : remise des prix ft. JDG",
-      "canceled_until": null,
-      "category": {
-        "id": "509658",
-        "name": "Just Chatting"
-      },
-      "is_recurring": false
-    },
-    {
       "id": "eyJzZWdtZW50SUQiOiIxYzc4Y2M0Mi0yNGM2LTRiN2MtOGEwOC1hYjlhMjJhZjUzN2IiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjo0OH0=",
       "start_time": "2023-12-01T17:00:00Z",
       "end_time": "2023-12-01T18:30:00Z",
