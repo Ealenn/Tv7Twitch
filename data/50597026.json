@@ -13,30 +13,6 @@
   },
   "schedulers": [
     {
-      "id": "eyJzZWdtZW50SUQiOiIyOTU4MjE1Yy1jMzBjLTQyNjItYjM0Yi01ZTc5MDYyMmRmYjgiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjo0OH0=",
-      "start_time": "2023-12-03T13:00:00Z",
-      "end_time": "2023-12-03T16:00:00Z",
-      "title": "Le tournoi MK du dimanche",
-      "canceled_until": null,
-      "category": {
-        "id": "941530474",
-        "name": "Mario Kart 8 Deluxe"
-      },
-      "is_recurring": true
-    },
-    {
-      "id": "eyJzZWdtZW50SUQiOiI5ZmU2MjQ2My1jNWI4LTQ3NmYtOWRmNy04NDYwZmM0N2U2ZTEiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjo0OH0=",
-      "start_time": "2023-12-03T16:00:00Z",
-      "end_time": "2023-12-03T19:00:00Z",
-      "title": "Wow Season of Discovery",
-      "canceled_until": null,
-      "category": {
-        "id": "18122",
-        "name": "World of Warcraft"
-      },
-      "is_recurring": true
-    },
-    {
       "id": "eyJzZWdtZW50SUQiOiJlNTg4MTQ1ZC1iNjdmLTQyZTgtOTM1Ny0zMzZjMDc2ZWY2ODMiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjo0OX0=",
       "start_time": "2023-12-04T10:00:00Z",
       "end_time": "2023-12-04T16:00:00Z",
@@ -249,6 +225,30 @@
       "category": {
         "id": "18122",
         "name": "World of Warcraft"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiJlNTg4MTQ1ZC1iNjdmLTQyZTgtOTM1Ny0zMzZjMDc2ZWY2ODMiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjo1Mn0=",
+      "start_time": "2023-12-25T10:00:00Z",
+      "end_time": "2023-12-25T16:00:00Z",
+      "title": "Culture & Plaisir",
+      "canceled_until": null,
+      "category": {
+        "id": "338715930",
+        "name": "Maitre des Fleurs"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiI5Y2E0OGI0Yy1lN2U0LTQ5NzUtYTNhZC01ZjMzNDIyOGEzNTUiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjo1Mn0=",
+      "start_time": "2023-12-26T19:00:00Z",
+      "end_time": "2023-12-26T22:00:00Z",
+      "title": "Popcorn (sur la chaîne de Domingo)",
+      "canceled_until": null,
+      "category": {
+        "id": "417752",
+        "name": "Talk Shows & Podcasts"
       },
       "is_recurring": true
     }
