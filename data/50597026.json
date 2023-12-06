@@ -13,30 +13,6 @@
   },
   "schedulers": [
     {
-      "id": "eyJzZWdtZW50SUQiOiI3OGQzN2M5ZS03N2IwLTQwNGQtYjRjZC0wZjkyOWIxMTBmMzMiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjo0OX0=",
-      "start_time": "2023-12-05T10:00:00Z",
-      "end_time": "2023-12-05T13:00:00Z",
-      "title": "Lethal Company avec Wingo, Onu et Bytell",
-      "canceled_until": null,
-      "category": {
-        "id": "2085980140",
-        "name": "Lethal Company"
-      },
-      "is_recurring": false
-    },
-    {
-      "id": "eyJzZWdtZW50SUQiOiJiMmNkZTgyMC0wNjQwLTQzYjktODk4Mi01NDJmZjkwMzVjODAiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjo0OX0=",
-      "start_time": "2023-12-05T13:00:00Z",
-      "end_time": "2023-12-05T17:00:00Z",
-      "title": "WoW Season of Discovery",
-      "canceled_until": null,
-      "category": {
-        "id": "18122",
-        "name": "World of Warcraft"
-      },
-      "is_recurring": false
-    },
-    {
       "id": "eyJzZWdtZW50SUQiOiI5NmUyY2YwMC0wZGQ1LTQwYmQtOGUxMS1iMGVlN2NhYzA2NjciLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjo0OX0=",
       "start_time": "2023-12-06T10:00:00Z",
       "end_time": "2023-12-06T17:00:00Z",

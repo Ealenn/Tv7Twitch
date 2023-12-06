@@ -7,23 +7,11 @@
     "broadcaster_type": "partner",
     "description": "",
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/3cdae7df-600c-4833-8dfe-8d2abc5a3b25-profile_image-300x300.png",
-    "offline_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/526a7512-2d6b-4265-bd2e-67bafbeaa4e9-channel_offline_image-1920x1080.png",
+    "offline_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/31702c7e-28e1-4078-965f-2c2771d97a49-channel_offline_image-1920x1080.png",
     "view_count": 0,
     "created_at": "2013-02-05T19:20:22Z"
   },
   "schedulers": [
-    {
-      "id": "eyJzZWdtZW50SUQiOiJhMTI2NDdjMi00NzBlLTQyYWEtOTE1OC1kMTE0N2I0NWYxYTgiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjo0OX0=",
-      "start_time": "2023-12-05T19:00:00Z",
-      "end_time": "2023-12-05T21:30:00Z",
-      "title": "🍿 POPCORN AVEC ÉTOILES, TRIVIA & ZACK (INVITÉ : PAUL MIRABEL)",
-      "canceled_until": null,
-      "category": {
-        "id": "417752",
-        "name": "Talk Shows & Podcasts"
-      },
-      "is_recurring": true
-    },
     {
       "id": "eyJzZWdtZW50SUQiOiI5Y2I4ZWYzZi1jYWNkLTQwZjUtODYzNC0zZGIxYWRmZTkzNmIiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjo0OX0=",
       "start_time": "2023-12-06T13:00:00Z",
@@ -245,6 +233,18 @@
       "start_time": "2023-12-27T13:00:00Z",
       "end_time": "2023-12-27T14:00:00Z",
       "title": "🎙 PRÉ LIVE",
+      "canceled_until": null,
+      "category": {
+        "id": "509658",
+        "name": "Just Chatting"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiJiZmRhZWYzNi1jNjc3LTRlODktOTgyZS04NjhmMTViZmFiMDQiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjo1Mn0=",
+      "start_time": "2023-12-28T13:00:00Z",
+      "end_time": "2023-12-28T14:00:00Z",
+      "title": "🎙 PRÉ LIVE ",
       "canceled_until": null,
       "category": {
         "id": "509658",
