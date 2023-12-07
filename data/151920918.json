@@ -13,18 +13,6 @@
   },
   "schedulers": [
     {
-      "id": "eyJzZWdtZW50SUQiOiI0ZDYyYjZkNC0zMTdjLTRhOGMtYTMyOS0zNjAyMmI4YWRlZGQiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjo0OX0=",
-      "start_time": "2023-12-06T20:00:00Z",
-      "end_time": "2023-12-06T21:30:00Z",
-      "title": "NASA's VIPER Moon Rover: Robot Build Watch Party",
-      "canceled_until": null,
-      "category": {
-        "id": "509670",
-        "name": "Science & Technology"
-      },
-      "is_recurring": false
-    },
-    {
       "id": "eyJzZWdtZW50SUQiOiIwYzFhODc1NS1iMmQ2LTRmYzMtOTE1My1kM2JiNDA5YTQ5NWMiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjo0OX0=",
       "start_time": "2023-12-07T20:00:00Z",
       "end_time": "2023-12-07T21:30:00Z",
