@@ -13,30 +13,6 @@
   },
   "schedulers": [
     {
-      "id": "eyJzZWdtZW50SUQiOiI0YjE0YzY4Yi05MDJiLTQwYWItOWNlZC02ZWQxYzhiNWZkYzYiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjo0OX0=",
-      "start_time": "2023-12-07T12:00:00Z",
-      "end_time": "2023-12-07T16:00:00Z",
-      "title": "Codenames avé les copains",
-      "canceled_until": null,
-      "category": {
-        "id": "508509",
-        "name": "Codenames"
-      },
-      "is_recurring": false
-    },
-    {
-      "id": "eyJzZWdtZW50SUQiOiIwOTQyYzFmZS1lYjRiLTRmZTAtOGY1NC0wZjFlYzAyMmVlZDUiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjo0OX0=",
-      "start_time": "2023-12-07T16:00:00Z",
-      "end_time": "2023-12-07T19:00:00Z",
-      "title": "YOLO",
-      "canceled_until": null,
-      "category": {
-        "id": "509658",
-        "name": "Just Chatting"
-      },
-      "is_recurring": false
-    },
-    {
       "id": "eyJzZWdtZW50SUQiOiI5M2JjNTIwZi1lMjhmLTQ2OTItOWI1NS01NzgyNjQyNjg2NGQiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjo0OX0=",
       "start_time": "2023-12-08T10:00:00Z",
       "end_time": "2023-12-08T17:00:00Z",
