@@ -13,18 +13,6 @@
   },
   "schedulers": [
     {
-      "id": "eyJzZWdtZW50SUQiOiI5M2JjNTIwZi1lMjhmLTQ2OTItOWI1NS01NzgyNjQyNjg2NGQiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjo0OX0=",
-      "start_time": "2023-12-08T10:00:00Z",
-      "end_time": "2023-12-08T17:00:00Z",
-      "title": "Mario Kart",
-      "canceled_until": null,
-      "category": {
-        "id": "941530474",
-        "name": "Mario Kart 8 Deluxe"
-      },
-      "is_recurring": false
-    },
-    {
       "id": "eyJzZWdtZW50SUQiOiI5MzhkOGExZS04MzFlLTQ0NmItODAyMS1mZjk0ZDkxN2ZmMmUiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjo0OX0=",
       "start_time": "2023-12-10T12:00:00Z",
       "end_time": "2023-12-10T16:00:00Z",
