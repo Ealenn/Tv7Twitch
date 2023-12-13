@@ -13,30 +13,6 @@
   },
   "schedulers": [
     {
-      "id": "eyJzZWdtZW50SUQiOiI3NmYzYmU1Ni04YTczLTQ0NGEtYmM4Yi03OTY2YTM0YjBiZDQiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjo1MH0=",
-      "start_time": "2023-12-12T10:00:00Z",
-      "end_time": "2023-12-12T14:00:00Z",
-      "title": "Lethal Compagny avec Wingo, Onu et Bytell",
-      "canceled_until": null,
-      "category": {
-        "id": "2085980140",
-        "name": "Lethal Company"
-      },
-      "is_recurring": true
-    },
-    {
-      "id": "eyJzZWdtZW50SUQiOiI1NmRmNGMzNi1mNzQxLTRmMWQtOTcxZi05OWU0OTA2OTA3NzQiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjo1MH0=",
-      "start_time": "2023-12-12T14:00:00Z",
-      "end_time": "2023-12-12T23:00:00Z",
-      "title": "WoW SOD (raid + pvp)",
-      "canceled_until": null,
-      "category": {
-        "id": "18122",
-        "name": "World of Warcraft"
-      },
-      "is_recurring": true
-    },
-    {
       "id": "eyJzZWdtZW50SUQiOiIzMzBhZDczYi00Y2VkLTRkMTktODBlNi0zMzgzMDdmOWQ5MWMiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjo1MH0=",
       "start_time": "2023-12-13T10:00:00Z",
       "end_time": "2023-12-13T17:00:00Z",
@@ -249,6 +225,30 @@
       "category": {
         "id": "18122",
         "name": "World of Warcraft"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiIzMzBhZDczYi00Y2VkLTRkMTktODBlNi0zMzgzMDdmOWQ5MWMiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjoxfQ==",
+      "start_time": "2024-01-03T10:00:00Z",
+      "end_time": "2024-01-03T17:00:00Z",
+      "title": "Zelda TOTK Slowrun direction 100%",
+      "canceled_until": null,
+      "category": {
+        "id": "512998",
+        "name": "The Legend of Zelda: Tears of the Kingdom"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiI4ZWRkZWJmNS0xNDk1LTQzZGEtOGQ0NC0xMGY2ZGY2Yzc3MjgiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjoxfQ==",
+      "start_time": "2024-01-04T17:30:00Z",
+      "end_time": "2024-01-04T20:30:00Z",
+      "title": "Backseat (sur la chaine de JeanMassiet)",
+      "canceled_until": null,
+      "category": {
+        "id": "417752",
+        "name": "Talk Shows & Podcasts"
       },
       "is_recurring": true
     }
