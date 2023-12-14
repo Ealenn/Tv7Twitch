@@ -13,39 +13,6 @@
   },
   "schedulers": [
     {
-      "id": "eyJzZWdtZW50SUQiOiI5Y2I4ZWYzZi1jYWNkLTQwZjUtODYzNC0zZGIxYWRmZTkzNmIiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjo1MH0=",
-      "start_time": "2023-12-13T13:00:00Z",
-      "end_time": "2023-12-13T14:00:00Z",
-      "title": "🎙 PRÉ LIVE",
-      "canceled_until": null,
-      "category": {
-        "id": "509658",
-        "name": "Just Chatting"
-      },
-      "is_recurring": true
-    },
-    {
-      "id": "eyJzZWdtZW50SUQiOiIyZTI2N2FkNC1jNGY5LTRjOGUtYjZiYi03M2Y3NmQwYzY3OTIiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjo1MH0=",
-      "start_time": "2023-12-13T14:00:00Z",
-      "end_time": "2023-12-13T17:00:00Z",
-      "title": "STREAM LIBRE",
-      "canceled_until": null,
-      "category": null,
-      "is_recurring": false
-    },
-    {
-      "id": "eyJzZWdtZW50SUQiOiJlNjZiNDhkNC0zZGFkLTQ1ZjctYTcxYy01NDIzZjg0MTg1MWYiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjo1MH0=",
-      "start_time": "2023-12-13T19:00:00Z",
-      "end_time": "2023-12-13T21:30:00Z",
-      "title": "👨‍🏫 TIME OUT CHEZ @SAMUELETIENNE",
-      "canceled_until": null,
-      "category": {
-        "id": "509663",
-        "name": "Special Events"
-      },
-      "is_recurring": false
-    },
-    {
       "id": "eyJzZWdtZW50SUQiOiJiZmRhZWYzNi1jNjc3LTRlODktOTgyZS04NjhmMTViZmFiMDQiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjo1MH0=",
       "start_time": "2023-12-14T13:00:00Z",
       "end_time": "2023-12-14T14:00:00Z",
@@ -243,6 +210,42 @@
       "category": {
         "id": "417752",
         "name": "Talk Shows & Podcasts"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiI5Y2I4ZWYzZi1jYWNkLTQwZjUtODYzNC0zZGIxYWRmZTkzNmIiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjoxfQ==",
+      "start_time": "2024-01-03T13:00:00Z",
+      "end_time": "2024-01-03T14:00:00Z",
+      "title": "🎙 PRÉ LIVE",
+      "canceled_until": null,
+      "category": {
+        "id": "509658",
+        "name": "Just Chatting"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiJiZmRhZWYzNi1jNjc3LTRlODktOTgyZS04NjhmMTViZmFiMDQiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjoxfQ==",
+      "start_time": "2024-01-04T13:00:00Z",
+      "end_time": "2024-01-04T14:00:00Z",
+      "title": "🎙 PRÉ LIVE ",
+      "canceled_until": null,
+      "category": {
+        "id": "509658",
+        "name": "Just Chatting"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiJhMWNiMzQyNi01N2QwLTQ2YWYtYTljNi0xYzY5N2ZhMDAxMTUiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjoxfQ==",
+      "start_time": "2024-01-05T13:00:00Z",
+      "end_time": "2024-01-05T14:00:00Z",
+      "title": "🎙 PRÉ LIVE",
+      "canceled_until": null,
+      "category": {
+        "id": "509658",
+        "name": "Just Chatting"
       },
       "is_recurring": true
     }

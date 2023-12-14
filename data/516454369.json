@@ -13,18 +13,6 @@
   },
   "schedulers": [
     {
-      "id": "eyJzZWdtZW50SUQiOiI2N2U1MmYwMi1lY2UzLTQ1ZDItOTNlMi1kM2I2MGVlOTdmNzQiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjo1MH0=",
-      "start_time": "2023-12-13T11:00:00Z",
-      "end_time": "2023-12-13T12:30:00Z",
-      "title": "Euclid - Détective cosmique à la recherche de la matière et l'énergie noire",
-      "canceled_until": null,
-      "category": {
-        "id": "509670",
-        "name": "Science & Technology"
-      },
-      "is_recurring": false
-    },
-    {
       "id": "eyJzZWdtZW50SUQiOiJiNWU0MzE4MS00Y2U5LTQyNTktODI4NC0zNTFhYmMyMGIyNWEiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjo1MX0=",
       "start_time": "2023-12-20T16:00:00Z",
       "end_time": "2023-12-20T18:00:00Z",
