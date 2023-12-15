@@ -13,39 +13,6 @@
   },
   "schedulers": [
     {
-      "id": "eyJzZWdtZW50SUQiOiJiZmRhZWYzNi1jNjc3LTRlODktOTgyZS04NjhmMTViZmFiMDQiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjo1MH0=",
-      "start_time": "2023-12-14T13:00:00Z",
-      "end_time": "2023-12-14T14:00:00Z",
-      "title": "🎙 PRÉ LIVE ",
-      "canceled_until": null,
-      "category": {
-        "id": "509658",
-        "name": "Just Chatting"
-      },
-      "is_recurring": true
-    },
-    {
-      "id": "eyJzZWdtZW50SUQiOiI3YWRhMDk0Mi1mMDE3LTQ1NmQtYWYxZC0xM2JkNDcxY2Y0NTciLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjo1MH0=",
-      "start_time": "2023-12-14T14:00:00Z",
-      "end_time": "2023-12-14T17:00:00Z",
-      "title": "STREAM LIBRE",
-      "canceled_until": null,
-      "category": null,
-      "is_recurring": false
-    },
-    {
-      "id": "eyJzZWdtZW50SUQiOiI5NTY1NjE2ZS00OTA5LTQ4N2QtYTEwYy01MTg2NTgyNGE3NDIiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjo1MH0=",
-      "start_time": "2023-12-14T19:00:00Z",
-      "end_time": "2023-12-14T22:30:00Z",
-      "title": "🃏 GOTAGA POKER NIGHT CHEZ @GOTAGA",
-      "canceled_until": null,
-      "category": {
-        "id": "488190",
-        "name": "Poker"
-      },
-      "is_recurring": false
-    },
-    {
       "id": "eyJzZWdtZW50SUQiOiJhMWNiMzQyNi01N2QwLTQ2YWYtYTljNi0xYzY5N2ZhMDAxMTUiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjo1MH0=",
       "start_time": "2023-12-15T13:00:00Z",
       "end_time": "2023-12-15T14:00:00Z",
@@ -241,6 +208,42 @@
       "id": "eyJzZWdtZW50SUQiOiJhMWNiMzQyNi01N2QwLTQ2YWYtYTljNi0xYzY5N2ZhMDAxMTUiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjoxfQ==",
       "start_time": "2024-01-05T13:00:00Z",
       "end_time": "2024-01-05T14:00:00Z",
+      "title": "🎙 PRÉ LIVE",
+      "canceled_until": null,
+      "category": {
+        "id": "509658",
+        "name": "Just Chatting"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiJkMjc5YTZhMi1mNjhlLTQ0NTktOGZlNS0yNWU3NmZiNWVmNzEiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjoyfQ==",
+      "start_time": "2024-01-08T18:30:00Z",
+      "end_time": "2024-01-08T19:30:00Z",
+      "title": "🎙 PRÉ LIVE",
+      "canceled_until": null,
+      "category": {
+        "id": "509658",
+        "name": "Just Chatting"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiJhMTI2NDdjMi00NzBlLTQyYWEtOTE1OC1kMTE0N2I0NWYxYTgiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjoyfQ==",
+      "start_time": "2024-01-09T19:00:00Z",
+      "end_time": "2024-01-09T21:30:00Z",
+      "title": "🍿 POPCORN AVEC AMINE, BAGZ & THOMAS DESEUR (INVITÉ : FRANÇOIS CIVIL)",
+      "canceled_until": null,
+      "category": {
+        "id": "417752",
+        "name": "Talk Shows & Podcasts"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiI5Y2I4ZWYzZi1jYWNkLTQwZjUtODYzNC0zZGIxYWRmZTkzNmIiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjoyfQ==",
+      "start_time": "2024-01-10T13:00:00Z",
+      "end_time": "2024-01-10T14:00:00Z",
       "title": "🎙 PRÉ LIVE",
       "canceled_until": null,
       "category": {
