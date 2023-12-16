@@ -13,18 +13,6 @@
   },
   "schedulers": [
     {
-      "id": "eyJzZWdtZW50SUQiOiI4NDllOWU5Zi0xYTc5LTQxNjUtOThjNS03ZmI1MzVhMjNhYTQiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjo1MH0=",
-      "start_time": "2023-12-15T19:00:00Z",
-      "end_time": "2023-12-15T21:00:00Z",
-      "title": "Laser Disc avec Leo (+ surprise) pour Floral Records (sur la chaine de Artefr)",
-      "canceled_until": null,
-      "category": {
-        "id": "417752",
-        "name": "Talk Shows & Podcasts"
-      },
-      "is_recurring": true
-    },
-    {
       "id": "eyJzZWdtZW50SUQiOiJmYjZiOWY0Ny05OTAyLTQwYTktOGMyYi0xZmE4Y2U0NmZmZTEiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjo1MX0=",
       "start_time": "2023-12-18T10:00:00Z",
       "end_time": "2023-12-18T18:00:00Z",
@@ -249,6 +237,18 @@
       "category": {
         "id": "338715930",
         "name": "Maitre des Fleurs"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiI3NmYzYmU1Ni04YTczLTQ0NGEtYmM4Yi03OTY2YTM0YjBiZDQiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjoyfQ==",
+      "start_time": "2024-01-09T10:00:00Z",
+      "end_time": "2024-01-09T14:00:00Z",
+      "title": "Lethal Compagny avec Wingo, Onu et Bytell",
+      "canceled_until": null,
+      "category": {
+        "id": "2085980140",
+        "name": "Lethal Company"
       },
       "is_recurring": true
     }
