@@ -7,28 +7,16 @@
     "broadcaster_type": "partner",
     "description": "",
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/3cdae7df-600c-4833-8dfe-8d2abc5a3b25-profile_image-300x300.png",
-    "offline_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/479cd528-e361-43a1-88b6-f40947c91b12-channel_offline_image-1920x1080.png",
+    "offline_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/15ac2b38-4507-4602-beb7-e6cf8aa83e35-channel_offline_image-1920x1080.png",
     "view_count": 0,
     "created_at": "2013-02-05T19:20:22Z"
   },
   "schedulers": [
     {
-      "id": "eyJzZWdtZW50SUQiOiJkMjc5YTZhMi1mNjhlLTQ0NTktOGZlNS0yNWU3NmZiNWVmNzEiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjo1MX0=",
-      "start_time": "2023-12-18T18:30:00Z",
-      "end_time": "2023-12-18T19:30:00Z",
-      "title": "🎙 PRÉ LIVE",
-      "canceled_until": null,
-      "category": {
-        "id": "509658",
-        "name": "Just Chatting"
-      },
-      "is_recurring": true
-    },
-    {
       "id": "eyJzZWdtZW50SUQiOiJhMTI2NDdjMi00NzBlLTQyYWEtOTE1OC1kMTE0N2I0NWYxYTgiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjo1MX0=",
       "start_time": "2023-12-19T19:00:00Z",
       "end_time": "2023-12-19T21:30:00Z",
-      "title": "🍿 POPCORN AVEC AMINE, BAGZ & THOMAS DESEUR (INVITÉ : FRANÇOIS CIVIL)",
+      "title": "🍿 POPCORN AVEC JIRAYA, ENJOYPHOENIX & SYLVQIN (INVITÉ : JERÔME NIEL)",
       "canceled_until": null,
       "category": {
         "id": "417752",
@@ -39,7 +27,7 @@
     {
       "id": "eyJzZWdtZW50SUQiOiI5Y2I4ZWYzZi1jYWNkLTQwZjUtODYzNC0zZGIxYWRmZTkzNmIiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjo1MX0=",
       "start_time": "2023-12-20T13:00:00Z",
-      "end_time": "2023-12-20T14:00:00Z",
+      "end_time": "2023-12-20T15:00:00Z",
       "title": "🎙 PRÉ LIVE",
       "canceled_until": null,
       "category": {
@@ -49,9 +37,21 @@
       "is_recurring": true
     },
     {
+      "id": "eyJzZWdtZW50SUQiOiI3MGM4YTI4OS1jZDgxLTQzYzQtOTBlMy1jNzlkYmVkMzllZGEiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjo1MX0=",
+      "start_time": "2023-12-20T15:00:00Z",
+      "end_time": "2023-12-20T18:00:00Z",
+      "title": "🔫 RETOUR DU SERGENT LA BAVURE ? AVEC LOWAN, JIJI & XARI",
+      "canceled_until": null,
+      "category": {
+        "id": "511701",
+        "name": "Ready or Not"
+      },
+      "is_recurring": false
+    },
+    {
       "id": "eyJzZWdtZW50SUQiOiJiZmRhZWYzNi1jNjc3LTRlODktOTgyZS04NjhmMTViZmFiMDQiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjo1MX0=",
-      "start_time": "2023-12-21T13:00:00Z",
-      "end_time": "2023-12-21T14:00:00Z",
+      "start_time": "2023-12-21T19:00:00Z",
+      "end_time": "2023-12-21T20:00:00Z",
       "title": "🎙 PRÉ LIVE ",
       "canceled_until": null,
       "category": {
@@ -61,11 +61,23 @@
       "is_recurring": true
     },
     {
+      "id": "eyJzZWdtZW50SUQiOiJjMjAzZTc0My1jMTQ2LTQ1NzMtOWQzMS0xY2M2OTQ0NGY1NzUiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjo1MX0=",
+      "start_time": "2023-12-21T20:00:00Z",
+      "end_time": "2023-12-21T23:00:00Z",
+      "title": "🏹 LA GROSSE SOIRÉE LEAGUE OF LEGENDS",
+      "canceled_until": null,
+      "category": {
+        "id": "21779",
+        "name": "League of Legends"
+      },
+      "is_recurring": false
+    },
+    {
       "id": "eyJzZWdtZW50SUQiOiJhMWNiMzQyNi01N2QwLTQ2YWYtYTljNi0xYzY5N2ZhMDAxMTUiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjo1MX0=",
       "start_time": "2023-12-22T13:00:00Z",
       "end_time": "2023-12-22T14:00:00Z",
       "title": "🎙 PRÉ LIVE",
-      "canceled_until": null,
+      "canceled_until": "2023-12-22T14:00:00Z",
       "category": {
         "id": "509658",
         "name": "Just Chatting"
@@ -88,7 +100,7 @@
       "id": "eyJzZWdtZW50SUQiOiJhMTI2NDdjMi00NzBlLTQyYWEtOTE1OC1kMTE0N2I0NWYxYTgiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjo1Mn0=",
       "start_time": "2023-12-26T19:00:00Z",
       "end_time": "2023-12-26T21:30:00Z",
-      "title": "🍿 POPCORN AVEC AMINE, BAGZ & THOMAS DESEUR (INVITÉ : FRANÇOIS CIVIL)",
+      "title": "🍿 POPCORN AVEC JIRAYA, ENJOYPHOENIX & SYLVQIN (INVITÉ : JERÔME NIEL)",
       "canceled_until": null,
       "category": {
         "id": "417752",
@@ -99,7 +111,7 @@
     {
       "id": "eyJzZWdtZW50SUQiOiI5Y2I4ZWYzZi1jYWNkLTQwZjUtODYzNC0zZGIxYWRmZTkzNmIiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjo1Mn0=",
       "start_time": "2023-12-27T13:00:00Z",
-      "end_time": "2023-12-27T14:00:00Z",
+      "end_time": "2023-12-27T15:00:00Z",
       "title": "🎙 PRÉ LIVE",
       "canceled_until": null,
       "category": {
@@ -110,8 +122,8 @@
     },
     {
       "id": "eyJzZWdtZW50SUQiOiJiZmRhZWYzNi1jNjc3LTRlODktOTgyZS04NjhmMTViZmFiMDQiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjo1Mn0=",
-      "start_time": "2023-12-28T13:00:00Z",
-      "end_time": "2023-12-28T14:00:00Z",
+      "start_time": "2023-12-28T19:00:00Z",
+      "end_time": "2023-12-28T20:00:00Z",
       "title": "🎙 PRÉ LIVE ",
       "canceled_until": null,
       "category": {
@@ -148,7 +160,7 @@
       "id": "eyJzZWdtZW50SUQiOiJhMTI2NDdjMi00NzBlLTQyYWEtOTE1OC1kMTE0N2I0NWYxYTgiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjoxfQ==",
       "start_time": "2024-01-02T19:00:00Z",
       "end_time": "2024-01-02T21:30:00Z",
-      "title": "🍿 POPCORN AVEC AMINE, BAGZ & THOMAS DESEUR (INVITÉ : FRANÇOIS CIVIL)",
+      "title": "🍿 POPCORN AVEC JIRAYA, ENJOYPHOENIX & SYLVQIN (INVITÉ : JERÔME NIEL)",
       "canceled_until": null,
       "category": {
         "id": "417752",
@@ -159,7 +171,7 @@
     {
       "id": "eyJzZWdtZW50SUQiOiI5Y2I4ZWYzZi1jYWNkLTQwZjUtODYzNC0zZGIxYWRmZTkzNmIiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjoxfQ==",
       "start_time": "2024-01-03T13:00:00Z",
-      "end_time": "2024-01-03T14:00:00Z",
+      "end_time": "2024-01-03T15:00:00Z",
       "title": "🎙 PRÉ LIVE",
       "canceled_until": null,
       "category": {
@@ -170,8 +182,8 @@
     },
     {
       "id": "eyJzZWdtZW50SUQiOiJiZmRhZWYzNi1jNjc3LTRlODktOTgyZS04NjhmMTViZmFiMDQiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjoxfQ==",
-      "start_time": "2024-01-04T13:00:00Z",
-      "end_time": "2024-01-04T14:00:00Z",
+      "start_time": "2024-01-04T19:00:00Z",
+      "end_time": "2024-01-04T20:00:00Z",
       "title": "🎙 PRÉ LIVE ",
       "canceled_until": null,
       "category": {
@@ -208,7 +220,7 @@
       "id": "eyJzZWdtZW50SUQiOiJhMTI2NDdjMi00NzBlLTQyYWEtOTE1OC1kMTE0N2I0NWYxYTgiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjoyfQ==",
       "start_time": "2024-01-09T19:00:00Z",
       "end_time": "2024-01-09T21:30:00Z",
-      "title": "🍿 POPCORN AVEC AMINE, BAGZ & THOMAS DESEUR (INVITÉ : FRANÇOIS CIVIL)",
+      "title": "🍿 POPCORN AVEC JIRAYA, ENJOYPHOENIX & SYLVQIN (INVITÉ : JERÔME NIEL)",
       "canceled_until": null,
       "category": {
         "id": "417752",
@@ -219,7 +231,7 @@
     {
       "id": "eyJzZWdtZW50SUQiOiI5Y2I4ZWYzZi1jYWNkLTQwZjUtODYzNC0zZGIxYWRmZTkzNmIiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjoyfQ==",
       "start_time": "2024-01-10T13:00:00Z",
-      "end_time": "2024-01-10T14:00:00Z",
+      "end_time": "2024-01-10T15:00:00Z",
       "title": "🎙 PRÉ LIVE",
       "canceled_until": null,
       "category": {
@@ -230,21 +242,9 @@
     },
     {
       "id": "eyJzZWdtZW50SUQiOiJiZmRhZWYzNi1jNjc3LTRlODktOTgyZS04NjhmMTViZmFiMDQiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjoyfQ==",
-      "start_time": "2024-01-11T13:00:00Z",
-      "end_time": "2024-01-11T14:00:00Z",
+      "start_time": "2024-01-11T19:00:00Z",
+      "end_time": "2024-01-11T20:00:00Z",
       "title": "🎙 PRÉ LIVE ",
-      "canceled_until": null,
-      "category": {
-        "id": "509658",
-        "name": "Just Chatting"
-      },
-      "is_recurring": true
-    },
-    {
-      "id": "eyJzZWdtZW50SUQiOiJhMWNiMzQyNi01N2QwLTQ2YWYtYTljNi0xYzY5N2ZhMDAxMTUiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjoyfQ==",
-      "start_time": "2024-01-12T13:00:00Z",
-      "end_time": "2024-01-12T14:00:00Z",
-      "title": "🎙 PRÉ LIVE",
       "canceled_until": null,
       "category": {
         "id": "509658",
