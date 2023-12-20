@@ -13,42 +13,6 @@
   },
   "schedulers": [
     {
-      "id": "eyJzZWdtZW50SUQiOiI3NmYzYmU1Ni04YTczLTQ0NGEtYmM4Yi03OTY2YTM0YjBiZDQiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjo1MX0=",
-      "start_time": "2023-12-19T10:00:00Z",
-      "end_time": "2023-12-19T14:00:00Z",
-      "title": "Lycans avé les copains",
-      "canceled_until": null,
-      "category": {
-        "id": "1494074023",
-        "name": "Lycans"
-      },
-      "is_recurring": true
-    },
-    {
-      "id": "eyJzZWdtZW50SUQiOiI1NmRmNGMzNi1mNzQxLTRmMWQtOTcxZi05OWU0OTA2OTA3NzQiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjo1MX0=",
-      "start_time": "2023-12-19T14:00:00Z",
-      "end_time": "2023-12-19T16:00:00Z",
-      "title": "Découverte Oh Baby! Kart ",
-      "canceled_until": null,
-      "category": {
-        "id": "499686378",
-        "name": "Oh Baby! Kart"
-      },
-      "is_recurring": true
-    },
-    {
-      "id": "eyJzZWdtZW50SUQiOiI0ZTQ3YTRkMi1hZjQ4LTQ3MzYtOTI1OC0zMzhmYTczZWNlMmIiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjo1MX0=",
-      "start_time": "2023-12-19T16:00:00Z",
-      "end_time": "2023-12-19T20:00:00Z",
-      "title": "WoW SoD, raid avec la team puis PVP",
-      "canceled_until": null,
-      "category": {
-        "id": "18122",
-        "name": "World of Warcraft"
-      },
-      "is_recurring": true
-    },
-    {
       "id": "eyJzZWdtZW50SUQiOiIzMzBhZDczYi00Y2VkLTRkMTktODBlNi0zMzgzMDdmOWQ5MWMiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjo1MX0=",
       "start_time": "2023-12-20T10:00:00Z",
       "end_time": "2023-12-20T16:00:00Z",
@@ -249,6 +213,42 @@
       "category": {
         "id": "499686378",
         "name": "Oh Baby! Kart"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiI0ZTQ3YTRkMi1hZjQ4LTQ3MzYtOTI1OC0zMzhmYTczZWNlMmIiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjoxfQ==",
+      "start_time": "2024-01-02T16:00:00Z",
+      "end_time": "2024-01-02T20:00:00Z",
+      "title": "WoW SoD, raid avec la team puis PVP",
+      "canceled_until": null,
+      "category": {
+        "id": "18122",
+        "name": "World of Warcraft"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiIzMzBhZDczYi00Y2VkLTRkMTktODBlNi0zMzgzMDdmOWQ5MWMiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjoxfQ==",
+      "start_time": "2024-01-03T10:00:00Z",
+      "end_time": "2024-01-03T16:00:00Z",
+      "title": "Zelda TOTK Slowrun direction 100%",
+      "canceled_until": null,
+      "category": {
+        "id": "512998",
+        "name": "The Legend of Zelda: Tears of the Kingdom"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiIwMGM5MTFhOS1hZTM4LTQ0Y2EtYmE4My04N2I4MWYwYjI2MDMiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjoxfQ==",
+      "start_time": "2024-01-03T19:00:00Z",
+      "end_time": "2024-01-03T23:00:00Z",
+      "title": "Maître des fleurs spécial avec Ultia !",
+      "canceled_until": null,
+      "category": {
+        "id": "338715930",
+        "name": "Maitre des Fleurs"
       },
       "is_recurring": true
     }
