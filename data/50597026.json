@@ -13,30 +13,6 @@
   },
   "schedulers": [
     {
-      "id": "eyJzZWdtZW50SUQiOiIzMzBhZDczYi00Y2VkLTRkMTktODBlNi0zMzgzMDdmOWQ5MWMiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjo1MX0=",
-      "start_time": "2023-12-20T10:00:00Z",
-      "end_time": "2023-12-20T16:00:00Z",
-      "title": "Zelda TOTK Slowrun direction 100%",
-      "canceled_until": null,
-      "category": {
-        "id": "512998",
-        "name": "The Legend of Zelda: Tears of the Kingdom"
-      },
-      "is_recurring": true
-    },
-    {
-      "id": "eyJzZWdtZW50SUQiOiIwMGM5MTFhOS1hZTM4LTQ0Y2EtYmE4My04N2I4MWYwYjI2MDMiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjo1MX0=",
-      "start_time": "2023-12-20T19:00:00Z",
-      "end_time": "2023-12-20T23:00:00Z",
-      "title": "Maître des fleurs spécial avec Ultia !",
-      "canceled_until": null,
-      "category": {
-        "id": "338715930",
-        "name": "Maitre des Fleurs"
-      },
-      "is_recurring": true
-    },
-    {
       "id": "eyJzZWdtZW50SUQiOiI4ZWRkZWJmNS0xNDk1LTQzZGEtOGQ0NC0xMGY2ZGY2Yzc3MjgiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjo1MX0=",
       "start_time": "2023-12-21T12:00:00Z",
       "end_time": "2023-12-21T16:00:00Z",
@@ -249,6 +225,30 @@
       "category": {
         "id": "338715930",
         "name": "Maitre des Fleurs"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiI4ZWRkZWJmNS0xNDk1LTQzZGEtOGQ0NC0xMGY2ZGY2Yzc3MjgiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjoxfQ==",
+      "start_time": "2024-01-04T12:00:00Z",
+      "end_time": "2024-01-04T16:00:00Z",
+      "title": "Code Names avé les copains",
+      "canceled_until": null,
+      "category": {
+        "id": "508509",
+        "name": "Codenames"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiI3NGRhMWZjZi1lMTEwLTQzNTAtODkwNi1mZmY3MDY2OGM3ZGUiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjoxfQ==",
+      "start_time": "2024-01-04T16:00:00Z",
+      "end_time": "2024-01-04T18:00:00Z",
+      "title": "Découverte The Invincible",
+      "canceled_until": null,
+      "category": {
+        "id": "739179365",
+        "name": "The Invincible"
       },
       "is_recurring": true
     }
