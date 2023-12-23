@@ -13,18 +13,6 @@
   },
   "schedulers": [
     {
-      "id": "eyJzZWdtZW50SUQiOiI4NDllOWU5Zi0xYTc5LTQxNjUtOThjNS03ZmI1MzVhMjNhYTQiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjo1MX0=",
-      "start_time": "2023-12-22T12:00:00Z",
-      "end_time": "2023-12-22T17:00:00Z",
-      "title": "YOLO",
-      "canceled_until": null,
-      "category": {
-        "id": "509658",
-        "name": "Just Chatting"
-      },
-      "is_recurring": true
-    },
-    {
       "id": "eyJzZWdtZW50SUQiOiJmYjZiOWY0Ny05OTAyLTQwYTktOGMyYi0xZmE4Y2U0NmZmZTEiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjo1Mn0=",
       "start_time": "2023-12-25T10:00:00Z",
       "end_time": "2023-12-25T18:00:00Z",
@@ -249,6 +237,18 @@
       "category": {
         "id": "338715930",
         "name": "Maitre des Fleurs"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiI3NmYzYmU1Ni04YTczLTQ0NGEtYmM4Yi03OTY2YTM0YjBiZDQiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjoyfQ==",
+      "start_time": "2024-01-09T10:00:00Z",
+      "end_time": "2024-01-09T14:00:00Z",
+      "title": "Lycans avé les copains",
+      "canceled_until": null,
+      "category": {
+        "id": "1494074023",
+        "name": "Lycans"
       },
       "is_recurring": true
     }
