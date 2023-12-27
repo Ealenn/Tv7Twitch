@@ -13,18 +13,6 @@
   },
   "schedulers": [
     {
-      "id": "eyJzZWdtZW50SUQiOiIwNmJiMjA3Ni1jMTAyLTQ4NTMtOWNlYy1mN2QxNzAwYTcxYWMiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjo1Mn0=",
-      "start_time": "2023-12-26T12:00:00Z",
-      "end_time": "2023-12-26T17:00:00Z",
-      "title": "YOLO",
-      "canceled_until": null,
-      "category": {
-        "id": "509658",
-        "name": "Just Chatting"
-      },
-      "is_recurring": true
-    },
-    {
       "id": "eyJzZWdtZW50SUQiOiIxNzUwN2NmNi1iMmNmLTRhNjMtYTM0ZC1hZTYzZDY2Njg2NDAiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjo1Mn0=",
       "start_time": "2023-12-27T10:00:00Z",
       "end_time": "2023-12-27T17:00:00Z",
@@ -38,8 +26,8 @@
     },
     {
       "id": "eyJzZWdtZW50SUQiOiI5YzU0MGQzNS1iZDNkLTRmYjUtYjM5ZS0zMTEzMzFmODQ4YmYiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjo1Mn0=",
-      "start_time": "2023-12-28T10:00:00Z",
-      "end_time": "2023-12-28T17:00:00Z",
+      "start_time": "2023-12-28T12:00:00Z",
+      "end_time": "2023-12-28T19:00:00Z",
       "title": "YOLO",
       "canceled_until": null,
       "category": {
@@ -50,7 +38,7 @@
     },
     {
       "id": "eyJzZWdtZW50SUQiOiIwNmJiMjA3Ni1jMTAyLTQ4NTMtOWNlYy1mN2QxNzAwYTcxYWMiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjoxfQ==",
-      "start_time": "2024-01-02T12:00:00Z",
+      "start_time": "2024-01-02T10:00:00Z",
       "end_time": "2024-01-02T17:00:00Z",
       "title": "YOLO",
       "canceled_until": null,
@@ -74,8 +62,8 @@
     },
     {
       "id": "eyJzZWdtZW50SUQiOiI5YzU0MGQzNS1iZDNkLTRmYjUtYjM5ZS0zMTEzMzFmODQ4YmYiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjoxfQ==",
-      "start_time": "2024-01-04T10:00:00Z",
-      "end_time": "2024-01-04T17:00:00Z",
+      "start_time": "2024-01-04T12:00:00Z",
+      "end_time": "2024-01-04T19:00:00Z",
       "title": "YOLO",
       "canceled_until": null,
       "category": {
@@ -86,7 +74,7 @@
     },
     {
       "id": "eyJzZWdtZW50SUQiOiIwNmJiMjA3Ni1jMTAyLTQ4NTMtOWNlYy1mN2QxNzAwYTcxYWMiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjoyfQ==",
-      "start_time": "2024-01-09T12:00:00Z",
+      "start_time": "2024-01-09T10:00:00Z",
       "end_time": "2024-01-09T17:00:00Z",
       "title": "YOLO",
       "canceled_until": null,
@@ -110,8 +98,8 @@
     },
     {
       "id": "eyJzZWdtZW50SUQiOiI5YzU0MGQzNS1iZDNkLTRmYjUtYjM5ZS0zMTEzMzFmODQ4YmYiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjoyfQ==",
-      "start_time": "2024-01-11T10:00:00Z",
-      "end_time": "2024-01-11T17:00:00Z",
+      "start_time": "2024-01-11T12:00:00Z",
+      "end_time": "2024-01-11T19:00:00Z",
       "title": "YOLO",
       "canceled_until": null,
       "category": {
@@ -122,7 +110,7 @@
     },
     {
       "id": "eyJzZWdtZW50SUQiOiIwNmJiMjA3Ni1jMTAyLTQ4NTMtOWNlYy1mN2QxNzAwYTcxYWMiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjozfQ==",
-      "start_time": "2024-01-16T12:00:00Z",
+      "start_time": "2024-01-16T10:00:00Z",
       "end_time": "2024-01-16T17:00:00Z",
       "title": "YOLO",
       "canceled_until": null,
@@ -146,8 +134,8 @@
     },
     {
       "id": "eyJzZWdtZW50SUQiOiI5YzU0MGQzNS1iZDNkLTRmYjUtYjM5ZS0zMTEzMzFmODQ4YmYiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjozfQ==",
-      "start_time": "2024-01-18T10:00:00Z",
-      "end_time": "2024-01-18T17:00:00Z",
+      "start_time": "2024-01-18T12:00:00Z",
+      "end_time": "2024-01-18T19:00:00Z",
       "title": "YOLO",
       "canceled_until": null,
       "category": {
@@ -158,7 +146,7 @@
     },
     {
       "id": "eyJzZWdtZW50SUQiOiIwNmJiMjA3Ni1jMTAyLTQ4NTMtOWNlYy1mN2QxNzAwYTcxYWMiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjo0fQ==",
-      "start_time": "2024-01-23T12:00:00Z",
+      "start_time": "2024-01-23T10:00:00Z",
       "end_time": "2024-01-23T17:00:00Z",
       "title": "YOLO",
       "canceled_until": null,
@@ -182,8 +170,8 @@
     },
     {
       "id": "eyJzZWdtZW50SUQiOiI5YzU0MGQzNS1iZDNkLTRmYjUtYjM5ZS0zMTEzMzFmODQ4YmYiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjo0fQ==",
-      "start_time": "2024-01-25T10:00:00Z",
-      "end_time": "2024-01-25T17:00:00Z",
+      "start_time": "2024-01-25T12:00:00Z",
+      "end_time": "2024-01-25T19:00:00Z",
       "title": "YOLO",
       "canceled_until": null,
       "category": {
@@ -194,7 +182,7 @@
     },
     {
       "id": "eyJzZWdtZW50SUQiOiIwNmJiMjA3Ni1jMTAyLTQ4NTMtOWNlYy1mN2QxNzAwYTcxYWMiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjo1fQ==",
-      "start_time": "2024-01-30T12:00:00Z",
+      "start_time": "2024-01-30T10:00:00Z",
       "end_time": "2024-01-30T17:00:00Z",
       "title": "YOLO",
       "canceled_until": null,
@@ -218,8 +206,8 @@
     },
     {
       "id": "eyJzZWdtZW50SUQiOiI5YzU0MGQzNS1iZDNkLTRmYjUtYjM5ZS0zMTEzMzFmODQ4YmYiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjo1fQ==",
-      "start_time": "2024-02-01T10:00:00Z",
-      "end_time": "2024-02-01T17:00:00Z",
+      "start_time": "2024-02-01T12:00:00Z",
+      "end_time": "2024-02-01T19:00:00Z",
       "title": "YOLO",
       "canceled_until": null,
       "category": {
@@ -230,7 +218,7 @@
     },
     {
       "id": "eyJzZWdtZW50SUQiOiIwNmJiMjA3Ni1jMTAyLTQ4NTMtOWNlYy1mN2QxNzAwYTcxYWMiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjo2fQ==",
-      "start_time": "2024-02-06T12:00:00Z",
+      "start_time": "2024-02-06T10:00:00Z",
       "end_time": "2024-02-06T17:00:00Z",
       "title": "YOLO",
       "canceled_until": null,
@@ -249,6 +237,18 @@
       "category": {
         "id": "512998",
         "name": "The Legend of Zelda: Tears of the Kingdom"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiI5YzU0MGQzNS1iZDNkLTRmYjUtYjM5ZS0zMTEzMzFmODQ4YmYiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjo2fQ==",
+      "start_time": "2024-02-08T12:00:00Z",
+      "end_time": "2024-02-08T19:00:00Z",
+      "title": "YOLO",
+      "canceled_until": null,
+      "category": {
+        "id": "509658",
+        "name": "Just Chatting"
       },
       "is_recurring": true
     }
