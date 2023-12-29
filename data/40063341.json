@@ -13,18 +13,6 @@
   },
   "schedulers": [
     {
-      "id": "eyJzZWdtZW50SUQiOiJiZmRhZWYzNi1jNjc3LTRlODktOTgyZS04NjhmMTViZmFiMDQiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjo1Mn0=",
-      "start_time": "2023-12-28T19:00:00Z",
-      "end_time": "2023-12-28T20:00:00Z",
-      "title": "🎙 PRÉ LIVE ",
-      "canceled_until": null,
-      "category": {
-        "id": "509658",
-        "name": "Just Chatting"
-      },
-      "is_recurring": true
-    },
-    {
       "id": "eyJzZWdtZW50SUQiOiJhMWNiMzQyNi01N2QwLTQ2YWYtYTljNi0xYzY5N2ZhMDAxMTUiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjo1Mn0=",
       "start_time": "2023-12-29T13:00:00Z",
       "end_time": "2023-12-29T14:00:00Z",
@@ -245,6 +233,18 @@
       "start_time": "2024-01-24T13:00:00Z",
       "end_time": "2024-01-24T15:00:00Z",
       "title": "🎙 PRÉ LIVE",
+      "canceled_until": null,
+      "category": {
+        "id": "509658",
+        "name": "Just Chatting"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiJiZmRhZWYzNi1jNjc3LTRlODktOTgyZS04NjhmMTViZmFiMDQiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjo0fQ==",
+      "start_time": "2024-01-25T19:00:00Z",
+      "end_time": "2024-01-25T20:00:00Z",
+      "title": "🎙 PRÉ LIVE ",
       "canceled_until": null,
       "category": {
         "id": "509658",

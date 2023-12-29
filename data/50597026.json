@@ -13,18 +13,6 @@
   },
   "schedulers": [
     {
-      "id": "eyJzZWdtZW50SUQiOiI5YzU0MGQzNS1iZDNkLTRmYjUtYjM5ZS0zMTEzMzFmODQ4YmYiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjo1Mn0=",
-      "start_time": "2023-12-28T12:00:00Z",
-      "end_time": "2023-12-28T19:00:00Z",
-      "title": "YOLO",
-      "canceled_until": null,
-      "category": {
-        "id": "509658",
-        "name": "Just Chatting"
-      },
-      "is_recurring": true
-    },
-    {
       "id": "eyJzZWdtZW50SUQiOiIwNmJiMjA3Ni1jMTAyLTQ4NTMtOWNlYy1mN2QxNzAwYTcxYWMiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjoxfQ==",
       "start_time": "2024-01-02T10:00:00Z",
       "end_time": "2024-01-02T17:00:00Z",
@@ -249,6 +237,18 @@
       "category": {
         "id": "509658",
         "name": "Just Chatting"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiIxNzUwN2NmNi1iMmNmLTRhNjMtYTM0ZC1hZTYzZDY2Njg2NDAiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjo3fQ==",
+      "start_time": "2024-02-14T10:00:00Z",
+      "end_time": "2024-02-14T17:00:00Z",
+      "title": "Slowrun 100% Zelda TOTK",
+      "canceled_until": null,
+      "category": {
+        "id": "512998",
+        "name": "The Legend of Zelda: Tears of the Kingdom"
       },
       "is_recurring": true
     }
