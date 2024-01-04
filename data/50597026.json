@@ -13,30 +13,6 @@
   },
   "schedulers": [
     {
-      "id": "eyJzZWdtZW50SUQiOiI2NjdhYjYyMS1mOGJkLTQyNGUtYTYyZi0wMjY0NTVjNWZkYjkiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjoxfQ==",
-      "start_time": "2024-01-03T10:00:00Z",
-      "end_time": "2024-01-03T15:00:00Z",
-      "title": "Slowrun 100%",
-      "canceled_until": null,
-      "category": {
-        "id": "512998",
-        "name": "The Legend of Zelda: Tears of the Kingdom"
-      },
-      "is_recurring": true
-    },
-    {
-      "id": "eyJzZWdtZW50SUQiOiIyN2M2NjQyMC1hNzZjLTQ2ZWMtYmMyMS1kNGY3ZDkyMDMzODUiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjoxfQ==",
-      "start_time": "2024-01-03T17:00:00Z",
-      "end_time": "2024-01-03T20:00:00Z",
-      "title": "Maitre des Fleurs spécial (je joue et Céline présente omg)",
-      "canceled_until": null,
-      "category": {
-        "id": "338715930",
-        "name": "Maitre des Fleurs"
-      },
-      "is_recurring": false
-    },
-    {
       "id": "eyJzZWdtZW50SUQiOiI5MWE5ZGJlYi0xMDg4LTQyOTMtOTcxNC1jNDBjMmFmZmU2ZGEiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjoxfQ==",
       "start_time": "2024-01-04T12:00:00Z",
       "end_time": "2024-01-04T18:00:00Z",
@@ -214,6 +190,24 @@
         "id": "512998",
         "name": "The Legend of Zelda: Tears of the Kingdom"
       },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiI5MWE5ZGJlYi0xMDg4LTQyOTMtOTcxNC1jNDBjMmFmZmU2ZGEiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjo3fQ==",
+      "start_time": "2024-02-15T12:00:00Z",
+      "end_time": "2024-02-15T18:00:00Z",
+      "title": "Live trop bien",
+      "canceled_until": null,
+      "category": null,
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiJhY2JiZDE5MS05NDBkLTQxMGQtYWNhZS02NzJlZjA4OWIyN2QiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjo3fQ==",
+      "start_time": "2024-02-16T10:00:00Z",
+      "end_time": "2024-02-16T16:00:00Z",
+      "title": "Live incroyable",
+      "canceled_until": null,
+      "category": null,
       "is_recurring": true
     }
   ]

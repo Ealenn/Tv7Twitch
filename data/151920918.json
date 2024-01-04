@@ -23,18 +23,6 @@
         "name": "Science & Technology"
       },
       "is_recurring": false
-    },
-    {
-      "id": "eyJzZWdtZW50SUQiOiJlMDM2YjcyNC1kNDUwLTRkY2ItYWU3My1lZGU4MDgyMWNiZGIiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjoyfQ==",
-      "start_time": "2024-01-11T20:00:00Z",
-      "end_time": "2024-01-11T21:30:00Z",
-      "title": "VIPER de la NASA:\"Watch party\" de la construcción del explorador robótico",
-      "canceled_until": null,
-      "category": {
-        "id": "509670",
-        "name": "Science & Technology"
-      },
-      "is_recurring": false
     }
   ]
 }
