@@ -13,6 +13,18 @@
   },
   "schedulers": [
     {
+      "id": "eyJzZWdtZW50SUQiOiIxNjA3YjJhNy1mMTE3LTQ2YmItOTQ4My1jNzI2ODBmMDYyMTciLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjoyfQ==",
+      "start_time": "2024-01-08T06:30:00Z",
+      "end_time": "2024-01-08T08:30:00Z",
+      "title": "Launching Astrobotic Peregrine Mission 1 to the Moon",
+      "canceled_until": null,
+      "category": {
+        "id": "509670",
+        "name": "Science & Technology"
+      },
+      "is_recurring": false
+    },
+    {
       "id": "eyJzZWdtZW50SUQiOiIzMzJhZTA0ZS01ZjI5LTQ4NGUtOGJmNS0yMDU1MjBlOGExZTMiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjoyfQ==",
       "start_time": "2024-01-10T20:00:00Z",
       "end_time": "2024-01-10T21:30:00Z",
