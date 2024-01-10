@@ -7,23 +7,11 @@
     "broadcaster_type": "partner",
     "description": "",
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/3cdae7df-600c-4833-8dfe-8d2abc5a3b25-profile_image-300x300.png",
-    "offline_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/0c509101-e9f6-46e8-8ffe-5407377b1b71-channel_offline_image-1920x1080.png",
+    "offline_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/985e0b87-8eed-4263-b3ef-3c9c9b248d07-channel_offline_image-1920x1080.png",
     "view_count": 0,
     "created_at": "2013-02-05T19:20:22Z"
   },
   "schedulers": [
-    {
-      "id": "eyJzZWdtZW50SUQiOiJhMTI2NDdjMi00NzBlLTQyYWEtOTE1OC1kMTE0N2I0NWYxYTgiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjoyfQ==",
-      "start_time": "2024-01-09T19:00:00Z",
-      "end_time": "2024-01-09T21:30:00Z",
-      "title": "🍿 POPCORN AVEC JOËL, JIGMÉ & ULTIA",
-      "canceled_until": null,
-      "category": {
-        "id": "417752",
-        "name": "Talk Shows & Podcasts"
-      },
-      "is_recurring": true
-    },
     {
       "id": "eyJzZWdtZW50SUQiOiI5Y2I4ZWYzZi1jYWNkLTQwZjUtODYzNC0zZGIxYWRmZTkzNmIiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjoyfQ==",
       "start_time": "2024-01-10T15:00:00Z",
@@ -245,6 +233,18 @@
       "start_time": "2024-02-01T13:00:00Z",
       "end_time": "2024-02-01T13:30:00Z",
       "title": "🎙 PRÉ LIVE ",
+      "canceled_until": null,
+      "category": {
+        "id": "509658",
+        "name": "Just Chatting"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiJhMWNiMzQyNi01N2QwLTQ2YWYtYTljNi0xYzY5N2ZhMDAxMTUiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjo1fQ==",
+      "start_time": "2024-02-02T13:00:00Z",
+      "end_time": "2024-02-02T14:00:00Z",
+      "title": "🎙 PRÉ LIVE",
       "canceled_until": null,
       "category": {
         "id": "509658",
