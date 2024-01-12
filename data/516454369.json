@@ -13,18 +13,6 @@
   },
   "schedulers": [
     {
-      "id": "eyJzZWdtZW50SUQiOiJlNDA1YzdjMS04M2Y2LTQ3MTYtOWI4NS01OGEyNWFlYjU5NDEiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjoyfQ==",
-      "start_time": "2024-01-11T11:00:00Z",
-      "end_time": "2024-01-11T12:30:00Z",
-      "title": "Webb : deux ans plus tard",
-      "canceled_until": null,
-      "category": {
-        "id": "509670",
-        "name": "Science & Technology"
-      },
-      "is_recurring": false
-    },
-    {
       "id": "eyJzZWdtZW50SUQiOiIyYjkxZDhmMS0zNDBiLTQwM2MtYTg0Ni1jZTFjY2UwMDkzMWMiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjo0fQ==",
       "start_time": "2024-01-24T15:30:00Z",
       "end_time": "2024-01-24T17:00:00Z",
