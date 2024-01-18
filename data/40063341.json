@@ -13,30 +13,6 @@
   },
   "schedulers": [
     {
-      "id": "eyJzZWdtZW50SUQiOiI5Y2I4ZWYzZi1jYWNkLTQwZjUtODYzNC0zZGIxYWRmZTkzNmIiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjozfQ==",
-      "start_time": "2024-01-17T13:00:00Z",
-      "end_time": "2024-01-17T14:00:00Z",
-      "title": "🎙 PRÉ LIVE",
-      "canceled_until": null,
-      "category": {
-        "id": "509658",
-        "name": "Just Chatting"
-      },
-      "is_recurring": true
-    },
-    {
-      "id": "eyJzZWdtZW50SUQiOiI2NGI0YWFjYy1jOGU0LTQxY2QtYWU1My0zNTMwMzkyZjJmOTAiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjozfQ==",
-      "start_time": "2024-01-17T14:00:00Z",
-      "end_time": "2024-01-17T18:00:00Z",
-      "title": "⚽️ MERCATO XXL",
-      "canceled_until": null,
-      "category": {
-        "id": "2091165871",
-        "name": "Football Manager 2024"
-      },
-      "is_recurring": false
-    },
-    {
       "id": "eyJzZWdtZW50SUQiOiJiZmRhZWYzNi1jNjc3LTRlODktOTgyZS04NjhmMTViZmFiMDQiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjozfQ==",
       "start_time": "2024-01-18T18:30:00Z",
       "end_time": "2024-01-18T19:30:00Z",
@@ -244,6 +220,30 @@
       "id": "eyJzZWdtZW50SUQiOiI5Y2I4ZWYzZi1jYWNkLTQwZjUtODYzNC0zZGIxYWRmZTkzNmIiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjo2fQ==",
       "start_time": "2024-02-07T13:00:00Z",
       "end_time": "2024-02-07T14:00:00Z",
+      "title": "🎙 PRÉ LIVE",
+      "canceled_until": null,
+      "category": {
+        "id": "509658",
+        "name": "Just Chatting"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiJiZmRhZWYzNi1jNjc3LTRlODktOTgyZS04NjhmMTViZmFiMDQiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjo2fQ==",
+      "start_time": "2024-02-08T18:30:00Z",
+      "end_time": "2024-02-08T19:30:00Z",
+      "title": "🎙 PRÉ LIVE ",
+      "canceled_until": null,
+      "category": {
+        "id": "509658",
+        "name": "Just Chatting"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiJhMWNiMzQyNi01N2QwLTQ2YWYtYTljNi0xYzY5N2ZhMDAxMTUiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjo2fQ==",
+      "start_time": "2024-02-09T13:00:00Z",
+      "end_time": "2024-02-09T14:00:00Z",
       "title": "🎙 PRÉ LIVE",
       "canceled_until": null,
       "category": {
