@@ -13,18 +13,6 @@
   },
   "schedulers": [
     {
-      "id": "eyJzZWdtZW50SUQiOiJiYjNiMjQ2MC02Y2YyLTRhZWYtOGM5ZS1jYzQ1MWE4YTZiOGIiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjozfQ==",
-      "start_time": "2024-01-18T12:00:00Z",
-      "end_time": "2024-01-18T17:00:00Z",
-      "title": "Suite de Life is Strange !",
-      "canceled_until": null,
-      "category": {
-        "id": "461389",
-        "name": "Life is Strange"
-      },
-      "is_recurring": true
-    },
-    {
       "id": "eyJzZWdtZW50SUQiOiIxM2Q2MmUzYy02ZjRmLTQ3YjMtOGFkOS1lNmRmN2M4OTlmNTMiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjozfQ==",
       "start_time": "2024-01-19T10:00:00Z",
       "end_time": "2024-01-19T16:00:00Z",
@@ -249,6 +237,18 @@
       "category": {
         "id": "338715930",
         "name": "Maitre des Fleurs"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiI5N2M4YTZmMi00NTE0LTQ2Y2YtYTUwNi0xMTM3ODljOTEwMjIiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjo2fQ==",
+      "start_time": "2024-02-06T10:00:00Z",
+      "end_time": "2024-02-06T13:00:00Z",
+      "title": "Lycans avé les copains !",
+      "canceled_until": null,
+      "category": {
+        "id": "1494074023",
+        "name": "Lycans"
       },
       "is_recurring": true
     }
