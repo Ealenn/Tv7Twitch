@@ -13,30 +13,6 @@
   },
   "schedulers": [
     {
-      "id": "eyJzZWdtZW50SUQiOiIxM2Q2MmUzYy02ZjRmLTQ3YjMtOGFkOS1lNmRmN2M4OTlmNTMiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjozfQ==",
-      "start_time": "2024-01-19T10:00:00Z",
-      "end_time": "2024-01-19T16:00:00Z",
-      "title": "Suite de Life is Strange !",
-      "canceled_until": null,
-      "category": {
-        "id": "461389",
-        "name": "Life is Strange"
-      },
-      "is_recurring": true
-    },
-    {
-      "id": "eyJzZWdtZW50SUQiOiJjOWZlM2Y0My00YjVmLTRiMjAtYjM0ZS01NTA0MjUxMWQzMTAiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjozfQ==",
-      "start_time": "2024-01-19T19:00:00Z",
-      "end_time": "2024-01-19T23:00:00Z",
-      "title": "Tournoi de DFG sur Lethal Company !",
-      "canceled_until": null,
-      "category": {
-        "id": "2085980140",
-        "name": "Lethal Company"
-      },
-      "is_recurring": true
-    },
-    {
       "id": "eyJzZWdtZW50SUQiOiI1NDYzNDM1ZC0zOTI3LTQ2NmQtOTM5NC1jYzhkMDQ0NjQ2NzIiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjo0fQ==",
       "start_time": "2024-01-22T10:00:00Z",
       "end_time": "2024-01-22T17:00:00Z",
@@ -249,6 +225,30 @@
       "category": {
         "id": "1494074023",
         "name": "Lycans"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiI4NjNhMTk5Yy01M2ZlLTQ0OGItODI0Ni01NGUyYjkxMmZkODYiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjo2fQ==",
+      "start_time": "2024-02-06T13:00:00Z",
+      "end_time": "2024-02-06T16:00:00Z",
+      "title": "Découverte du nouveau Prince of Persia : The lost Crown",
+      "canceled_until": null,
+      "category": {
+        "id": "95777581",
+        "name": "Prince of Persia: The Lost Crown"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiJlNTQwMWVlMi05NjFmLTQ2ZjYtODFlYi02MjU2NDAzNzc1ZjIiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjo2fQ==",
+      "start_time": "2024-02-06T16:00:00Z",
+      "end_time": "2024-02-06T20:00:00Z",
+      "title": "SOD SOD SOD ",
+      "canceled_until": null,
+      "category": {
+        "id": "18122",
+        "name": "World of Warcraft"
       },
       "is_recurring": true
     }

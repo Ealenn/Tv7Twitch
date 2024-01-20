@@ -13,30 +13,6 @@
   },
   "schedulers": [
     {
-      "id": "eyJzZWdtZW50SUQiOiJhMWNiMzQyNi01N2QwLTQ2YWYtYTljNi0xYzY5N2ZhMDAxMTUiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjozfQ==",
-      "start_time": "2024-01-19T13:00:00Z",
-      "end_time": "2024-01-19T14:00:00Z",
-      "title": "🎙 PRÉ LIVE",
-      "canceled_until": null,
-      "category": {
-        "id": "509658",
-        "name": "Just Chatting"
-      },
-      "is_recurring": true
-    },
-    {
-      "id": "eyJzZWdtZW50SUQiOiIwNTQ5NjI3ZS0xZmFmLTQ0ZjUtOGE0ZC0yOGJhNzE1NjkxOGEiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjozfQ==",
-      "start_time": "2024-01-19T14:00:00Z",
-      "end_time": "2024-01-19T18:00:00Z",
-      "title": "⚽️ ON JOUE LE TITRE",
-      "canceled_until": null,
-      "category": {
-        "id": "2091165871",
-        "name": "Football Manager 2024"
-      },
-      "is_recurring": false
-    },
-    {
       "id": "eyJzZWdtZW50SUQiOiIzYzc3MjE2Ny1jMzg2LTRlZGYtOGNkNS1kY2JjZWRlZDQ2YTQiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjozfQ==",
       "start_time": "2024-01-21T19:00:00Z",
       "end_time": "2024-01-21T22:00:00Z",
@@ -249,6 +225,30 @@
       "category": {
         "id": "417752",
         "name": "Talk Shows & Podcasts"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiI5Y2I4ZWYzZi1jYWNkLTQwZjUtODYzNC0zZGIxYWRmZTkzNmIiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjo3fQ==",
+      "start_time": "2024-02-14T13:00:00Z",
+      "end_time": "2024-02-14T14:00:00Z",
+      "title": "🎙 PRÉ LIVE",
+      "canceled_until": null,
+      "category": {
+        "id": "509658",
+        "name": "Just Chatting"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiJiZmRhZWYzNi1jNjc3LTRlODktOTgyZS04NjhmMTViZmFiMDQiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjo3fQ==",
+      "start_time": "2024-02-15T18:30:00Z",
+      "end_time": "2024-02-15T19:30:00Z",
+      "title": "🎙 PRÉ LIVE ",
+      "canceled_until": null,
+      "category": {
+        "id": "509658",
+        "name": "Just Chatting"
       },
       "is_recurring": true
     }
