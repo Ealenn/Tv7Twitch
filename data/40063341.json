@@ -13,30 +13,6 @@
   },
   "schedulers": [
     {
-      "id": "eyJzZWdtZW50SUQiOiJiZmRhZWYzNi1jNjc3LTRlODktOTgyZS04NjhmMTViZmFiMDQiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjo0fQ==",
-      "start_time": "2024-01-25T18:30:00Z",
-      "end_time": "2024-01-25T19:00:00Z",
-      "title": "🎙 PRÉ LIVE ",
-      "canceled_until": null,
-      "category": {
-        "id": "509658",
-        "name": "Just Chatting"
-      },
-      "is_recurring": true
-    },
-    {
-      "id": "eyJzZWdtZW50SUQiOiIyNzk0ZGVhNi04YWYzLTQ1NzctYjBmOS05MzkzNTliYzA4M2UiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjo0fQ==",
-      "start_time": "2024-01-25T19:00:00Z",
-      "end_time": "2024-01-26T00:00:00Z",
-      "title": "👑 LES CHEVALIERS JIJI, LOLO & XARI PARTENT EN MISSION",
-      "canceled_until": null,
-      "category": {
-        "id": "5784346",
-        "name": "For the King II"
-      },
-      "is_recurring": false
-    },
-    {
       "id": "eyJzZWdtZW50SUQiOiJhMWNiMzQyNi01N2QwLTQ2YWYtYTljNi0xYzY5N2ZhMDAxMTUiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjo0fQ==",
       "start_time": "2024-01-26T13:00:00Z",
       "end_time": "2024-01-26T14:00:00Z",
@@ -245,6 +221,30 @@
       "start_time": "2024-02-19T18:00:00Z",
       "end_time": "2024-02-19T20:00:00Z",
       "title": "🎙 ON DISCUTE AVANT LE MATCH KC",
+      "canceled_until": null,
+      "category": {
+        "id": "509658",
+        "name": "Just Chatting"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiJhMTI2NDdjMi00NzBlLTQyYWEtOTE1OC1kMTE0N2I0NWYxYTgiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjo4fQ==",
+      "start_time": "2024-02-20T19:00:00Z",
+      "end_time": "2024-02-20T21:30:00Z",
+      "title": "🍿 POPCORN AVEC JIJI, GREAT REVIEW & SYLVAIN LEVY",
+      "canceled_until": null,
+      "category": {
+        "id": "417752",
+        "name": "Talk Shows & Podcasts"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiI5Y2I4ZWYzZi1jYWNkLTQwZjUtODYzNC0zZGIxYWRmZTkzNmIiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjo4fQ==",
+      "start_time": "2024-02-21T13:00:00Z",
+      "end_time": "2024-02-21T14:00:00Z",
+      "title": "🎙 PRÉ LIVE",
       "canceled_until": null,
       "category": {
         "id": "509658",
