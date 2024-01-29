@@ -13,18 +13,6 @@
   },
   "schedulers": [
     {
-      "id": "eyJzZWdtZW50SUQiOiIxMTE1ZDhjYi03ODlkLTQ1MmItYWRmNy0zY2JiYzllMjQxMmIiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjo0fQ==",
-      "start_time": "2024-01-28T19:00:00Z",
-      "end_time": "2024-01-28T22:00:00Z",
-      "title": "MDR vs AKR. Match Valorant de l'équipe Mandatory",
-      "canceled_until": null,
-      "category": {
-        "id": "516575",
-        "name": "VALORANT"
-      },
-      "is_recurring": false
-    },
-    {
       "id": "eyJzZWdtZW50SUQiOiJiNTE0YTNkMC0xM2IxLTRjMGYtYTAzMy05OTdiYzc4Yjc1YjEiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjo1fQ==",
       "start_time": "2024-01-29T19:30:00Z",
       "end_time": "2024-01-29T23:00:00Z",
@@ -35,6 +23,18 @@
         "name": "Just Chatting"
       },
       "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiIyMjQwYTdiZS0wM2Y5LTQzMmQtYjgzZC1lMTFiYmJkZGNlZWMiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjo1fQ==",
+      "start_time": "2024-02-02T19:00:00Z",
+      "end_time": "2024-02-02T23:00:00Z",
+      "title": "Tournoi Lethal Company : LA FINALE",
+      "canceled_until": null,
+      "category": {
+        "id": "2085980140",
+        "name": "Lethal Company"
+      },
+      "is_recurring": false
     },
     {
       "id": "eyJzZWdtZW50SUQiOiIwMjI2ODYyZS03OTc3LTQyNTctYjg5OC01YWZlMTRkYzkzMzIiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjo1fQ==",
@@ -71,6 +71,30 @@
         "name": "Just Chatting"
       },
       "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiI4M2QwN2Y3YS0zZWM3LTQ5NzQtOGM1MC02ZWVjZjJjN2E0ZTciLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjo2fQ==",
+      "start_time": "2024-02-06T19:00:00Z",
+      "end_time": "2024-02-06T23:00:00Z",
+      "title": "Soirée PVP Warhammer Online avec JDG, Troma, Alpha et moi",
+      "canceled_until": null,
+      "category": {
+        "id": "18888",
+        "name": "Warhammer Online: Age of Reckoning"
+      },
+      "is_recurring": false
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiJlYjMyMjQwNy01NWU2LTQyYTItOGJkMi1hODU3YzIwMzM4YWUiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjo2fQ==",
+      "start_time": "2024-02-07T19:00:00Z",
+      "end_time": "2024-02-07T23:00:00Z",
+      "title": "Soirée Lycans avec les gens des locaux + Alpha crew",
+      "canceled_until": null,
+      "category": {
+        "id": "1494074023",
+        "name": "Lycans"
+      },
+      "is_recurring": false
     },
     {
       "id": "eyJzZWdtZW50SUQiOiJlYTdkYjA1ZC03NDc2LTRkZTQtYjVhYi02OTE0ODUwNWQzMjQiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjo2fQ==",
@@ -220,30 +244,6 @@
       "id": "eyJzZWdtZW50SUQiOiJiNTE0YTNkMC0xM2IxLTRjMGYtYTAzMy05OTdiYzc4Yjc1YjEiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjoxNH0=",
       "start_time": "2024-04-01T18:30:00Z",
       "end_time": "2024-04-01T22:00:00Z",
-      "title": "Soirée du lundi",
-      "canceled_until": null,
-      "category": {
-        "id": "509658",
-        "name": "Just Chatting"
-      },
-      "is_recurring": true
-    },
-    {
-      "id": "eyJzZWdtZW50SUQiOiJiNTE0YTNkMC0xM2IxLTRjMGYtYTAzMy05OTdiYzc4Yjc1YjEiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjoxNX0=",
-      "start_time": "2024-04-08T18:30:00Z",
-      "end_time": "2024-04-08T22:00:00Z",
-      "title": "Soirée du lundi",
-      "canceled_until": null,
-      "category": {
-        "id": "509658",
-        "name": "Just Chatting"
-      },
-      "is_recurring": true
-    },
-    {
-      "id": "eyJzZWdtZW50SUQiOiJiNTE0YTNkMC0xM2IxLTRjMGYtYTAzMy05OTdiYzc4Yjc1YjEiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjoxNn0=",
-      "start_time": "2024-04-15T18:30:00Z",
-      "end_time": "2024-04-15T22:00:00Z",
       "title": "Soirée du lundi",
       "canceled_until": null,
       "category": {
