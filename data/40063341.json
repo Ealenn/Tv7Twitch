@@ -7,28 +7,16 @@
     "broadcaster_type": "partner",
     "description": "",
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/3cdae7df-600c-4833-8dfe-8d2abc5a3b25-profile_image-300x300.png",
-    "offline_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/2d8be2a7-df19-4ceb-b783-32ac95e5acf5-channel_offline_image-1920x1080.png",
+    "offline_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/3cf10143-12b5-49c0-aa82-fad3bdc4f1b9-channel_offline_image-1920x1080.png",
     "view_count": 0,
     "created_at": "2013-02-05T19:20:22Z"
   },
   "schedulers": [
     {
-      "id": "eyJzZWdtZW50SUQiOiJkMjc5YTZhMi1mNjhlLTQ0NTktOGZlNS0yNWU3NmZiNWVmNzEiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjo1fQ==",
-      "start_time": "2024-01-29T18:00:00Z",
-      "end_time": "2024-01-29T20:00:00Z",
-      "title": "🎙 ON DISCUTE AVANT LE MATCH KC",
-      "canceled_until": null,
-      "category": {
-        "id": "509658",
-        "name": "Just Chatting"
-      },
-      "is_recurring": true
-    },
-    {
       "id": "eyJzZWdtZW50SUQiOiJhMTI2NDdjMi00NzBlLTQyYWEtOTE1OC1kMTE0N2I0NWYxYTgiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjo1fQ==",
       "start_time": "2024-01-30T19:00:00Z",
       "end_time": "2024-01-30T21:30:00Z",
-      "title": "🍿 POPCORN AVEC JIJI, GREAT REVIEW & SYLVAIN LEVY",
+      "title": "🍿 POPCORN AVEC JIJI, TRIXY & ETOILES (INVITÉS : EDOUARD BAER & JONATHAN COHEN)",
       "canceled_until": null,
       "category": {
         "id": "417752",
@@ -49,9 +37,18 @@
       "is_recurring": true
     },
     {
+      "id": "eyJzZWdtZW50SUQiOiI4NmUzYTg0YS00Y2Q5LTQ5YjgtOTY4Ny0yYmYxYmEzZDczZTQiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjo1fQ==",
+      "start_time": "2024-01-31T14:00:00Z",
+      "end_time": "2024-01-31T18:00:00Z",
+      "title": "🎮 STREAM LIBRE",
+      "canceled_until": null,
+      "category": null,
+      "is_recurring": false
+    },
+    {
       "id": "eyJzZWdtZW50SUQiOiJiZmRhZWYzNi1jNjc3LTRlODktOTgyZS04NjhmMTViZmFiMDQiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjo1fQ==",
-      "start_time": "2024-02-01T18:30:00Z",
-      "end_time": "2024-02-01T19:00:00Z",
+      "start_time": "2024-02-01T13:00:00Z",
+      "end_time": "2024-02-01T14:00:00Z",
       "title": "🎙 PRÉ LIVE ",
       "canceled_until": null,
       "category": {
@@ -61,22 +58,34 @@
       "is_recurring": true
     },
     {
-      "id": "eyJzZWdtZW50SUQiOiJhMWNiMzQyNi01N2QwLTQ2YWYtYTljNi0xYzY5N2ZhMDAxMTUiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjo1fQ==",
-      "start_time": "2024-02-02T13:00:00Z",
-      "end_time": "2024-02-02T14:00:00Z",
-      "title": "🎙 PRÉ LIVE",
+      "id": "eyJzZWdtZW50SUQiOiJjMTkzNzEyYi1mYzJmLTRmN2ItYTljNi00ZTQ3N2Y2MGEyNDgiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjo1fQ==",
+      "start_time": "2024-02-01T14:00:00Z",
+      "end_time": "2024-02-01T16:00:00Z",
+      "title": "⚽️ NOUVELLE SAISON ",
       "canceled_until": null,
       "category": {
-        "id": "509658",
-        "name": "Just Chatting"
+        "id": "2091165871",
+        "name": "Football Manager 2024"
       },
-      "is_recurring": true
+      "is_recurring": false
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiJiMjExMDQ4MC0zODc5LTQ0ZTAtYTFkOC1jYWIzZjYwNWMzYjEiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjo1fQ==",
+      "start_time": "2024-02-01T16:00:00Z",
+      "end_time": "2024-02-01T18:00:00Z",
+      "title": "🔫 SUICIDE SQUAD AVEC JIJI, XARI & LOLO #CollaborationCommerciale",
+      "canceled_until": null,
+      "category": {
+        "id": "1767132907",
+        "name": "Suicide Squad: Kill the Justice League"
+      },
+      "is_recurring": false
     },
     {
       "id": "eyJzZWdtZW50SUQiOiJkMjc5YTZhMi1mNjhlLTQ0NTktOGZlNS0yNWU3NmZiNWVmNzEiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjo2fQ==",
-      "start_time": "2024-02-05T18:00:00Z",
-      "end_time": "2024-02-05T20:00:00Z",
-      "title": "🎙 ON DISCUTE AVANT LE MATCH KC",
+      "start_time": "2024-02-05T18:30:00Z",
+      "end_time": "2024-02-05T19:30:00Z",
+      "title": "🎙 PRÉ-LIVE",
       "canceled_until": null,
       "category": {
         "id": "509658",
@@ -88,7 +97,7 @@
       "id": "eyJzZWdtZW50SUQiOiJhMTI2NDdjMi00NzBlLTQyYWEtOTE1OC1kMTE0N2I0NWYxYTgiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjo2fQ==",
       "start_time": "2024-02-06T19:00:00Z",
       "end_time": "2024-02-06T21:30:00Z",
-      "title": "🍿 POPCORN AVEC JIJI, GREAT REVIEW & SYLVAIN LEVY",
+      "title": "🍿 POPCORN AVEC JIJI, TRIXY & ETOILES (INVITÉS : EDOUARD BAER & JONATHAN COHEN)",
       "canceled_until": null,
       "category": {
         "id": "417752",
@@ -110,8 +119,8 @@
     },
     {
       "id": "eyJzZWdtZW50SUQiOiJiZmRhZWYzNi1jNjc3LTRlODktOTgyZS04NjhmMTViZmFiMDQiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjo2fQ==",
-      "start_time": "2024-02-08T18:30:00Z",
-      "end_time": "2024-02-08T19:00:00Z",
+      "start_time": "2024-02-08T13:00:00Z",
+      "end_time": "2024-02-08T14:00:00Z",
       "title": "🎙 PRÉ LIVE ",
       "canceled_until": null,
       "category": {
@@ -121,22 +130,10 @@
       "is_recurring": true
     },
     {
-      "id": "eyJzZWdtZW50SUQiOiJhMWNiMzQyNi01N2QwLTQ2YWYtYTljNi0xYzY5N2ZhMDAxMTUiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjo2fQ==",
-      "start_time": "2024-02-09T13:00:00Z",
-      "end_time": "2024-02-09T14:00:00Z",
-      "title": "🎙 PRÉ LIVE",
-      "canceled_until": null,
-      "category": {
-        "id": "509658",
-        "name": "Just Chatting"
-      },
-      "is_recurring": true
-    },
-    {
       "id": "eyJzZWdtZW50SUQiOiJkMjc5YTZhMi1mNjhlLTQ0NTktOGZlNS0yNWU3NmZiNWVmNzEiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjo3fQ==",
-      "start_time": "2024-02-12T18:00:00Z",
-      "end_time": "2024-02-12T20:00:00Z",
-      "title": "🎙 ON DISCUTE AVANT LE MATCH KC",
+      "start_time": "2024-02-12T18:30:00Z",
+      "end_time": "2024-02-12T19:30:00Z",
+      "title": "🎙 PRÉ-LIVE",
       "canceled_until": null,
       "category": {
         "id": "509658",
@@ -148,7 +145,7 @@
       "id": "eyJzZWdtZW50SUQiOiJhMTI2NDdjMi00NzBlLTQyYWEtOTE1OC1kMTE0N2I0NWYxYTgiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjo3fQ==",
       "start_time": "2024-02-13T19:00:00Z",
       "end_time": "2024-02-13T21:30:00Z",
-      "title": "🍿 POPCORN AVEC JIJI, GREAT REVIEW & SYLVAIN LEVY",
+      "title": "🍿 POPCORN AVEC JIJI, TRIXY & ETOILES (INVITÉS : EDOUARD BAER & JONATHAN COHEN)",
       "canceled_until": null,
       "category": {
         "id": "417752",
@@ -170,8 +167,8 @@
     },
     {
       "id": "eyJzZWdtZW50SUQiOiJiZmRhZWYzNi1jNjc3LTRlODktOTgyZS04NjhmMTViZmFiMDQiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjo3fQ==",
-      "start_time": "2024-02-15T18:30:00Z",
-      "end_time": "2024-02-15T19:00:00Z",
+      "start_time": "2024-02-15T13:00:00Z",
+      "end_time": "2024-02-15T14:00:00Z",
       "title": "🎙 PRÉ LIVE ",
       "canceled_until": null,
       "category": {
@@ -181,22 +178,10 @@
       "is_recurring": true
     },
     {
-      "id": "eyJzZWdtZW50SUQiOiJhMWNiMzQyNi01N2QwLTQ2YWYtYTljNi0xYzY5N2ZhMDAxMTUiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjo3fQ==",
-      "start_time": "2024-02-16T13:00:00Z",
-      "end_time": "2024-02-16T14:00:00Z",
-      "title": "🎙 PRÉ LIVE",
-      "canceled_until": null,
-      "category": {
-        "id": "509658",
-        "name": "Just Chatting"
-      },
-      "is_recurring": true
-    },
-    {
       "id": "eyJzZWdtZW50SUQiOiJkMjc5YTZhMi1mNjhlLTQ0NTktOGZlNS0yNWU3NmZiNWVmNzEiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjo4fQ==",
-      "start_time": "2024-02-19T18:00:00Z",
-      "end_time": "2024-02-19T20:00:00Z",
-      "title": "🎙 ON DISCUTE AVANT LE MATCH KC",
+      "start_time": "2024-02-19T18:30:00Z",
+      "end_time": "2024-02-19T19:30:00Z",
+      "title": "🎙 PRÉ-LIVE",
       "canceled_until": null,
       "category": {
         "id": "509658",
@@ -208,7 +193,7 @@
       "id": "eyJzZWdtZW50SUQiOiJhMTI2NDdjMi00NzBlLTQyYWEtOTE1OC1kMTE0N2I0NWYxYTgiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjo4fQ==",
       "start_time": "2024-02-20T19:00:00Z",
       "end_time": "2024-02-20T21:30:00Z",
-      "title": "🍿 POPCORN AVEC JIJI, GREAT REVIEW & SYLVAIN LEVY",
+      "title": "🍿 POPCORN AVEC JIJI, TRIXY & ETOILES (INVITÉS : EDOUARD BAER & JONATHAN COHEN)",
       "canceled_until": null,
       "category": {
         "id": "417752",
@@ -230,8 +215,8 @@
     },
     {
       "id": "eyJzZWdtZW50SUQiOiJiZmRhZWYzNi1jNjc3LTRlODktOTgyZS04NjhmMTViZmFiMDQiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjo4fQ==",
-      "start_time": "2024-02-22T18:30:00Z",
-      "end_time": "2024-02-22T19:00:00Z",
+      "start_time": "2024-02-22T13:00:00Z",
+      "end_time": "2024-02-22T14:00:00Z",
       "title": "🎙 PRÉ LIVE ",
       "canceled_until": null,
       "category": {
@@ -241,14 +226,26 @@
       "is_recurring": true
     },
     {
-      "id": "eyJzZWdtZW50SUQiOiJhMWNiMzQyNi01N2QwLTQ2YWYtYTljNi0xYzY5N2ZhMDAxMTUiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjo4fQ==",
-      "start_time": "2024-02-23T13:00:00Z",
-      "end_time": "2024-02-23T14:00:00Z",
-      "title": "🎙 PRÉ LIVE",
+      "id": "eyJzZWdtZW50SUQiOiJkMjc5YTZhMi1mNjhlLTQ0NTktOGZlNS0yNWU3NmZiNWVmNzEiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjo5fQ==",
+      "start_time": "2024-02-26T18:30:00Z",
+      "end_time": "2024-02-26T19:30:00Z",
+      "title": "🎙 PRÉ-LIVE",
       "canceled_until": null,
       "category": {
         "id": "509658",
         "name": "Just Chatting"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiJhMTI2NDdjMi00NzBlLTQyYWEtOTE1OC1kMTE0N2I0NWYxYTgiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjo5fQ==",
+      "start_time": "2024-02-27T19:00:00Z",
+      "end_time": "2024-02-27T21:30:00Z",
+      "title": "🍿 POPCORN AVEC JIJI, TRIXY & ETOILES (INVITÉS : EDOUARD BAER & JONATHAN COHEN)",
+      "canceled_until": null,
+      "category": {
+        "id": "417752",
+        "name": "Talk Shows & Podcasts"
       },
       "is_recurring": true
     }
