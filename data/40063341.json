@@ -13,42 +13,6 @@
   },
   "schedulers": [
     {
-      "id": "eyJzZWdtZW50SUQiOiJiZmRhZWYzNi1jNjc3LTRlODktOTgyZS04NjhmMTViZmFiMDQiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjo1fQ==",
-      "start_time": "2024-02-01T13:00:00Z",
-      "end_time": "2024-02-01T14:00:00Z",
-      "title": "🎙 PRÉ LIVE ",
-      "canceled_until": null,
-      "category": {
-        "id": "509658",
-        "name": "Just Chatting"
-      },
-      "is_recurring": true
-    },
-    {
-      "id": "eyJzZWdtZW50SUQiOiJjMTkzNzEyYi1mYzJmLTRmN2ItYTljNi00ZTQ3N2Y2MGEyNDgiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjo1fQ==",
-      "start_time": "2024-02-01T14:00:00Z",
-      "end_time": "2024-02-01T16:00:00Z",
-      "title": "⚽️ NOUVELLE SAISON ",
-      "canceled_until": null,
-      "category": {
-        "id": "2091165871",
-        "name": "Football Manager 2024"
-      },
-      "is_recurring": false
-    },
-    {
-      "id": "eyJzZWdtZW50SUQiOiJiMjExMDQ4MC0zODc5LTQ0ZTAtYTFkOC1jYWIzZjYwNWMzYjEiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjo1fQ==",
-      "start_time": "2024-02-01T16:00:00Z",
-      "end_time": "2024-02-01T18:00:00Z",
-      "title": "🔫 SUICIDE SQUAD AVEC JIJI, XARI & LOLO #CollaborationCommerciale",
-      "canceled_until": null,
-      "category": {
-        "id": "1767132907",
-        "name": "Suicide Squad: Kill the Justice League"
-      },
-      "is_recurring": false
-    },
-    {
       "id": "eyJzZWdtZW50SUQiOiJkMjc5YTZhMi1mNjhlLTQ0NTktOGZlNS0yNWU3NmZiNWVmNzEiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjo2fQ==",
       "start_time": "2024-02-05T18:30:00Z",
       "end_time": "2024-02-05T19:30:00Z",
@@ -245,6 +209,42 @@
       "start_time": "2024-03-04T18:30:00Z",
       "end_time": "2024-03-04T19:30:00Z",
       "title": "🎙 PRÉ-LIVE",
+      "canceled_until": null,
+      "category": {
+        "id": "509658",
+        "name": "Just Chatting"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiJhMTI2NDdjMi00NzBlLTQyYWEtOTE1OC1kMTE0N2I0NWYxYTgiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjoxMH0=",
+      "start_time": "2024-03-05T19:00:00Z",
+      "end_time": "2024-03-05T21:30:00Z",
+      "title": "🍿 POPCORN AVEC JIJI, TRIXY & ETOILES (INVITÉS : EDOUARD BAER & JONATHAN COHEN)",
+      "canceled_until": null,
+      "category": {
+        "id": "417752",
+        "name": "Talk Shows & Podcasts"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiI5Y2I4ZWYzZi1jYWNkLTQwZjUtODYzNC0zZGIxYWRmZTkzNmIiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjoxMH0=",
+      "start_time": "2024-03-06T13:00:00Z",
+      "end_time": "2024-03-06T14:00:00Z",
+      "title": "🎙 PRÉ LIVE",
+      "canceled_until": null,
+      "category": {
+        "id": "509658",
+        "name": "Just Chatting"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiJiZmRhZWYzNi1jNjc3LTRlODktOTgyZS04NjhmMTViZmFiMDQiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjoxMH0=",
+      "start_time": "2024-03-07T13:00:00Z",
+      "end_time": "2024-03-07T14:00:00Z",
+      "title": "🎙 PRÉ LIVE ",
       "canceled_until": null,
       "category": {
         "id": "509658",

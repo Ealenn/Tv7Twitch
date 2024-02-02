@@ -13,30 +13,6 @@
   },
   "schedulers": [
     {
-      "id": "eyJzZWdtZW50SUQiOiJiYjNiMjQ2MC02Y2YyLTRhZWYtOGM5ZS1jYzQ1MWE4YTZiOGIiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjo1fQ==",
-      "start_time": "2024-02-01T10:00:00Z",
-      "end_time": "2024-02-01T13:00:00Z",
-      "title": "Multi avec Rivenzi !",
-      "canceled_until": null,
-      "category": {
-        "id": "509658",
-        "name": "Just Chatting"
-      },
-      "is_recurring": true
-    },
-    {
-      "id": "eyJzZWdtZW50SUQiOiI4NGU1ZjM2Mi01YzIxLTQzMDYtOTMwOC0xODMwOTJhM2M4NDYiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjo1fQ==",
-      "start_time": "2024-02-01T13:00:00Z",
-      "end_time": "2024-02-01T17:00:00Z",
-      "title": "Découverte de Granblue Fantasy: Relink",
-      "canceled_until": null,
-      "category": {
-        "id": "493081",
-        "name": "Granblue Fantasy: Relink"
-      },
-      "is_recurring": true
-    },
-    {
       "id": "eyJzZWdtZW50SUQiOiIxM2Q2MmUzYy02ZjRmLTQ3YjMtOGFkOS1lNmRmN2M4OTlmNTMiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjo1fQ==",
       "start_time": "2024-02-02T10:00:00Z",
       "end_time": "2024-02-02T17:00:00Z",
@@ -249,6 +225,30 @@
       "category": {
         "id": "497443",
         "name": "Life is Strange: Before the Storm"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiIxODY5MDk4Ni00M2NkLTQxNzgtOGYxOC05YmYzZjU4YmJjZmMiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjo4fQ==",
+      "start_time": "2024-02-21T10:00:00Z",
+      "end_time": "2024-02-21T17:00:00Z",
+      "title": "Zelda TOTK Slowrun direction 100%",
+      "canceled_until": null,
+      "category": {
+        "id": "512998",
+        "name": "The Legend of Zelda: Tears of the Kingdom"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiJiYjNiMjQ2MC02Y2YyLTRhZWYtOGM5ZS1jYzQ1MWE4YTZiOGIiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjo4fQ==",
+      "start_time": "2024-02-22T10:00:00Z",
+      "end_time": "2024-02-22T13:00:00Z",
+      "title": "Multi avec Rivenzi !",
+      "canceled_until": null,
+      "category": {
+        "id": "509658",
+        "name": "Just Chatting"
       },
       "is_recurring": true
     }
