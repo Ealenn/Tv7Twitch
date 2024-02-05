@@ -27,7 +27,7 @@
     {
       "id": "eyJzZWdtZW50SUQiOiI4MTNiNDhmNC1hZTEyLTQyNzctYWJiYi0xNmMxMWFjYTlhZDIiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjo2fQ==",
       "start_time": "2024-02-06T10:00:00Z",
-      "end_time": "2024-02-06T13:00:00Z",
+      "end_time": "2024-02-06T14:00:00Z",
       "title": "Lycans avé les potes",
       "canceled_until": null,
       "category": {
@@ -38,9 +38,9 @@
     },
     {
       "id": "eyJzZWdtZW50SUQiOiI3NTg1OTcwZS0yNzdlLTRkM2YtODI4Yi1kN2JhOGQ3Mzk3NjQiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjo2fQ==",
-      "start_time": "2024-02-06T13:00:00Z",
+      "start_time": "2024-02-06T14:00:00Z",
       "end_time": "2024-02-06T17:00:00Z",
-      "title": "Suite de Life is Strange !",
+      "title": "Épisode bonus de LiS Before the Storm",
       "canceled_until": null,
       "category": {
         "id": "497443",
@@ -50,49 +50,73 @@
     },
     {
       "id": "eyJzZWdtZW50SUQiOiIxODY5MDk4Ni00M2NkLTQxNzgtOGYxOC05YmYzZjU4YmJjZmMiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjo2fQ==",
-      "start_time": "2024-02-07T10:00:00Z",
-      "end_time": "2024-02-07T17:00:00Z",
-      "title": "Zelda TOTK Slowrun direction 100%",
+      "start_time": "2024-02-07T16:00:00Z",
+      "end_time": "2024-02-07T19:00:00Z",
+      "title": "Foamstars avec Ultia, Alphacast & Littlebigwhale",
       "canceled_until": null,
       "category": {
-        "id": "512998",
-        "name": "The Legend of Zelda: Tears of the Kingdom"
+        "id": "2065843490",
+        "name": "FOAMSTARS"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiJkZjI4ZjQwMS1mYTZmLTQ0Y2UtODk3Yi1kMWYyMmRiOTYxNjMiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjo2fQ==",
+      "start_time": "2024-02-07T19:00:00Z",
+      "end_time": "2024-02-07T23:00:00Z",
+      "title": "Event Trackmania organisé par Wingo avec plein de potes",
+      "canceled_until": null,
+      "category": {
+        "id": "687129551",
+        "name": "Trackmania"
       },
       "is_recurring": true
     },
     {
       "id": "eyJzZWdtZW50SUQiOiJiYjNiMjQ2MC02Y2YyLTRhZWYtOGM5ZS1jYzQ1MWE4YTZiOGIiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjo2fQ==",
-      "start_time": "2024-02-08T10:00:00Z",
-      "end_time": "2024-02-08T13:00:00Z",
-      "title": "Multi avec Rivenzi !",
-      "canceled_until": null,
-      "category": {
-        "id": "509658",
-        "name": "Just Chatting"
-      },
-      "is_recurring": true
-    },
-    {
-      "id": "eyJzZWdtZW50SUQiOiI4NGU1ZjM2Mi01YzIxLTQzMDYtOTMwOC0xODMwOTJhM2M4NDYiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjo2fQ==",
-      "start_time": "2024-02-08T13:00:00Z",
+      "start_time": "2024-02-08T12:00:00Z",
       "end_time": "2024-02-08T17:00:00Z",
-      "title": "Découverte de Granblue Fantasy: Relink",
+      "title": "Début de l’aventure Baldur’s Gate 3 avec le bro Rivenzi",
       "canceled_until": null,
       "category": {
-        "id": "493081",
-        "name": "Granblue Fantasy: Relink"
+        "id": "512923",
+        "name": "Baldur's Gate 3"
       },
       "is_recurring": true
     },
     {
       "id": "eyJzZWdtZW50SUQiOiIxM2Q2MmUzYy02ZjRmLTQ3YjMtOGFkOS1lNmRmN2M4OTlmNTMiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjo2fQ==",
       "start_time": "2024-02-09T10:00:00Z",
-      "end_time": "2024-02-09T17:00:00Z",
-      "title": "Suite de Life is Strange !",
+      "end_time": "2024-02-09T19:00:00Z",
+      "title": "Le retour du Chaman tank, WoW SOD phase 2",
       "canceled_until": null,
       "category": {
-        "id": "497443",
-        "name": "Life is Strange: Before the Storm"
+        "id": "18122",
+        "name": "World of Warcraft"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiI0ZTcyYzlkZi1lYWY0LTQ2ODUtYjlkMi00NWU2OWUwNzk0MmEiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjo2fQ==",
+      "start_time": "2024-02-10T11:00:00Z",
+      "end_time": "2024-02-10T18:00:00Z",
+      "title": "WoW SOD phase 2",
+      "canceled_until": null,
+      "category": {
+        "id": "18122",
+        "name": "World of Warcraft"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiI4YjI5YzE1My04NjY5LTQ2ZjAtYjE2Yi1hZjRmMTM0MTMxZGMiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjo2fQ==",
+      "start_time": "2024-02-11T13:00:00Z",
+      "end_time": "2024-02-11T19:00:00Z",
+      "title": "WoW SOD phase 2",
+      "canceled_until": null,
+      "category": {
+        "id": "18122",
+        "name": "World of Warcraft"
       },
       "is_recurring": true
     },
@@ -111,7 +135,7 @@
     {
       "id": "eyJzZWdtZW50SUQiOiI4MTNiNDhmNC1hZTEyLTQyNzctYWJiYi0xNmMxMWFjYTlhZDIiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjo3fQ==",
       "start_time": "2024-02-13T10:00:00Z",
-      "end_time": "2024-02-13T13:00:00Z",
+      "end_time": "2024-02-13T14:00:00Z",
       "title": "Lycans avé les potes",
       "canceled_until": null,
       "category": {
@@ -122,9 +146,9 @@
     },
     {
       "id": "eyJzZWdtZW50SUQiOiI3NTg1OTcwZS0yNzdlLTRkM2YtODI4Yi1kN2JhOGQ3Mzk3NjQiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjo3fQ==",
-      "start_time": "2024-02-13T13:00:00Z",
+      "start_time": "2024-02-13T14:00:00Z",
       "end_time": "2024-02-13T17:00:00Z",
-      "title": "Suite de Life is Strange !",
+      "title": "Épisode bonus de LiS Before the Storm",
       "canceled_until": null,
       "category": {
         "id": "497443",
@@ -134,49 +158,73 @@
     },
     {
       "id": "eyJzZWdtZW50SUQiOiIxODY5MDk4Ni00M2NkLTQxNzgtOGYxOC05YmYzZjU4YmJjZmMiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjo3fQ==",
-      "start_time": "2024-02-14T10:00:00Z",
-      "end_time": "2024-02-14T17:00:00Z",
-      "title": "Zelda TOTK Slowrun direction 100%",
+      "start_time": "2024-02-14T16:00:00Z",
+      "end_time": "2024-02-14T19:00:00Z",
+      "title": "Foamstars avec Ultia, Alphacast & Littlebigwhale",
       "canceled_until": null,
       "category": {
-        "id": "512998",
-        "name": "The Legend of Zelda: Tears of the Kingdom"
+        "id": "2065843490",
+        "name": "FOAMSTARS"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiJkZjI4ZjQwMS1mYTZmLTQ0Y2UtODk3Yi1kMWYyMmRiOTYxNjMiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjo3fQ==",
+      "start_time": "2024-02-14T19:00:00Z",
+      "end_time": "2024-02-14T23:00:00Z",
+      "title": "Event Trackmania organisé par Wingo avec plein de potes",
+      "canceled_until": null,
+      "category": {
+        "id": "687129551",
+        "name": "Trackmania"
       },
       "is_recurring": true
     },
     {
       "id": "eyJzZWdtZW50SUQiOiJiYjNiMjQ2MC02Y2YyLTRhZWYtOGM5ZS1jYzQ1MWE4YTZiOGIiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjo3fQ==",
-      "start_time": "2024-02-15T10:00:00Z",
-      "end_time": "2024-02-15T13:00:00Z",
-      "title": "Multi avec Rivenzi !",
-      "canceled_until": null,
-      "category": {
-        "id": "509658",
-        "name": "Just Chatting"
-      },
-      "is_recurring": true
-    },
-    {
-      "id": "eyJzZWdtZW50SUQiOiI4NGU1ZjM2Mi01YzIxLTQzMDYtOTMwOC0xODMwOTJhM2M4NDYiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjo3fQ==",
-      "start_time": "2024-02-15T13:00:00Z",
+      "start_time": "2024-02-15T12:00:00Z",
       "end_time": "2024-02-15T17:00:00Z",
-      "title": "Découverte de Granblue Fantasy: Relink",
+      "title": "Début de l’aventure Baldur’s Gate 3 avec le bro Rivenzi",
       "canceled_until": null,
       "category": {
-        "id": "493081",
-        "name": "Granblue Fantasy: Relink"
+        "id": "512923",
+        "name": "Baldur's Gate 3"
       },
       "is_recurring": true
     },
     {
       "id": "eyJzZWdtZW50SUQiOiIxM2Q2MmUzYy02ZjRmLTQ3YjMtOGFkOS1lNmRmN2M4OTlmNTMiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjo3fQ==",
       "start_time": "2024-02-16T10:00:00Z",
-      "end_time": "2024-02-16T17:00:00Z",
-      "title": "Suite de Life is Strange !",
+      "end_time": "2024-02-16T19:00:00Z",
+      "title": "Le retour du Chaman tank, WoW SOD phase 2",
       "canceled_until": null,
       "category": {
-        "id": "497443",
-        "name": "Life is Strange: Before the Storm"
+        "id": "18122",
+        "name": "World of Warcraft"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiI0ZTcyYzlkZi1lYWY0LTQ2ODUtYjlkMi00NWU2OWUwNzk0MmEiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjo3fQ==",
+      "start_time": "2024-02-17T11:00:00Z",
+      "end_time": "2024-02-17T18:00:00Z",
+      "title": "WoW SOD phase 2",
+      "canceled_until": null,
+      "category": {
+        "id": "18122",
+        "name": "World of Warcraft"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiI4YjI5YzE1My04NjY5LTQ2ZjAtYjE2Yi1hZjRmMTM0MTMxZGMiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjo3fQ==",
+      "start_time": "2024-02-18T13:00:00Z",
+      "end_time": "2024-02-18T19:00:00Z",
+      "title": "WoW SOD phase 2",
+      "canceled_until": null,
+      "category": {
+        "id": "18122",
+        "name": "World of Warcraft"
       },
       "is_recurring": true
     },
@@ -195,60 +243,12 @@
     {
       "id": "eyJzZWdtZW50SUQiOiI4MTNiNDhmNC1hZTEyLTQyNzctYWJiYi0xNmMxMWFjYTlhZDIiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjo4fQ==",
       "start_time": "2024-02-20T10:00:00Z",
-      "end_time": "2024-02-20T13:00:00Z",
+      "end_time": "2024-02-20T14:00:00Z",
       "title": "Lycans avé les potes",
       "canceled_until": null,
       "category": {
         "id": "1494074023",
         "name": "Lycans"
-      },
-      "is_recurring": true
-    },
-    {
-      "id": "eyJzZWdtZW50SUQiOiI3NTg1OTcwZS0yNzdlLTRkM2YtODI4Yi1kN2JhOGQ3Mzk3NjQiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjo4fQ==",
-      "start_time": "2024-02-20T13:00:00Z",
-      "end_time": "2024-02-20T17:00:00Z",
-      "title": "Suite de Life is Strange !",
-      "canceled_until": null,
-      "category": {
-        "id": "497443",
-        "name": "Life is Strange: Before the Storm"
-      },
-      "is_recurring": true
-    },
-    {
-      "id": "eyJzZWdtZW50SUQiOiIxODY5MDk4Ni00M2NkLTQxNzgtOGYxOC05YmYzZjU4YmJjZmMiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjo4fQ==",
-      "start_time": "2024-02-21T10:00:00Z",
-      "end_time": "2024-02-21T17:00:00Z",
-      "title": "Zelda TOTK Slowrun direction 100%",
-      "canceled_until": null,
-      "category": {
-        "id": "512998",
-        "name": "The Legend of Zelda: Tears of the Kingdom"
-      },
-      "is_recurring": true
-    },
-    {
-      "id": "eyJzZWdtZW50SUQiOiJiYjNiMjQ2MC02Y2YyLTRhZWYtOGM5ZS1jYzQ1MWE4YTZiOGIiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjo4fQ==",
-      "start_time": "2024-02-22T10:00:00Z",
-      "end_time": "2024-02-22T13:00:00Z",
-      "title": "Multi avec Rivenzi !",
-      "canceled_until": null,
-      "category": {
-        "id": "509658",
-        "name": "Just Chatting"
-      },
-      "is_recurring": true
-    },
-    {
-      "id": "eyJzZWdtZW50SUQiOiI4NGU1ZjM2Mi01YzIxLTQzMDYtOTMwOC0xODMwOTJhM2M4NDYiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjo4fQ==",
-      "start_time": "2024-02-22T13:00:00Z",
-      "end_time": "2024-02-22T17:00:00Z",
-      "title": "Découverte de Granblue Fantasy: Relink",
-      "canceled_until": null,
-      "category": {
-        "id": "493081",
-        "name": "Granblue Fantasy: Relink"
       },
       "is_recurring": true
     }
