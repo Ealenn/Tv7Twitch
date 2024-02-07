@@ -13,18 +13,6 @@
   },
   "schedulers": [
     {
-      "id": "eyJzZWdtZW50SUQiOiI4M2QwN2Y3YS0zZWM3LTQ5NzQtOGM1MC02ZWVjZjJjN2E0ZTciLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjo2fQ==",
-      "start_time": "2024-02-06T19:00:00Z",
-      "end_time": "2024-02-06T23:00:00Z",
-      "title": "Soirée PVP Warhammer Online avec JDG, Troma, Alpha et moi",
-      "canceled_until": null,
-      "category": {
-        "id": "18888",
-        "name": "Warhammer Online: Age of Reckoning"
-      },
-      "is_recurring": false
-    },
-    {
       "id": "eyJzZWdtZW50SUQiOiJlYjMyMjQwNy01NWU2LTQyYTItOGJkMi1hODU3YzIwMzM4YWUiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjo2fQ==",
       "start_time": "2024-02-07T19:00:00Z",
       "end_time": "2024-02-07T23:00:00Z",
@@ -244,6 +232,18 @@
       "id": "eyJzZWdtZW50SUQiOiJiNTE0YTNkMC0xM2IxLTRjMGYtYTAzMy05OTdiYzc4Yjc1YjEiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjoxOX0=",
       "start_time": "2024-05-06T18:30:00Z",
       "end_time": "2024-05-06T22:00:00Z",
+      "title": "Soirée du lundi",
+      "canceled_until": null,
+      "category": {
+        "id": "509658",
+        "name": "Just Chatting"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiJiNTE0YTNkMC0xM2IxLTRjMGYtYTAzMy05OTdiYzc4Yjc1YjEiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjoyMH0=",
+      "start_time": "2024-05-13T18:30:00Z",
+      "end_time": "2024-05-13T22:00:00Z",
       "title": "Soirée du lundi",
       "canceled_until": null,
       "category": {
