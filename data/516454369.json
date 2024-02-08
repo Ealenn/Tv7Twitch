@@ -13,18 +13,6 @@
   },
   "schedulers": [
     {
-      "id": "eyJzZWdtZW50SUQiOiI4YjgwNGEyNS1jNzU2LTRmMjYtYmYwOC0yMTk1MTljNGU0MWIiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjo2fQ==",
-      "start_time": "2024-02-07T11:00:00Z",
-      "end_time": "2024-02-07T13:00:00Z",
-      "title": "Le CNES et les jeunes",
-      "canceled_until": null,
-      "category": {
-        "id": "509658",
-        "name": "Just Chatting"
-      },
-      "is_recurring": false
-    },
-    {
       "id": "eyJzZWdtZW50SUQiOiJjZGQ3NWIzMS01NTNlLTRmNmQtYTMwNS1lYTg5ZmM1ZGI4YWUiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjo4fQ==",
       "start_time": "2024-02-22T19:00:00Z",
       "end_time": null,

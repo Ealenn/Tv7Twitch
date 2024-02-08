@@ -13,22 +13,46 @@
   },
   "schedulers": [
     {
-      "id": "eyJzZWdtZW50SUQiOiJlYjMyMjQwNy01NWU2LTQyYTItOGJkMi1hODU3YzIwMzM4YWUiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjo2fQ==",
-      "start_time": "2024-02-07T19:00:00Z",
-      "end_time": "2024-02-07T23:00:00Z",
-      "title": "Soirée Lycans avec les gens des locaux + Alpha crew",
+      "id": "eyJzZWdtZW50SUQiOiJlYTdkYjA1ZC03NDc2LTRkZTQtYjVhYi02OTE0ODUwNWQzMjQiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjo2fQ==",
+      "start_time": "2024-02-08T20:00:00Z",
+      "end_time": "2024-02-09T00:00:00Z",
+      "title": "Phase 2 Season of Discovery, pexing 25-40",
       "canceled_until": null,
       "category": {
-        "id": "1494074023",
-        "name": "Lycans"
+        "id": "18122",
+        "name": "World of Warcraft"
       },
       "is_recurring": false
     },
     {
-      "id": "eyJzZWdtZW50SUQiOiJlYTdkYjA1ZC03NDc2LTRkZTQtYjVhYi02OTE0ODUwNWQzMjQiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjo2fQ==",
-      "start_time": "2024-02-08T14:00:00Z",
-      "end_time": "2024-02-09T00:00:00Z",
-      "title": "Phase 2 Season of Discovery, pexing 20-40",
+      "id": "eyJzZWdtZW50SUQiOiIyMjc3NTdmNS1kMmZlLTQwOTQtODQzMS1hNTA5MDIzMmRmODEiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjo2fQ==",
+      "start_time": "2024-02-09T14:00:00Z",
+      "end_time": "2024-02-09T17:00:00Z",
+      "title": "Season of Discovery, suite du pexing 25-40",
+      "canceled_until": null,
+      "category": {
+        "id": "18122",
+        "name": "World of Warcraft"
+      },
+      "is_recurring": false
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiIyMmJiODk2Zi1iYzhhLTRiMGYtYTNkNC1lOWRjYTUwODUzZjgiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjo2fQ==",
+      "start_time": "2024-02-09T17:00:00Z",
+      "end_time": "2024-02-09T19:00:00Z",
+      "title": "Baby Kart découverte avec plein de gens !",
+      "canceled_until": null,
+      "category": {
+        "id": "499686378",
+        "name": "Oh Baby! Kart"
+      },
+      "is_recurring": false
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiI5ZDAzZjEyNi1iZDIxLTQyOWYtYTkxOS1kNjU1M2JkYWRlODgiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjo2fQ==",
+      "start_time": "2024-02-09T19:00:00Z",
+      "end_time": "2024-02-10T00:00:00Z",
+      "title": "Season of Discovery, suite du pexing 25-40",
       "canceled_until": null,
       "category": {
         "id": "18122",
@@ -45,6 +69,30 @@
       "category": {
         "id": "516575",
         "name": "VALORANT"
+      },
+      "is_recurring": false
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiIyNDYyYjNiMy0xMTA2LTRiM2MtODQ3NC01OWY2ZTJmYWI3NjQiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjo2fQ==",
+      "start_time": "2024-02-10T20:00:00Z",
+      "end_time": "2024-02-11T00:00:00Z",
+      "title": "Season of Discovery, suite du pexing 25-40",
+      "canceled_until": null,
+      "category": {
+        "id": "18122",
+        "name": "World of Warcraft"
+      },
+      "is_recurring": false
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiJkYjYwNjEzNS00MTdjLTQ0MDItYTM1YS0zZmRmMzRmNzBhYmMiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjo2fQ==",
+      "start_time": "2024-02-11T19:00:00Z",
+      "end_time": "2024-02-11T23:00:00Z",
+      "title": "Indiemanche spécial Neo Fest avec 4 jeux au lieu de 2 (1 jeu par heure)",
+      "canceled_until": null,
+      "category": {
+        "id": "1376148504",
+        "name": "Independent Games"
       },
       "is_recurring": false
     },
@@ -196,54 +244,6 @@
       "id": "eyJzZWdtZW50SUQiOiJiNTE0YTNkMC0xM2IxLTRjMGYtYTAzMy05OTdiYzc4Yjc1YjEiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjoxNn0=",
       "start_time": "2024-04-15T18:30:00Z",
       "end_time": "2024-04-15T22:00:00Z",
-      "title": "Soirée du lundi",
-      "canceled_until": null,
-      "category": {
-        "id": "509658",
-        "name": "Just Chatting"
-      },
-      "is_recurring": true
-    },
-    {
-      "id": "eyJzZWdtZW50SUQiOiJiNTE0YTNkMC0xM2IxLTRjMGYtYTAzMy05OTdiYzc4Yjc1YjEiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjoxN30=",
-      "start_time": "2024-04-22T18:30:00Z",
-      "end_time": "2024-04-22T22:00:00Z",
-      "title": "Soirée du lundi",
-      "canceled_until": null,
-      "category": {
-        "id": "509658",
-        "name": "Just Chatting"
-      },
-      "is_recurring": true
-    },
-    {
-      "id": "eyJzZWdtZW50SUQiOiJiNTE0YTNkMC0xM2IxLTRjMGYtYTAzMy05OTdiYzc4Yjc1YjEiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjoxOH0=",
-      "start_time": "2024-04-29T18:30:00Z",
-      "end_time": "2024-04-29T22:00:00Z",
-      "title": "Soirée du lundi",
-      "canceled_until": null,
-      "category": {
-        "id": "509658",
-        "name": "Just Chatting"
-      },
-      "is_recurring": true
-    },
-    {
-      "id": "eyJzZWdtZW50SUQiOiJiNTE0YTNkMC0xM2IxLTRjMGYtYTAzMy05OTdiYzc4Yjc1YjEiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjoxOX0=",
-      "start_time": "2024-05-06T18:30:00Z",
-      "end_time": "2024-05-06T22:00:00Z",
-      "title": "Soirée du lundi",
-      "canceled_until": null,
-      "category": {
-        "id": "509658",
-        "name": "Just Chatting"
-      },
-      "is_recurring": true
-    },
-    {
-      "id": "eyJzZWdtZW50SUQiOiJiNTE0YTNkMC0xM2IxLTRjMGYtYTAzMy05OTdiYzc4Yjc1YjEiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjoyMH0=",
-      "start_time": "2024-05-13T18:30:00Z",
-      "end_time": "2024-05-13T22:00:00Z",
       "title": "Soirée du lundi",
       "canceled_until": null,
       "category": {
