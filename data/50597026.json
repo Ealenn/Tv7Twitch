@@ -13,18 +13,6 @@
   },
   "schedulers": [
     {
-      "id": "eyJzZWdtZW50SUQiOiJiYjNiMjQ2MC02Y2YyLTRhZWYtOGM5ZS1jYzQ1MWE4YTZiOGIiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjo2fQ==",
-      "start_time": "2024-02-08T12:00:00Z",
-      "end_time": "2024-02-08T17:00:00Z",
-      "title": "Début de l’aventure Baldur’s Gate 3 avec le bro Rivenzi",
-      "canceled_until": null,
-      "category": {
-        "id": "512923",
-        "name": "Baldur's Gate 3"
-      },
-      "is_recurring": true
-    },
-    {
       "id": "eyJzZWdtZW50SUQiOiIxM2Q2MmUzYy02ZjRmLTQ3YjMtOGFkOS1lNmRmN2M4OTlmNTMiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjo2fQ==",
       "start_time": "2024-02-09T10:00:00Z",
       "end_time": "2024-02-09T19:00:00Z",
@@ -245,6 +233,18 @@
       "start_time": "2024-02-23T10:00:00Z",
       "end_time": "2024-02-23T19:00:00Z",
       "title": "Le retour du Chaman tank, WoW SOD phase 2",
+      "canceled_until": null,
+      "category": {
+        "id": "18122",
+        "name": "World of Warcraft"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiI0ZTcyYzlkZi1lYWY0LTQ2ODUtYjlkMi00NWU2OWUwNzk0MmEiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjo4fQ==",
+      "start_time": "2024-02-24T11:00:00Z",
+      "end_time": "2024-02-24T18:00:00Z",
+      "title": "WoW SOD phase 2",
       "canceled_until": null,
       "category": {
         "id": "18122",
