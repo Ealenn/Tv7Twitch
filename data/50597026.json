@@ -13,18 +13,6 @@
   },
   "schedulers": [
     {
-      "id": "eyJzZWdtZW50SUQiOiIxM2Q2MmUzYy02ZjRmLTQ3YjMtOGFkOS1lNmRmN2M4OTlmNTMiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjo2fQ==",
-      "start_time": "2024-02-09T10:00:00Z",
-      "end_time": "2024-02-09T19:00:00Z",
-      "title": "Le retour du Chaman tank, WoW SOD phase 2",
-      "canceled_until": null,
-      "category": {
-        "id": "18122",
-        "name": "World of Warcraft"
-      },
-      "is_recurring": true
-    },
-    {
       "id": "eyJzZWdtZW50SUQiOiI0ZTcyYzlkZi1lYWY0LTQ2ODUtYjlkMi00NWU2OWUwNzk0MmEiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjo2fQ==",
       "start_time": "2024-02-10T11:00:00Z",
       "end_time": "2024-02-10T18:00:00Z",
@@ -244,6 +232,18 @@
       "id": "eyJzZWdtZW50SUQiOiI0ZTcyYzlkZi1lYWY0LTQ2ODUtYjlkMi00NWU2OWUwNzk0MmEiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjo4fQ==",
       "start_time": "2024-02-24T11:00:00Z",
       "end_time": "2024-02-24T18:00:00Z",
+      "title": "WoW SOD phase 2",
+      "canceled_until": null,
+      "category": {
+        "id": "18122",
+        "name": "World of Warcraft"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiI4YjI5YzE1My04NjY5LTQ2ZjAtYjE2Yi1hZjRmMTM0MTMxZGMiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjo4fQ==",
+      "start_time": "2024-02-25T13:00:00Z",
+      "end_time": "2024-02-25T19:00:00Z",
       "title": "WoW SOD phase 2",
       "canceled_until": null,
       "category": {
