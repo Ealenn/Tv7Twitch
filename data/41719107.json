@@ -13,30 +13,6 @@
   },
   "schedulers": [
     {
-      "id": "eyJzZWdtZW50SUQiOiJmNTQwNjZlNy01OWQ1LTQwMmMtODMxNi03MDY0NmQ5NzNmOTQiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjo2fQ==",
-      "start_time": "2024-02-10T17:00:00Z",
-      "end_time": "2024-02-10T20:00:00Z",
-      "title": "MDR vs VLNT. Match Valorant de l'équipe Mandatory",
-      "canceled_until": null,
-      "category": {
-        "id": "516575",
-        "name": "VALORANT"
-      },
-      "is_recurring": false
-    },
-    {
-      "id": "eyJzZWdtZW50SUQiOiIyNDYyYjNiMy0xMTA2LTRiM2MtODQ3NC01OWY2ZTJmYWI3NjQiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjo2fQ==",
-      "start_time": "2024-02-10T20:00:00Z",
-      "end_time": "2024-02-11T00:00:00Z",
-      "title": "Season of Discovery, suite du pexing 25-40",
-      "canceled_until": null,
-      "category": {
-        "id": "18122",
-        "name": "World of Warcraft"
-      },
-      "is_recurring": false
-    },
-    {
       "id": "eyJzZWdtZW50SUQiOiJkYjYwNjEzNS00MTdjLTQ0MDItYTM1YS0zZmRmMzRmNzBhYmMiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjo2fQ==",
       "start_time": "2024-02-11T19:00:00Z",
       "end_time": "2024-02-11T23:00:00Z",
@@ -244,6 +220,30 @@
       "id": "eyJzZWdtZW50SUQiOiJiNTE0YTNkMC0xM2IxLTRjMGYtYTAzMy05OTdiYzc4Yjc1YjEiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjoyMH0=",
       "start_time": "2024-05-13T18:30:00Z",
       "end_time": "2024-05-13T22:00:00Z",
+      "title": "Soirée du lundi",
+      "canceled_until": null,
+      "category": {
+        "id": "509658",
+        "name": "Just Chatting"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiJiNTE0YTNkMC0xM2IxLTRjMGYtYTAzMy05OTdiYzc4Yjc1YjEiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjoyMX0=",
+      "start_time": "2024-05-20T18:30:00Z",
+      "end_time": "2024-05-20T22:00:00Z",
+      "title": "Soirée du lundi",
+      "canceled_until": null,
+      "category": {
+        "id": "509658",
+        "name": "Just Chatting"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiJiNTE0YTNkMC0xM2IxLTRjMGYtYTAzMy05OTdiYzc4Yjc1YjEiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjoyMn0=",
+      "start_time": "2024-05-27T18:30:00Z",
+      "end_time": "2024-05-27T22:00:00Z",
       "title": "Soirée du lundi",
       "canceled_until": null,
       "category": {
