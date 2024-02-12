@@ -13,18 +13,6 @@
   },
   "schedulers": [
     {
-      "id": "eyJzZWdtZW50SUQiOiJkYjYwNjEzNS00MTdjLTQ0MDItYTM1YS0zZmRmMzRmNzBhYmMiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjo2fQ==",
-      "start_time": "2024-02-11T19:00:00Z",
-      "end_time": "2024-02-11T23:00:00Z",
-      "title": "Indiemanche spécial Neo Fest avec 4 jeux au lieu de 2 (1 jeu par heure)",
-      "canceled_until": null,
-      "category": {
-        "id": "1376148504",
-        "name": "Independent Games"
-      },
-      "is_recurring": false
-    },
-    {
       "id": "eyJzZWdtZW50SUQiOiJiNTE0YTNkMC0xM2IxLTRjMGYtYTAzMy05OTdiYzc4Yjc1YjEiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjo3fQ==",
       "start_time": "2024-02-12T19:30:00Z",
       "end_time": "2024-02-12T23:00:00Z",
@@ -35,6 +23,30 @@
         "name": "Just Chatting"
       },
       "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiI1NWQ5YTBmNC0xM2JlLTRjZTYtOGQyMi1lOTZkY2M0YzMwZDUiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjo3fQ==",
+      "start_time": "2024-02-13T19:00:00Z",
+      "end_time": "2024-02-13T23:00:00Z",
+      "title": "RAID Gnomeregan Season of Discovery avec tout le monde",
+      "canceled_until": null,
+      "category": {
+        "id": "18122",
+        "name": "World of Warcraft"
+      },
+      "is_recurring": false
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiI2MmRmMGIyNS1iOWE5LTQyMmQtOWI4Yi03YjM5YzE3YTQwMjciLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjo3fQ==",
+      "start_time": "2024-02-16T19:00:00Z",
+      "end_time": "2024-02-16T23:00:00Z",
+      "title": "Finale tournoi DFG Lethal Company",
+      "canceled_until": null,
+      "category": {
+        "id": "2085980140",
+        "name": "Lethal Company"
+      },
+      "is_recurring": false
     },
     {
       "id": "eyJzZWdtZW50SUQiOiJiODJiNmM2ZC05MmI0LTQyZWQtYmIyZS03YzcyY2FlMjNlZDQiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjo3fQ==",
@@ -232,18 +244,6 @@
       "id": "eyJzZWdtZW50SUQiOiJiNTE0YTNkMC0xM2IxLTRjMGYtYTAzMy05OTdiYzc4Yjc1YjEiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjoyMX0=",
       "start_time": "2024-05-20T18:30:00Z",
       "end_time": "2024-05-20T22:00:00Z",
-      "title": "Soirée du lundi",
-      "canceled_until": null,
-      "category": {
-        "id": "509658",
-        "name": "Just Chatting"
-      },
-      "is_recurring": true
-    },
-    {
-      "id": "eyJzZWdtZW50SUQiOiJiNTE0YTNkMC0xM2IxLTRjMGYtYTAzMy05OTdiYzc4Yjc1YjEiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjoyMn0=",
-      "start_time": "2024-05-27T18:30:00Z",
-      "end_time": "2024-05-27T22:00:00Z",
       "title": "Soirée du lundi",
       "canceled_until": null,
       "category": {
