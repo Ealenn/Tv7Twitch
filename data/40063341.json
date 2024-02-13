@@ -7,28 +7,16 @@
     "broadcaster_type": "partner",
     "description": "",
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/3cdae7df-600c-4833-8dfe-8d2abc5a3b25-profile_image-300x300.png",
-    "offline_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/2dedfbaa-3458-4cf8-a0be-d85579d8f8b7-channel_offline_image-1920x1080.png",
+    "offline_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/ef6b02c2-a3cb-4f28-95a9-766700634d7f-channel_offline_image-1920x1080.png",
     "view_count": 0,
     "created_at": "2013-02-05T19:20:22Z"
   },
   "schedulers": [
     {
-      "id": "eyJzZWdtZW50SUQiOiJkMjc5YTZhMi1mNjhlLTQ0NTktOGZlNS0yNWU3NmZiNWVmNzEiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjo3fQ==",
-      "start_time": "2024-02-12T18:30:00Z",
-      "end_time": "2024-02-12T19:30:00Z",
-      "title": "🎙 PRÉ LIVE",
-      "canceled_until": null,
-      "category": {
-        "id": "509658",
-        "name": "Just Chatting"
-      },
-      "is_recurring": true
-    },
-    {
       "id": "eyJzZWdtZW50SUQiOiJhMTI2NDdjMi00NzBlLTQyYWEtOTE1OC1kMTE0N2I0NWYxYTgiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjo3fQ==",
       "start_time": "2024-02-13T19:00:00Z",
       "end_time": "2024-02-13T21:30:00Z",
-      "title": "🍿 POPCORN AVEC RIVENZI, PONCE & BAGHERA ",
+      "title": "🍿 POPCORN AVEC ENJOYPHOENIX, S. ÉTIENNE & MICODE ",
       "canceled_until": null,
       "category": {
         "id": "417752",
@@ -37,28 +25,28 @@
       "is_recurring": true
     },
     {
-      "id": "eyJzZWdtZW50SUQiOiI5Y2I4ZWYzZi1jYWNkLTQwZjUtODYzNC0zZGIxYWRmZTkzNmIiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjo3fQ==",
-      "start_time": "2024-02-14T13:00:00Z",
-      "end_time": "2024-02-14T14:00:00Z",
-      "title": "🎙 PRÉ LIVE",
+      "id": "eyJzZWdtZW50SUQiOiI3YWY0MDk4Zi1jYzYxLTQ2ZmUtODZjZC0xNzA1YjM5ODg3YTEiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjo3fQ==",
+      "start_time": "2024-02-16T13:00:00Z",
+      "end_time": "2024-02-16T14:00:00Z",
+      "title": "🎙️ PRÉ-LIVE",
       "canceled_until": null,
       "category": {
         "id": "509658",
         "name": "Just Chatting"
       },
-      "is_recurring": true
+      "is_recurring": false
     },
     {
-      "id": "eyJzZWdtZW50SUQiOiJiZmRhZWYzNi1jNjc3LTRlODktOTgyZS04NjhmMTViZmFiMDQiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjo3fQ==",
-      "start_time": "2024-02-15T13:00:00Z",
-      "end_time": "2024-02-15T14:00:00Z",
-      "title": "🎙 PRÉ LIVE ",
+      "id": "eyJzZWdtZW50SUQiOiI4ODdkNWQzYy0zNTdjLTQ5N2UtYWM4Ni00N2Q5OWFmMzFjYzQiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjo3fQ==",
+      "start_time": "2024-02-16T14:00:00Z",
+      "end_time": "2024-02-16T18:00:00Z",
+      "title": "⚽️ COACH BIZOT EST DE RETOUR",
       "canceled_until": null,
       "category": {
-        "id": "509658",
-        "name": "Just Chatting"
+        "id": "2091165871",
+        "name": "Football Manager 2024"
       },
-      "is_recurring": true
+      "is_recurring": false
     },
     {
       "id": "eyJzZWdtZW50SUQiOiJkMjc5YTZhMi1mNjhlLTQ0NTktOGZlNS0yNWU3NmZiNWVmNzEiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjo4fQ==",
@@ -76,35 +64,11 @@
       "id": "eyJzZWdtZW50SUQiOiJhMTI2NDdjMi00NzBlLTQyYWEtOTE1OC1kMTE0N2I0NWYxYTgiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjo4fQ==",
       "start_time": "2024-02-20T19:00:00Z",
       "end_time": "2024-02-20T21:30:00Z",
-      "title": "🍿 POPCORN AVEC RIVENZI, PONCE & BAGHERA ",
+      "title": "🍿 POPCORN AVEC ENJOYPHOENIX, S. ÉTIENNE & MICODE ",
       "canceled_until": null,
       "category": {
         "id": "417752",
         "name": "Talk Shows & Podcasts"
-      },
-      "is_recurring": true
-    },
-    {
-      "id": "eyJzZWdtZW50SUQiOiI5Y2I4ZWYzZi1jYWNkLTQwZjUtODYzNC0zZGIxYWRmZTkzNmIiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjo4fQ==",
-      "start_time": "2024-02-21T13:00:00Z",
-      "end_time": "2024-02-21T14:00:00Z",
-      "title": "🎙 PRÉ LIVE",
-      "canceled_until": null,
-      "category": {
-        "id": "509658",
-        "name": "Just Chatting"
-      },
-      "is_recurring": true
-    },
-    {
-      "id": "eyJzZWdtZW50SUQiOiJiZmRhZWYzNi1jNjc3LTRlODktOTgyZS04NjhmMTViZmFiMDQiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjo4fQ==",
-      "start_time": "2024-02-22T13:00:00Z",
-      "end_time": "2024-02-22T14:00:00Z",
-      "title": "🎙 PRÉ LIVE ",
-      "canceled_until": null,
-      "category": {
-        "id": "509658",
-        "name": "Just Chatting"
       },
       "is_recurring": true
     },
@@ -124,35 +88,11 @@
       "id": "eyJzZWdtZW50SUQiOiJhMTI2NDdjMi00NzBlLTQyYWEtOTE1OC1kMTE0N2I0NWYxYTgiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjo5fQ==",
       "start_time": "2024-02-27T19:00:00Z",
       "end_time": "2024-02-27T21:30:00Z",
-      "title": "🍿 POPCORN AVEC RIVENZI, PONCE & BAGHERA ",
+      "title": "🍿 POPCORN AVEC ENJOYPHOENIX, S. ÉTIENNE & MICODE ",
       "canceled_until": null,
       "category": {
         "id": "417752",
         "name": "Talk Shows & Podcasts"
-      },
-      "is_recurring": true
-    },
-    {
-      "id": "eyJzZWdtZW50SUQiOiI5Y2I4ZWYzZi1jYWNkLTQwZjUtODYzNC0zZGIxYWRmZTkzNmIiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjo5fQ==",
-      "start_time": "2024-02-28T13:00:00Z",
-      "end_time": "2024-02-28T14:00:00Z",
-      "title": "🎙 PRÉ LIVE",
-      "canceled_until": null,
-      "category": {
-        "id": "509658",
-        "name": "Just Chatting"
-      },
-      "is_recurring": true
-    },
-    {
-      "id": "eyJzZWdtZW50SUQiOiJiZmRhZWYzNi1jNjc3LTRlODktOTgyZS04NjhmMTViZmFiMDQiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjo5fQ==",
-      "start_time": "2024-02-29T13:00:00Z",
-      "end_time": "2024-02-29T14:00:00Z",
-      "title": "🎙 PRÉ LIVE ",
-      "canceled_until": null,
-      "category": {
-        "id": "509658",
-        "name": "Just Chatting"
       },
       "is_recurring": true
     },
@@ -172,35 +112,11 @@
       "id": "eyJzZWdtZW50SUQiOiJhMTI2NDdjMi00NzBlLTQyYWEtOTE1OC1kMTE0N2I0NWYxYTgiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjoxMH0=",
       "start_time": "2024-03-05T19:00:00Z",
       "end_time": "2024-03-05T21:30:00Z",
-      "title": "🍿 POPCORN AVEC RIVENZI, PONCE & BAGHERA ",
+      "title": "🍿 POPCORN AVEC ENJOYPHOENIX, S. ÉTIENNE & MICODE ",
       "canceled_until": null,
       "category": {
         "id": "417752",
         "name": "Talk Shows & Podcasts"
-      },
-      "is_recurring": true
-    },
-    {
-      "id": "eyJzZWdtZW50SUQiOiI5Y2I4ZWYzZi1jYWNkLTQwZjUtODYzNC0zZGIxYWRmZTkzNmIiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjoxMH0=",
-      "start_time": "2024-03-06T13:00:00Z",
-      "end_time": "2024-03-06T14:00:00Z",
-      "title": "🎙 PRÉ LIVE",
-      "canceled_until": null,
-      "category": {
-        "id": "509658",
-        "name": "Just Chatting"
-      },
-      "is_recurring": true
-    },
-    {
-      "id": "eyJzZWdtZW50SUQiOiJiZmRhZWYzNi1jNjc3LTRlODktOTgyZS04NjhmMTViZmFiMDQiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjoxMH0=",
-      "start_time": "2024-03-07T13:00:00Z",
-      "end_time": "2024-03-07T14:00:00Z",
-      "title": "🎙 PRÉ LIVE ",
-      "canceled_until": null,
-      "category": {
-        "id": "509658",
-        "name": "Just Chatting"
       },
       "is_recurring": true
     },
@@ -220,7 +136,7 @@
       "id": "eyJzZWdtZW50SUQiOiJhMTI2NDdjMi00NzBlLTQyYWEtOTE1OC1kMTE0N2I0NWYxYTgiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjoxMX0=",
       "start_time": "2024-03-12T19:00:00Z",
       "end_time": "2024-03-12T21:30:00Z",
-      "title": "🍿 POPCORN AVEC RIVENZI, PONCE & BAGHERA ",
+      "title": "🍿 POPCORN AVEC ENJOYPHOENIX, S. ÉTIENNE & MICODE ",
       "canceled_until": null,
       "category": {
         "id": "417752",
@@ -229,9 +145,9 @@
       "is_recurring": true
     },
     {
-      "id": "eyJzZWdtZW50SUQiOiI5Y2I4ZWYzZi1jYWNkLTQwZjUtODYzNC0zZGIxYWRmZTkzNmIiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjoxMX0=",
-      "start_time": "2024-03-13T13:00:00Z",
-      "end_time": "2024-03-13T14:00:00Z",
+      "id": "eyJzZWdtZW50SUQiOiJkMjc5YTZhMi1mNjhlLTQ0NTktOGZlNS0yNWU3NmZiNWVmNzEiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjoxMn0=",
+      "start_time": "2024-03-18T18:30:00Z",
+      "end_time": "2024-03-18T19:30:00Z",
       "title": "🎙 PRÉ LIVE",
       "canceled_until": null,
       "category": {
@@ -241,10 +157,94 @@
       "is_recurring": true
     },
     {
-      "id": "eyJzZWdtZW50SUQiOiJiZmRhZWYzNi1jNjc3LTRlODktOTgyZS04NjhmMTViZmFiMDQiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjoxMX0=",
-      "start_time": "2024-03-14T13:00:00Z",
-      "end_time": "2024-03-14T14:00:00Z",
-      "title": "🎙 PRÉ LIVE ",
+      "id": "eyJzZWdtZW50SUQiOiJhMTI2NDdjMi00NzBlLTQyYWEtOTE1OC1kMTE0N2I0NWYxYTgiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjoxMn0=",
+      "start_time": "2024-03-19T19:00:00Z",
+      "end_time": "2024-03-19T21:30:00Z",
+      "title": "🍿 POPCORN AVEC ENJOYPHOENIX, S. ÉTIENNE & MICODE ",
+      "canceled_until": null,
+      "category": {
+        "id": "417752",
+        "name": "Talk Shows & Podcasts"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiJkMjc5YTZhMi1mNjhlLTQ0NTktOGZlNS0yNWU3NmZiNWVmNzEiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjoxM30=",
+      "start_time": "2024-03-25T18:30:00Z",
+      "end_time": "2024-03-25T19:30:00Z",
+      "title": "🎙 PRÉ LIVE",
+      "canceled_until": null,
+      "category": {
+        "id": "509658",
+        "name": "Just Chatting"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiJhMTI2NDdjMi00NzBlLTQyYWEtOTE1OC1kMTE0N2I0NWYxYTgiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjoxM30=",
+      "start_time": "2024-03-26T19:00:00Z",
+      "end_time": "2024-03-26T21:30:00Z",
+      "title": "🍿 POPCORN AVEC ENJOYPHOENIX, S. ÉTIENNE & MICODE ",
+      "canceled_until": null,
+      "category": {
+        "id": "417752",
+        "name": "Talk Shows & Podcasts"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiJkMjc5YTZhMi1mNjhlLTQ0NTktOGZlNS0yNWU3NmZiNWVmNzEiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjoxNH0=",
+      "start_time": "2024-04-01T17:30:00Z",
+      "end_time": "2024-04-01T18:30:00Z",
+      "title": "🎙 PRÉ LIVE",
+      "canceled_until": null,
+      "category": {
+        "id": "509658",
+        "name": "Just Chatting"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiJhMTI2NDdjMi00NzBlLTQyYWEtOTE1OC1kMTE0N2I0NWYxYTgiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjoxNH0=",
+      "start_time": "2024-04-02T18:00:00Z",
+      "end_time": "2024-04-02T20:30:00Z",
+      "title": "🍿 POPCORN AVEC ENJOYPHOENIX, S. ÉTIENNE & MICODE ",
+      "canceled_until": null,
+      "category": {
+        "id": "417752",
+        "name": "Talk Shows & Podcasts"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiJkMjc5YTZhMi1mNjhlLTQ0NTktOGZlNS0yNWU3NmZiNWVmNzEiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjoxNX0=",
+      "start_time": "2024-04-08T17:30:00Z",
+      "end_time": "2024-04-08T18:30:00Z",
+      "title": "🎙 PRÉ LIVE",
+      "canceled_until": null,
+      "category": {
+        "id": "509658",
+        "name": "Just Chatting"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiJhMTI2NDdjMi00NzBlLTQyYWEtOTE1OC1kMTE0N2I0NWYxYTgiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjoxNX0=",
+      "start_time": "2024-04-09T18:00:00Z",
+      "end_time": "2024-04-09T20:30:00Z",
+      "title": "🍿 POPCORN AVEC ENJOYPHOENIX, S. ÉTIENNE & MICODE ",
+      "canceled_until": null,
+      "category": {
+        "id": "417752",
+        "name": "Talk Shows & Podcasts"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiJkMjc5YTZhMi1mNjhlLTQ0NTktOGZlNS0yNWU3NmZiNWVmNzEiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjoxNn0=",
+      "start_time": "2024-04-15T17:30:00Z",
+      "end_time": "2024-04-15T18:30:00Z",
+      "title": "🎙 PRÉ LIVE",
       "canceled_until": null,
       "category": {
         "id": "509658",

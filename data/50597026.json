@@ -7,68 +7,44 @@
     "broadcaster_type": "partner",
     "description": "On se tape des immenses barres.",
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/d4737061-8f00-49d9-a56f-fcb4a9230b3f-profile_image-300x300.png",
-    "offline_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/c530adc0-f6a7-4232-8881-1a6af3e3b379-channel_offline_image-1920x1080.jpeg",
+    "offline_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/dfc979f6-227c-4699-91d8-6e1e71c08162-channel_offline_image-1920x1080.jpeg",
     "view_count": 0,
     "created_at": "2013-10-24T19:04:45Z"
   },
   "schedulers": [
     {
-      "id": "eyJzZWdtZW50SUQiOiI1NDYzNDM1ZC0zOTI3LTQ2NmQtOTM5NC1jYzhkMDQ0NjQ2NzIiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjo3fQ==",
-      "start_time": "2024-02-12T10:00:00Z",
-      "end_time": "2024-02-12T17:00:00Z",
-      "title": "Culture et plaisir sur le Maitre des Fleurs",
-      "canceled_until": null,
-      "category": {
-        "id": "338715930",
-        "name": "Maitre des Fleurs"
-      },
-      "is_recurring": true
-    },
-    {
       "id": "eyJzZWdtZW50SUQiOiI4MTNiNDhmNC1hZTEyLTQyNzctYWJiYi0xNmMxMWFjYTlhZDIiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjo3fQ==",
       "start_time": "2024-02-13T10:00:00Z",
       "end_time": "2024-02-13T14:00:00Z",
-      "title": "Lycans avé les potes",
+      "title": "Codenames avé les potes",
       "canceled_until": null,
       "category": {
-        "id": "1494074023",
-        "name": "Lycans"
+        "id": "508509",
+        "name": "Codenames"
       },
       "is_recurring": true
     },
     {
       "id": "eyJzZWdtZW50SUQiOiI3NTg1OTcwZS0yNzdlLTRkM2YtODI4Yi1kN2JhOGQ3Mzk3NjQiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjo3fQ==",
       "start_time": "2024-02-13T14:00:00Z",
-      "end_time": "2024-02-13T17:00:00Z",
-      "title": "Épisode bonus de LiS Before the Storm",
+      "end_time": "2024-02-13T20:00:00Z",
+      "title": "WoW SoD \"Préparation puis découverte du raid avec l'équipe\"",
       "canceled_until": null,
       "category": {
-        "id": "497443",
-        "name": "Life is Strange: Before the Storm"
+        "id": "18122",
+        "name": "World of Warcraft"
       },
       "is_recurring": true
     },
     {
-      "id": "eyJzZWdtZW50SUQiOiIxODY5MDk4Ni00M2NkLTQxNzgtOGYxOC05YmYzZjU4YmJjZmMiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjo3fQ==",
-      "start_time": "2024-02-14T16:00:00Z",
-      "end_time": "2024-02-14T19:00:00Z",
-      "title": "Foamstars avec Ultia, Alphacast & Littlebigwhale",
+      "id": "eyJzZWdtZW50SUQiOiI3ODBmNDU5Ni0yNTY5LTQyNTUtOGYyNy02OWYyNmI0MDE3YTEiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjo3fQ==",
+      "start_time": "2024-02-14T10:00:00Z",
+      "end_time": "2024-02-14T17:00:00Z",
+      "title": "Slowrun 100% Zelda TOTK",
       "canceled_until": null,
       "category": {
-        "id": "2065843490",
-        "name": "FOAMSTARS"
-      },
-      "is_recurring": true
-    },
-    {
-      "id": "eyJzZWdtZW50SUQiOiJkZjI4ZjQwMS1mYTZmLTQ0Y2UtODk3Yi1kMWYyMmRiOTYxNjMiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjo3fQ==",
-      "start_time": "2024-02-14T19:00:00Z",
-      "end_time": "2024-02-14T23:00:00Z",
-      "title": "Event Trackmania organisé par Wingo avec plein de potes",
-      "canceled_until": null,
-      "category": {
-        "id": "687129551",
-        "name": "Trackmania"
+        "id": "512998",
+        "name": "The Legend of Zelda: Tears of the Kingdom"
       },
       "is_recurring": true
     },
@@ -76,7 +52,7 @@
       "id": "eyJzZWdtZW50SUQiOiJiYjNiMjQ2MC02Y2YyLTRhZWYtOGM5ZS1jYzQ1MWE4YTZiOGIiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjo3fQ==",
       "start_time": "2024-02-15T12:00:00Z",
       "end_time": "2024-02-15T17:00:00Z",
-      "title": "Début de l’aventure Baldur’s Gate 3 avec le bro Rivenzi",
+      "title": "Suite de l’aventure Baldur’s Gate 3 avec Rivenzi",
       "canceled_until": null,
       "category": {
         "id": "512923",
@@ -87,38 +63,26 @@
     {
       "id": "eyJzZWdtZW50SUQiOiIxM2Q2MmUzYy02ZjRmLTQ3YjMtOGFkOS1lNmRmN2M4OTlmNTMiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjo3fQ==",
       "start_time": "2024-02-16T10:00:00Z",
-      "end_time": "2024-02-16T19:00:00Z",
-      "title": "Le retour du Chaman tank, WoW SOD phase 2",
+      "end_time": "2024-02-16T17:00:00Z",
+      "title": "Suite de l’aventure Baldur’s Gate 3 avec Rivenzi",
       "canceled_until": null,
       "category": {
-        "id": "18122",
-        "name": "World of Warcraft"
+        "id": "512923",
+        "name": "Baldur's Gate 3"
       },
       "is_recurring": true
     },
     {
-      "id": "eyJzZWdtZW50SUQiOiI0ZTcyYzlkZi1lYWY0LTQ2ODUtYjlkMi00NWU2OWUwNzk0MmEiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjo3fQ==",
-      "start_time": "2024-02-17T11:00:00Z",
-      "end_time": "2024-02-17T18:00:00Z",
-      "title": "WoW SOD phase 2",
+      "id": "eyJzZWdtZW50SUQiOiJiNjlhY2U0MS1hMDBlLTRhYTctOTU4Yi03NWQzYzRmNDBlN2UiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjo3fQ==",
+      "start_time": "2024-02-16T19:00:00Z",
+      "end_time": "2024-02-16T23:00:00Z",
+      "title": "Finale du DFG Invitational sur Lethal Company (avec Antoine Ultia et Mynthos)",
       "canceled_until": null,
       "category": {
-        "id": "18122",
-        "name": "World of Warcraft"
+        "id": "2085980140",
+        "name": "Lethal Company"
       },
-      "is_recurring": true
-    },
-    {
-      "id": "eyJzZWdtZW50SUQiOiI4YjI5YzE1My04NjY5LTQ2ZjAtYjE2Yi1hZjRmMTM0MTMxZGMiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjo3fQ==",
-      "start_time": "2024-02-18T13:00:00Z",
-      "end_time": "2024-02-18T19:00:00Z",
-      "title": "WoW SOD phase 2",
-      "canceled_until": null,
-      "category": {
-        "id": "18122",
-        "name": "World of Warcraft"
-      },
-      "is_recurring": true
+      "is_recurring": false
     },
     {
       "id": "eyJzZWdtZW50SUQiOiI1NDYzNDM1ZC0zOTI3LTQ2NmQtOTM5NC1jYzhkMDQ0NjQ2NzIiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjo4fQ==",
@@ -136,47 +100,35 @@
       "id": "eyJzZWdtZW50SUQiOiI4MTNiNDhmNC1hZTEyLTQyNzctYWJiYi0xNmMxMWFjYTlhZDIiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjo4fQ==",
       "start_time": "2024-02-20T10:00:00Z",
       "end_time": "2024-02-20T14:00:00Z",
-      "title": "Lycans avé les potes",
+      "title": "Codenames avé les potes",
       "canceled_until": null,
       "category": {
-        "id": "1494074023",
-        "name": "Lycans"
+        "id": "508509",
+        "name": "Codenames"
       },
       "is_recurring": true
     },
     {
       "id": "eyJzZWdtZW50SUQiOiI3NTg1OTcwZS0yNzdlLTRkM2YtODI4Yi1kN2JhOGQ3Mzk3NjQiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjo4fQ==",
       "start_time": "2024-02-20T14:00:00Z",
-      "end_time": "2024-02-20T17:00:00Z",
-      "title": "Épisode bonus de LiS Before the Storm",
+      "end_time": "2024-02-20T20:00:00Z",
+      "title": "WoW SoD \"Préparation puis découverte du raid avec l'équipe\"",
       "canceled_until": null,
       "category": {
-        "id": "497443",
-        "name": "Life is Strange: Before the Storm"
+        "id": "18122",
+        "name": "World of Warcraft"
       },
       "is_recurring": true
     },
     {
-      "id": "eyJzZWdtZW50SUQiOiIxODY5MDk4Ni00M2NkLTQxNzgtOGYxOC05YmYzZjU4YmJjZmMiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjo4fQ==",
-      "start_time": "2024-02-21T16:00:00Z",
-      "end_time": "2024-02-21T19:00:00Z",
-      "title": "Foamstars avec Ultia, Alphacast & Littlebigwhale",
+      "id": "eyJzZWdtZW50SUQiOiI3ODBmNDU5Ni0yNTY5LTQyNTUtOGYyNy02OWYyNmI0MDE3YTEiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjo4fQ==",
+      "start_time": "2024-02-21T10:00:00Z",
+      "end_time": "2024-02-21T17:00:00Z",
+      "title": "Slowrun 100% Zelda TOTK",
       "canceled_until": null,
       "category": {
-        "id": "2065843490",
-        "name": "FOAMSTARS"
-      },
-      "is_recurring": true
-    },
-    {
-      "id": "eyJzZWdtZW50SUQiOiJkZjI4ZjQwMS1mYTZmLTQ0Y2UtODk3Yi1kMWYyMmRiOTYxNjMiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjo4fQ==",
-      "start_time": "2024-02-21T19:00:00Z",
-      "end_time": "2024-02-21T23:00:00Z",
-      "title": "Event Trackmania organisé par Wingo avec plein de potes",
-      "canceled_until": null,
-      "category": {
-        "id": "687129551",
-        "name": "Trackmania"
+        "id": "512998",
+        "name": "The Legend of Zelda: Tears of the Kingdom"
       },
       "is_recurring": true
     },
@@ -184,7 +136,7 @@
       "id": "eyJzZWdtZW50SUQiOiJiYjNiMjQ2MC02Y2YyLTRhZWYtOGM5ZS1jYzQ1MWE4YTZiOGIiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjo4fQ==",
       "start_time": "2024-02-22T12:00:00Z",
       "end_time": "2024-02-22T17:00:00Z",
-      "title": "Début de l’aventure Baldur’s Gate 3 avec le bro Rivenzi",
+      "title": "Suite de l’aventure Baldur’s Gate 3 avec Rivenzi",
       "canceled_until": null,
       "category": {
         "id": "512923",
@@ -195,36 +147,12 @@
     {
       "id": "eyJzZWdtZW50SUQiOiIxM2Q2MmUzYy02ZjRmLTQ3YjMtOGFkOS1lNmRmN2M4OTlmNTMiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjo4fQ==",
       "start_time": "2024-02-23T10:00:00Z",
-      "end_time": "2024-02-23T19:00:00Z",
-      "title": "Le retour du Chaman tank, WoW SOD phase 2",
+      "end_time": "2024-02-23T17:00:00Z",
+      "title": "Suite de l’aventure Baldur’s Gate 3 avec Rivenzi",
       "canceled_until": null,
       "category": {
-        "id": "18122",
-        "name": "World of Warcraft"
-      },
-      "is_recurring": true
-    },
-    {
-      "id": "eyJzZWdtZW50SUQiOiI0ZTcyYzlkZi1lYWY0LTQ2ODUtYjlkMi00NWU2OWUwNzk0MmEiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjo4fQ==",
-      "start_time": "2024-02-24T11:00:00Z",
-      "end_time": "2024-02-24T18:00:00Z",
-      "title": "WoW SOD phase 2",
-      "canceled_until": null,
-      "category": {
-        "id": "18122",
-        "name": "World of Warcraft"
-      },
-      "is_recurring": true
-    },
-    {
-      "id": "eyJzZWdtZW50SUQiOiI4YjI5YzE1My04NjY5LTQ2ZjAtYjE2Yi1hZjRmMTM0MTMxZGMiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjo4fQ==",
-      "start_time": "2024-02-25T13:00:00Z",
-      "end_time": "2024-02-25T19:00:00Z",
-      "title": "WoW SOD phase 2",
-      "canceled_until": null,
-      "category": {
-        "id": "18122",
-        "name": "World of Warcraft"
+        "id": "512923",
+        "name": "Baldur's Gate 3"
       },
       "is_recurring": true
     },
@@ -244,11 +172,83 @@
       "id": "eyJzZWdtZW50SUQiOiI4MTNiNDhmNC1hZTEyLTQyNzctYWJiYi0xNmMxMWFjYTlhZDIiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjo5fQ==",
       "start_time": "2024-02-27T10:00:00Z",
       "end_time": "2024-02-27T14:00:00Z",
-      "title": "Lycans avé les potes",
+      "title": "Codenames avé les potes",
       "canceled_until": null,
       "category": {
-        "id": "1494074023",
-        "name": "Lycans"
+        "id": "508509",
+        "name": "Codenames"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiI3NTg1OTcwZS0yNzdlLTRkM2YtODI4Yi1kN2JhOGQ3Mzk3NjQiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjo5fQ==",
+      "start_time": "2024-02-27T14:00:00Z",
+      "end_time": "2024-02-27T20:00:00Z",
+      "title": "WoW SoD \"Préparation puis découverte du raid avec l'équipe\"",
+      "canceled_until": null,
+      "category": {
+        "id": "18122",
+        "name": "World of Warcraft"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiI3ODBmNDU5Ni0yNTY5LTQyNTUtOGYyNy02OWYyNmI0MDE3YTEiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjo5fQ==",
+      "start_time": "2024-02-28T10:00:00Z",
+      "end_time": "2024-02-28T17:00:00Z",
+      "title": "Slowrun 100% Zelda TOTK",
+      "canceled_until": null,
+      "category": {
+        "id": "512998",
+        "name": "The Legend of Zelda: Tears of the Kingdom"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiJiYjNiMjQ2MC02Y2YyLTRhZWYtOGM5ZS1jYzQ1MWE4YTZiOGIiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjo5fQ==",
+      "start_time": "2024-02-29T12:00:00Z",
+      "end_time": "2024-02-29T17:00:00Z",
+      "title": "Suite de l’aventure Baldur’s Gate 3 avec Rivenzi",
+      "canceled_until": null,
+      "category": {
+        "id": "512923",
+        "name": "Baldur's Gate 3"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiIxM2Q2MmUzYy02ZjRmLTQ3YjMtOGFkOS1lNmRmN2M4OTlmNTMiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjo5fQ==",
+      "start_time": "2024-03-01T10:00:00Z",
+      "end_time": "2024-03-01T17:00:00Z",
+      "title": "Suite de l’aventure Baldur’s Gate 3 avec Rivenzi",
+      "canceled_until": null,
+      "category": {
+        "id": "512923",
+        "name": "Baldur's Gate 3"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiI1NDYzNDM1ZC0zOTI3LTQ2NmQtOTM5NC1jYzhkMDQ0NjQ2NzIiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjoxMH0=",
+      "start_time": "2024-03-04T10:00:00Z",
+      "end_time": "2024-03-04T17:00:00Z",
+      "title": "Culture et plaisir sur le Maitre des Fleurs",
+      "canceled_until": null,
+      "category": {
+        "id": "338715930",
+        "name": "Maitre des Fleurs"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiI4MTNiNDhmNC1hZTEyLTQyNzctYWJiYi0xNmMxMWFjYTlhZDIiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjoxMH0=",
+      "start_time": "2024-03-05T10:00:00Z",
+      "end_time": "2024-03-05T14:00:00Z",
+      "title": "Codenames avé les potes",
+      "canceled_until": null,
+      "category": {
+        "id": "508509",
+        "name": "Codenames"
       },
       "is_recurring": true
     }
