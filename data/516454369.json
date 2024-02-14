@@ -23,6 +23,30 @@
         "name": "Just Chatting"
       },
       "is_recurring": false
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiJmNzVlZTZmMC01M2I0LTRjZmQtOGE0MS04MjE1ZThmZmZkMjAiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjo5fQ==",
+      "start_time": "2024-02-28T17:00:00Z",
+      "end_time": null,
+      "title": "React JDR",
+      "canceled_until": null,
+      "category": {
+        "id": "509658",
+        "name": "Just Chatting"
+      },
+      "is_recurring": false
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiIwMTk0MTFkZi0xOWNhLTQwNDUtOWZlNy0xZDA5NjQ3ZWQwNTgiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjoxMX0=",
+      "start_time": "2024-03-13T15:30:00Z",
+      "end_time": "2024-03-13T17:00:00Z",
+      "title": "Le CNES et les jeunes",
+      "canceled_until": null,
+      "category": {
+        "id": "509658",
+        "name": "Just Chatting"
+      },
+      "is_recurring": false
     }
   ]
 }

@@ -13,18 +13,6 @@
   },
   "schedulers": [
     {
-      "id": "eyJzZWdtZW50SUQiOiI1NWQ5YTBmNC0xM2JlLTRjZTYtOGQyMi1lOTZkY2M0YzMwZDUiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjo3fQ==",
-      "start_time": "2024-02-13T19:00:00Z",
-      "end_time": "2024-02-13T23:00:00Z",
-      "title": "RAID Gnomeregan Season of Discovery avec tout le monde",
-      "canceled_until": null,
-      "category": {
-        "id": "18122",
-        "name": "World of Warcraft"
-      },
-      "is_recurring": false
-    },
-    {
       "id": "eyJzZWdtZW50SUQiOiI2MmRmMGIyNS1iOWE5LTQyMmQtOWI4Yi03YjM5YzE3YTQwMjciLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjo3fQ==",
       "start_time": "2024-02-16T19:00:00Z",
       "end_time": "2024-02-16T23:00:00Z",
@@ -244,6 +232,18 @@
       "id": "eyJzZWdtZW50SUQiOiJiNTE0YTNkMC0xM2IxLTRjMGYtYTAzMy05OTdiYzc4Yjc1YjEiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjoyMn0=",
       "start_time": "2024-05-27T18:30:00Z",
       "end_time": "2024-05-27T22:00:00Z",
+      "title": "Soirée du lundi",
+      "canceled_until": null,
+      "category": {
+        "id": "509658",
+        "name": "Just Chatting"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiJiNTE0YTNkMC0xM2IxLTRjMGYtYTAzMy05OTdiYzc4Yjc1YjEiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjoyM30=",
+      "start_time": "2024-06-03T18:30:00Z",
+      "end_time": "2024-06-03T22:00:00Z",
       "title": "Soirée du lundi",
       "canceled_until": null,
       "category": {
