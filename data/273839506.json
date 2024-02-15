@@ -1,0 +1,124 @@
+{
+  "channel": {
+    "id": "273839506",
+    "login": "micode",
+    "display_name": "Micode",
+    "type": "",
+    "broadcaster_type": "partner",
+    "description": "🥨 Underscore_ le talk-show des passionnés de l'IT, 1 mercredi sur 2, à 19h. Avec Micode, Matthieu Lambda & Tiffany Souterre",
+    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/e10f7afd-6132-4198-8309-5bd6bbb215e2-profile_image-300x300.png",
+    "offline_image_url": "",
+    "view_count": 0,
+    "created_at": "2018-11-10T10:20:40Z"
+  },
+  "schedulers": [
+    {
+      "id": "eyJzZWdtZW50SUQiOiI4MjYyYjNmMS1iMGVhLTQyNDAtYTQ0OS1iY2E2MTFmNmMyODAiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjo5fQ==",
+      "start_time": "2024-02-28T18:00:00Z",
+      "end_time": "2024-02-28T20:00:00Z",
+      "title": "Underscore_",
+      "canceled_until": null,
+      "category": {
+        "id": "417752",
+        "name": "Talk Shows & Podcasts"
+      },
+      "is_recurring": false
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiJjYzZmNmUyOS0wMGI0LTQ0MGYtYjMxMC1hNzA4NTNjYjk0MWEiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjoxMX0=",
+      "start_time": "2024-03-13T18:00:00Z",
+      "end_time": "2024-03-13T20:00:00Z",
+      "title": "Underscore_",
+      "canceled_until": null,
+      "category": {
+        "id": "417752",
+        "name": "Talk Shows & Podcasts"
+      },
+      "is_recurring": false
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiI0ODZlN2Y0ZC0xMjIzLTRlOTctYjRiNC1jZjg3ZjRhZmUwZTkiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjoxM30=",
+      "start_time": "2024-03-27T18:00:00Z",
+      "end_time": "2024-03-27T20:00:00Z",
+      "title": "Underscore_",
+      "canceled_until": null,
+      "category": {
+        "id": "417752",
+        "name": "Talk Shows & Podcasts"
+      },
+      "is_recurring": false
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiI2OWEwMDhjZC0wOTIzLTRlYTUtYmEzNC1kZDNjNTgyZmNmYzgiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjoxNX0=",
+      "start_time": "2024-04-10T17:00:00Z",
+      "end_time": "2024-04-10T19:00:00Z",
+      "title": "Underscore_",
+      "canceled_until": null,
+      "category": {
+        "id": "417752",
+        "name": "Talk Shows & Podcasts"
+      },
+      "is_recurring": false
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiI0ZmI2ZjgxYi0wOGY4LTRjZDAtOWE0Yi01ZmE4MGUwMTg2NzQiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjoxN30=",
+      "start_time": "2024-04-24T17:00:00Z",
+      "end_time": "2024-04-24T19:00:00Z",
+      "title": "Underscore_",
+      "canceled_until": null,
+      "category": {
+        "id": "417752",
+        "name": "Talk Shows & Podcasts"
+      },
+      "is_recurring": false
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiJkYzA4ZDEwMS0yYmVkLTQ4NzMtODA5MS1iMWY4MzQ3NDI2N2YiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjoxOX0=",
+      "start_time": "2024-05-08T17:00:00Z",
+      "end_time": "2024-05-08T19:00:00Z",
+      "title": "Underscore_",
+      "canceled_until": null,
+      "category": {
+        "id": "417752",
+        "name": "Talk Shows & Podcasts"
+      },
+      "is_recurring": false
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiIxNGVhZmMxMi04YTU2LTRjNjYtOWM0Zi00NmJmYTA1MzlmMDIiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjoyMX0=",
+      "start_time": "2024-05-22T17:00:00Z",
+      "end_time": "2024-05-22T19:00:00Z",
+      "title": "Underscore_",
+      "canceled_until": null,
+      "category": {
+        "id": "417752",
+        "name": "Talk Shows & Podcasts"
+      },
+      "is_recurring": false
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiI5NGQ0NTg0Ny1kNDEyLTRjYWMtOTY3NS0wZGEzNzFiMGFiOGQiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjoyM30=",
+      "start_time": "2024-06-05T17:00:00Z",
+      "end_time": "2024-06-05T19:00:00Z",
+      "title": "Underscore_",
+      "canceled_until": null,
+      "category": {
+        "id": "417752",
+        "name": "Talk Shows & Podcasts"
+      },
+      "is_recurring": false
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiJmMmNkODZlZC05NTY4LTQzMzMtYjEzMC01MWZiMzkzMmYzMDQiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjoyNX0=",
+      "start_time": "2024-06-19T17:00:00Z",
+      "end_time": "2024-06-19T19:00:00Z",
+      "title": "Underscore_",
+      "canceled_until": null,
+      "category": {
+        "id": "417752",
+        "name": "Talk Shows & Podcasts"
+      },
+      "is_recurring": false
+    }
+  ]
+}
