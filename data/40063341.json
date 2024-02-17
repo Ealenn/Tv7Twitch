@@ -13,30 +13,6 @@
   },
   "schedulers": [
     {
-      "id": "eyJzZWdtZW50SUQiOiI3YWY0MDk4Zi1jYzYxLTQ2ZmUtODZjZC0xNzA1YjM5ODg3YTEiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjo3fQ==",
-      "start_time": "2024-02-16T13:00:00Z",
-      "end_time": "2024-02-16T14:00:00Z",
-      "title": "🎙️ PRÉ-LIVE",
-      "canceled_until": null,
-      "category": {
-        "id": "509658",
-        "name": "Just Chatting"
-      },
-      "is_recurring": false
-    },
-    {
-      "id": "eyJzZWdtZW50SUQiOiI4ODdkNWQzYy0zNTdjLTQ5N2UtYWM4Ni00N2Q5OWFmMzFjYzQiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjo3fQ==",
-      "start_time": "2024-02-16T14:00:00Z",
-      "end_time": "2024-02-16T18:00:00Z",
-      "title": "⚽️ COACH BIZOT EST DE RETOUR",
-      "canceled_until": null,
-      "category": {
-        "id": "2091165871",
-        "name": "Football Manager 2024"
-      },
-      "is_recurring": false
-    },
-    {
       "id": "eyJzZWdtZW50SUQiOiJkMjc5YTZhMi1mNjhlLTQ0NTktOGZlNS0yNWU3NmZiNWVmNzEiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjo4fQ==",
       "start_time": "2024-02-19T18:30:00Z",
       "end_time": "2024-02-19T19:30:00Z",
@@ -244,6 +220,30 @@
       "id": "eyJzZWdtZW50SUQiOiJhMTI2NDdjMi00NzBlLTQyYWEtOTE1OC1kMTE0N2I0NWYxYTgiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjoxNn0=",
       "start_time": "2024-04-16T18:00:00Z",
       "end_time": "2024-04-16T20:30:00Z",
+      "title": "🍿 POPCORN AVEC ENJOYPHOENIX, S. ÉTIENNE & MICODE ",
+      "canceled_until": null,
+      "category": {
+        "id": "417752",
+        "name": "Talk Shows & Podcasts"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiJkMjc5YTZhMi1mNjhlLTQ0NTktOGZlNS0yNWU3NmZiNWVmNzEiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjoxN30=",
+      "start_time": "2024-04-22T17:30:00Z",
+      "end_time": "2024-04-22T18:30:00Z",
+      "title": "🎙 PRÉ LIVE",
+      "canceled_until": null,
+      "category": {
+        "id": "509658",
+        "name": "Just Chatting"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiJhMTI2NDdjMi00NzBlLTQyYWEtOTE1OC1kMTE0N2I0NWYxYTgiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjoxN30=",
+      "start_time": "2024-04-23T18:00:00Z",
+      "end_time": "2024-04-23T20:30:00Z",
       "title": "🍿 POPCORN AVEC ENJOYPHOENIX, S. ÉTIENNE & MICODE ",
       "canceled_until": null,
       "category": {
