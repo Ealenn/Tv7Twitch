@@ -7,40 +7,28 @@
     "broadcaster_type": "partner",
     "description": "On se tape des immenses barres.",
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/d4737061-8f00-49d9-a56f-fcb4a9230b3f-profile_image-300x300.png",
-    "offline_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/dfc979f6-227c-4699-91d8-6e1e71c08162-channel_offline_image-1920x1080.jpeg",
+    "offline_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/924fe994-6238-431b-821b-9406addd057d-channel_offline_image-1920x1080.jpeg",
     "view_count": 0,
     "created_at": "2013-10-24T19:04:45Z"
   },
   "schedulers": [
     {
-      "id": "eyJzZWdtZW50SUQiOiI1NDYzNDM1ZC0zOTI3LTQ2NmQtOTM5NC1jYzhkMDQ0NjQ2NzIiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjo4fQ==",
-      "start_time": "2024-02-19T10:00:00Z",
-      "end_time": "2024-02-19T17:00:00Z",
-      "title": "Culture et plaisir sur le Maitre des Fleurs",
-      "canceled_until": null,
-      "category": {
-        "id": "338715930",
-        "name": "Maitre des Fleurs"
-      },
-      "is_recurring": true
-    },
-    {
       "id": "eyJzZWdtZW50SUQiOiI4MTNiNDhmNC1hZTEyLTQyNzctYWJiYi0xNmMxMWFjYTlhZDIiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjo4fQ==",
       "start_time": "2024-02-20T10:00:00Z",
-      "end_time": "2024-02-20T14:00:00Z",
-      "title": "Codenames avé les potes",
+      "end_time": "2024-02-20T16:00:00Z",
+      "title": "On continue l'aventure BG3 avec Riv",
       "canceled_until": null,
       "category": {
-        "id": "508509",
-        "name": "Codenames"
+        "id": "512923",
+        "name": "Baldur's Gate 3"
       },
       "is_recurring": true
     },
     {
       "id": "eyJzZWdtZW50SUQiOiI3NTg1OTcwZS0yNzdlLTRkM2YtODI4Yi1kN2JhOGQ3Mzk3NjQiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjo4fQ==",
-      "start_time": "2024-02-20T14:00:00Z",
-      "end_time": "2024-02-20T20:00:00Z",
-      "title": "WoW SoD \"Préparation puis découverte du raid avec l'équipe\"",
+      "start_time": "2024-02-20T16:00:00Z",
+      "end_time": "2024-02-20T21:00:00Z",
+      "title": "WoW SoD ",
       "canceled_until": null,
       "category": {
         "id": "18122",
@@ -64,6 +52,27 @@
       "id": "eyJzZWdtZW50SUQiOiJiYjNiMjQ2MC02Y2YyLTRhZWYtOGM5ZS1jYzQ1MWE4YTZiOGIiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjo4fQ==",
       "start_time": "2024-02-22T12:00:00Z",
       "end_time": "2024-02-22T17:00:00Z",
+      "title": "Créneau YOLO",
+      "canceled_until": null,
+      "category": null,
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiJkOGJlYjc1OS1iNjg5LTQ2ZGQtOGJkZS0yMzM4N2MyMWNkZjciLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjo4fQ==",
+      "start_time": "2024-02-22T17:00:00Z",
+      "end_time": "2024-02-22T21:00:00Z",
+      "title": "WoW SOD",
+      "canceled_until": null,
+      "category": {
+        "id": "18122",
+        "name": "World of Warcraft"
+      },
+      "is_recurring": false
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiIxM2Q2MmUzYy02ZjRmLTQ3YjMtOGFkOS1lNmRmN2M4OTlmNTMiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjo4fQ==",
+      "start_time": "2024-02-23T10:00:00Z",
+      "end_time": "2024-02-23T16:00:00Z",
       "title": "Suite de l’aventure Baldur’s Gate 3 avec Rivenzi",
       "canceled_until": null,
       "category": {
@@ -73,16 +82,16 @@
       "is_recurring": true
     },
     {
-      "id": "eyJzZWdtZW50SUQiOiIxM2Q2MmUzYy02ZjRmLTQ3YjMtOGFkOS1lNmRmN2M4OTlmNTMiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjo4fQ==",
-      "start_time": "2024-02-23T10:00:00Z",
-      "end_time": "2024-02-23T17:00:00Z",
-      "title": "Suite de l’aventure Baldur’s Gate 3 avec Rivenzi",
+      "id": "eyJzZWdtZW50SUQiOiJiZjEzM2UxNy1mYTA3LTQzNzktYjZiNC0yNTYxMDRlMWJlMTYiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjo4fQ==",
+      "start_time": "2024-02-23T16:00:00Z",
+      "end_time": "2024-02-23T18:00:00Z",
+      "title": "Krosfighter avec Baghera, Mynthos et Horty",
       "canceled_until": null,
       "category": {
-        "id": "512923",
-        "name": "Baldur's Gate 3"
+        "id": "150791193",
+        "name": "Krosfighter"
       },
-      "is_recurring": true
+      "is_recurring": false
     },
     {
       "id": "eyJzZWdtZW50SUQiOiI1NDYzNDM1ZC0zOTI3LTQ2NmQtOTM5NC1jYzhkMDQ0NjQ2NzIiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjo5fQ==",
@@ -99,20 +108,20 @@
     {
       "id": "eyJzZWdtZW50SUQiOiI4MTNiNDhmNC1hZTEyLTQyNzctYWJiYi0xNmMxMWFjYTlhZDIiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjo5fQ==",
       "start_time": "2024-02-27T10:00:00Z",
-      "end_time": "2024-02-27T14:00:00Z",
-      "title": "Codenames avé les potes",
+      "end_time": "2024-02-27T16:00:00Z",
+      "title": "On continue l'aventure BG3 avec Riv",
       "canceled_until": null,
       "category": {
-        "id": "508509",
-        "name": "Codenames"
+        "id": "512923",
+        "name": "Baldur's Gate 3"
       },
       "is_recurring": true
     },
     {
       "id": "eyJzZWdtZW50SUQiOiI3NTg1OTcwZS0yNzdlLTRkM2YtODI4Yi1kN2JhOGQ3Mzk3NjQiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjo5fQ==",
-      "start_time": "2024-02-27T14:00:00Z",
-      "end_time": "2024-02-27T20:00:00Z",
-      "title": "WoW SoD \"Préparation puis découverte du raid avec l'équipe\"",
+      "start_time": "2024-02-27T16:00:00Z",
+      "end_time": "2024-02-27T21:00:00Z",
+      "title": "WoW SoD ",
       "canceled_until": null,
       "category": {
         "id": "18122",
@@ -136,18 +145,15 @@
       "id": "eyJzZWdtZW50SUQiOiJiYjNiMjQ2MC02Y2YyLTRhZWYtOGM5ZS1jYzQ1MWE4YTZiOGIiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjo5fQ==",
       "start_time": "2024-02-29T12:00:00Z",
       "end_time": "2024-02-29T17:00:00Z",
-      "title": "Suite de l’aventure Baldur’s Gate 3 avec Rivenzi",
+      "title": "Créneau YOLO",
       "canceled_until": null,
-      "category": {
-        "id": "512923",
-        "name": "Baldur's Gate 3"
-      },
+      "category": null,
       "is_recurring": true
     },
     {
       "id": "eyJzZWdtZW50SUQiOiIxM2Q2MmUzYy02ZjRmLTQ3YjMtOGFkOS1lNmRmN2M4OTlmNTMiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjo5fQ==",
       "start_time": "2024-03-01T10:00:00Z",
-      "end_time": "2024-03-01T17:00:00Z",
+      "end_time": "2024-03-01T16:00:00Z",
       "title": "Suite de l’aventure Baldur’s Gate 3 avec Rivenzi",
       "canceled_until": null,
       "category": {
@@ -171,20 +177,20 @@
     {
       "id": "eyJzZWdtZW50SUQiOiI4MTNiNDhmNC1hZTEyLTQyNzctYWJiYi0xNmMxMWFjYTlhZDIiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjoxMH0=",
       "start_time": "2024-03-05T10:00:00Z",
-      "end_time": "2024-03-05T14:00:00Z",
-      "title": "Codenames avé les potes",
+      "end_time": "2024-03-05T16:00:00Z",
+      "title": "On continue l'aventure BG3 avec Riv",
       "canceled_until": null,
       "category": {
-        "id": "508509",
-        "name": "Codenames"
+        "id": "512923",
+        "name": "Baldur's Gate 3"
       },
       "is_recurring": true
     },
     {
       "id": "eyJzZWdtZW50SUQiOiI3NTg1OTcwZS0yNzdlLTRkM2YtODI4Yi1kN2JhOGQ3Mzk3NjQiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjoxMH0=",
-      "start_time": "2024-03-05T14:00:00Z",
-      "end_time": "2024-03-05T20:00:00Z",
-      "title": "WoW SoD \"Préparation puis découverte du raid avec l'équipe\"",
+      "start_time": "2024-03-05T16:00:00Z",
+      "end_time": "2024-03-05T21:00:00Z",
+      "title": "WoW SoD ",
       "canceled_until": null,
       "category": {
         "id": "18122",
@@ -208,18 +214,15 @@
       "id": "eyJzZWdtZW50SUQiOiJiYjNiMjQ2MC02Y2YyLTRhZWYtOGM5ZS1jYzQ1MWE4YTZiOGIiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjoxMH0=",
       "start_time": "2024-03-07T12:00:00Z",
       "end_time": "2024-03-07T17:00:00Z",
-      "title": "Suite de l’aventure Baldur’s Gate 3 avec Rivenzi",
+      "title": "Créneau YOLO",
       "canceled_until": null,
-      "category": {
-        "id": "512923",
-        "name": "Baldur's Gate 3"
-      },
+      "category": null,
       "is_recurring": true
     },
     {
       "id": "eyJzZWdtZW50SUQiOiIxM2Q2MmUzYy02ZjRmLTQ3YjMtOGFkOS1lNmRmN2M4OTlmNTMiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjoxMH0=",
       "start_time": "2024-03-08T10:00:00Z",
-      "end_time": "2024-03-08T17:00:00Z",
+      "end_time": "2024-03-08T16:00:00Z",
       "title": "Suite de l’aventure Baldur’s Gate 3 avec Rivenzi",
       "canceled_until": null,
       "category": {
@@ -237,18 +240,6 @@
       "category": {
         "id": "338715930",
         "name": "Maitre des Fleurs"
-      },
-      "is_recurring": true
-    },
-    {
-      "id": "eyJzZWdtZW50SUQiOiI4MTNiNDhmNC1hZTEyLTQyNzctYWJiYi0xNmMxMWFjYTlhZDIiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjoxMX0=",
-      "start_time": "2024-03-12T10:00:00Z",
-      "end_time": "2024-03-12T14:00:00Z",
-      "title": "Codenames avé les potes",
-      "canceled_until": null,
-      "category": {
-        "id": "508509",
-        "name": "Codenames"
       },
       "is_recurring": true
     }
