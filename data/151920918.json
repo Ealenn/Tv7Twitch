@@ -13,6 +13,18 @@
   },
   "schedulers": [
     {
+      "id": "eyJzZWdtZW50SUQiOiJkMDRmMTdmZC0xODk0LTQ4NDctYTk1OS0xYjhmYWFlN2U1ODUiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjo4fQ==",
+      "start_time": "2024-02-22T21:00:00Z",
+      "end_time": "2024-02-22T23:00:00Z",
+      "title": "Intuitive Machines-1 Landing on the Moon",
+      "canceled_until": null,
+      "category": {
+        "id": "509670",
+        "name": "Science & Technology"
+      },
+      "is_recurring": false
+    },
+    {
       "id": "eyJzZWdtZW50SUQiOiJlZDZhMzQ2My1mMTU2LTRkOTMtODJkNS00NzEwNGE0ZmY5ZGIiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjoxNX0=",
       "start_time": "2024-04-08T17:00:00Z",
       "end_time": "2024-04-08T20:00:00Z",
