@@ -13,18 +13,6 @@
   },
   "schedulers": [
     {
-      "id": "eyJzZWdtZW50SUQiOiJhZjc2ZDJkMC0zZTQwLTRkYmYtODIwMS0wY2U3OTZkODYwNTciLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjo4fQ==",
-      "start_time": "2024-02-22T19:00:00Z",
-      "end_time": "2024-02-22T21:00:00Z",
-      "title": "Découverte de Nightingale avec Antoine Daniel et Angle Droit #sponsorisé",
-      "canceled_until": null,
-      "category": {
-        "id": "1864374139",
-        "name": "Nightingale"
-      },
-      "is_recurring": false
-    },
-    {
       "id": "eyJzZWdtZW50SUQiOiIzY2FiOTRjNC04NjllLTRkYmQtYTlkOC1kNDk1OGIyMjVjMzQiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjo4fQ==",
       "start_time": "2024-02-23T20:00:00Z",
       "end_time": "2024-02-23T23:00:00Z",
@@ -244,6 +232,18 @@
       "id": "eyJzZWdtZW50SUQiOiJiNTE0YTNkMC0xM2IxLTRjMGYtYTAzMy05OTdiYzc4Yjc1YjEiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjoyMn0=",
       "start_time": "2024-05-27T18:30:00Z",
       "end_time": "2024-05-27T22:00:00Z",
+      "title": "Soirée du lundi",
+      "canceled_until": null,
+      "category": {
+        "id": "509658",
+        "name": "Just Chatting"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiJiNTE0YTNkMC0xM2IxLTRjMGYtYTAzMy05OTdiYzc4Yjc1YjEiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjoyM30=",
+      "start_time": "2024-06-03T18:30:00Z",
+      "end_time": "2024-06-03T22:00:00Z",
       "title": "Soirée du lundi",
       "canceled_until": null,
       "category": {

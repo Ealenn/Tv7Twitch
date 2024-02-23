@@ -13,18 +13,6 @@
   },
   "schedulers": [
     {
-      "id": "eyJzZWdtZW50SUQiOiJjZGQ3NWIzMS01NTNlLTRmNmQtYTMwNS1lYTg5ZmM1ZGI4YWUiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjo4fQ==",
-      "start_time": "2024-02-22T19:00:00Z",
-      "end_time": null,
-      "title": "JDR : Les sentinelles de l'espace",
-      "canceled_until": null,
-      "category": {
-        "id": "509658",
-        "name": "Just Chatting"
-      },
-      "is_recurring": false
-    },
-    {
       "id": "eyJzZWdtZW50SUQiOiJmNzVlZTZmMC01M2I0LTRjZmQtOGE0MS04MjE1ZThmZmZkMjAiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjo5fQ==",
       "start_time": "2024-02-28T17:00:00Z",
       "end_time": null,

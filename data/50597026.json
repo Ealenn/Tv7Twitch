@@ -13,27 +13,6 @@
   },
   "schedulers": [
     {
-      "id": "eyJzZWdtZW50SUQiOiJiYjNiMjQ2MC02Y2YyLTRhZWYtOGM5ZS1jYzQ1MWE4YTZiOGIiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjo4fQ==",
-      "start_time": "2024-02-22T12:00:00Z",
-      "end_time": "2024-02-22T17:00:00Z",
-      "title": "Créneau YOLO",
-      "canceled_until": null,
-      "category": null,
-      "is_recurring": true
-    },
-    {
-      "id": "eyJzZWdtZW50SUQiOiJkOGJlYjc1OS1iNjg5LTQ2ZGQtOGJkZS0yMzM4N2MyMWNkZjciLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjo4fQ==",
-      "start_time": "2024-02-22T17:00:00Z",
-      "end_time": "2024-02-22T21:00:00Z",
-      "title": "WoW SOD",
-      "canceled_until": null,
-      "category": {
-        "id": "18122",
-        "name": "World of Warcraft"
-      },
-      "is_recurring": false
-    },
-    {
       "id": "eyJzZWdtZW50SUQiOiIxM2Q2MmUzYy02ZjRmLTQ3YjMtOGFkOS1lNmRmN2M4OTlmNTMiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjo4fQ==",
       "start_time": "2024-02-23T10:00:00Z",
       "end_time": "2024-02-23T16:00:00Z",
@@ -240,6 +219,27 @@
       "category": {
         "id": "512998",
         "name": "The Legend of Zelda: Tears of the Kingdom"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiJiYjNiMjQ2MC02Y2YyLTRhZWYtOGM5ZS1jYzQ1MWE4YTZiOGIiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjoxMX0=",
+      "start_time": "2024-03-14T12:00:00Z",
+      "end_time": "2024-03-14T17:00:00Z",
+      "title": "Créneau YOLO",
+      "canceled_until": null,
+      "category": null,
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiIxM2Q2MmUzYy02ZjRmLTQ3YjMtOGFkOS1lNmRmN2M4OTlmNTMiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjoxMX0=",
+      "start_time": "2024-03-15T10:00:00Z",
+      "end_time": "2024-03-15T16:00:00Z",
+      "title": "Suite de l’aventure Baldur’s Gate 3 avec Rivenzi",
+      "canceled_until": null,
+      "category": {
+        "id": "512923",
+        "name": "Baldur's Gate 3"
       },
       "is_recurring": true
     }
