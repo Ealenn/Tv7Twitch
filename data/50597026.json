@@ -13,30 +13,6 @@
   },
   "schedulers": [
     {
-      "id": "eyJzZWdtZW50SUQiOiIxM2Q2MmUzYy02ZjRmLTQ3YjMtOGFkOS1lNmRmN2M4OTlmNTMiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjo4fQ==",
-      "start_time": "2024-02-23T10:00:00Z",
-      "end_time": "2024-02-23T16:00:00Z",
-      "title": "Suite de l’aventure Baldur’s Gate 3 avec Rivenzi",
-      "canceled_until": null,
-      "category": {
-        "id": "512923",
-        "name": "Baldur's Gate 3"
-      },
-      "is_recurring": true
-    },
-    {
-      "id": "eyJzZWdtZW50SUQiOiJiZjEzM2UxNy1mYTA3LTQzNzktYjZiNC0yNTYxMDRlMWJlMTYiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjo4fQ==",
-      "start_time": "2024-02-23T16:00:00Z",
-      "end_time": "2024-02-23T18:00:00Z",
-      "title": "Krosfighter avec Baghera, Mynthos et Horty",
-      "canceled_until": null,
-      "category": {
-        "id": "150791193",
-        "name": "Krosfighter"
-      },
-      "is_recurring": false
-    },
-    {
       "id": "eyJzZWdtZW50SUQiOiI1NDYzNDM1ZC0zOTI3LTQ2NmQtOTM5NC1jYzhkMDQ0NjQ2NzIiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjo5fQ==",
       "start_time": "2024-02-26T10:00:00Z",
       "end_time": "2024-02-26T17:00:00Z",
@@ -236,6 +212,30 @@
       "start_time": "2024-03-15T10:00:00Z",
       "end_time": "2024-03-15T16:00:00Z",
       "title": "Suite de l’aventure Baldur’s Gate 3 avec Rivenzi",
+      "canceled_until": null,
+      "category": {
+        "id": "512923",
+        "name": "Baldur's Gate 3"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiI1NDYzNDM1ZC0zOTI3LTQ2NmQtOTM5NC1jYzhkMDQ0NjQ2NzIiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjoxMn0=",
+      "start_time": "2024-03-18T10:00:00Z",
+      "end_time": "2024-03-18T17:00:00Z",
+      "title": "Culture et plaisir sur le Maitre des Fleurs",
+      "canceled_until": null,
+      "category": {
+        "id": "338715930",
+        "name": "Maitre des Fleurs"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiI4MTNiNDhmNC1hZTEyLTQyNzctYWJiYi0xNmMxMWFjYTlhZDIiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjoxMn0=",
+      "start_time": "2024-03-19T10:00:00Z",
+      "end_time": "2024-03-19T16:00:00Z",
+      "title": "On continue l'aventure BG3 avec Riv",
       "canceled_until": null,
       "category": {
         "id": "512923",
