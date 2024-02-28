@@ -13,18 +13,6 @@
   },
   "schedulers": [
     {
-      "id": "eyJzZWdtZW50SUQiOiI4MTNiNDhmNC1hZTEyLTQyNzctYWJiYi0xNmMxMWFjYTlhZDIiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjo5fQ==",
-      "start_time": "2024-02-27T10:00:00Z",
-      "end_time": "2024-02-27T16:00:00Z",
-      "title": "On continue l'aventure BG3 avec Riv [15h Pokemon Presents]",
-      "canceled_until": null,
-      "category": {
-        "id": "512923",
-        "name": "Baldur's Gate 3"
-      },
-      "is_recurring": true
-    },
-    {
       "id": "eyJzZWdtZW50SUQiOiI3ODBmNDU5Ni0yNTY5LTQyNTUtOGYyNy02OWYyNmI0MDE3YTEiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjo5fQ==",
       "start_time": "2024-02-28T10:00:00Z",
       "end_time": "2024-02-28T17:00:00Z",
@@ -249,6 +237,18 @@
       "category": {
         "id": "512923",
         "name": "Baldur's Gate 3"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiJiYjNiMjQ2MC02Y2YyLTRhZWYtOGM5ZS1jYzQ1MWE4YTZiOGIiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjoxMn0=",
+      "start_time": "2024-03-21T12:00:00Z",
+      "end_time": "2024-03-21T16:00:00Z",
+      "title": "Lycans avé les copains !",
+      "canceled_until": null,
+      "category": {
+        "id": "1494074023",
+        "name": "Lycans"
       },
       "is_recurring": true
     }
