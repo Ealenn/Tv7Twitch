@@ -13,18 +13,6 @@
   },
   "schedulers": [
     {
-      "id": "eyJzZWdtZW50SUQiOiI3ODBmNDU5Ni0yNTY5LTQyNTUtOGYyNy02OWYyNmI0MDE3YTEiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjo5fQ==",
-      "start_time": "2024-02-28T10:00:00Z",
-      "end_time": "2024-02-28T17:00:00Z",
-      "title": "On continue l'aventure BG3 avec Riv",
-      "canceled_until": null,
-      "category": {
-        "id": "512923",
-        "name": "Baldur's Gate 3"
-      },
-      "is_recurring": true
-    },
-    {
       "id": "eyJzZWdtZW50SUQiOiJiYjNiMjQ2MC02Y2YyLTRhZWYtOGM5ZS1jYzQ1MWE4YTZiOGIiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjo5fQ==",
       "start_time": "2024-02-29T12:00:00Z",
       "end_time": "2024-02-29T16:00:00Z",
@@ -249,6 +237,18 @@
       "category": {
         "id": "1494074023",
         "name": "Lycans"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiI1NjdmMjczMS01NDE4LTRlNmItOWJmZS0yMmE5Mzk2MThhNjYiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjoxMn0=",
+      "start_time": "2024-03-21T16:00:00Z",
+      "end_time": "2024-03-21T19:00:00Z",
+      "title": "Découverte du DLC Tour de l'ordre de Splatoon 3 !",
+      "canceled_until": null,
+      "category": {
+        "id": "1158884259",
+        "name": "Splatoon 3"
       },
       "is_recurring": true
     }

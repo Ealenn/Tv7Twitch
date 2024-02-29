@@ -13,6 +13,30 @@
   },
   "schedulers": [
     {
+      "id": "eyJzZWdtZW50SUQiOiIzMzYxODg4Mi1iY2MzLTQzYzgtYWJkMS01ODVlNmFkZTA3NDQiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjoxMH0=",
+      "start_time": "2024-03-06T20:00:00Z",
+      "end_time": "2024-03-06T21:00:00Z",
+      "title": "NASA’s VIPER Moon Rover: Robot Build Watch Party",
+      "canceled_until": null,
+      "category": {
+        "id": "509670",
+        "name": "Science & Technology"
+      },
+      "is_recurring": false
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiJlMTVjYzQ4Yy1jMjU4LTQ0YjMtYjA1Yi0zOGRjNmQzMjdjMWUiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjoxMH0=",
+      "start_time": "2024-03-07T20:00:00Z",
+      "end_time": "2024-03-07T21:00:00Z",
+      "title": "Rover lunar VIPER de la NASA: \"Watch party\" de la construcción del robot",
+      "canceled_until": null,
+      "category": {
+        "id": "509670",
+        "name": "Science & Technology"
+      },
+      "is_recurring": false
+    },
+    {
       "id": "eyJzZWdtZW50SUQiOiJlZDZhMzQ2My1mMTU2LTRkOTMtODJkNS00NzEwNGE0ZmY5ZGIiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjoxNX0=",
       "start_time": "2024-04-08T17:00:00Z",
       "end_time": "2024-04-08T20:00:00Z",
