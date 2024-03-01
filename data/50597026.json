@@ -13,30 +13,6 @@
   },
   "schedulers": [
     {
-      "id": "eyJzZWdtZW50SUQiOiJiYjNiMjQ2MC02Y2YyLTRhZWYtOGM5ZS1jYzQ1MWE4YTZiOGIiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjo5fQ==",
-      "start_time": "2024-02-29T12:00:00Z",
-      "end_time": "2024-02-29T16:00:00Z",
-      "title": "Lycans avé les copains !",
-      "canceled_until": null,
-      "category": {
-        "id": "1494074023",
-        "name": "Lycans"
-      },
-      "is_recurring": true
-    },
-    {
-      "id": "eyJzZWdtZW50SUQiOiI1NjdmMjczMS01NDE4LTRlNmItOWJmZS0yMmE5Mzk2MThhNjYiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjo5fQ==",
-      "start_time": "2024-02-29T16:00:00Z",
-      "end_time": "2024-02-29T19:00:00Z",
-      "title": "Découverte du DLC Tour de l'ordre de Splatoon 3 !",
-      "canceled_until": null,
-      "category": {
-        "id": "1158884259",
-        "name": "Splatoon 3"
-      },
-      "is_recurring": true
-    },
-    {
       "id": "eyJzZWdtZW50SUQiOiIxM2Q2MmUzYy02ZjRmLTQ3YjMtOGFkOS1lNmRmN2M4OTlmNTMiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjo5fQ==",
       "start_time": "2024-03-01T10:00:00Z",
       "end_time": "2024-03-01T16:00:00Z",
@@ -249,6 +225,30 @@
       "category": {
         "id": "1158884259",
         "name": "Splatoon 3"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiIxM2Q2MmUzYy02ZjRmLTQ3YjMtOGFkOS1lNmRmN2M4OTlmNTMiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjoxMn0=",
+      "start_time": "2024-03-22T10:00:00Z",
+      "end_time": "2024-03-22T16:00:00Z",
+      "title": "Slowrun 100% Zelda TOTK",
+      "canceled_until": null,
+      "category": {
+        "id": "512998",
+        "name": "The Legend of Zelda: Tears of the Kingdom"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiI1NDYzNDM1ZC0zOTI3LTQ2NmQtOTM5NC1jYzhkMDQ0NjQ2NzIiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjoxM30=",
+      "start_time": "2024-03-25T10:00:00Z",
+      "end_time": "2024-03-25T17:00:00Z",
+      "title": "Culture et plaisir sur le Maitre des Fleurs",
+      "canceled_until": null,
+      "category": {
+        "id": "338715930",
+        "name": "Maitre des Fleurs"
       },
       "is_recurring": true
     }
