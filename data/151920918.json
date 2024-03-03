@@ -25,6 +25,18 @@
       "is_recurring": false
     },
     {
+      "id": "eyJzZWdtZW50SUQiOiIzYmY3MDAyYS1jMzFjLTRiYzYtODU0NS1hNDg3N2Y4YWEwMDYiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjo5fQ==",
+      "start_time": "2024-03-03T23:45:00Z",
+      "end_time": "2024-03-04T04:45:00Z",
+      "title": "Launch of NASA's SpaceX Crew-8 Mission",
+      "canceled_until": null,
+      "category": {
+        "id": "509670",
+        "name": "Science & Technology"
+      },
+      "is_recurring": false
+    },
+    {
       "id": "eyJzZWdtZW50SUQiOiJmOWUxYzlhMS1kNzVkLTQxNjgtOGU4MC03YjA5OGI1OGMzOTEiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjoxMH0=",
       "start_time": "2024-03-05T15:30:00Z",
       "end_time": "2024-03-05T17:15:00Z",
