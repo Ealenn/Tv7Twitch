@@ -13,18 +13,6 @@
   },
   "schedulers": [
     {
-      "id": "eyJzZWdtZW50SUQiOiJmOWUxYzlhMS1kNzVkLTQxNjgtOGU4MC03YjA5OGI1OGMzOTEiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjoxMH0=",
-      "start_time": "2024-03-05T15:30:00Z",
-      "end_time": "2024-03-05T17:15:00Z",
-      "title": "NASA's 2024 Astronaut Graduation",
-      "canceled_until": null,
-      "category": {
-        "id": "509670",
-        "name": "Science & Technology"
-      },
-      "is_recurring": false
-    },
-    {
       "id": "eyJzZWdtZW50SUQiOiIzMzYxODg4Mi1iY2MzLTQzYzgtYWJkMS01ODVlNmFkZTA3NDQiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjoxMH0=",
       "start_time": "2024-03-06T20:00:00Z",
       "end_time": "2024-03-06T21:00:00Z",
