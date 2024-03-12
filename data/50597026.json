@@ -7,16 +7,40 @@
     "broadcaster_type": "partner",
     "description": "On se tape des immenses barres.",
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/d4737061-8f00-49d9-a56f-fcb4a9230b3f-profile_image-300x300.png",
-    "offline_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/8bf4aff5-8a56-413b-8675-9a781c4fb272-channel_offline_image-1920x1080.jpeg",
+    "offline_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/66221c7c-5a03-4c5a-9251-3efbee9167c6-channel_offline_image-1920x1080.png",
     "view_count": 0,
     "created_at": "2013-10-24T19:04:45Z"
   },
   "schedulers": [
     {
-      "id": "eyJzZWdtZW50SUQiOiI1NDYzNDM1ZC0zOTI3LTQ2NmQtOTM5NC1jYzhkMDQ0NjQ2NzIiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjoxMX0=",
-      "start_time": "2024-03-11T10:00:00Z",
-      "end_time": "2024-03-11T17:00:00Z",
-      "title": "Culture et plaisir sur le Maitre des Fleurs",
+      "id": "eyJzZWdtZW50SUQiOiJlYTU5YThiMC04NTVjLTQ5ODMtOWYxZi0wZTFlZjZmMmRhODEiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjoxMX0=",
+      "start_time": "2024-03-12T16:00:00Z",
+      "end_time": "2024-03-12T21:00:00Z",
+      "title": "l'aventure BG3 avec Rivenzi en IRL !",
+      "canceled_until": null,
+      "category": {
+        "id": "512923",
+        "name": "Baldur's Gate 3"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiI3ODBmNDU5Ni0yNTY5LTQyNTUtOGYyNy02OWYyNmI0MDE3YTEiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjoxMX0=",
+      "start_time": "2024-03-13T10:00:00Z",
+      "end_time": "2024-03-13T16:00:00Z",
+      "title": "l'aventure BG3 avec Rivenzi en IRL !",
+      "canceled_until": null,
+      "category": {
+        "id": "512923",
+        "name": "Baldur's Gate 3"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiI3ZThlZmYxMS1iNDFhLTRhM2ItYmZlMC00MTFmN2I1OWRkYWEiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjoxMX0=",
+      "start_time": "2024-03-13T19:00:00Z",
+      "end_time": "2024-03-13T23:00:00Z",
+      "title": "Maitre des fleurs avec Rivenzi ! ",
       "canceled_until": null,
       "category": {
         "id": "338715930",
@@ -25,50 +49,14 @@
       "is_recurring": true
     },
     {
-      "id": "eyJzZWdtZW50SUQiOiI4MTNiNDhmNC1hZTEyLTQyNzctYWJiYi0xNmMxMWFjYTlhZDIiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjoxMX0=",
-      "start_time": "2024-03-12T10:00:00Z",
-      "end_time": "2024-03-12T13:00:00Z",
-      "title": "Code Names avec Modiie, Bytell, Lye, Naho",
-      "canceled_until": null,
-      "category": {
-        "id": "508509",
-        "name": "Codenames"
-      },
-      "is_recurring": true
-    },
-    {
-      "id": "eyJzZWdtZW50SUQiOiJlYTU5YThiMC04NTVjLTQ5ODMtOWYxZi0wZTFlZjZmMmRhODEiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjoxMX0=",
-      "start_time": "2024-03-12T13:00:00Z",
-      "end_time": "2024-03-12T17:00:00Z",
-      "title": "Discussion musique et écoute de vos sons avec Léo et JB (Floral Records)",
-      "canceled_until": null,
-      "category": {
-        "id": "26936",
-        "name": "Music"
-      },
-      "is_recurring": true
-    },
-    {
-      "id": "eyJzZWdtZW50SUQiOiI3ODBmNDU5Ni0yNTY5LTQyNTUtOGYyNy02OWYyNmI0MDE3YTEiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjoxMX0=",
-      "start_time": "2024-03-13T10:00:00Z",
-      "end_time": "2024-03-13T17:00:00Z",
-      "title": "On continue l'aventure BG3 avec Riv",
+      "id": "eyJzZWdtZW50SUQiOiJiYjNiMjQ2MC02Y2YyLTRhZWYtOGM5ZS1jYzQ1MWE4YTZiOGIiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjoxMX0=",
+      "start_time": "2024-03-14T14:00:00Z",
+      "end_time": "2024-03-14T20:00:00Z",
+      "title": "l'aventure BG3 avec Rivenzi en IRL !",
       "canceled_until": null,
       "category": {
         "id": "512923",
         "name": "Baldur's Gate 3"
-      },
-      "is_recurring": true
-    },
-    {
-      "id": "eyJzZWdtZW50SUQiOiJiYjNiMjQ2MC02Y2YyLTRhZWYtOGM5ZS1jYzQ1MWE4YTZiOGIiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjoxMX0=",
-      "start_time": "2024-03-14T12:00:00Z",
-      "end_time": "2024-03-14T18:00:00Z",
-      "title": "Slowrun zelda TOTK",
-      "canceled_until": null,
-      "category": {
-        "id": "512998",
-        "name": "The Legend of Zelda: Tears of the Kingdom"
       },
       "is_recurring": true
     },
@@ -76,11 +64,11 @@
       "id": "eyJzZWdtZW50SUQiOiIxM2Q2MmUzYy02ZjRmLTQ3YjMtOGFkOS1lNmRmN2M4OTlmNTMiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjoxMX0=",
       "start_time": "2024-03-15T10:00:00Z",
       "end_time": "2024-03-15T16:00:00Z",
-      "title": "On continue l'aventure BG3 avec Riv",
+      "title": "Suite du Slowrun TOTK",
       "canceled_until": null,
       "category": {
-        "id": "512923",
-        "name": "Baldur's Gate 3"
+        "id": "512998",
+        "name": "The Legend of Zelda: Tears of the Kingdom"
       },
       "is_recurring": true
     },
@@ -97,34 +85,10 @@
       "is_recurring": true
     },
     {
-      "id": "eyJzZWdtZW50SUQiOiI4MTNiNDhmNC1hZTEyLTQyNzctYWJiYi0xNmMxMWFjYTlhZDIiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjoxMn0=",
-      "start_time": "2024-03-19T10:00:00Z",
-      "end_time": "2024-03-19T13:00:00Z",
-      "title": "Code Names avec Modiie, Bytell, Lye, Naho",
-      "canceled_until": null,
-      "category": {
-        "id": "508509",
-        "name": "Codenames"
-      },
-      "is_recurring": true
-    },
-    {
       "id": "eyJzZWdtZW50SUQiOiJlYTU5YThiMC04NTVjLTQ5ODMtOWYxZi0wZTFlZjZmMmRhODEiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjoxMn0=",
-      "start_time": "2024-03-19T13:00:00Z",
-      "end_time": "2024-03-19T17:00:00Z",
-      "title": "Discussion musique et écoute de vos sons avec Léo et JB (Floral Records)",
-      "canceled_until": null,
-      "category": {
-        "id": "26936",
-        "name": "Music"
-      },
-      "is_recurring": true
-    },
-    {
-      "id": "eyJzZWdtZW50SUQiOiI3ODBmNDU5Ni0yNTY5LTQyNTUtOGYyNy02OWYyNmI0MDE3YTEiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjoxMn0=",
-      "start_time": "2024-03-20T10:00:00Z",
-      "end_time": "2024-03-20T17:00:00Z",
-      "title": "On continue l'aventure BG3 avec Riv",
+      "start_time": "2024-03-19T16:00:00Z",
+      "end_time": "2024-03-19T21:00:00Z",
+      "title": "l'aventure BG3 avec Rivenzi en IRL !",
       "canceled_until": null,
       "category": {
         "id": "512923",
@@ -133,14 +97,38 @@
       "is_recurring": true
     },
     {
-      "id": "eyJzZWdtZW50SUQiOiJiYjNiMjQ2MC02Y2YyLTRhZWYtOGM5ZS1jYzQ1MWE4YTZiOGIiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjoxMn0=",
-      "start_time": "2024-03-21T12:00:00Z",
-      "end_time": "2024-03-21T18:00:00Z",
-      "title": "Slowrun zelda TOTK",
+      "id": "eyJzZWdtZW50SUQiOiI3ODBmNDU5Ni0yNTY5LTQyNTUtOGYyNy02OWYyNmI0MDE3YTEiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjoxMn0=",
+      "start_time": "2024-03-20T10:00:00Z",
+      "end_time": "2024-03-20T16:00:00Z",
+      "title": "l'aventure BG3 avec Rivenzi en IRL !",
       "canceled_until": null,
       "category": {
-        "id": "512998",
-        "name": "The Legend of Zelda: Tears of the Kingdom"
+        "id": "512923",
+        "name": "Baldur's Gate 3"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiI3ZThlZmYxMS1iNDFhLTRhM2ItYmZlMC00MTFmN2I1OWRkYWEiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjoxMn0=",
+      "start_time": "2024-03-20T19:00:00Z",
+      "end_time": "2024-03-20T23:00:00Z",
+      "title": "Maitre des fleurs avec Rivenzi ! ",
+      "canceled_until": null,
+      "category": {
+        "id": "338715930",
+        "name": "Maitre des Fleurs"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiJiYjNiMjQ2MC02Y2YyLTRhZWYtOGM5ZS1jYzQ1MWE4YTZiOGIiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjoxMn0=",
+      "start_time": "2024-03-21T14:00:00Z",
+      "end_time": "2024-03-21T20:00:00Z",
+      "title": "l'aventure BG3 avec Rivenzi en IRL !",
+      "canceled_until": null,
+      "category": {
+        "id": "512923",
+        "name": "Baldur's Gate 3"
       },
       "is_recurring": true
     },
@@ -148,11 +136,11 @@
       "id": "eyJzZWdtZW50SUQiOiIxM2Q2MmUzYy02ZjRmLTQ3YjMtOGFkOS1lNmRmN2M4OTlmNTMiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjoxMn0=",
       "start_time": "2024-03-22T10:00:00Z",
       "end_time": "2024-03-22T16:00:00Z",
-      "title": "On continue l'aventure BG3 avec Riv",
+      "title": "Suite du Slowrun TOTK",
       "canceled_until": null,
       "category": {
-        "id": "512923",
-        "name": "Baldur's Gate 3"
+        "id": "512998",
+        "name": "The Legend of Zelda: Tears of the Kingdom"
       },
       "is_recurring": true
     },
@@ -169,34 +157,10 @@
       "is_recurring": true
     },
     {
-      "id": "eyJzZWdtZW50SUQiOiI4MTNiNDhmNC1hZTEyLTQyNzctYWJiYi0xNmMxMWFjYTlhZDIiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjoxM30=",
-      "start_time": "2024-03-26T10:00:00Z",
-      "end_time": "2024-03-26T13:00:00Z",
-      "title": "Code Names avec Modiie, Bytell, Lye, Naho",
-      "canceled_until": null,
-      "category": {
-        "id": "508509",
-        "name": "Codenames"
-      },
-      "is_recurring": true
-    },
-    {
       "id": "eyJzZWdtZW50SUQiOiJlYTU5YThiMC04NTVjLTQ5ODMtOWYxZi0wZTFlZjZmMmRhODEiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjoxM30=",
-      "start_time": "2024-03-26T13:00:00Z",
-      "end_time": "2024-03-26T17:00:00Z",
-      "title": "Discussion musique et écoute de vos sons avec Léo et JB (Floral Records)",
-      "canceled_until": null,
-      "category": {
-        "id": "26936",
-        "name": "Music"
-      },
-      "is_recurring": true
-    },
-    {
-      "id": "eyJzZWdtZW50SUQiOiI3ODBmNDU5Ni0yNTY5LTQyNTUtOGYyNy02OWYyNmI0MDE3YTEiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjoxM30=",
-      "start_time": "2024-03-27T10:00:00Z",
-      "end_time": "2024-03-27T17:00:00Z",
-      "title": "On continue l'aventure BG3 avec Riv",
+      "start_time": "2024-03-26T16:00:00Z",
+      "end_time": "2024-03-26T21:00:00Z",
+      "title": "l'aventure BG3 avec Rivenzi en IRL !",
       "canceled_until": null,
       "category": {
         "id": "512923",
@@ -205,14 +169,38 @@
       "is_recurring": true
     },
     {
-      "id": "eyJzZWdtZW50SUQiOiJiYjNiMjQ2MC02Y2YyLTRhZWYtOGM5ZS1jYzQ1MWE4YTZiOGIiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjoxM30=",
-      "start_time": "2024-03-28T12:00:00Z",
-      "end_time": "2024-03-28T18:00:00Z",
-      "title": "Slowrun zelda TOTK",
+      "id": "eyJzZWdtZW50SUQiOiI3ODBmNDU5Ni0yNTY5LTQyNTUtOGYyNy02OWYyNmI0MDE3YTEiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjoxM30=",
+      "start_time": "2024-03-27T10:00:00Z",
+      "end_time": "2024-03-27T16:00:00Z",
+      "title": "l'aventure BG3 avec Rivenzi en IRL !",
       "canceled_until": null,
       "category": {
-        "id": "512998",
-        "name": "The Legend of Zelda: Tears of the Kingdom"
+        "id": "512923",
+        "name": "Baldur's Gate 3"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiI3ZThlZmYxMS1iNDFhLTRhM2ItYmZlMC00MTFmN2I1OWRkYWEiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjoxM30=",
+      "start_time": "2024-03-27T19:00:00Z",
+      "end_time": "2024-03-27T23:00:00Z",
+      "title": "Maitre des fleurs avec Rivenzi ! ",
+      "canceled_until": null,
+      "category": {
+        "id": "338715930",
+        "name": "Maitre des Fleurs"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiJiYjNiMjQ2MC02Y2YyLTRhZWYtOGM5ZS1jYzQ1MWE4YTZiOGIiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjoxM30=",
+      "start_time": "2024-03-28T14:00:00Z",
+      "end_time": "2024-03-28T20:00:00Z",
+      "title": "l'aventure BG3 avec Rivenzi en IRL !",
+      "canceled_until": null,
+      "category": {
+        "id": "512923",
+        "name": "Baldur's Gate 3"
       },
       "is_recurring": true
     },
@@ -220,11 +208,11 @@
       "id": "eyJzZWdtZW50SUQiOiIxM2Q2MmUzYy02ZjRmLTQ3YjMtOGFkOS1lNmRmN2M4OTlmNTMiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjoxM30=",
       "start_time": "2024-03-29T10:00:00Z",
       "end_time": "2024-03-29T16:00:00Z",
-      "title": "On continue l'aventure BG3 avec Riv",
+      "title": "Suite du Slowrun TOTK",
       "canceled_until": null,
       "category": {
-        "id": "512923",
-        "name": "Baldur's Gate 3"
+        "id": "512998",
+        "name": "The Legend of Zelda: Tears of the Kingdom"
       },
       "is_recurring": true
     },
@@ -241,14 +229,26 @@
       "is_recurring": true
     },
     {
-      "id": "eyJzZWdtZW50SUQiOiI4MTNiNDhmNC1hZTEyLTQyNzctYWJiYi0xNmMxMWFjYTlhZDIiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjoxNH0=",
-      "start_time": "2024-04-02T09:00:00Z",
-      "end_time": "2024-04-02T12:00:00Z",
-      "title": "Code Names avec Modiie, Bytell, Lye, Naho",
+      "id": "eyJzZWdtZW50SUQiOiJlYTU5YThiMC04NTVjLTQ5ODMtOWYxZi0wZTFlZjZmMmRhODEiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjoxNH0=",
+      "start_time": "2024-04-02T15:00:00Z",
+      "end_time": "2024-04-02T20:00:00Z",
+      "title": "l'aventure BG3 avec Rivenzi en IRL !",
       "canceled_until": null,
       "category": {
-        "id": "508509",
-        "name": "Codenames"
+        "id": "512923",
+        "name": "Baldur's Gate 3"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiI3ODBmNDU5Ni0yNTY5LTQyNTUtOGYyNy02OWYyNmI0MDE3YTEiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjoxNH0=",
+      "start_time": "2024-04-03T09:00:00Z",
+      "end_time": "2024-04-03T15:00:00Z",
+      "title": "l'aventure BG3 avec Rivenzi en IRL !",
+      "canceled_until": null,
+      "category": {
+        "id": "512923",
+        "name": "Baldur's Gate 3"
       },
       "is_recurring": true
     }
