@@ -13,18 +13,6 @@
   },
   "schedulers": [
     {
-      "id": "eyJzZWdtZW50SUQiOiJjYzZmNmUyOS0wMGI0LTQ0MGYtYjMxMC1hNzA4NTNjYjk0MWEiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjoxMX0=",
-      "start_time": "2024-03-13T18:00:00Z",
-      "end_time": "2024-03-13T20:00:00Z",
-      "title": "Underscore_",
-      "canceled_until": null,
-      "category": {
-        "id": "417752",
-        "name": "Talk Shows & Podcasts"
-      },
-      "is_recurring": false
-    },
-    {
       "id": "eyJzZWdtZW50SUQiOiI0ODZlN2Y0ZC0xMjIzLTRlOTctYjRiNC1jZjg3ZjRhZmUwZTkiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjoxM30=",
       "start_time": "2024-03-27T18:00:00Z",
       "end_time": "2024-03-27T20:00:00Z",
