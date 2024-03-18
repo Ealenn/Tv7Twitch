@@ -26,21 +26,9 @@
     },
     {
       "id": "eyJzZWdtZW50SUQiOiJlYTU5YThiMC04NTVjLTQ5ODMtOWYxZi0wZTFlZjZmMmRhODEiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjoxMn0=",
-      "start_time": "2024-03-19T16:00:00Z",
-      "end_time": "2024-03-19T21:00:00Z",
-      "title": "l'aventure BG3 avec Rivenzi en IRL !",
-      "canceled_until": null,
-      "category": {
-        "id": "512923",
-        "name": "Baldur's Gate 3"
-      },
-      "is_recurring": true
-    },
-    {
-      "id": "eyJzZWdtZW50SUQiOiI3ODBmNDU5Ni0yNTY5LTQyNTUtOGYyNy02OWYyNmI0MDE3YTEiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjoxMn0=",
-      "start_time": "2024-03-20T10:00:00Z",
-      "end_time": "2024-03-20T16:00:00Z",
-      "title": "l'aventure BG3 avec Rivenzi en IRL !",
+      "start_time": "2024-03-19T10:00:00Z",
+      "end_time": "2024-03-19T17:00:00Z",
+      "title": "Suite de l'aventure BG3 avec Rivenzi !",
       "canceled_until": null,
       "category": {
         "id": "512923",
@@ -50,21 +38,21 @@
     },
     {
       "id": "eyJzZWdtZW50SUQiOiI3ZThlZmYxMS1iNDFhLTRhM2ItYmZlMC00MTFmN2I1OWRkYWEiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjoxMn0=",
-      "start_time": "2024-03-20T19:00:00Z",
-      "end_time": "2024-03-20T23:00:00Z",
-      "title": "Maitre des fleurs avec Rivenzi ! ",
+      "start_time": "2024-03-20T10:00:00Z",
+      "end_time": "2024-03-20T14:00:00Z",
+      "title": "L'addiction est réelle !",
       "canceled_until": null,
       "category": {
-        "id": "338715930",
-        "name": "Maitre des Fleurs"
+        "id": "745589378",
+        "name": "Balatro"
       },
       "is_recurring": true
     },
     {
-      "id": "eyJzZWdtZW50SUQiOiJiYjNiMjQ2MC02Y2YyLTRhZWYtOGM5ZS1jYzQ1MWE4YTZiOGIiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjoxMn0=",
-      "start_time": "2024-03-21T14:00:00Z",
-      "end_time": "2024-03-21T20:00:00Z",
-      "title": "l'aventure BG3 avec Rivenzi en IRL !",
+      "id": "eyJzZWdtZW50SUQiOiI3ODBmNDU5Ni0yNTY5LTQyNTUtOGYyNy02OWYyNmI0MDE3YTEiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjoxMn0=",
+      "start_time": "2024-03-20T14:00:00Z",
+      "end_time": "2024-03-20T17:00:00Z",
+      "title": "Suite de l'aventure BG3 avec Rivenzi !",
       "canceled_until": null,
       "category": {
         "id": "512923",
@@ -73,14 +61,50 @@
       "is_recurring": true
     },
     {
+      "id": "eyJzZWdtZW50SUQiOiJiYjNiMjQ2MC02Y2YyLTRhZWYtOGM5ZS1jYzQ1MWE4YTZiOGIiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjoxMn0=",
+      "start_time": "2024-03-21T12:00:00Z",
+      "end_time": "2024-03-21T16:00:00Z",
+      "title": "Lycans avé les potes",
+      "canceled_until": null,
+      "category": {
+        "id": "1494074023",
+        "name": "Lycans"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiIzYTJiZTM3MC03ZDc1LTQwNWMtOTdhYy1iZjM4MjcwMjlmM2YiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjoxMn0=",
+      "start_time": "2024-03-21T16:00:00Z",
+      "end_time": "2024-03-21T18:00:00Z",
+      "title": "De retour sur la faille",
+      "canceled_until": null,
+      "category": {
+        "id": "21779",
+        "name": "League of Legends"
+      },
+      "is_recurring": true
+    },
+    {
       "id": "eyJzZWdtZW50SUQiOiIxM2Q2MmUzYy02ZjRmLTQ3YjMtOGFkOS1lNmRmN2M4OTlmNTMiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjoxMn0=",
       "start_time": "2024-03-22T10:00:00Z",
       "end_time": "2024-03-22T16:00:00Z",
-      "title": "Suite du Slowrun TOTK",
+      "title": "Slowrun 100% TOTK",
       "canceled_until": null,
       "category": {
         "id": "512998",
         "name": "The Legend of Zelda: Tears of the Kingdom"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiIxMzBkMmU5NS1iNTczLTRmYjAtOTAyZC1iMWQyNDJlMzdjOWIiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjoxMn0=",
+      "start_time": "2024-03-24T12:00:00Z",
+      "end_time": "2024-03-24T15:00:00Z",
+      "title": "Enfin de retour sur le Tournoi des Fleurs ! (avec des cadeaux à gagner eheh)",
+      "canceled_until": null,
+      "category": {
+        "id": "941530474",
+        "name": "Mario Kart 8 Deluxe"
       },
       "is_recurring": true
     },
@@ -98,21 +122,9 @@
     },
     {
       "id": "eyJzZWdtZW50SUQiOiJlYTU5YThiMC04NTVjLTQ5ODMtOWYxZi0wZTFlZjZmMmRhODEiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjoxM30=",
-      "start_time": "2024-03-26T16:00:00Z",
-      "end_time": "2024-03-26T21:00:00Z",
-      "title": "l'aventure BG3 avec Rivenzi en IRL !",
-      "canceled_until": null,
-      "category": {
-        "id": "512923",
-        "name": "Baldur's Gate 3"
-      },
-      "is_recurring": true
-    },
-    {
-      "id": "eyJzZWdtZW50SUQiOiI3ODBmNDU5Ni0yNTY5LTQyNTUtOGYyNy02OWYyNmI0MDE3YTEiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjoxM30=",
-      "start_time": "2024-03-27T10:00:00Z",
-      "end_time": "2024-03-27T16:00:00Z",
-      "title": "l'aventure BG3 avec Rivenzi en IRL !",
+      "start_time": "2024-03-26T10:00:00Z",
+      "end_time": "2024-03-26T17:00:00Z",
+      "title": "Suite de l'aventure BG3 avec Rivenzi !",
       "canceled_until": null,
       "category": {
         "id": "512923",
@@ -122,21 +134,21 @@
     },
     {
       "id": "eyJzZWdtZW50SUQiOiI3ZThlZmYxMS1iNDFhLTRhM2ItYmZlMC00MTFmN2I1OWRkYWEiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjoxM30=",
-      "start_time": "2024-03-27T19:00:00Z",
-      "end_time": "2024-03-27T23:00:00Z",
-      "title": "Maitre des fleurs avec Rivenzi ! ",
+      "start_time": "2024-03-27T10:00:00Z",
+      "end_time": "2024-03-27T14:00:00Z",
+      "title": "L'addiction est réelle !",
       "canceled_until": null,
       "category": {
-        "id": "338715930",
-        "name": "Maitre des Fleurs"
+        "id": "745589378",
+        "name": "Balatro"
       },
       "is_recurring": true
     },
     {
-      "id": "eyJzZWdtZW50SUQiOiJiYjNiMjQ2MC02Y2YyLTRhZWYtOGM5ZS1jYzQ1MWE4YTZiOGIiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjoxM30=",
-      "start_time": "2024-03-28T14:00:00Z",
-      "end_time": "2024-03-28T20:00:00Z",
-      "title": "l'aventure BG3 avec Rivenzi en IRL !",
+      "id": "eyJzZWdtZW50SUQiOiI3ODBmNDU5Ni0yNTY5LTQyNTUtOGYyNy02OWYyNmI0MDE3YTEiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjoxM30=",
+      "start_time": "2024-03-27T14:00:00Z",
+      "end_time": "2024-03-27T17:00:00Z",
+      "title": "Suite de l'aventure BG3 avec Rivenzi !",
       "canceled_until": null,
       "category": {
         "id": "512923",
@@ -145,14 +157,50 @@
       "is_recurring": true
     },
     {
+      "id": "eyJzZWdtZW50SUQiOiJiYjNiMjQ2MC02Y2YyLTRhZWYtOGM5ZS1jYzQ1MWE4YTZiOGIiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjoxM30=",
+      "start_time": "2024-03-28T12:00:00Z",
+      "end_time": "2024-03-28T16:00:00Z",
+      "title": "Lycans avé les potes",
+      "canceled_until": null,
+      "category": {
+        "id": "1494074023",
+        "name": "Lycans"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiIzYTJiZTM3MC03ZDc1LTQwNWMtOTdhYy1iZjM4MjcwMjlmM2YiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjoxM30=",
+      "start_time": "2024-03-28T16:00:00Z",
+      "end_time": "2024-03-28T18:00:00Z",
+      "title": "De retour sur la faille",
+      "canceled_until": null,
+      "category": {
+        "id": "21779",
+        "name": "League of Legends"
+      },
+      "is_recurring": true
+    },
+    {
       "id": "eyJzZWdtZW50SUQiOiIxM2Q2MmUzYy02ZjRmLTQ3YjMtOGFkOS1lNmRmN2M4OTlmNTMiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjoxM30=",
       "start_time": "2024-03-29T10:00:00Z",
       "end_time": "2024-03-29T16:00:00Z",
-      "title": "Suite du Slowrun TOTK",
+      "title": "Slowrun 100% TOTK",
       "canceled_until": null,
       "category": {
         "id": "512998",
         "name": "The Legend of Zelda: Tears of the Kingdom"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiIxMzBkMmU5NS1iNTczLTRmYjAtOTAyZC1iMWQyNDJlMzdjOWIiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjoxM30=",
+      "start_time": "2024-03-31T11:00:00Z",
+      "end_time": "2024-03-31T14:00:00Z",
+      "title": "Enfin de retour sur le Tournoi des Fleurs ! (avec des cadeaux à gagner eheh)",
+      "canceled_until": null,
+      "category": {
+        "id": "941530474",
+        "name": "Mario Kart 8 Deluxe"
       },
       "is_recurring": true
     },
@@ -170,21 +218,9 @@
     },
     {
       "id": "eyJzZWdtZW50SUQiOiJlYTU5YThiMC04NTVjLTQ5ODMtOWYxZi0wZTFlZjZmMmRhODEiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjoxNH0=",
-      "start_time": "2024-04-02T15:00:00Z",
-      "end_time": "2024-04-02T20:00:00Z",
-      "title": "l'aventure BG3 avec Rivenzi en IRL !",
-      "canceled_until": null,
-      "category": {
-        "id": "512923",
-        "name": "Baldur's Gate 3"
-      },
-      "is_recurring": true
-    },
-    {
-      "id": "eyJzZWdtZW50SUQiOiI3ODBmNDU5Ni0yNTY5LTQyNTUtOGYyNy02OWYyNmI0MDE3YTEiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjoxNH0=",
-      "start_time": "2024-04-03T09:00:00Z",
-      "end_time": "2024-04-03T15:00:00Z",
-      "title": "l'aventure BG3 avec Rivenzi en IRL !",
+      "start_time": "2024-04-02T09:00:00Z",
+      "end_time": "2024-04-02T16:00:00Z",
+      "title": "Suite de l'aventure BG3 avec Rivenzi !",
       "canceled_until": null,
       "category": {
         "id": "512923",
@@ -194,57 +230,21 @@
     },
     {
       "id": "eyJzZWdtZW50SUQiOiI3ZThlZmYxMS1iNDFhLTRhM2ItYmZlMC00MTFmN2I1OWRkYWEiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjoxNH0=",
-      "start_time": "2024-04-03T18:00:00Z",
-      "end_time": "2024-04-03T22:00:00Z",
-      "title": "Maitre des fleurs avec Rivenzi ! ",
+      "start_time": "2024-04-03T09:00:00Z",
+      "end_time": "2024-04-03T13:00:00Z",
+      "title": "L'addiction est réelle !",
       "canceled_until": null,
       "category": {
-        "id": "338715930",
-        "name": "Maitre des Fleurs"
+        "id": "745589378",
+        "name": "Balatro"
       },
       "is_recurring": true
     },
     {
-      "id": "eyJzZWdtZW50SUQiOiJiYjNiMjQ2MC02Y2YyLTRhZWYtOGM5ZS1jYzQ1MWE4YTZiOGIiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjoxNH0=",
-      "start_time": "2024-04-04T13:00:00Z",
-      "end_time": "2024-04-04T19:00:00Z",
-      "title": "l'aventure BG3 avec Rivenzi en IRL !",
-      "canceled_until": null,
-      "category": {
-        "id": "512923",
-        "name": "Baldur's Gate 3"
-      },
-      "is_recurring": true
-    },
-    {
-      "id": "eyJzZWdtZW50SUQiOiIxM2Q2MmUzYy02ZjRmLTQ3YjMtOGFkOS1lNmRmN2M4OTlmNTMiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjoxNH0=",
-      "start_time": "2024-04-05T09:00:00Z",
-      "end_time": "2024-04-05T15:00:00Z",
-      "title": "Suite du Slowrun TOTK",
-      "canceled_until": null,
-      "category": {
-        "id": "512998",
-        "name": "The Legend of Zelda: Tears of the Kingdom"
-      },
-      "is_recurring": true
-    },
-    {
-      "id": "eyJzZWdtZW50SUQiOiI1NDYzNDM1ZC0zOTI3LTQ2NmQtOTM5NC1jYzhkMDQ0NjQ2NzIiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjoxNX0=",
-      "start_time": "2024-04-08T09:00:00Z",
-      "end_time": "2024-04-08T16:00:00Z",
-      "title": "Culture et plaisir sur le Maitre des Fleurs",
-      "canceled_until": null,
-      "category": {
-        "id": "338715930",
-        "name": "Maitre des Fleurs"
-      },
-      "is_recurring": true
-    },
-    {
-      "id": "eyJzZWdtZW50SUQiOiJlYTU5YThiMC04NTVjLTQ5ODMtOWYxZi0wZTFlZjZmMmRhODEiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjoxNX0=",
-      "start_time": "2024-04-09T15:00:00Z",
-      "end_time": "2024-04-09T20:00:00Z",
-      "title": "l'aventure BG3 avec Rivenzi en IRL !",
+      "id": "eyJzZWdtZW50SUQiOiI3ODBmNDU5Ni0yNTY5LTQyNTUtOGYyNy02OWYyNmI0MDE3YTEiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjoxNH0=",
+      "start_time": "2024-04-03T13:00:00Z",
+      "end_time": "2024-04-03T16:00:00Z",
+      "title": "Suite de l'aventure BG3 avec Rivenzi !",
       "canceled_until": null,
       "category": {
         "id": "512923",
