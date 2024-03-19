@@ -7,23 +7,11 @@
     "broadcaster_type": "partner",
     "description": "On se tape des immenses barres.",
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/d4737061-8f00-49d9-a56f-fcb4a9230b3f-profile_image-300x300.png",
-    "offline_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/66221c7c-5a03-4c5a-9251-3efbee9167c6-channel_offline_image-1920x1080.png",
+    "offline_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/0b3438f8-efaa-4fb8-ba8c-fc7362445d7d-channel_offline_image-1920x1080.jpeg",
     "view_count": 0,
     "created_at": "2013-10-24T19:04:45Z"
   },
   "schedulers": [
-    {
-      "id": "eyJzZWdtZW50SUQiOiI1NDYzNDM1ZC0zOTI3LTQ2NmQtOTM5NC1jYzhkMDQ0NjQ2NzIiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjoxMn0=",
-      "start_time": "2024-03-18T10:00:00Z",
-      "end_time": "2024-03-18T17:00:00Z",
-      "title": "Culture et plaisir sur le Maitre des Fleurs",
-      "canceled_until": null,
-      "category": {
-        "id": "338715930",
-        "name": "Maitre des Fleurs"
-      },
-      "is_recurring": true
-    },
     {
       "id": "eyJzZWdtZW50SUQiOiJlYTU5YThiMC04NTVjLTQ5ODMtOWYxZi0wZTFlZjZmMmRhODEiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjoxMn0=",
       "start_time": "2024-03-19T10:00:00Z",
@@ -37,14 +25,14 @@
       "is_recurring": true
     },
     {
-      "id": "eyJzZWdtZW50SUQiOiI3ZThlZmYxMS1iNDFhLTRhM2ItYmZlMC00MTFmN2I1OWRkYWEiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjoxMn0=",
+      "id": "eyJzZWdtZW50SUQiOiIxM2Q2MmUzYy02ZjRmLTQ3YjMtOGFkOS1lNmRmN2M4OTlmNTMiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjoxMn0=",
       "start_time": "2024-03-20T10:00:00Z",
       "end_time": "2024-03-20T14:00:00Z",
-      "title": "L'addiction est réelle !",
+      "title": "Suite du slowrun TOTK",
       "canceled_until": null,
       "category": {
-        "id": "745589378",
-        "name": "Balatro"
+        "id": "512998",
+        "name": "The Legend of Zelda: Tears of the Kingdom"
       },
       "is_recurring": true
     },
@@ -85,14 +73,14 @@
       "is_recurring": true
     },
     {
-      "id": "eyJzZWdtZW50SUQiOiIxM2Q2MmUzYy02ZjRmLTQ3YjMtOGFkOS1lNmRmN2M4OTlmNTMiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjoxMn0=",
+      "id": "eyJzZWdtZW50SUQiOiJkZmMxM2E2OS04MWY0LTQ4OTgtOTdkZi1hMjkxYjI2YzU0ZTkiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjoxMn0=",
       "start_time": "2024-03-22T10:00:00Z",
-      "end_time": "2024-03-22T16:00:00Z",
-      "title": "Slowrun 100% TOTK",
+      "end_time": "2024-03-22T17:00:00Z",
+      "title": "Découverte de Princesse Peach : Showtime !",
       "canceled_until": null,
       "category": {
-        "id": "512998",
-        "name": "The Legend of Zelda: Tears of the Kingdom"
+        "id": "1886860903",
+        "name": "Princess Peach: Showtime!"
       },
       "is_recurring": true
     },
@@ -133,14 +121,14 @@
       "is_recurring": true
     },
     {
-      "id": "eyJzZWdtZW50SUQiOiI3ZThlZmYxMS1iNDFhLTRhM2ItYmZlMC00MTFmN2I1OWRkYWEiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjoxM30=",
+      "id": "eyJzZWdtZW50SUQiOiIxM2Q2MmUzYy02ZjRmLTQ3YjMtOGFkOS1lNmRmN2M4OTlmNTMiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjoxM30=",
       "start_time": "2024-03-27T10:00:00Z",
       "end_time": "2024-03-27T14:00:00Z",
-      "title": "L'addiction est réelle !",
+      "title": "Suite du slowrun TOTK",
       "canceled_until": null,
       "category": {
-        "id": "745589378",
-        "name": "Balatro"
+        "id": "512998",
+        "name": "The Legend of Zelda: Tears of the Kingdom"
       },
       "is_recurring": true
     },
@@ -181,14 +169,14 @@
       "is_recurring": true
     },
     {
-      "id": "eyJzZWdtZW50SUQiOiIxM2Q2MmUzYy02ZjRmLTQ3YjMtOGFkOS1lNmRmN2M4OTlmNTMiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjoxM30=",
+      "id": "eyJzZWdtZW50SUQiOiJkZmMxM2E2OS04MWY0LTQ4OTgtOTdkZi1hMjkxYjI2YzU0ZTkiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjoxM30=",
       "start_time": "2024-03-29T10:00:00Z",
-      "end_time": "2024-03-29T16:00:00Z",
-      "title": "Slowrun 100% TOTK",
+      "end_time": "2024-03-29T17:00:00Z",
+      "title": "Découverte de Princesse Peach : Showtime !",
       "canceled_until": null,
       "category": {
-        "id": "512998",
-        "name": "The Legend of Zelda: Tears of the Kingdom"
+        "id": "1886860903",
+        "name": "Princess Peach: Showtime!"
       },
       "is_recurring": true
     },
@@ -229,14 +217,14 @@
       "is_recurring": true
     },
     {
-      "id": "eyJzZWdtZW50SUQiOiI3ZThlZmYxMS1iNDFhLTRhM2ItYmZlMC00MTFmN2I1OWRkYWEiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjoxNH0=",
+      "id": "eyJzZWdtZW50SUQiOiIxM2Q2MmUzYy02ZjRmLTQ3YjMtOGFkOS1lNmRmN2M4OTlmNTMiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjoxNH0=",
       "start_time": "2024-04-03T09:00:00Z",
       "end_time": "2024-04-03T13:00:00Z",
-      "title": "L'addiction est réelle !",
+      "title": "Suite du slowrun TOTK",
       "canceled_until": null,
       "category": {
-        "id": "745589378",
-        "name": "Balatro"
+        "id": "512998",
+        "name": "The Legend of Zelda: Tears of the Kingdom"
       },
       "is_recurring": true
     },
@@ -249,6 +237,18 @@
       "category": {
         "id": "512923",
         "name": "Baldur's Gate 3"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiJiYjNiMjQ2MC02Y2YyLTRhZWYtOGM5ZS1jYzQ1MWE4YTZiOGIiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjoxNH0=",
+      "start_time": "2024-04-04T11:00:00Z",
+      "end_time": "2024-04-04T15:00:00Z",
+      "title": "Lycans avé les potes",
+      "canceled_until": null,
+      "category": {
+        "id": "1494074023",
+        "name": "Lycans"
       },
       "is_recurring": true
     }
