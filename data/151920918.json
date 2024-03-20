@@ -13,6 +13,18 @@
   },
   "schedulers": [
     {
+      "id": "eyJzZWdtZW50SUQiOiI0ZTU3MzM4Ni0xMDVmLTQ0MjctOWQ4ZS03M2ZlNjBjYzYwYzgiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjoxM30=",
+      "start_time": "2024-03-27T19:30:00Z",
+      "end_time": "2024-03-27T20:30:00Z",
+      "title": "Inside the JPL Space Simulator with Europa Clipper",
+      "canceled_until": null,
+      "category": {
+        "id": "509670",
+        "name": "Science & Technology"
+      },
+      "is_recurring": false
+    },
+    {
       "id": "eyJzZWdtZW50SUQiOiJlZDZhMzQ2My1mMTU2LTRkOTMtODJkNS00NzEwNGE0ZmY5ZGIiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjoxNX0=",
       "start_time": "2024-04-08T17:00:00Z",
       "end_time": "2024-04-08T20:00:00Z",

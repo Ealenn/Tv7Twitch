@@ -13,18 +13,6 @@
   },
   "schedulers": [
     {
-      "id": "eyJzZWdtZW50SUQiOiJlYTU5YThiMC04NTVjLTQ5ODMtOWYxZi0wZTFlZjZmMmRhODEiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjoxMn0=",
-      "start_time": "2024-03-19T10:00:00Z",
-      "end_time": "2024-03-19T17:00:00Z",
-      "title": "Suite de l'aventure BG3 avec Rivenzi !",
-      "canceled_until": null,
-      "category": {
-        "id": "512923",
-        "name": "Baldur's Gate 3"
-      },
-      "is_recurring": true
-    },
-    {
       "id": "eyJzZWdtZW50SUQiOiIxM2Q2MmUzYy02ZjRmLTQ3YjMtOGFkOS1lNmRmN2M4OTlmNTMiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjoxMn0=",
       "start_time": "2024-03-20T10:00:00Z",
       "end_time": "2024-03-20T14:00:00Z",
@@ -249,6 +237,18 @@
       "category": {
         "id": "1494074023",
         "name": "Lycans"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiIzYTJiZTM3MC03ZDc1LTQwNWMtOTdhYy1iZjM4MjcwMjlmM2YiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjoxNH0=",
+      "start_time": "2024-04-04T15:00:00Z",
+      "end_time": "2024-04-04T17:00:00Z",
+      "title": "De retour sur la faille",
+      "canceled_until": null,
+      "category": {
+        "id": "21779",
+        "name": "League of Legends"
       },
       "is_recurring": true
     }
