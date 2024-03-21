@@ -13,10 +13,22 @@
   },
   "schedulers": [
     {
-      "id": "eyJzZWdtZW50SUQiOiI3MmVhZWViNi04ZmVkLTQzMjAtOGIyMC1mMjgwYjE5MDgzZmUiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjoxMn0=",
-      "start_time": "2024-03-20T16:30:00Z",
-      "end_time": "2024-03-20T18:30:00Z",
-      "title": "Quiz de l'espace",
+      "id": "eyJzZWdtZW50SUQiOiIxZTM3OGJhYS03M2NmLTQ3MWMtYWUxNi04MDkwYTgyYTY5ODIiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjoxN30=",
+      "start_time": "2024-04-24T10:30:00Z",
+      "end_time": "2024-04-24T12:00:00Z",
+      "title": "Discussion thématique",
+      "canceled_until": null,
+      "category": {
+        "id": "509670",
+        "name": "Science & Technology"
+      },
+      "is_recurring": false
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiI0ZTk5MWFkNC01Zjg5LTQyZDQtYmEwNy02MzJhYjczYTMzMWYiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjoxOH0=",
+      "start_time": "2024-04-30T15:30:00Z",
+      "end_time": "2024-04-30T17:00:00Z",
+      "title": "Solar Orbiter",
       "canceled_until": null,
       "category": {
         "id": "509670",
