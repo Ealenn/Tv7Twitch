@@ -13,6 +13,18 @@
   },
   "schedulers": [
     {
+      "id": "eyJzZWdtZW50SUQiOiI2ZWEyNDA0Ny0yMWIwLTRkMDItOWQ5MC1hNjMwYzUxYWE3MzEiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjoxNH0=",
+      "start_time": "2024-04-04T18:15:00Z",
+      "end_time": "2024-04-04T19:45:00Z",
+      "title": "React",
+      "canceled_until": null,
+      "category": {
+        "id": "509670",
+        "name": "Science & Technology"
+      },
+      "is_recurring": false
+    },
+    {
       "id": "eyJzZWdtZW50SUQiOiIxZTM3OGJhYS03M2NmLTQ3MWMtYWUxNi04MDkwYTgyYTY5ODIiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjoxN30=",
       "start_time": "2024-04-24T10:30:00Z",
       "end_time": "2024-04-24T12:00:00Z",

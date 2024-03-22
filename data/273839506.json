@@ -49,9 +49,9 @@
       "is_recurring": false
     },
     {
-      "id": "eyJzZWdtZW50SUQiOiJkYzA4ZDEwMS0yYmVkLTQ4NzMtODA5MS1iMWY4MzQ3NDI2N2YiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjoxOX0=",
-      "start_time": "2024-05-08T17:00:00Z",
-      "end_time": "2024-05-08T19:00:00Z",
+      "id": "eyJzZWdtZW50SUQiOiJkYzA4ZDEwMS0yYmVkLTQ4NzMtODA5MS1iMWY4MzQ3NDI2N2YiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjoxOH0=",
+      "start_time": "2024-05-01T17:00:00Z",
+      "end_time": "2024-05-01T19:00:00Z",
       "title": "Underscore_",
       "canceled_until": null,
       "category": {
@@ -61,9 +61,9 @@
       "is_recurring": false
     },
     {
-      "id": "eyJzZWdtZW50SUQiOiIxNGVhZmMxMi04YTU2LTRjNjYtOWM0Zi00NmJmYTA1MzlmMDIiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjoyMX0=",
-      "start_time": "2024-05-22T17:00:00Z",
-      "end_time": "2024-05-22T19:00:00Z",
+      "id": "eyJzZWdtZW50SUQiOiIxNGVhZmMxMi04YTU2LTRjNjYtOWM0Zi00NmJmYTA1MzlmMDIiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjoyMH0=",
+      "start_time": "2024-05-15T17:00:00Z",
+      "end_time": "2024-05-15T19:00:00Z",
       "title": "Underscore_",
       "canceled_until": null,
       "category": {
@@ -73,9 +73,9 @@
       "is_recurring": false
     },
     {
-      "id": "eyJzZWdtZW50SUQiOiI5NGQ0NTg0Ny1kNDEyLTRjYWMtOTY3NS0wZGEzNzFiMGFiOGQiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjoyM30=",
-      "start_time": "2024-06-05T17:00:00Z",
-      "end_time": "2024-06-05T19:00:00Z",
+      "id": "eyJzZWdtZW50SUQiOiI5NGQ0NTg0Ny1kNDEyLTRjYWMtOTY3NS0wZGEzNzFiMGFiOGQiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjoyMn0=",
+      "start_time": "2024-05-29T17:00:00Z",
+      "end_time": "2024-05-29T19:00:00Z",
       "title": "Underscore_",
       "canceled_until": null,
       "category": {
@@ -85,9 +85,21 @@
       "is_recurring": false
     },
     {
-      "id": "eyJzZWdtZW50SUQiOiJmMmNkODZlZC05NTY4LTQzMzMtYjEzMC01MWZiMzkzMmYzMDQiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjoyNX0=",
-      "start_time": "2024-06-19T17:00:00Z",
-      "end_time": "2024-06-19T19:00:00Z",
+      "id": "eyJzZWdtZW50SUQiOiJmMmNkODZlZC05NTY4LTQzMzMtYjEzMC01MWZiMzkzMmYzMDQiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjoyNn0=",
+      "start_time": "2024-06-26T17:00:00Z",
+      "end_time": "2024-06-26T19:00:00Z",
+      "title": "Underscore_",
+      "canceled_until": null,
+      "category": {
+        "id": "417752",
+        "name": "Talk Shows & Podcasts"
+      },
+      "is_recurring": false
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiJlNmFhYTZjNS0wNWM2LTRmYTMtOTMzYS1mNDk3MzI2NjMxYTkiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjoyN30=",
+      "start_time": "2024-07-03T17:00:00Z",
+      "end_time": "2024-07-03T19:00:00Z",
       "title": "Underscore_",
       "canceled_until": null,
       "category": {

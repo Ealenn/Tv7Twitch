@@ -13,18 +13,6 @@
   },
   "schedulers": [
     {
-      "id": "eyJzZWdtZW50SUQiOiJhOWRlZTNjYi02MDBmLTQzMGEtYmQ2OC05MWM0NDA3MmM4ZmMiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjoxMn0=",
-      "start_time": "2024-03-21T19:00:00Z",
-      "end_time": "2024-03-21T23:00:00Z",
-      "title": "Civ 6 avec Alpha, M4f, Pressea & Eventis",
-      "canceled_until": null,
-      "category": {
-        "id": "492553",
-        "name": "Sid Meier's Civilization VI"
-      },
-      "is_recurring": false
-    },
-    {
       "id": "eyJzZWdtZW50SUQiOiI5ODkyMzQwZi03MWI3LTQyNTYtYWU3OS1iMzljZTE3YzJkZGQiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjoxM30=",
       "start_time": "2024-03-27T17:00:00Z",
       "end_time": "2024-03-27T19:00:00Z",
@@ -244,6 +232,18 @@
       "id": "eyJzZWdtZW50SUQiOiI5ODkyMzQwZi03MWI3LTQyNTYtYWU3OS1iMzljZTE3YzJkZGQiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjozMX0=",
       "start_time": "2024-07-31T16:00:00Z",
       "end_time": "2024-07-31T18:00:00Z",
+      "title": " Debrief' de l'actualité jeu vidéo de la semaine avec vous ☕",
+      "canceled_until": null,
+      "category": {
+        "id": "509658",
+        "name": "Just Chatting"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiI5ODkyMzQwZi03MWI3LTQyNTYtYWU3OS1iMzljZTE3YzJkZGQiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjozMn0=",
+      "start_time": "2024-08-07T16:00:00Z",
+      "end_time": "2024-08-07T18:00:00Z",
       "title": " Debrief' de l'actualité jeu vidéo de la semaine avec vous ☕",
       "canceled_until": null,
       "category": {
