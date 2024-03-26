@@ -13,16 +13,64 @@
   },
   "schedulers": [
     {
-      "id": "eyJzZWdtZW50SUQiOiJiNTE0YTNkMC0xM2IxLTRjMGYtYTAzMy05OTdiYzc4Yjc1YjEiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjoxM30=",
-      "start_time": "2024-03-25T19:30:00Z",
-      "end_time": "2024-03-25T23:00:00Z",
-      "title": "Soirée du lundi",
+      "id": "eyJzZWdtZW50SUQiOiI4ZDQyZWI3Yi1kODZhLTQ3YTEtYTlhZi1iY2ExYWM5MDk1Y2UiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjoxM30=",
+      "start_time": "2024-03-26T19:00:00Z",
+      "end_time": "2024-03-26T23:00:00Z",
+      "title": "Tournoi Apex Legends Battle of CEO",
       "canceled_until": null,
       "category": {
-        "id": "509658",
-        "name": "Just Chatting"
+        "id": "511224",
+        "name": "Apex Legends"
       },
-      "is_recurring": true
+      "is_recurring": false
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiJlMWNiZGY0ZS01ZDlhLTRlYWYtYWM3NS0xMmQxYmExZDUyMWIiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjoxM30=",
+      "start_time": "2024-03-27T19:00:00Z",
+      "end_time": "2024-03-27T21:00:00Z",
+      "title": "Découverte de Millennia le dernier jeu de Paradox Interactive #Publicité",
+      "canceled_until": null,
+      "category": {
+        "id": "1209113442",
+        "name": "Millennia"
+      },
+      "is_recurring": false
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiI5ZjAwMjJiYy1kOTExLTQ2YjktODQxNC05MjY4MTBmZWE4MDciLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjoxM30=",
+      "start_time": "2024-03-28T18:00:00Z",
+      "end_time": "2024-03-28T22:00:00Z",
+      "title": "GamePassChallenge la finale en plateau avec tout le monde",
+      "canceled_until": null,
+      "category": {
+        "id": "516575",
+        "name": "VALORANT"
+      },
+      "is_recurring": false
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiIyZjA4NzQxNC00OWI2LTQ0MTEtOWJjZi1mMjBlNjhkMjVjZjYiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjoxM30=",
+      "start_time": "2024-03-29T19:00:00Z",
+      "end_time": "2024-03-29T23:00:00Z",
+      "title": "Découvert de Stumble Guys avec @KennyStream #Publicité",
+      "canceled_until": null,
+      "category": {
+        "id": "1312214340",
+        "name": "Stumble Guys"
+      },
+      "is_recurring": false
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiI1M2EyOWY1My00NjlhLTQ0YTktOWJhOS1mMzZkN2VjNTFjNTciLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjoxM30=",
+      "start_time": "2024-03-30T17:00:00Z",
+      "end_time": "2024-03-30T20:00:00Z",
+      "title": "MANDATORY vs VALIANT Playoff VALORANT",
+      "canceled_until": null,
+      "category": {
+        "id": "516575",
+        "name": "VALORANT"
+      },
+      "is_recurring": false
     },
     {
       "id": "eyJzZWdtZW50SUQiOiJiNTE0YTNkMC0xM2IxLTRjMGYtYTAzMy05OTdiYzc4Yjc1YjEiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjoxNH0=",
@@ -35,6 +83,18 @@
         "name": "Just Chatting"
       },
       "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiJkMDk3NGJmOS0xZGE0LTRlMDktOGUxMS0yZDQ1YjgwNjdmZTIiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjoxNH0=",
+      "start_time": "2024-04-06T18:00:00Z",
+      "end_time": "2024-04-06T20:00:00Z",
+      "title": "Présentation PowerPoint de la ZLAN 2024",
+      "canceled_until": null,
+      "category": {
+        "id": "509658",
+        "name": "Just Chatting"
+      },
+      "is_recurring": false
     },
     {
       "id": "eyJzZWdtZW50SUQiOiJiNTE0YTNkMC0xM2IxLTRjMGYtYTAzMy05OTdiYzc4Yjc1YjEiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjoxNX0=",
@@ -184,66 +244,6 @@
       "id": "eyJzZWdtZW50SUQiOiJiNTE0YTNkMC0xM2IxLTRjMGYtYTAzMy05OTdiYzc4Yjc1YjEiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjoyN30=",
       "start_time": "2024-07-01T18:30:00Z",
       "end_time": "2024-07-01T22:00:00Z",
-      "title": "Soirée du lundi",
-      "canceled_until": null,
-      "category": {
-        "id": "509658",
-        "name": "Just Chatting"
-      },
-      "is_recurring": true
-    },
-    {
-      "id": "eyJzZWdtZW50SUQiOiJiNTE0YTNkMC0xM2IxLTRjMGYtYTAzMy05OTdiYzc4Yjc1YjEiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjoyOH0=",
-      "start_time": "2024-07-08T18:30:00Z",
-      "end_time": "2024-07-08T22:00:00Z",
-      "title": "Soirée du lundi",
-      "canceled_until": null,
-      "category": {
-        "id": "509658",
-        "name": "Just Chatting"
-      },
-      "is_recurring": true
-    },
-    {
-      "id": "eyJzZWdtZW50SUQiOiJiNTE0YTNkMC0xM2IxLTRjMGYtYTAzMy05OTdiYzc4Yjc1YjEiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjoyOX0=",
-      "start_time": "2024-07-15T18:30:00Z",
-      "end_time": "2024-07-15T22:00:00Z",
-      "title": "Soirée du lundi",
-      "canceled_until": null,
-      "category": {
-        "id": "509658",
-        "name": "Just Chatting"
-      },
-      "is_recurring": true
-    },
-    {
-      "id": "eyJzZWdtZW50SUQiOiJiNTE0YTNkMC0xM2IxLTRjMGYtYTAzMy05OTdiYzc4Yjc1YjEiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjozMH0=",
-      "start_time": "2024-07-22T18:30:00Z",
-      "end_time": "2024-07-22T22:00:00Z",
-      "title": "Soirée du lundi",
-      "canceled_until": null,
-      "category": {
-        "id": "509658",
-        "name": "Just Chatting"
-      },
-      "is_recurring": true
-    },
-    {
-      "id": "eyJzZWdtZW50SUQiOiJiNTE0YTNkMC0xM2IxLTRjMGYtYTAzMy05OTdiYzc4Yjc1YjEiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjozMX0=",
-      "start_time": "2024-07-29T18:30:00Z",
-      "end_time": "2024-07-29T22:00:00Z",
-      "title": "Soirée du lundi",
-      "canceled_until": null,
-      "category": {
-        "id": "509658",
-        "name": "Just Chatting"
-      },
-      "is_recurring": true
-    },
-    {
-      "id": "eyJzZWdtZW50SUQiOiJiNTE0YTNkMC0xM2IxLTRjMGYtYTAzMy05OTdiYzc4Yjc1YjEiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjozMn0=",
-      "start_time": "2024-08-05T18:30:00Z",
-      "end_time": "2024-08-05T22:00:00Z",
       "title": "Soirée du lundi",
       "canceled_until": null,
       "category": {

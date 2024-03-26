@@ -7,39 +7,39 @@
     "broadcaster_type": "partner",
     "description": "On se tape des immenses barres.",
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/d4737061-8f00-49d9-a56f-fcb4a9230b3f-profile_image-300x300.png",
-    "offline_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/0b3438f8-efaa-4fb8-ba8c-fc7362445d7d-channel_offline_image-1920x1080.jpeg",
+    "offline_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/8f9022f2-93e1-4d26-aebb-25eb46af656d-channel_offline_image-1920x1080.jpeg",
     "view_count": 0,
     "created_at": "2013-10-24T19:04:45Z"
   },
   "schedulers": [
     {
-      "id": "eyJzZWdtZW50SUQiOiI1NDYzNDM1ZC0zOTI3LTQ2NmQtOTM5NC1jYzhkMDQ0NjQ2NzIiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjoxM30=",
-      "start_time": "2024-03-25T10:00:00Z",
-      "end_time": "2024-03-25T17:00:00Z",
-      "title": "Culture et plaisir sur le Maitre des Fleurs",
+      "id": "eyJzZWdtZW50SUQiOiI3ZDE0M2Y0Yy05ZjVlLTRjNzgtYWJkMS0xYzRjZTRhZTMzMWEiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjoxM30=",
+      "start_time": "2024-03-26T10:00:00Z",
+      "end_time": "2024-03-26T13:00:00Z",
+      "title": "Codenames avé les potes",
       "canceled_until": null,
       "category": {
-        "id": "338715930",
-        "name": "Maitre des Fleurs"
+        "id": "508509",
+        "name": "Codenames"
       },
       "is_recurring": true
     },
     {
-      "id": "eyJzZWdtZW50SUQiOiJlYTU5YThiMC04NTVjLTQ5ODMtOWYxZi0wZTFlZjZmMmRhODEiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjoxM30=",
-      "start_time": "2024-03-26T10:00:00Z",
-      "end_time": "2024-03-26T17:00:00Z",
-      "title": "Suite de l'aventure BG3 avec Rivenzi !",
+      "id": "eyJzZWdtZW50SUQiOiJmMmM5MzgwMi04ZTljLTRhZWUtYjRlNC1jNDg0NzQyNWYyNmMiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjoxM30=",
+      "start_time": "2024-03-26T13:00:00Z",
+      "end_time": "2024-03-26T15:00:00Z",
+      "title": "Découverte de Tchia",
       "canceled_until": null,
       "category": {
-        "id": "512923",
-        "name": "Baldur's Gate 3"
+        "id": "1538620476",
+        "name": "Tchia"
       },
       "is_recurring": true
     },
     {
       "id": "eyJzZWdtZW50SUQiOiIxM2Q2MmUzYy02ZjRmLTQ3YjMtOGFkOS1lNmRmN2M4OTlmNTMiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjoxM30=",
-      "start_time": "2024-03-27T10:00:00Z",
-      "end_time": "2024-03-27T14:00:00Z",
+      "start_time": "2024-03-26T15:00:00Z",
+      "end_time": "2024-03-26T17:00:00Z",
       "title": "Suite du slowrun TOTK",
       "canceled_until": null,
       "category": {
@@ -50,8 +50,8 @@
     },
     {
       "id": "eyJzZWdtZW50SUQiOiI3ODBmNDU5Ni0yNTY5LTQyNTUtOGYyNy02OWYyNmI0MDE3YTEiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjoxM30=",
-      "start_time": "2024-03-27T14:00:00Z",
-      "end_time": "2024-03-27T17:00:00Z",
+      "start_time": "2024-03-27T10:00:00Z",
+      "end_time": "2024-03-27T16:00:00Z",
       "title": "Suite de l'aventure BG3 avec Rivenzi !",
       "canceled_until": null,
       "category": {
@@ -61,9 +61,45 @@
       "is_recurring": true
     },
     {
-      "id": "eyJzZWdtZW50SUQiOiJiYjNiMjQ2MC02Y2YyLTRhZWYtOGM5ZS1jYzQ1MWE4YTZiOGIiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjoxM30=",
+      "id": "eyJzZWdtZW50SUQiOiI0YzgzZWUyMS02ZDdhLTRkMjAtYTRkNy1mNDgxNDYxY2M2YmUiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjoxM30=",
+      "start_time": "2024-03-27T16:00:00Z",
+      "end_time": "2024-03-27T19:00:00Z",
+      "title": "Training WoW Plunderstorm avec Luuxia",
+      "canceled_until": null,
+      "category": {
+        "id": "18122",
+        "name": "World of Warcraft"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiIyODQwYjNkMS1lZjVkLTQ4ODAtODUyYS00OWYwMjA4M2UzZWEiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjoxM30=",
       "start_time": "2024-03-28T12:00:00Z",
-      "end_time": "2024-03-28T16:00:00Z",
+      "end_time": "2024-03-28T18:00:00Z",
+      "title": "Suite de l'aventure BG3 avec Rivenzi !",
+      "canceled_until": null,
+      "category": {
+        "id": "512923",
+        "name": "Baldur's Gate 3"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiIyNzJjM2YzMi01OGZhLTRlY2YtYWNjZC1iMGY4YTVhMWJiMTIiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjoxM30=",
+      "start_time": "2024-03-28T18:00:00Z",
+      "end_time": "2024-03-28T21:00:00Z",
+      "title": "Training WoW Plunderstorm avec Luuxia",
+      "canceled_until": null,
+      "category": {
+        "id": "18122",
+        "name": "World of Warcraft"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiJiYjNiMjQ2MC02Y2YyLTRhZWYtOGM5ZS1jYzQ1MWE4YTZiOGIiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjoxM30=",
+      "start_time": "2024-03-29T10:00:00Z",
+      "end_time": "2024-03-29T13:00:00Z",
       "title": "Lycans avé les potes",
       "canceled_until": null,
       "category": {
@@ -73,38 +109,38 @@
       "is_recurring": true
     },
     {
-      "id": "eyJzZWdtZW50SUQiOiIzYTJiZTM3MC03ZDc1LTQwNWMtOTdhYy1iZjM4MjcwMjlmM2YiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjoxM30=",
-      "start_time": "2024-03-28T16:00:00Z",
-      "end_time": "2024-03-28T18:00:00Z",
-      "title": "De retour sur la faille",
+      "id": "eyJzZWdtZW50SUQiOiJlYWI4ZGE1Mi05YTM3LTQxODItOGIwMC04YzU5N2Y0Njk2YTMiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjoxM30=",
+      "start_time": "2024-03-29T13:00:00Z",
+      "end_time": "2024-03-29T18:00:00Z",
+      "title": "Suite du slowrun TOTK",
       "canceled_until": null,
       "category": {
-        "id": "21779",
-        "name": "League of Legends"
+        "id": "512998",
+        "name": "The Legend of Zelda: Tears of the Kingdom"
       },
       "is_recurring": true
     },
     {
-      "id": "eyJzZWdtZW50SUQiOiJkZmMxM2E2OS04MWY0LTQ4OTgtOTdkZi1hMjkxYjI2YzU0ZTkiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjoxM30=",
-      "start_time": "2024-03-29T10:00:00Z",
-      "end_time": "2024-03-29T17:00:00Z",
-      "title": "Découverte de Princesse Peach : Showtime !",
+      "id": "eyJzZWdtZW50SUQiOiJlMDMxYjRjZS1jNDljLTQzZGItYTUzYi04MDhhNjM4ZTdiM2UiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjoxM30=",
+      "start_time": "2024-03-29T18:00:00Z",
+      "end_time": "2024-03-29T21:00:00Z",
+      "title": "Training WoW Plunderstorm avec Luuxia",
       "canceled_until": null,
       "category": {
-        "id": "1886860903",
-        "name": "Princess Peach: Showtime!"
+        "id": "18122",
+        "name": "World of Warcraft"
       },
       "is_recurring": true
     },
     {
-      "id": "eyJzZWdtZW50SUQiOiIxMzBkMmU5NS1iNTczLTRmYjAtOTAyZC1iMWQyNDJlMzdjOWIiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjoxM30=",
-      "start_time": "2024-03-31T11:00:00Z",
-      "end_time": "2024-03-31T14:00:00Z",
-      "title": "Enfin de retour sur le Tournoi des Fleurs ! (avec des cadeaux à gagner eheh)",
+      "id": "eyJzZWdtZW50SUQiOiJiNWE0Nzk1OC1kNTNjLTQxMmEtODU2MS0yOTNjN2U5ODE1NjYiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjoxM30=",
+      "start_time": "2024-03-30T18:00:00Z",
+      "end_time": "2024-03-30T21:00:00Z",
+      "title": "Tournoi 50k$ WoW Plunderstorm avec Luuxia",
       "canceled_until": null,
       "category": {
-        "id": "941530474",
-        "name": "Mario Kart 8 Deluxe"
+        "id": "18122",
+        "name": "World of Warcraft"
       },
       "is_recurring": true
     },
@@ -121,21 +157,33 @@
       "is_recurring": true
     },
     {
-      "id": "eyJzZWdtZW50SUQiOiJlYTU5YThiMC04NTVjLTQ5ODMtOWYxZi0wZTFlZjZmMmRhODEiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjoxNH0=",
+      "id": "eyJzZWdtZW50SUQiOiI3ZDE0M2Y0Yy05ZjVlLTRjNzgtYWJkMS0xYzRjZTRhZTMzMWEiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjoxNH0=",
       "start_time": "2024-04-02T09:00:00Z",
-      "end_time": "2024-04-02T16:00:00Z",
-      "title": "Suite de l'aventure BG3 avec Rivenzi !",
+      "end_time": "2024-04-02T12:00:00Z",
+      "title": "Codenames avé les potes",
       "canceled_until": null,
       "category": {
-        "id": "512923",
-        "name": "Baldur's Gate 3"
+        "id": "508509",
+        "name": "Codenames"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiJmMmM5MzgwMi04ZTljLTRhZWUtYjRlNC1jNDg0NzQyNWYyNmMiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjoxNH0=",
+      "start_time": "2024-04-02T12:00:00Z",
+      "end_time": "2024-04-02T14:00:00Z",
+      "title": "Découverte de Tchia",
+      "canceled_until": null,
+      "category": {
+        "id": "1538620476",
+        "name": "Tchia"
       },
       "is_recurring": true
     },
     {
       "id": "eyJzZWdtZW50SUQiOiIxM2Q2MmUzYy02ZjRmLTQ3YjMtOGFkOS1lNmRmN2M4OTlmNTMiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjoxNH0=",
-      "start_time": "2024-04-03T09:00:00Z",
-      "end_time": "2024-04-03T13:00:00Z",
+      "start_time": "2024-04-02T14:00:00Z",
+      "end_time": "2024-04-02T16:00:00Z",
       "title": "Suite du slowrun TOTK",
       "canceled_until": null,
       "category": {
@@ -146,109 +194,61 @@
     },
     {
       "id": "eyJzZWdtZW50SUQiOiI3ODBmNDU5Ni0yNTY5LTQyNTUtOGYyNy02OWYyNmI0MDE3YTEiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjoxNH0=",
-      "start_time": "2024-04-03T13:00:00Z",
-      "end_time": "2024-04-03T16:00:00Z",
+      "start_time": "2024-04-03T09:00:00Z",
+      "end_time": "2024-04-03T15:00:00Z",
       "title": "Suite de l'aventure BG3 avec Rivenzi !",
       "canceled_until": null,
       "category": {
         "id": "512923",
         "name": "Baldur's Gate 3"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiI0YzgzZWUyMS02ZDdhLTRkMjAtYTRkNy1mNDgxNDYxY2M2YmUiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjoxNH0=",
+      "start_time": "2024-04-03T15:00:00Z",
+      "end_time": "2024-04-03T18:00:00Z",
+      "title": "Training WoW Plunderstorm avec Luuxia",
+      "canceled_until": null,
+      "category": {
+        "id": "18122",
+        "name": "World of Warcraft"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiIyODQwYjNkMS1lZjVkLTQ4ODAtODUyYS00OWYwMjA4M2UzZWEiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjoxNH0=",
+      "start_time": "2024-04-04T11:00:00Z",
+      "end_time": "2024-04-04T17:00:00Z",
+      "title": "Suite de l'aventure BG3 avec Rivenzi !",
+      "canceled_until": null,
+      "category": {
+        "id": "512923",
+        "name": "Baldur's Gate 3"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiIyNzJjM2YzMi01OGZhLTRlY2YtYWNjZC1iMGY4YTVhMWJiMTIiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjoxNH0=",
+      "start_time": "2024-04-04T17:00:00Z",
+      "end_time": "2024-04-04T20:00:00Z",
+      "title": "Training WoW Plunderstorm avec Luuxia",
+      "canceled_until": null,
+      "category": {
+        "id": "18122",
+        "name": "World of Warcraft"
       },
       "is_recurring": true
     },
     {
       "id": "eyJzZWdtZW50SUQiOiJiYjNiMjQ2MC02Y2YyLTRhZWYtOGM5ZS1jYzQ1MWE4YTZiOGIiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjoxNH0=",
-      "start_time": "2024-04-04T11:00:00Z",
-      "end_time": "2024-04-04T15:00:00Z",
+      "start_time": "2024-04-05T09:00:00Z",
+      "end_time": "2024-04-05T12:00:00Z",
       "title": "Lycans avé les potes",
       "canceled_until": null,
       "category": {
         "id": "1494074023",
         "name": "Lycans"
-      },
-      "is_recurring": true
-    },
-    {
-      "id": "eyJzZWdtZW50SUQiOiIzYTJiZTM3MC03ZDc1LTQwNWMtOTdhYy1iZjM4MjcwMjlmM2YiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjoxNH0=",
-      "start_time": "2024-04-04T15:00:00Z",
-      "end_time": "2024-04-04T17:00:00Z",
-      "title": "De retour sur la faille",
-      "canceled_until": null,
-      "category": {
-        "id": "21779",
-        "name": "League of Legends"
-      },
-      "is_recurring": true
-    },
-    {
-      "id": "eyJzZWdtZW50SUQiOiJkZmMxM2E2OS04MWY0LTQ4OTgtOTdkZi1hMjkxYjI2YzU0ZTkiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjoxNH0=",
-      "start_time": "2024-04-05T09:00:00Z",
-      "end_time": "2024-04-05T16:00:00Z",
-      "title": "Découverte de Princesse Peach : Showtime !",
-      "canceled_until": null,
-      "category": {
-        "id": "1886860903",
-        "name": "Princess Peach: Showtime!"
-      },
-      "is_recurring": true
-    },
-    {
-      "id": "eyJzZWdtZW50SUQiOiIxMzBkMmU5NS1iNTczLTRmYjAtOTAyZC1iMWQyNDJlMzdjOWIiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjoxNH0=",
-      "start_time": "2024-04-07T11:00:00Z",
-      "end_time": "2024-04-07T14:00:00Z",
-      "title": "Enfin de retour sur le Tournoi des Fleurs ! (avec des cadeaux à gagner eheh)",
-      "canceled_until": null,
-      "category": {
-        "id": "941530474",
-        "name": "Mario Kart 8 Deluxe"
-      },
-      "is_recurring": true
-    },
-    {
-      "id": "eyJzZWdtZW50SUQiOiI1NDYzNDM1ZC0zOTI3LTQ2NmQtOTM5NC1jYzhkMDQ0NjQ2NzIiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjoxNX0=",
-      "start_time": "2024-04-08T09:00:00Z",
-      "end_time": "2024-04-08T16:00:00Z",
-      "title": "Culture et plaisir sur le Maitre des Fleurs",
-      "canceled_until": null,
-      "category": {
-        "id": "338715930",
-        "name": "Maitre des Fleurs"
-      },
-      "is_recurring": true
-    },
-    {
-      "id": "eyJzZWdtZW50SUQiOiJlYTU5YThiMC04NTVjLTQ5ODMtOWYxZi0wZTFlZjZmMmRhODEiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjoxNX0=",
-      "start_time": "2024-04-09T09:00:00Z",
-      "end_time": "2024-04-09T16:00:00Z",
-      "title": "Suite de l'aventure BG3 avec Rivenzi !",
-      "canceled_until": null,
-      "category": {
-        "id": "512923",
-        "name": "Baldur's Gate 3"
-      },
-      "is_recurring": true
-    },
-    {
-      "id": "eyJzZWdtZW50SUQiOiIxM2Q2MmUzYy02ZjRmLTQ3YjMtOGFkOS1lNmRmN2M4OTlmNTMiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjoxNX0=",
-      "start_time": "2024-04-10T09:00:00Z",
-      "end_time": "2024-04-10T13:00:00Z",
-      "title": "Suite du slowrun TOTK",
-      "canceled_until": null,
-      "category": {
-        "id": "512998",
-        "name": "The Legend of Zelda: Tears of the Kingdom"
-      },
-      "is_recurring": true
-    },
-    {
-      "id": "eyJzZWdtZW50SUQiOiI3ODBmNDU5Ni0yNTY5LTQyNTUtOGYyNy02OWYyNmI0MDE3YTEiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjoxNX0=",
-      "start_time": "2024-04-10T13:00:00Z",
-      "end_time": "2024-04-10T16:00:00Z",
-      "title": "Suite de l'aventure BG3 avec Rivenzi !",
-      "canceled_until": null,
-      "category": {
-        "id": "512923",
-        "name": "Baldur's Gate 3"
       },
       "is_recurring": true
     }
