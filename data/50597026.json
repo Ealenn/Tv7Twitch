@@ -13,42 +13,6 @@
   },
   "schedulers": [
     {
-      "id": "eyJzZWdtZW50SUQiOiI3ZDE0M2Y0Yy05ZjVlLTRjNzgtYWJkMS0xYzRjZTRhZTMzMWEiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjoxM30=",
-      "start_time": "2024-03-26T10:00:00Z",
-      "end_time": "2024-03-26T13:00:00Z",
-      "title": "Codenames avé les potes",
-      "canceled_until": null,
-      "category": {
-        "id": "508509",
-        "name": "Codenames"
-      },
-      "is_recurring": true
-    },
-    {
-      "id": "eyJzZWdtZW50SUQiOiJmMmM5MzgwMi04ZTljLTRhZWUtYjRlNC1jNDg0NzQyNWYyNmMiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjoxM30=",
-      "start_time": "2024-03-26T13:00:00Z",
-      "end_time": "2024-03-26T15:00:00Z",
-      "title": "Découverte de Tchia",
-      "canceled_until": null,
-      "category": {
-        "id": "1538620476",
-        "name": "Tchia"
-      },
-      "is_recurring": true
-    },
-    {
-      "id": "eyJzZWdtZW50SUQiOiIxM2Q2MmUzYy02ZjRmLTQ3YjMtOGFkOS1lNmRmN2M4OTlmNTMiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjoxM30=",
-      "start_time": "2024-03-26T15:00:00Z",
-      "end_time": "2024-03-26T17:00:00Z",
-      "title": "Suite du slowrun TOTK",
-      "canceled_until": null,
-      "category": {
-        "id": "512998",
-        "name": "The Legend of Zelda: Tears of the Kingdom"
-      },
-      "is_recurring": true
-    },
-    {
       "id": "eyJzZWdtZW50SUQiOiI3ODBmNDU5Ni0yNTY5LTQyNTUtOGYyNy02OWYyNmI0MDE3YTEiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjoxM30=",
       "start_time": "2024-03-27T10:00:00Z",
       "end_time": "2024-03-27T16:00:00Z",
@@ -249,6 +213,42 @@
       "category": {
         "id": "1494074023",
         "name": "Lycans"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiJlYWI4ZGE1Mi05YTM3LTQxODItOGIwMC04YzU5N2Y0Njk2YTMiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjoxNH0=",
+      "start_time": "2024-04-05T12:00:00Z",
+      "end_time": "2024-04-05T17:00:00Z",
+      "title": "Suite du slowrun TOTK",
+      "canceled_until": null,
+      "category": {
+        "id": "512998",
+        "name": "The Legend of Zelda: Tears of the Kingdom"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiJlMDMxYjRjZS1jNDljLTQzZGItYTUzYi04MDhhNjM4ZTdiM2UiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjoxNH0=",
+      "start_time": "2024-04-05T17:00:00Z",
+      "end_time": "2024-04-05T20:00:00Z",
+      "title": "Training WoW Plunderstorm avec Luuxia",
+      "canceled_until": null,
+      "category": {
+        "id": "18122",
+        "name": "World of Warcraft"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiJiNWE0Nzk1OC1kNTNjLTQxMmEtODU2MS0yOTNjN2U5ODE1NjYiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjoxNH0=",
+      "start_time": "2024-04-06T17:00:00Z",
+      "end_time": "2024-04-06T20:00:00Z",
+      "title": "Tournoi 50k$ WoW Plunderstorm avec Luuxia",
+      "canceled_until": null,
+      "category": {
+        "id": "18122",
+        "name": "World of Warcraft"
       },
       "is_recurring": true
     }
