@@ -13,18 +13,6 @@
   },
   "schedulers": [
     {
-      "id": "eyJzZWdtZW50SUQiOiJlMWNiZGY0ZS01ZDlhLTRlYWYtYWM3NS0xMmQxYmExZDUyMWIiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjoxM30=",
-      "start_time": "2024-03-27T19:00:00Z",
-      "end_time": "2024-03-27T21:00:00Z",
-      "title": "Découverte de Millennia le dernier jeu de Paradox Interactive #Publicité",
-      "canceled_until": null,
-      "category": {
-        "id": "1209113442",
-        "name": "Millennia"
-      },
-      "is_recurring": false
-    },
-    {
       "id": "eyJzZWdtZW50SUQiOiI5ZjAwMjJiYy1kOTExLTQ2YjktODQxNC05MjY4MTBmZWE4MDciLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjoxM30=",
       "start_time": "2024-03-28T18:00:00Z",
       "end_time": "2024-03-28T22:00:00Z",
@@ -244,6 +232,18 @@
       "id": "eyJzZWdtZW50SUQiOiJiNTE0YTNkMC0xM2IxLTRjMGYtYTAzMy05OTdiYzc4Yjc1YjEiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjoyOH0=",
       "start_time": "2024-07-08T18:30:00Z",
       "end_time": "2024-07-08T22:00:00Z",
+      "title": "Soirée du lundi",
+      "canceled_until": null,
+      "category": {
+        "id": "509658",
+        "name": "Just Chatting"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiJiNTE0YTNkMC0xM2IxLTRjMGYtYTAzMy05OTdiYzc4Yjc1YjEiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjoyOX0=",
+      "start_time": "2024-07-15T18:30:00Z",
+      "end_time": "2024-07-15T22:00:00Z",
       "title": "Soirée du lundi",
       "canceled_until": null,
       "category": {
