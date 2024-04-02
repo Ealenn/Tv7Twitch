@@ -7,23 +7,11 @@
     "broadcaster_type": "partner",
     "description": "On se tape des immenses barres.",
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/d4737061-8f00-49d9-a56f-fcb4a9230b3f-profile_image-300x300.png",
-    "offline_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/8f9022f2-93e1-4d26-aebb-25eb46af656d-channel_offline_image-1920x1080.jpeg",
+    "offline_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/4c369acd-7e4b-41e9-be54-d3713ac10081-channel_offline_image-1920x1080.jpeg",
     "view_count": 0,
     "created_at": "2013-10-24T19:04:45Z"
   },
   "schedulers": [
-    {
-      "id": "eyJzZWdtZW50SUQiOiI1NDYzNDM1ZC0zOTI3LTQ2NmQtOTM5NC1jYzhkMDQ0NjQ2NzIiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjoxNH0=",
-      "start_time": "2024-04-01T09:00:00Z",
-      "end_time": "2024-04-01T16:00:00Z",
-      "title": "Culture et plaisir sur le Maitre des Fleurs",
-      "canceled_until": null,
-      "category": {
-        "id": "338715930",
-        "name": "Maitre des Fleurs"
-      },
-      "is_recurring": true
-    },
     {
       "id": "eyJzZWdtZW50SUQiOiIyODQwYjNkMS1lZjVkLTQ4ODAtODUyYS00OWYwMjA4M2UzZWEiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjoxNH0=",
       "start_time": "2024-04-02T09:00:00Z",
@@ -76,11 +64,11 @@
       "id": "eyJzZWdtZW50SUQiOiIyNzJjM2YzMi01OGZhLTRlY2YtYWNjZC1iMGY4YTVhMWJiMTIiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjoxNH0=",
       "start_time": "2024-04-04T11:00:00Z",
       "end_time": "2024-04-04T16:00:00Z",
-      "title": "YOLO !",
+      "title": "Retour en Nouvelle-Calédonie sur Tchia",
       "canceled_until": null,
       "category": {
-        "id": "509658",
-        "name": "Just Chatting"
+        "id": "1538620476",
+        "name": "Tchia"
       },
       "is_recurring": true
     },
@@ -184,11 +172,11 @@
       "id": "eyJzZWdtZW50SUQiOiIyNzJjM2YzMi01OGZhLTRlY2YtYWNjZC1iMGY4YTVhMWJiMTIiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjoxNX0=",
       "start_time": "2024-04-11T11:00:00Z",
       "end_time": "2024-04-11T16:00:00Z",
-      "title": "YOLO !",
+      "title": "Retour en Nouvelle-Calédonie sur Tchia",
       "canceled_until": null,
       "category": {
-        "id": "509658",
-        "name": "Just Chatting"
+        "id": "1538620476",
+        "name": "Tchia"
       },
       "is_recurring": true
     },
@@ -249,6 +237,18 @@
       "category": {
         "id": "512923",
         "name": "Baldur's Gate 3"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiI0YzgzZWUyMS02ZDdhLTRkMjAtYTRkNy1mNDgxNDYxY2M2YmUiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjoxNn0=",
+      "start_time": "2024-04-16T15:00:00Z",
+      "end_time": "2024-04-16T18:00:00Z",
+      "title": "La bagarre sur WoW Plunderstorm",
+      "canceled_until": null,
+      "category": {
+        "id": "18122",
+        "name": "World of Warcraft"
       },
       "is_recurring": true
     }
