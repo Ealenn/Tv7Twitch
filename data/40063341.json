@@ -7,23 +7,11 @@
     "broadcaster_type": "partner",
     "description": "",
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/3cdae7df-600c-4833-8dfe-8d2abc5a3b25-profile_image-300x300.png",
-    "offline_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/b92042ce-ee9c-418f-9f9d-d67749fd3b5e-channel_offline_image-1920x1080.png",
+    "offline_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/9fb61871-408c-4a10-8f52-00802ac36e66-channel_offline_image-1920x1080.png",
     "view_count": 0,
     "created_at": "2013-02-05T19:20:22Z"
   },
   "schedulers": [
-    {
-      "id": "eyJzZWdtZW50SUQiOiJhMTI2NDdjMi00NzBlLTQyYWEtOTE1OC1kMTE0N2I0NWYxYTgiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjoxNH0=",
-      "start_time": "2024-04-02T18:00:00Z",
-      "end_time": "2024-04-02T20:30:00Z",
-      "title": "🍿 POPCORN AVEC THOMAS DESEUR, NATOO & SIMON PUECH (INVITÉ : FABRICE ÉBOUÉ)",
-      "canceled_until": null,
-      "category": {
-        "id": "417752",
-        "name": "Talk Shows & Podcasts"
-      },
-      "is_recurring": true
-    },
     {
       "id": "eyJzZWdtZW50SUQiOiI4ZGQ4NmJiZS1hZGI4LTQ2ZjEtODVlMC05MDk4MzZmNTE1NDgiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjoxNH0=",
       "start_time": "2024-04-03T12:00:00Z",
@@ -249,6 +237,18 @@
       "category": {
         "id": "509658",
         "name": "Just Chatting"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiJhMTI2NDdjMi00NzBlLTQyYWEtOTE1OC1kMTE0N2I0NWYxYTgiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjoyMX0=",
+      "start_time": "2024-05-21T18:00:00Z",
+      "end_time": "2024-05-21T20:30:00Z",
+      "title": "🍿 POPCORN AVEC THOMAS DESEUR, NATOO & SIMON PUECH (INVITÉ : FABRICE ÉBOUÉ)",
+      "canceled_until": null,
+      "category": {
+        "id": "417752",
+        "name": "Talk Shows & Podcasts"
       },
       "is_recurring": true
     }
