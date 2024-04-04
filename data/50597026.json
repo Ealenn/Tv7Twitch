@@ -13,30 +13,6 @@
   },
   "schedulers": [
     {
-      "id": "eyJzZWdtZW50SUQiOiI3ODBmNDU5Ni0yNTY5LTQyNTUtOGYyNy02OWYyNmI0MDE3YTEiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjoxNH0=",
-      "start_time": "2024-04-03T09:00:00Z",
-      "end_time": "2024-04-03T16:00:00Z",
-      "title": "Suite de l'aventure BG3 avec Rivenzi !",
-      "canceled_until": null,
-      "category": {
-        "id": "512923",
-        "name": "Baldur's Gate 3"
-      },
-      "is_recurring": true
-    },
-    {
-      "id": "eyJzZWdtZW50SUQiOiJmY2M3NzIyNi05M2E2LTRiZGQtYjMwMy1kNzYyYTRhZjM1NTgiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjoxNH0=",
-      "start_time": "2024-04-03T18:00:00Z",
-      "end_time": "2024-04-03T22:00:00Z",
-      "title": "Maitre des Fleurs spécial avec Kenny !",
-      "canceled_until": null,
-      "category": {
-        "id": "338715930",
-        "name": "Maitre des Fleurs"
-      },
-      "is_recurring": true
-    },
-    {
       "id": "eyJzZWdtZW50SUQiOiIyNzJjM2YzMi01OGZhLTRlY2YtYWNjZC1iMGY4YTVhMWJiMTIiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjoxNH0=",
       "start_time": "2024-04-04T11:00:00Z",
       "end_time": "2024-04-04T16:00:00Z",
@@ -249,6 +225,30 @@
       "category": {
         "id": "338715930",
         "name": "Maitre des Fleurs"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiIyNzJjM2YzMi01OGZhLTRlY2YtYWNjZC1iMGY4YTVhMWJiMTIiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjoxNn0=",
+      "start_time": "2024-04-18T11:00:00Z",
+      "end_time": "2024-04-18T16:00:00Z",
+      "title": "Retour en Nouvelle-Calédonie sur Tchia",
+      "canceled_until": null,
+      "category": {
+        "id": "1538620476",
+        "name": "Tchia"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiI3ZDE0M2Y0Yy05ZjVlLTRjNzgtYWJkMS0xYzRjZTRhZTMzMWEiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjoxNn0=",
+      "start_time": "2024-04-19T09:00:00Z",
+      "end_time": "2024-04-19T12:00:00Z",
+      "title": "Codenames avé les potes",
+      "canceled_until": null,
+      "category": {
+        "id": "508509",
+        "name": "Codenames"
       },
       "is_recurring": true
     }
