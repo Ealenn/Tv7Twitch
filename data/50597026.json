@@ -13,18 +13,6 @@
   },
   "schedulers": [
     {
-      "id": "eyJzZWdtZW50SUQiOiIyNzJjM2YzMi01OGZhLTRlY2YtYWNjZC1iMGY4YTVhMWJiMTIiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjoxNH0=",
-      "start_time": "2024-04-04T11:00:00Z",
-      "end_time": "2024-04-04T16:00:00Z",
-      "title": "Retour en Nouvelle-Calédonie sur Tchia",
-      "canceled_until": null,
-      "category": {
-        "id": "1538620476",
-        "name": "Tchia"
-      },
-      "is_recurring": true
-    },
-    {
       "id": "eyJzZWdtZW50SUQiOiI3ZDE0M2Y0Yy05ZjVlLTRjNzgtYWJkMS0xYzRjZTRhZTMzMWEiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjoxNH0=",
       "start_time": "2024-04-05T09:00:00Z",
       "end_time": "2024-04-05T12:00:00Z",
@@ -249,6 +237,18 @@
       "category": {
         "id": "508509",
         "name": "Codenames"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiJlYWI4ZGE1Mi05YTM3LTQxODItOGIwMC04YzU5N2Y0Njk2YTMiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjoxNn0=",
+      "start_time": "2024-04-19T12:00:00Z",
+      "end_time": "2024-04-19T16:00:00Z",
+      "title": "Suite du slowrun TOTK",
+      "canceled_until": null,
+      "category": {
+        "id": "512998",
+        "name": "The Legend of Zelda: Tears of the Kingdom"
       },
       "is_recurring": true
     }
