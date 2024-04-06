@@ -13,30 +13,6 @@
   },
   "schedulers": [
     {
-      "id": "eyJzZWdtZW50SUQiOiJmZmY3ZGQyMi0yZTU3LTQ2ZTktYWUwMi1lMDk3OTIwZjlhOGEiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjoxNH0=",
-      "start_time": "2024-04-05T12:00:00Z",
-      "end_time": "2024-04-05T13:00:00Z",
-      "title": "🎙 PRÉ LIVE",
-      "canceled_until": null,
-      "category": {
-        "id": "509658",
-        "name": "Just Chatting"
-      },
-      "is_recurring": false
-    },
-    {
-      "id": "eyJzZWdtZW50SUQiOiJlMzkwZTYwNy04YWU0LTQ1ZmUtOWE5Zi00YzNjN2NiMWI5ZGIiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjoxNH0=",
-      "start_time": "2024-04-05T13:00:00Z",
-      "end_time": "2024-04-05T17:00:00Z",
-      "title": "🎙 STREAM LIBRE",
-      "canceled_until": null,
-      "category": {
-        "id": "509658",
-        "name": "Just Chatting"
-      },
-      "is_recurring": false
-    },
-    {
       "id": "eyJzZWdtZW50SUQiOiJkMjc5YTZhMi1mNjhlLTQ0NTktOGZlNS0yNWU3NmZiNWVmNzEiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjoxNX0=",
       "start_time": "2024-04-08T17:30:00Z",
       "end_time": "2024-04-08T18:30:00Z",
@@ -244,6 +220,30 @@
       "id": "eyJzZWdtZW50SUQiOiJhMTI2NDdjMi00NzBlLTQyYWEtOTE1OC1kMTE0N2I0NWYxYTgiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjoyM30=",
       "start_time": "2024-06-04T18:00:00Z",
       "end_time": "2024-06-04T20:30:00Z",
+      "title": "🍿 POPCORN AVEC THOMAS DESEUR, NATOO & SIMON PUECH (INVITÉ : FABRICE ÉBOUÉ)",
+      "canceled_until": null,
+      "category": {
+        "id": "417752",
+        "name": "Talk Shows & Podcasts"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiJkMjc5YTZhMi1mNjhlLTQ0NTktOGZlNS0yNWU3NmZiNWVmNzEiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjoyNH0=",
+      "start_time": "2024-06-10T17:30:00Z",
+      "end_time": "2024-06-10T18:30:00Z",
+      "title": "🎙 PRÉ LIVE",
+      "canceled_until": null,
+      "category": {
+        "id": "509658",
+        "name": "Just Chatting"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiJhMTI2NDdjMi00NzBlLTQyYWEtOTE1OC1kMTE0N2I0NWYxYTgiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjoyNH0=",
+      "start_time": "2024-06-11T18:00:00Z",
+      "end_time": "2024-06-11T20:30:00Z",
       "title": "🍿 POPCORN AVEC THOMAS DESEUR, NATOO & SIMON PUECH (INVITÉ : FABRICE ÉBOUÉ)",
       "canceled_until": null,
       "category": {
