@@ -13,27 +13,6 @@
   },
   "schedulers": [
     {
-      "id": "eyJzZWdtZW50SUQiOiI0MGE4ZWFiOC1iMGQ0LTQzOWYtOWExMC1jOGNlYTdhNzMzOTgiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjoxNX0=",
-      "start_time": "2024-04-10T09:00:00Z",
-      "end_time": "2024-04-10T12:00:00Z",
-      "title": "YOLO",
-      "canceled_until": null,
-      "category": null,
-      "is_recurring": false
-    },
-    {
-      "id": "eyJzZWdtZW50SUQiOiI4YjUzODYxYi04OTA0LTRkNTYtYTRiMi1jMGRmYjQwYWMxZjYiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjoxNX0=",
-      "start_time": "2024-04-10T12:00:00Z",
-      "end_time": "2024-04-10T16:00:00Z",
-      "title": "SLOWRUN TOTK",
-      "canceled_until": null,
-      "category": {
-        "id": "512998",
-        "name": "The Legend of Zelda: Tears of the Kingdom"
-      },
-      "is_recurring": false
-    },
-    {
       "id": "eyJzZWdtZW50SUQiOiIzZTk2MjAzNC1jMWQ1LTRlMjYtOTg5NS02YzRlNTFiNTdlYzAiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjoxNX0=",
       "start_time": "2024-04-11T11:00:00Z",
       "end_time": "2024-04-11T16:00:00Z",
