@@ -13,18 +13,6 @@
   },
   "schedulers": [
     {
-      "id": "eyJzZWdtZW50SUQiOiJlNmE4MmYwMC0yZGIyLTQyOGYtOWZkYS1jNmVlMjU3NmUyMGMiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjoxNX0=",
-      "start_time": "2024-04-12T09:00:00Z",
-      "end_time": "2024-04-12T15:00:00Z",
-      "title": "Début de l'aventure Life is Strange 2",
-      "canceled_until": null,
-      "category": {
-        "id": "497103",
-        "name": "Life is Strange 2"
-      },
-      "is_recurring": false
-    },
-    {
       "id": "eyJzZWdtZW50SUQiOiJkMjIzMzU0MC00YTVkLTRhOWEtYjFiNy01MGY1OTJiOWUxMDIiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjoxNX0=",
       "start_time": "2024-04-13T12:00:00Z",
       "end_time": "2024-04-13T15:00:00Z",
