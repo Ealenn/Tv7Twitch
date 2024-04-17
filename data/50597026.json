@@ -13,30 +13,6 @@
   },
   "schedulers": [
     {
-      "id": "eyJzZWdtZW50SUQiOiIwZjBiOTMwOC02MTQ5LTQyOTYtODE0Yi01OGUzOGFkZTY3ZDciLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjoxNn0=",
-      "start_time": "2024-04-16T09:00:00Z",
-      "end_time": "2024-04-16T12:00:00Z",
-      "title": "RE DU COUP LES GENS",
-      "canceled_until": null,
-      "category": {
-        "id": "509658",
-        "name": "Just Chatting"
-      },
-      "is_recurring": false
-    },
-    {
-      "id": "eyJzZWdtZW50SUQiOiJmOWUzNmU5NS00ZTdkLTRlYTQtODM5OC00YmUzMWY2NTY0MGEiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjoxNn0=",
-      "start_time": "2024-04-16T12:00:00Z",
-      "end_time": "2024-04-16T16:00:00Z",
-      "title": "Discussion & écoute musique avec Léo et JB",
-      "canceled_until": null,
-      "category": {
-        "id": "26936",
-        "name": "Music"
-      },
-      "is_recurring": false
-    },
-    {
       "id": "eyJzZWdtZW50SUQiOiIwN2ExMDY1YS0xMzJmLTRiMTgtODNlYy1kODI2M2NjNWYzMWIiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjoxNn0=",
       "start_time": "2024-04-17T09:00:00Z",
       "end_time": "2024-04-17T16:00:00Z",
