@@ -13,6 +13,42 @@
   },
   "schedulers": [
     {
+      "id": "eyJzZWdtZW50SUQiOiJjZjgwOGE5ZC0wMzkxLTQ2NGYtYTgxZS03MjAyMTFlOTY0YjUiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjoxNn0=",
+      "start_time": "2024-04-18T17:00:00Z",
+      "end_time": "2024-04-18T21:00:00Z",
+      "title": "GamePass Challenge League of Legends avec AEGIS SOLARY et TDS en plateau",
+      "canceled_until": null,
+      "category": {
+        "id": "21779",
+        "name": "League of Legends"
+      },
+      "is_recurring": false
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiJkMGY1MzY0NS0yYWEyLTQ3MTAtOWQzOS1mMTY3MzUyZjZiNzMiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjoxNn0=",
+      "start_time": "2024-04-20T15:00:00Z",
+      "end_time": "2024-04-20T21:00:00Z",
+      "title": "Qualifications de la ZLAN en direct sur Twitch",
+      "canceled_until": null,
+      "category": {
+        "id": "509663",
+        "name": "Special Events"
+      },
+      "is_recurring": false
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiIxZjQ0ZTJiYi00ZDNjLTQwNjAtOGI2NS1jNjdkMTZhZjkxMzkiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjoxNn0=",
+      "start_time": "2024-04-21T09:00:00Z",
+      "end_time": "2024-04-21T21:00:00Z",
+      "title": "#ROGRTXChallenge avec MisterMV en direct IRL avec la team France en studio",
+      "canceled_until": null,
+      "category": {
+        "id": "509663",
+        "name": "Special Events"
+      },
+      "is_recurring": false
+    },
+    {
       "id": "eyJzZWdtZW50SUQiOiJiNTE0YTNkMC0xM2IxLTRjMGYtYTAzMy05OTdiYzc4Yjc1YjEiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjoxN30=",
       "start_time": "2024-04-22T18:30:00Z",
       "end_time": "2024-04-22T22:00:00Z",
@@ -208,42 +244,6 @@
       "id": "eyJzZWdtZW50SUQiOiJiNTE0YTNkMC0xM2IxLTRjMGYtYTAzMy05OTdiYzc4Yjc1YjEiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjozM30=",
       "start_time": "2024-08-12T18:30:00Z",
       "end_time": "2024-08-12T22:00:00Z",
-      "title": "Soirée du lundi",
-      "canceled_until": null,
-      "category": {
-        "id": "509658",
-        "name": "Just Chatting"
-      },
-      "is_recurring": true
-    },
-    {
-      "id": "eyJzZWdtZW50SUQiOiJiNTE0YTNkMC0xM2IxLTRjMGYtYTAzMy05OTdiYzc4Yjc1YjEiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjozNH0=",
-      "start_time": "2024-08-19T18:30:00Z",
-      "end_time": "2024-08-19T22:00:00Z",
-      "title": "Soirée du lundi",
-      "canceled_until": null,
-      "category": {
-        "id": "509658",
-        "name": "Just Chatting"
-      },
-      "is_recurring": true
-    },
-    {
-      "id": "eyJzZWdtZW50SUQiOiJiNTE0YTNkMC0xM2IxLTRjMGYtYTAzMy05OTdiYzc4Yjc1YjEiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjozNX0=",
-      "start_time": "2024-08-26T18:30:00Z",
-      "end_time": "2024-08-26T22:00:00Z",
-      "title": "Soirée du lundi",
-      "canceled_until": null,
-      "category": {
-        "id": "509658",
-        "name": "Just Chatting"
-      },
-      "is_recurring": true
-    },
-    {
-      "id": "eyJzZWdtZW50SUQiOiJiNTE0YTNkMC0xM2IxLTRjMGYtYTAzMy05OTdiYzc4Yjc1YjEiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjozNn0=",
-      "start_time": "2024-09-02T18:30:00Z",
-      "end_time": "2024-09-02T22:00:00Z",
       "title": "Soirée du lundi",
       "canceled_until": null,
       "category": {

@@ -13,30 +13,6 @@
   },
   "schedulers": [
     {
-      "id": "eyJzZWdtZW50SUQiOiIwN2ExMDY1YS0xMzJmLTRiMTgtODNlYy1kODI2M2NjNWYzMWIiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjoxNn0=",
-      "start_time": "2024-04-17T09:00:00Z",
-      "end_time": "2024-04-17T16:00:00Z",
-      "title": "Maître des Fleurs",
-      "canceled_until": null,
-      "category": {
-        "id": "338715930",
-        "name": "Maitre des Fleurs"
-      },
-      "is_recurring": false
-    },
-    {
-      "id": "eyJzZWdtZW50SUQiOiJlNmViMmRjMy1hNGVlLTRiMDAtYWViMS0zOGYwNWM1Y2FjMWEiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjoxNn0=",
-      "start_time": "2024-04-17T16:00:00Z",
-      "end_time": "2024-04-17T20:00:00Z",
-      "title": "Raid WoW SOD",
-      "canceled_until": null,
-      "category": {
-        "id": "18122",
-        "name": "World of Warcraft"
-      },
-      "is_recurring": false
-    },
-    {
       "id": "eyJzZWdtZW50SUQiOiJlOTYwNGVmNC1mNzI5LTQ4NTctOTM4Ny0zMDFkNTkyOGVlZjAiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjoxNn0=",
       "start_time": "2024-04-18T11:00:00Z",
       "end_time": "2024-04-18T17:00:00Z",
