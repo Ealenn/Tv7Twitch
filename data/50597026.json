@@ -13,18 +13,6 @@
   },
   "schedulers": [
     {
-      "id": "eyJzZWdtZW50SUQiOiJlOTYwNGVmNC1mNzI5LTQ4NTctOTM4Ny0zMDFkNTkyOGVlZjAiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjoxNn0=",
-      "start_time": "2024-04-18T11:00:00Z",
-      "end_time": "2024-04-18T17:00:00Z",
-      "title": "Life is Strange 2",
-      "canceled_until": null,
-      "category": {
-        "id": "497103",
-        "name": "Life is Strange 2"
-      },
-      "is_recurring": false
-    },
-    {
       "id": "eyJzZWdtZW50SUQiOiJlNWIwZGE3NS0xMGYzLTQ3ZDItYmJiNS05OTUzODg1M2ExNTUiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjoxNn0=",
       "start_time": "2024-04-19T09:00:00Z",
       "end_time": "2024-04-19T15:00:00Z",
