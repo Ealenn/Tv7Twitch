@@ -13,14 +13,14 @@
   },
   "schedulers": [
     {
-      "id": "eyJzZWdtZW50SUQiOiI0ZTk5MWFkNC01Zjg5LTQyZDQtYmEwNy02MzJhYjczYTMzMWYiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjoxOH0=",
-      "start_time": "2024-04-30T15:30:00Z",
-      "end_time": "2024-04-30T17:00:00Z",
-      "title": "Le Soleil",
+      "id": "eyJzZWdtZW50SUQiOiIwYTIwMDE1YS0yOWUwLTQ4MDMtYTQ2Yi0xYmZiZTVhZTUzOWQiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjoyMH0=",
+      "start_time": "2024-05-16T15:30:00Z",
+      "end_time": "2024-05-16T17:00:00Z",
+      "title": "Le CNES et les jeunes",
       "canceled_until": null,
       "category": {
-        "id": "509670",
-        "name": "Science & Technology"
+        "id": "509658",
+        "name": "Just Chatting"
       },
       "is_recurring": false
     }

@@ -7,23 +7,11 @@
     "broadcaster_type": "partner",
     "description": "On se tape des immenses barres.",
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/d4737061-8f00-49d9-a56f-fcb4a9230b3f-profile_image-300x300.png",
-    "offline_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/fee39e39-3864-4310-ae21-134901783adc-channel_offline_image-1920x1080.jpeg",
+    "offline_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/e7cac6e2-a03c-4b5b-a452-cd02b01f6683-channel_offline_image-1920x1080.jpeg",
     "view_count": 0,
     "created_at": "2013-10-24T19:04:45Z"
   },
   "schedulers": [
-    {
-      "id": "eyJzZWdtZW50SUQiOiIzMDEzYTc1OC05ZGIxLTQ3ZTItOGMzZS1hMGE2MGFlM2VjNmUiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjoxOH0=",
-      "start_time": "2024-04-30T18:00:00Z",
-      "end_time": "2024-04-30T20:00:00Z",
-      "title": "Popcorn sur la chaine de @domingo",
-      "canceled_until": null,
-      "category": {
-        "id": "509658",
-        "name": "Just Chatting"
-      },
-      "is_recurring": true
-    },
     {
       "id": "eyJzZWdtZW50SUQiOiI3NDJlZTFhOS01OTcwLTQ0M2QtOWIyZS1lNjMxMDkxOGU3NGQiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjoxOH0=",
       "start_time": "2024-05-01T13:00:00Z",
@@ -249,6 +237,18 @@
       "category": {
         "id": "338715930",
         "name": "Maitre des Fleurs"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiIzMDEzYTc1OC05ZGIxLTQ3ZTItOGMzZS1hMGE2MGFlM2VjNmUiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjoyMn0=",
+      "start_time": "2024-05-28T18:00:00Z",
+      "end_time": "2024-05-28T20:00:00Z",
+      "title": "Popcorn sur la chaine de @domingo",
+      "canceled_until": null,
+      "category": {
+        "id": "509658",
+        "name": "Just Chatting"
       },
       "is_recurring": true
     }
