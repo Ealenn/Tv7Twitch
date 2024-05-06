@@ -16,7 +16,7 @@
       "id": "eyJzZWdtZW50SUQiOiJlOWI2ZTA4Zi03ODQ3LTRjMGEtYTkxZC1lMmY1YzgwZjIyYjYiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjoxOX0=",
       "start_time": "2024-05-06T09:00:00Z",
       "end_time": "2024-05-06T16:00:00Z",
-      "title": "Maître des fleurs",
+      "title": "Culture et plaisir sur le Maître des fleurs",
       "canceled_until": null,
       "category": {
         "id": "338715930",
@@ -25,34 +25,22 @@
       "is_recurring": true
     },
     {
-      "id": "eyJzZWdtZW50SUQiOiIzMDEzYTc1OC05ZGIxLTQ3ZTItOGMzZS1hMGE2MGFlM2VjNmUiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjoxOX0=",
-      "start_time": "2024-05-07T18:00:00Z",
-      "end_time": "2024-05-07T20:00:00Z",
-      "title": "Popcorn sur la chaine de @domingo",
+      "id": "eyJzZWdtZW50SUQiOiIzZjQxMzhiYS1iMGVlLTQ3NTEtYTZmYS1mMmNlMDMzY2Y2NTIiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjoxOX0=",
+      "start_time": "2024-05-07T09:00:00Z",
+      "end_time": "2024-05-07T13:00:00Z",
+      "title": "Lycans avé les copains",
       "canceled_until": null,
       "category": {
-        "id": "509658",
-        "name": "Just Chatting"
+        "id": "1494074023",
+        "name": "Lycans"
       },
       "is_recurring": true
     },
     {
-      "id": "eyJzZWdtZW50SUQiOiI3NDJlZTFhOS01OTcwLTQ0M2QtOWIyZS1lNjMxMDkxOGU3NGQiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjoxOX0=",
-      "start_time": "2024-05-08T13:00:00Z",
-      "end_time": "2024-05-08T15:00:00Z",
-      "title": "YOLO",
-      "canceled_until": null,
-      "category": {
-        "id": "509658",
-        "name": "Just Chatting"
-      },
-      "is_recurring": true
-    },
-    {
-      "id": "eyJzZWdtZW50SUQiOiI3NTcxMzgxZi0zZDg1LTRhOTItODdhYy04YzIwZDAzYTc1NjYiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjoxOX0=",
-      "start_time": "2024-05-08T15:00:00Z",
-      "end_time": "2024-05-08T17:00:00Z",
-      "title": "Découverte Albion #Sponsorisé",
+      "id": "eyJzZWdtZW50SUQiOiIzZDk4OGM2MS02ZWE5LTQ4NGUtYmZlZC01NjU0MmYwMDE5ZTciLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjoxOX0=",
+      "start_time": "2024-05-07T13:00:00Z",
+      "end_time": "2024-05-07T16:00:00Z",
+      "title": "La bagarre sur Albion !",
       "canceled_until": null,
       "category": {
         "id": "417528",
@@ -61,14 +49,38 @@
       "is_recurring": true
     },
     {
-      "id": "eyJzZWdtZW50SUQiOiI2YjA2OWZiNi1hNWMwLTQ5YjUtYWJlZC00MDU2MGEyMDE5ZTkiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjoxOX0=",
-      "start_time": "2024-05-08T17:30:00Z",
-      "end_time": "2024-05-08T21:30:00Z",
-      "title": "WOW SOD Raid avec la team",
+      "id": "eyJzZWdtZW50SUQiOiI3OWVlMzAyYS04NDc4LTQxODEtYTM4My1hN2UzZmQwMjU4ZDgiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjoxOX0=",
+      "start_time": "2024-05-08T09:00:00Z",
+      "end_time": "2024-05-08T16:00:00Z",
+      "title": "Le retour de l'aventure BG3 avec le Riv",
       "canceled_until": null,
       "category": {
-        "id": "18122",
-        "name": "World of Warcraft"
+        "id": "512923",
+        "name": "Baldur's Gate 3"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiI2OGI2ZTM4Ni02YjM3LTRkYjItODhmYi05OWFkYTJmMGFkNjYiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjoxOX0=",
+      "start_time": "2024-05-09T09:00:00Z",
+      "end_time": "2024-05-09T13:00:00Z",
+      "title": "Codenames avé les potes",
+      "canceled_until": null,
+      "category": {
+        "id": "508509",
+        "name": "Codenames"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiI0OTVmNWNjMi1iMzM2LTQ1NzctYmJmZS04MTc5YzMyZDJjZjkiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjoxOX0=",
+      "start_time": "2024-05-09T13:00:00Z",
+      "end_time": "2024-05-09T16:00:00Z",
+      "title": "Life is Strange 2 : Épisode 4",
+      "canceled_until": null,
+      "category": {
+        "id": "497103",
+        "name": "Life is Strange 2"
       },
       "is_recurring": true
     },
@@ -76,7 +88,7 @@
       "id": "eyJzZWdtZW50SUQiOiJlOWI2ZTA4Zi03ODQ3LTRjMGEtYTkxZC1lMmY1YzgwZjIyYjYiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjoyMH0=",
       "start_time": "2024-05-13T09:00:00Z",
       "end_time": "2024-05-13T16:00:00Z",
-      "title": "Maître des fleurs",
+      "title": "Culture et plaisir sur le Maître des fleurs",
       "canceled_until": null,
       "category": {
         "id": "338715930",
@@ -85,34 +97,22 @@
       "is_recurring": true
     },
     {
-      "id": "eyJzZWdtZW50SUQiOiIzMDEzYTc1OC05ZGIxLTQ3ZTItOGMzZS1hMGE2MGFlM2VjNmUiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjoyMH0=",
-      "start_time": "2024-05-14T18:00:00Z",
-      "end_time": "2024-05-14T20:00:00Z",
-      "title": "Popcorn sur la chaine de @domingo",
+      "id": "eyJzZWdtZW50SUQiOiIzZjQxMzhiYS1iMGVlLTQ3NTEtYTZmYS1mMmNlMDMzY2Y2NTIiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjoyMH0=",
+      "start_time": "2024-05-14T09:00:00Z",
+      "end_time": "2024-05-14T13:00:00Z",
+      "title": "Lycans avé les copains",
       "canceled_until": null,
       "category": {
-        "id": "509658",
-        "name": "Just Chatting"
+        "id": "1494074023",
+        "name": "Lycans"
       },
       "is_recurring": true
     },
     {
-      "id": "eyJzZWdtZW50SUQiOiI3NDJlZTFhOS01OTcwLTQ0M2QtOWIyZS1lNjMxMDkxOGU3NGQiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjoyMH0=",
-      "start_time": "2024-05-15T13:00:00Z",
-      "end_time": "2024-05-15T15:00:00Z",
-      "title": "YOLO",
-      "canceled_until": null,
-      "category": {
-        "id": "509658",
-        "name": "Just Chatting"
-      },
-      "is_recurring": true
-    },
-    {
-      "id": "eyJzZWdtZW50SUQiOiI3NTcxMzgxZi0zZDg1LTRhOTItODdhYy04YzIwZDAzYTc1NjYiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjoyMH0=",
-      "start_time": "2024-05-15T15:00:00Z",
-      "end_time": "2024-05-15T17:00:00Z",
-      "title": "Découverte Albion #Sponsorisé",
+      "id": "eyJzZWdtZW50SUQiOiIzZDk4OGM2MS02ZWE5LTQ4NGUtYmZlZC01NjU0MmYwMDE5ZTciLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjoyMH0=",
+      "start_time": "2024-05-14T13:00:00Z",
+      "end_time": "2024-05-14T16:00:00Z",
+      "title": "La bagarre sur Albion !",
       "canceled_until": null,
       "category": {
         "id": "417528",
@@ -121,14 +121,38 @@
       "is_recurring": true
     },
     {
-      "id": "eyJzZWdtZW50SUQiOiI2YjA2OWZiNi1hNWMwLTQ5YjUtYWJlZC00MDU2MGEyMDE5ZTkiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjoyMH0=",
-      "start_time": "2024-05-15T17:30:00Z",
-      "end_time": "2024-05-15T21:30:00Z",
-      "title": "WOW SOD Raid avec la team",
+      "id": "eyJzZWdtZW50SUQiOiI3OWVlMzAyYS04NDc4LTQxODEtYTM4My1hN2UzZmQwMjU4ZDgiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjoyMH0=",
+      "start_time": "2024-05-15T09:00:00Z",
+      "end_time": "2024-05-15T16:00:00Z",
+      "title": "Le retour de l'aventure BG3 avec le Riv",
       "canceled_until": null,
       "category": {
-        "id": "18122",
-        "name": "World of Warcraft"
+        "id": "512923",
+        "name": "Baldur's Gate 3"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiI2OGI2ZTM4Ni02YjM3LTRkYjItODhmYi05OWFkYTJmMGFkNjYiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjoyMH0=",
+      "start_time": "2024-05-16T09:00:00Z",
+      "end_time": "2024-05-16T13:00:00Z",
+      "title": "Codenames avé les potes",
+      "canceled_until": null,
+      "category": {
+        "id": "508509",
+        "name": "Codenames"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiI0OTVmNWNjMi1iMzM2LTQ1NzctYmJmZS04MTc5YzMyZDJjZjkiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjoyMH0=",
+      "start_time": "2024-05-16T13:00:00Z",
+      "end_time": "2024-05-16T16:00:00Z",
+      "title": "Life is Strange 2 : Épisode 4",
+      "canceled_until": null,
+      "category": {
+        "id": "497103",
+        "name": "Life is Strange 2"
       },
       "is_recurring": true
     },
@@ -136,7 +160,7 @@
       "id": "eyJzZWdtZW50SUQiOiJlOWI2ZTA4Zi03ODQ3LTRjMGEtYTkxZC1lMmY1YzgwZjIyYjYiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjoyMX0=",
       "start_time": "2024-05-20T09:00:00Z",
       "end_time": "2024-05-20T16:00:00Z",
-      "title": "Maître des fleurs",
+      "title": "Culture et plaisir sur le Maître des fleurs",
       "canceled_until": null,
       "category": {
         "id": "338715930",
@@ -145,34 +169,22 @@
       "is_recurring": true
     },
     {
-      "id": "eyJzZWdtZW50SUQiOiIzMDEzYTc1OC05ZGIxLTQ3ZTItOGMzZS1hMGE2MGFlM2VjNmUiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjoyMX0=",
-      "start_time": "2024-05-21T18:00:00Z",
-      "end_time": "2024-05-21T20:00:00Z",
-      "title": "Popcorn sur la chaine de @domingo",
+      "id": "eyJzZWdtZW50SUQiOiIzZjQxMzhiYS1iMGVlLTQ3NTEtYTZmYS1mMmNlMDMzY2Y2NTIiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjoyMX0=",
+      "start_time": "2024-05-21T09:00:00Z",
+      "end_time": "2024-05-21T13:00:00Z",
+      "title": "Lycans avé les copains",
       "canceled_until": null,
       "category": {
-        "id": "509658",
-        "name": "Just Chatting"
+        "id": "1494074023",
+        "name": "Lycans"
       },
       "is_recurring": true
     },
     {
-      "id": "eyJzZWdtZW50SUQiOiI3NDJlZTFhOS01OTcwLTQ0M2QtOWIyZS1lNjMxMDkxOGU3NGQiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjoyMX0=",
-      "start_time": "2024-05-22T13:00:00Z",
-      "end_time": "2024-05-22T15:00:00Z",
-      "title": "YOLO",
-      "canceled_until": null,
-      "category": {
-        "id": "509658",
-        "name": "Just Chatting"
-      },
-      "is_recurring": true
-    },
-    {
-      "id": "eyJzZWdtZW50SUQiOiI3NTcxMzgxZi0zZDg1LTRhOTItODdhYy04YzIwZDAzYTc1NjYiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjoyMX0=",
-      "start_time": "2024-05-22T15:00:00Z",
-      "end_time": "2024-05-22T17:00:00Z",
-      "title": "Découverte Albion #Sponsorisé",
+      "id": "eyJzZWdtZW50SUQiOiIzZDk4OGM2MS02ZWE5LTQ4NGUtYmZlZC01NjU0MmYwMDE5ZTciLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjoyMX0=",
+      "start_time": "2024-05-21T13:00:00Z",
+      "end_time": "2024-05-21T16:00:00Z",
+      "title": "La bagarre sur Albion !",
       "canceled_until": null,
       "category": {
         "id": "417528",
@@ -181,14 +193,38 @@
       "is_recurring": true
     },
     {
-      "id": "eyJzZWdtZW50SUQiOiI2YjA2OWZiNi1hNWMwLTQ5YjUtYWJlZC00MDU2MGEyMDE5ZTkiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjoyMX0=",
-      "start_time": "2024-05-22T17:30:00Z",
-      "end_time": "2024-05-22T21:30:00Z",
-      "title": "WOW SOD Raid avec la team",
+      "id": "eyJzZWdtZW50SUQiOiI3OWVlMzAyYS04NDc4LTQxODEtYTM4My1hN2UzZmQwMjU4ZDgiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjoyMX0=",
+      "start_time": "2024-05-22T09:00:00Z",
+      "end_time": "2024-05-22T16:00:00Z",
+      "title": "Le retour de l'aventure BG3 avec le Riv",
       "canceled_until": null,
       "category": {
-        "id": "18122",
-        "name": "World of Warcraft"
+        "id": "512923",
+        "name": "Baldur's Gate 3"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiI2OGI2ZTM4Ni02YjM3LTRkYjItODhmYi05OWFkYTJmMGFkNjYiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjoyMX0=",
+      "start_time": "2024-05-23T09:00:00Z",
+      "end_time": "2024-05-23T13:00:00Z",
+      "title": "Codenames avé les potes",
+      "canceled_until": null,
+      "category": {
+        "id": "508509",
+        "name": "Codenames"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiI0OTVmNWNjMi1iMzM2LTQ1NzctYmJmZS04MTc5YzMyZDJjZjkiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjoyMX0=",
+      "start_time": "2024-05-23T13:00:00Z",
+      "end_time": "2024-05-23T16:00:00Z",
+      "title": "Life is Strange 2 : Épisode 4",
+      "canceled_until": null,
+      "category": {
+        "id": "497103",
+        "name": "Life is Strange 2"
       },
       "is_recurring": true
     },
@@ -196,7 +232,7 @@
       "id": "eyJzZWdtZW50SUQiOiJlOWI2ZTA4Zi03ODQ3LTRjMGEtYTkxZC1lMmY1YzgwZjIyYjYiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjoyMn0=",
       "start_time": "2024-05-27T09:00:00Z",
       "end_time": "2024-05-27T16:00:00Z",
-      "title": "Maître des fleurs",
+      "title": "Culture et plaisir sur le Maître des fleurs",
       "canceled_until": null,
       "category": {
         "id": "338715930",
@@ -205,50 +241,14 @@
       "is_recurring": true
     },
     {
-      "id": "eyJzZWdtZW50SUQiOiIzMDEzYTc1OC05ZGIxLTQ3ZTItOGMzZS1hMGE2MGFlM2VjNmUiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjoyMn0=",
-      "start_time": "2024-05-28T18:00:00Z",
-      "end_time": "2024-05-28T20:00:00Z",
-      "title": "Popcorn sur la chaine de @domingo",
+      "id": "eyJzZWdtZW50SUQiOiIzZjQxMzhiYS1iMGVlLTQ3NTEtYTZmYS1mMmNlMDMzY2Y2NTIiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjoyMn0=",
+      "start_time": "2024-05-28T09:00:00Z",
+      "end_time": "2024-05-28T13:00:00Z",
+      "title": "Lycans avé les copains",
       "canceled_until": null,
       "category": {
-        "id": "509658",
-        "name": "Just Chatting"
-      },
-      "is_recurring": true
-    },
-    {
-      "id": "eyJzZWdtZW50SUQiOiI3NDJlZTFhOS01OTcwLTQ0M2QtOWIyZS1lNjMxMDkxOGU3NGQiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjoyMn0=",
-      "start_time": "2024-05-29T13:00:00Z",
-      "end_time": "2024-05-29T15:00:00Z",
-      "title": "YOLO",
-      "canceled_until": null,
-      "category": {
-        "id": "509658",
-        "name": "Just Chatting"
-      },
-      "is_recurring": true
-    },
-    {
-      "id": "eyJzZWdtZW50SUQiOiI3NTcxMzgxZi0zZDg1LTRhOTItODdhYy04YzIwZDAzYTc1NjYiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjoyMn0=",
-      "start_time": "2024-05-29T15:00:00Z",
-      "end_time": "2024-05-29T17:00:00Z",
-      "title": "Découverte Albion #Sponsorisé",
-      "canceled_until": null,
-      "category": {
-        "id": "417528",
-        "name": "Albion Online"
-      },
-      "is_recurring": true
-    },
-    {
-      "id": "eyJzZWdtZW50SUQiOiI2YjA2OWZiNi1hNWMwLTQ5YjUtYWJlZC00MDU2MGEyMDE5ZTkiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjoyMn0=",
-      "start_time": "2024-05-29T17:30:00Z",
-      "end_time": "2024-05-29T21:30:00Z",
-      "title": "WOW SOD Raid avec la team",
-      "canceled_until": null,
-      "category": {
-        "id": "18122",
-        "name": "World of Warcraft"
+        "id": "1494074023",
+        "name": "Lycans"
       },
       "is_recurring": true
     }
