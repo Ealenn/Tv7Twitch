@@ -13,18 +13,6 @@
   },
   "schedulers": [
     {
-      "id": "eyJzZWdtZW50SUQiOiJjMzU1MTFkZS02NTBjLTQ4YzQtYjViNy1jNDZiMmIzN2YxZDIiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjoxOX0=",
-      "start_time": "2024-05-08T16:00:00Z",
-      "end_time": "2024-05-08T21:00:00Z",
-      "title": "Suite HADES II qui vient de sortir en Early Access",
-      "canceled_until": null,
-      "category": {
-        "id": "376500771",
-        "name": "Hades II"
-      },
-      "is_recurring": false
-    },
-    {
       "id": "eyJzZWdtZW50SUQiOiI3NWRhM2U5Zi1hNTdjLTRlMTktODk5Zi1mNDYyZTJhZWQ1YmQiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjoxOX0=",
       "start_time": "2024-05-10T17:00:00Z",
       "end_time": "2024-05-10T22:00:00Z",
@@ -244,6 +232,18 @@
       "id": "eyJzZWdtZW50SUQiOiJiNTE0YTNkMC0xM2IxLTRjMGYtYTAzMy05OTdiYzc4Yjc1YjEiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjozNH0=",
       "start_time": "2024-08-19T18:30:00Z",
       "end_time": "2024-08-19T22:00:00Z",
+      "title": "Soirée du lundi",
+      "canceled_until": null,
+      "category": {
+        "id": "509658",
+        "name": "Just Chatting"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiJiNTE0YTNkMC0xM2IxLTRjMGYtYTAzMy05OTdiYzc4Yjc1YjEiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjozNX0=",
+      "start_time": "2024-08-26T18:30:00Z",
+      "end_time": "2024-08-26T22:00:00Z",
       "title": "Soirée du lundi",
       "canceled_until": null,
       "category": {
