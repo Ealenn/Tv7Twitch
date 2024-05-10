@@ -13,30 +13,6 @@
   },
   "schedulers": [
     {
-      "id": "eyJzZWdtZW50SUQiOiI2OGI2ZTM4Ni02YjM3LTRkYjItODhmYi05OWFkYTJmMGFkNjYiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjoxOX0=",
-      "start_time": "2024-05-09T09:00:00Z",
-      "end_time": "2024-05-09T13:00:00Z",
-      "title": "Codenames avé les potes",
-      "canceled_until": null,
-      "category": {
-        "id": "508509",
-        "name": "Codenames"
-      },
-      "is_recurring": true
-    },
-    {
-      "id": "eyJzZWdtZW50SUQiOiI0OTVmNWNjMi1iMzM2LTQ1NzctYmJmZS04MTc5YzMyZDJjZjkiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjoxOX0=",
-      "start_time": "2024-05-09T13:00:00Z",
-      "end_time": "2024-05-09T16:00:00Z",
-      "title": "Life is Strange 2 : Épisode 4",
-      "canceled_until": null,
-      "category": {
-        "id": "497103",
-        "name": "Life is Strange 2"
-      },
-      "is_recurring": true
-    },
-    {
       "id": "eyJzZWdtZW50SUQiOiJlOWI2ZTA4Zi03ODQ3LTRjMGEtYTkxZC1lMmY1YzgwZjIyYjYiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjoyMH0=",
       "start_time": "2024-05-13T09:00:00Z",
       "end_time": "2024-05-13T16:00:00Z",
@@ -249,6 +225,30 @@
       "category": {
         "id": "497103",
         "name": "Life is Strange 2"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiJlOWI2ZTA4Zi03ODQ3LTRjMGEtYTkxZC1lMmY1YzgwZjIyYjYiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjoyM30=",
+      "start_time": "2024-06-03T09:00:00Z",
+      "end_time": "2024-06-03T16:00:00Z",
+      "title": "Culture et plaisir sur le Maître des fleurs",
+      "canceled_until": null,
+      "category": {
+        "id": "338715930",
+        "name": "Maitre des Fleurs"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiIzZjQxMzhiYS1iMGVlLTQ3NTEtYTZmYS1mMmNlMDMzY2Y2NTIiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjoyM30=",
+      "start_time": "2024-06-04T09:00:00Z",
+      "end_time": "2024-06-04T13:00:00Z",
+      "title": "Lycans avé les copains",
+      "canceled_until": null,
+      "category": {
+        "id": "1494074023",
+        "name": "Lycans"
       },
       "is_recurring": true
     }
