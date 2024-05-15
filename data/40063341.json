@@ -7,23 +7,11 @@
     "broadcaster_type": "partner",
     "description": "",
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/3cdae7df-600c-4833-8dfe-8d2abc5a3b25-profile_image-300x300.png",
-    "offline_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/f247ff54-a521-4785-9fc8-450889fc5e65-channel_offline_image-1920x1080.png",
+    "offline_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/45be54da-1d56-4d12-be56-778b245f6578-channel_offline_image-1920x1080.png",
     "view_count": 0,
     "created_at": "2013-02-05T19:20:22Z"
   },
   "schedulers": [
-    {
-      "id": "eyJzZWdtZW50SUQiOiJhMTI2NDdjMi00NzBlLTQyYWEtOTE1OC1kMTE0N2I0NWYxYTgiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjoyMH0=",
-      "start_time": "2024-05-14T18:00:00Z",
-      "end_time": "2024-05-14T20:30:00Z",
-      "title": "🍿 POPCORN AVEC ZERATOR, SAMUEL ÉTIENNE & PRESSEA",
-      "canceled_until": null,
-      "category": {
-        "id": "417752",
-        "name": "Talk Shows & Podcasts"
-      },
-      "is_recurring": true
-    },
     {
       "id": "eyJzZWdtZW50SUQiOiIxZjBhYTlhNS01NjczLTQ4NzQtODkwZC01MGJhMjUyNDAwMzUiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjoyMH0=",
       "start_time": "2024-05-15T12:00:00Z",
@@ -246,6 +234,18 @@
       "category": {
         "id": "509658",
         "name": "Just Chatting"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiJhMTI2NDdjMi00NzBlLTQyYWEtOTE1OC1kMTE0N2I0NWYxYTgiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjoyOH0=",
+      "start_time": "2024-07-09T18:00:00Z",
+      "end_time": "2024-07-09T20:30:00Z",
+      "title": "🍿 POPCORN AVEC ZERATOR, SAMUEL ÉTIENNE & PRESSEA",
+      "canceled_until": null,
+      "category": {
+        "id": "417752",
+        "name": "Talk Shows & Podcasts"
       },
       "is_recurring": true
     }
