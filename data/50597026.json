@@ -13,30 +13,6 @@
   },
   "schedulers": [
     {
-      "id": "eyJzZWdtZW50SUQiOiJiMWY2MGY4Mi1lMzg4LTQ2NjgtYmE2NC01NGYzMmU3OWI2YWQiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjoyMH0=",
-      "start_time": "2024-05-15T09:00:00Z",
-      "end_time": "2024-05-15T13:00:00Z",
-      "title": "Pico Park avé les copains",
-      "canceled_until": null,
-      "category": {
-        "id": "513056",
-        "name": "Pico Park"
-      },
-      "is_recurring": true
-    },
-    {
-      "id": "eyJzZWdtZW50SUQiOiJlODg1ZDA0Ny0yNTc3LTQzNjctYTU0ZS1mNTViZmRlN2JjNGYiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjoyMH0=",
-      "start_time": "2024-05-15T13:00:00Z",
-      "end_time": "2024-05-15T16:00:00Z",
-      "title": "Life is Strange 2 : épisode 4",
-      "canceled_until": null,
-      "category": {
-        "id": "497103",
-        "name": "Life is Strange 2"
-      },
-      "is_recurring": true
-    },
-    {
       "id": "eyJzZWdtZW50SUQiOiI2YTRiZGUzOS1jMDFiLTRmNWItOWJjNC05MzliMTliNDAxZGIiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjoyMH0=",
       "start_time": "2024-05-16T09:00:00Z",
       "end_time": "2024-05-16T14:00:00Z",
@@ -249,6 +225,30 @@
       "category": {
         "id": "497103",
         "name": "Life is Strange 2"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiI2YTRiZGUzOS1jMDFiLTRmNWItOWJjNC05MzliMTliNDAxZGIiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjoyMn0=",
+      "start_time": "2024-05-30T09:00:00Z",
+      "end_time": "2024-05-30T14:00:00Z",
+      "title": "Suite de l'aventure Baldur's Gate 3 avec le Riv",
+      "canceled_until": null,
+      "category": {
+        "id": "512923",
+        "name": "Baldur's Gate 3"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiIwNjgzNDQ0MC00ZjZlLTQ3ZDQtYTRhZi0xY2NhODI5NWE4NWEiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjoyMn0=",
+      "start_time": "2024-05-30T14:00:00Z",
+      "end_time": "2024-05-30T16:00:00Z",
+      "title": "PokéRogue",
+      "canceled_until": null,
+      "category": {
+        "id": "483277575",
+        "name": "PokéRogue"
       },
       "is_recurring": true
     }
