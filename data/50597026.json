@@ -7,23 +7,11 @@
     "broadcaster_type": "partner",
     "description": "On se tape des immenses barres.",
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/d4737061-8f00-49d9-a56f-fcb4a9230b3f-profile_image-300x300.png",
-    "offline_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/dcbde7a3-1d62-4739-a5f7-8600d897a40f-channel_offline_image-1920x1080.jpeg",
+    "offline_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/5b55c732-840f-4db5-830b-42e9e9773d96-channel_offline_image-1920x1080.jpeg",
     "view_count": 0,
     "created_at": "2013-10-24T19:04:45Z"
   },
   "schedulers": [
-    {
-      "id": "eyJzZWdtZW50SUQiOiJlOWI2ZTA4Zi03ODQ3LTRjMGEtYTkxZC1lMmY1YzgwZjIyYjYiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjoyMX0=",
-      "start_time": "2024-05-20T09:00:00Z",
-      "end_time": "2024-05-20T16:00:00Z",
-      "title": "Culture et plaisir sur le Maître des fleurs",
-      "canceled_until": null,
-      "category": {
-        "id": "338715930",
-        "name": "Maitre des Fleurs"
-      },
-      "is_recurring": true
-    },
     {
       "id": "eyJzZWdtZW50SUQiOiIxMjJhNDBhMC01OTY4LTQxZTktODQ2Ny0wMzhhOGJkZWU4OWQiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjoyMX0=",
       "start_time": "2024-05-21T09:00:00Z",
@@ -249,6 +237,18 @@
       "category": {
         "id": "6855",
         "name": "Paper Mario: The Thousand-Year Door"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiIyZWI1M2FhMC03MzRmLTQ4OWItOGY4My0zMDgxZWUyYWIzMmIiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjoyM30=",
+      "start_time": "2024-06-08T10:00:00Z",
+      "end_time": "2024-06-08T13:00:00Z",
+      "title": "Balade dans le Culture Fest avec le bro Rivenzi",
+      "canceled_until": null,
+      "category": {
+        "id": "509658",
+        "name": "Just Chatting"
       },
       "is_recurring": true
     }
