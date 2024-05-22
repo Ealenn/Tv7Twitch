@@ -13,18 +13,6 @@
   },
   "schedulers": [
     {
-      "id": "eyJzZWdtZW50SUQiOiIxMjJhNDBhMC01OTY4LTQxZTktODQ2Ny0wMzhhOGJkZWU4OWQiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjoyMX0=",
-      "start_time": "2024-05-21T09:00:00Z",
-      "end_time": "2024-05-21T16:00:00Z",
-      "title": "Suite de l'aventure Baldur's Gate 3 avec le Riv",
-      "canceled_until": null,
-      "category": {
-        "id": "512923",
-        "name": "Baldur's Gate 3"
-      },
-      "is_recurring": true
-    },
-    {
       "id": "eyJzZWdtZW50SUQiOiJiMWY2MGY4Mi1lMzg4LTQ2NjgtYmE2NC01NGYzMmU3OWI2YWQiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjoyMX0=",
       "start_time": "2024-05-22T09:00:00Z",
       "end_time": "2024-05-22T13:00:00Z",
@@ -249,6 +237,18 @@
       "category": {
         "id": "509658",
         "name": "Just Chatting"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiJlOWI2ZTA4Zi03ODQ3LTRjMGEtYTkxZC1lMmY1YzgwZjIyYjYiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjoyNH0=",
+      "start_time": "2024-06-10T09:00:00Z",
+      "end_time": "2024-06-10T16:00:00Z",
+      "title": "Culture et plaisir sur le Maître des fleurs",
+      "canceled_until": null,
+      "category": {
+        "id": "338715930",
+        "name": "Maitre des Fleurs"
       },
       "is_recurring": true
     }
