@@ -13,30 +13,6 @@
   },
   "schedulers": [
     {
-      "id": "eyJzZWdtZW50SUQiOiI1YjBjN2ZhMS00MWI5LTQ5NTktYjI4Yi03ZWEzNDllMzY3ZjAiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjoyMX0=",
-      "start_time": "2024-05-23T17:30:00Z",
-      "end_time": "2024-05-23T18:30:00Z",
-      "title": "🎙 PRÉ LIVE",
-      "canceled_until": null,
-      "category": {
-        "id": "509658",
-        "name": "Just Chatting"
-      },
-      "is_recurring": false
-    },
-    {
-      "id": "eyJzZWdtZW50SUQiOiI5MWE2NjhlMS1hN2FmLTQ1OTItOWU2ZC1lNGJhMzRkZmYzMTMiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjoyMX0=",
-      "start_time": "2024-05-23T18:30:00Z",
-      "end_time": "2024-05-23T22:00:00Z",
-      "title": "💼 REACT : THE APPRENTICE",
-      "canceled_until": null,
-      "category": {
-        "id": "509658",
-        "name": "Just Chatting"
-      },
-      "is_recurring": false
-    },
-    {
       "id": "eyJzZWdtZW50SUQiOiJmZDI1MzM5OS05NzBmLTRiODQtYTVhZi1lMzhjM2VmOWI1MTQiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjoyMX0=",
       "start_time": "2024-05-24T12:00:00Z",
       "end_time": "2024-05-24T13:00:00Z",
@@ -241,6 +217,30 @@
       "id": "eyJzZWdtZW50SUQiOiJkMjc5YTZhMi1mNjhlLTQ0NTktOGZlNS0yNWU3NmZiNWVmNzEiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjoyOX0=",
       "start_time": "2024-07-15T17:30:00Z",
       "end_time": "2024-07-15T18:30:00Z",
+      "title": "🎙 PRÉ LIVE",
+      "canceled_until": null,
+      "category": {
+        "id": "509658",
+        "name": "Just Chatting"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiJhMTI2NDdjMi00NzBlLTQyYWEtOTE1OC1kMTE0N2I0NWYxYTgiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjoyOX0=",
+      "start_time": "2024-07-16T18:00:00Z",
+      "end_time": "2024-07-16T20:30:00Z",
+      "title": "🍿 POPCORN AVEC SOSO MANESS, DOIGBY & ZACK",
+      "canceled_until": null,
+      "category": {
+        "id": "417752",
+        "name": "Talk Shows & Podcasts"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiJkMjc5YTZhMi1mNjhlLTQ0NTktOGZlNS0yNWU3NmZiNWVmNzEiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjozMH0=",
+      "start_time": "2024-07-22T17:30:00Z",
+      "end_time": "2024-07-22T18:30:00Z",
       "title": "🎙 PRÉ LIVE",
       "canceled_until": null,
       "category": {
