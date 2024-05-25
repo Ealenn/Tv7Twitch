@@ -13,18 +13,6 @@
   },
   "schedulers": [
     {
-      "id": "eyJzZWdtZW50SUQiOiIyYTkxMWU4My1hMzkxLTQ3YzQtOGMwYS01MWE0ZjczYzYxMDkiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjoyMX0=",
-      "start_time": "2024-05-24T18:00:00Z",
-      "end_time": "2024-05-25T00:00:00Z",
-      "title": "Aventure sur V RISING avec 50 personnes (évènement d'Eventis)",
-      "canceled_until": null,
-      "category": {
-        "id": "766548668",
-        "name": "V Rising"
-      },
-      "is_recurring": false
-    },
-    {
       "id": "eyJzZWdtZW50SUQiOiJmZjQ5OWZmMi1kYThkLTQyODUtOWJjMi00MWRlMzI2OTIzOGIiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjoyMX0=",
       "start_time": "2024-05-25T17:00:00Z",
       "end_time": "2024-05-25T21:00:00Z",
@@ -244,6 +232,18 @@
       "id": "eyJzZWdtZW50SUQiOiJiNTE0YTNkMC0xM2IxLTRjMGYtYTAzMy05OTdiYzc4Yjc1YjEiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjozN30=",
       "start_time": "2024-09-09T18:30:00Z",
       "end_time": "2024-09-09T22:00:00Z",
+      "title": "Soirée du lundi",
+      "canceled_until": null,
+      "category": {
+        "id": "509658",
+        "name": "Just Chatting"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiJiNTE0YTNkMC0xM2IxLTRjMGYtYTAzMy05OTdiYzc4Yjc1YjEiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjozOH0=",
+      "start_time": "2024-09-16T18:30:00Z",
+      "end_time": "2024-09-16T22:00:00Z",
       "title": "Soirée du lundi",
       "canceled_until": null,
       "category": {

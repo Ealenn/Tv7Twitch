@@ -13,39 +13,6 @@
   },
   "schedulers": [
     {
-      "id": "eyJzZWdtZW50SUQiOiJmZDI1MzM5OS05NzBmLTRiODQtYTVhZi1lMzhjM2VmOWI1MTQiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjoyMX0=",
-      "start_time": "2024-05-24T12:00:00Z",
-      "end_time": "2024-05-24T13:00:00Z",
-      "title": "🎙 PRÉ LIVE",
-      "canceled_until": null,
-      "category": {
-        "id": "509658",
-        "name": "Just Chatting"
-      },
-      "is_recurring": false
-    },
-    {
-      "id": "eyJzZWdtZW50SUQiOiJjZDkyMzRhYi01ODJmLTQ2ZmUtYjhiZS1hMDU2ZDQzYTc3YzQiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjoyMX0=",
-      "start_time": "2024-05-24T13:00:00Z",
-      "end_time": "2024-05-24T15:00:00Z",
-      "title": "🔫 À LA GUERRE AVEC LOWAN ET RAPHOU",
-      "canceled_until": null,
-      "category": {
-        "id": "512710",
-        "name": "Call of Duty: Warzone"
-      },
-      "is_recurring": false
-    },
-    {
-      "id": "eyJzZWdtZW50SUQiOiI1YTM4OWY4ZS1kYzViLTRlNTgtOWZmYy00NjUxZDcyMDg2MTAiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjoyMX0=",
-      "start_time": "2024-05-24T15:00:00Z",
-      "end_time": "2024-05-24T17:00:00Z",
-      "title": "ON TERMINE LA SEMAINE EN CHILL",
-      "canceled_until": null,
-      "category": null,
-      "is_recurring": false
-    },
-    {
       "id": "eyJzZWdtZW50SUQiOiJkMjc5YTZhMi1mNjhlLTQ0NTktOGZlNS0yNWU3NmZiNWVmNzEiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjoyMn0=",
       "start_time": "2024-05-27T17:30:00Z",
       "end_time": "2024-05-27T18:30:00Z",
@@ -246,6 +213,42 @@
       "category": {
         "id": "509658",
         "name": "Just Chatting"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiJhMTI2NDdjMi00NzBlLTQyYWEtOTE1OC1kMTE0N2I0NWYxYTgiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjozMH0=",
+      "start_time": "2024-07-23T18:00:00Z",
+      "end_time": "2024-07-23T20:30:00Z",
+      "title": "🍿 POPCORN AVEC SOSO MANESS, DOIGBY & ZACK",
+      "canceled_until": null,
+      "category": {
+        "id": "417752",
+        "name": "Talk Shows & Podcasts"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiJkMjc5YTZhMi1mNjhlLTQ0NTktOGZlNS0yNWU3NmZiNWVmNzEiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjozMX0=",
+      "start_time": "2024-07-29T17:30:00Z",
+      "end_time": "2024-07-29T18:30:00Z",
+      "title": "🎙 PRÉ LIVE",
+      "canceled_until": null,
+      "category": {
+        "id": "509658",
+        "name": "Just Chatting"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiJhMTI2NDdjMi00NzBlLTQyYWEtOTE1OC1kMTE0N2I0NWYxYTgiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjozMX0=",
+      "start_time": "2024-07-30T18:00:00Z",
+      "end_time": "2024-07-30T20:30:00Z",
+      "title": "🍿 POPCORN AVEC SOSO MANESS, DOIGBY & ZACK",
+      "canceled_until": null,
+      "category": {
+        "id": "417752",
+        "name": "Talk Shows & Podcasts"
       },
       "is_recurring": true
     }
