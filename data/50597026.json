@@ -13,18 +13,6 @@
   },
   "schedulers": [
     {
-      "id": "eyJzZWdtZW50SUQiOiIyZWI1M2FhMC03MzRmLTQ4OWItOGY4My0zMDgxZWUyYWIzMmIiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjoyMX0=",
-      "start_time": "2024-05-25T10:00:00Z",
-      "end_time": "2024-05-25T13:00:00Z",
-      "title": "Balade dans le Culture Fest avec le bro Rivenzi",
-      "canceled_until": null,
-      "category": {
-        "id": "509658",
-        "name": "Just Chatting"
-      },
-      "is_recurring": true
-    },
-    {
       "id": "eyJzZWdtZW50SUQiOiJlOWI2ZTA4Zi03ODQ3LTRjMGEtYTkxZC1lMmY1YzgwZjIyYjYiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjoyMn0=",
       "start_time": "2024-05-27T09:00:00Z",
       "end_time": "2024-05-27T16:00:00Z",
@@ -244,6 +232,18 @@
       "id": "eyJzZWdtZW50SUQiOiI2YTRiZGUzOS1jMDFiLTRmNWItOWJjNC05MzliMTliNDAxZGIiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjoyNH0=",
       "start_time": "2024-06-13T09:00:00Z",
       "end_time": "2024-06-13T16:00:00Z",
+      "title": "Paper Mario: La Porte Millénaire",
+      "canceled_until": null,
+      "category": {
+        "id": "6855",
+        "name": "Paper Mario: The Thousand-Year Door"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiJkNDNjYzJiMy0zMTVkLTQyZTctODliYy02YTA1ODc0MmQ5MjYiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjoyNH0=",
+      "start_time": "2024-06-14T09:00:00Z",
+      "end_time": "2024-06-14T16:00:00Z",
       "title": "Paper Mario: La Porte Millénaire",
       "canceled_until": null,
       "category": {
