@@ -13,42 +13,6 @@
   },
   "schedulers": [
     {
-      "id": "eyJzZWdtZW50SUQiOiI3YTNhM2E0MC0zZTBhLTRkNjUtYjc1YS04MDMxYjY3ZTdmYmIiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjoyMn0=",
-      "start_time": "2024-05-29T12:00:00Z",
-      "end_time": "2024-05-29T13:00:00Z",
-      "title": "🎙️ PRÉ-LIVE",
-      "canceled_until": null,
-      "category": {
-        "id": "509658",
-        "name": "Just Chatting"
-      },
-      "is_recurring": false
-    },
-    {
-      "id": "eyJzZWdtZW50SUQiOiI5MzA4ODgxMS1lZTA5LTRkODYtYWY2My1mMDYyYWVmNmUyZWIiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjoyMn0=",
-      "start_time": "2024-05-29T13:00:00Z",
-      "end_time": "2024-05-29T14:00:00Z",
-      "title": "🌍 À LA CONQUÊTE DU LADDER",
-      "canceled_until": null,
-      "category": {
-        "id": "369418",
-        "name": "GeoGuessr"
-      },
-      "is_recurring": false
-    },
-    {
-      "id": "eyJzZWdtZW50SUQiOiJiYWExNmY1MC0yOGNkLTQwNGItYTI1Yy0zMWZiZGM4YThkMGQiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjoyMn0=",
-      "start_time": "2024-05-29T14:00:00Z",
-      "end_time": "2024-05-29T16:00:00Z",
-      "title": "⚔️  ON DÉCOUVRE SQUAD BUSTERS AVEC JIJI",
-      "canceled_until": null,
-      "category": {
-        "id": "788447527",
-        "name": "Squad Busters"
-      },
-      "is_recurring": false
-    },
-    {
       "id": "eyJzZWdtZW50SUQiOiI2ZmI1NjdhYi1kYWVlLTQ3NzctOGQ2ZC0yMzc3ZmQwYjc4NzQiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjoyMn0=",
       "start_time": "2024-05-30T12:00:00Z",
       "end_time": "2024-05-30T13:00:00Z",
@@ -246,6 +210,42 @@
       "category": {
         "id": "509658",
         "name": "Just Chatting"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiJhMTI2NDdjMi00NzBlLTQyYWEtOTE1OC1kMTE0N2I0NWYxYTgiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjoyOH0=",
+      "start_time": "2024-07-09T18:00:00Z",
+      "end_time": "2024-07-09T20:30:00Z",
+      "title": "🍿 POPCORN AVEC LAURA FELPIN, AURÉLIEN PRÉVEAUX & M. POULPE",
+      "canceled_until": null,
+      "category": {
+        "id": "417752",
+        "name": "Talk Shows & Podcasts"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiJkMjc5YTZhMi1mNjhlLTQ0NTktOGZlNS0yNWU3NmZiNWVmNzEiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjoyOX0=",
+      "start_time": "2024-07-15T17:30:00Z",
+      "end_time": "2024-07-15T18:30:00Z",
+      "title": "🎙 PRÉ LIVE",
+      "canceled_until": null,
+      "category": {
+        "id": "509658",
+        "name": "Just Chatting"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiJhMTI2NDdjMi00NzBlLTQyYWEtOTE1OC1kMTE0N2I0NWYxYTgiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjoyOX0=",
+      "start_time": "2024-07-16T18:00:00Z",
+      "end_time": "2024-07-16T20:30:00Z",
+      "title": "🍿 POPCORN AVEC LAURA FELPIN, AURÉLIEN PRÉVEAUX & M. POULPE",
+      "canceled_until": null,
+      "category": {
+        "id": "417752",
+        "name": "Talk Shows & Podcasts"
       },
       "is_recurring": true
     }

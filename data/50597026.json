@@ -13,30 +13,6 @@
   },
   "schedulers": [
     {
-      "id": "eyJzZWdtZW50SUQiOiI4NWY1ZjJkYy01Njc5LTQ0NDctYmNjOC05ZmYwNzgwYWExMmMiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjoyMn0=",
-      "start_time": "2024-05-29T14:00:00Z",
-      "end_time": "2024-05-29T18:00:00Z",
-      "title": "Training sur Fortnite pour le FightForSub !",
-      "canceled_until": null,
-      "category": {
-        "id": "33214",
-        "name": "Fortnite"
-      },
-      "is_recurring": true
-    },
-    {
-      "id": "eyJzZWdtZW50SUQiOiI5MTY2ZjM3ZC01YWQ4LTQ4YTUtOGQ3YS1lZjgzMjhhYTM3MjciLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjoyMn0=",
-      "start_time": "2024-05-29T18:00:00Z",
-      "end_time": "2024-05-29T22:00:00Z",
-      "title": "Soirée FightForSub Fortnite ",
-      "canceled_until": null,
-      "category": {
-        "id": "33214",
-        "name": "Fortnite"
-      },
-      "is_recurring": true
-    },
-    {
       "id": "eyJzZWdtZW50SUQiOiJkNDNjYzJiMy0zMTVkLTQyZTctODliYy02YTA1ODc0MmQ5MjYiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjoyMn0=",
       "start_time": "2024-05-30T13:00:00Z",
       "end_time": "2024-05-30T18:00:00Z",
@@ -249,6 +225,30 @@
       "category": {
         "id": "941530474",
         "name": "Mario Kart 8 Deluxe"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiIxMjJhNDBhMC01OTY4LTQxZTktODQ2Ny0wMzhhOGJkZWU4OWQiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjoyNH0=",
+      "start_time": "2024-06-14T08:00:00Z",
+      "end_time": "2024-06-14T13:00:00Z",
+      "title": "Suite de l'aventure Baldur's Gate 3 avec le Riv",
+      "canceled_until": null,
+      "category": {
+        "id": "512923",
+        "name": "Baldur's Gate 3"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiI1ZTBkZGQzYy01ODBhLTRkMzMtOTliNS03ZjY1NTNlZDVjMjciLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjoyNH0=",
+      "start_time": "2024-06-14T13:00:00Z",
+      "end_time": "2024-06-14T16:00:00Z",
+      "title": "On roule sur Oh Baby Kart avé les copains",
+      "canceled_until": null,
+      "category": {
+        "id": "499686378",
+        "name": "Oh Baby! Kart"
       },
       "is_recurring": true
     }
