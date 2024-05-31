@@ -13,39 +13,6 @@
   },
   "schedulers": [
     {
-      "id": "eyJzZWdtZW50SUQiOiI2ZmI1NjdhYi1kYWVlLTQ3NzctOGQ2ZC0yMzc3ZmQwYjc4NzQiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjoyMn0=",
-      "start_time": "2024-05-30T12:00:00Z",
-      "end_time": "2024-05-30T13:00:00Z",
-      "title": "🎙️ PRÉ-LIVE",
-      "canceled_until": null,
-      "category": {
-        "id": "509658",
-        "name": "Just Chatting"
-      },
-      "is_recurring": false
-    },
-    {
-      "id": "eyJzZWdtZW50SUQiOiI3NTZiYWExNS0xODBiLTRhY2QtOGYzNC1kMWMwZDk4YjQyYzAiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjoyMn0=",
-      "start_time": "2024-05-30T13:00:00Z",
-      "end_time": "2024-05-30T15:00:00Z",
-      "title": "🔫  JE SUIS UN GUERRIER",
-      "canceled_until": null,
-      "category": {
-        "id": "780302568",
-        "name": "XDefiant"
-      },
-      "is_recurring": false
-    },
-    {
-      "id": "eyJzZWdtZW50SUQiOiJjMzg4YmFhZi0wZWFjLTQ3ZDMtOWViMy02ZDk3YWVmMzAzNjAiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjoyMn0=",
-      "start_time": "2024-05-30T15:00:00Z",
-      "end_time": "2024-05-30T17:00:00Z",
-      "title": "STREAM LIBRE",
-      "canceled_until": null,
-      "category": null,
-      "is_recurring": false
-    },
-    {
       "id": "eyJzZWdtZW50SUQiOiIwMmQ1MmFlMi0yODQ4LTQ3N2EtYmFiMy03N2NhZDMxYzFjMTUiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjoyMn0=",
       "start_time": "2024-05-31T12:00:00Z",
       "end_time": "2024-05-31T13:00:00Z",
@@ -246,6 +213,42 @@
       "category": {
         "id": "417752",
         "name": "Talk Shows & Podcasts"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiJkMjc5YTZhMi1mNjhlLTQ0NTktOGZlNS0yNWU3NmZiNWVmNzEiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjozMH0=",
+      "start_time": "2024-07-22T17:30:00Z",
+      "end_time": "2024-07-22T18:30:00Z",
+      "title": "🎙 PRÉ LIVE",
+      "canceled_until": null,
+      "category": {
+        "id": "509658",
+        "name": "Just Chatting"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiJhMTI2NDdjMi00NzBlLTQyYWEtOTE1OC1kMTE0N2I0NWYxYTgiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjozMH0=",
+      "start_time": "2024-07-23T18:00:00Z",
+      "end_time": "2024-07-23T20:30:00Z",
+      "title": "🍿 POPCORN AVEC LAURA FELPIN, AURÉLIEN PRÉVEAUX & M. POULPE",
+      "canceled_until": null,
+      "category": {
+        "id": "417752",
+        "name": "Talk Shows & Podcasts"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiJkMjc5YTZhMi1mNjhlLTQ0NTktOGZlNS0yNWU3NmZiNWVmNzEiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjozMX0=",
+      "start_time": "2024-07-29T17:30:00Z",
+      "end_time": "2024-07-29T18:30:00Z",
+      "title": "🎙 PRÉ LIVE",
+      "canceled_until": null,
+      "category": {
+        "id": "509658",
+        "name": "Just Chatting"
       },
       "is_recurring": true
     }
