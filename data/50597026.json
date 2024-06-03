@@ -13,57 +13,81 @@
   },
   "schedulers": [
     {
-      "id": "eyJzZWdtZW50SUQiOiJlOWI2ZTA4Zi03ODQ3LTRjMGEtYTkxZC1lMmY1YzgwZjIyYjYiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjoyM30=",
+      "id": "eyJzZWdtZW50SUQiOiIwMDkwYTk4ZC0yNGZlLTQ4YTAtYjY2Ni0xODdhOGVkZThjYzciLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjoyM30=",
       "start_time": "2024-06-03T09:00:00Z",
-      "end_time": "2024-06-03T16:00:00Z",
-      "title": "Culture et plaisir sur le Maître des fleurs",
+      "end_time": "2024-06-03T12:00:00Z",
+      "title": "Streamer4Palestine - ITW Avec Helena Ranchal de Médecin du Monde et Discussion ",
+      "canceled_until": null,
+      "category": {
+        "id": "509658",
+        "name": "Just Chatting"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiJlOWI2ZTA4Zi03ODQ3LTRjMGEtYTkxZC1lMmY1YzgwZjIyYjYiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjoyM30=",
+      "start_time": "2024-06-03T12:00:00Z",
+      "end_time": "2024-06-03T18:00:00Z",
+      "title": "Streamer4Palestine - Culture et plaisir sur le Maître des fleurs",
       "canceled_until": null,
       "category": {
         "id": "338715930",
         "name": "Maitre des Fleurs"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiIyN2M4NzY1My1lODU1LTQ5YmQtOGIxNS0yYTExM2QwNDYwNmUiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjoyM30=",
+      "start_time": "2024-06-03T18:00:00Z",
+      "end_time": "2024-06-03T22:00:00Z",
+      "title": "Streamer4Palestine - Fall guys avec l'équipe S4P",
+      "canceled_until": null,
+      "category": {
+        "id": "512980",
+        "name": "Fall Guys"
       },
       "is_recurring": true
     },
     {
       "id": "eyJzZWdtZW50SUQiOiI2YTRiZGUzOS1jMDFiLTRmNWItOWJjNC05MzliMTliNDAxZGIiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjoyM30=",
       "start_time": "2024-06-04T09:00:00Z",
-      "end_time": "2024-06-04T16:00:00Z",
-      "title": "Paper Mario: La Porte Millénaire",
+      "end_time": "2024-06-04T12:00:00Z",
+      "title": "Streamer4Palestine - Discussion & Chill",
       "canceled_until": null,
       "category": {
-        "id": "6855",
-        "name": "Paper Mario: The Thousand-Year Door"
+        "id": "509658",
+        "name": "Just Chatting"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiI0NzRmZjgxMS1mZTU1LTQ2OTItODJhNy1kZDEwNzQzODljM2EiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjoyM30=",
+      "start_time": "2024-06-04T12:00:00Z",
+      "end_time": "2024-06-04T16:00:00Z",
+      "title": "Streamers4Palestine - Code names avec la team S4P",
+      "canceled_until": null,
+      "category": {
+        "id": "508509",
+        "name": "Codenames"
       },
       "is_recurring": true
     },
     {
       "id": "eyJzZWdtZW50SUQiOiI4NWY1ZjJkYy01Njc5LTQ0NDctYmNjOC05ZmYwNzgwYWExMmMiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjoyM30=",
-      "start_time": "2024-06-05T14:00:00Z",
-      "end_time": "2024-06-05T18:00:00Z",
-      "title": "Training sur Fortnite pour le FightForSub !",
+      "start_time": "2024-06-05T09:00:00Z",
+      "end_time": "2024-06-05T15:00:00Z",
+      "title": "Streamers4Palestine - Discussion & chill & game",
       "canceled_until": null,
       "category": {
-        "id": "33214",
-        "name": "Fortnite"
-      },
-      "is_recurring": true
-    },
-    {
-      "id": "eyJzZWdtZW50SUQiOiI5MTY2ZjM3ZC01YWQ4LTQ4YTUtOGQ3YS1lZjgzMjhhYTM3MjciLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjoyM30=",
-      "start_time": "2024-06-05T18:00:00Z",
-      "end_time": "2024-06-05T22:00:00Z",
-      "title": "Soirée FightForSub Fortnite ",
-      "canceled_until": null,
-      "category": {
-        "id": "33214",
-        "name": "Fortnite"
+        "id": "509658",
+        "name": "Just Chatting"
       },
       "is_recurring": true
     },
     {
       "id": "eyJzZWdtZW50SUQiOiJkNDNjYzJiMy0zMTVkLTQyZTctODliYy02YTA1ODc0MmQ5MjYiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjoyM30=",
-      "start_time": "2024-06-06T13:00:00Z",
-      "end_time": "2024-06-06T18:00:00Z",
+      "start_time": "2024-06-06T12:00:00Z",
+      "end_time": "2024-06-06T17:00:00Z",
       "title": "Paper Mario: La Porte Millénaire",
       "canceled_until": null,
       "category": {
@@ -73,182 +97,158 @@
       "is_recurring": true
     },
     {
-      "id": "eyJzZWdtZW50SUQiOiI1YWQ1MGJjNS1hYjMyLTRlMjQtYWI1NC0wNGI0NzM3ZGI0NjAiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjoyM30=",
-      "start_time": "2024-06-06T18:00:00Z",
-      "end_time": "2024-06-06T22:00:00Z",
-      "title": "Ponce la Switch pour les 10 ans de MK8 !",
-      "canceled_until": null,
-      "category": {
-        "id": "941530474",
-        "name": "Mario Kart 8 Deluxe"
-      },
-      "is_recurring": true
-    },
-    {
       "id": "eyJzZWdtZW50SUQiOiIxMjJhNDBhMC01OTY4LTQxZTktODQ2Ny0wMzhhOGJkZWU4OWQiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjoyM30=",
-      "start_time": "2024-06-07T08:00:00Z",
-      "end_time": "2024-06-07T13:00:00Z",
-      "title": "Suite de l'aventure Baldur's Gate 3 avec le Riv",
+      "start_time": "2024-06-07T09:00:00Z",
+      "end_time": "2024-06-07T11:00:00Z",
+      "title": "Discussion & Chill",
       "canceled_until": null,
       "category": {
-        "id": "512923",
-        "name": "Baldur's Gate 3"
+        "id": "509658",
+        "name": "Just Chatting"
       },
       "is_recurring": true
     },
     {
-      "id": "eyJzZWdtZW50SUQiOiI1ZTBkZGQzYy01ODBhLTRkMzMtOTliNS03ZjY1NTNlZDVjMjciLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjoyM30=",
-      "start_time": "2024-06-07T13:00:00Z",
+      "id": "eyJzZWdtZW50SUQiOiIzZjI1MDEzYy05NmNlLTQwMDgtOTVkYS1lN2YyZDBlMWFjNTgiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjoyM30=",
+      "start_time": "2024-06-07T11:00:00Z",
       "end_time": "2024-06-07T16:00:00Z",
-      "title": "On roule sur Oh Baby Kart avé les copains",
+      "title": "Paper Mario La Porte Millénaire",
       "canceled_until": null,
       "category": {
-        "id": "499686378",
-        "name": "Oh Baby! Kart"
+        "id": "2029972667",
+        "name": "Paper Mario: The Thousand-Year Door"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiIwMDkwYTk4ZC0yNGZlLTQ4YTAtYjY2Ni0xODdhOGVkZThjYzciLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjoyNH0=",
+      "start_time": "2024-06-10T09:00:00Z",
+      "end_time": "2024-06-10T12:00:00Z",
+      "title": "Streamer4Palestine - ITW Avec Helena Ranchal de Médecin du Monde et Discussion ",
+      "canceled_until": null,
+      "category": {
+        "id": "509658",
+        "name": "Just Chatting"
       },
       "is_recurring": true
     },
     {
       "id": "eyJzZWdtZW50SUQiOiJlOWI2ZTA4Zi03ODQ3LTRjMGEtYTkxZC1lMmY1YzgwZjIyYjYiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjoyNH0=",
-      "start_time": "2024-06-10T09:00:00Z",
-      "end_time": "2024-06-10T16:00:00Z",
-      "title": "Culture et plaisir sur le Maître des fleurs",
+      "start_time": "2024-06-10T12:00:00Z",
+      "end_time": "2024-06-10T18:00:00Z",
+      "title": "Streamer4Palestine - Culture et plaisir sur le Maître des fleurs",
       "canceled_until": null,
       "category": {
         "id": "338715930",
         "name": "Maitre des Fleurs"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiIyN2M4NzY1My1lODU1LTQ5YmQtOGIxNS0yYTExM2QwNDYwNmUiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjoyNH0=",
+      "start_time": "2024-06-10T18:00:00Z",
+      "end_time": "2024-06-10T22:00:00Z",
+      "title": "Streamer4Palestine - Fall guys avec l'équipe S4P",
+      "canceled_until": null,
+      "category": {
+        "id": "512980",
+        "name": "Fall Guys"
       },
       "is_recurring": true
     },
     {
       "id": "eyJzZWdtZW50SUQiOiI2YTRiZGUzOS1jMDFiLTRmNWItOWJjNC05MzliMTliNDAxZGIiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjoyNH0=",
       "start_time": "2024-06-11T09:00:00Z",
-      "end_time": "2024-06-11T16:00:00Z",
-      "title": "Paper Mario: La Porte Millénaire",
+      "end_time": "2024-06-11T12:00:00Z",
+      "title": "Streamer4Palestine - Discussion & Chill",
       "canceled_until": null,
       "category": {
-        "id": "6855",
-        "name": "Paper Mario: The Thousand-Year Door"
+        "id": "509658",
+        "name": "Just Chatting"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiI0NzRmZjgxMS1mZTU1LTQ2OTItODJhNy1kZDEwNzQzODljM2EiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjoyNH0=",
+      "start_time": "2024-06-11T12:00:00Z",
+      "end_time": "2024-06-11T16:00:00Z",
+      "title": "Streamers4Palestine - Code names avec la team S4P",
+      "canceled_until": null,
+      "category": {
+        "id": "508509",
+        "name": "Codenames"
       },
       "is_recurring": true
     },
     {
       "id": "eyJzZWdtZW50SUQiOiI4NWY1ZjJkYy01Njc5LTQ0NDctYmNjOC05ZmYwNzgwYWExMmMiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjoyNH0=",
-      "start_time": "2024-06-12T14:00:00Z",
-      "end_time": "2024-06-12T18:00:00Z",
-      "title": "Training sur Fortnite pour le FightForSub !",
+      "start_time": "2024-06-12T09:00:00Z",
+      "end_time": "2024-06-12T15:00:00Z",
+      "title": "Streamers4Palestine - Discussion & chill & game",
       "canceled_until": null,
       "category": {
-        "id": "33214",
-        "name": "Fortnite"
-      },
-      "is_recurring": true
-    },
-    {
-      "id": "eyJzZWdtZW50SUQiOiI5MTY2ZjM3ZC01YWQ4LTQ4YTUtOGQ3YS1lZjgzMjhhYTM3MjciLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjoyNH0=",
-      "start_time": "2024-06-12T18:00:00Z",
-      "end_time": "2024-06-12T22:00:00Z",
-      "title": "Soirée FightForSub Fortnite ",
-      "canceled_until": null,
-      "category": {
-        "id": "33214",
-        "name": "Fortnite"
+        "id": "509658",
+        "name": "Just Chatting"
       },
       "is_recurring": true
     },
     {
       "id": "eyJzZWdtZW50SUQiOiJkNDNjYzJiMy0zMTVkLTQyZTctODliYy02YTA1ODc0MmQ5MjYiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjoyNH0=",
-      "start_time": "2024-06-13T13:00:00Z",
-      "end_time": "2024-06-13T18:00:00Z",
+      "start_time": "2024-06-13T12:00:00Z",
+      "end_time": "2024-06-13T17:00:00Z",
       "title": "Paper Mario: La Porte Millénaire",
       "canceled_until": null,
       "category": {
         "id": "6855",
         "name": "Paper Mario: The Thousand-Year Door"
-      },
-      "is_recurring": true
-    },
-    {
-      "id": "eyJzZWdtZW50SUQiOiI1YWQ1MGJjNS1hYjMyLTRlMjQtYWI1NC0wNGI0NzM3ZGI0NjAiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjoyNH0=",
-      "start_time": "2024-06-13T18:00:00Z",
-      "end_time": "2024-06-13T22:00:00Z",
-      "title": "Ponce la Switch pour les 10 ans de MK8 !",
-      "canceled_until": null,
-      "category": {
-        "id": "941530474",
-        "name": "Mario Kart 8 Deluxe"
       },
       "is_recurring": true
     },
     {
       "id": "eyJzZWdtZW50SUQiOiIxMjJhNDBhMC01OTY4LTQxZTktODQ2Ny0wMzhhOGJkZWU4OWQiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjoyNH0=",
-      "start_time": "2024-06-14T08:00:00Z",
-      "end_time": "2024-06-14T13:00:00Z",
-      "title": "Suite de l'aventure Baldur's Gate 3 avec le Riv",
+      "start_time": "2024-06-14T09:00:00Z",
+      "end_time": "2024-06-14T11:00:00Z",
+      "title": "Discussion & Chill",
       "canceled_until": null,
       "category": {
-        "id": "512923",
-        "name": "Baldur's Gate 3"
+        "id": "509658",
+        "name": "Just Chatting"
       },
       "is_recurring": true
     },
     {
-      "id": "eyJzZWdtZW50SUQiOiI1ZTBkZGQzYy01ODBhLTRkMzMtOTliNS03ZjY1NTNlZDVjMjciLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjoyNH0=",
-      "start_time": "2024-06-14T13:00:00Z",
+      "id": "eyJzZWdtZW50SUQiOiIzZjI1MDEzYy05NmNlLTQwMDgtOTVkYS1lN2YyZDBlMWFjNTgiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjoyNH0=",
+      "start_time": "2024-06-14T11:00:00Z",
       "end_time": "2024-06-14T16:00:00Z",
-      "title": "On roule sur Oh Baby Kart avé les copains",
+      "title": "Paper Mario La Porte Millénaire",
       "canceled_until": null,
       "category": {
-        "id": "499686378",
-        "name": "Oh Baby! Kart"
-      },
-      "is_recurring": true
-    },
-    {
-      "id": "eyJzZWdtZW50SUQiOiJlOWI2ZTA4Zi03ODQ3LTRjMGEtYTkxZC1lMmY1YzgwZjIyYjYiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjoyNX0=",
-      "start_time": "2024-06-17T09:00:00Z",
-      "end_time": "2024-06-17T16:00:00Z",
-      "title": "Culture et plaisir sur le Maître des fleurs",
-      "canceled_until": null,
-      "category": {
-        "id": "338715930",
-        "name": "Maitre des Fleurs"
-      },
-      "is_recurring": true
-    },
-    {
-      "id": "eyJzZWdtZW50SUQiOiI2YTRiZGUzOS1jMDFiLTRmNWItOWJjNC05MzliMTliNDAxZGIiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjoyNX0=",
-      "start_time": "2024-06-18T09:00:00Z",
-      "end_time": "2024-06-18T16:00:00Z",
-      "title": "Paper Mario: La Porte Millénaire",
-      "canceled_until": null,
-      "category": {
-        "id": "6855",
+        "id": "2029972667",
         "name": "Paper Mario: The Thousand-Year Door"
       },
       "is_recurring": true
     },
     {
-      "id": "eyJzZWdtZW50SUQiOiI4NWY1ZjJkYy01Njc5LTQ0NDctYmNjOC05ZmYwNzgwYWExMmMiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjoyNX0=",
-      "start_time": "2024-06-19T14:00:00Z",
-      "end_time": "2024-06-19T18:00:00Z",
-      "title": "Training sur Fortnite pour le FightForSub !",
+      "id": "eyJzZWdtZW50SUQiOiIwMDkwYTk4ZC0yNGZlLTQ4YTAtYjY2Ni0xODdhOGVkZThjYzciLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjoyNX0=",
+      "start_time": "2024-06-17T09:00:00Z",
+      "end_time": "2024-06-17T12:00:00Z",
+      "title": "Streamer4Palestine - ITW Avec Helena Ranchal de Médecin du Monde et Discussion ",
       "canceled_until": null,
       "category": {
-        "id": "33214",
-        "name": "Fortnite"
+        "id": "509658",
+        "name": "Just Chatting"
       },
       "is_recurring": true
     },
     {
-      "id": "eyJzZWdtZW50SUQiOiI5MTY2ZjM3ZC01YWQ4LTQ4YTUtOGQ3YS1lZjgzMjhhYTM3MjciLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjoyNX0=",
-      "start_time": "2024-06-19T18:00:00Z",
-      "end_time": "2024-06-19T22:00:00Z",
-      "title": "Soirée FightForSub Fortnite ",
+      "id": "eyJzZWdtZW50SUQiOiJlOWI2ZTA4Zi03ODQ3LTRjMGEtYTkxZC1lMmY1YzgwZjIyYjYiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjoyNX0=",
+      "start_time": "2024-06-17T12:00:00Z",
+      "end_time": "2024-06-17T18:00:00Z",
+      "title": "Streamer4Palestine - Culture et plaisir sur le Maître des fleurs",
       "canceled_until": null,
       "category": {
-        "id": "33214",
-        "name": "Fortnite"
+        "id": "338715930",
+        "name": "Maitre des Fleurs"
       },
       "is_recurring": true
     }
