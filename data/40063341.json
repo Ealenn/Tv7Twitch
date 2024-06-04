@@ -7,34 +7,70 @@
     "broadcaster_type": "partner",
     "description": "",
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/3cdae7df-600c-4833-8dfe-8d2abc5a3b25-profile_image-300x300.png",
-    "offline_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/86be2281-0376-478d-8857-607c1705e327-channel_offline_image-1920x1080.png",
+    "offline_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/033a0c85-4e78-457e-85c8-ff9261d96bb5-channel_offline_image-1920x1080.png",
     "view_count": 0,
     "created_at": "2013-02-05T19:20:22Z"
   },
   "schedulers": [
     {
-      "id": "eyJzZWdtZW50SUQiOiJkMjc5YTZhMi1mNjhlLTQ0NTktOGZlNS0yNWU3NmZiNWVmNzEiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjoyM30=",
-      "start_time": "2024-06-03T17:30:00Z",
-      "end_time": "2024-06-03T18:30:00Z",
-      "title": "🎙 PRÉ LIVE",
-      "canceled_until": null,
-      "category": {
-        "id": "509658",
-        "name": "Just Chatting"
-      },
-      "is_recurring": true
-    },
-    {
       "id": "eyJzZWdtZW50SUQiOiJhMTI2NDdjMi00NzBlLTQyYWEtOTE1OC1kMTE0N2I0NWYxYTgiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjoyM30=",
       "start_time": "2024-06-04T18:00:00Z",
       "end_time": "2024-06-04T20:30:00Z",
-      "title": "🍿 POPCORN AVEC LAURA FELPIN, AURÉLIEN PRÉVEAUX & M. POULPE",
+      "title": "🍿 POPCORN AVEC MAGHLA, THOMAS DESEUR, JIJI & NICO MATHIEUX",
       "canceled_until": null,
       "category": {
         "id": "417752",
         "name": "Talk Shows & Podcasts"
       },
       "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiI1NDQwZjVkZi01YTQ1LTQ4YjktOTE2NS02N2NjNTdmNTZkOWEiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjoyM30=",
+      "start_time": "2024-06-05T12:00:00Z",
+      "end_time": "2024-06-05T13:00:00Z",
+      "title": "🎙 PRÉ LIVE",
+      "canceled_until": null,
+      "category": {
+        "id": "509658",
+        "name": "Just Chatting"
+      },
+      "is_recurring": false
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiJkZjU2NDE2Zi1jNTBjLTRlZjEtYmIzZi1iYmY4NTNjODk5NTciLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjoyM30=",
+      "start_time": "2024-06-05T13:00:00Z",
+      "end_time": "2024-06-05T14:30:00Z",
+      "title": "⚔️ SQUAD BUSTERS AVEC JIJI",
+      "canceled_until": null,
+      "category": {
+        "id": "788447527",
+        "name": "Squad Busters"
+      },
+      "is_recurring": false
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiJlNWJkYjg3YS04NDdiLTQzYzEtYWUyNi1hODIxN2Y2NjA2NzciLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjoyM30=",
+      "start_time": "2024-06-05T14:30:00Z",
+      "end_time": "2024-06-05T18:00:00Z",
+      "title": "🌍 GEOGUESSR AVEC GABRIEL GÉO",
+      "canceled_until": null,
+      "category": {
+        "id": "369418",
+        "name": "GeoGuessr"
+      },
+      "is_recurring": false
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiIwNDc0NWM5Ni0xNDU1LTQ5MmMtYmU0Ni1lMzcyNDA5YzQ4NjgiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjoyM30=",
+      "start_time": "2024-06-06T18:00:00Z",
+      "end_time": "2024-06-06T21:00:00Z",
+      "title": "🎾 WILDCARD BATTLE",
+      "canceled_until": null,
+      "category": {
+        "id": "518203",
+        "name": "Sports"
+      },
+      "is_recurring": false
     },
     {
       "id": "eyJzZWdtZW50SUQiOiJkMjc5YTZhMi1mNjhlLTQ0NTktOGZlNS0yNWU3NmZiNWVmNzEiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjoyNH0=",
@@ -52,7 +88,7 @@
       "id": "eyJzZWdtZW50SUQiOiJhMTI2NDdjMi00NzBlLTQyYWEtOTE1OC1kMTE0N2I0NWYxYTgiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjoyNH0=",
       "start_time": "2024-06-11T18:00:00Z",
       "end_time": "2024-06-11T20:30:00Z",
-      "title": "🍿 POPCORN AVEC LAURA FELPIN, AURÉLIEN PRÉVEAUX & M. POULPE",
+      "title": "🍿 POPCORN AVEC MAGHLA, THOMAS DESEUR, JIJI & NICO MATHIEUX",
       "canceled_until": null,
       "category": {
         "id": "417752",
@@ -76,7 +112,7 @@
       "id": "eyJzZWdtZW50SUQiOiJhMTI2NDdjMi00NzBlLTQyYWEtOTE1OC1kMTE0N2I0NWYxYTgiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjoyNX0=",
       "start_time": "2024-06-18T18:00:00Z",
       "end_time": "2024-06-18T20:30:00Z",
-      "title": "🍿 POPCORN AVEC LAURA FELPIN, AURÉLIEN PRÉVEAUX & M. POULPE",
+      "title": "🍿 POPCORN AVEC MAGHLA, THOMAS DESEUR, JIJI & NICO MATHIEUX",
       "canceled_until": null,
       "category": {
         "id": "417752",
@@ -100,7 +136,7 @@
       "id": "eyJzZWdtZW50SUQiOiJhMTI2NDdjMi00NzBlLTQyYWEtOTE1OC1kMTE0N2I0NWYxYTgiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjoyNn0=",
       "start_time": "2024-06-25T18:00:00Z",
       "end_time": "2024-06-25T20:30:00Z",
-      "title": "🍿 POPCORN AVEC LAURA FELPIN, AURÉLIEN PRÉVEAUX & M. POULPE",
+      "title": "🍿 POPCORN AVEC MAGHLA, THOMAS DESEUR, JIJI & NICO MATHIEUX",
       "canceled_until": null,
       "category": {
         "id": "417752",
@@ -124,7 +160,7 @@
       "id": "eyJzZWdtZW50SUQiOiJhMTI2NDdjMi00NzBlLTQyYWEtOTE1OC1kMTE0N2I0NWYxYTgiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjoyN30=",
       "start_time": "2024-07-02T18:00:00Z",
       "end_time": "2024-07-02T20:30:00Z",
-      "title": "🍿 POPCORN AVEC LAURA FELPIN, AURÉLIEN PRÉVEAUX & M. POULPE",
+      "title": "🍿 POPCORN AVEC MAGHLA, THOMAS DESEUR, JIJI & NICO MATHIEUX",
       "canceled_until": null,
       "category": {
         "id": "417752",
@@ -148,7 +184,7 @@
       "id": "eyJzZWdtZW50SUQiOiJhMTI2NDdjMi00NzBlLTQyYWEtOTE1OC1kMTE0N2I0NWYxYTgiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjoyOH0=",
       "start_time": "2024-07-09T18:00:00Z",
       "end_time": "2024-07-09T20:30:00Z",
-      "title": "🍿 POPCORN AVEC LAURA FELPIN, AURÉLIEN PRÉVEAUX & M. POULPE",
+      "title": "🍿 POPCORN AVEC MAGHLA, THOMAS DESEUR, JIJI & NICO MATHIEUX",
       "canceled_until": null,
       "category": {
         "id": "417752",
@@ -172,7 +208,7 @@
       "id": "eyJzZWdtZW50SUQiOiJhMTI2NDdjMi00NzBlLTQyYWEtOTE1OC1kMTE0N2I0NWYxYTgiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjoyOX0=",
       "start_time": "2024-07-16T18:00:00Z",
       "end_time": "2024-07-16T20:30:00Z",
-      "title": "🍿 POPCORN AVEC LAURA FELPIN, AURÉLIEN PRÉVEAUX & M. POULPE",
+      "title": "🍿 POPCORN AVEC MAGHLA, THOMAS DESEUR, JIJI & NICO MATHIEUX",
       "canceled_until": null,
       "category": {
         "id": "417752",
@@ -196,7 +232,7 @@
       "id": "eyJzZWdtZW50SUQiOiJhMTI2NDdjMi00NzBlLTQyYWEtOTE1OC1kMTE0N2I0NWYxYTgiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjozMH0=",
       "start_time": "2024-07-23T18:00:00Z",
       "end_time": "2024-07-23T20:30:00Z",
-      "title": "🍿 POPCORN AVEC LAURA FELPIN, AURÉLIEN PRÉVEAUX & M. POULPE",
+      "title": "🍿 POPCORN AVEC MAGHLA, THOMAS DESEUR, JIJI & NICO MATHIEUX",
       "canceled_until": null,
       "category": {
         "id": "417752",
@@ -213,42 +249,6 @@
       "category": {
         "id": "509658",
         "name": "Just Chatting"
-      },
-      "is_recurring": true
-    },
-    {
-      "id": "eyJzZWdtZW50SUQiOiJhMTI2NDdjMi00NzBlLTQyYWEtOTE1OC1kMTE0N2I0NWYxYTgiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjozMX0=",
-      "start_time": "2024-07-30T18:00:00Z",
-      "end_time": "2024-07-30T20:30:00Z",
-      "title": "🍿 POPCORN AVEC LAURA FELPIN, AURÉLIEN PRÉVEAUX & M. POULPE",
-      "canceled_until": null,
-      "category": {
-        "id": "417752",
-        "name": "Talk Shows & Podcasts"
-      },
-      "is_recurring": true
-    },
-    {
-      "id": "eyJzZWdtZW50SUQiOiJkMjc5YTZhMi1mNjhlLTQ0NTktOGZlNS0yNWU3NmZiNWVmNzEiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjozMn0=",
-      "start_time": "2024-08-05T17:30:00Z",
-      "end_time": "2024-08-05T18:30:00Z",
-      "title": "🎙 PRÉ LIVE",
-      "canceled_until": null,
-      "category": {
-        "id": "509658",
-        "name": "Just Chatting"
-      },
-      "is_recurring": true
-    },
-    {
-      "id": "eyJzZWdtZW50SUQiOiJhMTI2NDdjMi00NzBlLTQyYWEtOTE1OC1kMTE0N2I0NWYxYTgiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjozMn0=",
-      "start_time": "2024-08-06T18:00:00Z",
-      "end_time": "2024-08-06T20:30:00Z",
-      "title": "🍿 POPCORN AVEC LAURA FELPIN, AURÉLIEN PRÉVEAUX & M. POULPE",
-      "canceled_until": null,
-      "category": {
-        "id": "417752",
-        "name": "Talk Shows & Podcasts"
       },
       "is_recurring": true
     }
