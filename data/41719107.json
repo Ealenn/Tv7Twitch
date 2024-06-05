@@ -13,6 +13,30 @@
   },
   "schedulers": [
     {
+      "id": "eyJzZWdtZW50SUQiOiI5ZDViODVhZS1kNTM0LTQ2ZjEtYWI4Ni1hY2UwYzI0OGIwMzEiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjoyM30=",
+      "start_time": "2024-06-05T16:00:00Z",
+      "end_time": "2024-06-05T19:00:00Z",
+      "title": "MDR vs AKR (match 3/7 du split 2 Valorant)",
+      "canceled_until": null,
+      "category": {
+        "id": "516575",
+        "name": "VALORANT"
+      },
+      "is_recurring": false
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiIxNGI2MTZhZi03OTQ4LTQzNzEtOTExMS0xMmNhNGJmNDM5ZjQiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjoyM30=",
+      "start_time": "2024-06-05T19:00:00Z",
+      "end_time": "2024-06-05T22:00:00Z",
+      "title": "Fin du stream s4p jusqu'à 23h59",
+      "canceled_until": null,
+      "category": {
+        "id": "509658",
+        "name": "Just Chatting"
+      },
+      "is_recurring": false
+    },
+    {
       "id": "eyJzZWdtZW50SUQiOiJiNTE0YTNkMC0xM2IxLTRjMGYtYTAzMy05OTdiYzc4Yjc1YjEiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjoyNH0=",
       "start_time": "2024-06-10T18:30:00Z",
       "end_time": "2024-06-10T22:00:00Z",
@@ -220,30 +244,6 @@
       "id": "eyJzZWdtZW50SUQiOiJiNTE0YTNkMC0xM2IxLTRjMGYtYTAzMy05OTdiYzc4Yjc1YjEiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjo0MX0=",
       "start_time": "2024-10-07T18:30:00Z",
       "end_time": "2024-10-07T22:00:00Z",
-      "title": "Soirée du lundi",
-      "canceled_until": null,
-      "category": {
-        "id": "509658",
-        "name": "Just Chatting"
-      },
-      "is_recurring": true
-    },
-    {
-      "id": "eyJzZWdtZW50SUQiOiJiNTE0YTNkMC0xM2IxLTRjMGYtYTAzMy05OTdiYzc4Yjc1YjEiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjo0Mn0=",
-      "start_time": "2024-10-14T18:30:00Z",
-      "end_time": "2024-10-14T22:00:00Z",
-      "title": "Soirée du lundi",
-      "canceled_until": null,
-      "category": {
-        "id": "509658",
-        "name": "Just Chatting"
-      },
-      "is_recurring": true
-    },
-    {
-      "id": "eyJzZWdtZW50SUQiOiJiNTE0YTNkMC0xM2IxLTRjMGYtYTAzMy05OTdiYzc4Yjc1YjEiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjo0M30=",
-      "start_time": "2024-10-21T18:30:00Z",
-      "end_time": "2024-10-21T22:00:00Z",
       "title": "Soirée du lundi",
       "canceled_until": null,
       "category": {

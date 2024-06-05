@@ -13,18 +13,6 @@
   },
   "schedulers": [
     {
-      "id": "eyJzZWdtZW50SUQiOiIyNjgwM2E1OC05Y2U1LTRiOTItYjA3Ni1hMzMwZDA1ZDM0MWIiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjoyM30=",
-      "start_time": "2024-06-04T15:30:00Z",
-      "end_time": "2024-06-04T17:00:00Z",
-      "title": "SVOM : à l'affût des sursauts gamma",
-      "canceled_until": null,
-      "category": {
-        "id": "509670",
-        "name": "Science & Technology"
-      },
-      "is_recurring": false
-    },
-    {
       "id": "eyJzZWdtZW50SUQiOiI3YWUwNjg1Ny1hNmRjLTQ0ZDQtYTE0Yi1iNmExNmZhMTYzOWQiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjoyNH0=",
       "start_time": "2024-06-13T10:30:00Z",
       "end_time": "2024-06-13T12:00:00Z",
