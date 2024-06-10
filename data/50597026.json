@@ -13,22 +13,10 @@
   },
   "schedulers": [
     {
-      "id": "eyJzZWdtZW50SUQiOiIwMDkwYTk4ZC0yNGZlLTQ4YTAtYjY2Ni0xODdhOGVkZThjYzciLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjoyNH0=",
-      "start_time": "2024-06-10T09:00:00Z",
-      "end_time": "2024-06-10T12:00:00Z",
-      "title": "Streamers4Palestinians - ITW Avec Helena Ranchal de Médecin du Monde et Discussion ",
-      "canceled_until": null,
-      "category": {
-        "id": "509658",
-        "name": "Just Chatting"
-      },
-      "is_recurring": true
-    },
-    {
       "id": "eyJzZWdtZW50SUQiOiJlOWI2ZTA4Zi03ODQ3LTRjMGEtYTkxZC1lMmY1YzgwZjIyYjYiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjoyNH0=",
-      "start_time": "2024-06-10T12:00:00Z",
-      "end_time": "2024-06-10T18:00:00Z",
-      "title": "Streamers4Palestinians - Culture et plaisir sur le Maître des Fleurs",
+      "start_time": "2024-06-10T09:00:00Z",
+      "end_time": "2024-06-10T15:00:00Z",
+      "title": "Culture et plaisir sur le Maître des Fleurs",
       "canceled_until": null,
       "category": {
         "id": "338715930",
@@ -37,22 +25,10 @@
       "is_recurring": true
     },
     {
-      "id": "eyJzZWdtZW50SUQiOiIyN2M4NzY1My1lODU1LTQ5YmQtOGIxNS0yYTExM2QwNDYwNmUiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjoyNH0=",
-      "start_time": "2024-06-10T18:00:00Z",
-      "end_time": "2024-06-10T22:00:00Z",
-      "title": "Streamers4Palestinians - Fall guys avec l'équipe S4P",
-      "canceled_until": null,
-      "category": {
-        "id": "512980",
-        "name": "Fall Guys"
-      },
-      "is_recurring": true
-    },
-    {
       "id": "eyJzZWdtZW50SUQiOiI2YTRiZGUzOS1jMDFiLTRmNWItOWJjNC05MzliMTliNDAxZGIiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjoyNH0=",
       "start_time": "2024-06-11T09:00:00Z",
       "end_time": "2024-06-11T12:00:00Z",
-      "title": "Streamers4Palestinians - Discussion & Chill",
+      "title": "Discussion & Chill",
       "canceled_until": null,
       "category": {
         "id": "509658",
@@ -64,42 +40,18 @@
       "id": "eyJzZWdtZW50SUQiOiI0NzRmZjgxMS1mZTU1LTQ2OTItODJhNy1kZDEwNzQzODljM2EiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjoyNH0=",
       "start_time": "2024-06-11T12:00:00Z",
       "end_time": "2024-06-11T16:00:00Z",
-      "title": "Streamers4Palestinians - Code names avec la team S4P",
+      "title": "Session musique, discussion & écoute avec Léo et JB ",
       "canceled_until": null,
       "category": {
-        "id": "508509",
-        "name": "Codenames"
+        "id": "26936",
+        "name": "Music"
       },
       "is_recurring": true
     },
     {
       "id": "eyJzZWdtZW50SUQiOiI4NWY1ZjJkYy01Njc5LTQ0NDctYmNjOC05ZmYwNzgwYWExMmMiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjoyNH0=",
       "start_time": "2024-06-12T09:00:00Z",
-      "end_time": "2024-06-12T15:00:00Z",
-      "title": "Streamers4Palestinians - Discussion & chill & game",
-      "canceled_until": null,
-      "category": {
-        "id": "509658",
-        "name": "Just Chatting"
-      },
-      "is_recurring": true
-    },
-    {
-      "id": "eyJzZWdtZW50SUQiOiJkNDNjYzJiMy0zMTVkLTQyZTctODliYy02YTA1ODc0MmQ5MjYiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjoyNH0=",
-      "start_time": "2024-06-13T12:00:00Z",
-      "end_time": "2024-06-13T17:00:00Z",
-      "title": "Paper Mario: La Porte Millénaire",
-      "canceled_until": null,
-      "category": {
-        "id": "6855",
-        "name": "Paper Mario: The Thousand-Year Door"
-      },
-      "is_recurring": true
-    },
-    {
-      "id": "eyJzZWdtZW50SUQiOiIxMjJhNDBhMC01OTY4LTQxZTktODQ2Ny0wMzhhOGJkZWU4OWQiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjoyNH0=",
-      "start_time": "2024-06-14T09:00:00Z",
-      "end_time": "2024-06-14T11:00:00Z",
+      "end_time": "2024-06-12T11:00:00Z",
       "title": "Discussion & Chill",
       "canceled_until": null,
       "category": {
@@ -109,9 +61,9 @@
       "is_recurring": true
     },
     {
-      "id": "eyJzZWdtZW50SUQiOiIzZjI1MDEzYy05NmNlLTQwMDgtOTVkYS1lN2YyZDBlMWFjNTgiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjoyNH0=",
-      "start_time": "2024-06-14T11:00:00Z",
-      "end_time": "2024-06-14T16:00:00Z",
+      "id": "eyJzZWdtZW50SUQiOiJlODY0YzBmNy1jNGUzLTQxNjYtOTUyMC0zY2JmNjVhZjMwNjgiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjoyNH0=",
+      "start_time": "2024-06-12T11:00:00Z",
+      "end_time": "2024-06-12T16:00:00Z",
       "title": "Paper Mario La Porte Millénaire",
       "canceled_until": null,
       "category": {
@@ -121,22 +73,46 @@
       "is_recurring": true
     },
     {
-      "id": "eyJzZWdtZW50SUQiOiIwMDkwYTk4ZC0yNGZlLTQ4YTAtYjY2Ni0xODdhOGVkZThjYzciLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjoyNX0=",
-      "start_time": "2024-06-17T09:00:00Z",
-      "end_time": "2024-06-17T12:00:00Z",
-      "title": "Streamers4Palestinians - ITW Avec Helena Ranchal de Médecin du Monde et Discussion ",
+      "id": "eyJzZWdtZW50SUQiOiJkNDNjYzJiMy0zMTVkLTQyZTctODliYy02YTA1ODc0MmQ5MjYiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjoyNH0=",
+      "start_time": "2024-06-13T11:00:00Z",
+      "end_time": "2024-06-13T12:00:00Z",
+      "title": "Discussion & Chill avec Rivenzi",
       "canceled_until": null,
       "category": {
-        "id": "509658",
-        "name": "Just Chatting"
+        "id": "6855",
+        "name": "Paper Mario: The Thousand-Year Door"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiJiOTQ0MWMwNy0yODEzLTQ3ZTAtODY2Ni03YjQ4NzkxYmRlMTEiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjoyNH0=",
+      "start_time": "2024-06-13T12:00:00Z",
+      "end_time": "2024-06-13T17:00:00Z",
+      "title": "BG3 avec Rivenzi",
+      "canceled_until": null,
+      "category": {
+        "id": "512923",
+        "name": "Baldur's Gate 3"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiIxMjJhNDBhMC01OTY4LTQxZTktODQ2Ny0wMzhhOGJkZWU4OWQiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjoyNH0=",
+      "start_time": "2024-06-14T09:00:00Z",
+      "end_time": "2024-06-14T15:00:00Z",
+      "title": " BG3 avec Rivenzi",
+      "canceled_until": null,
+      "category": {
+        "id": "512923",
+        "name": "Baldur's Gate 3"
       },
       "is_recurring": true
     },
     {
       "id": "eyJzZWdtZW50SUQiOiJlOWI2ZTA4Zi03ODQ3LTRjMGEtYTkxZC1lMmY1YzgwZjIyYjYiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjoyNX0=",
-      "start_time": "2024-06-17T12:00:00Z",
-      "end_time": "2024-06-17T18:00:00Z",
-      "title": "Streamers4Palestinians - Culture et plaisir sur le Maître des Fleurs",
+      "start_time": "2024-06-17T09:00:00Z",
+      "end_time": "2024-06-17T15:00:00Z",
+      "title": "Culture et plaisir sur le Maître des Fleurs",
       "canceled_until": null,
       "category": {
         "id": "338715930",
@@ -145,22 +121,10 @@
       "is_recurring": true
     },
     {
-      "id": "eyJzZWdtZW50SUQiOiIyN2M4NzY1My1lODU1LTQ5YmQtOGIxNS0yYTExM2QwNDYwNmUiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjoyNX0=",
-      "start_time": "2024-06-17T18:00:00Z",
-      "end_time": "2024-06-17T22:00:00Z",
-      "title": "Streamers4Palestinians - Fall guys avec l'équipe S4P",
-      "canceled_until": null,
-      "category": {
-        "id": "512980",
-        "name": "Fall Guys"
-      },
-      "is_recurring": true
-    },
-    {
       "id": "eyJzZWdtZW50SUQiOiI2YTRiZGUzOS1jMDFiLTRmNWItOWJjNC05MzliMTliNDAxZGIiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjoyNX0=",
       "start_time": "2024-06-18T09:00:00Z",
       "end_time": "2024-06-18T12:00:00Z",
-      "title": "Streamers4Palestinians - Discussion & Chill",
+      "title": "Discussion & Chill",
       "canceled_until": null,
       "category": {
         "id": "509658",
@@ -172,42 +136,18 @@
       "id": "eyJzZWdtZW50SUQiOiI0NzRmZjgxMS1mZTU1LTQ2OTItODJhNy1kZDEwNzQzODljM2EiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjoyNX0=",
       "start_time": "2024-06-18T12:00:00Z",
       "end_time": "2024-06-18T16:00:00Z",
-      "title": "Streamers4Palestinians - Code names avec la team S4P",
+      "title": "Session musique, discussion & écoute avec Léo et JB ",
       "canceled_until": null,
       "category": {
-        "id": "508509",
-        "name": "Codenames"
+        "id": "26936",
+        "name": "Music"
       },
       "is_recurring": true
     },
     {
       "id": "eyJzZWdtZW50SUQiOiI4NWY1ZjJkYy01Njc5LTQ0NDctYmNjOC05ZmYwNzgwYWExMmMiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjoyNX0=",
       "start_time": "2024-06-19T09:00:00Z",
-      "end_time": "2024-06-19T15:00:00Z",
-      "title": "Streamers4Palestinians - Discussion & chill & game",
-      "canceled_until": null,
-      "category": {
-        "id": "509658",
-        "name": "Just Chatting"
-      },
-      "is_recurring": true
-    },
-    {
-      "id": "eyJzZWdtZW50SUQiOiJkNDNjYzJiMy0zMTVkLTQyZTctODliYy02YTA1ODc0MmQ5MjYiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjoyNX0=",
-      "start_time": "2024-06-20T12:00:00Z",
-      "end_time": "2024-06-20T17:00:00Z",
-      "title": "Paper Mario: La Porte Millénaire",
-      "canceled_until": null,
-      "category": {
-        "id": "6855",
-        "name": "Paper Mario: The Thousand-Year Door"
-      },
-      "is_recurring": true
-    },
-    {
-      "id": "eyJzZWdtZW50SUQiOiIxMjJhNDBhMC01OTY4LTQxZTktODQ2Ny0wMzhhOGJkZWU4OWQiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjoyNX0=",
-      "start_time": "2024-06-21T09:00:00Z",
-      "end_time": "2024-06-21T11:00:00Z",
+      "end_time": "2024-06-19T11:00:00Z",
       "title": "Discussion & Chill",
       "canceled_until": null,
       "category": {
@@ -217,9 +157,9 @@
       "is_recurring": true
     },
     {
-      "id": "eyJzZWdtZW50SUQiOiIzZjI1MDEzYy05NmNlLTQwMDgtOTVkYS1lN2YyZDBlMWFjNTgiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjoyNX0=",
-      "start_time": "2024-06-21T11:00:00Z",
-      "end_time": "2024-06-21T16:00:00Z",
+      "id": "eyJzZWdtZW50SUQiOiJlODY0YzBmNy1jNGUzLTQxNjYtOTUyMC0zY2JmNjVhZjMwNjgiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjoyNX0=",
+      "start_time": "2024-06-19T11:00:00Z",
+      "end_time": "2024-06-19T16:00:00Z",
       "title": "Paper Mario La Porte Millénaire",
       "canceled_until": null,
       "category": {
@@ -229,10 +169,58 @@
       "is_recurring": true
     },
     {
-      "id": "eyJzZWdtZW50SUQiOiIwMDkwYTk4ZC0yNGZlLTQ4YTAtYjY2Ni0xODdhOGVkZThjYzciLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjoyNn0=",
+      "id": "eyJzZWdtZW50SUQiOiJkNDNjYzJiMy0zMTVkLTQyZTctODliYy02YTA1ODc0MmQ5MjYiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjoyNX0=",
+      "start_time": "2024-06-20T11:00:00Z",
+      "end_time": "2024-06-20T12:00:00Z",
+      "title": "Discussion & Chill avec Rivenzi",
+      "canceled_until": null,
+      "category": {
+        "id": "6855",
+        "name": "Paper Mario: The Thousand-Year Door"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiJiOTQ0MWMwNy0yODEzLTQ3ZTAtODY2Ni03YjQ4NzkxYmRlMTEiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjoyNX0=",
+      "start_time": "2024-06-20T12:00:00Z",
+      "end_time": "2024-06-20T17:00:00Z",
+      "title": "BG3 avec Rivenzi",
+      "canceled_until": null,
+      "category": {
+        "id": "512923",
+        "name": "Baldur's Gate 3"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiIxMjJhNDBhMC01OTY4LTQxZTktODQ2Ny0wMzhhOGJkZWU4OWQiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjoyNX0=",
+      "start_time": "2024-06-21T09:00:00Z",
+      "end_time": "2024-06-21T15:00:00Z",
+      "title": " BG3 avec Rivenzi",
+      "canceled_until": null,
+      "category": {
+        "id": "512923",
+        "name": "Baldur's Gate 3"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiJlOWI2ZTA4Zi03ODQ3LTRjMGEtYTkxZC1lMmY1YzgwZjIyYjYiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjoyNn0=",
       "start_time": "2024-06-24T09:00:00Z",
-      "end_time": "2024-06-24T12:00:00Z",
-      "title": "Streamers4Palestinians - ITW Avec Helena Ranchal de Médecin du Monde et Discussion ",
+      "end_time": "2024-06-24T15:00:00Z",
+      "title": "Culture et plaisir sur le Maître des Fleurs",
+      "canceled_until": null,
+      "category": {
+        "id": "338715930",
+        "name": "Maitre des Fleurs"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiI2YTRiZGUzOS1jMDFiLTRmNWItOWJjNC05MzliMTliNDAxZGIiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjoyNn0=",
+      "start_time": "2024-06-25T09:00:00Z",
+      "end_time": "2024-06-25T12:00:00Z",
+      "title": "Discussion & Chill",
       "canceled_until": null,
       "category": {
         "id": "509658",
@@ -241,14 +229,26 @@
       "is_recurring": true
     },
     {
-      "id": "eyJzZWdtZW50SUQiOiJlOWI2ZTA4Zi03ODQ3LTRjMGEtYTkxZC1lMmY1YzgwZjIyYjYiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjoyNn0=",
-      "start_time": "2024-06-24T12:00:00Z",
-      "end_time": "2024-06-24T18:00:00Z",
-      "title": "Streamers4Palestinians - Culture et plaisir sur le Maître des Fleurs",
+      "id": "eyJzZWdtZW50SUQiOiI0NzRmZjgxMS1mZTU1LTQ2OTItODJhNy1kZDEwNzQzODljM2EiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjoyNn0=",
+      "start_time": "2024-06-25T12:00:00Z",
+      "end_time": "2024-06-25T16:00:00Z",
+      "title": "Session musique, discussion & écoute avec Léo et JB ",
       "canceled_until": null,
       "category": {
-        "id": "338715930",
-        "name": "Maitre des Fleurs"
+        "id": "26936",
+        "name": "Music"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiI4NWY1ZjJkYy01Njc5LTQ0NDctYmNjOC05ZmYwNzgwYWExMmMiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjoyNn0=",
+      "start_time": "2024-06-26T09:00:00Z",
+      "end_time": "2024-06-26T11:00:00Z",
+      "title": "Discussion & Chill",
+      "canceled_until": null,
+      "category": {
+        "id": "509658",
+        "name": "Just Chatting"
       },
       "is_recurring": true
     }
