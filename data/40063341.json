@@ -7,28 +7,16 @@
     "broadcaster_type": "partner",
     "description": "",
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/3cdae7df-600c-4833-8dfe-8d2abc5a3b25-profile_image-300x300.png",
-    "offline_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/d06692db-f1c0-4549-8c29-a2a013a51814-channel_offline_image-1920x1080.png",
+    "offline_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/823890b7-56b3-4352-8f9b-3460e33136b6-channel_offline_image-1920x1080.png",
     "view_count": 0,
     "created_at": "2013-02-05T19:20:22Z"
   },
   "schedulers": [
     {
-      "id": "eyJzZWdtZW50SUQiOiJkMjc5YTZhMi1mNjhlLTQ0NTktOGZlNS0yNWU3NmZiNWVmNzEiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjoyNH0=",
-      "start_time": "2024-06-10T17:30:00Z",
-      "end_time": "2024-06-10T18:30:00Z",
-      "title": "🎙 PRÉ LIVE",
-      "canceled_until": null,
-      "category": {
-        "id": "509658",
-        "name": "Just Chatting"
-      },
-      "is_recurring": true
-    },
-    {
       "id": "eyJzZWdtZW50SUQiOiJhMTI2NDdjMi00NzBlLTQyYWEtOTE1OC1kMTE0N2I0NWYxYTgiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjoyNH0=",
       "start_time": "2024-06-11T18:00:00Z",
       "end_time": "2024-06-11T20:30:00Z",
-      "title": "🍿 POPCORN AVEC MAGHLA, THOMAS DESEUR, JIJI & NICO MATHIEUX",
+      "title": "🍿 POPCORN AVEC BILLY, KAMETO, ETOILES & PP GARCIA",
       "canceled_until": null,
       "category": {
         "id": "417752",
@@ -37,9 +25,69 @@
       "is_recurring": true
     },
     {
+      "id": "eyJzZWdtZW50SUQiOiIyZjk4OWZhNS0wZDJiLTQ2ZWQtODQ3Yy03YzI3NGRmODI4M2QiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjoyNH0=",
+      "start_time": "2024-06-13T10:30:00Z",
+      "end_time": "2024-06-13T13:00:00Z",
+      "title": "📺 REACT - THE APPRENTICE ",
+      "canceled_until": null,
+      "category": {
+        "id": "509658",
+        "name": "Just Chatting"
+      },
+      "is_recurring": false
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiJjYmI5ZDgzMi0zZmNjLTQ1ZDYtOWFmNi1jMDdhNDI0MGEyNjMiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjoyNH0=",
+      "start_time": "2024-06-13T17:30:00Z",
+      "end_time": "2024-06-13T18:30:00Z",
+      "title": "🎙 PRÉ LIVE",
+      "canceled_until": null,
+      "category": {
+        "id": "509658",
+        "name": "Just Chatting"
+      },
+      "is_recurring": false
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiJmOGFiYzRkMC0zZTg5LTRlYjUtYjI5Yy1mNmYzMTIzZjFlMTYiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjoyNH0=",
+      "start_time": "2024-06-13T18:30:00Z",
+      "end_time": "2024-06-13T20:30:00Z",
+      "title": "⚔️ FINALE DE SQUAD BUSTERS AVEC JIJI",
+      "canceled_until": null,
+      "category": {
+        "id": "788447527",
+        "name": "Squad Busters"
+      },
+      "is_recurring": false
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiJkZTYzOTdkYy03OTRiLTRmN2ItYWJhNC03ZTZkZWE1YzgwYWUiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjoyNH0=",
+      "start_time": "2024-06-14T12:00:00Z",
+      "end_time": "2024-06-14T13:00:00Z",
+      "title": "🎙 PRÉ LIVE",
+      "canceled_until": null,
+      "category": {
+        "id": "509658",
+        "name": "Just Chatting"
+      },
+      "is_recurring": false
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiIyNzBmMmM2NC02MzEwLTQ4OTctODYwMy1jY2M5OWY4MzVmMTciLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjoyNH0=",
+      "start_time": "2024-06-14T13:00:00Z",
+      "end_time": "2024-06-14T16:00:00Z",
+      "title": "🚜 FARMING SIMULATOR AVEC STERVIO",
+      "canceled_until": null,
+      "category": {
+        "id": "1241582824",
+        "name": "Farming Simulator 22"
+      },
+      "is_recurring": false
+    },
+    {
       "id": "eyJzZWdtZW50SUQiOiJkMjc5YTZhMi1mNjhlLTQ0NTktOGZlNS0yNWU3NmZiNWVmNzEiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjoyNX0=",
       "start_time": "2024-06-17T17:30:00Z",
-      "end_time": "2024-06-17T18:30:00Z",
+      "end_time": "2024-06-17T19:00:00Z",
       "title": "🎙 PRÉ LIVE",
       "canceled_until": null,
       "category": {
@@ -52,7 +100,7 @@
       "id": "eyJzZWdtZW50SUQiOiJhMTI2NDdjMi00NzBlLTQyYWEtOTE1OC1kMTE0N2I0NWYxYTgiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjoyNX0=",
       "start_time": "2024-06-18T18:00:00Z",
       "end_time": "2024-06-18T20:30:00Z",
-      "title": "🍿 POPCORN AVEC MAGHLA, THOMAS DESEUR, JIJI & NICO MATHIEUX",
+      "title": "🍿 POPCORN AVEC BILLY, KAMETO, ETOILES & PP GARCIA",
       "canceled_until": null,
       "category": {
         "id": "417752",
@@ -63,7 +111,7 @@
     {
       "id": "eyJzZWdtZW50SUQiOiJkMjc5YTZhMi1mNjhlLTQ0NTktOGZlNS0yNWU3NmZiNWVmNzEiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjoyNn0=",
       "start_time": "2024-06-24T17:30:00Z",
-      "end_time": "2024-06-24T18:30:00Z",
+      "end_time": "2024-06-24T19:00:00Z",
       "title": "🎙 PRÉ LIVE",
       "canceled_until": null,
       "category": {
@@ -76,7 +124,7 @@
       "id": "eyJzZWdtZW50SUQiOiJhMTI2NDdjMi00NzBlLTQyYWEtOTE1OC1kMTE0N2I0NWYxYTgiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjoyNn0=",
       "start_time": "2024-06-25T18:00:00Z",
       "end_time": "2024-06-25T20:30:00Z",
-      "title": "🍿 POPCORN AVEC MAGHLA, THOMAS DESEUR, JIJI & NICO MATHIEUX",
+      "title": "🍿 POPCORN AVEC BILLY, KAMETO, ETOILES & PP GARCIA",
       "canceled_until": null,
       "category": {
         "id": "417752",
@@ -87,7 +135,7 @@
     {
       "id": "eyJzZWdtZW50SUQiOiJkMjc5YTZhMi1mNjhlLTQ0NTktOGZlNS0yNWU3NmZiNWVmNzEiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjoyN30=",
       "start_time": "2024-07-01T17:30:00Z",
-      "end_time": "2024-07-01T18:30:00Z",
+      "end_time": "2024-07-01T19:00:00Z",
       "title": "🎙 PRÉ LIVE",
       "canceled_until": null,
       "category": {
@@ -100,7 +148,7 @@
       "id": "eyJzZWdtZW50SUQiOiJhMTI2NDdjMi00NzBlLTQyYWEtOTE1OC1kMTE0N2I0NWYxYTgiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjoyN30=",
       "start_time": "2024-07-02T18:00:00Z",
       "end_time": "2024-07-02T20:30:00Z",
-      "title": "🍿 POPCORN AVEC MAGHLA, THOMAS DESEUR, JIJI & NICO MATHIEUX",
+      "title": "🍿 POPCORN AVEC BILLY, KAMETO, ETOILES & PP GARCIA",
       "canceled_until": null,
       "category": {
         "id": "417752",
@@ -111,7 +159,7 @@
     {
       "id": "eyJzZWdtZW50SUQiOiJkMjc5YTZhMi1mNjhlLTQ0NTktOGZlNS0yNWU3NmZiNWVmNzEiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjoyOH0=",
       "start_time": "2024-07-08T17:30:00Z",
-      "end_time": "2024-07-08T18:30:00Z",
+      "end_time": "2024-07-08T19:00:00Z",
       "title": "🎙 PRÉ LIVE",
       "canceled_until": null,
       "category": {
@@ -124,7 +172,7 @@
       "id": "eyJzZWdtZW50SUQiOiJhMTI2NDdjMi00NzBlLTQyYWEtOTE1OC1kMTE0N2I0NWYxYTgiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjoyOH0=",
       "start_time": "2024-07-09T18:00:00Z",
       "end_time": "2024-07-09T20:30:00Z",
-      "title": "🍿 POPCORN AVEC MAGHLA, THOMAS DESEUR, JIJI & NICO MATHIEUX",
+      "title": "🍿 POPCORN AVEC BILLY, KAMETO, ETOILES & PP GARCIA",
       "canceled_until": null,
       "category": {
         "id": "417752",
@@ -135,7 +183,7 @@
     {
       "id": "eyJzZWdtZW50SUQiOiJkMjc5YTZhMi1mNjhlLTQ0NTktOGZlNS0yNWU3NmZiNWVmNzEiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjoyOX0=",
       "start_time": "2024-07-15T17:30:00Z",
-      "end_time": "2024-07-15T18:30:00Z",
+      "end_time": "2024-07-15T19:00:00Z",
       "title": "🎙 PRÉ LIVE",
       "canceled_until": null,
       "category": {
@@ -148,7 +196,7 @@
       "id": "eyJzZWdtZW50SUQiOiJhMTI2NDdjMi00NzBlLTQyYWEtOTE1OC1kMTE0N2I0NWYxYTgiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjoyOX0=",
       "start_time": "2024-07-16T18:00:00Z",
       "end_time": "2024-07-16T20:30:00Z",
-      "title": "🍿 POPCORN AVEC MAGHLA, THOMAS DESEUR, JIJI & NICO MATHIEUX",
+      "title": "🍿 POPCORN AVEC BILLY, KAMETO, ETOILES & PP GARCIA",
       "canceled_until": null,
       "category": {
         "id": "417752",
@@ -159,7 +207,7 @@
     {
       "id": "eyJzZWdtZW50SUQiOiJkMjc5YTZhMi1mNjhlLTQ0NTktOGZlNS0yNWU3NmZiNWVmNzEiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjozMH0=",
       "start_time": "2024-07-22T17:30:00Z",
-      "end_time": "2024-07-22T18:30:00Z",
+      "end_time": "2024-07-22T19:00:00Z",
       "title": "🎙 PRÉ LIVE",
       "canceled_until": null,
       "category": {
@@ -172,7 +220,7 @@
       "id": "eyJzZWdtZW50SUQiOiJhMTI2NDdjMi00NzBlLTQyYWEtOTE1OC1kMTE0N2I0NWYxYTgiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjozMH0=",
       "start_time": "2024-07-23T18:00:00Z",
       "end_time": "2024-07-23T20:30:00Z",
-      "title": "🍿 POPCORN AVEC MAGHLA, THOMAS DESEUR, JIJI & NICO MATHIEUX",
+      "title": "🍿 POPCORN AVEC BILLY, KAMETO, ETOILES & PP GARCIA",
       "canceled_until": null,
       "category": {
         "id": "417752",
@@ -183,7 +231,7 @@
     {
       "id": "eyJzZWdtZW50SUQiOiJkMjc5YTZhMi1mNjhlLTQ0NTktOGZlNS0yNWU3NmZiNWVmNzEiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjozMX0=",
       "start_time": "2024-07-29T17:30:00Z",
-      "end_time": "2024-07-29T18:30:00Z",
+      "end_time": "2024-07-29T19:00:00Z",
       "title": "🎙 PRÉ LIVE",
       "canceled_until": null,
       "category": {
@@ -196,55 +244,7 @@
       "id": "eyJzZWdtZW50SUQiOiJhMTI2NDdjMi00NzBlLTQyYWEtOTE1OC1kMTE0N2I0NWYxYTgiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjozMX0=",
       "start_time": "2024-07-30T18:00:00Z",
       "end_time": "2024-07-30T20:30:00Z",
-      "title": "🍿 POPCORN AVEC MAGHLA, THOMAS DESEUR, JIJI & NICO MATHIEUX",
-      "canceled_until": null,
-      "category": {
-        "id": "417752",
-        "name": "Talk Shows & Podcasts"
-      },
-      "is_recurring": true
-    },
-    {
-      "id": "eyJzZWdtZW50SUQiOiJkMjc5YTZhMi1mNjhlLTQ0NTktOGZlNS0yNWU3NmZiNWVmNzEiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjozMn0=",
-      "start_time": "2024-08-05T17:30:00Z",
-      "end_time": "2024-08-05T18:30:00Z",
-      "title": "🎙 PRÉ LIVE",
-      "canceled_until": null,
-      "category": {
-        "id": "509658",
-        "name": "Just Chatting"
-      },
-      "is_recurring": true
-    },
-    {
-      "id": "eyJzZWdtZW50SUQiOiJhMTI2NDdjMi00NzBlLTQyYWEtOTE1OC1kMTE0N2I0NWYxYTgiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjozMn0=",
-      "start_time": "2024-08-06T18:00:00Z",
-      "end_time": "2024-08-06T20:30:00Z",
-      "title": "🍿 POPCORN AVEC MAGHLA, THOMAS DESEUR, JIJI & NICO MATHIEUX",
-      "canceled_until": null,
-      "category": {
-        "id": "417752",
-        "name": "Talk Shows & Podcasts"
-      },
-      "is_recurring": true
-    },
-    {
-      "id": "eyJzZWdtZW50SUQiOiJkMjc5YTZhMi1mNjhlLTQ0NTktOGZlNS0yNWU3NmZiNWVmNzEiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjozM30=",
-      "start_time": "2024-08-12T17:30:00Z",
-      "end_time": "2024-08-12T18:30:00Z",
-      "title": "🎙 PRÉ LIVE",
-      "canceled_until": null,
-      "category": {
-        "id": "509658",
-        "name": "Just Chatting"
-      },
-      "is_recurring": true
-    },
-    {
-      "id": "eyJzZWdtZW50SUQiOiJhMTI2NDdjMi00NzBlLTQyYWEtOTE1OC1kMTE0N2I0NWYxYTgiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjozM30=",
-      "start_time": "2024-08-13T18:00:00Z",
-      "end_time": "2024-08-13T20:30:00Z",
-      "title": "🍿 POPCORN AVEC MAGHLA, THOMAS DESEUR, JIJI & NICO MATHIEUX",
+      "title": "🍿 POPCORN AVEC BILLY, KAMETO, ETOILES & PP GARCIA",
       "canceled_until": null,
       "category": {
         "id": "417752",
