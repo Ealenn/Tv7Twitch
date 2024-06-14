@@ -13,42 +13,6 @@
   },
   "schedulers": [
     {
-      "id": "eyJzZWdtZW50SUQiOiIyZjk4OWZhNS0wZDJiLTQ2ZWQtODQ3Yy03YzI3NGRmODI4M2QiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjoyNH0=",
-      "start_time": "2024-06-13T10:30:00Z",
-      "end_time": "2024-06-13T13:00:00Z",
-      "title": "📺 REACT - THE APPRENTICE ",
-      "canceled_until": null,
-      "category": {
-        "id": "509658",
-        "name": "Just Chatting"
-      },
-      "is_recurring": false
-    },
-    {
-      "id": "eyJzZWdtZW50SUQiOiJjYmI5ZDgzMi0zZmNjLTQ1ZDYtOWFmNi1jMDdhNDI0MGEyNjMiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjoyNH0=",
-      "start_time": "2024-06-13T17:30:00Z",
-      "end_time": "2024-06-13T18:30:00Z",
-      "title": "🎙 PRÉ LIVE",
-      "canceled_until": null,
-      "category": {
-        "id": "509658",
-        "name": "Just Chatting"
-      },
-      "is_recurring": false
-    },
-    {
-      "id": "eyJzZWdtZW50SUQiOiJmOGFiYzRkMC0zZTg5LTRlYjUtYjI5Yy1mNmYzMTIzZjFlMTYiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjoyNH0=",
-      "start_time": "2024-06-13T18:30:00Z",
-      "end_time": "2024-06-13T20:30:00Z",
-      "title": "⚔️ FINALE DE SQUAD BUSTERS AVEC JIJI",
-      "canceled_until": null,
-      "category": {
-        "id": "788447527",
-        "name": "Squad Busters"
-      },
-      "is_recurring": false
-    },
-    {
       "id": "eyJzZWdtZW50SUQiOiJkZTYzOTdkYy03OTRiLTRmN2ItYWJhNC03ZTZkZWE1YzgwYWUiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjoyNH0=",
       "start_time": "2024-06-14T12:00:00Z",
       "end_time": "2024-06-14T13:00:00Z",
@@ -249,6 +213,42 @@
       "category": {
         "id": "509658",
         "name": "Just Chatting"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiJhMTI2NDdjMi00NzBlLTQyYWEtOTE1OC1kMTE0N2I0NWYxYTgiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjozMn0=",
+      "start_time": "2024-08-06T18:00:00Z",
+      "end_time": "2024-08-06T20:30:00Z",
+      "title": "🍿 POPCORN AVEC BILLY, KAMETO, ETOILES & PP GARCIA",
+      "canceled_until": null,
+      "category": {
+        "id": "417752",
+        "name": "Talk Shows & Podcasts"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiJkMjc5YTZhMi1mNjhlLTQ0NTktOGZlNS0yNWU3NmZiNWVmNzEiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjozM30=",
+      "start_time": "2024-08-12T17:30:00Z",
+      "end_time": "2024-08-12T19:00:00Z",
+      "title": "🎙 PRÉ LIVE",
+      "canceled_until": null,
+      "category": {
+        "id": "509658",
+        "name": "Just Chatting"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiJhMTI2NDdjMi00NzBlLTQyYWEtOTE1OC1kMTE0N2I0NWYxYTgiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjozM30=",
+      "start_time": "2024-08-13T18:00:00Z",
+      "end_time": "2024-08-13T20:30:00Z",
+      "title": "🍿 POPCORN AVEC BILLY, KAMETO, ETOILES & PP GARCIA",
+      "canceled_until": null,
+      "category": {
+        "id": "417752",
+        "name": "Talk Shows & Podcasts"
       },
       "is_recurring": true
     }
