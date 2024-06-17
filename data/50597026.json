@@ -28,11 +28,11 @@
       "id": "eyJzZWdtZW50SUQiOiI2YTRiZGUzOS1jMDFiLTRmNWItOWJjNC05MzliMTliNDAxZGIiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjoyNX0=",
       "start_time": "2024-06-18T09:00:00Z",
       "end_time": "2024-06-18T12:00:00Z",
-      "title": "Discussion & Chill",
+      "title": "Lycans avec les potes",
       "canceled_until": null,
       "category": {
-        "id": "509658",
-        "name": "Just Chatting"
+        "id": "1494074023",
+        "name": "Lycans"
       },
       "is_recurring": true
     },
@@ -40,18 +40,18 @@
       "id": "eyJzZWdtZW50SUQiOiI0NzRmZjgxMS1mZTU1LTQ2OTItODJhNy1kZDEwNzQzODljM2EiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjoyNX0=",
       "start_time": "2024-06-18T12:00:00Z",
       "end_time": "2024-06-18T16:00:00Z",
-      "title": "Session musique, discussion & écoute avec Léo et JB ",
+      "title": "On continue Paper Mario !",
       "canceled_until": null,
       "category": {
-        "id": "26936",
-        "name": "Music"
+        "id": "2029972667",
+        "name": "Paper Mario: The Thousand-Year Door"
       },
       "is_recurring": true
     },
     {
       "id": "eyJzZWdtZW50SUQiOiI4NWY1ZjJkYy01Njc5LTQ0NDctYmNjOC05ZmYwNzgwYWExMmMiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjoyNX0=",
-      "start_time": "2024-06-19T09:00:00Z",
-      "end_time": "2024-06-19T11:00:00Z",
+      "start_time": "2024-06-19T12:00:00Z",
+      "end_time": "2024-06-19T14:00:00Z",
       "title": "Discussion & Chill",
       "canceled_until": null,
       "category": {
@@ -62,7 +62,7 @@
     },
     {
       "id": "eyJzZWdtZW50SUQiOiJlODY0YzBmNy1jNGUzLTQxNjYtOTUyMC0zY2JmNjVhZjMwNjgiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjoyNX0=",
-      "start_time": "2024-06-19T11:00:00Z",
+      "start_time": "2024-06-19T14:00:00Z",
       "end_time": "2024-06-19T16:00:00Z",
       "title": "Paper Mario La Porte Millénaire",
       "canceled_until": null,
@@ -73,20 +73,20 @@
       "is_recurring": true
     },
     {
-      "id": "eyJzZWdtZW50SUQiOiJkNDNjYzJiMy0zMTVkLTQyZTctODliYy02YTA1ODc0MmQ5MjYiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjoyNX0=",
-      "start_time": "2024-06-20T11:00:00Z",
-      "end_time": "2024-06-20T12:00:00Z",
-      "title": "Discussion & Chill avec Rivenzi",
+      "id": "eyJzZWdtZW50SUQiOiIzMjgwYzIzNS00OWYyLTRkNDctYjBiYS0yZDQ0ZTA2MzI1YzYiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjoyNX0=",
+      "start_time": "2024-06-19T18:00:00Z",
+      "end_time": "2024-06-19T21:00:00Z",
+      "title": "On fait l'event de Wingo sur Trackmania",
       "canceled_until": null,
       "category": {
-        "id": "6855",
-        "name": "Paper Mario: The Thousand-Year Door"
+        "id": "687129551",
+        "name": "Trackmania"
       },
       "is_recurring": true
     },
     {
       "id": "eyJzZWdtZW50SUQiOiJiOTQ0MWMwNy0yODEzLTQ3ZTAtODY2Ni03YjQ4NzkxYmRlMTEiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjoyNX0=",
-      "start_time": "2024-06-20T12:00:00Z",
+      "start_time": "2024-06-20T11:00:00Z",
       "end_time": "2024-06-20T17:00:00Z",
       "title": "BG3 avec Rivenzi",
       "canceled_until": null,
@@ -100,11 +100,11 @@
       "id": "eyJzZWdtZW50SUQiOiIxMjJhNDBhMC01OTY4LTQxZTktODQ2Ny0wMzhhOGJkZWU4OWQiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjoyNX0=",
       "start_time": "2024-06-21T09:00:00Z",
       "end_time": "2024-06-21T15:00:00Z",
-      "title": " BG3 avec Rivenzi",
+      "title": "On reprends le let's play Elden Ring pour le DLC",
       "canceled_until": null,
       "category": {
-        "id": "512923",
-        "name": "Baldur's Gate 3"
+        "id": "512953",
+        "name": "ELDEN RING"
       },
       "is_recurring": true
     },
@@ -124,11 +124,11 @@
       "id": "eyJzZWdtZW50SUQiOiI2YTRiZGUzOS1jMDFiLTRmNWItOWJjNC05MzliMTliNDAxZGIiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjoyNn0=",
       "start_time": "2024-06-25T09:00:00Z",
       "end_time": "2024-06-25T12:00:00Z",
-      "title": "Discussion & Chill",
+      "title": "Lycans avec les potes",
       "canceled_until": null,
       "category": {
-        "id": "509658",
-        "name": "Just Chatting"
+        "id": "1494074023",
+        "name": "Lycans"
       },
       "is_recurring": true
     },
@@ -136,18 +136,18 @@
       "id": "eyJzZWdtZW50SUQiOiI0NzRmZjgxMS1mZTU1LTQ2OTItODJhNy1kZDEwNzQzODljM2EiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjoyNn0=",
       "start_time": "2024-06-25T12:00:00Z",
       "end_time": "2024-06-25T16:00:00Z",
-      "title": "Session musique, discussion & écoute avec Léo et JB ",
+      "title": "On continue Paper Mario !",
       "canceled_until": null,
       "category": {
-        "id": "26936",
-        "name": "Music"
+        "id": "2029972667",
+        "name": "Paper Mario: The Thousand-Year Door"
       },
       "is_recurring": true
     },
     {
       "id": "eyJzZWdtZW50SUQiOiI4NWY1ZjJkYy01Njc5LTQ0NDctYmNjOC05ZmYwNzgwYWExMmMiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjoyNn0=",
-      "start_time": "2024-06-26T09:00:00Z",
-      "end_time": "2024-06-26T11:00:00Z",
+      "start_time": "2024-06-26T12:00:00Z",
+      "end_time": "2024-06-26T14:00:00Z",
       "title": "Discussion & Chill",
       "canceled_until": null,
       "category": {
@@ -158,7 +158,7 @@
     },
     {
       "id": "eyJzZWdtZW50SUQiOiJlODY0YzBmNy1jNGUzLTQxNjYtOTUyMC0zY2JmNjVhZjMwNjgiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjoyNn0=",
-      "start_time": "2024-06-26T11:00:00Z",
+      "start_time": "2024-06-26T14:00:00Z",
       "end_time": "2024-06-26T16:00:00Z",
       "title": "Paper Mario La Porte Millénaire",
       "canceled_until": null,
@@ -169,20 +169,20 @@
       "is_recurring": true
     },
     {
-      "id": "eyJzZWdtZW50SUQiOiJkNDNjYzJiMy0zMTVkLTQyZTctODliYy02YTA1ODc0MmQ5MjYiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjoyNn0=",
-      "start_time": "2024-06-27T11:00:00Z",
-      "end_time": "2024-06-27T12:00:00Z",
-      "title": "Discussion & Chill avec Rivenzi",
+      "id": "eyJzZWdtZW50SUQiOiIzMjgwYzIzNS00OWYyLTRkNDctYjBiYS0yZDQ0ZTA2MzI1YzYiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjoyNn0=",
+      "start_time": "2024-06-26T18:00:00Z",
+      "end_time": "2024-06-26T21:00:00Z",
+      "title": "On fait l'event de Wingo sur Trackmania",
       "canceled_until": null,
       "category": {
-        "id": "6855",
-        "name": "Paper Mario: The Thousand-Year Door"
+        "id": "687129551",
+        "name": "Trackmania"
       },
       "is_recurring": true
     },
     {
       "id": "eyJzZWdtZW50SUQiOiJiOTQ0MWMwNy0yODEzLTQ3ZTAtODY2Ni03YjQ4NzkxYmRlMTEiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjoyNn0=",
-      "start_time": "2024-06-27T12:00:00Z",
+      "start_time": "2024-06-27T11:00:00Z",
       "end_time": "2024-06-27T17:00:00Z",
       "title": "BG3 avec Rivenzi",
       "canceled_until": null,
@@ -196,11 +196,11 @@
       "id": "eyJzZWdtZW50SUQiOiIxMjJhNDBhMC01OTY4LTQxZTktODQ2Ny0wMzhhOGJkZWU4OWQiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjoyNn0=",
       "start_time": "2024-06-28T09:00:00Z",
       "end_time": "2024-06-28T15:00:00Z",
-      "title": " BG3 avec Rivenzi",
+      "title": "On reprends le let's play Elden Ring pour le DLC",
       "canceled_until": null,
       "category": {
-        "id": "512923",
-        "name": "Baldur's Gate 3"
+        "id": "512953",
+        "name": "ELDEN RING"
       },
       "is_recurring": true
     },
@@ -220,11 +220,11 @@
       "id": "eyJzZWdtZW50SUQiOiI2YTRiZGUzOS1jMDFiLTRmNWItOWJjNC05MzliMTliNDAxZGIiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjoyN30=",
       "start_time": "2024-07-02T09:00:00Z",
       "end_time": "2024-07-02T12:00:00Z",
-      "title": "Discussion & Chill",
+      "title": "Lycans avec les potes",
       "canceled_until": null,
       "category": {
-        "id": "509658",
-        "name": "Just Chatting"
+        "id": "1494074023",
+        "name": "Lycans"
       },
       "is_recurring": true
     },
@@ -232,18 +232,18 @@
       "id": "eyJzZWdtZW50SUQiOiI0NzRmZjgxMS1mZTU1LTQ2OTItODJhNy1kZDEwNzQzODljM2EiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjoyN30=",
       "start_time": "2024-07-02T12:00:00Z",
       "end_time": "2024-07-02T16:00:00Z",
-      "title": "Session musique, discussion & écoute avec Léo et JB ",
+      "title": "On continue Paper Mario !",
       "canceled_until": null,
       "category": {
-        "id": "26936",
-        "name": "Music"
+        "id": "2029972667",
+        "name": "Paper Mario: The Thousand-Year Door"
       },
       "is_recurring": true
     },
     {
       "id": "eyJzZWdtZW50SUQiOiI4NWY1ZjJkYy01Njc5LTQ0NDctYmNjOC05ZmYwNzgwYWExMmMiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjoyN30=",
-      "start_time": "2024-07-03T09:00:00Z",
-      "end_time": "2024-07-03T11:00:00Z",
+      "start_time": "2024-07-03T12:00:00Z",
+      "end_time": "2024-07-03T14:00:00Z",
       "title": "Discussion & Chill",
       "canceled_until": null,
       "category": {
