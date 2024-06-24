@@ -15,7 +15,7 @@
     {
       "id": "eyJzZWdtZW50SUQiOiJlOWI2ZTA4Zi03ODQ3LTRjMGEtYTkxZC1lMmY1YzgwZjIyYjYiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjoyNn0=",
       "start_time": "2024-06-24T09:00:00Z",
-      "end_time": "2024-06-24T15:00:00Z",
+      "end_time": "2024-06-24T16:00:00Z",
       "title": "Culture et plaisir sur le Maître des Fleurs",
       "canceled_until": null,
       "category": {
@@ -28,11 +28,11 @@
       "id": "eyJzZWdtZW50SUQiOiI2YTRiZGUzOS1jMDFiLTRmNWItOWJjNC05MzliMTliNDAxZGIiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjoyNn0=",
       "start_time": "2024-06-25T09:00:00Z",
       "end_time": "2024-06-25T12:00:00Z",
-      "title": "Lycans avec les potes",
+      "title": "Codenames avé les potes",
       "canceled_until": null,
       "category": {
-        "id": "1494074023",
-        "name": "Lycans"
+        "id": "508509",
+        "name": "Codenames"
       },
       "is_recurring": true
     },
@@ -49,58 +49,34 @@
       "is_recurring": true
     },
     {
-      "id": "eyJzZWdtZW50SUQiOiI4NWY1ZjJkYy01Njc5LTQ0NDctYmNjOC05ZmYwNzgwYWExMmMiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjoyNn0=",
-      "start_time": "2024-06-26T12:00:00Z",
-      "end_time": "2024-06-26T14:00:00Z",
-      "title": "Discussion & Chill",
-      "canceled_until": null,
-      "category": {
-        "id": "509658",
-        "name": "Just Chatting"
-      },
-      "is_recurring": true
-    },
-    {
       "id": "eyJzZWdtZW50SUQiOiJlODY0YzBmNy1jNGUzLTQxNjYtOTUyMC0zY2JmNjVhZjMwNjgiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjoyNn0=",
-      "start_time": "2024-06-26T14:00:00Z",
+      "start_time": "2024-06-26T12:00:00Z",
       "end_time": "2024-06-26T16:00:00Z",
-      "title": "Paper Mario La Porte Millénaire",
+      "title": "Suite de l'aventure Elden Ring",
       "canceled_until": null,
       "category": {
-        "id": "2029972667",
-        "name": "Paper Mario: The Thousand-Year Door"
+        "id": "512953",
+        "name": "ELDEN RING"
       },
       "is_recurring": true
     },
     {
-      "id": "eyJzZWdtZW50SUQiOiIzMjgwYzIzNS00OWYyLTRkNDctYjBiYS0yZDQ0ZTA2MzI1YzYiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjoyNn0=",
-      "start_time": "2024-06-26T18:00:00Z",
-      "end_time": "2024-06-26T21:00:00Z",
-      "title": "On fait l'event de Wingo sur Trackmania",
+      "id": "eyJzZWdtZW50SUQiOiJlODhhNmUxYy1iOWM1LTQ1NDktYjg0ZC1hNzQ2ODYxYzk3MTgiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjoyNn0=",
+      "start_time": "2024-06-27T09:00:00Z",
+      "end_time": "2024-06-27T12:00:00Z",
+      "title": "Chained Together avec Wingo, Anae et Onu",
       "canceled_until": null,
       "category": {
-        "id": "687129551",
-        "name": "Trackmania"
+        "id": "14842174",
+        "name": "Chained Together"
       },
       "is_recurring": true
     },
     {
-      "id": "eyJzZWdtZW50SUQiOiJiOTQ0MWMwNy0yODEzLTQ3ZTAtODY2Ni03YjQ4NzkxYmRlMTEiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjoyNn0=",
-      "start_time": "2024-06-27T11:00:00Z",
-      "end_time": "2024-06-27T17:00:00Z",
-      "title": "BG3 avec Rivenzi",
-      "canceled_until": null,
-      "category": {
-        "id": "512923",
-        "name": "Baldur's Gate 3"
-      },
-      "is_recurring": true
-    },
-    {
-      "id": "eyJzZWdtZW50SUQiOiIxMjJhNDBhMC01OTY4LTQxZTktODQ2Ny0wMzhhOGJkZWU4OWQiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjoyNn0=",
-      "start_time": "2024-06-28T09:00:00Z",
-      "end_time": "2024-06-28T15:00:00Z",
-      "title": "On reprends le let's play Elden Ring pour le DLC",
+      "id": "eyJzZWdtZW50SUQiOiI3Y2IxMmM0MC1iZjgzLTQ4OWEtODkxZS0wM2QxMzdiNTI0MmUiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjoyNn0=",
+      "start_time": "2024-06-27T12:00:00Z",
+      "end_time": "2024-06-27T16:00:00Z",
+      "title": "Suite de l'aventure Elden Ring",
       "canceled_until": null,
       "category": {
         "id": "512953",
@@ -111,7 +87,7 @@
     {
       "id": "eyJzZWdtZW50SUQiOiJlOWI2ZTA4Zi03ODQ3LTRjMGEtYTkxZC1lMmY1YzgwZjIyYjYiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjoyN30=",
       "start_time": "2024-07-01T09:00:00Z",
-      "end_time": "2024-07-01T15:00:00Z",
+      "end_time": "2024-07-01T16:00:00Z",
       "title": "Culture et plaisir sur le Maître des Fleurs",
       "canceled_until": null,
       "category": {
@@ -124,11 +100,11 @@
       "id": "eyJzZWdtZW50SUQiOiI2YTRiZGUzOS1jMDFiLTRmNWItOWJjNC05MzliMTliNDAxZGIiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjoyN30=",
       "start_time": "2024-07-02T09:00:00Z",
       "end_time": "2024-07-02T12:00:00Z",
-      "title": "Lycans avec les potes",
+      "title": "Codenames avé les potes",
       "canceled_until": null,
       "category": {
-        "id": "1494074023",
-        "name": "Lycans"
+        "id": "508509",
+        "name": "Codenames"
       },
       "is_recurring": true
     },
@@ -145,58 +121,34 @@
       "is_recurring": true
     },
     {
-      "id": "eyJzZWdtZW50SUQiOiI4NWY1ZjJkYy01Njc5LTQ0NDctYmNjOC05ZmYwNzgwYWExMmMiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjoyN30=",
-      "start_time": "2024-07-03T12:00:00Z",
-      "end_time": "2024-07-03T14:00:00Z",
-      "title": "Discussion & Chill",
-      "canceled_until": null,
-      "category": {
-        "id": "509658",
-        "name": "Just Chatting"
-      },
-      "is_recurring": true
-    },
-    {
       "id": "eyJzZWdtZW50SUQiOiJlODY0YzBmNy1jNGUzLTQxNjYtOTUyMC0zY2JmNjVhZjMwNjgiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjoyN30=",
-      "start_time": "2024-07-03T14:00:00Z",
+      "start_time": "2024-07-03T12:00:00Z",
       "end_time": "2024-07-03T16:00:00Z",
-      "title": "Paper Mario La Porte Millénaire",
+      "title": "Suite de l'aventure Elden Ring",
       "canceled_until": null,
       "category": {
-        "id": "2029972667",
-        "name": "Paper Mario: The Thousand-Year Door"
+        "id": "512953",
+        "name": "ELDEN RING"
       },
       "is_recurring": true
     },
     {
-      "id": "eyJzZWdtZW50SUQiOiIzMjgwYzIzNS00OWYyLTRkNDctYjBiYS0yZDQ0ZTA2MzI1YzYiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjoyN30=",
-      "start_time": "2024-07-03T18:00:00Z",
-      "end_time": "2024-07-03T21:00:00Z",
-      "title": "On fait l'event de Wingo sur Trackmania",
+      "id": "eyJzZWdtZW50SUQiOiJlODhhNmUxYy1iOWM1LTQ1NDktYjg0ZC1hNzQ2ODYxYzk3MTgiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjoyN30=",
+      "start_time": "2024-07-04T09:00:00Z",
+      "end_time": "2024-07-04T12:00:00Z",
+      "title": "Chained Together avec Wingo, Anae et Onu",
       "canceled_until": null,
       "category": {
-        "id": "687129551",
-        "name": "Trackmania"
+        "id": "14842174",
+        "name": "Chained Together"
       },
       "is_recurring": true
     },
     {
-      "id": "eyJzZWdtZW50SUQiOiJiOTQ0MWMwNy0yODEzLTQ3ZTAtODY2Ni03YjQ4NzkxYmRlMTEiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjoyN30=",
-      "start_time": "2024-07-04T11:00:00Z",
-      "end_time": "2024-07-04T17:00:00Z",
-      "title": "BG3 avec Rivenzi",
-      "canceled_until": null,
-      "category": {
-        "id": "512923",
-        "name": "Baldur's Gate 3"
-      },
-      "is_recurring": true
-    },
-    {
-      "id": "eyJzZWdtZW50SUQiOiIxMjJhNDBhMC01OTY4LTQxZTktODQ2Ny0wMzhhOGJkZWU4OWQiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjoyN30=",
-      "start_time": "2024-07-05T09:00:00Z",
-      "end_time": "2024-07-05T15:00:00Z",
-      "title": "On reprends le let's play Elden Ring pour le DLC",
+      "id": "eyJzZWdtZW50SUQiOiI3Y2IxMmM0MC1iZjgzLTQ4OWEtODkxZS0wM2QxMzdiNTI0MmUiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjoyN30=",
+      "start_time": "2024-07-04T12:00:00Z",
+      "end_time": "2024-07-04T16:00:00Z",
+      "title": "Suite de l'aventure Elden Ring",
       "canceled_until": null,
       "category": {
         "id": "512953",
@@ -207,7 +159,7 @@
     {
       "id": "eyJzZWdtZW50SUQiOiJlOWI2ZTA4Zi03ODQ3LTRjMGEtYTkxZC1lMmY1YzgwZjIyYjYiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjoyOH0=",
       "start_time": "2024-07-08T09:00:00Z",
-      "end_time": "2024-07-08T15:00:00Z",
+      "end_time": "2024-07-08T16:00:00Z",
       "title": "Culture et plaisir sur le Maître des Fleurs",
       "canceled_until": null,
       "category": {
@@ -220,11 +172,11 @@
       "id": "eyJzZWdtZW50SUQiOiI2YTRiZGUzOS1jMDFiLTRmNWItOWJjNC05MzliMTliNDAxZGIiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjoyOH0=",
       "start_time": "2024-07-09T09:00:00Z",
       "end_time": "2024-07-09T12:00:00Z",
-      "title": "Lycans avec les potes",
+      "title": "Codenames avé les potes",
       "canceled_until": null,
       "category": {
-        "id": "1494074023",
-        "name": "Lycans"
+        "id": "508509",
+        "name": "Codenames"
       },
       "is_recurring": true
     },
@@ -241,14 +193,62 @@
       "is_recurring": true
     },
     {
-      "id": "eyJzZWdtZW50SUQiOiI4NWY1ZjJkYy01Njc5LTQ0NDctYmNjOC05ZmYwNzgwYWExMmMiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjoyOH0=",
+      "id": "eyJzZWdtZW50SUQiOiJlODY0YzBmNy1jNGUzLTQxNjYtOTUyMC0zY2JmNjVhZjMwNjgiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjoyOH0=",
       "start_time": "2024-07-10T12:00:00Z",
-      "end_time": "2024-07-10T14:00:00Z",
-      "title": "Discussion & Chill",
+      "end_time": "2024-07-10T16:00:00Z",
+      "title": "Suite de l'aventure Elden Ring",
       "canceled_until": null,
       "category": {
-        "id": "509658",
-        "name": "Just Chatting"
+        "id": "512953",
+        "name": "ELDEN RING"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiJlODhhNmUxYy1iOWM1LTQ1NDktYjg0ZC1hNzQ2ODYxYzk3MTgiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjoyOH0=",
+      "start_time": "2024-07-11T09:00:00Z",
+      "end_time": "2024-07-11T12:00:00Z",
+      "title": "Chained Together avec Wingo, Anae et Onu",
+      "canceled_until": null,
+      "category": {
+        "id": "14842174",
+        "name": "Chained Together"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiI3Y2IxMmM0MC1iZjgzLTQ4OWEtODkxZS0wM2QxMzdiNTI0MmUiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjoyOH0=",
+      "start_time": "2024-07-11T12:00:00Z",
+      "end_time": "2024-07-11T16:00:00Z",
+      "title": "Suite de l'aventure Elden Ring",
+      "canceled_until": null,
+      "category": {
+        "id": "512953",
+        "name": "ELDEN RING"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiJlOWI2ZTA4Zi03ODQ3LTRjMGEtYTkxZC1lMmY1YzgwZjIyYjYiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjoyOX0=",
+      "start_time": "2024-07-15T09:00:00Z",
+      "end_time": "2024-07-15T16:00:00Z",
+      "title": "Culture et plaisir sur le Maître des Fleurs",
+      "canceled_until": null,
+      "category": {
+        "id": "338715930",
+        "name": "Maitre des Fleurs"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiI2YTRiZGUzOS1jMDFiLTRmNWItOWJjNC05MzliMTliNDAxZGIiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjoyOX0=",
+      "start_time": "2024-07-16T09:00:00Z",
+      "end_time": "2024-07-16T12:00:00Z",
+      "title": "Codenames avé les potes",
+      "canceled_until": null,
+      "category": {
+        "id": "508509",
+        "name": "Codenames"
       },
       "is_recurring": true
     }
