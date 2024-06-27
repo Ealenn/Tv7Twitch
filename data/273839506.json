@@ -13,18 +13,6 @@
   },
   "schedulers": [
     {
-      "id": "eyJzZWdtZW50SUQiOiJmMmNkODZlZC05NTY4LTQzMzMtYjEzMC01MWZiMzkzMmYzMDQiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjoyNn0=",
-      "start_time": "2024-06-26T17:00:00Z",
-      "end_time": "2024-06-26T19:00:00Z",
-      "title": "Underscore_",
-      "canceled_until": null,
-      "category": {
-        "id": "417752",
-        "name": "Talk Shows & Podcasts"
-      },
-      "is_recurring": false
-    },
-    {
       "id": "eyJzZWdtZW50SUQiOiJlNmFhYTZjNS0wNWM2LTRmYTMtOTMzYS1mNDk3MzI2NjMxYTkiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjoyN30=",
       "start_time": "2024-07-03T17:00:00Z",
       "end_time": "2024-07-03T19:00:00Z",
