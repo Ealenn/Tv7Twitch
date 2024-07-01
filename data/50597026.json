@@ -28,42 +28,6 @@
       "id": "eyJzZWdtZW50SUQiOiI2YTRiZGUzOS1jMDFiLTRmNWItOWJjNC05MzliMTliNDAxZGIiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjoyN30=",
       "start_time": "2024-07-02T09:00:00Z",
       "end_time": "2024-07-02T12:00:00Z",
-      "title": "Codenames avé les potes",
-      "canceled_until": null,
-      "category": {
-        "id": "508509",
-        "name": "Codenames"
-      },
-      "is_recurring": true
-    },
-    {
-      "id": "eyJzZWdtZW50SUQiOiI0NzRmZjgxMS1mZTU1LTQ2OTItODJhNy1kZDEwNzQzODljM2EiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjoyN30=",
-      "start_time": "2024-07-02T12:00:00Z",
-      "end_time": "2024-07-02T16:00:00Z",
-      "title": "On continue Paper Mario !",
-      "canceled_until": null,
-      "category": {
-        "id": "2029972667",
-        "name": "Paper Mario: The Thousand-Year Door"
-      },
-      "is_recurring": true
-    },
-    {
-      "id": "eyJzZWdtZW50SUQiOiJlODY0YzBmNy1jNGUzLTQxNjYtOTUyMC0zY2JmNjVhZjMwNjgiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjoyN30=",
-      "start_time": "2024-07-03T12:00:00Z",
-      "end_time": "2024-07-03T16:00:00Z",
-      "title": "Suite de l'aventure Elden Ring",
-      "canceled_until": null,
-      "category": {
-        "id": "512953",
-        "name": "ELDEN RING"
-      },
-      "is_recurring": true
-    },
-    {
-      "id": "eyJzZWdtZW50SUQiOiJlODhhNmUxYy1iOWM1LTQ1NDktYjg0ZC1hNzQ2ODYxYzk3MTgiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjoyN30=",
-      "start_time": "2024-07-04T09:00:00Z",
-      "end_time": "2024-07-04T12:00:00Z",
       "title": "Chained Together avec Wingo, Anaee et Onu",
       "canceled_until": null,
       "category": {
@@ -73,14 +37,62 @@
       "is_recurring": true
     },
     {
-      "id": "eyJzZWdtZW50SUQiOiI3Y2IxMmM0MC1iZjgzLTQ4OWEtODkxZS0wM2QxMzdiNTI0MmUiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjoyN30=",
-      "start_time": "2024-07-04T12:00:00Z",
-      "end_time": "2024-07-04T16:00:00Z",
-      "title": "Suite de l'aventure Elden Ring",
+      "id": "eyJzZWdtZW50SUQiOiI0NzRmZjgxMS1mZTU1LTQ2OTItODJhNy1kZDEwNzQzODljM2EiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjoyN30=",
+      "start_time": "2024-07-02T12:00:00Z",
+      "end_time": "2024-07-02T16:00:00Z",
+      "title": "Cette fois c'est la fin de Paper Mario !",
+      "canceled_until": null,
+      "category": {
+        "id": "2029972667",
+        "name": "Paper Mario: The Thousand-Year Door"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiJlODY0YzBmNy1jNGUzLTQxNjYtOTUyMC0zY2JmNjVhZjMwNjgiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjoyN30=",
+      "start_time": "2024-07-03T09:00:00Z",
+      "end_time": "2024-07-03T12:00:00Z",
+      "title": "Lycans avé les potes",
+      "canceled_until": null,
+      "category": {
+        "id": "1494074023",
+        "name": "Lycans"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiJmOWFkYjY1NC05OTQyLTQ3ZTAtYWM0MS0xZTA5NzgxMmQ1NjIiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjoyN30=",
+      "start_time": "2024-07-03T12:00:00Z",
+      "end_time": "2024-07-03T17:00:00Z",
+      "title": "Suite du DLC d'Elden Ring",
       "canceled_until": null,
       "category": {
         "id": "512953",
         "name": "ELDEN RING"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiI3Y2IxMmM0MC1iZjgzLTQ4OWEtODkxZS0wM2QxMzdiNTI0MmUiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjoyN30=",
+      "start_time": "2024-07-04T11:00:00Z",
+      "end_time": "2024-07-04T16:00:00Z",
+      "title": "Suite de l'aventure Baldur's gate 3 avec @Rivenzi",
+      "canceled_until": null,
+      "category": {
+        "id": "512923",
+        "name": "Baldur's Gate 3"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiIxZDkyZTE4NS04OTMzLTQwYmMtOWI3NS03OWYxNTk4YzY3MzQiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjoyN30=",
+      "start_time": "2024-07-05T09:00:00Z",
+      "end_time": "2024-07-05T15:00:00Z",
+      "title": "Suite de l'aventure Baldur's gate 3 avec @Rivenzi",
+      "canceled_until": null,
+      "category": {
+        "id": "512923",
+        "name": "Baldur's Gate 3"
       },
       "is_recurring": true
     },
@@ -100,42 +112,6 @@
       "id": "eyJzZWdtZW50SUQiOiI2YTRiZGUzOS1jMDFiLTRmNWItOWJjNC05MzliMTliNDAxZGIiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjoyOH0=",
       "start_time": "2024-07-09T09:00:00Z",
       "end_time": "2024-07-09T12:00:00Z",
-      "title": "Codenames avé les potes",
-      "canceled_until": null,
-      "category": {
-        "id": "508509",
-        "name": "Codenames"
-      },
-      "is_recurring": true
-    },
-    {
-      "id": "eyJzZWdtZW50SUQiOiI0NzRmZjgxMS1mZTU1LTQ2OTItODJhNy1kZDEwNzQzODljM2EiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjoyOH0=",
-      "start_time": "2024-07-09T12:00:00Z",
-      "end_time": "2024-07-09T16:00:00Z",
-      "title": "On continue Paper Mario !",
-      "canceled_until": null,
-      "category": {
-        "id": "2029972667",
-        "name": "Paper Mario: The Thousand-Year Door"
-      },
-      "is_recurring": true
-    },
-    {
-      "id": "eyJzZWdtZW50SUQiOiJlODY0YzBmNy1jNGUzLTQxNjYtOTUyMC0zY2JmNjVhZjMwNjgiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjoyOH0=",
-      "start_time": "2024-07-10T12:00:00Z",
-      "end_time": "2024-07-10T16:00:00Z",
-      "title": "Suite de l'aventure Elden Ring",
-      "canceled_until": null,
-      "category": {
-        "id": "512953",
-        "name": "ELDEN RING"
-      },
-      "is_recurring": true
-    },
-    {
-      "id": "eyJzZWdtZW50SUQiOiJlODhhNmUxYy1iOWM1LTQ1NDktYjg0ZC1hNzQ2ODYxYzk3MTgiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjoyOH0=",
-      "start_time": "2024-07-11T09:00:00Z",
-      "end_time": "2024-07-11T12:00:00Z",
       "title": "Chained Together avec Wingo, Anaee et Onu",
       "canceled_until": null,
       "category": {
@@ -145,14 +121,62 @@
       "is_recurring": true
     },
     {
-      "id": "eyJzZWdtZW50SUQiOiI3Y2IxMmM0MC1iZjgzLTQ4OWEtODkxZS0wM2QxMzdiNTI0MmUiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjoyOH0=",
-      "start_time": "2024-07-11T12:00:00Z",
-      "end_time": "2024-07-11T16:00:00Z",
-      "title": "Suite de l'aventure Elden Ring",
+      "id": "eyJzZWdtZW50SUQiOiI0NzRmZjgxMS1mZTU1LTQ2OTItODJhNy1kZDEwNzQzODljM2EiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjoyOH0=",
+      "start_time": "2024-07-09T12:00:00Z",
+      "end_time": "2024-07-09T16:00:00Z",
+      "title": "Cette fois c'est la fin de Paper Mario !",
+      "canceled_until": null,
+      "category": {
+        "id": "2029972667",
+        "name": "Paper Mario: The Thousand-Year Door"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiJlODY0YzBmNy1jNGUzLTQxNjYtOTUyMC0zY2JmNjVhZjMwNjgiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjoyOH0=",
+      "start_time": "2024-07-10T09:00:00Z",
+      "end_time": "2024-07-10T12:00:00Z",
+      "title": "Lycans avé les potes",
+      "canceled_until": null,
+      "category": {
+        "id": "1494074023",
+        "name": "Lycans"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiJmOWFkYjY1NC05OTQyLTQ3ZTAtYWM0MS0xZTA5NzgxMmQ1NjIiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjoyOH0=",
+      "start_time": "2024-07-10T12:00:00Z",
+      "end_time": "2024-07-10T17:00:00Z",
+      "title": "Suite du DLC d'Elden Ring",
       "canceled_until": null,
       "category": {
         "id": "512953",
         "name": "ELDEN RING"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiI3Y2IxMmM0MC1iZjgzLTQ4OWEtODkxZS0wM2QxMzdiNTI0MmUiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjoyOH0=",
+      "start_time": "2024-07-11T11:00:00Z",
+      "end_time": "2024-07-11T16:00:00Z",
+      "title": "Suite de l'aventure Baldur's gate 3 avec @Rivenzi",
+      "canceled_until": null,
+      "category": {
+        "id": "512923",
+        "name": "Baldur's Gate 3"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiIxZDkyZTE4NS04OTMzLTQwYmMtOWI3NS03OWYxNTk4YzY3MzQiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjoyOH0=",
+      "start_time": "2024-07-12T09:00:00Z",
+      "end_time": "2024-07-12T15:00:00Z",
+      "title": "Suite de l'aventure Baldur's gate 3 avec @Rivenzi",
+      "canceled_until": null,
+      "category": {
+        "id": "512923",
+        "name": "Baldur's Gate 3"
       },
       "is_recurring": true
     },
@@ -172,42 +196,6 @@
       "id": "eyJzZWdtZW50SUQiOiI2YTRiZGUzOS1jMDFiLTRmNWItOWJjNC05MzliMTliNDAxZGIiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjoyOX0=",
       "start_time": "2024-07-16T09:00:00Z",
       "end_time": "2024-07-16T12:00:00Z",
-      "title": "Codenames avé les potes",
-      "canceled_until": null,
-      "category": {
-        "id": "508509",
-        "name": "Codenames"
-      },
-      "is_recurring": true
-    },
-    {
-      "id": "eyJzZWdtZW50SUQiOiI0NzRmZjgxMS1mZTU1LTQ2OTItODJhNy1kZDEwNzQzODljM2EiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjoyOX0=",
-      "start_time": "2024-07-16T12:00:00Z",
-      "end_time": "2024-07-16T16:00:00Z",
-      "title": "On continue Paper Mario !",
-      "canceled_until": null,
-      "category": {
-        "id": "2029972667",
-        "name": "Paper Mario: The Thousand-Year Door"
-      },
-      "is_recurring": true
-    },
-    {
-      "id": "eyJzZWdtZW50SUQiOiJlODY0YzBmNy1jNGUzLTQxNjYtOTUyMC0zY2JmNjVhZjMwNjgiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjoyOX0=",
-      "start_time": "2024-07-17T12:00:00Z",
-      "end_time": "2024-07-17T16:00:00Z",
-      "title": "Suite de l'aventure Elden Ring",
-      "canceled_until": null,
-      "category": {
-        "id": "512953",
-        "name": "ELDEN RING"
-      },
-      "is_recurring": true
-    },
-    {
-      "id": "eyJzZWdtZW50SUQiOiJlODhhNmUxYy1iOWM1LTQ1NDktYjg0ZC1hNzQ2ODYxYzk3MTgiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjoyOX0=",
-      "start_time": "2024-07-18T09:00:00Z",
-      "end_time": "2024-07-18T12:00:00Z",
       "title": "Chained Together avec Wingo, Anaee et Onu",
       "canceled_until": null,
       "category": {
@@ -217,10 +205,34 @@
       "is_recurring": true
     },
     {
-      "id": "eyJzZWdtZW50SUQiOiI3Y2IxMmM0MC1iZjgzLTQ4OWEtODkxZS0wM2QxMzdiNTI0MmUiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjoyOX0=",
-      "start_time": "2024-07-18T12:00:00Z",
-      "end_time": "2024-07-18T16:00:00Z",
-      "title": "Suite de l'aventure Elden Ring",
+      "id": "eyJzZWdtZW50SUQiOiI0NzRmZjgxMS1mZTU1LTQ2OTItODJhNy1kZDEwNzQzODljM2EiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjoyOX0=",
+      "start_time": "2024-07-16T12:00:00Z",
+      "end_time": "2024-07-16T16:00:00Z",
+      "title": "Cette fois c'est la fin de Paper Mario !",
+      "canceled_until": null,
+      "category": {
+        "id": "2029972667",
+        "name": "Paper Mario: The Thousand-Year Door"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiJlODY0YzBmNy1jNGUzLTQxNjYtOTUyMC0zY2JmNjVhZjMwNjgiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjoyOX0=",
+      "start_time": "2024-07-17T09:00:00Z",
+      "end_time": "2024-07-17T12:00:00Z",
+      "title": "Lycans avé les potes",
+      "canceled_until": null,
+      "category": {
+        "id": "1494074023",
+        "name": "Lycans"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiJmOWFkYjY1NC05OTQyLTQ3ZTAtYWM0MS0xZTA5NzgxMmQ1NjIiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjoyOX0=",
+      "start_time": "2024-07-17T12:00:00Z",
+      "end_time": "2024-07-17T17:00:00Z",
+      "title": "Suite du DLC d'Elden Ring",
       "canceled_until": null,
       "category": {
         "id": "512953",
@@ -229,26 +241,14 @@
       "is_recurring": true
     },
     {
-      "id": "eyJzZWdtZW50SUQiOiJlOWI2ZTA4Zi03ODQ3LTRjMGEtYTkxZC1lMmY1YzgwZjIyYjYiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjozMH0=",
-      "start_time": "2024-07-22T09:00:00Z",
-      "end_time": "2024-07-22T16:00:00Z",
-      "title": "Culture et plaisir sur le Maître des Fleurs",
+      "id": "eyJzZWdtZW50SUQiOiI3Y2IxMmM0MC1iZjgzLTQ4OWEtODkxZS0wM2QxMzdiNTI0MmUiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjoyOX0=",
+      "start_time": "2024-07-18T11:00:00Z",
+      "end_time": "2024-07-18T16:00:00Z",
+      "title": "Suite de l'aventure Baldur's gate 3 avec @Rivenzi",
       "canceled_until": null,
       "category": {
-        "id": "338715930",
-        "name": "Maitre des Fleurs"
-      },
-      "is_recurring": true
-    },
-    {
-      "id": "eyJzZWdtZW50SUQiOiI2YTRiZGUzOS1jMDFiLTRmNWItOWJjNC05MzliMTliNDAxZGIiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjozMH0=",
-      "start_time": "2024-07-23T09:00:00Z",
-      "end_time": "2024-07-23T12:00:00Z",
-      "title": "Codenames avé les potes",
-      "canceled_until": null,
-      "category": {
-        "id": "508509",
-        "name": "Codenames"
+        "id": "512923",
+        "name": "Baldur's Gate 3"
       },
       "is_recurring": true
     }
