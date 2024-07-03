@@ -13,14 +13,62 @@
   },
   "schedulers": [
     {
+      "id": "eyJzZWdtZW50SUQiOiJjOTM5MWQyZC1iODVkLTQ2MGMtYTljNS1kZTUxYmI5MTNiMjQiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjoyN30=",
+      "start_time": "2024-07-04T18:00:00Z",
+      "end_time": "2024-07-04T22:00:00Z",
+      "title": "XDefiant, live de groupe avec plein de gens ! #Publicité",
+      "canceled_until": null,
+      "category": {
+        "id": "780302568",
+        "name": "XDefiant"
+      },
+      "is_recurring": false
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiJhZmVmNzI2ZS0xYzIwLTQ5ZWUtYmExYi0zZDdlNTYxMjdkYzQiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjoyN30=",
+      "start_time": "2024-07-06T17:00:00Z",
+      "end_time": "2024-07-06T22:00:00Z",
+      "title": "MANDATORY WoW, The Great Push, Phase de groupe",
+      "canceled_until": null,
+      "category": {
+        "id": "18122",
+        "name": "World of Warcraft"
+      },
+      "is_recurring": false
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiIxY2E5ZGY5Yy1mM2M2LTQ2OGYtYmVmMy0xM2E4OTYyNmE5MDkiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjoyN30=",
+      "start_time": "2024-07-07T17:00:00Z",
+      "end_time": "2024-07-07T18:00:00Z",
+      "title": "MANDATORY WoW, The Great Push, Phase de groupe (la suite)",
+      "canceled_until": null,
+      "category": {
+        "id": "18122",
+        "name": "World of Warcraft"
+      },
+      "is_recurring": false
+    },
+    {
       "id": "eyJzZWdtZW50SUQiOiJiOTFjMjgyNi0wNzg0LTRlMjItOWZkMS01NWMzOGQ4NDUzZjkiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjoyN30=",
       "start_time": "2024-07-07T18:00:00Z",
-      "end_time": "2024-07-07T21:00:00Z",
+      "end_time": "2024-07-07T20:00:00Z",
       "title": "MANDATORY vs SLY (match 7/7)",
       "canceled_until": null,
       "category": {
         "id": "516575",
         "name": "VALORANT"
+      },
+      "is_recurring": false
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiI3NWU4Yzk0NS0xOGRhLTQ0ZjQtOTk1Ni1kNmM4ZDk3NDdkMDAiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjoyN30=",
+      "start_time": "2024-07-07T20:00:00Z",
+      "end_time": "2024-07-07T21:00:00Z",
+      "title": "MANDATORY WoW, The Great Push, Phase de groupe (suite et fin)",
+      "canceled_until": null,
+      "category": {
+        "id": "18122",
+        "name": "World of Warcraft"
       },
       "is_recurring": false
     },
@@ -37,6 +85,18 @@
       "is_recurring": true
     },
     {
+      "id": "eyJzZWdtZW50SUQiOiJjYWVjYzQ4ZC02ZjU3LTQ4NTQtYjU5NS03MWQ5MjkxNmRlNmEiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjoyOH0=",
+      "start_time": "2024-07-10T18:00:00Z",
+      "end_time": "2024-07-10T20:00:00Z",
+      "title": "Découverte de Once Human avec KennyStream #Publicité",
+      "canceled_until": null,
+      "category": {
+        "id": "1441208453",
+        "name": "Once Human"
+      },
+      "is_recurring": false
+    },
+    {
       "id": "eyJzZWdtZW50SUQiOiJiNTE0YTNkMC0xM2IxLTRjMGYtYTAzMy05OTdiYzc4Yjc1YjEiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjoyOX0=",
       "start_time": "2024-07-15T18:30:00Z",
       "end_time": "2024-07-15T22:00:00Z",
@@ -47,6 +107,18 @@
         "name": "Just Chatting"
       },
       "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiJjY2Q0ODJiZS02ZjNhLTRjYTQtYTE3OC1iNzI4ODM3Njc4OTIiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjozMH0=",
+      "start_time": "2024-07-22T16:00:00Z",
+      "end_time": "2024-07-22T18:00:00Z",
+      "title": "SORTIE MONDIALE DE ARTISAN TD (ACHETEZ LE, C'EST TROP BIEN)",
+      "canceled_until": null,
+      "category": {
+        "id": "387695647",
+        "name": "Artisan TD"
+      },
+      "is_recurring": false
     },
     {
       "id": "eyJzZWdtZW50SUQiOiJiNTE0YTNkMC0xM2IxLTRjMGYtYTAzMy05OTdiYzc4Yjc1YjEiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjozMH0=",
@@ -172,78 +244,6 @@
       "id": "eyJzZWdtZW50SUQiOiJiNTE0YTNkMC0xM2IxLTRjMGYtYTAzMy05OTdiYzc4Yjc1YjEiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjo0MH0=",
       "start_time": "2024-09-30T18:30:00Z",
       "end_time": "2024-09-30T22:00:00Z",
-      "title": "Soirée du lundi",
-      "canceled_until": null,
-      "category": {
-        "id": "509658",
-        "name": "Just Chatting"
-      },
-      "is_recurring": true
-    },
-    {
-      "id": "eyJzZWdtZW50SUQiOiJiNTE0YTNkMC0xM2IxLTRjMGYtYTAzMy05OTdiYzc4Yjc1YjEiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjo0MX0=",
-      "start_time": "2024-10-07T18:30:00Z",
-      "end_time": "2024-10-07T22:00:00Z",
-      "title": "Soirée du lundi",
-      "canceled_until": null,
-      "category": {
-        "id": "509658",
-        "name": "Just Chatting"
-      },
-      "is_recurring": true
-    },
-    {
-      "id": "eyJzZWdtZW50SUQiOiJiNTE0YTNkMC0xM2IxLTRjMGYtYTAzMy05OTdiYzc4Yjc1YjEiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjo0Mn0=",
-      "start_time": "2024-10-14T18:30:00Z",
-      "end_time": "2024-10-14T22:00:00Z",
-      "title": "Soirée du lundi",
-      "canceled_until": null,
-      "category": {
-        "id": "509658",
-        "name": "Just Chatting"
-      },
-      "is_recurring": true
-    },
-    {
-      "id": "eyJzZWdtZW50SUQiOiJiNTE0YTNkMC0xM2IxLTRjMGYtYTAzMy05OTdiYzc4Yjc1YjEiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjo0M30=",
-      "start_time": "2024-10-21T18:30:00Z",
-      "end_time": "2024-10-21T22:00:00Z",
-      "title": "Soirée du lundi",
-      "canceled_until": null,
-      "category": {
-        "id": "509658",
-        "name": "Just Chatting"
-      },
-      "is_recurring": true
-    },
-    {
-      "id": "eyJzZWdtZW50SUQiOiJiNTE0YTNkMC0xM2IxLTRjMGYtYTAzMy05OTdiYzc4Yjc1YjEiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjo0NH0=",
-      "start_time": "2024-10-28T19:30:00Z",
-      "end_time": "2024-10-28T23:00:00Z",
-      "title": "Soirée du lundi",
-      "canceled_until": null,
-      "category": {
-        "id": "509658",
-        "name": "Just Chatting"
-      },
-      "is_recurring": true
-    },
-    {
-      "id": "eyJzZWdtZW50SUQiOiJiNTE0YTNkMC0xM2IxLTRjMGYtYTAzMy05OTdiYzc4Yjc1YjEiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjo0NX0=",
-      "start_time": "2024-11-04T19:30:00Z",
-      "end_time": "2024-11-04T23:00:00Z",
-      "title": "Soirée du lundi",
-      "canceled_until": null,
-      "category": {
-        "id": "509658",
-        "name": "Just Chatting"
-      },
-      "is_recurring": true
-    },
-    {
-      "id": "eyJzZWdtZW50SUQiOiJiNTE0YTNkMC0xM2IxLTRjMGYtYTAzMy05OTdiYzc4Yjc1YjEiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjo0Nn0=",
-      "start_time": "2024-11-11T19:30:00Z",
-      "end_time": "2024-11-11T23:00:00Z",
       "title": "Soirée du lundi",
       "canceled_until": null,
       "category": {

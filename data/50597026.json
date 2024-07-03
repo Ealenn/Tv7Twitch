@@ -13,30 +13,6 @@
   },
   "schedulers": [
     {
-      "id": "eyJzZWdtZW50SUQiOiI2YTRiZGUzOS1jMDFiLTRmNWItOWJjNC05MzliMTliNDAxZGIiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjoyN30=",
-      "start_time": "2024-07-02T09:00:00Z",
-      "end_time": "2024-07-02T12:00:00Z",
-      "title": "Chained Together avec Wingo, Anaee et Onu",
-      "canceled_until": null,
-      "category": {
-        "id": "14842174",
-        "name": "Chained Together"
-      },
-      "is_recurring": true
-    },
-    {
-      "id": "eyJzZWdtZW50SUQiOiI0NzRmZjgxMS1mZTU1LTQ2OTItODJhNy1kZDEwNzQzODljM2EiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjoyN30=",
-      "start_time": "2024-07-02T12:00:00Z",
-      "end_time": "2024-07-02T16:00:00Z",
-      "title": "Cette fois c'est la fin de Paper Mario !",
-      "canceled_until": null,
-      "category": {
-        "id": "2029972667",
-        "name": "Paper Mario: The Thousand-Year Door"
-      },
-      "is_recurring": true
-    },
-    {
       "id": "eyJzZWdtZW50SUQiOiJlODY0YzBmNy1jNGUzLTQxNjYtOTUyMC0zY2JmNjVhZjMwNjgiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjoyN30=",
       "start_time": "2024-07-03T09:00:00Z",
       "end_time": "2024-07-03T12:00:00Z",
@@ -249,6 +225,30 @@
       "category": {
         "id": "512923",
         "name": "Baldur's Gate 3"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiJlOWI2ZTA4Zi03ODQ3LTRjMGEtYTkxZC1lMmY1YzgwZjIyYjYiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjozMH0=",
+      "start_time": "2024-07-22T09:00:00Z",
+      "end_time": "2024-07-22T16:00:00Z",
+      "title": "Culture et plaisir sur le Maître des Fleurs",
+      "canceled_until": null,
+      "category": {
+        "id": "338715930",
+        "name": "Maitre des Fleurs"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiI2YTRiZGUzOS1jMDFiLTRmNWItOWJjNC05MzliMTliNDAxZGIiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjozMH0=",
+      "start_time": "2024-07-23T09:00:00Z",
+      "end_time": "2024-07-23T12:00:00Z",
+      "title": "Chained Together avec Wingo, Anaee et Onu",
+      "canceled_until": null,
+      "category": {
+        "id": "14842174",
+        "name": "Chained Together"
       },
       "is_recurring": true
     }
