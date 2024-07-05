@@ -13,18 +13,6 @@
   },
   "schedulers": [
     {
-      "id": "eyJzZWdtZW50SUQiOiJjOTM5MWQyZC1iODVkLTQ2MGMtYTljNS1kZTUxYmI5MTNiMjQiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjoyN30=",
-      "start_time": "2024-07-04T18:00:00Z",
-      "end_time": "2024-07-04T22:00:00Z",
-      "title": "XDefiant, live de groupe avec plein de gens ! #Publicité",
-      "canceled_until": null,
-      "category": {
-        "id": "780302568",
-        "name": "XDefiant"
-      },
-      "is_recurring": false
-    },
-    {
       "id": "eyJzZWdtZW50SUQiOiJhZmVmNzI2ZS0xYzIwLTQ5ZWUtYmExYi0zZDdlNTYxMjdkYzQiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjoyN30=",
       "start_time": "2024-07-06T17:00:00Z",
       "end_time": "2024-07-06T22:00:00Z",
@@ -244,6 +232,18 @@
       "id": "eyJzZWdtZW50SUQiOiJiNTE0YTNkMC0xM2IxLTRjMGYtYTAzMy05OTdiYzc4Yjc1YjEiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjo0MH0=",
       "start_time": "2024-09-30T18:30:00Z",
       "end_time": "2024-09-30T22:00:00Z",
+      "title": "Soirée du lundi",
+      "canceled_until": null,
+      "category": {
+        "id": "509658",
+        "name": "Just Chatting"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiJiNTE0YTNkMC0xM2IxLTRjMGYtYTAzMy05OTdiYzc4Yjc1YjEiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjo0MX0=",
+      "start_time": "2024-10-07T18:30:00Z",
+      "end_time": "2024-10-07T22:00:00Z",
       "title": "Soirée du lundi",
       "canceled_until": null,
       "category": {

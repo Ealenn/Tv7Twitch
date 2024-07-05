@@ -13,18 +13,6 @@
   },
   "schedulers": [
     {
-      "id": "eyJzZWdtZW50SUQiOiI3Y2IxMmM0MC1iZjgzLTQ4OWEtODkxZS0wM2QxMzdiNTI0MmUiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjoyN30=",
-      "start_time": "2024-07-04T11:00:00Z",
-      "end_time": "2024-07-04T16:00:00Z",
-      "title": "Suite de l'aventure Baldur's gate 3 avec @Rivenzi",
-      "canceled_until": null,
-      "category": {
-        "id": "512923",
-        "name": "Baldur's Gate 3"
-      },
-      "is_recurring": true
-    },
-    {
       "id": "eyJzZWdtZW50SUQiOiIxZDkyZTE4NS04OTMzLTQwYmMtOWI3NS03OWYxNTk4YzY3MzQiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjoyN30=",
       "start_time": "2024-07-05T09:00:00Z",
       "end_time": "2024-07-05T15:00:00Z",
@@ -249,6 +237,18 @@
       "category": {
         "id": "1494074023",
         "name": "Lycans"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiJmOWFkYjY1NC05OTQyLTQ3ZTAtYWM0MS0xZTA5NzgxMmQ1NjIiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjozMH0=",
+      "start_time": "2024-07-24T12:00:00Z",
+      "end_time": "2024-07-24T17:00:00Z",
+      "title": "Suite du DLC d'Elden Ring",
+      "canceled_until": null,
+      "category": {
+        "id": "512953",
+        "name": "ELDEN RING"
       },
       "is_recurring": true
     }
