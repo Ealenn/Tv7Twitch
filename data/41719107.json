@@ -13,18 +13,6 @@
   },
   "schedulers": [
     {
-      "id": "eyJzZWdtZW50SUQiOiI3YjEwZmFkZS00NGMzLTQ3ZDctOWE4NC1kN2FhYjJkYjM3MmIiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjoyOH0=",
-      "start_time": "2024-07-12T18:00:00Z",
-      "end_time": "2024-07-12T20:00:00Z",
-      "title": "Forza sur un OMEN Transcend #Sponsorisé",
-      "canceled_until": null,
-      "category": {
-        "id": "1757732267",
-        "name": "Forza Horizon 5"
-      },
-      "is_recurring": false
-    },
-    {
       "id": "eyJzZWdtZW50SUQiOiIyYWQ5NWU4My0xYzM3LTQ5N2ItYWE0Ny1jYjljZGJiNDM4ODMiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjoyOH0=",
       "start_time": "2024-07-14T14:00:00Z",
       "end_time": "2024-07-14T18:00:00Z",
@@ -244,6 +232,18 @@
       "id": "eyJzZWdtZW50SUQiOiJiNTE0YTNkMC0xM2IxLTRjMGYtYTAzMy05OTdiYzc4Yjc1YjEiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjo0NX0=",
       "start_time": "2024-11-04T19:30:00Z",
       "end_time": "2024-11-04T23:00:00Z",
+      "title": "Soirée du lundi",
+      "canceled_until": null,
+      "category": {
+        "id": "509658",
+        "name": "Just Chatting"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiJiNTE0YTNkMC0xM2IxLTRjMGYtYTAzMy05OTdiYzc4Yjc1YjEiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjo0Nn0=",
+      "start_time": "2024-11-11T19:30:00Z",
+      "end_time": "2024-11-11T23:00:00Z",
       "title": "Soirée du lundi",
       "canceled_until": null,
       "category": {

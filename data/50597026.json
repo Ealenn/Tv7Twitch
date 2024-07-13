@@ -13,18 +13,6 @@
   },
   "schedulers": [
     {
-      "id": "eyJzZWdtZW50SUQiOiJkNTZmZDlmOC0zNjk2LTQzMWYtYjQ1NS0xZWZlMDRjZWZkNWEiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjoyOH0=",
-      "start_time": "2024-07-12T09:00:00Z",
-      "end_time": "2024-07-12T14:00:00Z",
-      "title": "Chefline découvre Isaac",
-      "canceled_until": null,
-      "category": {
-        "id": "1414860634",
-        "name": "The Binding of Isaac: Repentance"
-      },
-      "is_recurring": false
-    },
-    {
       "id": "eyJzZWdtZW50SUQiOiJlOWI2ZTA4Zi03ODQ3LTRjMGEtYTkxZC1lMmY1YzgwZjIyYjYiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjoyOX0=",
       "start_time": "2024-07-15T09:00:00Z",
       "end_time": "2024-07-15T16:00:00Z",
@@ -249,6 +237,18 @@
       "category": {
         "id": "338715930",
         "name": "Maitre des Fleurs"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiI2YTRiZGUzOS1jMDFiLTRmNWItOWJjNC05MzliMTliNDAxZGIiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjozOH0=",
+      "start_time": "2024-09-18T09:00:00Z",
+      "end_time": "2024-09-18T13:00:00Z",
+      "title": "Chefline sur Chained Together avec FlonFlon",
+      "canceled_until": null,
+      "category": {
+        "id": "14842174",
+        "name": "Chained Together"
       },
       "is_recurring": true
     }
