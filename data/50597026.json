@@ -13,30 +13,6 @@
   },
   "schedulers": [
     {
-      "id": "eyJzZWdtZW50SUQiOiI2YjZkOTE2ZC1mNGE1LTRlZWMtYWEwMS0xY2Q0OWM5OWE3NjQiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjoyOX0=",
-      "start_time": "2024-07-16T12:00:00Z",
-      "end_time": "2024-07-16T16:00:00Z",
-      "title": "Découverte de Civilization VI",
-      "canceled_until": null,
-      "category": {
-        "id": "492553",
-        "name": "Sid Meier's Civilization VI"
-      },
-      "is_recurring": true
-    },
-    {
-      "id": "eyJzZWdtZW50SUQiOiJmY2RmZjRjMi03OTJiLTRlZjAtODM3ZC1hMjQxNWU5OGRlZmEiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjoyOX0=",
-      "start_time": "2024-07-16T16:00:00Z",
-      "end_time": "2024-07-16T20:00:00Z",
-      "title": "Civilization VI avec Antoine, Gius, Pressea, Zera, Etoiles...",
-      "canceled_until": null,
-      "category": {
-        "id": "492553",
-        "name": "Sid Meier's Civilization VI"
-      },
-      "is_recurring": true
-    },
-    {
       "id": "eyJzZWdtZW50SUQiOiI3ZGE0ODliMy05MjVjLTQzM2UtYTVmNS00MjY1OGI3MmM3NjIiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjoyOX0=",
       "start_time": "2024-07-17T09:00:00Z",
       "end_time": "2024-07-17T12:00:00Z",
@@ -249,6 +225,30 @@
       "category": {
         "id": "1982936547",
         "name": "Pokémon"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiJlOWI2ZTA4Zi03ODQ3LTRjMGEtYTkxZC1lMmY1YzgwZjIyYjYiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjozMn0=",
+      "start_time": "2024-08-05T09:00:00Z",
+      "end_time": "2024-08-05T16:00:00Z",
+      "title": "Culture et plaisir sur le Maître des Fleurs",
+      "canceled_until": null,
+      "category": {
+        "id": "338715930",
+        "name": "Maitre des Fleurs"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiI2YjZkOTE2ZC1mNGE1LTRlZWMtYWEwMS0xY2Q0OWM5OWE3NjQiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjozMn0=",
+      "start_time": "2024-08-06T12:00:00Z",
+      "end_time": "2024-08-06T16:00:00Z",
+      "title": "Découverte de Civilization VI",
+      "canceled_until": null,
+      "category": {
+        "id": "492553",
+        "name": "Sid Meier's Civilization VI"
       },
       "is_recurring": true
     }
