@@ -13,30 +13,6 @@
   },
   "schedulers": [
     {
-      "id": "eyJzZWdtZW50SUQiOiI3ZGE0ODliMy05MjVjLTQzM2UtYTVmNS00MjY1OGI3MmM3NjIiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjoyOX0=",
-      "start_time": "2024-07-17T09:00:00Z",
-      "end_time": "2024-07-17T12:00:00Z",
-      "title": "Lycans avé les potes",
-      "canceled_until": null,
-      "category": {
-        "id": "1494074023",
-        "name": "Lycans"
-      },
-      "is_recurring": true
-    },
-    {
-      "id": "eyJzZWdtZW50SUQiOiIyNGQ0ZDE4My0wZWUyLTRiNDQtODAzMy05YmQ3YjZhYWY5OGQiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjoyOX0=",
-      "start_time": "2024-07-17T12:00:00Z",
-      "end_time": "2024-07-17T17:00:00Z",
-      "title": "Suite du DLC Elden Ring",
-      "canceled_until": null,
-      "category": {
-        "id": "512953",
-        "name": "ELDEN RING"
-      },
-      "is_recurring": true
-    },
-    {
       "id": "eyJzZWdtZW50SUQiOiI2Y2QzOWIzMS1kZjZjLTRiMjctYTAzMS02NWU0N2VjY2ExZTgiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjoyOX0=",
       "start_time": "2024-07-18T11:00:00Z",
       "end_time": "2024-07-18T18:00:00Z",
@@ -249,6 +225,30 @@
       "category": {
         "id": "492553",
         "name": "Sid Meier's Civilization VI"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiJmY2RmZjRjMi03OTJiLTRlZjAtODM3ZC1hMjQxNWU5OGRlZmEiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjozMn0=",
+      "start_time": "2024-08-06T16:00:00Z",
+      "end_time": "2024-08-06T20:00:00Z",
+      "title": "Civilization VI avec Antoine, Gius, Pressea, Zera, Etoiles...",
+      "canceled_until": null,
+      "category": {
+        "id": "492553",
+        "name": "Sid Meier's Civilization VI"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiI3ZGE0ODliMy05MjVjLTQzM2UtYTVmNS00MjY1OGI3MmM3NjIiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjozMn0=",
+      "start_time": "2024-08-07T09:00:00Z",
+      "end_time": "2024-08-07T12:00:00Z",
+      "title": "Lycans avé les potes",
+      "canceled_until": null,
+      "category": {
+        "id": "1494074023",
+        "name": "Lycans"
       },
       "is_recurring": true
     }
