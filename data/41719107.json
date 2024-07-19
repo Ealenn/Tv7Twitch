@@ -13,10 +13,58 @@
   },
   "schedulers": [
     {
+      "id": "eyJzZWdtZW50SUQiOiIwZmU4ZjcyZS1hNDYwLTRkNGYtYmUwMi00ODEyZTBlNTYwNjIiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjoyOX0=",
+      "start_time": "2024-07-19T17:00:00Z",
+      "end_time": "2024-07-19T22:00:00Z",
+      "title": "MANDATORY au TGP : jour 1, on joue la finale pour le titre mondial !",
+      "canceled_until": null,
+      "category": {
+        "id": "18122",
+        "name": "World of Warcraft"
+      },
+      "is_recurring": false
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiIwZDk4ZTRkYS0yYThmLTRkNTctYmQ2ZS01NWY2MmQ3NzIxNTMiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjoyOX0=",
+      "start_time": "2024-07-20T14:00:00Z",
+      "end_time": "2024-07-20T17:00:00Z",
+      "title": "MANDATORY joue la troisième place pour son dernier match Valorant de la saison",
+      "canceled_until": null,
+      "category": {
+        "id": "516575",
+        "name": "VALORANT"
+      },
+      "is_recurring": false
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiI4YmRhMTNiOC1jNmM3LTQ1M2EtYjkwNy04ZTgyNjQ0YWE4MjUiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjoyOX0=",
+      "start_time": "2024-07-20T17:00:00Z",
+      "end_time": "2024-07-20T22:00:00Z",
+      "title": "MANDATORY au TGP : jour 2, on joue la finale pour le titre mondial !",
+      "canceled_until": null,
+      "category": {
+        "id": "18122",
+        "name": "World of Warcraft"
+      },
+      "is_recurring": false
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiI1NGY2YjU3Ny02N2Q5LTRkZTUtYTU2MS03ZDU5NzU2MTMzMTgiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjoyOX0=",
+      "start_time": "2024-07-21T17:00:00Z",
+      "end_time": "2024-07-21T22:00:00Z",
+      "title": "MANDATORY au TGP : jour 3, on joue la finale pour le titre mondial !",
+      "canceled_until": null,
+      "category": {
+        "id": "18122",
+        "name": "World of Warcraft"
+      },
+      "is_recurring": false
+    },
+    {
       "id": "eyJzZWdtZW50SUQiOiJjY2Q0ODJiZS02ZjNhLTRjYTQtYTE3OC1iNzI4ODM3Njc4OTIiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjozMH0=",
       "start_time": "2024-07-22T16:00:00Z",
-      "end_time": "2024-07-22T18:00:00Z",
-      "title": "SORTIE MONDIALE DE ARTISAN TD (ACHETEZ LE, C'EST TROP BIEN)",
+      "end_time": "2024-07-22T18:30:00Z",
+      "title": "SORTIE MONDIALE \"ARTISAN TD\" SUR STEAM (ACHETEZ LE, C'EST TROP BIEN)",
       "canceled_until": null,
       "category": {
         "id": "387695647",
@@ -196,54 +244,6 @@
       "id": "eyJzZWdtZW50SUQiOiJiNTE0YTNkMC0xM2IxLTRjMGYtYTAzMy05OTdiYzc4Yjc1YjEiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjo0NH0=",
       "start_time": "2024-10-28T19:30:00Z",
       "end_time": "2024-10-28T23:00:00Z",
-      "title": "Soirée du lundi",
-      "canceled_until": null,
-      "category": {
-        "id": "509658",
-        "name": "Just Chatting"
-      },
-      "is_recurring": true
-    },
-    {
-      "id": "eyJzZWdtZW50SUQiOiJiNTE0YTNkMC0xM2IxLTRjMGYtYTAzMy05OTdiYzc4Yjc1YjEiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjo0NX0=",
-      "start_time": "2024-11-04T19:30:00Z",
-      "end_time": "2024-11-04T23:00:00Z",
-      "title": "Soirée du lundi",
-      "canceled_until": null,
-      "category": {
-        "id": "509658",
-        "name": "Just Chatting"
-      },
-      "is_recurring": true
-    },
-    {
-      "id": "eyJzZWdtZW50SUQiOiJiNTE0YTNkMC0xM2IxLTRjMGYtYTAzMy05OTdiYzc4Yjc1YjEiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjo0Nn0=",
-      "start_time": "2024-11-11T19:30:00Z",
-      "end_time": "2024-11-11T23:00:00Z",
-      "title": "Soirée du lundi",
-      "canceled_until": null,
-      "category": {
-        "id": "509658",
-        "name": "Just Chatting"
-      },
-      "is_recurring": true
-    },
-    {
-      "id": "eyJzZWdtZW50SUQiOiJiNTE0YTNkMC0xM2IxLTRjMGYtYTAzMy05OTdiYzc4Yjc1YjEiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjo0N30=",
-      "start_time": "2024-11-18T19:30:00Z",
-      "end_time": "2024-11-18T23:00:00Z",
-      "title": "Soirée du lundi",
-      "canceled_until": null,
-      "category": {
-        "id": "509658",
-        "name": "Just Chatting"
-      },
-      "is_recurring": true
-    },
-    {
-      "id": "eyJzZWdtZW50SUQiOiJiNTE0YTNkMC0xM2IxLTRjMGYtYTAzMy05OTdiYzc4Yjc1YjEiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjo0OH0=",
-      "start_time": "2024-11-25T19:30:00Z",
-      "end_time": "2024-11-25T23:00:00Z",
       "title": "Soirée du lundi",
       "canceled_until": null,
       "category": {
