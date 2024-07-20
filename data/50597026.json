@@ -13,18 +13,6 @@
   },
   "schedulers": [
     {
-      "id": "eyJzZWdtZW50SUQiOiJjY2EzOWE0My1iYWMwLTRmZTQtOTYxMS1hODEzNmY0YzRkZDciLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjoyOX0=",
-      "start_time": "2024-07-19T09:00:00Z",
-      "end_time": "2024-07-19T15:00:00Z",
-      "title": "24h Shiny Dex Challenge (Kanto Edition) ",
-      "canceled_until": null,
-      "category": {
-        "id": "1982936547",
-        "name": "Pokémon"
-      },
-      "is_recurring": true
-    },
-    {
       "id": "eyJzZWdtZW50SUQiOiJlOWI2ZTA4Zi03ODQ3LTRjMGEtYTkxZC1lMmY1YzgwZjIyYjYiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjozMH0=",
       "start_time": "2024-07-22T09:00:00Z",
       "end_time": "2024-07-22T16:00:00Z",
@@ -244,6 +232,18 @@
       "id": "eyJzZWdtZW50SUQiOiIyNGQ0ZDE4My0wZWUyLTRiNDQtODAzMy05YmQ3YjZhYWY5OGQiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjozMn0=",
       "start_time": "2024-08-07T12:00:00Z",
       "end_time": "2024-08-07T17:00:00Z",
+      "title": "Suite du DLC Elden Ring",
+      "canceled_until": null,
+      "category": {
+        "id": "512953",
+        "name": "ELDEN RING"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiI2Y2QzOWIzMS1kZjZjLTRiMjctYTAzMS02NWU0N2VjY2ExZTgiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjozMn0=",
+      "start_time": "2024-08-08T11:00:00Z",
+      "end_time": "2024-08-08T18:00:00Z",
       "title": "Suite du DLC Elden Ring",
       "canceled_until": null,
       "category": {
