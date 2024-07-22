@@ -15,8 +15,8 @@
     {
       "id": "eyJzZWdtZW50SUQiOiJlOWI2ZTA4Zi03ODQ3LTRjMGEtYTkxZC1lMmY1YzgwZjIyYjYiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjozMH0=",
       "start_time": "2024-07-22T09:00:00Z",
-      "end_time": "2024-07-22T16:00:00Z",
-      "title": "Culture et plaisir sur le Maître des Fleurs",
+      "end_time": "2024-07-22T14:00:00Z",
+      "title": "Chefline présente le Maître des Fleurs",
       "canceled_until": null,
       "category": {
         "id": "338715930",
@@ -26,69 +26,45 @@
     },
     {
       "id": "eyJzZWdtZW50SUQiOiI2YjZkOTE2ZC1mNGE1LTRlZWMtYWEwMS0xY2Q0OWM5OWE3NjQiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjozMH0=",
-      "start_time": "2024-07-23T12:00:00Z",
-      "end_time": "2024-07-23T16:00:00Z",
-      "title": "Découverte de Civilization VI",
+      "start_time": "2024-07-23T09:00:00Z",
+      "end_time": "2024-07-23T14:00:00Z",
+      "title": "La suite de la découverte d'isaac par Chefline",
       "canceled_until": null,
       "category": {
-        "id": "492553",
-        "name": "Sid Meier's Civilization VI"
-      },
-      "is_recurring": true
-    },
-    {
-      "id": "eyJzZWdtZW50SUQiOiJmY2RmZjRjMi03OTJiLTRlZjAtODM3ZC1hMjQxNWU5OGRlZmEiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjozMH0=",
-      "start_time": "2024-07-23T16:00:00Z",
-      "end_time": "2024-07-23T20:00:00Z",
-      "title": "Civilization VI avec Antoine, Gius, Pressea, Zera, Etoiles...",
-      "canceled_until": null,
-      "category": {
-        "id": "492553",
-        "name": "Sid Meier's Civilization VI"
+        "id": "94073",
+        "name": "The Binding of Isaac: Rebirth"
       },
       "is_recurring": true
     },
     {
       "id": "eyJzZWdtZW50SUQiOiI3ZGE0ODliMy05MjVjLTQzM2UtYTVmNS00MjY1OGI3MmM3NjIiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjozMH0=",
       "start_time": "2024-07-24T09:00:00Z",
-      "end_time": "2024-07-24T12:00:00Z",
-      "title": "Lycans avé les potes",
+      "end_time": "2024-07-24T14:00:00Z",
+      "title": "Chefline et Flonflon enchainés sur Chained together",
       "canceled_until": null,
       "category": {
-        "id": "1494074023",
-        "name": "Lycans"
-      },
-      "is_recurring": true
-    },
-    {
-      "id": "eyJzZWdtZW50SUQiOiIyNGQ0ZDE4My0wZWUyLTRiNDQtODAzMy05YmQ3YjZhYWY5OGQiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjozMH0=",
-      "start_time": "2024-07-24T12:00:00Z",
-      "end_time": "2024-07-24T17:00:00Z",
-      "title": "Suite du DLC Elden Ring",
-      "canceled_until": null,
-      "category": {
-        "id": "512953",
-        "name": "ELDEN RING"
+        "id": "14842174",
+        "name": "Chained Together"
       },
       "is_recurring": true
     },
     {
       "id": "eyJzZWdtZW50SUQiOiI2Y2QzOWIzMS1kZjZjLTRiMjctYTAzMS02NWU0N2VjY2ExZTgiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjozMH0=",
       "start_time": "2024-07-25T11:00:00Z",
-      "end_time": "2024-07-25T18:00:00Z",
-      "title": "Suite du DLC Elden Ring",
+      "end_time": "2024-07-25T16:00:00Z",
+      "title": "Retour de Ponce full YOLO",
       "canceled_until": null,
       "category": {
-        "id": "512953",
-        "name": "ELDEN RING"
+        "id": "509658",
+        "name": "Just Chatting"
       },
       "is_recurring": true
     },
     {
       "id": "eyJzZWdtZW50SUQiOiJjY2EzOWE0My1iYWMwLTRmZTQtOTYxMS1hODEzNmY0YzRkZDciLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjozMH0=",
       "start_time": "2024-07-26T09:00:00Z",
-      "end_time": "2024-07-26T15:00:00Z",
-      "title": "24h Shiny Dex Challenge (Kanto Edition) ",
+      "end_time": "2024-07-26T12:00:00Z",
+      "title": "Lycans avé les copains",
       "canceled_until": null,
       "category": {
         "id": "1982936547",
@@ -97,10 +73,22 @@
       "is_recurring": true
     },
     {
+      "id": "eyJzZWdtZW50SUQiOiI4YzQxOTc4ZC0yYTliLTQ4NjctOGNlZi1kMWQ1MjkxZGFiNmQiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjozMH0=",
+      "start_time": "2024-07-26T12:00:00Z",
+      "end_time": "2024-07-26T16:00:00Z",
+      "title": "Le maitre aiguille sur Elden ring",
+      "canceled_until": null,
+      "category": {
+        "id": "512953",
+        "name": "ELDEN RING"
+      },
+      "is_recurring": true
+    },
+    {
       "id": "eyJzZWdtZW50SUQiOiJlOWI2ZTA4Zi03ODQ3LTRjMGEtYTkxZC1lMmY1YzgwZjIyYjYiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjozMX0=",
       "start_time": "2024-07-29T09:00:00Z",
-      "end_time": "2024-07-29T16:00:00Z",
-      "title": "Culture et plaisir sur le Maître des Fleurs",
+      "end_time": "2024-07-29T14:00:00Z",
+      "title": "Chefline présente le Maître des Fleurs",
       "canceled_until": null,
       "category": {
         "id": "338715930",
@@ -110,69 +98,45 @@
     },
     {
       "id": "eyJzZWdtZW50SUQiOiI2YjZkOTE2ZC1mNGE1LTRlZWMtYWEwMS0xY2Q0OWM5OWE3NjQiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjozMX0=",
-      "start_time": "2024-07-30T12:00:00Z",
-      "end_time": "2024-07-30T16:00:00Z",
-      "title": "Découverte de Civilization VI",
+      "start_time": "2024-07-30T09:00:00Z",
+      "end_time": "2024-07-30T14:00:00Z",
+      "title": "La suite de la découverte d'isaac par Chefline",
       "canceled_until": null,
       "category": {
-        "id": "492553",
-        "name": "Sid Meier's Civilization VI"
-      },
-      "is_recurring": true
-    },
-    {
-      "id": "eyJzZWdtZW50SUQiOiJmY2RmZjRjMi03OTJiLTRlZjAtODM3ZC1hMjQxNWU5OGRlZmEiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjozMX0=",
-      "start_time": "2024-07-30T16:00:00Z",
-      "end_time": "2024-07-30T20:00:00Z",
-      "title": "Civilization VI avec Antoine, Gius, Pressea, Zera, Etoiles...",
-      "canceled_until": null,
-      "category": {
-        "id": "492553",
-        "name": "Sid Meier's Civilization VI"
+        "id": "94073",
+        "name": "The Binding of Isaac: Rebirth"
       },
       "is_recurring": true
     },
     {
       "id": "eyJzZWdtZW50SUQiOiI3ZGE0ODliMy05MjVjLTQzM2UtYTVmNS00MjY1OGI3MmM3NjIiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjozMX0=",
       "start_time": "2024-07-31T09:00:00Z",
-      "end_time": "2024-07-31T12:00:00Z",
-      "title": "Lycans avé les potes",
+      "end_time": "2024-07-31T14:00:00Z",
+      "title": "Chefline et Flonflon enchainés sur Chained together",
       "canceled_until": null,
       "category": {
-        "id": "1494074023",
-        "name": "Lycans"
-      },
-      "is_recurring": true
-    },
-    {
-      "id": "eyJzZWdtZW50SUQiOiIyNGQ0ZDE4My0wZWUyLTRiNDQtODAzMy05YmQ3YjZhYWY5OGQiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjozMX0=",
-      "start_time": "2024-07-31T12:00:00Z",
-      "end_time": "2024-07-31T17:00:00Z",
-      "title": "Suite du DLC Elden Ring",
-      "canceled_until": null,
-      "category": {
-        "id": "512953",
-        "name": "ELDEN RING"
+        "id": "14842174",
+        "name": "Chained Together"
       },
       "is_recurring": true
     },
     {
       "id": "eyJzZWdtZW50SUQiOiI2Y2QzOWIzMS1kZjZjLTRiMjctYTAzMS02NWU0N2VjY2ExZTgiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjozMX0=",
       "start_time": "2024-08-01T11:00:00Z",
-      "end_time": "2024-08-01T18:00:00Z",
-      "title": "Suite du DLC Elden Ring",
+      "end_time": "2024-08-01T16:00:00Z",
+      "title": "Retour de Ponce full YOLO",
       "canceled_until": null,
       "category": {
-        "id": "512953",
-        "name": "ELDEN RING"
+        "id": "509658",
+        "name": "Just Chatting"
       },
       "is_recurring": true
     },
     {
       "id": "eyJzZWdtZW50SUQiOiJjY2EzOWE0My1iYWMwLTRmZTQtOTYxMS1hODEzNmY0YzRkZDciLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjozMX0=",
       "start_time": "2024-08-02T09:00:00Z",
-      "end_time": "2024-08-02T15:00:00Z",
-      "title": "24h Shiny Dex Challenge (Kanto Edition) ",
+      "end_time": "2024-08-02T12:00:00Z",
+      "title": "Lycans avé les copains",
       "canceled_until": null,
       "category": {
         "id": "1982936547",
@@ -181,10 +145,22 @@
       "is_recurring": true
     },
     {
+      "id": "eyJzZWdtZW50SUQiOiI4YzQxOTc4ZC0yYTliLTQ4NjctOGNlZi1kMWQ1MjkxZGFiNmQiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjozMX0=",
+      "start_time": "2024-08-02T12:00:00Z",
+      "end_time": "2024-08-02T16:00:00Z",
+      "title": "Le maitre aiguille sur Elden ring",
+      "canceled_until": null,
+      "category": {
+        "id": "512953",
+        "name": "ELDEN RING"
+      },
+      "is_recurring": true
+    },
+    {
       "id": "eyJzZWdtZW50SUQiOiJlOWI2ZTA4Zi03ODQ3LTRjMGEtYTkxZC1lMmY1YzgwZjIyYjYiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjozMn0=",
       "start_time": "2024-08-05T09:00:00Z",
-      "end_time": "2024-08-05T16:00:00Z",
-      "title": "Culture et plaisir sur le Maître des Fleurs",
+      "end_time": "2024-08-05T14:00:00Z",
+      "title": "Chefline présente le Maître des Fleurs",
       "canceled_until": null,
       "category": {
         "id": "338715930",
@@ -194,61 +170,85 @@
     },
     {
       "id": "eyJzZWdtZW50SUQiOiI2YjZkOTE2ZC1mNGE1LTRlZWMtYWEwMS0xY2Q0OWM5OWE3NjQiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjozMn0=",
-      "start_time": "2024-08-06T12:00:00Z",
-      "end_time": "2024-08-06T16:00:00Z",
-      "title": "Découverte de Civilization VI",
+      "start_time": "2024-08-06T09:00:00Z",
+      "end_time": "2024-08-06T14:00:00Z",
+      "title": "La suite de la découverte d'isaac par Chefline",
       "canceled_until": null,
       "category": {
-        "id": "492553",
-        "name": "Sid Meier's Civilization VI"
-      },
-      "is_recurring": true
-    },
-    {
-      "id": "eyJzZWdtZW50SUQiOiJmY2RmZjRjMi03OTJiLTRlZjAtODM3ZC1hMjQxNWU5OGRlZmEiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjozMn0=",
-      "start_time": "2024-08-06T16:00:00Z",
-      "end_time": "2024-08-06T20:00:00Z",
-      "title": "Civilization VI avec Antoine, Gius, Pressea, Zera, Etoiles...",
-      "canceled_until": null,
-      "category": {
-        "id": "492553",
-        "name": "Sid Meier's Civilization VI"
+        "id": "94073",
+        "name": "The Binding of Isaac: Rebirth"
       },
       "is_recurring": true
     },
     {
       "id": "eyJzZWdtZW50SUQiOiI3ZGE0ODliMy05MjVjLTQzM2UtYTVmNS00MjY1OGI3MmM3NjIiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjozMn0=",
       "start_time": "2024-08-07T09:00:00Z",
-      "end_time": "2024-08-07T12:00:00Z",
-      "title": "Lycans avé les potes",
+      "end_time": "2024-08-07T14:00:00Z",
+      "title": "Chefline et Flonflon enchainés sur Chained together",
       "canceled_until": null,
       "category": {
-        "id": "1494074023",
-        "name": "Lycans"
-      },
-      "is_recurring": true
-    },
-    {
-      "id": "eyJzZWdtZW50SUQiOiIyNGQ0ZDE4My0wZWUyLTRiNDQtODAzMy05YmQ3YjZhYWY5OGQiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjozMn0=",
-      "start_time": "2024-08-07T12:00:00Z",
-      "end_time": "2024-08-07T17:00:00Z",
-      "title": "Suite du DLC Elden Ring",
-      "canceled_until": null,
-      "category": {
-        "id": "512953",
-        "name": "ELDEN RING"
+        "id": "14842174",
+        "name": "Chained Together"
       },
       "is_recurring": true
     },
     {
       "id": "eyJzZWdtZW50SUQiOiI2Y2QzOWIzMS1kZjZjLTRiMjctYTAzMS02NWU0N2VjY2ExZTgiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjozMn0=",
       "start_time": "2024-08-08T11:00:00Z",
-      "end_time": "2024-08-08T18:00:00Z",
-      "title": "Suite du DLC Elden Ring",
+      "end_time": "2024-08-08T16:00:00Z",
+      "title": "Retour de Ponce full YOLO",
+      "canceled_until": null,
+      "category": {
+        "id": "509658",
+        "name": "Just Chatting"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiJjY2EzOWE0My1iYWMwLTRmZTQtOTYxMS1hODEzNmY0YzRkZDciLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjozMn0=",
+      "start_time": "2024-08-09T09:00:00Z",
+      "end_time": "2024-08-09T12:00:00Z",
+      "title": "Lycans avé les copains",
+      "canceled_until": null,
+      "category": {
+        "id": "1982936547",
+        "name": "Pokémon"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiI4YzQxOTc4ZC0yYTliLTQ4NjctOGNlZi1kMWQ1MjkxZGFiNmQiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjozMn0=",
+      "start_time": "2024-08-09T12:00:00Z",
+      "end_time": "2024-08-09T16:00:00Z",
+      "title": "Le maitre aiguille sur Elden ring",
       "canceled_until": null,
       "category": {
         "id": "512953",
         "name": "ELDEN RING"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiJlOWI2ZTA4Zi03ODQ3LTRjMGEtYTkxZC1lMmY1YzgwZjIyYjYiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjozM30=",
+      "start_time": "2024-08-12T09:00:00Z",
+      "end_time": "2024-08-12T14:00:00Z",
+      "title": "Chefline présente le Maître des Fleurs",
+      "canceled_until": null,
+      "category": {
+        "id": "338715930",
+        "name": "Maitre des Fleurs"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiI2YjZkOTE2ZC1mNGE1LTRlZWMtYWEwMS0xY2Q0OWM5OWE3NjQiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjozM30=",
+      "start_time": "2024-08-13T09:00:00Z",
+      "end_time": "2024-08-13T14:00:00Z",
+      "title": "La suite de la découverte d'isaac par Chefline",
+      "canceled_until": null,
+      "category": {
+        "id": "94073",
+        "name": "The Binding of Isaac: Rebirth"
       },
       "is_recurring": true
     }

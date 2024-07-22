@@ -13,18 +13,6 @@
   },
   "schedulers": [
     {
-      "id": "eyJzZWdtZW50SUQiOiI1NGY2YjU3Ny02N2Q5LTRkZTUtYTU2MS03ZDU5NzU2MTMzMTgiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjoyOX0=",
-      "start_time": "2024-07-21T17:00:00Z",
-      "end_time": "2024-07-21T22:00:00Z",
-      "title": "MANDATORY au TGP : jour 3, on joue la finale pour le titre mondial !",
-      "canceled_until": null,
-      "category": {
-        "id": "18122",
-        "name": "World of Warcraft"
-      },
-      "is_recurring": false
-    },
-    {
       "id": "eyJzZWdtZW50SUQiOiJjY2Q0ODJiZS02ZjNhLTRjYTQtYTE3OC1iNzI4ODM3Njc4OTIiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjozMH0=",
       "start_time": "2024-07-22T16:00:00Z",
       "end_time": "2024-07-22T18:30:00Z",
@@ -244,6 +232,18 @@
       "id": "eyJzZWdtZW50SUQiOiJiNTE0YTNkMC0xM2IxLTRjMGYtYTAzMy05OTdiYzc4Yjc1YjEiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjo0N30=",
       "start_time": "2024-11-18T19:30:00Z",
       "end_time": "2024-11-18T23:00:00Z",
+      "title": "Soirée du lundi",
+      "canceled_until": null,
+      "category": {
+        "id": "509658",
+        "name": "Just Chatting"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiJiNTE0YTNkMC0xM2IxLTRjMGYtYTAzMy05OTdiYzc4Yjc1YjEiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjo0OH0=",
+      "start_time": "2024-11-25T19:30:00Z",
+      "end_time": "2024-11-25T23:00:00Z",
       "title": "Soirée du lundi",
       "canceled_until": null,
       "category": {
