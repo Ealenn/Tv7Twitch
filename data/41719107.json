@@ -13,30 +13,6 @@
   },
   "schedulers": [
     {
-      "id": "eyJzZWdtZW50SUQiOiJjY2Q0ODJiZS02ZjNhLTRjYTQtYTE3OC1iNzI4ODM3Njc4OTIiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjozMH0=",
-      "start_time": "2024-07-22T16:00:00Z",
-      "end_time": "2024-07-22T18:30:00Z",
-      "title": "SORTIE MONDIALE \"ARTISAN TD\" SUR STEAM (ACHETEZ LE, C'EST TROP BIEN)",
-      "canceled_until": null,
-      "category": {
-        "id": "387695647",
-        "name": "Artisan TD"
-      },
-      "is_recurring": false
-    },
-    {
-      "id": "eyJzZWdtZW50SUQiOiJiNTE0YTNkMC0xM2IxLTRjMGYtYTAzMy05OTdiYzc4Yjc1YjEiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjozMH0=",
-      "start_time": "2024-07-22T18:30:00Z",
-      "end_time": "2024-07-22T22:00:00Z",
-      "title": "Soirée du lundi",
-      "canceled_until": null,
-      "category": {
-        "id": "509658",
-        "name": "Just Chatting"
-      },
-      "is_recurring": true
-    },
-    {
       "id": "eyJzZWdtZW50SUQiOiJiNTE0YTNkMC0xM2IxLTRjMGYtYTAzMy05OTdiYzc4Yjc1YjEiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjozMX0=",
       "start_time": "2024-07-29T18:30:00Z",
       "end_time": "2024-07-29T22:00:00Z",
@@ -244,6 +220,30 @@
       "id": "eyJzZWdtZW50SUQiOiJiNTE0YTNkMC0xM2IxLTRjMGYtYTAzMy05OTdiYzc4Yjc1YjEiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjo0OH0=",
       "start_time": "2024-11-25T19:30:00Z",
       "end_time": "2024-11-25T23:00:00Z",
+      "title": "Soirée du lundi",
+      "canceled_until": null,
+      "category": {
+        "id": "509658",
+        "name": "Just Chatting"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiJiNTE0YTNkMC0xM2IxLTRjMGYtYTAzMy05OTdiYzc4Yjc1YjEiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjo0OX0=",
+      "start_time": "2024-12-02T19:30:00Z",
+      "end_time": "2024-12-02T23:00:00Z",
+      "title": "Soirée du lundi",
+      "canceled_until": null,
+      "category": {
+        "id": "509658",
+        "name": "Just Chatting"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiJiNTE0YTNkMC0xM2IxLTRjMGYtYTAzMy05OTdiYzc4Yjc1YjEiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjo1MH0=",
+      "start_time": "2024-12-09T19:30:00Z",
+      "end_time": "2024-12-09T23:00:00Z",
       "title": "Soirée du lundi",
       "canceled_until": null,
       "category": {
