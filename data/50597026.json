@@ -13,18 +13,6 @@
   },
   "schedulers": [
     {
-      "id": "eyJzZWdtZW50SUQiOiI3ZGE0ODliMy05MjVjLTQzM2UtYTVmNS00MjY1OGI3MmM3NjIiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjozMH0=",
-      "start_time": "2024-07-24T09:00:00Z",
-      "end_time": "2024-07-24T14:00:00Z",
-      "title": "Chefline et Flonflon enchainés sur Chained together",
-      "canceled_until": null,
-      "category": {
-        "id": "14842174",
-        "name": "Chained Together"
-      },
-      "is_recurring": true
-    },
-    {
       "id": "eyJzZWdtZW50SUQiOiI2Y2QzOWIzMS1kZjZjLTRiMjctYTAzMS02NWU0N2VjY2ExZTgiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjozMH0=",
       "start_time": "2024-07-25T11:00:00Z",
       "end_time": "2024-07-25T16:00:00Z",
@@ -249,6 +237,18 @@
       "category": {
         "id": "509658",
         "name": "Just Chatting"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiJjY2EzOWE0My1iYWMwLTRmZTQtOTYxMS1hODEzNmY0YzRkZDciLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjozM30=",
+      "start_time": "2024-08-16T09:00:00Z",
+      "end_time": "2024-08-16T12:00:00Z",
+      "title": "Lycans avé les copains",
+      "canceled_until": null,
+      "category": {
+        "id": "1982936547",
+        "name": "Pokémon"
       },
       "is_recurring": true
     }
