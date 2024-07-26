@@ -13,26 +13,14 @@
   },
   "schedulers": [
     {
-      "id": "eyJzZWdtZW50SUQiOiI2Y2QzOWIzMS1kZjZjLTRiMjctYTAzMS02NWU0N2VjY2ExZTgiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjozMH0=",
-      "start_time": "2024-07-25T11:00:00Z",
-      "end_time": "2024-07-25T16:00:00Z",
-      "title": "Retour de Ponce full YOLO",
-      "canceled_until": null,
-      "category": {
-        "id": "509658",
-        "name": "Just Chatting"
-      },
-      "is_recurring": true
-    },
-    {
       "id": "eyJzZWdtZW50SUQiOiJjY2EzOWE0My1iYWMwLTRmZTQtOTYxMS1hODEzNmY0YzRkZDciLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjozMH0=",
       "start_time": "2024-07-26T09:00:00Z",
       "end_time": "2024-07-26T12:00:00Z",
       "title": "Lycans avé les copains",
       "canceled_until": null,
       "category": {
-        "id": "1982936547",
-        "name": "Pokémon"
+        "id": "1494074023",
+        "name": "Lycans"
       },
       "is_recurring": true
     },
@@ -103,8 +91,8 @@
       "title": "Lycans avé les copains",
       "canceled_until": null,
       "category": {
-        "id": "1982936547",
-        "name": "Pokémon"
+        "id": "1494074023",
+        "name": "Lycans"
       },
       "is_recurring": true
     },
@@ -175,8 +163,8 @@
       "title": "Lycans avé les copains",
       "canceled_until": null,
       "category": {
-        "id": "1982936547",
-        "name": "Pokémon"
+        "id": "1494074023",
+        "name": "Lycans"
       },
       "is_recurring": true
     },
@@ -247,8 +235,20 @@
       "title": "Lycans avé les copains",
       "canceled_until": null,
       "category": {
-        "id": "1982936547",
-        "name": "Pokémon"
+        "id": "1494074023",
+        "name": "Lycans"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiI4YzQxOTc4ZC0yYTliLTQ4NjctOGNlZi1kMWQ1MjkxZGFiNmQiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjozM30=",
+      "start_time": "2024-08-16T12:00:00Z",
+      "end_time": "2024-08-16T16:00:00Z",
+      "title": "Le maitre aiguille sur Elden ring",
+      "canceled_until": null,
+      "category": {
+        "id": "512953",
+        "name": "ELDEN RING"
       },
       "is_recurring": true
     }
