@@ -13,18 +13,6 @@
   },
   "schedulers": [
     {
-      "id": "eyJzZWdtZW50SUQiOiI3ZTkwYzEwOS1jMzc4LTQ2YzctOTg4My0zNDE2YTExMTAxOGEiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjozMX0=",
-      "start_time": "2024-07-30T12:00:00Z",
-      "end_time": "2024-07-30T14:00:00Z",
-      "title": "🥇 LIVE IRL AU CLUB FRANCE",
-      "canceled_until": null,
-      "category": {
-        "id": "509658",
-        "name": "Just Chatting"
-      },
-      "is_recurring": false
-    },
-    {
       "id": "eyJzZWdtZW50SUQiOiIwMzI3MGM4NC1kNTU3LTQwYzAtYjAxZi05YzY1NWQzZGJhMTAiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjozMX0=",
       "start_time": "2024-08-01T12:00:00Z",
       "end_time": "2024-08-01T14:00:00Z",
@@ -244,6 +232,18 @@
       "id": "eyJzZWdtZW50SUQiOiJkMjc5YTZhMi1mNjhlLTQ0NTktOGZlNS0yNWU3NmZiNWVmNzEiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjo0OH0=",
       "start_time": "2024-11-25T18:30:00Z",
       "end_time": "2024-11-25T19:30:00Z",
+      "title": "🎙 PRÉ LIVE",
+      "canceled_until": null,
+      "category": {
+        "id": "509658",
+        "name": "Just Chatting"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiJkMjc5YTZhMi1mNjhlLTQ0NTktOGZlNS0yNWU3NmZiNWVmNzEiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjo0OX0=",
+      "start_time": "2024-12-02T18:30:00Z",
+      "end_time": "2024-12-02T19:30:00Z",
       "title": "🎙 PRÉ LIVE",
       "canceled_until": null,
       "category": {
