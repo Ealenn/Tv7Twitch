@@ -13,30 +13,6 @@
   },
   "schedulers": [
     {
-      "id": "eyJzZWdtZW50SUQiOiI3ZGE0ODliMy05MjVjLTQzM2UtYTVmNS00MjY1OGI3MmM3NjIiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjozMX0=",
-      "start_time": "2024-07-31T13:00:00Z",
-      "end_time": "2024-07-31T18:00:00Z",
-      "title": "La suite du banger ArtisanTD",
-      "canceled_until": null,
-      "category": {
-        "id": "387695647",
-        "name": "Artisan TD"
-      },
-      "is_recurring": true
-    },
-    {
-      "id": "eyJzZWdtZW50SUQiOiJkZDMzZDA4OC1jZTExLTRkOGYtYjdiMy0zMzUxYTYzM2ZjYzgiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjozMX0=",
-      "start_time": "2024-07-31T18:00:00Z",
-      "end_time": "2024-07-31T22:00:00Z",
-      "title": "Evenement trackMania RPG organisé par Wingo",
-      "canceled_until": null,
-      "category": {
-        "id": "687129551",
-        "name": "Trackmania"
-      },
-      "is_recurring": true
-    },
-    {
       "id": "eyJzZWdtZW50SUQiOiI2Y2QzOWIzMS1kZjZjLTRiMjctYTAzMS02NWU0N2VjY2ExZTgiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjozMX0=",
       "start_time": "2024-08-01T11:00:00Z",
       "end_time": "2024-08-01T17:00:00Z",
@@ -249,6 +225,30 @@
       "category": {
         "id": "1068239917",
         "name": "Mario Party Superstars"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiI4YzQxOTc4ZC0yYTliLTQ4NjctOGNlZi1kMWQ1MjkxZGFiNmQiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjozM30=",
+      "start_time": "2024-08-16T12:00:00Z",
+      "end_time": "2024-08-16T16:00:00Z",
+      "title": "Le maitre aiguille sur Elden ring",
+      "canceled_until": null,
+      "category": {
+        "id": "512953",
+        "name": "ELDEN RING"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiJlOWI2ZTA4Zi03ODQ3LTRjMGEtYTkxZC1lMmY1YzgwZjIyYjYiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjozNH0=",
+      "start_time": "2024-08-19T09:00:00Z",
+      "end_time": "2024-08-19T14:00:00Z",
+      "title": "Chefline présente le Maître des Fleurs",
+      "canceled_until": null,
+      "category": {
+        "id": "338715930",
+        "name": "Maitre des Fleurs"
       },
       "is_recurring": true
     }
