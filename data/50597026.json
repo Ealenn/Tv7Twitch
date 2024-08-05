@@ -15,8 +15,8 @@
     {
       "id": "eyJzZWdtZW50SUQiOiJlOWI2ZTA4Zi03ODQ3LTRjMGEtYTkxZC1lMmY1YzgwZjIyYjYiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjozMn0=",
       "start_time": "2024-08-05T09:00:00Z",
-      "end_time": "2024-08-05T14:00:00Z",
-      "title": "Chefline présente le Maître des Fleurs",
+      "end_time": "2024-08-05T16:00:00Z",
+      "title": "Culture et plaisir avec le Maître des Fleurs",
       "canceled_until": null,
       "category": {
         "id": "338715930",
@@ -26,32 +26,32 @@
     },
     {
       "id": "eyJzZWdtZW50SUQiOiI2YjZkOTE2ZC1mNGE1LTRlZWMtYWEwMS0xY2Q0OWM5OWE3NjQiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjozMn0=",
-      "start_time": "2024-08-06T11:00:00Z",
-      "end_time": "2024-08-06T18:00:00Z",
-      "title": "Le retour du Ponpon ",
+      "start_time": "2024-08-06T09:00:00Z",
+      "end_time": "2024-08-06T13:00:00Z",
+      "title": "Lockdown Protocol avec plein de gens",
       "canceled_until": null,
       "category": {
-        "id": "509658",
-        "name": "Just Chatting"
+        "id": "144418804",
+        "name": "LOCKDOWN Protocol"
       },
       "is_recurring": true
     },
     {
       "id": "eyJzZWdtZW50SUQiOiIzNWIzN2E2Ni1jNTM0LTQ5YjYtYTUxMy05NGQ2ZWVjNTM4OWUiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjozMn0=",
-      "start_time": "2024-08-06T18:00:00Z",
-      "end_time": "2024-08-06T22:00:00Z",
-      "title": "Découverte du nouveau Raid sur WoW SoD",
+      "start_time": "2024-08-06T13:00:00Z",
+      "end_time": "2024-08-06T18:00:00Z",
+      "title": "L'addiction continue ",
       "canceled_until": null,
       "category": {
-        "id": "18122",
-        "name": "World of Warcraft"
+        "id": "387695647",
+        "name": "Artisan TD"
       },
       "is_recurring": true
     },
     {
       "id": "eyJzZWdtZW50SUQiOiI3ZGE0ODliMy05MjVjLTQzM2UtYTVmNS00MjY1OGI3MmM3NjIiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjozMn0=",
-      "start_time": "2024-08-07T13:00:00Z",
-      "end_time": "2024-08-07T18:00:00Z",
+      "start_time": "2024-08-07T09:00:00Z",
+      "end_time": "2024-08-07T11:00:00Z",
       "title": "La suite du banger ArtisanTD",
       "canceled_until": null,
       "category": {
@@ -62,57 +62,30 @@
     },
     {
       "id": "eyJzZWdtZW50SUQiOiJkZDMzZDA4OC1jZTExLTRkOGYtYjdiMy0zMzUxYTYzM2ZjYzgiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjozMn0=",
-      "start_time": "2024-08-07T18:00:00Z",
-      "end_time": "2024-08-07T22:00:00Z",
-      "title": "Evenement trackMania RPG organisé par Wingo",
+      "start_time": "2024-08-07T11:00:00Z",
+      "end_time": "2024-08-07T16:00:00Z",
+      "title": "Le maitre aiguille sur Elden Ring",
       "canceled_until": null,
       "category": {
-        "id": "687129551",
-        "name": "Trackmania"
+        "id": "512953",
+        "name": "ELDEN RING"
       },
       "is_recurring": true
     },
     {
       "id": "eyJzZWdtZW50SUQiOiI2Y2QzOWIzMS1kZjZjLTRiMjctYTAzMS02NWU0N2VjY2ExZTgiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjozMn0=",
-      "start_time": "2024-08-08T11:00:00Z",
-      "end_time": "2024-08-08T17:00:00Z",
-      "title": "Le maitre aiguille sur Elden ring",
+      "start_time": "2024-08-08T14:00:00Z",
+      "end_time": "2024-08-08T20:00:00Z",
+      "title": "Ici on prend pas de douche, ça joue fort ",
       "canceled_until": null,
-      "category": {
-        "id": "512953",
-        "name": "ELDEN RING"
-      },
-      "is_recurring": true
-    },
-    {
-      "id": "eyJzZWdtZW50SUQiOiJjY2EzOWE0My1iYWMwLTRmZTQtOTYxMS1hODEzNmY0YzRkZDciLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjozMn0=",
-      "start_time": "2024-08-09T09:00:00Z",
-      "end_time": "2024-08-09T12:00:00Z",
-      "title": "Mario Party avé les copains",
-      "canceled_until": null,
-      "category": {
-        "id": "1068239917",
-        "name": "Mario Party Superstars"
-      },
-      "is_recurring": true
-    },
-    {
-      "id": "eyJzZWdtZW50SUQiOiI4YzQxOTc4ZC0yYTliLTQ4NjctOGNlZi1kMWQ1MjkxZGFiNmQiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjozMn0=",
-      "start_time": "2024-08-09T12:00:00Z",
-      "end_time": "2024-08-09T16:00:00Z",
-      "title": "Le maitre aiguille sur Elden ring",
-      "canceled_until": null,
-      "category": {
-        "id": "512953",
-        "name": "ELDEN RING"
-      },
+      "category": null,
       "is_recurring": true
     },
     {
       "id": "eyJzZWdtZW50SUQiOiJlOWI2ZTA4Zi03ODQ3LTRjMGEtYTkxZC1lMmY1YzgwZjIyYjYiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjozM30=",
       "start_time": "2024-08-12T09:00:00Z",
-      "end_time": "2024-08-12T14:00:00Z",
-      "title": "Chefline présente le Maître des Fleurs",
+      "end_time": "2024-08-12T16:00:00Z",
+      "title": "Culture et plaisir avec le Maître des Fleurs",
       "canceled_until": null,
       "category": {
         "id": "338715930",
@@ -122,32 +95,32 @@
     },
     {
       "id": "eyJzZWdtZW50SUQiOiI2YjZkOTE2ZC1mNGE1LTRlZWMtYWEwMS0xY2Q0OWM5OWE3NjQiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjozM30=",
-      "start_time": "2024-08-13T11:00:00Z",
-      "end_time": "2024-08-13T18:00:00Z",
-      "title": "Le retour du Ponpon ",
+      "start_time": "2024-08-13T09:00:00Z",
+      "end_time": "2024-08-13T13:00:00Z",
+      "title": "Lockdown Protocol avec plein de gens",
       "canceled_until": null,
       "category": {
-        "id": "509658",
-        "name": "Just Chatting"
+        "id": "144418804",
+        "name": "LOCKDOWN Protocol"
       },
       "is_recurring": true
     },
     {
       "id": "eyJzZWdtZW50SUQiOiIzNWIzN2E2Ni1jNTM0LTQ5YjYtYTUxMy05NGQ2ZWVjNTM4OWUiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjozM30=",
-      "start_time": "2024-08-13T18:00:00Z",
-      "end_time": "2024-08-13T22:00:00Z",
-      "title": "Découverte du nouveau Raid sur WoW SoD",
+      "start_time": "2024-08-13T13:00:00Z",
+      "end_time": "2024-08-13T18:00:00Z",
+      "title": "L'addiction continue ",
       "canceled_until": null,
       "category": {
-        "id": "18122",
-        "name": "World of Warcraft"
+        "id": "387695647",
+        "name": "Artisan TD"
       },
       "is_recurring": true
     },
     {
       "id": "eyJzZWdtZW50SUQiOiI3ZGE0ODliMy05MjVjLTQzM2UtYTVmNS00MjY1OGI3MmM3NjIiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjozM30=",
-      "start_time": "2024-08-14T13:00:00Z",
-      "end_time": "2024-08-14T18:00:00Z",
+      "start_time": "2024-08-14T09:00:00Z",
+      "end_time": "2024-08-14T11:00:00Z",
       "title": "La suite du banger ArtisanTD",
       "canceled_until": null,
       "category": {
@@ -158,57 +131,30 @@
     },
     {
       "id": "eyJzZWdtZW50SUQiOiJkZDMzZDA4OC1jZTExLTRkOGYtYjdiMy0zMzUxYTYzM2ZjYzgiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjozM30=",
-      "start_time": "2024-08-14T18:00:00Z",
-      "end_time": "2024-08-14T22:00:00Z",
-      "title": "Evenement trackMania RPG organisé par Wingo",
+      "start_time": "2024-08-14T11:00:00Z",
+      "end_time": "2024-08-14T16:00:00Z",
+      "title": "Le maitre aiguille sur Elden Ring",
       "canceled_until": null,
       "category": {
-        "id": "687129551",
-        "name": "Trackmania"
+        "id": "512953",
+        "name": "ELDEN RING"
       },
       "is_recurring": true
     },
     {
       "id": "eyJzZWdtZW50SUQiOiI2Y2QzOWIzMS1kZjZjLTRiMjctYTAzMS02NWU0N2VjY2ExZTgiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjozM30=",
-      "start_time": "2024-08-15T11:00:00Z",
-      "end_time": "2024-08-15T17:00:00Z",
-      "title": "Le maitre aiguille sur Elden ring",
+      "start_time": "2024-08-15T14:00:00Z",
+      "end_time": "2024-08-15T20:00:00Z",
+      "title": "Ici on prend pas de douche, ça joue fort ",
       "canceled_until": null,
-      "category": {
-        "id": "512953",
-        "name": "ELDEN RING"
-      },
-      "is_recurring": true
-    },
-    {
-      "id": "eyJzZWdtZW50SUQiOiJjY2EzOWE0My1iYWMwLTRmZTQtOTYxMS1hODEzNmY0YzRkZDciLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjozM30=",
-      "start_time": "2024-08-16T09:00:00Z",
-      "end_time": "2024-08-16T12:00:00Z",
-      "title": "Mario Party avé les copains",
-      "canceled_until": null,
-      "category": {
-        "id": "1068239917",
-        "name": "Mario Party Superstars"
-      },
-      "is_recurring": true
-    },
-    {
-      "id": "eyJzZWdtZW50SUQiOiI4YzQxOTc4ZC0yYTliLTQ4NjctOGNlZi1kMWQ1MjkxZGFiNmQiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjozM30=",
-      "start_time": "2024-08-16T12:00:00Z",
-      "end_time": "2024-08-16T16:00:00Z",
-      "title": "Le maitre aiguille sur Elden ring",
-      "canceled_until": null,
-      "category": {
-        "id": "512953",
-        "name": "ELDEN RING"
-      },
+      "category": null,
       "is_recurring": true
     },
     {
       "id": "eyJzZWdtZW50SUQiOiJlOWI2ZTA4Zi03ODQ3LTRjMGEtYTkxZC1lMmY1YzgwZjIyYjYiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjozNH0=",
       "start_time": "2024-08-19T09:00:00Z",
-      "end_time": "2024-08-19T14:00:00Z",
-      "title": "Chefline présente le Maître des Fleurs",
+      "end_time": "2024-08-19T16:00:00Z",
+      "title": "Culture et plaisir avec le Maître des Fleurs",
       "canceled_until": null,
       "category": {
         "id": "338715930",
@@ -218,37 +164,82 @@
     },
     {
       "id": "eyJzZWdtZW50SUQiOiI2YjZkOTE2ZC1mNGE1LTRlZWMtYWEwMS0xY2Q0OWM5OWE3NjQiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjozNH0=",
-      "start_time": "2024-08-20T11:00:00Z",
-      "end_time": "2024-08-20T18:00:00Z",
-      "title": "Le retour du Ponpon ",
+      "start_time": "2024-08-20T09:00:00Z",
+      "end_time": "2024-08-20T13:00:00Z",
+      "title": "Lockdown Protocol avec plein de gens",
       "canceled_until": null,
       "category": {
-        "id": "509658",
-        "name": "Just Chatting"
+        "id": "144418804",
+        "name": "LOCKDOWN Protocol"
       },
       "is_recurring": true
     },
     {
       "id": "eyJzZWdtZW50SUQiOiIzNWIzN2E2Ni1jNTM0LTQ5YjYtYTUxMy05NGQ2ZWVjNTM4OWUiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjozNH0=",
-      "start_time": "2024-08-20T18:00:00Z",
-      "end_time": "2024-08-20T22:00:00Z",
-      "title": "Découverte du nouveau Raid sur WoW SoD",
+      "start_time": "2024-08-20T13:00:00Z",
+      "end_time": "2024-08-20T18:00:00Z",
+      "title": "L'addiction continue ",
       "canceled_until": null,
       "category": {
-        "id": "18122",
-        "name": "World of Warcraft"
+        "id": "387695647",
+        "name": "Artisan TD"
       },
       "is_recurring": true
     },
     {
       "id": "eyJzZWdtZW50SUQiOiI3ZGE0ODliMy05MjVjLTQzM2UtYTVmNS00MjY1OGI3MmM3NjIiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjozNH0=",
-      "start_time": "2024-08-21T13:00:00Z",
-      "end_time": "2024-08-21T18:00:00Z",
+      "start_time": "2024-08-21T09:00:00Z",
+      "end_time": "2024-08-21T11:00:00Z",
       "title": "La suite du banger ArtisanTD",
       "canceled_until": null,
       "category": {
         "id": "387695647",
         "name": "Artisan TD"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiJkZDMzZDA4OC1jZTExLTRkOGYtYjdiMy0zMzUxYTYzM2ZjYzgiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjozNH0=",
+      "start_time": "2024-08-21T11:00:00Z",
+      "end_time": "2024-08-21T16:00:00Z",
+      "title": "Le maitre aiguille sur Elden Ring",
+      "canceled_until": null,
+      "category": {
+        "id": "512953",
+        "name": "ELDEN RING"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiI2Y2QzOWIzMS1kZjZjLTRiMjctYTAzMS02NWU0N2VjY2ExZTgiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjozNH0=",
+      "start_time": "2024-08-22T14:00:00Z",
+      "end_time": "2024-08-22T20:00:00Z",
+      "title": "Ici on prend pas de douche, ça joue fort ",
+      "canceled_until": null,
+      "category": null,
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiJlOWI2ZTA4Zi03ODQ3LTRjMGEtYTkxZC1lMmY1YzgwZjIyYjYiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjozNX0=",
+      "start_time": "2024-08-26T09:00:00Z",
+      "end_time": "2024-08-26T16:00:00Z",
+      "title": "Culture et plaisir avec le Maître des Fleurs",
+      "canceled_until": null,
+      "category": {
+        "id": "338715930",
+        "name": "Maitre des Fleurs"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiI2YjZkOTE2ZC1mNGE1LTRlZWMtYWEwMS0xY2Q0OWM5OWE3NjQiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjozNX0=",
+      "start_time": "2024-08-27T09:00:00Z",
+      "end_time": "2024-08-27T13:00:00Z",
+      "title": "Lockdown Protocol avec plein de gens",
+      "canceled_until": null,
+      "category": {
+        "id": "144418804",
+        "name": "LOCKDOWN Protocol"
       },
       "is_recurring": true
     }
