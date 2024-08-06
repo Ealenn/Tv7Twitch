@@ -7,22 +7,94 @@
     "broadcaster_type": "partner",
     "description": "",
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/3cdae7df-600c-4833-8dfe-8d2abc5a3b25-profile_image-300x300.png",
-    "offline_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/bc133939-81b6-4410-9c9d-613f414c67b6-channel_offline_image-1920x1080.png",
+    "offline_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/eed275bd-3432-4c68-86f1-8a0d0bba0d40-channel_offline_image-1920x1080.png",
     "view_count": 0,
     "created_at": "2013-02-05T19:20:22Z"
   },
   "schedulers": [
     {
-      "id": "eyJzZWdtZW50SUQiOiJkMjc5YTZhMi1mNjhlLTQ0NTktOGZlNS0yNWU3NmZiNWVmNzEiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjozMn0=",
-      "start_time": "2024-08-05T17:30:00Z",
-      "end_time": "2024-08-05T18:30:00Z",
-      "title": "🎙 PRÉ LIVE",
+      "id": "eyJzZWdtZW50SUQiOiIyMzcxY2YzZi0wZjQ0LTQzMzAtOGIyMS1mMDJiZTc4NGE3ZDYiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjozMn0=",
+      "start_time": "2024-08-06T12:00:00Z",
+      "end_time": "2024-08-06T13:00:00Z",
+      "title": "🎙️ PRÉ-LIVE",
       "canceled_until": null,
       "category": {
         "id": "509658",
         "name": "Just Chatting"
       },
-      "is_recurring": true
+      "is_recurring": false
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiI5NGYyYjQ4NC1jZGU0LTRjNmItOTYzYS05NmY4NGJlMTdhMWMiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjozMn0=",
+      "start_time": "2024-08-06T13:00:00Z",
+      "end_time": "2024-08-06T17:00:00Z",
+      "title": "STREAM LIBRE",
+      "canceled_until": null,
+      "category": null,
+      "is_recurring": false
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiJiODg2YmJhNi1iMTJlLTQwYWQtOGM2Ni0xYmVkNTYwYjFiZmMiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjozMn0=",
+      "start_time": "2024-08-07T12:00:00Z",
+      "end_time": "2024-08-07T13:00:00Z",
+      "title": "🎙️ PRÉ-LIVE",
+      "canceled_until": null,
+      "category": {
+        "id": "509658",
+        "name": "Just Chatting"
+      },
+      "is_recurring": false
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiI1OWY1YmFjNS1mOTYzLTQzMDgtOTA3Zi0xMmM4YzNjMWE2OTMiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjozMn0=",
+      "start_time": "2024-08-07T13:00:00Z",
+      "end_time": "2024-08-07T17:00:00Z",
+      "title": "STREAM LIBRE",
+      "canceled_until": null,
+      "category": null,
+      "is_recurring": false
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiIyY2Y2MmU1Mi1hMDVmLTRmYTItOWYxMy1mNTA2NjFhZjc4MTMiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjozMn0=",
+      "start_time": "2024-08-08T17:30:00Z",
+      "end_time": "2024-08-08T18:30:00Z",
+      "title": "🎙️ PRÉ-LIVE",
+      "canceled_until": null,
+      "category": {
+        "id": "509658",
+        "name": "Just Chatting"
+      },
+      "is_recurring": false
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiIyYTAxNzExNi01ZTcwLTRmMDMtYmEyNC1jNDRiZTUxNzkwNmIiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjozMn0=",
+      "start_time": "2024-08-08T18:30:00Z",
+      "end_time": "2024-08-08T22:00:00Z",
+      "title": "STREAM LIBRE",
+      "canceled_until": null,
+      "category": null,
+      "is_recurring": false
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiI4YjI4NDRjNS05ZjAwLTQ3YmYtYmI3ZS1kZjFhMzNjNTg3M2IiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjozMn0=",
+      "start_time": "2024-08-09T12:00:00Z",
+      "end_time": "2024-08-09T13:00:00Z",
+      "title": "🎙️ PRÉ-LIVE",
+      "canceled_until": null,
+      "category": {
+        "id": "509658",
+        "name": "Just Chatting"
+      },
+      "is_recurring": false
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiIxNjA4NWFkNC0wZTg2LTQ4OGQtODk5My02ODM1NDQxY2E5YmYiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjozMn0=",
+      "start_time": "2024-08-09T13:00:00Z",
+      "end_time": "2024-08-09T17:00:00Z",
+      "title": "STREAM LIBRE",
+      "canceled_until": null,
+      "category": null,
+      "is_recurring": false
     },
     {
       "id": "eyJzZWdtZW50SUQiOiJkMjc5YTZhMi1mNjhlLTQ0NTktOGZlNS0yNWU3NmZiNWVmNzEiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjozM30=",
@@ -160,90 +232,6 @@
       "id": "eyJzZWdtZW50SUQiOiJkMjc5YTZhMi1mNjhlLTQ0NTktOGZlNS0yNWU3NmZiNWVmNzEiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjo0NH0=",
       "start_time": "2024-10-28T18:30:00Z",
       "end_time": "2024-10-28T19:30:00Z",
-      "title": "🎙 PRÉ LIVE",
-      "canceled_until": null,
-      "category": {
-        "id": "509658",
-        "name": "Just Chatting"
-      },
-      "is_recurring": true
-    },
-    {
-      "id": "eyJzZWdtZW50SUQiOiJkMjc5YTZhMi1mNjhlLTQ0NTktOGZlNS0yNWU3NmZiNWVmNzEiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjo0NX0=",
-      "start_time": "2024-11-04T18:30:00Z",
-      "end_time": "2024-11-04T19:30:00Z",
-      "title": "🎙 PRÉ LIVE",
-      "canceled_until": null,
-      "category": {
-        "id": "509658",
-        "name": "Just Chatting"
-      },
-      "is_recurring": true
-    },
-    {
-      "id": "eyJzZWdtZW50SUQiOiJkMjc5YTZhMi1mNjhlLTQ0NTktOGZlNS0yNWU3NmZiNWVmNzEiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjo0Nn0=",
-      "start_time": "2024-11-11T18:30:00Z",
-      "end_time": "2024-11-11T19:30:00Z",
-      "title": "🎙 PRÉ LIVE",
-      "canceled_until": null,
-      "category": {
-        "id": "509658",
-        "name": "Just Chatting"
-      },
-      "is_recurring": true
-    },
-    {
-      "id": "eyJzZWdtZW50SUQiOiJkMjc5YTZhMi1mNjhlLTQ0NTktOGZlNS0yNWU3NmZiNWVmNzEiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjo0N30=",
-      "start_time": "2024-11-18T18:30:00Z",
-      "end_time": "2024-11-18T19:30:00Z",
-      "title": "🎙 PRÉ LIVE",
-      "canceled_until": null,
-      "category": {
-        "id": "509658",
-        "name": "Just Chatting"
-      },
-      "is_recurring": true
-    },
-    {
-      "id": "eyJzZWdtZW50SUQiOiJkMjc5YTZhMi1mNjhlLTQ0NTktOGZlNS0yNWU3NmZiNWVmNzEiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjo0OH0=",
-      "start_time": "2024-11-25T18:30:00Z",
-      "end_time": "2024-11-25T19:30:00Z",
-      "title": "🎙 PRÉ LIVE",
-      "canceled_until": null,
-      "category": {
-        "id": "509658",
-        "name": "Just Chatting"
-      },
-      "is_recurring": true
-    },
-    {
-      "id": "eyJzZWdtZW50SUQiOiJkMjc5YTZhMi1mNjhlLTQ0NTktOGZlNS0yNWU3NmZiNWVmNzEiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjo0OX0=",
-      "start_time": "2024-12-02T18:30:00Z",
-      "end_time": "2024-12-02T19:30:00Z",
-      "title": "🎙 PRÉ LIVE",
-      "canceled_until": null,
-      "category": {
-        "id": "509658",
-        "name": "Just Chatting"
-      },
-      "is_recurring": true
-    },
-    {
-      "id": "eyJzZWdtZW50SUQiOiJkMjc5YTZhMi1mNjhlLTQ0NTktOGZlNS0yNWU3NmZiNWVmNzEiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjo1MH0=",
-      "start_time": "2024-12-09T18:30:00Z",
-      "end_time": "2024-12-09T19:30:00Z",
-      "title": "🎙 PRÉ LIVE",
-      "canceled_until": null,
-      "category": {
-        "id": "509658",
-        "name": "Just Chatting"
-      },
-      "is_recurring": true
-    },
-    {
-      "id": "eyJzZWdtZW50SUQiOiJkMjc5YTZhMi1mNjhlLTQ0NTktOGZlNS0yNWU3NmZiNWVmNzEiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjo1MX0=",
-      "start_time": "2024-12-16T18:30:00Z",
-      "end_time": "2024-12-16T19:30:00Z",
       "title": "🎙 PRÉ LIVE",
       "canceled_until": null,
       "category": {
