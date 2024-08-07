@@ -13,30 +13,6 @@
   },
   "schedulers": [
     {
-      "id": "eyJzZWdtZW50SUQiOiI2YjZkOTE2ZC1mNGE1LTRlZWMtYWEwMS0xY2Q0OWM5OWE3NjQiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjozMn0=",
-      "start_time": "2024-08-06T09:00:00Z",
-      "end_time": "2024-08-06T13:00:00Z",
-      "title": "Lockdown Protocol avec plein de gens",
-      "canceled_until": null,
-      "category": {
-        "id": "144418804",
-        "name": "LOCKDOWN Protocol"
-      },
-      "is_recurring": true
-    },
-    {
-      "id": "eyJzZWdtZW50SUQiOiIzNWIzN2E2Ni1jNTM0LTQ5YjYtYTUxMy05NGQ2ZWVjNTM4OWUiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjozMn0=",
-      "start_time": "2024-08-06T13:00:00Z",
-      "end_time": "2024-08-06T18:00:00Z",
-      "title": "L'addiction continue ",
-      "canceled_until": null,
-      "category": {
-        "id": "387695647",
-        "name": "Artisan TD"
-      },
-      "is_recurring": true
-    },
-    {
       "id": "eyJzZWdtZW50SUQiOiI3ZGE0ODliMy05MjVjLTQzM2UtYTVmNS00MjY1OGI3MmM3NjIiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjozMn0=",
       "start_time": "2024-08-07T09:00:00Z",
       "end_time": "2024-08-07T12:00:00Z",
@@ -240,6 +216,30 @@
       "category": {
         "id": "387695647",
         "name": "Artisan TD"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiI3ZGE0ODliMy05MjVjLTQzM2UtYTVmNS00MjY1OGI3MmM3NjIiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjozNX0=",
+      "start_time": "2024-08-28T09:00:00Z",
+      "end_time": "2024-08-28T12:00:00Z",
+      "title": "On discute Zevent 2024",
+      "canceled_until": null,
+      "category": {
+        "id": "509658",
+        "name": "Just Chatting"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiJkZDMzZDA4OC1jZTExLTRkOGYtYjdiMy0zMzUxYTYzM2ZjYzgiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjozNX0=",
+      "start_time": "2024-08-28T12:00:00Z",
+      "end_time": "2024-08-28T17:00:00Z",
+      "title": "Le maitre aiguille sur Elden Ring",
+      "canceled_until": null,
+      "category": {
+        "id": "512953",
+        "name": "ELDEN RING"
       },
       "is_recurring": true
     }
