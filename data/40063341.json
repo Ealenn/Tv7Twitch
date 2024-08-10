@@ -13,27 +13,6 @@
   },
   "schedulers": [
     {
-      "id": "eyJzZWdtZW50SUQiOiI4YjI4NDRjNS05ZjAwLTQ3YmYtYmI3ZS1kZjFhMzNjNTg3M2IiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjozMn0=",
-      "start_time": "2024-08-09T12:00:00Z",
-      "end_time": "2024-08-09T13:00:00Z",
-      "title": "🎙️ PRÉ-LIVE",
-      "canceled_until": null,
-      "category": {
-        "id": "509658",
-        "name": "Just Chatting"
-      },
-      "is_recurring": false
-    },
-    {
-      "id": "eyJzZWdtZW50SUQiOiIxNjA4NWFkNC0wZTg2LTQ4OGQtODk5My02ODM1NDQxY2E5YmYiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjozMn0=",
-      "start_time": "2024-08-09T13:00:00Z",
-      "end_time": "2024-08-09T17:00:00Z",
-      "title": "STREAM LIBRE",
-      "canceled_until": null,
-      "category": null,
-      "is_recurring": false
-    },
-    {
       "id": "eyJzZWdtZW50SUQiOiJkMjc5YTZhMi1mNjhlLTQ0NTktOGZlNS0yNWU3NmZiNWVmNzEiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjozM30=",
       "start_time": "2024-08-12T17:30:00Z",
       "end_time": "2024-08-12T18:30:00Z",
@@ -241,6 +220,30 @@
       "id": "eyJzZWdtZW50SUQiOiJkMjc5YTZhMi1mNjhlLTQ0NTktOGZlNS0yNWU3NmZiNWVmNzEiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjo1MH0=",
       "start_time": "2024-12-09T18:30:00Z",
       "end_time": "2024-12-09T19:30:00Z",
+      "title": "🎙 PRÉ LIVE",
+      "canceled_until": null,
+      "category": {
+        "id": "509658",
+        "name": "Just Chatting"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiJkMjc5YTZhMi1mNjhlLTQ0NTktOGZlNS0yNWU3NmZiNWVmNzEiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjo1MX0=",
+      "start_time": "2024-12-16T18:30:00Z",
+      "end_time": "2024-12-16T19:30:00Z",
+      "title": "🎙 PRÉ LIVE",
+      "canceled_until": null,
+      "category": {
+        "id": "509658",
+        "name": "Just Chatting"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiJkMjc5YTZhMi1mNjhlLTQ0NTktOGZlNS0yNWU3NmZiNWVmNzEiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjo1Mn0=",
+      "start_time": "2024-12-23T18:30:00Z",
+      "end_time": "2024-12-23T19:30:00Z",
       "title": "🎙 PRÉ LIVE",
       "canceled_until": null,
       "category": {
