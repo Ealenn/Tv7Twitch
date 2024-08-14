@@ -13,18 +13,6 @@
   },
   "schedulers": [
     {
-      "id": "eyJzZWdtZW50SUQiOiI2YjZkOTE2ZC1mNGE1LTRlZWMtYWEwMS0xY2Q0OWM5OWE3NjQiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjozM30=",
-      "start_time": "2024-08-13T09:00:00Z",
-      "end_time": "2024-08-13T14:00:00Z",
-      "title": "Le retour du duo Flonflon et Chefline sur Chained Together",
-      "canceled_until": null,
-      "category": {
-        "id": "14842174",
-        "name": "Chained Together"
-      },
-      "is_recurring": true
-    },
-    {
       "id": "eyJzZWdtZW50SUQiOiI3ZGE0ODliMy05MjVjLTQzM2UtYTVmNS00MjY1OGI3MmM3NjIiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjozM30=",
       "start_time": "2024-08-14T09:00:00Z",
       "end_time": "2024-08-14T14:00:00Z",
@@ -237,6 +225,18 @@
       "category": {
         "id": "338715930",
         "name": "Maitre des Fleurs"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiI2YjZkOTE2ZC1mNGE1LTRlZWMtYWEwMS0xY2Q0OWM5OWE3NjQiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjozN30=",
+      "start_time": "2024-09-10T09:00:00Z",
+      "end_time": "2024-09-10T14:00:00Z",
+      "title": "Le retour du duo Flonflon et Chefline sur Chained Together",
+      "canceled_until": null,
+      "category": {
+        "id": "14842174",
+        "name": "Chained Together"
       },
       "is_recurring": true
     }
