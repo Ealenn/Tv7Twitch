@@ -1,0 +1,76 @@
+{
+  "channel": {
+    "id": "24147592",
+    "login": "gotaga",
+    "display_name": "Gotaga",
+    "type": "",
+    "broadcaster_type": "partner",
+    "description": "Je m’appelle Corentin Houssein, j'ai 30 ans et je suis un ancien joueur professionnel sur les opus Call Of Duty sous le pseudonyme Gotaga. De nombreuses fois champion d'Europe et de France, j'ai longtemps été le joueur français le plus titré sur consoles.",
+    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/69e324f6-fc7d-4131-89ed-227a955637cf-profile_image-300x300.png",
+    "offline_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/025c9aa1-0462-43fe-b8ec-c0cdae465092-channel_offline_image-1920x1080.jpeg",
+    "view_count": 0,
+    "created_at": "2011-08-17T09:26:07Z"
+  },
+  "schedulers": [
+    {
+      "id": "eyJzZWdtZW50SUQiOiJhZDQyNDNiMi00ODcyLTQ2MjAtOTJlNS0xYTQwZGVhNzFlZDYiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjozM30=",
+      "start_time": "2024-08-15T12:30:00Z",
+      "end_time": null,
+      "title": "M8 Call of Duty x  Cloud 9",
+      "canceled_until": null,
+      "category": {
+        "id": "1337444628",
+        "name": "Call of Duty: Modern Warfare III"
+      },
+      "is_recurring": false
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiJjZTdlYTg1Ni02ZGNmLTRmODYtOGU2ZC04MDA2Zjk3OGJlZDgiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjozM30=",
+      "start_time": "2024-08-15T17:00:00Z",
+      "end_time": null,
+      "title": "M8 Call of Duty (si défaite vs Cloud 9)",
+      "canceled_until": null,
+      "category": {
+        "id": "1337444628",
+        "name": "Call of Duty: Modern Warfare III"
+      },
+      "is_recurring": false
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiJiNjkxNzAzYS1jZWM5LTRmYTUtOGJkNS0wYzA3MmYyMjlmODUiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjozM30=",
+      "start_time": "2024-08-16T11:00:00Z",
+      "end_time": null,
+      "title": "M8 Call of Duty (si victoire vs Cloud 9)",
+      "canceled_until": null,
+      "category": {
+        "id": "1337444628",
+        "name": "Call of Duty: Modern Warfare III"
+      },
+      "is_recurring": false
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiJiYTE3ZDgzYy0xMjUyLTRhZWUtOTUxZi04MDlkNjA3NjM1NjciLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjozM30=",
+      "start_time": "2024-08-16T16:00:00Z",
+      "end_time": null,
+      "title": "M8 Call of Duty (si défaite winners match)",
+      "canceled_until": null,
+      "category": {
+        "id": "1337444628",
+        "name": "Call of Duty: Modern Warfare III"
+      },
+      "is_recurring": false
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiI2YzAwZGNkYi1iNDUwLTRhMjktYjhhZC05YTU3ZTljYTM0MWYiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjozM30=",
+      "start_time": "2024-08-18T17:30:00Z",
+      "end_time": null,
+      "title": "M8 Call of Duty x Grande Finale",
+      "canceled_until": null,
+      "category": {
+        "id": "1337444628",
+        "name": "Call of Duty: Modern Warfare III"
+      },
+      "is_recurring": false
+    }
+  ]
+}
