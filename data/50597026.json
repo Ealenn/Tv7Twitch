@@ -7,23 +7,11 @@
     "broadcaster_type": "partner",
     "description": "On se tape des immenses barres.",
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/d4737061-8f00-49d9-a56f-fcb4a9230b3f-profile_image-300x300.png",
-    "offline_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/fa900b47-abd1-4317-a4f0-8a40343e989b-channel_offline_image-1920x1080.jpeg",
+    "offline_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/0ac463d6-0001-407b-b013-0c25072db245-channel_offline_image-1920x1080.jpeg",
     "view_count": 0,
     "created_at": "2013-10-24T19:04:45Z"
   },
   "schedulers": [
-    {
-      "id": "eyJzZWdtZW50SUQiOiJlOWI2ZTA4Zi03ODQ3LTRjMGEtYTkxZC1lMmY1YzgwZjIyYjYiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjozNH0=",
-      "start_time": "2024-08-19T09:00:00Z",
-      "end_time": "2024-08-19T14:00:00Z",
-      "title": "Le Maître des Fleurs ",
-      "canceled_until": null,
-      "category": {
-        "id": "338715930",
-        "name": "Maitre des Fleurs"
-      },
-      "is_recurring": true
-    },
     {
       "id": "eyJzZWdtZW50SUQiOiI2YjZkOTE2ZC1mNGE1LTRlZWMtYWEwMS0xY2Q0OWM5OWE3NjQiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjozNH0=",
       "start_time": "2024-08-20T09:00:00Z",
@@ -249,6 +237,18 @@
       "category": {
         "id": "519100",
         "name": "There Is No Game: Wrong Dimension"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiI2Y2QzOWIzMS1kZjZjLTRiMjctYTAzMS02NWU0N2VjY2ExZTgiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjozNn0=",
+      "start_time": "2024-09-06T09:00:00Z",
+      "end_time": "2024-09-06T17:00:00Z",
+      "title": "Sortie de The War Within ! ",
+      "canceled_until": null,
+      "category": {
+        "id": "18122",
+        "name": "World of Warcraft"
       },
       "is_recurring": true
     }
