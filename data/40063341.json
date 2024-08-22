@@ -13,42 +13,6 @@
   },
   "schedulers": [
     {
-      "id": "eyJzZWdtZW50SUQiOiI2MmNmNjVjZS01OTNhLTRjZjMtOTcxOS0zNGVkNWVmYjljYjYiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjozNH0=",
-      "start_time": "2024-08-21T13:00:00Z",
-      "end_time": "2024-08-21T14:00:00Z",
-      "title": "🎙 PRÉ LIVE",
-      "canceled_until": null,
-      "category": {
-        "id": "509658",
-        "name": "Just Chatting"
-      },
-      "is_recurring": false
-    },
-    {
-      "id": "eyJzZWdtZW50SUQiOiIyOWJiY2I4Mi0zZjBkLTRhOTMtODk3OC0xOWQ3YzA4OTdkNTciLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjozNH0=",
-      "start_time": "2024-08-21T14:00:00Z",
-      "end_time": "2024-08-21T15:30:00Z",
-      "title": "🔫 SQUAD BUSTERS",
-      "canceled_until": null,
-      "category": {
-        "id": "788447527",
-        "name": "Squad Busters"
-      },
-      "is_recurring": false
-    },
-    {
-      "id": "eyJzZWdtZW50SUQiOiJiNzNkOWRiNC1jYmMyLTQ4YjktYTEzYy03MmU3YTJmNGM5YTMiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjozNH0=",
-      "start_time": "2024-08-21T15:30:00Z",
-      "end_time": "2024-08-21T17:00:00Z",
-      "title": "📺 STREAM LIBRE",
-      "canceled_until": null,
-      "category": {
-        "id": "509658",
-        "name": "Just Chatting"
-      },
-      "is_recurring": false
-    },
-    {
       "id": "eyJzZWdtZW50SUQiOiI2ZWNiOWFhMi03YzQ5LTQzZDQtOTcwOC02YTlhNmM5NjdjYTUiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjozNH0=",
       "start_time": "2024-08-22T18:00:00Z",
       "end_time": "2024-08-22T19:00:00Z",
@@ -244,6 +208,42 @@
       "id": "eyJzZWdtZW50SUQiOiJkMjc5YTZhMi1mNjhlLTQ0NTktOGZlNS0yNWU3NmZiNWVmNzEiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjo0NX0=",
       "start_time": "2024-11-04T18:30:00Z",
       "end_time": "2024-11-04T19:30:00Z",
+      "title": "🎙 PRÉ LIVE",
+      "canceled_until": null,
+      "category": {
+        "id": "509658",
+        "name": "Just Chatting"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiJkMjc5YTZhMi1mNjhlLTQ0NTktOGZlNS0yNWU3NmZiNWVmNzEiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjo0Nn0=",
+      "start_time": "2024-11-11T18:30:00Z",
+      "end_time": "2024-11-11T19:30:00Z",
+      "title": "🎙 PRÉ LIVE",
+      "canceled_until": null,
+      "category": {
+        "id": "509658",
+        "name": "Just Chatting"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiJkMjc5YTZhMi1mNjhlLTQ0NTktOGZlNS0yNWU3NmZiNWVmNzEiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjo0N30=",
+      "start_time": "2024-11-18T18:30:00Z",
+      "end_time": "2024-11-18T19:30:00Z",
+      "title": "🎙 PRÉ LIVE",
+      "canceled_until": null,
+      "category": {
+        "id": "509658",
+        "name": "Just Chatting"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiJkMjc5YTZhMi1mNjhlLTQ0NTktOGZlNS0yNWU3NmZiNWVmNzEiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjo0OH0=",
+      "start_time": "2024-11-25T18:30:00Z",
+      "end_time": "2024-11-25T19:30:00Z",
       "title": "🎙 PRÉ LIVE",
       "canceled_until": null,
       "category": {
