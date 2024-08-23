@@ -13,30 +13,6 @@
   },
   "schedulers": [
     {
-      "id": "eyJzZWdtZW50SUQiOiI2ZWNiOWFhMi03YzQ5LTQzZDQtOTcwOC02YTlhNmM5NjdjYTUiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjozNH0=",
-      "start_time": "2024-08-22T18:00:00Z",
-      "end_time": "2024-08-22T19:00:00Z",
-      "title": "🎙 PRÉ LIVE",
-      "canceled_until": null,
-      "category": {
-        "id": "509658",
-        "name": "Just Chatting"
-      },
-      "is_recurring": false
-    },
-    {
-      "id": "eyJzZWdtZW50SUQiOiJiMzE1YzRjMy00YzZhLTRmZTgtYWQ1Yy05MzcxZTA2YmE4ZDAiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjozNH0=",
-      "start_time": "2024-08-22T19:00:00Z",
-      "end_time": "2024-08-22T22:00:00Z",
-      "title": "🧑‍⚕️ CRIME SCENE CLEANER",
-      "canceled_until": null,
-      "category": {
-        "id": "343455332",
-        "name": "Crime Scene Cleaner"
-      },
-      "is_recurring": false
-    },
-    {
       "id": "eyJzZWdtZW50SUQiOiJlY2I0Y2FiNC0xMDAwLTRjOTYtYmU1Zi1lNDY0MDhlODMxMmYiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjozNH0=",
       "start_time": "2024-08-23T12:00:00Z",
       "end_time": "2024-08-23T13:00:00Z",
@@ -244,6 +220,30 @@
       "id": "eyJzZWdtZW50SUQiOiJkMjc5YTZhMi1mNjhlLTQ0NTktOGZlNS0yNWU3NmZiNWVmNzEiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjo0OH0=",
       "start_time": "2024-11-25T18:30:00Z",
       "end_time": "2024-11-25T19:30:00Z",
+      "title": "🎙 PRÉ LIVE",
+      "canceled_until": null,
+      "category": {
+        "id": "509658",
+        "name": "Just Chatting"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiJkMjc5YTZhMi1mNjhlLTQ0NTktOGZlNS0yNWU3NmZiNWVmNzEiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjo0OX0=",
+      "start_time": "2024-12-02T18:30:00Z",
+      "end_time": "2024-12-02T19:30:00Z",
+      "title": "🎙 PRÉ LIVE",
+      "canceled_until": null,
+      "category": {
+        "id": "509658",
+        "name": "Just Chatting"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiJkMjc5YTZhMi1mNjhlLTQ0NTktOGZlNS0yNWU3NmZiNWVmNzEiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjo1MH0=",
+      "start_time": "2024-12-09T18:30:00Z",
+      "end_time": "2024-12-09T19:30:00Z",
       "title": "🎙 PRÉ LIVE",
       "canceled_until": null,
       "category": {
