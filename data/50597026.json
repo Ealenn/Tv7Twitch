@@ -15,7 +15,7 @@
     {
       "id": "eyJzZWdtZW50SUQiOiJlOWI2ZTA4Zi03ODQ3LTRjMGEtYTkxZC1lMmY1YzgwZjIyYjYiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjozNX0=",
       "start_time": "2024-08-26T09:00:00Z",
-      "end_time": "2024-08-26T14:00:00Z",
+      "end_time": "2024-08-26T16:00:00Z",
       "title": "Le Maître des Fleurs ",
       "canceled_until": null,
       "category": {
@@ -25,10 +25,34 @@
       "is_recurring": true
     },
     {
-      "id": "eyJzZWdtZW50SUQiOiI2YjZkOTE2ZC1mNGE1LTRlZWMtYWEwMS0xY2Q0OWM5OWE3NjQiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjozNX0=",
+      "id": "eyJzZWdtZW50SUQiOiIzZThlYTA4YS04OTMyLTRkZmEtYTVlNC0zNTUxZjY1NWRlOTUiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjozNX0=",
       "start_time": "2024-08-27T09:00:00Z",
-      "end_time": "2024-08-27T13:00:00Z",
-      "title": "Lockdown protocol avec les potes !",
+      "end_time": "2024-08-27T12:00:00Z",
+      "title": "Discussion & Donation Goal du Zevent",
+      "canceled_until": null,
+      "category": {
+        "id": "509658",
+        "name": "Just Chatting"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiJiNGM0NzQwZi1mZTQzLTRjMGQtOTFlZC0wZGNiOTQ0YWM1ZGEiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjozNX0=",
+      "start_time": "2024-08-27T12:00:00Z",
+      "end_time": "2024-08-27T16:00:00Z",
+      "title": "On écoute vos sons avec Léo et JB de Floral Records !",
+      "canceled_until": null,
+      "category": {
+        "id": "26936",
+        "name": "Music"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiI2YjZkOTE2ZC1mNGE1LTRlZWMtYWEwMS0xY2Q0OWM5OWE3NjQiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjozNX0=",
+      "start_time": "2024-08-28T09:00:00Z",
+      "end_time": "2024-08-28T12:00:00Z",
+      "title": "Lockdown Protocol avé les copains",
       "canceled_until": null,
       "category": {
         "id": "144418804",
@@ -37,34 +61,10 @@
       "is_recurring": true
     },
     {
-      "id": "eyJzZWdtZW50SUQiOiI3NTk1YmEyNC02ZTQ0LTQyOTktOThkNy1jMTQ4MjY5MDk5MDIiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjozNX0=",
-      "start_time": "2024-08-27T13:00:00Z",
-      "end_time": "2024-08-27T18:00:00Z",
-      "title": "ELDEN RING",
-      "canceled_until": null,
-      "category": {
-        "id": "512953",
-        "name": "ELDEN RING"
-      },
-      "is_recurring": true
-    },
-    {
-      "id": "eyJzZWdtZW50SUQiOiI3ZGE0ODliMy05MjVjLTQzM2UtYTVmNS00MjY1OGI3MmM3NjIiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjozNX0=",
-      "start_time": "2024-08-28T09:00:00Z",
-      "end_time": "2024-08-28T13:00:00Z",
-      "title": "Lycans avé les potes",
-      "canceled_until": null,
-      "category": {
-        "id": "1494074023",
-        "name": "Lycans"
-      },
-      "is_recurring": true
-    },
-    {
       "id": "eyJzZWdtZW50SUQiOiIwMTY3ZmYzMS01YzBiLTQ5MjctYTNlMC1lNmExMWY4NmI1MDciLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjozNX0=",
-      "start_time": "2024-08-28T13:00:00Z",
-      "end_time": "2024-08-28T17:00:00Z",
-      "title": "ELDEN RING ",
+      "start_time": "2024-08-28T12:00:00Z",
+      "end_time": "2024-08-28T16:00:00Z",
+      "title": "Suite du DLC Elden Ring",
       "canceled_until": null,
       "category": {
         "id": "512953",
@@ -73,33 +73,33 @@
       "is_recurring": true
     },
     {
-      "id": "eyJzZWdtZW50SUQiOiJjOWExYjcxNS03M2VmLTQxOGMtODQzNy02NGY5N2MzNDA3NjEiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjozNX0=",
-      "start_time": "2024-08-29T11:00:00Z",
-      "end_time": "2024-08-29T16:00:00Z",
-      "title": "Découverte de There is no game !",
+      "id": "eyJzZWdtZW50SUQiOiIwNjZhMjlkNC03OTk3LTRjNDEtODQ4MS1iMjlmYjhlYTcwMjQiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjozNX0=",
+      "start_time": "2024-08-29T18:00:00Z",
+      "end_time": "2024-08-29T22:00:00Z",
+      "title": "Découverte de Superliminal !",
       "canceled_until": null,
       "category": {
-        "id": "519100",
-        "name": "There Is No Game: Wrong Dimension"
+        "id": "511974",
+        "name": "Superliminal"
       },
       "is_recurring": true
     },
     {
-      "id": "eyJzZWdtZW50SUQiOiI2Y2QzOWIzMS1kZjZjLTRiMjctYTAzMS02NWU0N2VjY2ExZTgiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjozNX0=",
-      "start_time": "2024-08-30T09:00:00Z",
-      "end_time": "2024-08-30T17:00:00Z",
-      "title": "Sortie de The War Within ! ",
+      "id": "eyJzZWdtZW50SUQiOiI3NTk1YmEyNC02ZTQ0LTQyOTktOThkNy1jMTQ4MjY5MDk5MDIiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjozNX0=",
+      "start_time": "2024-08-30T11:00:00Z",
+      "end_time": "2024-08-30T16:00:00Z",
+      "title": "Suite du DLC Elden Ring",
       "canceled_until": null,
       "category": {
-        "id": "18122",
-        "name": "World of Warcraft"
+        "id": "512953",
+        "name": "ELDEN RING"
       },
       "is_recurring": true
     },
     {
       "id": "eyJzZWdtZW50SUQiOiJlOWI2ZTA4Zi03ODQ3LTRjMGEtYTkxZC1lMmY1YzgwZjIyYjYiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjozNn0=",
       "start_time": "2024-09-02T09:00:00Z",
-      "end_time": "2024-09-02T14:00:00Z",
+      "end_time": "2024-09-02T16:00:00Z",
       "title": "Le Maître des Fleurs ",
       "canceled_until": null,
       "category": {
@@ -109,10 +109,34 @@
       "is_recurring": true
     },
     {
-      "id": "eyJzZWdtZW50SUQiOiI2YjZkOTE2ZC1mNGE1LTRlZWMtYWEwMS0xY2Q0OWM5OWE3NjQiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjozNn0=",
+      "id": "eyJzZWdtZW50SUQiOiIzZThlYTA4YS04OTMyLTRkZmEtYTVlNC0zNTUxZjY1NWRlOTUiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjozNn0=",
       "start_time": "2024-09-03T09:00:00Z",
-      "end_time": "2024-09-03T13:00:00Z",
-      "title": "Lockdown protocol avec les potes !",
+      "end_time": "2024-09-03T12:00:00Z",
+      "title": "Discussion & Donation Goal du Zevent",
+      "canceled_until": null,
+      "category": {
+        "id": "509658",
+        "name": "Just Chatting"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiJiNGM0NzQwZi1mZTQzLTRjMGQtOTFlZC0wZGNiOTQ0YWM1ZGEiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjozNn0=",
+      "start_time": "2024-09-03T12:00:00Z",
+      "end_time": "2024-09-03T16:00:00Z",
+      "title": "On écoute vos sons avec Léo et JB de Floral Records !",
+      "canceled_until": null,
+      "category": {
+        "id": "26936",
+        "name": "Music"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiI2YjZkOTE2ZC1mNGE1LTRlZWMtYWEwMS0xY2Q0OWM5OWE3NjQiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjozNn0=",
+      "start_time": "2024-09-04T09:00:00Z",
+      "end_time": "2024-09-04T12:00:00Z",
+      "title": "Lockdown Protocol avé les copains",
       "canceled_until": null,
       "category": {
         "id": "144418804",
@@ -121,34 +145,10 @@
       "is_recurring": true
     },
     {
-      "id": "eyJzZWdtZW50SUQiOiI3NTk1YmEyNC02ZTQ0LTQyOTktOThkNy1jMTQ4MjY5MDk5MDIiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjozNn0=",
-      "start_time": "2024-09-03T13:00:00Z",
-      "end_time": "2024-09-03T18:00:00Z",
-      "title": "ELDEN RING",
-      "canceled_until": null,
-      "category": {
-        "id": "512953",
-        "name": "ELDEN RING"
-      },
-      "is_recurring": true
-    },
-    {
-      "id": "eyJzZWdtZW50SUQiOiI3ZGE0ODliMy05MjVjLTQzM2UtYTVmNS00MjY1OGI3MmM3NjIiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjozNn0=",
-      "start_time": "2024-09-04T09:00:00Z",
-      "end_time": "2024-09-04T13:00:00Z",
-      "title": "Lycans avé les potes",
-      "canceled_until": null,
-      "category": {
-        "id": "1494074023",
-        "name": "Lycans"
-      },
-      "is_recurring": true
-    },
-    {
       "id": "eyJzZWdtZW50SUQiOiIwMTY3ZmYzMS01YzBiLTQ5MjctYTNlMC1lNmExMWY4NmI1MDciLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjozNn0=",
-      "start_time": "2024-09-04T13:00:00Z",
-      "end_time": "2024-09-04T17:00:00Z",
-      "title": "ELDEN RING ",
+      "start_time": "2024-09-04T12:00:00Z",
+      "end_time": "2024-09-04T16:00:00Z",
+      "title": "Suite du DLC Elden Ring",
       "canceled_until": null,
       "category": {
         "id": "512953",
@@ -157,33 +157,33 @@
       "is_recurring": true
     },
     {
-      "id": "eyJzZWdtZW50SUQiOiJjOWExYjcxNS03M2VmLTQxOGMtODQzNy02NGY5N2MzNDA3NjEiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjozNn0=",
-      "start_time": "2024-09-05T11:00:00Z",
-      "end_time": "2024-09-05T16:00:00Z",
-      "title": "Découverte de There is no game !",
+      "id": "eyJzZWdtZW50SUQiOiIwNjZhMjlkNC03OTk3LTRjNDEtODQ4MS1iMjlmYjhlYTcwMjQiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjozNn0=",
+      "start_time": "2024-09-05T18:00:00Z",
+      "end_time": "2024-09-05T22:00:00Z",
+      "title": "Découverte de Superliminal !",
       "canceled_until": null,
       "category": {
-        "id": "519100",
-        "name": "There Is No Game: Wrong Dimension"
+        "id": "511974",
+        "name": "Superliminal"
       },
       "is_recurring": true
     },
     {
-      "id": "eyJzZWdtZW50SUQiOiI2Y2QzOWIzMS1kZjZjLTRiMjctYTAzMS02NWU0N2VjY2ExZTgiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjozNn0=",
-      "start_time": "2024-09-06T09:00:00Z",
-      "end_time": "2024-09-06T17:00:00Z",
-      "title": "Sortie de The War Within ! ",
+      "id": "eyJzZWdtZW50SUQiOiI3NTk1YmEyNC02ZTQ0LTQyOTktOThkNy1jMTQ4MjY5MDk5MDIiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjozNn0=",
+      "start_time": "2024-09-06T11:00:00Z",
+      "end_time": "2024-09-06T16:00:00Z",
+      "title": "Suite du DLC Elden Ring",
       "canceled_until": null,
       "category": {
-        "id": "18122",
-        "name": "World of Warcraft"
+        "id": "512953",
+        "name": "ELDEN RING"
       },
       "is_recurring": true
     },
     {
       "id": "eyJzZWdtZW50SUQiOiJlOWI2ZTA4Zi03ODQ3LTRjMGEtYTkxZC1lMmY1YzgwZjIyYjYiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjozN30=",
       "start_time": "2024-09-09T09:00:00Z",
-      "end_time": "2024-09-09T14:00:00Z",
+      "end_time": "2024-09-09T16:00:00Z",
       "title": "Le Maître des Fleurs ",
       "canceled_until": null,
       "category": {
@@ -193,10 +193,34 @@
       "is_recurring": true
     },
     {
-      "id": "eyJzZWdtZW50SUQiOiI2YjZkOTE2ZC1mNGE1LTRlZWMtYWEwMS0xY2Q0OWM5OWE3NjQiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjozN30=",
+      "id": "eyJzZWdtZW50SUQiOiIzZThlYTA4YS04OTMyLTRkZmEtYTVlNC0zNTUxZjY1NWRlOTUiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjozN30=",
       "start_time": "2024-09-10T09:00:00Z",
-      "end_time": "2024-09-10T13:00:00Z",
-      "title": "Lockdown protocol avec les potes !",
+      "end_time": "2024-09-10T12:00:00Z",
+      "title": "Discussion & Donation Goal du Zevent",
+      "canceled_until": null,
+      "category": {
+        "id": "509658",
+        "name": "Just Chatting"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiJiNGM0NzQwZi1mZTQzLTRjMGQtOTFlZC0wZGNiOTQ0YWM1ZGEiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjozN30=",
+      "start_time": "2024-09-10T12:00:00Z",
+      "end_time": "2024-09-10T16:00:00Z",
+      "title": "On écoute vos sons avec Léo et JB de Floral Records !",
+      "canceled_until": null,
+      "category": {
+        "id": "26936",
+        "name": "Music"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiI2YjZkOTE2ZC1mNGE1LTRlZWMtYWEwMS0xY2Q0OWM5OWE3NjQiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjozN30=",
+      "start_time": "2024-09-11T09:00:00Z",
+      "end_time": "2024-09-11T12:00:00Z",
+      "title": "Lockdown Protocol avé les copains",
       "canceled_until": null,
       "category": {
         "id": "144418804",
@@ -205,34 +229,10 @@
       "is_recurring": true
     },
     {
-      "id": "eyJzZWdtZW50SUQiOiI3NTk1YmEyNC02ZTQ0LTQyOTktOThkNy1jMTQ4MjY5MDk5MDIiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjozN30=",
-      "start_time": "2024-09-10T13:00:00Z",
-      "end_time": "2024-09-10T18:00:00Z",
-      "title": "ELDEN RING",
-      "canceled_until": null,
-      "category": {
-        "id": "512953",
-        "name": "ELDEN RING"
-      },
-      "is_recurring": true
-    },
-    {
-      "id": "eyJzZWdtZW50SUQiOiI3ZGE0ODliMy05MjVjLTQzM2UtYTVmNS00MjY1OGI3MmM3NjIiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjozN30=",
-      "start_time": "2024-09-11T09:00:00Z",
-      "end_time": "2024-09-11T13:00:00Z",
-      "title": "Lycans avé les potes",
-      "canceled_until": null,
-      "category": {
-        "id": "1494074023",
-        "name": "Lycans"
-      },
-      "is_recurring": true
-    },
-    {
       "id": "eyJzZWdtZW50SUQiOiIwMTY3ZmYzMS01YzBiLTQ5MjctYTNlMC1lNmExMWY4NmI1MDciLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjozN30=",
-      "start_time": "2024-09-11T13:00:00Z",
-      "end_time": "2024-09-11T17:00:00Z",
-      "title": "ELDEN RING ",
+      "start_time": "2024-09-11T12:00:00Z",
+      "end_time": "2024-09-11T16:00:00Z",
+      "title": "Suite du DLC Elden Ring",
       "canceled_until": null,
       "category": {
         "id": "512953",
@@ -241,14 +241,14 @@
       "is_recurring": true
     },
     {
-      "id": "eyJzZWdtZW50SUQiOiJjOWExYjcxNS03M2VmLTQxOGMtODQzNy02NGY5N2MzNDA3NjEiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjozN30=",
-      "start_time": "2024-09-12T11:00:00Z",
-      "end_time": "2024-09-12T16:00:00Z",
-      "title": "Découverte de There is no game !",
+      "id": "eyJzZWdtZW50SUQiOiIwNjZhMjlkNC03OTk3LTRjNDEtODQ4MS1iMjlmYjhlYTcwMjQiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjozN30=",
+      "start_time": "2024-09-12T18:00:00Z",
+      "end_time": "2024-09-12T22:00:00Z",
+      "title": "Découverte de Superliminal !",
       "canceled_until": null,
       "category": {
-        "id": "519100",
-        "name": "There Is No Game: Wrong Dimension"
+        "id": "511974",
+        "name": "Superliminal"
       },
       "is_recurring": true
     }
