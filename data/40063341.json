@@ -13,15 +13,6 @@
   },
   "schedulers": [
     {
-      "id": "eyJzZWdtZW50SUQiOiIzNzJkNjFhYS01ZjQ0LTQ0MGYtOGQwYy05OTk0N2I5ZTBhZTEiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjozNX0=",
-      "start_time": "2024-08-29T17:30:00Z",
-      "end_time": "2024-08-29T21:30:00Z",
-      "title": "🎬 LIVE",
-      "canceled_until": null,
-      "category": null,
-      "is_recurring": false
-    },
-    {
       "id": "eyJzZWdtZW50SUQiOiJkMjc5YTZhMi1mNjhlLTQ0NTktOGZlNS0yNWU3NmZiNWVmNzEiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjozNn0=",
       "start_time": "2024-09-02T17:30:00Z",
       "end_time": "2024-09-02T18:30:00Z",
@@ -241,6 +232,18 @@
       "id": "eyJzZWdtZW50SUQiOiJkMjc5YTZhMi1mNjhlLTQ0NTktOGZlNS0yNWU3NmZiNWVmNzEiLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjoyfQ==",
       "start_time": "2025-01-06T18:30:00Z",
       "end_time": "2025-01-06T19:30:00Z",
+      "title": "🎙 PRÉ LIVE",
+      "canceled_until": null,
+      "category": {
+        "id": "509658",
+        "name": "Just Chatting"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiJkMjc5YTZhMi1mNjhlLTQ0NTktOGZlNS0yNWU3NmZiNWVmNzEiLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjozfQ==",
+      "start_time": "2025-01-13T18:30:00Z",
+      "end_time": "2025-01-13T19:30:00Z",
       "title": "🎙 PRÉ LIVE",
       "canceled_until": null,
       "category": {
