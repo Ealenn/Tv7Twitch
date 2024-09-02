@@ -25,10 +25,22 @@
       "is_recurring": true
     },
     {
-      "id": "eyJzZWdtZW50SUQiOiIzZThlYTA4YS04OTMyLTRkZmEtYTVlNC0zNTUxZjY1NWRlOTUiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjozNn0=",
+      "id": "eyJzZWdtZW50SUQiOiI1ZTI0YjZjYi03NWM3LTQ0ZWEtYmNjZi1kNTc5MTYwNzIzZTgiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjozNn0=",
       "start_time": "2024-09-03T09:00:00Z",
-      "end_time": "2024-09-03T12:00:00Z",
-      "title": "Discussion & Donation Goal du Zevent",
+      "end_time": "2024-09-03T13:00:00Z",
+      "title": "Codenames avé les copains",
+      "canceled_until": null,
+      "category": {
+        "id": "508509",
+        "name": "Codenames"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiI2N2Q4ZTdiZS1kNTViLTQ5MDktOTczMy0zMDYxYzJlY2YwZTkiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjozNn0=",
+      "start_time": "2024-09-03T13:00:00Z",
+      "end_time": "2024-09-03T16:00:00Z",
+      "title": "YOLOOOOO",
       "canceled_until": null,
       "category": {
         "id": "509658",
@@ -37,62 +49,50 @@
       "is_recurring": true
     },
     {
-      "id": "eyJzZWdtZW50SUQiOiJiNGM0NzQwZi1mZTQzLTRjMGQtOTFlZC0wZGNiOTQ0YWM1ZGEiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjozNn0=",
-      "start_time": "2024-09-03T12:00:00Z",
-      "end_time": "2024-09-03T16:00:00Z",
-      "title": "On écoute vos sons avec Léo et JB de Floral Records !",
-      "canceled_until": null,
-      "category": {
-        "id": "26936",
-        "name": "Music"
-      },
-      "is_recurring": true
-    },
-    {
-      "id": "eyJzZWdtZW50SUQiOiI2YjZkOTE2ZC1mNGE1LTRlZWMtYWEwMS0xY2Q0OWM5OWE3NjQiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjozNn0=",
+      "id": "eyJzZWdtZW50SUQiOiI0ZThjM2M3MS1jNGE4LTQ4MTAtODliMy1jOWI2N2U2YWQxZmEiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjozNn0=",
       "start_time": "2024-09-04T09:00:00Z",
-      "end_time": "2024-09-04T12:00:00Z",
-      "title": "Lockdown Protocol avé les copains",
-      "canceled_until": null,
-      "category": {
-        "id": "144418804",
-        "name": "LOCKDOWN Protocol"
-      },
-      "is_recurring": true
-    },
-    {
-      "id": "eyJzZWdtZW50SUQiOiIwMTY3ZmYzMS01YzBiLTQ5MjctYTNlMC1lNmExMWY4NmI1MDciLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjozNn0=",
-      "start_time": "2024-09-04T12:00:00Z",
       "end_time": "2024-09-04T16:00:00Z",
-      "title": "Suite du DLC Elden Ring",
+      "title": "Préparation finale du ZEVENT !!",
       "canceled_until": null,
       "category": {
-        "id": "512953",
-        "name": "ELDEN RING"
+        "id": "509658",
+        "name": "Just Chatting"
       },
       "is_recurring": true
     },
     {
-      "id": "eyJzZWdtZW50SUQiOiIwNjZhMjlkNC03OTk3LTRjNDEtODQ4MS1iMjlmYjhlYTcwMjQiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjozNn0=",
-      "start_time": "2024-09-05T18:00:00Z",
-      "end_time": "2024-09-05T22:00:00Z",
-      "title": "Découverte de Superliminal !",
+      "id": "eyJzZWdtZW50SUQiOiI1ZDMzYTdlMy0wOWMyLTQ1ZDctYjcwZC1jNTg1NTM1YjhkMGYiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjozNn0=",
+      "start_time": "2024-09-06T16:00:00Z",
+      "end_time": "2024-09-06T22:00:00Z",
+      "title": "ZEVENT 2024",
       "canceled_until": null,
       "category": {
-        "id": "511974",
-        "name": "Superliminal"
+        "id": "509663",
+        "name": "Special Events"
       },
       "is_recurring": true
     },
     {
-      "id": "eyJzZWdtZW50SUQiOiI3NTk1YmEyNC02ZTQ0LTQyOTktOThkNy1jMTQ4MjY5MDk5MDIiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjozNn0=",
-      "start_time": "2024-09-06T11:00:00Z",
-      "end_time": "2024-09-06T16:00:00Z",
-      "title": "Suite du DLC Elden Ring",
+      "id": "eyJzZWdtZW50SUQiOiIwMWNkNzI4My1iZjkyLTQwNzItYmJlNy00NGYzMWU3NThhMWQiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjozNn0=",
+      "start_time": "2024-09-06T22:00:00Z",
+      "end_time": "2024-09-07T21:00:00Z",
+      "title": "ZEVENT 2024",
       "canceled_until": null,
       "category": {
-        "id": "512953",
-        "name": "ELDEN RING"
+        "id": "509663",
+        "name": "Special Events"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiJhMDQ1ODc2Ni02YjRlLTQ4YmYtODJhYy1mZDE1NDg0MjQ0YzgiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjozNn0=",
+      "start_time": "2024-09-07T22:00:00Z",
+      "end_time": "2024-09-08T21:00:00Z",
+      "title": "ZEVENT 2024",
+      "canceled_until": null,
+      "category": {
+        "id": "509663",
+        "name": "Special Events"
       },
       "is_recurring": true
     },
@@ -109,10 +109,22 @@
       "is_recurring": true
     },
     {
-      "id": "eyJzZWdtZW50SUQiOiIzZThlYTA4YS04OTMyLTRkZmEtYTVlNC0zNTUxZjY1NWRlOTUiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjozN30=",
+      "id": "eyJzZWdtZW50SUQiOiI1ZTI0YjZjYi03NWM3LTQ0ZWEtYmNjZi1kNTc5MTYwNzIzZTgiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjozN30=",
       "start_time": "2024-09-10T09:00:00Z",
-      "end_time": "2024-09-10T12:00:00Z",
-      "title": "Discussion & Donation Goal du Zevent",
+      "end_time": "2024-09-10T13:00:00Z",
+      "title": "Codenames avé les copains",
+      "canceled_until": null,
+      "category": {
+        "id": "508509",
+        "name": "Codenames"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiI2N2Q4ZTdiZS1kNTViLTQ5MDktOTczMy0zMDYxYzJlY2YwZTkiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjozN30=",
+      "start_time": "2024-09-10T13:00:00Z",
+      "end_time": "2024-09-10T16:00:00Z",
+      "title": "YOLOOOOO",
       "canceled_until": null,
       "category": {
         "id": "509658",
@@ -121,62 +133,50 @@
       "is_recurring": true
     },
     {
-      "id": "eyJzZWdtZW50SUQiOiJiNGM0NzQwZi1mZTQzLTRjMGQtOTFlZC0wZGNiOTQ0YWM1ZGEiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjozN30=",
-      "start_time": "2024-09-10T12:00:00Z",
-      "end_time": "2024-09-10T16:00:00Z",
-      "title": "On écoute vos sons avec Léo et JB de Floral Records !",
-      "canceled_until": null,
-      "category": {
-        "id": "26936",
-        "name": "Music"
-      },
-      "is_recurring": true
-    },
-    {
-      "id": "eyJzZWdtZW50SUQiOiI2YjZkOTE2ZC1mNGE1LTRlZWMtYWEwMS0xY2Q0OWM5OWE3NjQiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjozN30=",
+      "id": "eyJzZWdtZW50SUQiOiI0ZThjM2M3MS1jNGE4LTQ4MTAtODliMy1jOWI2N2U2YWQxZmEiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjozN30=",
       "start_time": "2024-09-11T09:00:00Z",
-      "end_time": "2024-09-11T12:00:00Z",
-      "title": "Lockdown Protocol avé les copains",
-      "canceled_until": null,
-      "category": {
-        "id": "144418804",
-        "name": "LOCKDOWN Protocol"
-      },
-      "is_recurring": true
-    },
-    {
-      "id": "eyJzZWdtZW50SUQiOiIwMTY3ZmYzMS01YzBiLTQ5MjctYTNlMC1lNmExMWY4NmI1MDciLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjozN30=",
-      "start_time": "2024-09-11T12:00:00Z",
       "end_time": "2024-09-11T16:00:00Z",
-      "title": "Suite du DLC Elden Ring",
+      "title": "Préparation finale du ZEVENT !!",
       "canceled_until": null,
       "category": {
-        "id": "512953",
-        "name": "ELDEN RING"
+        "id": "509658",
+        "name": "Just Chatting"
       },
       "is_recurring": true
     },
     {
-      "id": "eyJzZWdtZW50SUQiOiIwNjZhMjlkNC03OTk3LTRjNDEtODQ4MS1iMjlmYjhlYTcwMjQiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjozN30=",
-      "start_time": "2024-09-12T18:00:00Z",
-      "end_time": "2024-09-12T22:00:00Z",
-      "title": "Découverte de Superliminal !",
+      "id": "eyJzZWdtZW50SUQiOiI1ZDMzYTdlMy0wOWMyLTQ1ZDctYjcwZC1jNTg1NTM1YjhkMGYiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjozN30=",
+      "start_time": "2024-09-13T16:00:00Z",
+      "end_time": "2024-09-13T22:00:00Z",
+      "title": "ZEVENT 2024",
       "canceled_until": null,
       "category": {
-        "id": "511974",
-        "name": "Superliminal"
+        "id": "509663",
+        "name": "Special Events"
       },
       "is_recurring": true
     },
     {
-      "id": "eyJzZWdtZW50SUQiOiI3NTk1YmEyNC02ZTQ0LTQyOTktOThkNy1jMTQ4MjY5MDk5MDIiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjozN30=",
-      "start_time": "2024-09-13T11:00:00Z",
-      "end_time": "2024-09-13T16:00:00Z",
-      "title": "Suite du DLC Elden Ring",
+      "id": "eyJzZWdtZW50SUQiOiIwMWNkNzI4My1iZjkyLTQwNzItYmJlNy00NGYzMWU3NThhMWQiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjozN30=",
+      "start_time": "2024-09-13T22:00:00Z",
+      "end_time": "2024-09-14T21:00:00Z",
+      "title": "ZEVENT 2024",
       "canceled_until": null,
       "category": {
-        "id": "512953",
-        "name": "ELDEN RING"
+        "id": "509663",
+        "name": "Special Events"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiJhMDQ1ODc2Ni02YjRlLTQ4YmYtODJhYy1mZDE1NDg0MjQ0YzgiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjozN30=",
+      "start_time": "2024-09-14T22:00:00Z",
+      "end_time": "2024-09-15T21:00:00Z",
+      "title": "ZEVENT 2024",
+      "canceled_until": null,
+      "category": {
+        "id": "509663",
+        "name": "Special Events"
       },
       "is_recurring": true
     },
@@ -193,10 +193,22 @@
       "is_recurring": true
     },
     {
-      "id": "eyJzZWdtZW50SUQiOiIzZThlYTA4YS04OTMyLTRkZmEtYTVlNC0zNTUxZjY1NWRlOTUiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjozOH0=",
+      "id": "eyJzZWdtZW50SUQiOiI1ZTI0YjZjYi03NWM3LTQ0ZWEtYmNjZi1kNTc5MTYwNzIzZTgiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjozOH0=",
       "start_time": "2024-09-17T09:00:00Z",
-      "end_time": "2024-09-17T12:00:00Z",
-      "title": "Discussion & Donation Goal du Zevent",
+      "end_time": "2024-09-17T13:00:00Z",
+      "title": "Codenames avé les copains",
+      "canceled_until": null,
+      "category": {
+        "id": "508509",
+        "name": "Codenames"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiI2N2Q4ZTdiZS1kNTViLTQ5MDktOTczMy0zMDYxYzJlY2YwZTkiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjozOH0=",
+      "start_time": "2024-09-17T13:00:00Z",
+      "end_time": "2024-09-17T16:00:00Z",
+      "title": "YOLOOOOO",
       "canceled_until": null,
       "category": {
         "id": "509658",
@@ -205,50 +217,38 @@
       "is_recurring": true
     },
     {
-      "id": "eyJzZWdtZW50SUQiOiJiNGM0NzQwZi1mZTQzLTRjMGQtOTFlZC0wZGNiOTQ0YWM1ZGEiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjozOH0=",
-      "start_time": "2024-09-17T12:00:00Z",
-      "end_time": "2024-09-17T16:00:00Z",
-      "title": "On écoute vos sons avec Léo et JB de Floral Records !",
-      "canceled_until": null,
-      "category": {
-        "id": "26936",
-        "name": "Music"
-      },
-      "is_recurring": true
-    },
-    {
-      "id": "eyJzZWdtZW50SUQiOiI2YjZkOTE2ZC1mNGE1LTRlZWMtYWEwMS0xY2Q0OWM5OWE3NjQiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjozOH0=",
+      "id": "eyJzZWdtZW50SUQiOiI0ZThjM2M3MS1jNGE4LTQ4MTAtODliMy1jOWI2N2U2YWQxZmEiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjozOH0=",
       "start_time": "2024-09-18T09:00:00Z",
-      "end_time": "2024-09-18T12:00:00Z",
-      "title": "Lockdown Protocol avé les copains",
-      "canceled_until": null,
-      "category": {
-        "id": "144418804",
-        "name": "LOCKDOWN Protocol"
-      },
-      "is_recurring": true
-    },
-    {
-      "id": "eyJzZWdtZW50SUQiOiIwMTY3ZmYzMS01YzBiLTQ5MjctYTNlMC1lNmExMWY4NmI1MDciLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjozOH0=",
-      "start_time": "2024-09-18T12:00:00Z",
       "end_time": "2024-09-18T16:00:00Z",
-      "title": "Suite du DLC Elden Ring",
+      "title": "Préparation finale du ZEVENT !!",
       "canceled_until": null,
       "category": {
-        "id": "512953",
-        "name": "ELDEN RING"
+        "id": "509658",
+        "name": "Just Chatting"
       },
       "is_recurring": true
     },
     {
-      "id": "eyJzZWdtZW50SUQiOiIwNjZhMjlkNC03OTk3LTRjNDEtODQ4MS1iMjlmYjhlYTcwMjQiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjozOH0=",
-      "start_time": "2024-09-19T18:00:00Z",
-      "end_time": "2024-09-19T22:00:00Z",
-      "title": "Découverte de Superliminal !",
+      "id": "eyJzZWdtZW50SUQiOiI1ZDMzYTdlMy0wOWMyLTQ1ZDctYjcwZC1jNTg1NTM1YjhkMGYiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjozOH0=",
+      "start_time": "2024-09-20T16:00:00Z",
+      "end_time": "2024-09-20T22:00:00Z",
+      "title": "ZEVENT 2024",
       "canceled_until": null,
       "category": {
-        "id": "511974",
-        "name": "Superliminal"
+        "id": "509663",
+        "name": "Special Events"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiIwMWNkNzI4My1iZjkyLTQwNzItYmJlNy00NGYzMWU3NThhMWQiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjozOH0=",
+      "start_time": "2024-09-20T22:00:00Z",
+      "end_time": "2024-09-21T21:00:00Z",
+      "title": "ZEVENT 2024",
+      "canceled_until": null,
+      "category": {
+        "id": "509663",
+        "name": "Special Events"
       },
       "is_recurring": true
     }
