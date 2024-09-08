@@ -13,18 +13,6 @@
   },
   "schedulers": [
     {
-      "id": "eyJzZWdtZW50SUQiOiJjY2ZlZTBkMy00MzcyLTRkYjEtYjhlZC0xMmY1YzhmMmM1ZmIiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjozNn0=",
-      "start_time": "2024-09-07T10:00:00Z",
-      "end_time": "2024-09-08T03:00:00Z",
-      "title": "ZEVENT 2024, JOUR 2",
-      "canceled_until": null,
-      "category": {
-        "id": "509663",
-        "name": "Special Events"
-      },
-      "is_recurring": false
-    },
-    {
       "id": "eyJzZWdtZW50SUQiOiIzZTQ0ZmUxYS00MmYyLTRhMDAtODY0Yy1mOTQ2YzAyNzlmNjAiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjozNn0=",
       "start_time": "2024-09-08T10:00:00Z",
       "end_time": "2024-09-08T22:00:00Z",
@@ -244,6 +232,18 @@
       "id": "eyJzZWdtZW50SUQiOiJiNTE0YTNkMC0xM2IxLTRjMGYtYTAzMy05OTdiYzc4Yjc1YjEiLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjoyfQ==",
       "start_time": "2025-01-06T19:30:00Z",
       "end_time": "2025-01-06T23:00:00Z",
+      "title": "Soirée du lundi",
+      "canceled_until": null,
+      "category": {
+        "id": "509658",
+        "name": "Just Chatting"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiJiNTE0YTNkMC0xM2IxLTRjMGYtYTAzMy05OTdiYzc4Yjc1YjEiLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjozfQ==",
+      "start_time": "2025-01-13T19:30:00Z",
+      "end_time": "2025-01-13T23:00:00Z",
       "title": "Soirée du lundi",
       "canceled_until": null,
       "category": {

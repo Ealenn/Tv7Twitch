@@ -13,18 +13,6 @@
   },
   "schedulers": [
     {
-      "id": "eyJzZWdtZW50SUQiOiJhMDQ1ODc2Ni02YjRlLTQ4YmYtODJhYy1mZDE1NDg0MjQ0YzgiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjozNn0=",
-      "start_time": "2024-09-07T22:00:00Z",
-      "end_time": "2024-09-08T21:00:00Z",
-      "title": "ZEVENT 2024",
-      "canceled_until": null,
-      "category": {
-        "id": "509663",
-        "name": "Special Events"
-      },
-      "is_recurring": true
-    },
-    {
       "id": "eyJzZWdtZW50SUQiOiJlOWI2ZTA4Zi03ODQ3LTRjMGEtYTkxZC1lMmY1YzgwZjIyYjYiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjozN30=",
       "start_time": "2024-09-09T09:00:00Z",
       "end_time": "2024-09-09T16:00:00Z",
@@ -244,6 +232,18 @@
       "id": "eyJzZWdtZW50SUQiOiI1ZDMzYTdlMy0wOWMyLTQ1ZDctYjcwZC1jNTg1NTM1YjhkMGYiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjozOX0=",
       "start_time": "2024-09-27T16:00:00Z",
       "end_time": "2024-09-27T22:00:00Z",
+      "title": "ZEVENT 2024",
+      "canceled_until": null,
+      "category": {
+        "id": "509663",
+        "name": "Special Events"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiIwMWNkNzI4My1iZjkyLTQwNzItYmJlNy00NGYzMWU3NThhMWQiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjozOX0=",
+      "start_time": "2024-09-27T22:00:00Z",
+      "end_time": "2024-09-28T21:00:00Z",
       "title": "ZEVENT 2024",
       "canceled_until": null,
       "category": {
