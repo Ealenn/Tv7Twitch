@@ -13,16 +13,88 @@
   },
   "schedulers": [
     {
-      "id": "eyJzZWdtZW50SUQiOiJiNTE0YTNkMC0xM2IxLTRjMGYtYTAzMy05OTdiYzc4Yjc1YjEiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjozN30=",
-      "start_time": "2024-09-09T18:30:00Z",
-      "end_time": "2024-09-09T22:00:00Z",
-      "title": "Soirée du lundi",
+      "id": "eyJzZWdtZW50SUQiOiI3MzI1ZWY3ZS01ZTIwLTQzMDctYWI0Ni1kNjI3YTVhYzgyMjEiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjozN30=",
+      "start_time": "2024-09-10T16:00:00Z",
+      "end_time": "2024-09-10T18:00:00Z",
+      "title": "Debrief ZEVENT car demain WoW Hôtel à 14h omg !",
       "canceled_until": null,
       "category": {
         "id": "509658",
         "name": "Just Chatting"
       },
-      "is_recurring": true
+      "is_recurring": false
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiI1YWYwNmRhYS03MzVkLTQ5MWQtYjBiOC1mZGVjMmQ2ZjcwN2YiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjozN30=",
+      "start_time": "2024-09-11T12:00:00Z",
+      "end_time": "2024-09-11T22:00:00Z",
+      "title": "WoW Hôtel à 20 dans la même pièce pour finir le raid Héroïque du palais Nerub'ar",
+      "canceled_until": null,
+      "category": {
+        "id": "18122",
+        "name": "World of Warcraft"
+      },
+      "is_recurring": false
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiJkMzYyOThiNC1lMzY0LTQyYTUtYTE5OS01ZGEyZGQxODU1MzEiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjozN30=",
+      "start_time": "2024-09-12T12:00:00Z",
+      "end_time": "2024-09-12T22:00:00Z",
+      "title": "WoW Hôtel à 20 dans la même pièce pour finir le raid Héroïque du palais Nerub'ar",
+      "canceled_until": null,
+      "category": {
+        "id": "18122",
+        "name": "World of Warcraft"
+      },
+      "is_recurring": false
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiIyZWUwYjMyOS0xNDI4LTQyOWYtODhhZC1jNzgxNjY4YjJhZGEiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjozN30=",
+      "start_time": "2024-09-13T12:00:00Z",
+      "end_time": "2024-09-13T22:00:00Z",
+      "title": "WoW Hôtel à 20 dans la même pièce pour finir le raid Héroïque du palais Nerub'ar",
+      "canceled_until": null,
+      "category": {
+        "id": "18122",
+        "name": "World of Warcraft"
+      },
+      "is_recurring": false
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiJiYTFhNWIxMi1kZTcxLTRjMTQtYWJiNC1kOTUyMzgyZDg3NTAiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjozN30=",
+      "start_time": "2024-09-14T12:00:00Z",
+      "end_time": "2024-09-14T22:00:00Z",
+      "title": "WoW Hôtel à 20 dans la même pièce pour finir le raid Héroïque du palais Nerub'ar",
+      "canceled_until": null,
+      "category": {
+        "id": "18122",
+        "name": "World of Warcraft"
+      },
+      "is_recurring": false
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiI1Nzc2ZjBmMy1mZmMxLTRhMDYtYWRjYi0wNzNlODBkMTU3ZTYiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjozN30=",
+      "start_time": "2024-09-15T12:00:00Z",
+      "end_time": "2024-09-15T22:00:00Z",
+      "title": "WoW Hôtel à 20 dans la même pièce pour finir le raid Héroïque du palais Nerub'ar",
+      "canceled_until": null,
+      "category": {
+        "id": "18122",
+        "name": "World of Warcraft"
+      },
+      "is_recurring": false
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiJkMDQ0MDRmMC1jMjU4LTQ5MjYtYTk4ZS1hMzUyYmQ0ZTczMmIiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjozOH0=",
+      "start_time": "2024-09-16T12:00:00Z",
+      "end_time": "2024-09-16T22:00:00Z",
+      "title": "WoW Hôtel à 20 dans la même pièce pour finir le raid Héroïque du palais Nerub'ar",
+      "canceled_until": null,
+      "category": {
+        "id": "18122",
+        "name": "World of Warcraft"
+      },
+      "is_recurring": false
     },
     {
       "id": "eyJzZWdtZW50SUQiOiJiNTE0YTNkMC0xM2IxLTRjMGYtYTAzMy05OTdiYzc4Yjc1YjEiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjozOH0=",
@@ -35,6 +107,18 @@
         "name": "Just Chatting"
       },
       "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiJlMDEwNzk3ZC02ZmU1LTQ0ZGMtYTkwMy1jOTA4NzQ1NGYyZjciLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjozOH0=",
+      "start_time": "2024-09-17T12:00:00Z",
+      "end_time": "2024-09-17T22:00:00Z",
+      "title": "WoW Hôtel à 20 dans la même pièce pour finir le raid Héroïque du palais Nerub'ar",
+      "canceled_until": null,
+      "category": {
+        "id": "18122",
+        "name": "World of Warcraft"
+      },
+      "is_recurring": false
     },
     {
       "id": "eyJzZWdtZW50SUQiOiJiNTE0YTNkMC0xM2IxLTRjMGYtYTAzMy05OTdiYzc4Yjc1YjEiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjozOX0=",
@@ -160,90 +244,6 @@
       "id": "eyJzZWdtZW50SUQiOiJiNTE0YTNkMC0xM2IxLTRjMGYtYTAzMy05OTdiYzc4Yjc1YjEiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjo0OX0=",
       "start_time": "2024-12-02T19:30:00Z",
       "end_time": "2024-12-02T23:00:00Z",
-      "title": "Soirée du lundi",
-      "canceled_until": null,
-      "category": {
-        "id": "509658",
-        "name": "Just Chatting"
-      },
-      "is_recurring": true
-    },
-    {
-      "id": "eyJzZWdtZW50SUQiOiJiNTE0YTNkMC0xM2IxLTRjMGYtYTAzMy05OTdiYzc4Yjc1YjEiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjo1MH0=",
-      "start_time": "2024-12-09T19:30:00Z",
-      "end_time": "2024-12-09T23:00:00Z",
-      "title": "Soirée du lundi",
-      "canceled_until": null,
-      "category": {
-        "id": "509658",
-        "name": "Just Chatting"
-      },
-      "is_recurring": true
-    },
-    {
-      "id": "eyJzZWdtZW50SUQiOiJiNTE0YTNkMC0xM2IxLTRjMGYtYTAzMy05OTdiYzc4Yjc1YjEiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjo1MX0=",
-      "start_time": "2024-12-16T19:30:00Z",
-      "end_time": "2024-12-16T23:00:00Z",
-      "title": "Soirée du lundi",
-      "canceled_until": null,
-      "category": {
-        "id": "509658",
-        "name": "Just Chatting"
-      },
-      "is_recurring": true
-    },
-    {
-      "id": "eyJzZWdtZW50SUQiOiJiNTE0YTNkMC0xM2IxLTRjMGYtYTAzMy05OTdiYzc4Yjc1YjEiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjo1Mn0=",
-      "start_time": "2024-12-23T19:30:00Z",
-      "end_time": "2024-12-23T23:00:00Z",
-      "title": "Soirée du lundi",
-      "canceled_until": null,
-      "category": {
-        "id": "509658",
-        "name": "Just Chatting"
-      },
-      "is_recurring": true
-    },
-    {
-      "id": "eyJzZWdtZW50SUQiOiJiNTE0YTNkMC0xM2IxLTRjMGYtYTAzMy05OTdiYzc4Yjc1YjEiLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjoxfQ==",
-      "start_time": "2024-12-30T19:30:00Z",
-      "end_time": "2024-12-30T23:00:00Z",
-      "title": "Soirée du lundi",
-      "canceled_until": null,
-      "category": {
-        "id": "509658",
-        "name": "Just Chatting"
-      },
-      "is_recurring": true
-    },
-    {
-      "id": "eyJzZWdtZW50SUQiOiJiNTE0YTNkMC0xM2IxLTRjMGYtYTAzMy05OTdiYzc4Yjc1YjEiLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjoyfQ==",
-      "start_time": "2025-01-06T19:30:00Z",
-      "end_time": "2025-01-06T23:00:00Z",
-      "title": "Soirée du lundi",
-      "canceled_until": null,
-      "category": {
-        "id": "509658",
-        "name": "Just Chatting"
-      },
-      "is_recurring": true
-    },
-    {
-      "id": "eyJzZWdtZW50SUQiOiJiNTE0YTNkMC0xM2IxLTRjMGYtYTAzMy05OTdiYzc4Yjc1YjEiLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjozfQ==",
-      "start_time": "2025-01-13T19:30:00Z",
-      "end_time": "2025-01-13T23:00:00Z",
-      "title": "Soirée du lundi",
-      "canceled_until": null,
-      "category": {
-        "id": "509658",
-        "name": "Just Chatting"
-      },
-      "is_recurring": true
-    },
-    {
-      "id": "eyJzZWdtZW50SUQiOiJiNTE0YTNkMC0xM2IxLTRjMGYtYTAzMy05OTdiYzc4Yjc1YjEiLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjo0fQ==",
-      "start_time": "2025-01-20T19:30:00Z",
-      "end_time": "2025-01-20T23:00:00Z",
       "title": "Soirée du lundi",
       "canceled_until": null,
       "category": {
