@@ -13,18 +13,6 @@
   },
   "schedulers": [
     {
-      "id": "eyJzZWdtZW50SUQiOiI1ZDMzYTdlMy0wOWMyLTQ1ZDctYjcwZC1jNTg1NTM1YjhkMGYiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjozN30=",
-      "start_time": "2024-09-13T12:00:00Z",
-      "end_time": "2024-09-13T20:00:00Z",
-      "title": "WoW Hotel",
-      "canceled_until": null,
-      "category": {
-        "id": "18122",
-        "name": "World of Warcraft"
-      },
-      "is_recurring": true
-    },
-    {
       "id": "eyJzZWdtZW50SUQiOiIwMWNkNzI4My1iZjkyLTQwNzItYmJlNy00NGYzMWU3NThhMWQiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjozN30=",
       "start_time": "2024-09-14T12:00:00Z",
       "end_time": "2024-09-14T20:00:00Z",
@@ -244,6 +232,18 @@
       "id": "eyJzZWdtZW50SUQiOiIwMWNkNzI4My1iZjkyLTQwNzItYmJlNy00NGYzMWU3NThhMWQiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjo0MH0=",
       "start_time": "2024-10-05T12:00:00Z",
       "end_time": "2024-10-05T20:00:00Z",
+      "title": "WoW Hotel",
+      "canceled_until": null,
+      "category": {
+        "id": "18122",
+        "name": "World of Warcraft"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiJhMDQ1ODc2Ni02YjRlLTQ4YmYtODJhYy1mZDE1NDg0MjQ0YzgiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjo0MH0=",
+      "start_time": "2024-10-06T12:00:00Z",
+      "end_time": "2024-10-06T20:00:00Z",
       "title": "WoW Hotel",
       "canceled_until": null,
       "category": {
