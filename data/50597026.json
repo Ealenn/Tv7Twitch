@@ -13,242 +13,230 @@
   },
   "schedulers": [
     {
-      "id": "eyJzZWdtZW50SUQiOiJhMDQ1ODc2Ni02YjRlLTQ4YmYtODJhYy1mZDE1NDg0MjQ0YzgiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjozN30=",
-      "start_time": "2024-09-15T12:00:00Z",
-      "end_time": "2024-09-15T20:00:00Z",
-      "title": "WoW Hotel",
+      "id": "eyJzZWdtZW50SUQiOiIzN2ZhOWU2NC02NjA4LTRmZjgtOTEwOC1kZTgxN2JjMTdjYzMiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjozOH0=",
+      "start_time": "2024-09-16T12:00:00Z",
+      "end_time": "2024-09-16T19:00:00Z",
+      "title": "Culture & Plaisir",
       "canceled_until": null,
       "category": {
-        "id": "18122",
-        "name": "World of Warcraft"
+        "id": "338715930",
+        "name": "Maitre des Fleurs"
       },
       "is_recurring": true
     },
     {
       "id": "eyJzZWdtZW50SUQiOiI2N2Q4ZTdiZS1kNTViLTQ5MDktOTczMy0zMDYxYzJlY2YwZTkiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjozOH0=",
-      "start_time": "2024-09-17T10:00:00Z",
-      "end_time": "2024-09-17T15:00:00Z",
-      "title": "Debrief Zevent",
+      "start_time": "2024-09-17T09:00:00Z",
+      "end_time": "2024-09-17T12:00:00Z",
+      "title": "Lockdown Protocol avec les potes",
       "canceled_until": null,
       "category": {
-        "id": "509658",
-        "name": "Just Chatting"
+        "id": "144418804",
+        "name": "LOCKDOWN Protocol"
       },
       "is_recurring": true
     },
     {
+      "id": "eyJzZWdtZW50SUQiOiJmM2U0NWRhNS1lYjIzLTQ0MTYtYTdmMi0yMWNkN2Y2Nzg0ZmEiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjozOH0=",
+      "start_time": "2024-09-17T12:00:00Z",
+      "end_time": "2024-09-17T16:00:00Z",
+      "title": "YOLO",
+      "canceled_until": null,
+      "category": null,
+      "is_recurring": true
+    },
+    {
       "id": "eyJzZWdtZW50SUQiOiI0ZThjM2M3MS1jNGE4LTQ4MTAtODliMy1jOWI2N2U2YWQxZmEiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjozOH0=",
-      "start_time": "2024-09-18T11:00:00Z",
-      "end_time": "2024-09-18T19:00:00Z",
-      "title": "WoW Hotel",
+      "start_time": "2024-09-18T17:00:00Z",
+      "end_time": "2024-09-18T21:00:00Z",
+      "title": "MDF Guest avec Céline, ma mate du Culture Clash",
       "canceled_until": null,
       "category": {
-        "id": "18122",
-        "name": "World of Warcraft"
+        "id": "338715930",
+        "name": "Maitre des Fleurs"
       },
       "is_recurring": true
     },
     {
       "id": "eyJzZWdtZW50SUQiOiI0NTJjNWE1Ny03NmJhLTRjYTItYWE5NC00OTY2MzE4MTM2MDkiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjozOH0=",
-      "start_time": "2024-09-19T11:00:00Z",
-      "end_time": "2024-09-19T19:00:00Z",
-      "title": "WoW Hotel",
+      "start_time": "2024-09-19T18:00:00Z",
+      "end_time": "2024-09-19T22:00:00Z",
+      "title": "Culture Clash sur la chaîne d’Etoiles",
       "canceled_until": null,
       "category": {
-        "id": "18122",
-        "name": "World of Warcraft"
+        "id": "509663",
+        "name": "Special Events"
       },
       "is_recurring": true
     },
     {
-      "id": "eyJzZWdtZW50SUQiOiI1ZDMzYTdlMy0wOWMyLTQ1ZDctYjcwZC1jNTg1NTM1YjhkMGYiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjozOH0=",
-      "start_time": "2024-09-20T12:00:00Z",
-      "end_time": "2024-09-20T20:00:00Z",
-      "title": "WoW Hotel",
+      "id": "eyJzZWdtZW50SUQiOiIzN2ZhOWU2NC02NjA4LTRmZjgtOTEwOC1kZTgxN2JjMTdjYzMiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjozOX0=",
+      "start_time": "2024-09-23T12:00:00Z",
+      "end_time": "2024-09-23T19:00:00Z",
+      "title": "Culture & Plaisir",
       "canceled_until": null,
       "category": {
-        "id": "18122",
-        "name": "World of Warcraft"
-      },
-      "is_recurring": true
-    },
-    {
-      "id": "eyJzZWdtZW50SUQiOiIwMWNkNzI4My1iZjkyLTQwNzItYmJlNy00NGYzMWU3NThhMWQiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjozOH0=",
-      "start_time": "2024-09-21T12:00:00Z",
-      "end_time": "2024-09-21T20:00:00Z",
-      "title": "WoW Hotel",
-      "canceled_until": null,
-      "category": {
-        "id": "18122",
-        "name": "World of Warcraft"
-      },
-      "is_recurring": true
-    },
-    {
-      "id": "eyJzZWdtZW50SUQiOiJhMDQ1ODc2Ni02YjRlLTQ4YmYtODJhYy1mZDE1NDg0MjQ0YzgiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjozOH0=",
-      "start_time": "2024-09-22T12:00:00Z",
-      "end_time": "2024-09-22T20:00:00Z",
-      "title": "WoW Hotel",
-      "canceled_until": null,
-      "category": {
-        "id": "18122",
-        "name": "World of Warcraft"
+        "id": "338715930",
+        "name": "Maitre des Fleurs"
       },
       "is_recurring": true
     },
     {
       "id": "eyJzZWdtZW50SUQiOiI2N2Q4ZTdiZS1kNTViLTQ5MDktOTczMy0zMDYxYzJlY2YwZTkiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjozOX0=",
-      "start_time": "2024-09-24T10:00:00Z",
-      "end_time": "2024-09-24T15:00:00Z",
-      "title": "Debrief Zevent",
+      "start_time": "2024-09-24T09:00:00Z",
+      "end_time": "2024-09-24T12:00:00Z",
+      "title": "Lockdown Protocol avec les potes",
       "canceled_until": null,
       "category": {
-        "id": "509658",
-        "name": "Just Chatting"
+        "id": "144418804",
+        "name": "LOCKDOWN Protocol"
       },
       "is_recurring": true
     },
     {
+      "id": "eyJzZWdtZW50SUQiOiJmM2U0NWRhNS1lYjIzLTQ0MTYtYTdmMi0yMWNkN2Y2Nzg0ZmEiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjozOX0=",
+      "start_time": "2024-09-24T12:00:00Z",
+      "end_time": "2024-09-24T16:00:00Z",
+      "title": "YOLO",
+      "canceled_until": null,
+      "category": null,
+      "is_recurring": true
+    },
+    {
       "id": "eyJzZWdtZW50SUQiOiI0ZThjM2M3MS1jNGE4LTQ4MTAtODliMy1jOWI2N2U2YWQxZmEiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjozOX0=",
-      "start_time": "2024-09-25T11:00:00Z",
-      "end_time": "2024-09-25T19:00:00Z",
-      "title": "WoW Hotel",
+      "start_time": "2024-09-25T17:00:00Z",
+      "end_time": "2024-09-25T21:00:00Z",
+      "title": "MDF Guest avec Céline, ma mate du Culture Clash",
       "canceled_until": null,
       "category": {
-        "id": "18122",
-        "name": "World of Warcraft"
+        "id": "338715930",
+        "name": "Maitre des Fleurs"
       },
       "is_recurring": true
     },
     {
       "id": "eyJzZWdtZW50SUQiOiI0NTJjNWE1Ny03NmJhLTRjYTItYWE5NC00OTY2MzE4MTM2MDkiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjozOX0=",
-      "start_time": "2024-09-26T11:00:00Z",
-      "end_time": "2024-09-26T19:00:00Z",
-      "title": "WoW Hotel",
+      "start_time": "2024-09-26T18:00:00Z",
+      "end_time": "2024-09-26T22:00:00Z",
+      "title": "Culture Clash sur la chaîne d’Etoiles",
       "canceled_until": null,
       "category": {
-        "id": "18122",
-        "name": "World of Warcraft"
+        "id": "509663",
+        "name": "Special Events"
       },
       "is_recurring": true
     },
     {
-      "id": "eyJzZWdtZW50SUQiOiI1ZDMzYTdlMy0wOWMyLTQ1ZDctYjcwZC1jNTg1NTM1YjhkMGYiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjozOX0=",
-      "start_time": "2024-09-27T12:00:00Z",
-      "end_time": "2024-09-27T20:00:00Z",
-      "title": "WoW Hotel",
+      "id": "eyJzZWdtZW50SUQiOiIzN2ZhOWU2NC02NjA4LTRmZjgtOTEwOC1kZTgxN2JjMTdjYzMiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjo0MH0=",
+      "start_time": "2024-09-30T12:00:00Z",
+      "end_time": "2024-09-30T19:00:00Z",
+      "title": "Culture & Plaisir",
       "canceled_until": null,
       "category": {
-        "id": "18122",
-        "name": "World of Warcraft"
-      },
-      "is_recurring": true
-    },
-    {
-      "id": "eyJzZWdtZW50SUQiOiIwMWNkNzI4My1iZjkyLTQwNzItYmJlNy00NGYzMWU3NThhMWQiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjozOX0=",
-      "start_time": "2024-09-28T12:00:00Z",
-      "end_time": "2024-09-28T20:00:00Z",
-      "title": "WoW Hotel",
-      "canceled_until": null,
-      "category": {
-        "id": "18122",
-        "name": "World of Warcraft"
-      },
-      "is_recurring": true
-    },
-    {
-      "id": "eyJzZWdtZW50SUQiOiJhMDQ1ODc2Ni02YjRlLTQ4YmYtODJhYy1mZDE1NDg0MjQ0YzgiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjozOX0=",
-      "start_time": "2024-09-29T12:00:00Z",
-      "end_time": "2024-09-29T20:00:00Z",
-      "title": "WoW Hotel",
-      "canceled_until": null,
-      "category": {
-        "id": "18122",
-        "name": "World of Warcraft"
+        "id": "338715930",
+        "name": "Maitre des Fleurs"
       },
       "is_recurring": true
     },
     {
       "id": "eyJzZWdtZW50SUQiOiI2N2Q4ZTdiZS1kNTViLTQ5MDktOTczMy0zMDYxYzJlY2YwZTkiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjo0MH0=",
-      "start_time": "2024-10-01T10:00:00Z",
-      "end_time": "2024-10-01T15:00:00Z",
-      "title": "Debrief Zevent",
+      "start_time": "2024-10-01T09:00:00Z",
+      "end_time": "2024-10-01T12:00:00Z",
+      "title": "Lockdown Protocol avec les potes",
       "canceled_until": null,
       "category": {
-        "id": "509658",
-        "name": "Just Chatting"
+        "id": "144418804",
+        "name": "LOCKDOWN Protocol"
       },
       "is_recurring": true
     },
     {
+      "id": "eyJzZWdtZW50SUQiOiJmM2U0NWRhNS1lYjIzLTQ0MTYtYTdmMi0yMWNkN2Y2Nzg0ZmEiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjo0MH0=",
+      "start_time": "2024-10-01T12:00:00Z",
+      "end_time": "2024-10-01T16:00:00Z",
+      "title": "YOLO",
+      "canceled_until": null,
+      "category": null,
+      "is_recurring": true
+    },
+    {
       "id": "eyJzZWdtZW50SUQiOiI0ZThjM2M3MS1jNGE4LTQ4MTAtODliMy1jOWI2N2U2YWQxZmEiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjo0MH0=",
-      "start_time": "2024-10-02T11:00:00Z",
-      "end_time": "2024-10-02T19:00:00Z",
-      "title": "WoW Hotel",
+      "start_time": "2024-10-02T17:00:00Z",
+      "end_time": "2024-10-02T21:00:00Z",
+      "title": "MDF Guest avec Céline, ma mate du Culture Clash",
       "canceled_until": null,
       "category": {
-        "id": "18122",
-        "name": "World of Warcraft"
+        "id": "338715930",
+        "name": "Maitre des Fleurs"
       },
       "is_recurring": true
     },
     {
       "id": "eyJzZWdtZW50SUQiOiI0NTJjNWE1Ny03NmJhLTRjYTItYWE5NC00OTY2MzE4MTM2MDkiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjo0MH0=",
-      "start_time": "2024-10-03T11:00:00Z",
-      "end_time": "2024-10-03T19:00:00Z",
-      "title": "WoW Hotel",
+      "start_time": "2024-10-03T18:00:00Z",
+      "end_time": "2024-10-03T22:00:00Z",
+      "title": "Culture Clash sur la chaîne d’Etoiles",
       "canceled_until": null,
       "category": {
-        "id": "18122",
-        "name": "World of Warcraft"
+        "id": "509663",
+        "name": "Special Events"
       },
       "is_recurring": true
     },
     {
-      "id": "eyJzZWdtZW50SUQiOiI1ZDMzYTdlMy0wOWMyLTQ1ZDctYjcwZC1jNTg1NTM1YjhkMGYiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjo0MH0=",
-      "start_time": "2024-10-04T12:00:00Z",
-      "end_time": "2024-10-04T20:00:00Z",
-      "title": "WoW Hotel",
+      "id": "eyJzZWdtZW50SUQiOiIzN2ZhOWU2NC02NjA4LTRmZjgtOTEwOC1kZTgxN2JjMTdjYzMiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjo0MX0=",
+      "start_time": "2024-10-07T12:00:00Z",
+      "end_time": "2024-10-07T19:00:00Z",
+      "title": "Culture & Plaisir",
       "canceled_until": null,
       "category": {
-        "id": "18122",
-        "name": "World of Warcraft"
-      },
-      "is_recurring": true
-    },
-    {
-      "id": "eyJzZWdtZW50SUQiOiIwMWNkNzI4My1iZjkyLTQwNzItYmJlNy00NGYzMWU3NThhMWQiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjo0MH0=",
-      "start_time": "2024-10-05T12:00:00Z",
-      "end_time": "2024-10-05T20:00:00Z",
-      "title": "WoW Hotel",
-      "canceled_until": null,
-      "category": {
-        "id": "18122",
-        "name": "World of Warcraft"
-      },
-      "is_recurring": true
-    },
-    {
-      "id": "eyJzZWdtZW50SUQiOiJhMDQ1ODc2Ni02YjRlLTQ4YmYtODJhYy1mZDE1NDg0MjQ0YzgiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjo0MH0=",
-      "start_time": "2024-10-06T12:00:00Z",
-      "end_time": "2024-10-06T20:00:00Z",
-      "title": "WoW Hotel",
-      "canceled_until": null,
-      "category": {
-        "id": "18122",
-        "name": "World of Warcraft"
+        "id": "338715930",
+        "name": "Maitre des Fleurs"
       },
       "is_recurring": true
     },
     {
       "id": "eyJzZWdtZW50SUQiOiI2N2Q4ZTdiZS1kNTViLTQ5MDktOTczMy0zMDYxYzJlY2YwZTkiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjo0MX0=",
-      "start_time": "2024-10-08T10:00:00Z",
-      "end_time": "2024-10-08T15:00:00Z",
-      "title": "Debrief Zevent",
+      "start_time": "2024-10-08T09:00:00Z",
+      "end_time": "2024-10-08T12:00:00Z",
+      "title": "Lockdown Protocol avec les potes",
       "canceled_until": null,
       "category": {
-        "id": "509658",
-        "name": "Just Chatting"
+        "id": "144418804",
+        "name": "LOCKDOWN Protocol"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiJmM2U0NWRhNS1lYjIzLTQ0MTYtYTdmMi0yMWNkN2Y2Nzg0ZmEiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjo0MX0=",
+      "start_time": "2024-10-08T12:00:00Z",
+      "end_time": "2024-10-08T16:00:00Z",
+      "title": "YOLO",
+      "canceled_until": null,
+      "category": null,
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiI0ZThjM2M3MS1jNGE4LTQ4MTAtODliMy1jOWI2N2U2YWQxZmEiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjo0MX0=",
+      "start_time": "2024-10-09T17:00:00Z",
+      "end_time": "2024-10-09T21:00:00Z",
+      "title": "MDF Guest avec Céline, ma mate du Culture Clash",
+      "canceled_until": null,
+      "category": {
+        "id": "338715930",
+        "name": "Maitre des Fleurs"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiI0NTJjNWE1Ny03NmJhLTRjYTItYWE5NC00OTY2MzE4MTM2MDkiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjo0MX0=",
+      "start_time": "2024-10-10T18:00:00Z",
+      "end_time": "2024-10-10T22:00:00Z",
+      "title": "Culture Clash sur la chaîne d’Etoiles",
+      "canceled_until": null,
+      "category": {
+        "id": "509663",
+        "name": "Special Events"
       },
       "is_recurring": true
     }
