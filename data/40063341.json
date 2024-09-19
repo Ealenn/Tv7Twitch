@@ -13,30 +13,6 @@
   },
   "schedulers": [
     {
-      "id": "eyJzZWdtZW50SUQiOiJjZTRiMzA5Ni0zYzVkLTQ0NDYtOWU2Ny03MjI5YTE5ZmU4ZDIiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjozOH0=",
-      "start_time": "2024-09-18T12:00:00Z",
-      "end_time": "2024-09-18T13:00:00Z",
-      "title": "🎙 PRÉ LIVE",
-      "canceled_until": null,
-      "category": {
-        "id": "509658",
-        "name": "Just Chatting"
-      },
-      "is_recurring": false
-    },
-    {
-      "id": "eyJzZWdtZW50SUQiOiIxZmQ2M2QxNC00ZWVlLTRkYTYtYTRiOS05Y2NkYzRlY2ZkNGMiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjozOH0=",
-      "start_time": "2024-09-18T13:00:00Z",
-      "end_time": "2024-09-18T17:00:00Z",
-      "title": "🎙️ STREAM LIBRE",
-      "canceled_until": null,
-      "category": {
-        "id": "509658",
-        "name": "Just Chatting"
-      },
-      "is_recurring": false
-    },
-    {
       "id": "eyJzZWdtZW50SUQiOiJmOGNlZDZiZS1mMTM3LTQ2ODktYjQzOS0xZGFhMGU3NGY4NTIiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjozOH0=",
       "start_time": "2024-09-20T18:00:00Z",
       "end_time": "2024-09-20T21:00:00Z",
@@ -244,6 +220,30 @@
       "id": "eyJzZWdtZW50SUQiOiJkMjc5YTZhMi1mNjhlLTQ0NTktOGZlNS0yNWU3NmZiNWVmNzEiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjo0N30=",
       "start_time": "2024-11-18T18:30:00Z",
       "end_time": "2024-11-18T19:30:00Z",
+      "title": "🎙 PRÉ LIVE",
+      "canceled_until": null,
+      "category": {
+        "id": "509658",
+        "name": "Just Chatting"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiI4YjgxODkyYi1jOWE3LTQyMzMtYjJjYi03YjQxZGExMjlhNzYiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjo0N30=",
+      "start_time": "2024-11-19T19:00:00Z",
+      "end_time": "2024-11-19T21:30:00Z",
+      "title": "🍿 POPCORN AVEC JULIEN DORÉ, BAGHERA & RIVENZI",
+      "canceled_until": null,
+      "category": {
+        "id": "417752",
+        "name": "Talk Shows & Podcasts"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiJkMjc5YTZhMi1mNjhlLTQ0NTktOGZlNS0yNWU3NmZiNWVmNzEiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjo0OH0=",
+      "start_time": "2024-11-25T18:30:00Z",
+      "end_time": "2024-11-25T19:30:00Z",
       "title": "🎙 PRÉ LIVE",
       "canceled_until": null,
       "category": {
