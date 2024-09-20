@@ -13,18 +13,6 @@
   },
   "schedulers": [
     {
-      "id": "eyJzZWdtZW50SUQiOiI0NTJjNWE1Ny03NmJhLTRjYTItYWE5NC00OTY2MzE4MTM2MDkiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjozOH0=",
-      "start_time": "2024-09-19T18:00:00Z",
-      "end_time": "2024-09-19T22:00:00Z",
-      "title": "Culture Clash sur la chaîne d’Etoiles",
-      "canceled_until": null,
-      "category": {
-        "id": "509663",
-        "name": "Special Events"
-      },
-      "is_recurring": true
-    },
-    {
       "id": "eyJzZWdtZW50SUQiOiIzN2ZhOWU2NC02NjA4LTRmZjgtOTEwOC1kZTgxN2JjMTdjYzMiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjozOX0=",
       "start_time": "2024-09-23T12:00:00Z",
       "end_time": "2024-09-23T19:00:00Z",
@@ -237,6 +225,18 @@
       "category": {
         "id": "338715930",
         "name": "Maitre des Fleurs"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiI0NTJjNWE1Ny03NmJhLTRjYTItYWE5NC00OTY2MzE4MTM2MDkiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjo0Mn0=",
+      "start_time": "2024-10-17T18:00:00Z",
+      "end_time": "2024-10-17T22:00:00Z",
+      "title": "Culture Clash sur la chaîne d’Etoiles",
+      "canceled_until": null,
+      "category": {
+        "id": "509663",
+        "name": "Special Events"
       },
       "is_recurring": true
     }
