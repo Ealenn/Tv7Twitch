@@ -14,8 +14,8 @@
   "schedulers": [
     {
       "id": "eyJzZWdtZW50SUQiOiIzN2ZhOWU2NC02NjA4LTRmZjgtOTEwOC1kZTgxN2JjMTdjYzMiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjozOX0=",
-      "start_time": "2024-09-23T12:00:00Z",
-      "end_time": "2024-09-23T19:00:00Z",
+      "start_time": "2024-09-23T09:00:00Z",
+      "end_time": "2024-09-23T16:00:00Z",
       "title": "Culture & Plaisir",
       "canceled_until": null,
       "category": {
@@ -27,41 +27,80 @@
     {
       "id": "eyJzZWdtZW50SUQiOiI2N2Q4ZTdiZS1kNTViLTQ5MDktOTczMy0zMDYxYzJlY2YwZTkiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjozOX0=",
       "start_time": "2024-09-24T09:00:00Z",
-      "end_time": "2024-09-24T12:00:00Z",
-      "title": "Lockdown Protocol avec les potes",
+      "end_time": "2024-09-24T14:00:00Z",
+      "title": "Lycans avec les potes",
       "canceled_until": null,
       "category": {
-        "id": "144418804",
-        "name": "LOCKDOWN Protocol"
+        "id": "1494074023",
+        "name": "Lycans"
       },
       "is_recurring": true
     },
     {
-      "id": "eyJzZWdtZW50SUQiOiJmM2U0NWRhNS1lYjIzLTQ0MTYtYTdmMi0yMWNkN2Y2Nzg0ZmEiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjozOX0=",
-      "start_time": "2024-09-24T12:00:00Z",
-      "end_time": "2024-09-24T16:00:00Z",
-      "title": "YOLO",
-      "canceled_until": null,
-      "category": null,
-      "is_recurring": true
-    },
-    {
       "id": "eyJzZWdtZW50SUQiOiI0ZThjM2M3MS1jNGE4LTQ4MTAtODliMy1jOWI2N2U2YWQxZmEiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjozOX0=",
-      "start_time": "2024-09-25T17:00:00Z",
-      "end_time": "2024-09-25T21:00:00Z",
-      "title": "MDF Guest avec Céline, ma mate du Culture Clash",
+      "start_time": "2024-09-25T09:00:00Z",
+      "end_time": "2024-09-25T14:00:00Z",
+      "title": "The Stanley Parable",
       "canceled_until": null,
       "category": {
-        "id": "338715930",
-        "name": "Maitre des Fleurs"
+        "id": "313258",
+        "name": "The Stanley Parable"
       },
       "is_recurring": true
     },
     {
       "id": "eyJzZWdtZW50SUQiOiI0NTJjNWE1Ny03NmJhLTRjYTItYWE5NC00OTY2MzE4MTM2MDkiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjozOX0=",
-      "start_time": "2024-09-26T18:00:00Z",
-      "end_time": "2024-09-26T22:00:00Z",
-      "title": "Culture Clash sur la chaîne d’Etoiles",
+      "start_time": "2024-09-26T09:00:00Z",
+      "end_time": "2024-09-26T17:00:00Z",
+      "title": "On découvre le nouveau Zelda",
+      "canceled_until": null,
+      "category": {
+        "id": "1290989747",
+        "name": "The Legend of Zelda: Echoes of Wisdom"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiI4OGQyOTY4NS05NjI5LTQ1ODQtYWVlYy05YTFhODQ1ZDE5NzAiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjozOX0=",
+      "start_time": "2024-09-27T09:00:00Z",
+      "end_time": "2024-09-27T15:00:00Z",
+      "title": "Suite de l’aventure Echoes of Wisdom",
+      "canceled_until": null,
+      "category": {
+        "id": "1290989747",
+        "name": "The Legend of Zelda: Echoes of Wisdom"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiJhNDJkNWZkNi1kMDE5LTRlMjMtODI0OC04YTA3ZjAzNjBlN2QiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjozOX0=",
+      "start_time": "2024-09-27T17:30:00Z",
+      "end_time": "2024-09-27T21:30:00Z",
+      "title": "MSF Quest",
+      "canceled_until": null,
+      "category": {
+        "id": "509663",
+        "name": "Special Events"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiIzNTU3ZjllYy1hNjU1LTRiMTUtYjRiOC0wMTY0MjZkODhlMjAiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjozOX0=",
+      "start_time": "2024-09-28T11:00:00Z",
+      "end_time": "2024-09-28T17:30:00Z",
+      "title": "MSF Quest",
+      "canceled_until": null,
+      "category": {
+        "id": "509663",
+        "name": "Special Events"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiIyOGJjYWViZS0zYTk0LTQwOTQtOWE2Ni00OWRmYzU1M2FkMzciLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjozOX0=",
+      "start_time": "2024-09-29T11:00:00Z",
+      "end_time": "2024-09-29T18:00:00Z",
+      "title": "MSF Quest",
       "canceled_until": null,
       "category": {
         "id": "509663",
@@ -71,8 +110,8 @@
     },
     {
       "id": "eyJzZWdtZW50SUQiOiIzN2ZhOWU2NC02NjA4LTRmZjgtOTEwOC1kZTgxN2JjMTdjYzMiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjo0MH0=",
-      "start_time": "2024-09-30T12:00:00Z",
-      "end_time": "2024-09-30T19:00:00Z",
+      "start_time": "2024-09-30T09:00:00Z",
+      "end_time": "2024-09-30T16:00:00Z",
       "title": "Culture & Plaisir",
       "canceled_until": null,
       "category": {
@@ -84,41 +123,80 @@
     {
       "id": "eyJzZWdtZW50SUQiOiI2N2Q4ZTdiZS1kNTViLTQ5MDktOTczMy0zMDYxYzJlY2YwZTkiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjo0MH0=",
       "start_time": "2024-10-01T09:00:00Z",
-      "end_time": "2024-10-01T12:00:00Z",
-      "title": "Lockdown Protocol avec les potes",
+      "end_time": "2024-10-01T14:00:00Z",
+      "title": "Lycans avec les potes",
       "canceled_until": null,
       "category": {
-        "id": "144418804",
-        "name": "LOCKDOWN Protocol"
+        "id": "1494074023",
+        "name": "Lycans"
       },
       "is_recurring": true
     },
     {
-      "id": "eyJzZWdtZW50SUQiOiJmM2U0NWRhNS1lYjIzLTQ0MTYtYTdmMi0yMWNkN2Y2Nzg0ZmEiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjo0MH0=",
-      "start_time": "2024-10-01T12:00:00Z",
-      "end_time": "2024-10-01T16:00:00Z",
-      "title": "YOLO",
-      "canceled_until": null,
-      "category": null,
-      "is_recurring": true
-    },
-    {
       "id": "eyJzZWdtZW50SUQiOiI0ZThjM2M3MS1jNGE4LTQ4MTAtODliMy1jOWI2N2U2YWQxZmEiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjo0MH0=",
-      "start_time": "2024-10-02T17:00:00Z",
-      "end_time": "2024-10-02T21:00:00Z",
-      "title": "MDF Guest avec Céline, ma mate du Culture Clash",
+      "start_time": "2024-10-02T09:00:00Z",
+      "end_time": "2024-10-02T14:00:00Z",
+      "title": "The Stanley Parable",
       "canceled_until": null,
       "category": {
-        "id": "338715930",
-        "name": "Maitre des Fleurs"
+        "id": "313258",
+        "name": "The Stanley Parable"
       },
       "is_recurring": true
     },
     {
       "id": "eyJzZWdtZW50SUQiOiI0NTJjNWE1Ny03NmJhLTRjYTItYWE5NC00OTY2MzE4MTM2MDkiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjo0MH0=",
-      "start_time": "2024-10-03T18:00:00Z",
-      "end_time": "2024-10-03T22:00:00Z",
-      "title": "Culture Clash sur la chaîne d’Etoiles",
+      "start_time": "2024-10-03T09:00:00Z",
+      "end_time": "2024-10-03T17:00:00Z",
+      "title": "On découvre le nouveau Zelda",
+      "canceled_until": null,
+      "category": {
+        "id": "1290989747",
+        "name": "The Legend of Zelda: Echoes of Wisdom"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiI4OGQyOTY4NS05NjI5LTQ1ODQtYWVlYy05YTFhODQ1ZDE5NzAiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjo0MH0=",
+      "start_time": "2024-10-04T09:00:00Z",
+      "end_time": "2024-10-04T15:00:00Z",
+      "title": "Suite de l’aventure Echoes of Wisdom",
+      "canceled_until": null,
+      "category": {
+        "id": "1290989747",
+        "name": "The Legend of Zelda: Echoes of Wisdom"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiJhNDJkNWZkNi1kMDE5LTRlMjMtODI0OC04YTA3ZjAzNjBlN2QiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjo0MH0=",
+      "start_time": "2024-10-04T17:30:00Z",
+      "end_time": "2024-10-04T21:30:00Z",
+      "title": "MSF Quest",
+      "canceled_until": null,
+      "category": {
+        "id": "509663",
+        "name": "Special Events"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiIzNTU3ZjllYy1hNjU1LTRiMTUtYjRiOC0wMTY0MjZkODhlMjAiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjo0MH0=",
+      "start_time": "2024-10-05T11:00:00Z",
+      "end_time": "2024-10-05T17:30:00Z",
+      "title": "MSF Quest",
+      "canceled_until": null,
+      "category": {
+        "id": "509663",
+        "name": "Special Events"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiIyOGJjYWViZS0zYTk0LTQwOTQtOWE2Ni00OWRmYzU1M2FkMzciLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjo0MH0=",
+      "start_time": "2024-10-06T11:00:00Z",
+      "end_time": "2024-10-06T18:00:00Z",
+      "title": "MSF Quest",
       "canceled_until": null,
       "category": {
         "id": "509663",
@@ -128,8 +206,8 @@
     },
     {
       "id": "eyJzZWdtZW50SUQiOiIzN2ZhOWU2NC02NjA4LTRmZjgtOTEwOC1kZTgxN2JjMTdjYzMiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjo0MX0=",
-      "start_time": "2024-10-07T12:00:00Z",
-      "end_time": "2024-10-07T19:00:00Z",
+      "start_time": "2024-10-07T09:00:00Z",
+      "end_time": "2024-10-07T16:00:00Z",
       "title": "Culture & Plaisir",
       "canceled_until": null,
       "category": {
@@ -141,102 +219,36 @@
     {
       "id": "eyJzZWdtZW50SUQiOiI2N2Q4ZTdiZS1kNTViLTQ5MDktOTczMy0zMDYxYzJlY2YwZTkiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjo0MX0=",
       "start_time": "2024-10-08T09:00:00Z",
-      "end_time": "2024-10-08T12:00:00Z",
-      "title": "Lockdown Protocol avec les potes",
+      "end_time": "2024-10-08T14:00:00Z",
+      "title": "Lycans avec les potes",
       "canceled_until": null,
       "category": {
-        "id": "144418804",
-        "name": "LOCKDOWN Protocol"
+        "id": "1494074023",
+        "name": "Lycans"
       },
       "is_recurring": true
     },
     {
-      "id": "eyJzZWdtZW50SUQiOiJmM2U0NWRhNS1lYjIzLTQ0MTYtYTdmMi0yMWNkN2Y2Nzg0ZmEiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjo0MX0=",
-      "start_time": "2024-10-08T12:00:00Z",
-      "end_time": "2024-10-08T16:00:00Z",
-      "title": "YOLO",
-      "canceled_until": null,
-      "category": null,
-      "is_recurring": true
-    },
-    {
       "id": "eyJzZWdtZW50SUQiOiI0ZThjM2M3MS1jNGE4LTQ4MTAtODliMy1jOWI2N2U2YWQxZmEiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjo0MX0=",
-      "start_time": "2024-10-09T17:00:00Z",
-      "end_time": "2024-10-09T21:00:00Z",
-      "title": "MDF Guest avec Céline, ma mate du Culture Clash",
+      "start_time": "2024-10-09T09:00:00Z",
+      "end_time": "2024-10-09T14:00:00Z",
+      "title": "The Stanley Parable",
       "canceled_until": null,
       "category": {
-        "id": "338715930",
-        "name": "Maitre des Fleurs"
+        "id": "313258",
+        "name": "The Stanley Parable"
       },
       "is_recurring": true
     },
     {
       "id": "eyJzZWdtZW50SUQiOiI0NTJjNWE1Ny03NmJhLTRjYTItYWE5NC00OTY2MzE4MTM2MDkiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjo0MX0=",
-      "start_time": "2024-10-10T18:00:00Z",
-      "end_time": "2024-10-10T22:00:00Z",
-      "title": "Culture Clash sur la chaîne d’Etoiles",
+      "start_time": "2024-10-10T09:00:00Z",
+      "end_time": "2024-10-10T17:00:00Z",
+      "title": "On découvre le nouveau Zelda",
       "canceled_until": null,
       "category": {
-        "id": "509663",
-        "name": "Special Events"
-      },
-      "is_recurring": true
-    },
-    {
-      "id": "eyJzZWdtZW50SUQiOiIzN2ZhOWU2NC02NjA4LTRmZjgtOTEwOC1kZTgxN2JjMTdjYzMiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjo0Mn0=",
-      "start_time": "2024-10-14T12:00:00Z",
-      "end_time": "2024-10-14T19:00:00Z",
-      "title": "Culture & Plaisir",
-      "canceled_until": null,
-      "category": {
-        "id": "338715930",
-        "name": "Maitre des Fleurs"
-      },
-      "is_recurring": true
-    },
-    {
-      "id": "eyJzZWdtZW50SUQiOiI2N2Q4ZTdiZS1kNTViLTQ5MDktOTczMy0zMDYxYzJlY2YwZTkiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjo0Mn0=",
-      "start_time": "2024-10-15T09:00:00Z",
-      "end_time": "2024-10-15T12:00:00Z",
-      "title": "Lockdown Protocol avec les potes",
-      "canceled_until": null,
-      "category": {
-        "id": "144418804",
-        "name": "LOCKDOWN Protocol"
-      },
-      "is_recurring": true
-    },
-    {
-      "id": "eyJzZWdtZW50SUQiOiJmM2U0NWRhNS1lYjIzLTQ0MTYtYTdmMi0yMWNkN2Y2Nzg0ZmEiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjo0Mn0=",
-      "start_time": "2024-10-15T12:00:00Z",
-      "end_time": "2024-10-15T16:00:00Z",
-      "title": "YOLO",
-      "canceled_until": null,
-      "category": null,
-      "is_recurring": true
-    },
-    {
-      "id": "eyJzZWdtZW50SUQiOiI0ZThjM2M3MS1jNGE4LTQ4MTAtODliMy1jOWI2N2U2YWQxZmEiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjo0Mn0=",
-      "start_time": "2024-10-16T17:00:00Z",
-      "end_time": "2024-10-16T21:00:00Z",
-      "title": "MDF Guest avec Céline, ma mate du Culture Clash",
-      "canceled_until": null,
-      "category": {
-        "id": "338715930",
-        "name": "Maitre des Fleurs"
-      },
-      "is_recurring": true
-    },
-    {
-      "id": "eyJzZWdtZW50SUQiOiI0NTJjNWE1Ny03NmJhLTRjYTItYWE5NC00OTY2MzE4MTM2MDkiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjo0Mn0=",
-      "start_time": "2024-10-17T18:00:00Z",
-      "end_time": "2024-10-17T22:00:00Z",
-      "title": "Culture Clash sur la chaîne d’Etoiles",
-      "canceled_until": null,
-      "category": {
-        "id": "509663",
-        "name": "Special Events"
+        "id": "1290989747",
+        "name": "The Legend of Zelda: Echoes of Wisdom"
       },
       "is_recurring": true
     }
