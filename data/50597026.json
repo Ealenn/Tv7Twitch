@@ -13,18 +13,6 @@
   },
   "schedulers": [
     {
-      "id": "eyJzZWdtZW50SUQiOiI0ZThjM2M3MS1jNGE4LTQ4MTAtODliMy1jOWI2N2U2YWQxZmEiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjozOX0=",
-      "start_time": "2024-09-25T09:00:00Z",
-      "end_time": "2024-09-25T14:00:00Z",
-      "title": "The Stanley Parable",
-      "canceled_until": null,
-      "category": {
-        "id": "313258",
-        "name": "The Stanley Parable"
-      },
-      "is_recurring": true
-    },
-    {
       "id": "eyJzZWdtZW50SUQiOiI0NTJjNWE1Ny03NmJhLTRjYTItYWE5NC00OTY2MzE4MTM2MDkiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjozOX0=",
       "start_time": "2024-09-26T09:00:00Z",
       "end_time": "2024-09-26T17:00:00Z",
@@ -244,6 +232,18 @@
       "id": "eyJzZWdtZW50SUQiOiJhNDJkNWZkNi1kMDE5LTRlMjMtODI0OC04YTA3ZjAzNjBlN2QiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjo0MX0=",
       "start_time": "2024-10-11T17:30:00Z",
       "end_time": "2024-10-11T21:30:00Z",
+      "title": "MSF Quest",
+      "canceled_until": null,
+      "category": {
+        "id": "509663",
+        "name": "Special Events"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiIzNTU3ZjllYy1hNjU1LTRiMTUtYjRiOC0wMTY0MjZkODhlMjAiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjo0MX0=",
+      "start_time": "2024-10-12T11:00:00Z",
+      "end_time": "2024-10-12T17:30:00Z",
       "title": "MSF Quest",
       "canceled_until": null,
       "category": {
