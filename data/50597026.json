@@ -13,18 +13,6 @@
   },
   "schedulers": [
     {
-      "id": "eyJzZWdtZW50SUQiOiI0NTJjNWE1Ny03NmJhLTRjYTItYWE5NC00OTY2MzE4MTM2MDkiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjozOX0=",
-      "start_time": "2024-09-26T09:00:00Z",
-      "end_time": "2024-09-26T17:00:00Z",
-      "title": "On découvre le nouveau Zelda",
-      "canceled_until": null,
-      "category": {
-        "id": "1290989747",
-        "name": "The Legend of Zelda: Echoes of Wisdom"
-      },
-      "is_recurring": true
-    },
-    {
       "id": "eyJzZWdtZW50SUQiOiI4OGQyOTY4NS05NjI5LTQ1ODQtYWVlYy05YTFhODQ1ZDE5NzAiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjozOX0=",
       "start_time": "2024-09-27T09:00:00Z",
       "end_time": "2024-09-27T15:00:00Z",
@@ -244,6 +232,18 @@
       "id": "eyJzZWdtZW50SUQiOiIzNTU3ZjllYy1hNjU1LTRiMTUtYjRiOC0wMTY0MjZkODhlMjAiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjo0MX0=",
       "start_time": "2024-10-12T11:00:00Z",
       "end_time": "2024-10-12T17:30:00Z",
+      "title": "MSF Quest",
+      "canceled_until": null,
+      "category": {
+        "id": "509663",
+        "name": "Special Events"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiIyOGJjYWViZS0zYTk0LTQwOTQtOWE2Ni00OWRmYzU1M2FkMzciLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjo0MX0=",
+      "start_time": "2024-10-13T11:00:00Z",
+      "end_time": "2024-10-13T18:00:00Z",
       "title": "MSF Quest",
       "canceled_until": null,
       "category": {
