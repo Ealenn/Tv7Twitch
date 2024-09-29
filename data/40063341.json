@@ -13,18 +13,6 @@
   },
   "schedulers": [
     {
-      "id": "eyJzZWdtZW50SUQiOiJmOGVjNTQ4NC1iNzhiLTQ2MzQtYjg3OS00YzhkMzAxMTdiNTEiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjozOX0=",
-      "start_time": "2024-09-28T16:00:00Z",
-      "end_time": "2024-09-28T19:30:00Z",
-      "title": "🎾 PADEL INVITATIONAL ",
-      "canceled_until": null,
-      "category": {
-        "id": "518203",
-        "name": "Sports"
-      },
-      "is_recurring": false
-    },
-    {
       "id": "eyJzZWdtZW50SUQiOiJkMjc5YTZhMi1mNjhlLTQ0NTktOGZlNS0yNWU3NmZiNWVmNzEiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjo0MH0=",
       "start_time": "2024-09-30T17:30:00Z",
       "end_time": "2024-09-30T18:30:00Z",
@@ -249,6 +237,18 @@
       "category": {
         "id": "509658",
         "name": "Just Chatting"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiI4YjgxODkyYi1jOWE3LTQyMzMtYjJjYi03YjQxZGExMjlhNzYiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjo0OX0=",
+      "start_time": "2024-12-03T19:00:00Z",
+      "end_time": "2024-12-03T21:30:00Z",
+      "title": "🍿 POPCORN AVEC INOXTAG, COCOTE & ETOILES",
+      "canceled_until": null,
+      "category": {
+        "id": "417752",
+        "name": "Talk Shows & Podcasts"
       },
       "is_recurring": true
     }
