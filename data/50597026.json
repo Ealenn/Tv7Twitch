@@ -7,23 +7,11 @@
     "broadcaster_type": "partner",
     "description": "On se tape des immenses barres.",
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/d4737061-8f00-49d9-a56f-fcb4a9230b3f-profile_image-300x300.png",
-    "offline_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/943da31d-ad01-4cd0-9396-0a480b85a8eb-channel_offline_image-1920x1080.png",
+    "offline_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/3573cfb3-3fc5-4aee-8f21-3d2a5de9c77b-channel_offline_image-1920x1080.png",
     "view_count": 0,
     "created_at": "2013-10-24T19:04:45Z"
   },
   "schedulers": [
-    {
-      "id": "eyJzZWdtZW50SUQiOiIzN2ZhOWU2NC02NjA4LTRmZjgtOTEwOC1kZTgxN2JjMTdjYzMiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjo0MH0=",
-      "start_time": "2024-09-30T09:00:00Z",
-      "end_time": "2024-09-30T16:00:00Z",
-      "title": "Culture & plaisir sur le Maitre des Fleurs",
-      "canceled_until": null,
-      "category": {
-        "id": "338715930",
-        "name": "Maitre des Fleurs"
-      },
-      "is_recurring": true
-    },
     {
       "id": "eyJzZWdtZW50SUQiOiI2N2Q4ZTdiZS1kNTViLTQ5MDktOTczMy0zMDYxYzJlY2YwZTkiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjo0MH0=",
       "start_time": "2024-10-01T09:00:00Z",
@@ -249,6 +237,18 @@
       "category": {
         "id": "508509",
         "name": "Codenames"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiI3NjIxNDQ2ZC01NTY3LTQ1YzgtOTg4Zi0xODIwMGRlZTNkMjYiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjo0M30=",
+      "start_time": "2024-10-22T13:00:00Z",
+      "end_time": "2024-10-22T16:00:00Z",
+      "title": "Suite de l'aventure Echoes of Wisdom",
+      "canceled_until": null,
+      "category": {
+        "id": "1290989747",
+        "name": "The Legend of Zelda: Echoes of Wisdom"
       },
       "is_recurring": true
     }
