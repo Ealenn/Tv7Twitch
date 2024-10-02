@@ -13,18 +13,6 @@
   },
   "schedulers": [
     {
-      "id": "eyJzZWdtZW50SUQiOiI1Zjk2Yjk4NC1hYzk1LTRiMGMtYmIxNS03ODk5ODVlN2VmNzUiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjo0MH0=",
-      "start_time": "2024-10-01T19:00:00Z",
-      "end_time": "2024-10-01T20:00:00Z",
-      "title": "NASA Science Live: Could Jupiter's Moon Europa Support Life?",
-      "canceled_until": null,
-      "category": {
-        "id": "509670",
-        "name": "Science & Technology"
-      },
-      "is_recurring": false
-    },
-    {
       "id": "eyJzZWdtZW50SUQiOiIyZDc3Y2Q5Ny00YTNhLTQ4N2EtYWRkYy1lOTA3Mjg1NmM4NDQiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjo0MX0=",
       "start_time": "2024-10-10T15:30:00Z",
       "end_time": "2024-10-10T19:30:00Z",
