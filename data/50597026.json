@@ -13,18 +13,6 @@
   },
   "schedulers": [
     {
-      "id": "eyJzZWdtZW50SUQiOiI0NTJjNWE1Ny03NmJhLTRjYTItYWE5NC00OTY2MzE4MTM2MDkiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjo0MH0=",
-      "start_time": "2024-10-02T09:00:00Z",
-      "end_time": "2024-10-02T16:00:00Z",
-      "title": "Suite de l'aventure Echoes of Wisdom",
-      "canceled_until": null,
-      "category": {
-        "id": "1290989747",
-        "name": "The Legend of Zelda: Echoes of Wisdom"
-      },
-      "is_recurring": true
-    },
-    {
       "id": "eyJzZWdtZW50SUQiOiIzYWJlYzExMS1jZDdkLTQyZGYtODkyZC1mZDA1NDU0YTdlNzEiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjo0MH0=",
       "start_time": "2024-10-03T16:00:00Z",
       "end_time": "2024-10-03T20:00:00Z",
@@ -249,6 +237,18 @@
       "category": {
         "id": "144418804",
         "name": "LOCKDOWN Protocol"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiI4OGQyOTY4NS05NjI5LTQ1ODQtYWVlYy05YTFhODQ1ZDE5NzAiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjo0M30=",
+      "start_time": "2024-10-25T09:00:00Z",
+      "end_time": "2024-10-25T16:00:00Z",
+      "title": "Suite de l’aventure Echoes of Wisdom",
+      "canceled_until": null,
+      "category": {
+        "id": "1290989747",
+        "name": "The Legend of Zelda: Echoes of Wisdom"
       },
       "is_recurring": true
     }

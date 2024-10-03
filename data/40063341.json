@@ -13,30 +13,6 @@
   },
   "schedulers": [
     {
-      "id": "eyJzZWdtZW50SUQiOiIzNzVlN2QxNy00MjI0LTQ1MjAtOTI1Ny05ZmI3YmJhN2VjMDgiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjo0MH0=",
-      "start_time": "2024-10-02T10:00:00Z",
-      "end_time": "2024-10-02T11:00:00Z",
-      "title": "📲 REVIEW DES TIKTOK'S AVEC MACIF",
-      "canceled_until": null,
-      "category": {
-        "id": "509658",
-        "name": "Just Chatting"
-      },
-      "is_recurring": false
-    },
-    {
-      "id": "eyJzZWdtZW50SUQiOiJhOTFmMjNhNi03Y2VkLTRjNDQtOTNhMS1kZmI5ZjFmZGQ3MjQiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjo0MH0=",
-      "start_time": "2024-10-02T11:00:00Z",
-      "end_time": "2024-10-02T12:00:00Z",
-      "title": "📺 STREAM LIBRE",
-      "canceled_until": null,
-      "category": {
-        "id": "509658",
-        "name": "Just Chatting"
-      },
-      "is_recurring": false
-    },
-    {
       "id": "eyJzZWdtZW50SUQiOiJkMjc5YTZhMi1mNjhlLTQ0NTktOGZlNS0yNWU3NmZiNWVmNzEiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjo0MX0=",
       "start_time": "2024-10-07T17:30:00Z",
       "end_time": "2024-10-07T18:30:00Z",
@@ -244,6 +220,30 @@
       "id": "eyJzZWdtZW50SUQiOiI4YjgxODkyYi1jOWE3LTQyMzMtYjJjYi03YjQxZGExMjlhNzYiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjo0OX0=",
       "start_time": "2024-12-03T19:00:00Z",
       "end_time": "2024-12-03T21:30:00Z",
+      "title": "🍿 POPCORN AVEC MAGHLA, ELIAN & NICOTINE",
+      "canceled_until": null,
+      "category": {
+        "id": "417752",
+        "name": "Talk Shows & Podcasts"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiJkMjc5YTZhMi1mNjhlLTQ0NTktOGZlNS0yNWU3NmZiNWVmNzEiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjo1MH0=",
+      "start_time": "2024-12-09T18:30:00Z",
+      "end_time": "2024-12-09T19:30:00Z",
+      "title": "🎙 PRÉ LIVE",
+      "canceled_until": null,
+      "category": {
+        "id": "509658",
+        "name": "Just Chatting"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiI4YjgxODkyYi1jOWE3LTQyMzMtYjJjYi03YjQxZGExMjlhNzYiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjo1MH0=",
+      "start_time": "2024-12-10T19:00:00Z",
+      "end_time": "2024-12-10T21:30:00Z",
       "title": "🍿 POPCORN AVEC MAGHLA, ELIAN & NICOTINE",
       "canceled_until": null,
       "category": {

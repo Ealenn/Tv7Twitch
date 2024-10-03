@@ -13,18 +13,6 @@
   },
   "schedulers": [
     {
-      "id": "eyJzZWdtZW50SUQiOiJkMTM4MTdmNi1iOTFhLTRmM2EtOTRiZC03N2ZjMjNiYzI5YjYiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjo0MH0=",
-      "start_time": "2024-10-02T16:00:00Z",
-      "end_time": "2024-10-02T22:00:00Z",
-      "title": "Satisfactory avec Kenny pour l’aventure finale ! Jour 2",
-      "canceled_until": null,
-      "category": {
-        "id": "506456",
-        "name": "Satisfactory"
-      },
-      "is_recurring": false
-    },
-    {
       "id": "eyJzZWdtZW50SUQiOiJiZjE3OTE0Zi0xOTMyLTQ1MWYtYmEyMi1lNzY0OTgwY2Q4OWMiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjo0MH0=",
       "start_time": "2024-10-03T16:00:00Z",
       "end_time": "2024-10-03T22:00:00Z",
@@ -244,6 +232,18 @@
       "id": "eyJzZWdtZW50SUQiOiJiNTE0YTNkMC0xM2IxLTRjMGYtYTAzMy05OTdiYzc4Yjc1YjEiLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjo2fQ==",
       "start_time": "2025-02-03T19:30:00Z",
       "end_time": "2025-02-03T23:00:00Z",
+      "title": "Soirée du lundi",
+      "canceled_until": null,
+      "category": {
+        "id": "509658",
+        "name": "Just Chatting"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiJiNTE0YTNkMC0xM2IxLTRjMGYtYTAzMy05OTdiYzc4Yjc1YjEiLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjo3fQ==",
+      "start_time": "2025-02-10T19:30:00Z",
+      "end_time": "2025-02-10T23:00:00Z",
       "title": "Soirée du lundi",
       "canceled_until": null,
       "category": {
