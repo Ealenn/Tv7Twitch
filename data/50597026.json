@@ -25,62 +25,62 @@
       "is_recurring": true
     },
     {
-      "id": "eyJzZWdtZW50SUQiOiI2N2Q4ZTdiZS1kNTViLTQ5MDktOTczMy0zMDYxYzJlY2YwZTkiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjo0MX0=",
+      "id": "eyJzZWdtZW50SUQiOiI3YWJjNjEyZS0yMTFhLTRiYmYtODZiMy1jNTAzZDEwMzkyMDEiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjo0MX0=",
       "start_time": "2024-10-08T09:00:00Z",
-      "end_time": "2024-10-08T13:00:00Z",
-      "title": "Codenames avé les copains",
+      "end_time": "2024-10-08T14:00:00Z",
+      "title": "Chefline prend les rênes ",
       "canceled_until": null,
       "category": {
-        "id": "508509",
-        "name": "Codenames"
+        "id": "509658",
+        "name": "Just Chatting"
       },
       "is_recurring": true
     },
     {
-      "id": "eyJzZWdtZW50SUQiOiI3NjIxNDQ2ZC01NTY3LTQ1YzgtOTg4Zi0xODIwMGRlZTNkMjYiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjo0MX0=",
-      "start_time": "2024-10-08T13:00:00Z",
-      "end_time": "2024-10-08T16:00:00Z",
-      "title": "Suite de l'aventure Echoes of Wisdom",
+      "id": "eyJzZWdtZW50SUQiOiJlYzA4MTMzOC1lNWNjLTQ4YjQtYjQwNy02MGQ3NWM3YzA2MjMiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjo0MX0=",
+      "start_time": "2024-10-08T18:00:00Z",
+      "end_time": "2024-10-08T21:00:00Z",
+      "title": "Popcorn sur la chaîne de Domingo",
       "canceled_until": null,
       "category": {
-        "id": "1290989747",
-        "name": "The Legend of Zelda: Echoes of Wisdom"
+        "id": "417752",
+        "name": "Talk Shows & Podcasts"
       },
       "is_recurring": true
     },
     {
-      "id": "eyJzZWdtZW50SUQiOiI0NTJjNWE1Ny03NmJhLTRjYTItYWE5NC00OTY2MzE4MTM2MDkiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjo0MX0=",
+      "id": "eyJzZWdtZW50SUQiOiJlNmU1OTc5Yy1lOTZhLTQyODYtODY2OC05NmM4NWY5YWJhZjMiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjo0MX0=",
       "start_time": "2024-10-09T09:00:00Z",
-      "end_time": "2024-10-09T16:00:00Z",
-      "title": "Suite de l'aventure Echoes of Wisdom",
+      "end_time": "2024-10-09T14:00:00Z",
+      "title": "Chefline prend les rênes ",
       "canceled_until": null,
       "category": {
-        "id": "1290989747",
-        "name": "The Legend of Zelda: Echoes of Wisdom"
+        "id": "509658",
+        "name": "Just Chatting"
       },
       "is_recurring": true
     },
     {
-      "id": "eyJzZWdtZW50SUQiOiIzYWJlYzExMS1jZDdkLTQyZGYtODkyZC1mZDA1NDU0YTdlNzEiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjo0MX0=",
-      "start_time": "2024-10-10T16:00:00Z",
-      "end_time": "2024-10-10T20:00:00Z",
-      "title": "Soirée Lockdown avé les copains",
+      "id": "eyJzZWdtZW50SUQiOiJhZDgwODJjYi0xYTgxLTQ4YWMtOGJiZC1hOWU5Y2I5NmExZDYiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjo0MX0=",
+      "start_time": "2024-10-10T09:00:00Z",
+      "end_time": "2024-10-10T14:00:00Z",
+      "title": "Chefline prend les rênes ",
       "canceled_until": null,
       "category": {
-        "id": "144418804",
-        "name": "LOCKDOWN Protocol"
+        "id": "509658",
+        "name": "Just Chatting"
       },
       "is_recurring": true
     },
     {
-      "id": "eyJzZWdtZW50SUQiOiI4OGQyOTY4NS05NjI5LTQ1ODQtYWVlYy05YTFhODQ1ZDE5NzAiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjo0MX0=",
-      "start_time": "2024-10-11T09:00:00Z",
-      "end_time": "2024-10-11T16:00:00Z",
-      "title": "Suite de l’aventure Echoes of Wisdom",
+      "id": "eyJzZWdtZW50SUQiOiJmMTljZWZjOS0zZWViLTRlYzAtODEyZS03NTQzYTY2NmUyNjQiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjo0MX0=",
+      "start_time": "2024-10-10T17:30:00Z",
+      "end_time": "2024-10-10T21:30:00Z",
+      "title": "Les Burgers Volants (film interactif) sur la chaîne d’Arte",
       "canceled_until": null,
       "category": {
-        "id": "1290989747",
-        "name": "The Legend of Zelda: Echoes of Wisdom"
+        "id": "509663",
+        "name": "Special Events"
       },
       "is_recurring": true
     },
@@ -97,62 +97,62 @@
       "is_recurring": true
     },
     {
-      "id": "eyJzZWdtZW50SUQiOiI2N2Q4ZTdiZS1kNTViLTQ5MDktOTczMy0zMDYxYzJlY2YwZTkiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjo0Mn0=",
+      "id": "eyJzZWdtZW50SUQiOiI3YWJjNjEyZS0yMTFhLTRiYmYtODZiMy1jNTAzZDEwMzkyMDEiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjo0Mn0=",
       "start_time": "2024-10-15T09:00:00Z",
-      "end_time": "2024-10-15T13:00:00Z",
-      "title": "Codenames avé les copains",
+      "end_time": "2024-10-15T14:00:00Z",
+      "title": "Chefline prend les rênes ",
       "canceled_until": null,
       "category": {
-        "id": "508509",
-        "name": "Codenames"
+        "id": "509658",
+        "name": "Just Chatting"
       },
       "is_recurring": true
     },
     {
-      "id": "eyJzZWdtZW50SUQiOiI3NjIxNDQ2ZC01NTY3LTQ1YzgtOTg4Zi0xODIwMGRlZTNkMjYiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjo0Mn0=",
-      "start_time": "2024-10-15T13:00:00Z",
-      "end_time": "2024-10-15T16:00:00Z",
-      "title": "Suite de l'aventure Echoes of Wisdom",
+      "id": "eyJzZWdtZW50SUQiOiJlYzA4MTMzOC1lNWNjLTQ4YjQtYjQwNy02MGQ3NWM3YzA2MjMiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjo0Mn0=",
+      "start_time": "2024-10-15T18:00:00Z",
+      "end_time": "2024-10-15T21:00:00Z",
+      "title": "Popcorn sur la chaîne de Domingo",
       "canceled_until": null,
       "category": {
-        "id": "1290989747",
-        "name": "The Legend of Zelda: Echoes of Wisdom"
+        "id": "417752",
+        "name": "Talk Shows & Podcasts"
       },
       "is_recurring": true
     },
     {
-      "id": "eyJzZWdtZW50SUQiOiI0NTJjNWE1Ny03NmJhLTRjYTItYWE5NC00OTY2MzE4MTM2MDkiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjo0Mn0=",
+      "id": "eyJzZWdtZW50SUQiOiJlNmU1OTc5Yy1lOTZhLTQyODYtODY2OC05NmM4NWY5YWJhZjMiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjo0Mn0=",
       "start_time": "2024-10-16T09:00:00Z",
-      "end_time": "2024-10-16T16:00:00Z",
-      "title": "Suite de l'aventure Echoes of Wisdom",
+      "end_time": "2024-10-16T14:00:00Z",
+      "title": "Chefline prend les rênes ",
       "canceled_until": null,
       "category": {
-        "id": "1290989747",
-        "name": "The Legend of Zelda: Echoes of Wisdom"
+        "id": "509658",
+        "name": "Just Chatting"
       },
       "is_recurring": true
     },
     {
-      "id": "eyJzZWdtZW50SUQiOiIzYWJlYzExMS1jZDdkLTQyZGYtODkyZC1mZDA1NDU0YTdlNzEiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjo0Mn0=",
-      "start_time": "2024-10-17T16:00:00Z",
-      "end_time": "2024-10-17T20:00:00Z",
-      "title": "Soirée Lockdown avé les copains",
+      "id": "eyJzZWdtZW50SUQiOiJhZDgwODJjYi0xYTgxLTQ4YWMtOGJiZC1hOWU5Y2I5NmExZDYiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjo0Mn0=",
+      "start_time": "2024-10-17T09:00:00Z",
+      "end_time": "2024-10-17T14:00:00Z",
+      "title": "Chefline prend les rênes ",
       "canceled_until": null,
       "category": {
-        "id": "144418804",
-        "name": "LOCKDOWN Protocol"
+        "id": "509658",
+        "name": "Just Chatting"
       },
       "is_recurring": true
     },
     {
-      "id": "eyJzZWdtZW50SUQiOiI4OGQyOTY4NS05NjI5LTQ1ODQtYWVlYy05YTFhODQ1ZDE5NzAiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjo0Mn0=",
-      "start_time": "2024-10-18T09:00:00Z",
-      "end_time": "2024-10-18T16:00:00Z",
-      "title": "Suite de l’aventure Echoes of Wisdom",
+      "id": "eyJzZWdtZW50SUQiOiJmMTljZWZjOS0zZWViLTRlYzAtODEyZS03NTQzYTY2NmUyNjQiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjo0Mn0=",
+      "start_time": "2024-10-17T17:30:00Z",
+      "end_time": "2024-10-17T21:30:00Z",
+      "title": "Les Burgers Volants (film interactif) sur la chaîne d’Arte",
       "canceled_until": null,
       "category": {
-        "id": "1290989747",
-        "name": "The Legend of Zelda: Echoes of Wisdom"
+        "id": "509663",
+        "name": "Special Events"
       },
       "is_recurring": true
     },
@@ -169,62 +169,62 @@
       "is_recurring": true
     },
     {
-      "id": "eyJzZWdtZW50SUQiOiI2N2Q4ZTdiZS1kNTViLTQ5MDktOTczMy0zMDYxYzJlY2YwZTkiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjo0M30=",
+      "id": "eyJzZWdtZW50SUQiOiI3YWJjNjEyZS0yMTFhLTRiYmYtODZiMy1jNTAzZDEwMzkyMDEiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjo0M30=",
       "start_time": "2024-10-22T09:00:00Z",
-      "end_time": "2024-10-22T13:00:00Z",
-      "title": "Codenames avé les copains",
+      "end_time": "2024-10-22T14:00:00Z",
+      "title": "Chefline prend les rênes ",
       "canceled_until": null,
       "category": {
-        "id": "508509",
-        "name": "Codenames"
+        "id": "509658",
+        "name": "Just Chatting"
       },
       "is_recurring": true
     },
     {
-      "id": "eyJzZWdtZW50SUQiOiI3NjIxNDQ2ZC01NTY3LTQ1YzgtOTg4Zi0xODIwMGRlZTNkMjYiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjo0M30=",
-      "start_time": "2024-10-22T13:00:00Z",
-      "end_time": "2024-10-22T16:00:00Z",
-      "title": "Suite de l'aventure Echoes of Wisdom",
+      "id": "eyJzZWdtZW50SUQiOiJlYzA4MTMzOC1lNWNjLTQ4YjQtYjQwNy02MGQ3NWM3YzA2MjMiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjo0M30=",
+      "start_time": "2024-10-22T18:00:00Z",
+      "end_time": "2024-10-22T21:00:00Z",
+      "title": "Popcorn sur la chaîne de Domingo",
       "canceled_until": null,
       "category": {
-        "id": "1290989747",
-        "name": "The Legend of Zelda: Echoes of Wisdom"
+        "id": "417752",
+        "name": "Talk Shows & Podcasts"
       },
       "is_recurring": true
     },
     {
-      "id": "eyJzZWdtZW50SUQiOiI0NTJjNWE1Ny03NmJhLTRjYTItYWE5NC00OTY2MzE4MTM2MDkiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjo0M30=",
+      "id": "eyJzZWdtZW50SUQiOiJlNmU1OTc5Yy1lOTZhLTQyODYtODY2OC05NmM4NWY5YWJhZjMiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjo0M30=",
       "start_time": "2024-10-23T09:00:00Z",
-      "end_time": "2024-10-23T16:00:00Z",
-      "title": "Suite de l'aventure Echoes of Wisdom",
+      "end_time": "2024-10-23T14:00:00Z",
+      "title": "Chefline prend les rênes ",
       "canceled_until": null,
       "category": {
-        "id": "1290989747",
-        "name": "The Legend of Zelda: Echoes of Wisdom"
+        "id": "509658",
+        "name": "Just Chatting"
       },
       "is_recurring": true
     },
     {
-      "id": "eyJzZWdtZW50SUQiOiIzYWJlYzExMS1jZDdkLTQyZGYtODkyZC1mZDA1NDU0YTdlNzEiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjo0M30=",
-      "start_time": "2024-10-24T16:00:00Z",
-      "end_time": "2024-10-24T20:00:00Z",
-      "title": "Soirée Lockdown avé les copains",
+      "id": "eyJzZWdtZW50SUQiOiJhZDgwODJjYi0xYTgxLTQ4YWMtOGJiZC1hOWU5Y2I5NmExZDYiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjo0M30=",
+      "start_time": "2024-10-24T09:00:00Z",
+      "end_time": "2024-10-24T14:00:00Z",
+      "title": "Chefline prend les rênes ",
       "canceled_until": null,
       "category": {
-        "id": "144418804",
-        "name": "LOCKDOWN Protocol"
+        "id": "509658",
+        "name": "Just Chatting"
       },
       "is_recurring": true
     },
     {
-      "id": "eyJzZWdtZW50SUQiOiI4OGQyOTY4NS05NjI5LTQ1ODQtYWVlYy05YTFhODQ1ZDE5NzAiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjo0M30=",
-      "start_time": "2024-10-25T09:00:00Z",
-      "end_time": "2024-10-25T16:00:00Z",
-      "title": "Suite de l’aventure Echoes of Wisdom",
+      "id": "eyJzZWdtZW50SUQiOiJmMTljZWZjOS0zZWViLTRlYzAtODEyZS03NTQzYTY2NmUyNjQiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjo0M30=",
+      "start_time": "2024-10-24T17:30:00Z",
+      "end_time": "2024-10-24T21:30:00Z",
+      "title": "Les Burgers Volants (film interactif) sur la chaîne d’Arte",
       "canceled_until": null,
       "category": {
-        "id": "1290989747",
-        "name": "The Legend of Zelda: Echoes of Wisdom"
+        "id": "509663",
+        "name": "Special Events"
       },
       "is_recurring": true
     },
@@ -241,14 +241,14 @@
       "is_recurring": true
     },
     {
-      "id": "eyJzZWdtZW50SUQiOiI2N2Q4ZTdiZS1kNTViLTQ5MDktOTczMy0zMDYxYzJlY2YwZTkiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjo0NH0=",
+      "id": "eyJzZWdtZW50SUQiOiI3YWJjNjEyZS0yMTFhLTRiYmYtODZiMy1jNTAzZDEwMzkyMDEiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjo0NH0=",
       "start_time": "2024-10-29T10:00:00Z",
-      "end_time": "2024-10-29T14:00:00Z",
-      "title": "Codenames avé les copains",
+      "end_time": "2024-10-29T15:00:00Z",
+      "title": "Chefline prend les rênes ",
       "canceled_until": null,
       "category": {
-        "id": "508509",
-        "name": "Codenames"
+        "id": "509658",
+        "name": "Just Chatting"
       },
       "is_recurring": true
     }
