@@ -7,34 +7,82 @@
     "broadcaster_type": "partner",
     "description": "",
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/3cdae7df-600c-4833-8dfe-8d2abc5a3b25-profile_image-300x300.png",
-    "offline_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/426c1ec8-70c8-45f9-b695-025a8b9d4ca3-channel_offline_image-1920x1080.png",
+    "offline_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/c7f28749-5be1-4dd8-9c01-68b8e949abda-channel_offline_image-1920x1080.png",
     "view_count": 0,
     "created_at": "2013-02-05T19:20:22Z"
   },
   "schedulers": [
     {
-      "id": "eyJzZWdtZW50SUQiOiJkMjc5YTZhMi1mNjhlLTQ0NTktOGZlNS0yNWU3NmZiNWVmNzEiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjo0MX0=",
-      "start_time": "2024-10-07T17:30:00Z",
-      "end_time": "2024-10-07T18:30:00Z",
-      "title": "🎙 PRÉ LIVE",
-      "canceled_until": null,
-      "category": {
-        "id": "509658",
-        "name": "Just Chatting"
-      },
-      "is_recurring": true
-    },
-    {
       "id": "eyJzZWdtZW50SUQiOiI4YjgxODkyYi1jOWE3LTQyMzMtYjJjYi03YjQxZGExMjlhNzYiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjo0MX0=",
       "start_time": "2024-10-08T18:00:00Z",
       "end_time": "2024-10-08T20:30:00Z",
-      "title": "🍿 POPCORN AVEC MAGHLA, ELIAN & NICOTINE",
+      "title": "🍿 POPCORN AVEC CLARA LUCIANI, MISTERMV, PONCE & JIRAYA",
       "canceled_until": null,
       "category": {
         "id": "417752",
         "name": "Talk Shows & Podcasts"
       },
       "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiI4MWQxOWY5Zi1hZjUwLTRmNDAtOTg1Ny1kMGMzMjA5MDk5ZDIiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjo0MX0=",
+      "start_time": "2024-10-09T12:00:00Z",
+      "end_time": "2024-10-09T13:00:00Z",
+      "title": "🎙 PRÉ LIVE",
+      "canceled_until": null,
+      "category": {
+        "id": "509658",
+        "name": "Just Chatting"
+      },
+      "is_recurring": false
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiIwZmFkMjJiYS1jMDcxLTQxNjgtODViYi02MDc3MzI1ZWExNWYiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjo0MX0=",
+      "start_time": "2024-10-09T13:00:00Z",
+      "end_time": "2024-10-09T14:00:00Z",
+      "title": "📺 REACT TIKTOK CROSSGEN ",
+      "canceled_until": null,
+      "category": {
+        "id": "509658",
+        "name": "Just Chatting"
+      },
+      "is_recurring": false
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiJkZDY3ODFlNC0xZjU3LTQ5MjgtYTk2Ni1lYjMxNzc0OGQyODMiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjo0MX0=",
+      "start_time": "2024-10-09T14:00:00Z",
+      "end_time": "2024-10-09T17:00:00Z",
+      "title": "😎 CULTURE G & BLABLA AVEC SANDRINE",
+      "canceled_until": null,
+      "category": {
+        "id": "509658",
+        "name": "Just Chatting"
+      },
+      "is_recurring": false
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiJlYjk5NDNjOS1hNDk1LTRjN2UtOWM2YS04ZWM2NTYyYmMwYTgiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjo0MX0=",
+      "start_time": "2024-10-10T12:00:00Z",
+      "end_time": "2024-10-10T13:00:00Z",
+      "title": "🎙 PRÉ LIVE",
+      "canceled_until": null,
+      "category": {
+        "id": "509658",
+        "name": "Just Chatting"
+      },
+      "is_recurring": false
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiJmYmIzMTYxNC0yODA5LTQ3OTctYjY2NS02ZDBiN2NhZjcxMmYiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjo0MX0=",
+      "start_time": "2024-10-10T13:00:00Z",
+      "end_time": "2024-10-10T17:00:00Z",
+      "title": "📺 REACT THE BRIDGE : ÉPISODE FINAL",
+      "canceled_until": null,
+      "category": {
+        "id": "509658",
+        "name": "Just Chatting"
+      },
+      "is_recurring": false
     },
     {
       "id": "eyJzZWdtZW50SUQiOiJkMjc5YTZhMi1mNjhlLTQ0NTktOGZlNS0yNWU3NmZiNWVmNzEiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjo0Mn0=",
@@ -52,7 +100,7 @@
       "id": "eyJzZWdtZW50SUQiOiI4YjgxODkyYi1jOWE3LTQyMzMtYjJjYi03YjQxZGExMjlhNzYiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjo0Mn0=",
       "start_time": "2024-10-15T18:00:00Z",
       "end_time": "2024-10-15T20:30:00Z",
-      "title": "🍿 POPCORN AVEC MAGHLA, ELIAN & NICOTINE",
+      "title": "🍿 POPCORN AVEC CLARA LUCIANI, MISTERMV, PONCE & JIRAYA",
       "canceled_until": null,
       "category": {
         "id": "417752",
@@ -76,7 +124,7 @@
       "id": "eyJzZWdtZW50SUQiOiI4YjgxODkyYi1jOWE3LTQyMzMtYjJjYi03YjQxZGExMjlhNzYiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjo0M30=",
       "start_time": "2024-10-22T18:00:00Z",
       "end_time": "2024-10-22T20:30:00Z",
-      "title": "🍿 POPCORN AVEC MAGHLA, ELIAN & NICOTINE",
+      "title": "🍿 POPCORN AVEC CLARA LUCIANI, MISTERMV, PONCE & JIRAYA",
       "canceled_until": null,
       "category": {
         "id": "417752",
@@ -100,7 +148,7 @@
       "id": "eyJzZWdtZW50SUQiOiI4YjgxODkyYi1jOWE3LTQyMzMtYjJjYi03YjQxZGExMjlhNzYiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjo0NH0=",
       "start_time": "2024-10-29T19:00:00Z",
       "end_time": "2024-10-29T21:30:00Z",
-      "title": "🍿 POPCORN AVEC MAGHLA, ELIAN & NICOTINE",
+      "title": "🍿 POPCORN AVEC CLARA LUCIANI, MISTERMV, PONCE & JIRAYA",
       "canceled_until": null,
       "category": {
         "id": "417752",
@@ -124,7 +172,7 @@
       "id": "eyJzZWdtZW50SUQiOiI4YjgxODkyYi1jOWE3LTQyMzMtYjJjYi03YjQxZGExMjlhNzYiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjo0NX0=",
       "start_time": "2024-11-05T19:00:00Z",
       "end_time": "2024-11-05T21:30:00Z",
-      "title": "🍿 POPCORN AVEC MAGHLA, ELIAN & NICOTINE",
+      "title": "🍿 POPCORN AVEC CLARA LUCIANI, MISTERMV, PONCE & JIRAYA",
       "canceled_until": null,
       "category": {
         "id": "417752",
@@ -148,7 +196,7 @@
       "id": "eyJzZWdtZW50SUQiOiI4YjgxODkyYi1jOWE3LTQyMzMtYjJjYi03YjQxZGExMjlhNzYiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjo0Nn0=",
       "start_time": "2024-11-12T19:00:00Z",
       "end_time": "2024-11-12T21:30:00Z",
-      "title": "🍿 POPCORN AVEC MAGHLA, ELIAN & NICOTINE",
+      "title": "🍿 POPCORN AVEC CLARA LUCIANI, MISTERMV, PONCE & JIRAYA",
       "canceled_until": null,
       "category": {
         "id": "417752",
@@ -172,7 +220,7 @@
       "id": "eyJzZWdtZW50SUQiOiI4YjgxODkyYi1jOWE3LTQyMzMtYjJjYi03YjQxZGExMjlhNzYiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjo0N30=",
       "start_time": "2024-11-19T19:00:00Z",
       "end_time": "2024-11-19T21:30:00Z",
-      "title": "🍿 POPCORN AVEC MAGHLA, ELIAN & NICOTINE",
+      "title": "🍿 POPCORN AVEC CLARA LUCIANI, MISTERMV, PONCE & JIRAYA",
       "canceled_until": null,
       "category": {
         "id": "417752",
@@ -196,55 +244,7 @@
       "id": "eyJzZWdtZW50SUQiOiI4YjgxODkyYi1jOWE3LTQyMzMtYjJjYi03YjQxZGExMjlhNzYiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjo0OH0=",
       "start_time": "2024-11-26T19:00:00Z",
       "end_time": "2024-11-26T21:30:00Z",
-      "title": "🍿 POPCORN AVEC MAGHLA, ELIAN & NICOTINE",
-      "canceled_until": null,
-      "category": {
-        "id": "417752",
-        "name": "Talk Shows & Podcasts"
-      },
-      "is_recurring": true
-    },
-    {
-      "id": "eyJzZWdtZW50SUQiOiJkMjc5YTZhMi1mNjhlLTQ0NTktOGZlNS0yNWU3NmZiNWVmNzEiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjo0OX0=",
-      "start_time": "2024-12-02T18:30:00Z",
-      "end_time": "2024-12-02T19:30:00Z",
-      "title": "🎙 PRÉ LIVE",
-      "canceled_until": null,
-      "category": {
-        "id": "509658",
-        "name": "Just Chatting"
-      },
-      "is_recurring": true
-    },
-    {
-      "id": "eyJzZWdtZW50SUQiOiI4YjgxODkyYi1jOWE3LTQyMzMtYjJjYi03YjQxZGExMjlhNzYiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjo0OX0=",
-      "start_time": "2024-12-03T19:00:00Z",
-      "end_time": "2024-12-03T21:30:00Z",
-      "title": "🍿 POPCORN AVEC MAGHLA, ELIAN & NICOTINE",
-      "canceled_until": null,
-      "category": {
-        "id": "417752",
-        "name": "Talk Shows & Podcasts"
-      },
-      "is_recurring": true
-    },
-    {
-      "id": "eyJzZWdtZW50SUQiOiJkMjc5YTZhMi1mNjhlLTQ0NTktOGZlNS0yNWU3NmZiNWVmNzEiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjo1MH0=",
-      "start_time": "2024-12-09T18:30:00Z",
-      "end_time": "2024-12-09T19:30:00Z",
-      "title": "🎙 PRÉ LIVE",
-      "canceled_until": null,
-      "category": {
-        "id": "509658",
-        "name": "Just Chatting"
-      },
-      "is_recurring": true
-    },
-    {
-      "id": "eyJzZWdtZW50SUQiOiI4YjgxODkyYi1jOWE3LTQyMzMtYjJjYi03YjQxZGExMjlhNzYiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjo1MH0=",
-      "start_time": "2024-12-10T19:00:00Z",
-      "end_time": "2024-12-10T21:30:00Z",
-      "title": "🍿 POPCORN AVEC MAGHLA, ELIAN & NICOTINE",
+      "title": "🍿 POPCORN AVEC CLARA LUCIANI, MISTERMV, PONCE & JIRAYA",
       "canceled_until": null,
       "category": {
         "id": "417752",
