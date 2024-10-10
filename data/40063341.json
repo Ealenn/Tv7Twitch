@@ -13,42 +13,6 @@
   },
   "schedulers": [
     {
-      "id": "eyJzZWdtZW50SUQiOiI4MWQxOWY5Zi1hZjUwLTRmNDAtOTg1Ny1kMGMzMjA5MDk5ZDIiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjo0MX0=",
-      "start_time": "2024-10-09T12:00:00Z",
-      "end_time": "2024-10-09T13:00:00Z",
-      "title": "🎙 PRÉ LIVE",
-      "canceled_until": null,
-      "category": {
-        "id": "509658",
-        "name": "Just Chatting"
-      },
-      "is_recurring": false
-    },
-    {
-      "id": "eyJzZWdtZW50SUQiOiIwZmFkMjJiYS1jMDcxLTQxNjgtODViYi02MDc3MzI1ZWExNWYiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjo0MX0=",
-      "start_time": "2024-10-09T13:00:00Z",
-      "end_time": "2024-10-09T14:00:00Z",
-      "title": "📺 REACT TIKTOK CROSSGEN ",
-      "canceled_until": null,
-      "category": {
-        "id": "509658",
-        "name": "Just Chatting"
-      },
-      "is_recurring": false
-    },
-    {
-      "id": "eyJzZWdtZW50SUQiOiJkZDY3ODFlNC0xZjU3LTQ5MjgtYTk2Ni1lYjMxNzc0OGQyODMiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjo0MX0=",
-      "start_time": "2024-10-09T14:00:00Z",
-      "end_time": "2024-10-09T17:00:00Z",
-      "title": "😎 CULTURE G & BLABLA AVEC SANDRINE",
-      "canceled_until": null,
-      "category": {
-        "id": "509658",
-        "name": "Just Chatting"
-      },
-      "is_recurring": false
-    },
-    {
       "id": "eyJzZWdtZW50SUQiOiJlYjk5NDNjOS1hNDk1LTRjN2UtOWM2YS04ZWM2NTYyYmMwYTgiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjo0MX0=",
       "start_time": "2024-10-10T12:00:00Z",
       "end_time": "2024-10-10T13:00:00Z",
@@ -249,6 +213,42 @@
       "category": {
         "id": "509658",
         "name": "Just Chatting"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiI4YjgxODkyYi1jOWE3LTQyMzMtYjJjYi03YjQxZGExMjlhNzYiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjo0OX0=",
+      "start_time": "2024-12-03T19:00:00Z",
+      "end_time": "2024-12-03T21:30:00Z",
+      "title": "🍿 POPCORN AVEC CLARA LUCIANI, MISTERMV, PONCE & JIRAYA",
+      "canceled_until": null,
+      "category": {
+        "id": "417752",
+        "name": "Talk Shows & Podcasts"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiJkMjc5YTZhMi1mNjhlLTQ0NTktOGZlNS0yNWU3NmZiNWVmNzEiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjo1MH0=",
+      "start_time": "2024-12-09T18:30:00Z",
+      "end_time": "2024-12-09T19:30:00Z",
+      "title": "🎙 PRÉ LIVE",
+      "canceled_until": null,
+      "category": {
+        "id": "509658",
+        "name": "Just Chatting"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiI4YjgxODkyYi1jOWE3LTQyMzMtYjJjYi03YjQxZGExMjlhNzYiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjo1MH0=",
+      "start_time": "2024-12-10T19:00:00Z",
+      "end_time": "2024-12-10T21:30:00Z",
+      "title": "🍿 POPCORN AVEC CLARA LUCIANI, MISTERMV, PONCE & JIRAYA",
+      "canceled_until": null,
+      "category": {
+        "id": "417752",
+        "name": "Talk Shows & Podcasts"
       },
       "is_recurring": true
     }

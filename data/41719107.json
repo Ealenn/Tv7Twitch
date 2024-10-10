@@ -13,18 +13,6 @@
   },
   "schedulers": [
     {
-      "id": "eyJzZWdtZW50SUQiOiI4ZDZhNjBhYi1kZmQ0LTRlNzQtOTdlNC05Nzg3ZjEyOGMzYzgiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjo0MX0=",
-      "start_time": "2024-10-09T16:00:00Z",
-      "end_time": "2024-10-09T23:00:00Z",
-      "title": "AVENTURE SATISFACTORY EN DUO AVEC @KennyStream",
-      "canceled_until": null,
-      "category": {
-        "id": "506456",
-        "name": "Satisfactory"
-      },
-      "is_recurring": false
-    },
-    {
       "id": "eyJzZWdtZW50SUQiOiJhNDZmOTJkYS1jZjk1LTRlMGEtOTFmZi0zN2ZlNTY0YWQ3OGUiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjo0MX0=",
       "start_time": "2024-10-10T14:00:00Z",
       "end_time": "2024-10-10T18:00:00Z",
@@ -244,6 +232,18 @@
       "id": "eyJzZWdtZW50SUQiOiJiNTE0YTNkMC0xM2IxLTRjMGYtYTAzMy05OTdiYzc4Yjc1YjEiLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjo2fQ==",
       "start_time": "2025-02-03T19:30:00Z",
       "end_time": "2025-02-03T23:00:00Z",
+      "title": "Soirée du lundi",
+      "canceled_until": null,
+      "category": {
+        "id": "509658",
+        "name": "Just Chatting"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiJiNTE0YTNkMC0xM2IxLTRjMGYtYTAzMy05OTdiYzc4Yjc1YjEiLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjo3fQ==",
+      "start_time": "2025-02-10T19:30:00Z",
+      "end_time": "2025-02-10T23:00:00Z",
       "title": "Soirée du lundi",
       "canceled_until": null,
       "category": {
