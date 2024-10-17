@@ -13,30 +13,6 @@
   },
   "schedulers": [
     {
-      "id": "eyJzZWdtZW50SUQiOiJlNmU1OTc5Yy1lOTZhLTQyODYtODY2OC05NmM4NWY5YWJhZjMiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjo0Mn0=",
-      "start_time": "2024-10-16T09:00:00Z",
-      "end_time": "2024-10-16T14:00:00Z",
-      "title": "Suite de Zelda Echoes of wisdom ",
-      "canceled_until": null,
-      "category": {
-        "id": "1290989747",
-        "name": "The Legend of Zelda: Echoes of Wisdom"
-      },
-      "is_recurring": true
-    },
-    {
-      "id": "eyJzZWdtZW50SUQiOiI4YmFiMzYwZC1iYTQ5LTQyZWItYjMwOS1lYTI0ZWFiMWQxMWYiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjo0Mn0=",
-      "start_time": "2024-10-16T18:00:00Z",
-      "end_time": "2024-10-16T22:00:00Z",
-      "title": "Maitres des fleurs avec Horty !",
-      "canceled_until": null,
-      "category": {
-        "id": "338715930",
-        "name": "Maitre des Fleurs"
-      },
-      "is_recurring": true
-    },
-    {
       "id": "eyJzZWdtZW50SUQiOiJhZDgwODJjYi0xYTgxLTQ4YWMtOGJiZC1hOWU5Y2I5NmExZDYiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjo0Mn0=",
       "start_time": "2024-10-17T09:00:00Z",
       "end_time": "2024-10-17T14:00:00Z",
@@ -249,6 +225,30 @@
       "category": {
         "id": "2124007713",
         "name": "Pico Park 2"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiJmMmI5Y2VlZi05YTE5LTQ1YjktYmYzYi0zN2JiNGYxNTNmOTkiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjo0NX0=",
+      "start_time": "2024-11-05T14:00:00Z",
+      "end_time": "2024-11-05T16:00:00Z",
+      "title": "Live exclusif en avant première sur Mario party jamboree avec Guill / Ultia / Lobster",
+      "canceled_until": null,
+      "category": {
+        "id": "1471610418",
+        "name": "Super Mario Party Jamboree"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiJlNmU1OTc5Yy1lOTZhLTQyODYtODY2OC05NmM4NWY5YWJhZjMiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjo0NX0=",
+      "start_time": "2024-11-06T10:00:00Z",
+      "end_time": "2024-11-06T15:00:00Z",
+      "title": "Suite de Zelda Echoes of wisdom ",
+      "canceled_until": null,
+      "category": {
+        "id": "1290989747",
+        "name": "The Legend of Zelda: Echoes of Wisdom"
       },
       "is_recurring": true
     }
