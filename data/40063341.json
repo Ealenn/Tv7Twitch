@@ -13,30 +13,6 @@
   },
   "schedulers": [
     {
-      "id": "eyJzZWdtZW50SUQiOiJkYzdjZDQ1YS1kYTVjLTRkNjUtODZhNC0yN2M1Y2ZjMGY1YWYiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjo0Mn0=",
-      "start_time": "2024-10-17T17:30:00Z",
-      "end_time": "2024-10-17T18:30:00Z",
-      "title": "🎙 PRÉ LIVE",
-      "canceled_until": null,
-      "category": {
-        "id": "509658",
-        "name": "Just Chatting"
-      },
-      "is_recurring": false
-    },
-    {
-      "id": "eyJzZWdtZW50SUQiOiIxYTlhZDhhNS1kNTQyLTRhMjItYTk0My02ZmRlODJjZTg2ZDYiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjo0Mn0=",
-      "start_time": "2024-10-17T18:30:00Z",
-      "end_time": "2024-10-17T22:00:00Z",
-      "title": "⚔ AVENTURE MULTI CK3 AVEC RIVENZI, PRESSEA & XARI",
-      "canceled_until": null,
-      "category": {
-        "id": "514888",
-        "name": "Crusader Kings III"
-      },
-      "is_recurring": false
-    },
-    {
       "id": "eyJzZWdtZW50SUQiOiJkMjc5YTZhMi1mNjhlLTQ0NTktOGZlNS0yNWU3NmZiNWVmNzEiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjo0M30=",
       "start_time": "2024-10-21T17:30:00Z",
       "end_time": "2024-10-21T18:30:00Z",
@@ -244,6 +220,30 @@
       "id": "eyJzZWdtZW50SUQiOiI4YjgxODkyYi1jOWE3LTQyMzMtYjJjYi03YjQxZGExMjlhNzYiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjo1MX0=",
       "start_time": "2024-12-17T19:00:00Z",
       "end_time": "2024-12-17T21:30:00Z",
+      "title": "🍿 POPCORN AVEC BRAWKS, YANNOU, ZACK & SAID ",
+      "canceled_until": null,
+      "category": {
+        "id": "417752",
+        "name": "Talk Shows & Podcasts"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiJkMjc5YTZhMi1mNjhlLTQ0NTktOGZlNS0yNWU3NmZiNWVmNzEiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjo1Mn0=",
+      "start_time": "2024-12-23T18:30:00Z",
+      "end_time": "2024-12-23T19:30:00Z",
+      "title": "🎙 PRÉ LIVE",
+      "canceled_until": null,
+      "category": {
+        "id": "509658",
+        "name": "Just Chatting"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiI4YjgxODkyYi1jOWE3LTQyMzMtYjJjYi03YjQxZGExMjlhNzYiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjo1Mn0=",
+      "start_time": "2024-12-24T19:00:00Z",
+      "end_time": "2024-12-24T21:30:00Z",
       "title": "🍿 POPCORN AVEC BRAWKS, YANNOU, ZACK & SAID ",
       "canceled_until": null,
       "category": {
