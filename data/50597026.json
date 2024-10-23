@@ -13,30 +13,6 @@
   },
   "schedulers": [
     {
-      "id": "eyJzZWdtZW50SUQiOiI3YWJjNjEyZS0yMTFhLTRiYmYtODZiMy1jNTAzZDEwMzkyMDEiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjo0M30=",
-      "start_time": "2024-10-22T09:00:00Z",
-      "end_time": "2024-10-22T13:00:00Z",
-      "title": "P'tit Mario Party avec Wingo, Onu et Bytell",
-      "canceled_until": null,
-      "category": {
-        "id": "1471610418",
-        "name": "Super Mario Party Jamboree"
-      },
-      "is_recurring": true
-    },
-    {
-      "id": "eyJzZWdtZW50SUQiOiJlNmU1OTc5Yy1lOTZhLTQyODYtODY2OC05NmM4NWY5YWJhZjMiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjo0M30=",
-      "start_time": "2024-10-22T13:00:00Z",
-      "end_time": "2024-10-22T18:00:00Z",
-      "title": "Suite de Zelda Echoes of wisdom ",
-      "canceled_until": null,
-      "category": {
-        "id": "1290989747",
-        "name": "The Legend of Zelda: Echoes of Wisdom"
-      },
-      "is_recurring": true
-    },
-    {
       "id": "eyJzZWdtZW50SUQiOiI4YmFiMzYwZC1iYTQ5LTQyZWItYjMwOS1lYTI0ZWFiMWQxMWYiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjo0M30=",
       "start_time": "2024-10-23T09:00:00Z",
       "end_time": "2024-10-23T16:00:00Z",
@@ -240,6 +216,27 @@
       "category": {
         "id": "1290989747",
         "name": "The Legend of Zelda: Echoes of Wisdom"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiI4YmFiMzYwZC1iYTQ5LTQyZWItYjMwOS1lYTI0ZWFiMWQxMWYiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjo0Nn0=",
+      "start_time": "2024-11-13T10:00:00Z",
+      "end_time": "2024-11-13T17:00:00Z",
+      "title": "Yolooooooooo ",
+      "canceled_until": null,
+      "category": null,
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiJhZDgwODJjYi0xYTgxLTQ4YWMtOGJiZC1hOWU5Y2I5NmExZDYiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjo0Nn0=",
+      "start_time": "2024-11-14T17:00:00Z",
+      "end_time": "2024-11-14T21:00:00Z",
+      "title": "Qui veut l'écu du roi ? avec Rivenzi et Ultia (sur la chaîne de Jiraya)",
+      "canceled_until": null,
+      "category": {
+        "id": "509658",
+        "name": "Just Chatting"
       },
       "is_recurring": true
     }
