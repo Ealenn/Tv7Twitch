@@ -13,18 +13,6 @@
   },
   "schedulers": [
     {
-      "id": "eyJzZWdtZW50SUQiOiJkMTBiMjQyNS1lNTQzLTRlNmMtYTViNi02Y2VhOGZmOWY4YWQiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjo0M30=",
-      "start_time": "2024-10-25T16:00:00Z",
-      "end_time": "2024-10-25T22:00:00Z",
-      "title": "The smurfs dreams",
-      "canceled_until": null,
-      "category": {
-        "id": "1828338012",
-        "name": "The Smurfs: Dreams"
-      },
-      "is_recurring": true
-    },
-    {
       "id": "eyJzZWdtZW50SUQiOiIzN2ZhOWU2NC02NjA4LTRmZjgtOTEwOC1kZTgxN2JjMTdjYzMiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjo0NH0=",
       "start_time": "2024-10-28T10:00:00Z",
       "end_time": "2024-10-28T17:00:00Z",
@@ -240,6 +228,18 @@
       "category": {
         "id": "338715930",
         "name": "Maitre des Fleurs"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiI3YWJjNjEyZS0yMTFhLTRiYmYtODZiMy1jNTAzZDEwMzkyMDEiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjo0N30=",
+      "start_time": "2024-11-19T10:00:00Z",
+      "end_time": "2024-11-19T14:00:00Z",
+      "title": "P'tit Mario Party avec Wingo, Onu et Bytell",
+      "canceled_until": null,
+      "category": {
+        "id": "1471610418",
+        "name": "Super Mario Party Jamboree"
       },
       "is_recurring": true
     }
