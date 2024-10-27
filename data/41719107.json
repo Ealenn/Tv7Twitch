@@ -13,18 +13,6 @@
   },
   "schedulers": [
     {
-      "id": "eyJzZWdtZW50SUQiOiI1OWM3Y2Y0Ny0xZTVjLTRlNWEtODg2Yy0yNDYyYTU1MzA0Y2MiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjo0M30=",
-      "start_time": "2024-10-26T12:00:00Z",
-      "end_time": "2024-10-26T16:00:00Z",
-      "title": "ASCENSION FORTNITE EN DIRECT DU PALAIS DES SPORTS DE MARSEILLE ft Doigby",
-      "canceled_until": null,
-      "category": {
-        "id": "509663",
-        "name": "Special Events"
-      },
-      "is_recurring": false
-    },
-    {
       "id": "eyJzZWdtZW50SUQiOiIwNmU2YjRjMC0xZTdhLTQxMTEtOWFhYi0yNzdiMTNkYjkyMTYiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjo0M30=",
       "start_time": "2024-10-27T19:00:00Z",
       "end_time": "2024-10-27T23:00:00Z",
@@ -244,6 +232,18 @@
       "id": "eyJzZWdtZW50SUQiOiJiNTE0YTNkMC0xM2IxLTRjMGYtYTAzMy05OTdiYzc4Yjc1YjEiLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjo5fQ==",
       "start_time": "2025-02-24T19:30:00Z",
       "end_time": "2025-02-24T23:00:00Z",
+      "title": "Soirée du lundi",
+      "canceled_until": null,
+      "category": {
+        "id": "509658",
+        "name": "Just Chatting"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiJiNTE0YTNkMC0xM2IxLTRjMGYtYTAzMy05OTdiYzc4Yjc1YjEiLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjoxMH0=",
+      "start_time": "2025-03-03T19:30:00Z",
+      "end_time": "2025-03-03T23:00:00Z",
       "title": "Soirée du lundi",
       "canceled_until": null,
       "category": {
