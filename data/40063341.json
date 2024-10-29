@@ -7,34 +7,70 @@
     "broadcaster_type": "partner",
     "description": "",
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/3cdae7df-600c-4833-8dfe-8d2abc5a3b25-profile_image-300x300.png",
-    "offline_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/2051dd7d-8d65-4560-a2d4-04a1137414d1-channel_offline_image-1920x1080.png",
+    "offline_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/80a8d858-4bb0-45c1-8df8-8d5a2a912f60-channel_offline_image-1920x1080.png",
     "view_count": 0,
     "created_at": "2013-02-05T19:20:22Z"
   },
   "schedulers": [
     {
-      "id": "eyJzZWdtZW50SUQiOiJkMjc5YTZhMi1mNjhlLTQ0NTktOGZlNS0yNWU3NmZiNWVmNzEiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjo0NH0=",
-      "start_time": "2024-10-28T18:30:00Z",
-      "end_time": "2024-10-28T19:30:00Z",
-      "title": "🎙 PRÉ LIVE",
-      "canceled_until": null,
-      "category": {
-        "id": "509658",
-        "name": "Just Chatting"
-      },
-      "is_recurring": true
-    },
-    {
       "id": "eyJzZWdtZW50SUQiOiI4YjgxODkyYi1jOWE3LTQyMzMtYjJjYi03YjQxZGExMjlhNzYiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjo0NH0=",
       "start_time": "2024-10-29T19:00:00Z",
       "end_time": "2024-10-29T21:30:00Z",
-      "title": "🍿 POPCORN AVEC HUGOD, TATIANA & ETOILES",
+      "title": "🍿 POPCORN AVEC JOYCA, NATOO & ENJOYPHOENIX",
       "canceled_until": null,
       "category": {
         "id": "417752",
         "name": "Talk Shows & Podcasts"
       },
       "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiI4NTc3Zjc3Mi0wYmExLTQ4NzktYjlmZS01NWU1ZGRhYjE4NmIiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjo0NH0=",
+      "start_time": "2024-10-30T13:00:00Z",
+      "end_time": "2024-10-30T14:00:00Z",
+      "title": "🎙 PRÉ LIVE",
+      "canceled_until": null,
+      "category": {
+        "id": "509658",
+        "name": "Just Chatting"
+      },
+      "is_recurring": false
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiJmZmU5ZmNlNy1kMmM5LTQ0NzMtOTA3ZS1hNmEyNzhiMWFkMDIiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjo0NH0=",
+      "start_time": "2024-10-30T14:00:00Z",
+      "end_time": "2024-10-30T18:00:00Z",
+      "title": "📺 STREAM LIBRE",
+      "canceled_until": null,
+      "category": {
+        "id": "509658",
+        "name": "Just Chatting"
+      },
+      "is_recurring": false
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiJjNzkzMjExZC1mZWM5LTRiZDEtOWExYy1hOGE3NDQ4ZThlMzAiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjo0NH0=",
+      "start_time": "2024-10-31T13:00:00Z",
+      "end_time": "2024-10-31T14:00:00Z",
+      "title": "🎙 PRÉ LIVE",
+      "canceled_until": null,
+      "category": {
+        "id": "509658",
+        "name": "Just Chatting"
+      },
+      "is_recurring": false
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiI1MWMzODdlYi0xYTMxLTRjYmMtYjE5Yy0xMTE0OWVjMDdmOWUiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjo0NH0=",
+      "start_time": "2024-10-31T14:00:00Z",
+      "end_time": "2024-10-31T18:00:00Z",
+      "title": "🏨 JE DEVIENS GÉRANT D'UN MOTEL",
+      "canceled_until": null,
+      "category": {
+        "id": "118782198",
+        "name": "Motel Manager Simulator"
+      },
+      "is_recurring": false
     },
     {
       "id": "eyJzZWdtZW50SUQiOiJkMjc5YTZhMi1mNjhlLTQ0NTktOGZlNS0yNWU3NmZiNWVmNzEiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjo0NX0=",
@@ -52,7 +88,7 @@
       "id": "eyJzZWdtZW50SUQiOiI4YjgxODkyYi1jOWE3LTQyMzMtYjJjYi03YjQxZGExMjlhNzYiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjo0NX0=",
       "start_time": "2024-11-05T19:00:00Z",
       "end_time": "2024-11-05T21:30:00Z",
-      "title": "🍿 POPCORN AVEC HUGOD, TATIANA & ETOILES",
+      "title": "🍿 POPCORN AVEC JOYCA, NATOO & ENJOYPHOENIX",
       "canceled_until": null,
       "category": {
         "id": "417752",
@@ -76,7 +112,7 @@
       "id": "eyJzZWdtZW50SUQiOiI4YjgxODkyYi1jOWE3LTQyMzMtYjJjYi03YjQxZGExMjlhNzYiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjo0Nn0=",
       "start_time": "2024-11-12T19:00:00Z",
       "end_time": "2024-11-12T21:30:00Z",
-      "title": "🍿 POPCORN AVEC HUGOD, TATIANA & ETOILES",
+      "title": "🍿 POPCORN AVEC JOYCA, NATOO & ENJOYPHOENIX",
       "canceled_until": null,
       "category": {
         "id": "417752",
@@ -100,7 +136,7 @@
       "id": "eyJzZWdtZW50SUQiOiI4YjgxODkyYi1jOWE3LTQyMzMtYjJjYi03YjQxZGExMjlhNzYiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjo0N30=",
       "start_time": "2024-11-19T19:00:00Z",
       "end_time": "2024-11-19T21:30:00Z",
-      "title": "🍿 POPCORN AVEC HUGOD, TATIANA & ETOILES",
+      "title": "🍿 POPCORN AVEC JOYCA, NATOO & ENJOYPHOENIX",
       "canceled_until": null,
       "category": {
         "id": "417752",
@@ -124,7 +160,7 @@
       "id": "eyJzZWdtZW50SUQiOiI4YjgxODkyYi1jOWE3LTQyMzMtYjJjYi03YjQxZGExMjlhNzYiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjo0OH0=",
       "start_time": "2024-11-26T19:00:00Z",
       "end_time": "2024-11-26T21:30:00Z",
-      "title": "🍿 POPCORN AVEC HUGOD, TATIANA & ETOILES",
+      "title": "🍿 POPCORN AVEC JOYCA, NATOO & ENJOYPHOENIX",
       "canceled_until": null,
       "category": {
         "id": "417752",
@@ -148,7 +184,7 @@
       "id": "eyJzZWdtZW50SUQiOiI4YjgxODkyYi1jOWE3LTQyMzMtYjJjYi03YjQxZGExMjlhNzYiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjo0OX0=",
       "start_time": "2024-12-03T19:00:00Z",
       "end_time": "2024-12-03T21:30:00Z",
-      "title": "🍿 POPCORN AVEC HUGOD, TATIANA & ETOILES",
+      "title": "🍿 POPCORN AVEC JOYCA, NATOO & ENJOYPHOENIX",
       "canceled_until": null,
       "category": {
         "id": "417752",
@@ -172,7 +208,7 @@
       "id": "eyJzZWdtZW50SUQiOiI4YjgxODkyYi1jOWE3LTQyMzMtYjJjYi03YjQxZGExMjlhNzYiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjo1MH0=",
       "start_time": "2024-12-10T19:00:00Z",
       "end_time": "2024-12-10T21:30:00Z",
-      "title": "🍿 POPCORN AVEC HUGOD, TATIANA & ETOILES",
+      "title": "🍿 POPCORN AVEC JOYCA, NATOO & ENJOYPHOENIX",
       "canceled_until": null,
       "category": {
         "id": "417752",
@@ -196,7 +232,7 @@
       "id": "eyJzZWdtZW50SUQiOiI4YjgxODkyYi1jOWE3LTQyMzMtYjJjYi03YjQxZGExMjlhNzYiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjo1MX0=",
       "start_time": "2024-12-17T19:00:00Z",
       "end_time": "2024-12-17T21:30:00Z",
-      "title": "🍿 POPCORN AVEC HUGOD, TATIANA & ETOILES",
+      "title": "🍿 POPCORN AVEC JOYCA, NATOO & ENJOYPHOENIX",
       "canceled_until": null,
       "category": {
         "id": "417752",
@@ -213,42 +249,6 @@
       "category": {
         "id": "509658",
         "name": "Just Chatting"
-      },
-      "is_recurring": true
-    },
-    {
-      "id": "eyJzZWdtZW50SUQiOiI4YjgxODkyYi1jOWE3LTQyMzMtYjJjYi03YjQxZGExMjlhNzYiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjo1Mn0=",
-      "start_time": "2024-12-24T19:00:00Z",
-      "end_time": "2024-12-24T21:30:00Z",
-      "title": "🍿 POPCORN AVEC HUGOD, TATIANA & ETOILES",
-      "canceled_until": null,
-      "category": {
-        "id": "417752",
-        "name": "Talk Shows & Podcasts"
-      },
-      "is_recurring": true
-    },
-    {
-      "id": "eyJzZWdtZW50SUQiOiJkMjc5YTZhMi1mNjhlLTQ0NTktOGZlNS0yNWU3NmZiNWVmNzEiLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjoxfQ==",
-      "start_time": "2024-12-30T18:30:00Z",
-      "end_time": "2024-12-30T19:30:00Z",
-      "title": "🎙 PRÉ LIVE",
-      "canceled_until": null,
-      "category": {
-        "id": "509658",
-        "name": "Just Chatting"
-      },
-      "is_recurring": true
-    },
-    {
-      "id": "eyJzZWdtZW50SUQiOiI4YjgxODkyYi1jOWE3LTQyMzMtYjJjYi03YjQxZGExMjlhNzYiLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjoxfQ==",
-      "start_time": "2024-12-31T19:00:00Z",
-      "end_time": "2024-12-31T21:30:00Z",
-      "title": "🍿 POPCORN AVEC HUGOD, TATIANA & ETOILES",
-      "canceled_until": null,
-      "category": {
-        "id": "417752",
-        "name": "Talk Shows & Podcasts"
       },
       "is_recurring": true
     }
