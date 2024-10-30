@@ -13,30 +13,6 @@
   },
   "schedulers": [
     {
-      "id": "eyJzZWdtZW50SUQiOiI3YWJjNjEyZS0yMTFhLTRiYmYtODZiMy1jNTAzZDEwMzkyMDEiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjo0NH0=",
-      "start_time": "2024-10-29T10:00:00Z",
-      "end_time": "2024-10-29T14:00:00Z",
-      "title": "Alfred is a Bad Guy avec Naho, Kao et Flonflon",
-      "canceled_until": null,
-      "category": {
-        "id": "1804424791",
-        "name": "Alfred is a Bad Guy"
-      },
-      "is_recurring": true
-    },
-    {
-      "id": "eyJzZWdtZW50SUQiOiJlNmU1OTc5Yy1lOTZhLTQyODYtODY2OC05NmM4NWY5YWJhZjMiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjo0NH0=",
-      "start_time": "2024-10-29T14:00:00Z",
-      "end_time": "2024-10-29T17:00:00Z",
-      "title": "React et discu autour de « la crise du jeu vidéos »",
-      "canceled_until": null,
-      "category": {
-        "id": "509658",
-        "name": "Just Chatting"
-      },
-      "is_recurring": true
-    },
-    {
       "id": "eyJzZWdtZW50SUQiOiI4YmFiMzYwZC1iYTQ5LTQyZWItYjMwOS1lYTI0ZWFiMWQxMWYiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjo0NH0=",
       "start_time": "2024-10-30T10:00:00Z",
       "end_time": "2024-10-30T17:00:00Z",
@@ -240,6 +216,30 @@
       "category": {
         "id": "2692",
         "name": "Super Mario 64"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiIzN2ZhOWU2NC02NjA4LTRmZjgtOTEwOC1kZTgxN2JjMTdjYzMiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjo0N30=",
+      "start_time": "2024-11-18T10:00:00Z",
+      "end_time": "2024-11-18T17:00:00Z",
+      "title": "Culture & plaisir sur le Maitre des Fleurs",
+      "canceled_until": null,
+      "category": {
+        "id": "338715930",
+        "name": "Maitre des Fleurs"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiI3YWJjNjEyZS0yMTFhLTRiYmYtODZiMy1jNTAzZDEwMzkyMDEiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjo0N30=",
+      "start_time": "2024-11-19T10:00:00Z",
+      "end_time": "2024-11-19T14:00:00Z",
+      "title": "Alfred is a Bad Guy avec Naho, Kao et Flonflon",
+      "canceled_until": null,
+      "category": {
+        "id": "1804424791",
+        "name": "Alfred is a Bad Guy"
       },
       "is_recurring": true
     }
