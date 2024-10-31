@@ -13,18 +13,6 @@
   },
   "schedulers": [
     {
-      "id": "eyJzZWdtZW50SUQiOiI4YmFiMzYwZC1iYTQ5LTQyZWItYjMwOS1lYTI0ZWFiMWQxMWYiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjo0NH0=",
-      "start_time": "2024-10-30T10:00:00Z",
-      "end_time": "2024-10-30T17:00:00Z",
-      "title": "Découverte de Firewatch",
-      "canceled_until": null,
-      "category": {
-        "id": "459755",
-        "name": "Firewatch"
-      },
-      "is_recurring": true
-    },
-    {
       "id": "eyJzZWdtZW50SUQiOiJhZDgwODJjYi0xYTgxLTQ4YWMtOGJiZC1hOWU5Y2I5NmExZDYiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjo0NH0=",
       "start_time": "2024-10-31T10:00:00Z",
       "end_time": "2024-10-31T14:00:00Z",
@@ -240,6 +228,18 @@
       "category": {
         "id": "1804424791",
         "name": "Alfred is a Bad Guy"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiJlNmU1OTc5Yy1lOTZhLTQyODYtODY2OC05NmM4NWY5YWJhZjMiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjo0N30=",
+      "start_time": "2024-11-19T14:00:00Z",
+      "end_time": "2024-11-19T17:00:00Z",
+      "title": "React et discu autour de « la crise du jeu vidéos »",
+      "canceled_until": null,
+      "category": {
+        "id": "509658",
+        "name": "Just Chatting"
       },
       "is_recurring": true
     }

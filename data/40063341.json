@@ -13,30 +13,6 @@
   },
   "schedulers": [
     {
-      "id": "eyJzZWdtZW50SUQiOiI4NTc3Zjc3Mi0wYmExLTQ4NzktYjlmZS01NWU1ZGRhYjE4NmIiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjo0NH0=",
-      "start_time": "2024-10-30T13:00:00Z",
-      "end_time": "2024-10-30T14:00:00Z",
-      "title": "🎙 PRÉ LIVE",
-      "canceled_until": null,
-      "category": {
-        "id": "509658",
-        "name": "Just Chatting"
-      },
-      "is_recurring": false
-    },
-    {
-      "id": "eyJzZWdtZW50SUQiOiJmZmU5ZmNlNy1kMmM5LTQ0NzMtOTA3ZS1hNmEyNzhiMWFkMDIiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjo0NH0=",
-      "start_time": "2024-10-30T14:00:00Z",
-      "end_time": "2024-10-30T18:00:00Z",
-      "title": "📺 STREAM LIBRE",
-      "canceled_until": null,
-      "category": {
-        "id": "509658",
-        "name": "Just Chatting"
-      },
-      "is_recurring": false
-    },
-    {
       "id": "eyJzZWdtZW50SUQiOiJjNzkzMjExZC1mZWM5LTRiZDEtOWExYy1hOGE3NDQ4ZThlMzAiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjo0NH0=",
       "start_time": "2024-10-31T13:00:00Z",
       "end_time": "2024-10-31T14:00:00Z",
@@ -244,6 +220,30 @@
       "id": "eyJzZWdtZW50SUQiOiI4YjgxODkyYi1jOWE3LTQyMzMtYjJjYi03YjQxZGExMjlhNzYiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjo1Mn0=",
       "start_time": "2024-12-24T19:00:00Z",
       "end_time": "2024-12-24T21:30:00Z",
+      "title": "🍿 POPCORN AVEC JOYCA, NATOO & ENJOYPHOENIX",
+      "canceled_until": null,
+      "category": {
+        "id": "417752",
+        "name": "Talk Shows & Podcasts"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiJkMjc5YTZhMi1mNjhlLTQ0NTktOGZlNS0yNWU3NmZiNWVmNzEiLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjoxfQ==",
+      "start_time": "2024-12-30T18:30:00Z",
+      "end_time": "2024-12-30T19:30:00Z",
+      "title": "🎙 PRÉ LIVE",
+      "canceled_until": null,
+      "category": {
+        "id": "509658",
+        "name": "Just Chatting"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiI4YjgxODkyYi1jOWE3LTQyMzMtYjJjYi03YjQxZGExMjlhNzYiLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjoxfQ==",
+      "start_time": "2024-12-31T19:00:00Z",
+      "end_time": "2024-12-31T21:30:00Z",
       "title": "🍿 POPCORN AVEC JOYCA, NATOO & ENJOYPHOENIX",
       "canceled_until": null,
       "category": {
