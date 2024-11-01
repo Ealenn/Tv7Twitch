@@ -13,27 +13,6 @@
   },
   "schedulers": [
     {
-      "id": "eyJzZWdtZW50SUQiOiJhZDgwODJjYi0xYTgxLTQ4YWMtOGJiZC1hOWU5Y2I5NmExZDYiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjo0NH0=",
-      "start_time": "2024-10-31T10:00:00Z",
-      "end_time": "2024-10-31T14:00:00Z",
-      "title": "P’tit Mario Party avec Onu, Wingo et Bytell",
-      "canceled_until": null,
-      "category": {
-        "id": "1471610418",
-        "name": "Super Mario Party Jamboree"
-      },
-      "is_recurring": true
-    },
-    {
-      "id": "eyJzZWdtZW50SUQiOiI3M2EyOGIxZS1hZDQ3LTRjZmYtYmQwOS1iMDViMGZhOTg3N2QiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjo0NH0=",
-      "start_time": "2024-10-31T14:00:00Z",
-      "end_time": "2024-10-31T17:00:00Z",
-      "title": "Yoloooooooooo",
-      "canceled_until": null,
-      "category": null,
-      "is_recurring": true
-    },
-    {
       "id": "eyJzZWdtZW50SUQiOiJkMTBiMjQyNS1lNTQzLTRlNmMtYTViNi02Y2VhOGZmOWY4YWQiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjo0NH0=",
       "start_time": "2024-11-01T13:00:00Z",
       "end_time": "2024-11-01T19:00:00Z",
@@ -240,6 +219,30 @@
       "category": {
         "id": "509658",
         "name": "Just Chatting"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiI4YmFiMzYwZC1iYTQ5LTQyZWItYjMwOS1lYTI0ZWFiMWQxMWYiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjo0N30=",
+      "start_time": "2024-11-20T10:00:00Z",
+      "end_time": "2024-11-20T17:00:00Z",
+      "title": "Découverte de Firewatch",
+      "canceled_until": null,
+      "category": {
+        "id": "459755",
+        "name": "Firewatch"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiJhZDgwODJjYi0xYTgxLTQ4YWMtOGJiZC1hOWU5Y2I5NmExZDYiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjo0N30=",
+      "start_time": "2024-11-21T10:00:00Z",
+      "end_time": "2024-11-21T14:00:00Z",
+      "title": "P’tit Mario Party avec Onu, Wingo et Bytell",
+      "canceled_until": null,
+      "category": {
+        "id": "1471610418",
+        "name": "Super Mario Party Jamboree"
       },
       "is_recurring": true
     }
