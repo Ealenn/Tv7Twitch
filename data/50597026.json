@@ -28,19 +28,7 @@
       "id": "eyJzZWdtZW50SUQiOiI3YWJjNjEyZS0yMTFhLTRiYmYtODZiMy1jNTAzZDEwMzkyMDEiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjo0NX0=",
       "start_time": "2024-11-05T10:00:00Z",
       "end_time": "2024-11-05T14:00:00Z",
-      "title": "Alfred is a Bad Guy avec Naho, Kao et Flonflon",
-      "canceled_until": null,
-      "category": {
-        "id": "1804424791",
-        "name": "Alfred is a Bad Guy"
-      },
-      "is_recurring": true
-    },
-    {
-      "id": "eyJzZWdtZW50SUQiOiJlNmU1OTc5Yy1lOTZhLTQyODYtODY2OC05NmM4NWY5YWJhZjMiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjo0NX0=",
-      "start_time": "2024-11-05T14:00:00Z",
-      "end_time": "2024-11-05T17:00:00Z",
-      "title": "React et discu autour de « la crise du jeu vidéos »",
+      "title": "YOLO",
       "canceled_until": null,
       "category": {
         "id": "509658",
@@ -49,47 +37,50 @@
       "is_recurring": true
     },
     {
+      "id": "eyJzZWdtZW50SUQiOiJlNmU1OTc5Yy1lOTZhLTQyODYtODY2OC05NmM4NWY5YWJhZjMiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjo0NX0=",
+      "start_time": "2024-11-05T14:00:00Z",
+      "end_time": "2024-11-05T17:00:00Z",
+      "title": "Découverte Kacky avec Wingo",
+      "canceled_until": null,
+      "category": {
+        "id": "687129551",
+        "name": "Trackmania"
+      },
+      "is_recurring": true
+    },
+    {
       "id": "eyJzZWdtZW50SUQiOiI4YmFiMzYwZC1iYTQ5LTQyZWItYjMwOS1lYTI0ZWFiMWQxMWYiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjo0NX0=",
       "start_time": "2024-11-06T10:00:00Z",
       "end_time": "2024-11-06T17:00:00Z",
-      "title": "Découverte de Firewatch",
+      "title": "Speedrun Super Mario 64 avec Niniste",
       "canceled_until": null,
       "category": {
-        "id": "459755",
-        "name": "Firewatch"
+        "id": "2692",
+        "name": "Super Mario 64"
       },
       "is_recurring": true
     },
     {
       "id": "eyJzZWdtZW50SUQiOiJhZDgwODJjYi0xYTgxLTQ4YWMtOGJiZC1hOWU5Y2I5NmExZDYiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjo0NX0=",
       "start_time": "2024-11-07T10:00:00Z",
-      "end_time": "2024-11-07T14:00:00Z",
-      "title": "P’tit Mario Party avec Onu, Wingo et Bytell",
+      "end_time": "2024-11-07T17:00:00Z",
+      "title": "Début de l'aventure Mario & Luigi : L'épopée fraternelle",
       "canceled_until": null,
       "category": {
-        "id": "1471610418",
-        "name": "Super Mario Party Jamboree"
+        "id": "1505767674",
+        "name": "Mario & Luigi: Brothership"
       },
       "is_recurring": true
     },
     {
-      "id": "eyJzZWdtZW50SUQiOiI3M2EyOGIxZS1hZDQ3LTRjZmYtYmQwOS1iMDViMGZhOTg3N2QiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjo0NX0=",
-      "start_time": "2024-11-07T14:00:00Z",
-      "end_time": "2024-11-07T17:00:00Z",
-      "title": "Yoloooooooooo",
-      "canceled_until": null,
-      "category": null,
-      "is_recurring": true
-    },
-    {
       "id": "eyJzZWdtZW50SUQiOiJkMTBiMjQyNS1lNTQzLTRlNmMtYTViNi02Y2VhOGZmOWY4YWQiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjo0NX0=",
-      "start_time": "2024-11-08T13:00:00Z",
-      "end_time": "2024-11-08T19:00:00Z",
-      "title": "Découverte du speedrun de Super Mario 64 avec Niniste",
+      "start_time": "2024-11-08T10:00:00Z",
+      "end_time": "2024-11-08T17:00:00Z",
+      "title": "Mario & Luigi : L'épopée fraternelle",
       "canceled_until": null,
       "category": {
-        "id": "2692",
-        "name": "Super Mario 64"
+        "id": "1505767674",
+        "name": "Mario & Luigi: Brothership"
       },
       "is_recurring": true
     },
@@ -109,19 +100,7 @@
       "id": "eyJzZWdtZW50SUQiOiI3YWJjNjEyZS0yMTFhLTRiYmYtODZiMy1jNTAzZDEwMzkyMDEiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjo0Nn0=",
       "start_time": "2024-11-12T10:00:00Z",
       "end_time": "2024-11-12T14:00:00Z",
-      "title": "Alfred is a Bad Guy avec Naho, Kao et Flonflon",
-      "canceled_until": null,
-      "category": {
-        "id": "1804424791",
-        "name": "Alfred is a Bad Guy"
-      },
-      "is_recurring": true
-    },
-    {
-      "id": "eyJzZWdtZW50SUQiOiJlNmU1OTc5Yy1lOTZhLTQyODYtODY2OC05NmM4NWY5YWJhZjMiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjo0Nn0=",
-      "start_time": "2024-11-12T14:00:00Z",
-      "end_time": "2024-11-12T17:00:00Z",
-      "title": "React et discu autour de « la crise du jeu vidéos »",
+      "title": "YOLO",
       "canceled_until": null,
       "category": {
         "id": "509658",
@@ -130,47 +109,50 @@
       "is_recurring": true
     },
     {
+      "id": "eyJzZWdtZW50SUQiOiJlNmU1OTc5Yy1lOTZhLTQyODYtODY2OC05NmM4NWY5YWJhZjMiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjo0Nn0=",
+      "start_time": "2024-11-12T14:00:00Z",
+      "end_time": "2024-11-12T17:00:00Z",
+      "title": "Découverte Kacky avec Wingo",
+      "canceled_until": null,
+      "category": {
+        "id": "687129551",
+        "name": "Trackmania"
+      },
+      "is_recurring": true
+    },
+    {
       "id": "eyJzZWdtZW50SUQiOiI4YmFiMzYwZC1iYTQ5LTQyZWItYjMwOS1lYTI0ZWFiMWQxMWYiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjo0Nn0=",
       "start_time": "2024-11-13T10:00:00Z",
       "end_time": "2024-11-13T17:00:00Z",
-      "title": "Découverte de Firewatch",
+      "title": "Speedrun Super Mario 64 avec Niniste",
       "canceled_until": null,
       "category": {
-        "id": "459755",
-        "name": "Firewatch"
+        "id": "2692",
+        "name": "Super Mario 64"
       },
       "is_recurring": true
     },
     {
       "id": "eyJzZWdtZW50SUQiOiJhZDgwODJjYi0xYTgxLTQ4YWMtOGJiZC1hOWU5Y2I5NmExZDYiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjo0Nn0=",
       "start_time": "2024-11-14T10:00:00Z",
-      "end_time": "2024-11-14T14:00:00Z",
-      "title": "P’tit Mario Party avec Onu, Wingo et Bytell",
+      "end_time": "2024-11-14T17:00:00Z",
+      "title": "Début de l'aventure Mario & Luigi : L'épopée fraternelle",
       "canceled_until": null,
       "category": {
-        "id": "1471610418",
-        "name": "Super Mario Party Jamboree"
+        "id": "1505767674",
+        "name": "Mario & Luigi: Brothership"
       },
       "is_recurring": true
     },
     {
-      "id": "eyJzZWdtZW50SUQiOiI3M2EyOGIxZS1hZDQ3LTRjZmYtYmQwOS1iMDViMGZhOTg3N2QiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjo0Nn0=",
-      "start_time": "2024-11-14T14:00:00Z",
-      "end_time": "2024-11-14T17:00:00Z",
-      "title": "Yoloooooooooo",
-      "canceled_until": null,
-      "category": null,
-      "is_recurring": true
-    },
-    {
       "id": "eyJzZWdtZW50SUQiOiJkMTBiMjQyNS1lNTQzLTRlNmMtYTViNi02Y2VhOGZmOWY4YWQiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjo0Nn0=",
-      "start_time": "2024-11-15T13:00:00Z",
-      "end_time": "2024-11-15T19:00:00Z",
-      "title": "Découverte du speedrun de Super Mario 64 avec Niniste",
+      "start_time": "2024-11-15T10:00:00Z",
+      "end_time": "2024-11-15T17:00:00Z",
+      "title": "Mario & Luigi : L'épopée fraternelle",
       "canceled_until": null,
       "category": {
-        "id": "2692",
-        "name": "Super Mario 64"
+        "id": "1505767674",
+        "name": "Mario & Luigi: Brothership"
       },
       "is_recurring": true
     },
@@ -190,19 +172,7 @@
       "id": "eyJzZWdtZW50SUQiOiI3YWJjNjEyZS0yMTFhLTRiYmYtODZiMy1jNTAzZDEwMzkyMDEiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjo0N30=",
       "start_time": "2024-11-19T10:00:00Z",
       "end_time": "2024-11-19T14:00:00Z",
-      "title": "Alfred is a Bad Guy avec Naho, Kao et Flonflon",
-      "canceled_until": null,
-      "category": {
-        "id": "1804424791",
-        "name": "Alfred is a Bad Guy"
-      },
-      "is_recurring": true
-    },
-    {
-      "id": "eyJzZWdtZW50SUQiOiJlNmU1OTc5Yy1lOTZhLTQyODYtODY2OC05NmM4NWY5YWJhZjMiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjo0N30=",
-      "start_time": "2024-11-19T14:00:00Z",
-      "end_time": "2024-11-19T17:00:00Z",
-      "title": "React et discu autour de « la crise du jeu vidéos »",
+      "title": "YOLO",
       "canceled_until": null,
       "category": {
         "id": "509658",
@@ -211,36 +181,75 @@
       "is_recurring": true
     },
     {
+      "id": "eyJzZWdtZW50SUQiOiJlNmU1OTc5Yy1lOTZhLTQyODYtODY2OC05NmM4NWY5YWJhZjMiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjo0N30=",
+      "start_time": "2024-11-19T14:00:00Z",
+      "end_time": "2024-11-19T17:00:00Z",
+      "title": "Découverte Kacky avec Wingo",
+      "canceled_until": null,
+      "category": {
+        "id": "687129551",
+        "name": "Trackmania"
+      },
+      "is_recurring": true
+    },
+    {
       "id": "eyJzZWdtZW50SUQiOiI4YmFiMzYwZC1iYTQ5LTQyZWItYjMwOS1lYTI0ZWFiMWQxMWYiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjo0N30=",
       "start_time": "2024-11-20T10:00:00Z",
       "end_time": "2024-11-20T17:00:00Z",
-      "title": "Découverte de Firewatch",
+      "title": "Speedrun Super Mario 64 avec Niniste",
       "canceled_until": null,
       "category": {
-        "id": "459755",
-        "name": "Firewatch"
+        "id": "2692",
+        "name": "Super Mario 64"
       },
       "is_recurring": true
     },
     {
       "id": "eyJzZWdtZW50SUQiOiJhZDgwODJjYi0xYTgxLTQ4YWMtOGJiZC1hOWU5Y2I5NmExZDYiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjo0N30=",
       "start_time": "2024-11-21T10:00:00Z",
-      "end_time": "2024-11-21T14:00:00Z",
-      "title": "P’tit Mario Party avec Onu, Wingo et Bytell",
+      "end_time": "2024-11-21T17:00:00Z",
+      "title": "Début de l'aventure Mario & Luigi : L'épopée fraternelle",
       "canceled_until": null,
       "category": {
-        "id": "1471610418",
-        "name": "Super Mario Party Jamboree"
+        "id": "1505767674",
+        "name": "Mario & Luigi: Brothership"
       },
       "is_recurring": true
     },
     {
-      "id": "eyJzZWdtZW50SUQiOiI3M2EyOGIxZS1hZDQ3LTRjZmYtYmQwOS1iMDViMGZhOTg3N2QiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjo0N30=",
-      "start_time": "2024-11-21T14:00:00Z",
-      "end_time": "2024-11-21T17:00:00Z",
-      "title": "Yoloooooooooo",
+      "id": "eyJzZWdtZW50SUQiOiJkMTBiMjQyNS1lNTQzLTRlNmMtYTViNi02Y2VhOGZmOWY4YWQiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjo0N30=",
+      "start_time": "2024-11-22T10:00:00Z",
+      "end_time": "2024-11-22T17:00:00Z",
+      "title": "Mario & Luigi : L'épopée fraternelle",
       "canceled_until": null,
-      "category": null,
+      "category": {
+        "id": "1505767674",
+        "name": "Mario & Luigi: Brothership"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiIzN2ZhOWU2NC02NjA4LTRmZjgtOTEwOC1kZTgxN2JjMTdjYzMiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjo0OH0=",
+      "start_time": "2024-11-25T10:00:00Z",
+      "end_time": "2024-11-25T17:00:00Z",
+      "title": "Culture & plaisir sur le Maitre des Fleurs",
+      "canceled_until": null,
+      "category": {
+        "id": "338715930",
+        "name": "Maitre des Fleurs"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiI3YWJjNjEyZS0yMTFhLTRiYmYtODZiMy1jNTAzZDEwMzkyMDEiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjo0OH0=",
+      "start_time": "2024-11-26T10:00:00Z",
+      "end_time": "2024-11-26T14:00:00Z",
+      "title": "YOLO",
+      "canceled_until": null,
+      "category": {
+        "id": "509658",
+        "name": "Just Chatting"
+      },
       "is_recurring": true
     }
   ]
