@@ -7,23 +7,11 @@
     "broadcaster_type": "partner",
     "description": "",
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/3cdae7df-600c-4833-8dfe-8d2abc5a3b25-profile_image-300x300.png",
-    "offline_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/e9e4208c-a4c3-47f3-aa87-b7ab7d685ee0-channel_offline_image-1920x1080.png",
+    "offline_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/b8f6bc8a-e0ae-44da-857a-af0d6d7d1ab9-channel_offline_image-1920x1080.png",
     "view_count": 0,
     "created_at": "2013-02-05T19:20:22Z"
   },
   "schedulers": [
-    {
-      "id": "eyJzZWdtZW50SUQiOiI4YjgxODkyYi1jOWE3LTQyMzMtYjJjYi03YjQxZGExMjlhNzYiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjo0NX0=",
-      "start_time": "2024-11-05T19:00:00Z",
-      "end_time": "2024-11-05T21:30:00Z",
-      "title": "🍿 POPCORN AVEC ELSA BOIS, RIVENZI & SIMON PUECH",
-      "canceled_until": null,
-      "category": {
-        "id": "417752",
-        "name": "Talk Shows & Podcasts"
-      },
-      "is_recurring": true
-    },
     {
       "id": "eyJzZWdtZW50SUQiOiJhOTI1NDE3ZS0wMWI0LTQwODQtYTBhMS1mODEyNzBjMWQzOTgiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjo0NX0=",
       "start_time": "2024-11-06T13:00:00Z",
@@ -249,6 +237,18 @@
       "category": {
         "id": "509658",
         "name": "Just Chatting"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiI4YjgxODkyYi1jOWE3LTQyMzMtYjJjYi03YjQxZGExMjlhNzYiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjo1Mn0=",
+      "start_time": "2024-12-24T19:00:00Z",
+      "end_time": "2024-12-24T21:30:00Z",
+      "title": "🍿 POPCORN AVEC ELSA BOIS, RIVENZI & SIMON PUECH",
+      "canceled_until": null,
+      "category": {
+        "id": "417752",
+        "name": "Talk Shows & Podcasts"
       },
       "is_recurring": true
     }
