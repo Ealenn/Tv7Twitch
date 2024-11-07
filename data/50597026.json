@@ -13,18 +13,6 @@
   },
   "schedulers": [
     {
-      "id": "eyJzZWdtZW50SUQiOiI4YmFiMzYwZC1iYTQ5LTQyZWItYjMwOS1lYTI0ZWFiMWQxMWYiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjo0NX0=",
-      "start_time": "2024-11-06T10:00:00Z",
-      "end_time": "2024-11-06T17:00:00Z",
-      "title": "Speedrun Super Mario 64 avec Niniste",
-      "canceled_until": null,
-      "category": {
-        "id": "2692",
-        "name": "Super Mario 64"
-      },
-      "is_recurring": true
-    },
-    {
       "id": "eyJzZWdtZW50SUQiOiJhZDgwODJjYi0xYTgxLTQ4YWMtOGJiZC1hOWU5Y2I5NmExZDYiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjo0NX0=",
       "start_time": "2024-11-07T10:00:00Z",
       "end_time": "2024-11-07T17:00:00Z",
@@ -245,6 +233,18 @@
       "start_time": "2024-11-28T10:00:00Z",
       "end_time": "2024-11-28T17:00:00Z",
       "title": "Début de l'aventure Mario & Luigi : L'épopée fraternelle",
+      "canceled_until": null,
+      "category": {
+        "id": "1505767674",
+        "name": "Mario & Luigi: Brothership"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiJkMTBiMjQyNS1lNTQzLTRlNmMtYTViNi02Y2VhOGZmOWY4YWQiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjo0OH0=",
+      "start_time": "2024-11-29T10:00:00Z",
+      "end_time": "2024-11-29T17:00:00Z",
+      "title": "Mario & Luigi : L'épopée fraternelle",
       "canceled_until": null,
       "category": {
         "id": "1505767674",

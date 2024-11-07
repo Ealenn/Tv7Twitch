@@ -7,47 +7,11 @@
     "broadcaster_type": "partner",
     "description": "",
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/3cdae7df-600c-4833-8dfe-8d2abc5a3b25-profile_image-300x300.png",
-    "offline_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/b8f6bc8a-e0ae-44da-857a-af0d6d7d1ab9-channel_offline_image-1920x1080.png",
+    "offline_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/9cb09c03-bfd4-4d3a-a09a-e24cb454d5d0-channel_offline_image-1920x1080.png",
     "view_count": 0,
     "created_at": "2013-02-05T19:20:22Z"
   },
   "schedulers": [
-    {
-      "id": "eyJzZWdtZW50SUQiOiJhOTI1NDE3ZS0wMWI0LTQwODQtYTBhMS1mODEyNzBjMWQzOTgiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjo0NX0=",
-      "start_time": "2024-11-06T13:00:00Z",
-      "end_time": "2024-11-06T14:00:00Z",
-      "title": "🎙 PRÉ LIVE",
-      "canceled_until": null,
-      "category": {
-        "id": "509658",
-        "name": "Just Chatting"
-      },
-      "is_recurring": false
-    },
-    {
-      "id": "eyJzZWdtZW50SUQiOiIzYWI5NzBkNy0wMjMzLTRhNTQtYmY1NC1iNGYwOWY4MTliN2UiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjo0NX0=",
-      "start_time": "2024-11-06T14:00:00Z",
-      "end_time": "2024-11-06T15:00:00Z",
-      "title": "👮‍♂️ I AM SECURITY AVEC UN CASQUE VR",
-      "canceled_until": null,
-      "category": {
-        "id": "1164053587",
-        "name": "I Am Security"
-      },
-      "is_recurring": false
-    },
-    {
-      "id": "eyJzZWdtZW50SUQiOiJkY2QzNmI2Ni01ODg2LTRlYzItYTJjMi1hMTQyNzdkMmNiOTEiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjo0NX0=",
-      "start_time": "2024-11-06T19:00:00Z",
-      "end_time": "2024-11-06T23:00:00Z",
-      "title": "🎢 SUITE DE L'AVENTURE SUR PLANET COASTER 2",
-      "canceled_until": null,
-      "category": {
-        "id": "1846570260",
-        "name": "Planet Coaster 2"
-      },
-      "is_recurring": false
-    },
     {
       "id": "eyJzZWdtZW50SUQiOiI5YjYwNTE0Yi04Mjg5LTQ1MmQtOGYzOS02NTg3NDhhNDc5OWIiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjo0NX0=",
       "start_time": "2024-11-07T13:00:00Z",
@@ -249,6 +213,42 @@
       "category": {
         "id": "417752",
         "name": "Talk Shows & Podcasts"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiJkMjc5YTZhMi1mNjhlLTQ0NTktOGZlNS0yNWU3NmZiNWVmNzEiLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjoxfQ==",
+      "start_time": "2024-12-30T18:30:00Z",
+      "end_time": "2024-12-30T19:30:00Z",
+      "title": "🎙 PRÉ LIVE",
+      "canceled_until": null,
+      "category": {
+        "id": "509658",
+        "name": "Just Chatting"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiI4YjgxODkyYi1jOWE3LTQyMzMtYjJjYi03YjQxZGExMjlhNzYiLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjoxfQ==",
+      "start_time": "2024-12-31T19:00:00Z",
+      "end_time": "2024-12-31T21:30:00Z",
+      "title": "🍿 POPCORN AVEC ELSA BOIS, RIVENZI & SIMON PUECH",
+      "canceled_until": null,
+      "category": {
+        "id": "417752",
+        "name": "Talk Shows & Podcasts"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiJkMjc5YTZhMi1mNjhlLTQ0NTktOGZlNS0yNWU3NmZiNWVmNzEiLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjoyfQ==",
+      "start_time": "2025-01-06T18:30:00Z",
+      "end_time": "2025-01-06T19:30:00Z",
+      "title": "🎙 PRÉ LIVE",
+      "canceled_until": null,
+      "category": {
+        "id": "509658",
+        "name": "Just Chatting"
       },
       "is_recurring": true
     }
