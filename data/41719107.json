@@ -13,14 +13,14 @@
   },
   "schedulers": [
     {
-      "id": "eyJzZWdtZW50SUQiOiI4ZmQ4MjE2ZC03NmM3LTQ4NjMtYWUxNS0zZTI5Y2QwM2E2YjQiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjo0NX0=",
-      "start_time": "2024-11-10T18:00:00Z",
-      "end_time": "2024-11-10T21:00:00Z",
-      "title": "Mandatory WoW joue les Mythic Dungeon International pour se qualifier en finale",
+      "id": "eyJzZWdtZW50SUQiOiJiZDZhZGQyNS0yODA5LTQ5MWYtODA1ZS04MGY0M2I0OGZjYjciLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjo0Nn0=",
+      "start_time": "2024-11-11T19:00:00Z",
+      "end_time": "2024-11-11T19:30:00Z",
+      "title": "Annonce BOAT et informations",
       "canceled_until": null,
       "category": {
-        "id": "18122",
-        "name": "World of Warcraft"
+        "id": "509658",
+        "name": "Just Chatting"
       },
       "is_recurring": false
     },
