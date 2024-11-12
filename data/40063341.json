@@ -7,28 +7,16 @@
     "broadcaster_type": "partner",
     "description": "",
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/3cdae7df-600c-4833-8dfe-8d2abc5a3b25-profile_image-300x300.png",
-    "offline_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/9cb09c03-bfd4-4d3a-a09a-e24cb454d5d0-channel_offline_image-1920x1080.png",
+    "offline_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/0132f23c-ef22-4f62-8b36-db9633ac70d1-channel_offline_image-1920x1080.png",
     "view_count": 0,
     "created_at": "2013-02-05T19:20:22Z"
   },
   "schedulers": [
     {
-      "id": "eyJzZWdtZW50SUQiOiJkMjc5YTZhMi1mNjhlLTQ0NTktOGZlNS0yNWU3NmZiNWVmNzEiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjo0Nn0=",
-      "start_time": "2024-11-11T18:30:00Z",
-      "end_time": "2024-11-11T19:30:00Z",
-      "title": "🎙 PRÉ LIVE",
-      "canceled_until": null,
-      "category": {
-        "id": "509658",
-        "name": "Just Chatting"
-      },
-      "is_recurring": true
-    },
-    {
       "id": "eyJzZWdtZW50SUQiOiI4YjgxODkyYi1jOWE3LTQyMzMtYjJjYi03YjQxZGExMjlhNzYiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjo0Nn0=",
       "start_time": "2024-11-12T19:00:00Z",
       "end_time": "2024-11-12T21:30:00Z",
-      "title": "🍿 POPCORN AVEC ELSA BOIS, RIVENZI & SIMON PUECH",
+      "title": "🍿 POPCORN AVEC LA GRISETTE, TERRACID & MISTERMV",
       "canceled_until": null,
       "category": {
         "id": "417752",
@@ -37,14 +25,83 @@
       "is_recurring": true
     },
     {
-      "id": "eyJzZWdtZW50SUQiOiJkMjc5YTZhMi1mNjhlLTQ0NTktOGZlNS0yNWU3NmZiNWVmNzEiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjo0N30=",
-      "start_time": "2024-11-18T18:30:00Z",
-      "end_time": "2024-11-18T19:30:00Z",
-      "title": "🎙 PRÉ LIVE",
+      "id": "eyJzZWdtZW50SUQiOiI4MWFiYWE2MC01YTU2LTQzMmMtOWEyZi0xMTFkMjA3MzBmNWQiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjo0Nn0=",
+      "start_time": "2024-11-13T13:00:00Z",
+      "end_time": "2024-11-13T14:00:00Z",
+      "title": "🎙️ PRÉ-LIVE",
       "canceled_until": null,
       "category": {
         "id": "509658",
         "name": "Just Chatting"
+      },
+      "is_recurring": false
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiI5YmM5MzYwMi0xMTE5LTQ4MTAtYWUxNi01ODZlZTlhZjhlYmYiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjo0Nn0=",
+      "start_time": "2024-11-13T14:00:00Z",
+      "end_time": "2024-11-13T16:00:00Z",
+      "title": "STREAM LIBRE",
+      "canceled_until": null,
+      "category": null,
+      "is_recurring": false
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiJmNTI1NWI2Yi0yZWMyLTRlN2YtOTRjZi1mNGE2YTU3MWU3MGQiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjo0Nn0=",
+      "start_time": "2024-11-13T19:00:00Z",
+      "end_time": "2024-11-13T21:30:00Z",
+      "title": "✉️ LE BUREAU DES LETTRES OUBLIÉES (sur twitch.tv/enjoyphoenix)",
+      "canceled_until": null,
+      "category": {
+        "id": "509658",
+        "name": "Just Chatting"
+      },
+      "is_recurring": false
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiI4M2I3ZmY5YS0xOGU0LTQ1NWUtYjNiMC1iNTNlMGYzN2NhNjciLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjo0Nn0=",
+      "start_time": "2024-11-14T13:00:00Z",
+      "end_time": "2024-11-14T14:00:00Z",
+      "title": "🎙️ PRÉ-LIVE",
+      "canceled_until": null,
+      "category": {
+        "id": "509658",
+        "name": "Just Chatting"
+      },
+      "is_recurring": false
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiI0MDllZmQ0Ni00ZGYyLTQzOTktYWRjYS01NTJmODE3NTQ3YzYiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjo0Nn0=",
+      "start_time": "2024-11-14T14:00:00Z",
+      "end_time": "2024-11-14T18:30:00Z",
+      "title": "🎢 PAB LAND S'AGRANDIT",
+      "canceled_until": null,
+      "category": {
+        "id": "1846570260",
+        "name": "Planet Coaster 2"
+      },
+      "is_recurring": false
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiJlZTcwYmU1Zi0xZTQxLTRkMDYtYTU0ZC03ODRhMmM2ZDk5ZjQiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjo0Nn0=",
+      "start_time": "2024-11-16T19:00:00Z",
+      "end_time": "2024-11-16T23:30:00Z",
+      "title": "⚔️ LES OG'S : SOIRÉE CLASH",
+      "canceled_until": null,
+      "category": {
+        "id": "21779",
+        "name": "League of Legends"
+      },
+      "is_recurring": false
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiJkMjc5YTZhMi1mNjhlLTQ0NTktOGZlNS0yNWU3NmZiNWVmNzEiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjo0N30=",
+      "start_time": "2024-11-18T19:00:00Z",
+      "end_time": "2024-11-18T23:00:00Z",
+      "title": "⚔️ LES OG'S : PREMIÈRE SOIRÉE",
+      "canceled_until": null,
+      "category": {
+        "id": "21779",
+        "name": "League of Legends"
       },
       "is_recurring": true
     },
@@ -52,7 +109,7 @@
       "id": "eyJzZWdtZW50SUQiOiI4YjgxODkyYi1jOWE3LTQyMzMtYjJjYi03YjQxZGExMjlhNzYiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjo0N30=",
       "start_time": "2024-11-19T19:00:00Z",
       "end_time": "2024-11-19T21:30:00Z",
-      "title": "🍿 POPCORN AVEC ELSA BOIS, RIVENZI & SIMON PUECH",
+      "title": "🍿 POPCORN AVEC LA GRISETTE, TERRACID & MISTERMV",
       "canceled_until": null,
       "category": {
         "id": "417752",
@@ -62,13 +119,13 @@
     },
     {
       "id": "eyJzZWdtZW50SUQiOiJkMjc5YTZhMi1mNjhlLTQ0NTktOGZlNS0yNWU3NmZiNWVmNzEiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjo0OH0=",
-      "start_time": "2024-11-25T18:30:00Z",
-      "end_time": "2024-11-25T19:30:00Z",
-      "title": "🎙 PRÉ LIVE",
+      "start_time": "2024-11-25T19:00:00Z",
+      "end_time": "2024-11-25T23:00:00Z",
+      "title": "⚔️ LES OG'S : PREMIÈRE SOIRÉE",
       "canceled_until": null,
       "category": {
-        "id": "509658",
-        "name": "Just Chatting"
+        "id": "21779",
+        "name": "League of Legends"
       },
       "is_recurring": true
     },
@@ -76,7 +133,7 @@
       "id": "eyJzZWdtZW50SUQiOiI4YjgxODkyYi1jOWE3LTQyMzMtYjJjYi03YjQxZGExMjlhNzYiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjo0OH0=",
       "start_time": "2024-11-26T19:00:00Z",
       "end_time": "2024-11-26T21:30:00Z",
-      "title": "🍿 POPCORN AVEC ELSA BOIS, RIVENZI & SIMON PUECH",
+      "title": "🍿 POPCORN AVEC LA GRISETTE, TERRACID & MISTERMV",
       "canceled_until": null,
       "category": {
         "id": "417752",
@@ -86,13 +143,13 @@
     },
     {
       "id": "eyJzZWdtZW50SUQiOiJkMjc5YTZhMi1mNjhlLTQ0NTktOGZlNS0yNWU3NmZiNWVmNzEiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjo0OX0=",
-      "start_time": "2024-12-02T18:30:00Z",
-      "end_time": "2024-12-02T19:30:00Z",
-      "title": "🎙 PRÉ LIVE",
+      "start_time": "2024-12-02T19:00:00Z",
+      "end_time": "2024-12-02T23:00:00Z",
+      "title": "⚔️ LES OG'S : PREMIÈRE SOIRÉE",
       "canceled_until": null,
       "category": {
-        "id": "509658",
-        "name": "Just Chatting"
+        "id": "21779",
+        "name": "League of Legends"
       },
       "is_recurring": true
     },
@@ -100,7 +157,7 @@
       "id": "eyJzZWdtZW50SUQiOiI4YjgxODkyYi1jOWE3LTQyMzMtYjJjYi03YjQxZGExMjlhNzYiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjo0OX0=",
       "start_time": "2024-12-03T19:00:00Z",
       "end_time": "2024-12-03T21:30:00Z",
-      "title": "🍿 POPCORN AVEC ELSA BOIS, RIVENZI & SIMON PUECH",
+      "title": "🍿 POPCORN AVEC LA GRISETTE, TERRACID & MISTERMV",
       "canceled_until": null,
       "category": {
         "id": "417752",
@@ -110,13 +167,13 @@
     },
     {
       "id": "eyJzZWdtZW50SUQiOiJkMjc5YTZhMi1mNjhlLTQ0NTktOGZlNS0yNWU3NmZiNWVmNzEiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjo1MH0=",
-      "start_time": "2024-12-09T18:30:00Z",
-      "end_time": "2024-12-09T19:30:00Z",
-      "title": "🎙 PRÉ LIVE",
+      "start_time": "2024-12-09T19:00:00Z",
+      "end_time": "2024-12-09T23:00:00Z",
+      "title": "⚔️ LES OG'S : PREMIÈRE SOIRÉE",
       "canceled_until": null,
       "category": {
-        "id": "509658",
-        "name": "Just Chatting"
+        "id": "21779",
+        "name": "League of Legends"
       },
       "is_recurring": true
     },
@@ -124,7 +181,7 @@
       "id": "eyJzZWdtZW50SUQiOiI4YjgxODkyYi1jOWE3LTQyMzMtYjJjYi03YjQxZGExMjlhNzYiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjo1MH0=",
       "start_time": "2024-12-10T19:00:00Z",
       "end_time": "2024-12-10T21:30:00Z",
-      "title": "🍿 POPCORN AVEC ELSA BOIS, RIVENZI & SIMON PUECH",
+      "title": "🍿 POPCORN AVEC LA GRISETTE, TERRACID & MISTERMV",
       "canceled_until": null,
       "category": {
         "id": "417752",
@@ -134,13 +191,13 @@
     },
     {
       "id": "eyJzZWdtZW50SUQiOiJkMjc5YTZhMi1mNjhlLTQ0NTktOGZlNS0yNWU3NmZiNWVmNzEiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjo1MX0=",
-      "start_time": "2024-12-16T18:30:00Z",
-      "end_time": "2024-12-16T19:30:00Z",
-      "title": "🎙 PRÉ LIVE",
+      "start_time": "2024-12-16T19:00:00Z",
+      "end_time": "2024-12-16T23:00:00Z",
+      "title": "⚔️ LES OG'S : PREMIÈRE SOIRÉE",
       "canceled_until": null,
       "category": {
-        "id": "509658",
-        "name": "Just Chatting"
+        "id": "21779",
+        "name": "League of Legends"
       },
       "is_recurring": true
     },
@@ -148,7 +205,7 @@
       "id": "eyJzZWdtZW50SUQiOiI4YjgxODkyYi1jOWE3LTQyMzMtYjJjYi03YjQxZGExMjlhNzYiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjo1MX0=",
       "start_time": "2024-12-17T19:00:00Z",
       "end_time": "2024-12-17T21:30:00Z",
-      "title": "🍿 POPCORN AVEC ELSA BOIS, RIVENZI & SIMON PUECH",
+      "title": "🍿 POPCORN AVEC LA GRISETTE, TERRACID & MISTERMV",
       "canceled_until": null,
       "category": {
         "id": "417752",
@@ -158,13 +215,13 @@
     },
     {
       "id": "eyJzZWdtZW50SUQiOiJkMjc5YTZhMi1mNjhlLTQ0NTktOGZlNS0yNWU3NmZiNWVmNzEiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjo1Mn0=",
-      "start_time": "2024-12-23T18:30:00Z",
-      "end_time": "2024-12-23T19:30:00Z",
-      "title": "🎙 PRÉ LIVE",
+      "start_time": "2024-12-23T19:00:00Z",
+      "end_time": "2024-12-23T23:00:00Z",
+      "title": "⚔️ LES OG'S : PREMIÈRE SOIRÉE",
       "canceled_until": null,
       "category": {
-        "id": "509658",
-        "name": "Just Chatting"
+        "id": "21779",
+        "name": "League of Legends"
       },
       "is_recurring": true
     },
@@ -172,7 +229,7 @@
       "id": "eyJzZWdtZW50SUQiOiI4YjgxODkyYi1jOWE3LTQyMzMtYjJjYi03YjQxZGExMjlhNzYiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjo1Mn0=",
       "start_time": "2024-12-24T19:00:00Z",
       "end_time": "2024-12-24T21:30:00Z",
-      "title": "🍿 POPCORN AVEC ELSA BOIS, RIVENZI & SIMON PUECH",
+      "title": "🍿 POPCORN AVEC LA GRISETTE, TERRACID & MISTERMV",
       "canceled_until": null,
       "category": {
         "id": "417752",
@@ -182,73 +239,13 @@
     },
     {
       "id": "eyJzZWdtZW50SUQiOiJkMjc5YTZhMi1mNjhlLTQ0NTktOGZlNS0yNWU3NmZiNWVmNzEiLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjoxfQ==",
-      "start_time": "2024-12-30T18:30:00Z",
-      "end_time": "2024-12-30T19:30:00Z",
-      "title": "🎙 PRÉ LIVE",
+      "start_time": "2024-12-30T19:00:00Z",
+      "end_time": "2024-12-30T23:00:00Z",
+      "title": "⚔️ LES OG'S : PREMIÈRE SOIRÉE",
       "canceled_until": null,
       "category": {
-        "id": "509658",
-        "name": "Just Chatting"
-      },
-      "is_recurring": true
-    },
-    {
-      "id": "eyJzZWdtZW50SUQiOiI4YjgxODkyYi1jOWE3LTQyMzMtYjJjYi03YjQxZGExMjlhNzYiLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjoxfQ==",
-      "start_time": "2024-12-31T19:00:00Z",
-      "end_time": "2024-12-31T21:30:00Z",
-      "title": "🍿 POPCORN AVEC ELSA BOIS, RIVENZI & SIMON PUECH",
-      "canceled_until": null,
-      "category": {
-        "id": "417752",
-        "name": "Talk Shows & Podcasts"
-      },
-      "is_recurring": true
-    },
-    {
-      "id": "eyJzZWdtZW50SUQiOiJkMjc5YTZhMi1mNjhlLTQ0NTktOGZlNS0yNWU3NmZiNWVmNzEiLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjoyfQ==",
-      "start_time": "2025-01-06T18:30:00Z",
-      "end_time": "2025-01-06T19:30:00Z",
-      "title": "🎙 PRÉ LIVE",
-      "canceled_until": null,
-      "category": {
-        "id": "509658",
-        "name": "Just Chatting"
-      },
-      "is_recurring": true
-    },
-    {
-      "id": "eyJzZWdtZW50SUQiOiI4YjgxODkyYi1jOWE3LTQyMzMtYjJjYi03YjQxZGExMjlhNzYiLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjoyfQ==",
-      "start_time": "2025-01-07T19:00:00Z",
-      "end_time": "2025-01-07T21:30:00Z",
-      "title": "🍿 POPCORN AVEC ELSA BOIS, RIVENZI & SIMON PUECH",
-      "canceled_until": null,
-      "category": {
-        "id": "417752",
-        "name": "Talk Shows & Podcasts"
-      },
-      "is_recurring": true
-    },
-    {
-      "id": "eyJzZWdtZW50SUQiOiJkMjc5YTZhMi1mNjhlLTQ0NTktOGZlNS0yNWU3NmZiNWVmNzEiLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjozfQ==",
-      "start_time": "2025-01-13T18:30:00Z",
-      "end_time": "2025-01-13T19:30:00Z",
-      "title": "🎙 PRÉ LIVE",
-      "canceled_until": null,
-      "category": {
-        "id": "509658",
-        "name": "Just Chatting"
-      },
-      "is_recurring": true
-    },
-    {
-      "id": "eyJzZWdtZW50SUQiOiI4YjgxODkyYi1jOWE3LTQyMzMtYjJjYi03YjQxZGExMjlhNzYiLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjozfQ==",
-      "start_time": "2025-01-14T19:00:00Z",
-      "end_time": "2025-01-14T21:30:00Z",
-      "title": "🍿 POPCORN AVEC ELSA BOIS, RIVENZI & SIMON PUECH",
-      "canceled_until": null,
-      "category": {
-        "id": "417752",
-        "name": "Talk Shows & Podcasts"
+        "id": "21779",
+        "name": "League of Legends"
       },
       "is_recurring": true
     }

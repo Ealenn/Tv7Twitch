@@ -7,23 +7,11 @@
     "broadcaster_type": "partner",
     "description": "On se tape des immenses barres.",
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/d4737061-8f00-49d9-a56f-fcb4a9230b3f-profile_image-300x300.png",
-    "offline_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/5ccd4fb8-a352-405c-b0b4-f26737dc2a63-channel_offline_image-1920x1080.png",
+    "offline_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/5a33ca94-8fee-453b-bf05-c04aecdef551-channel_offline_image-1920x1080.png",
     "view_count": 0,
     "created_at": "2013-10-24T19:04:45Z"
   },
   "schedulers": [
-    {
-      "id": "eyJzZWdtZW50SUQiOiIzN2ZhOWU2NC02NjA4LTRmZjgtOTEwOC1kZTgxN2JjMTdjYzMiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjo0Nn0=",
-      "start_time": "2024-11-11T10:00:00Z",
-      "end_time": "2024-11-11T17:00:00Z",
-      "title": "Culture & plaisir sur le Maitre des Fleurs",
-      "canceled_until": null,
-      "category": {
-        "id": "338715930",
-        "name": "Maitre des Fleurs"
-      },
-      "is_recurring": true
-    },
     {
       "id": "eyJzZWdtZW50SUQiOiI5ODFhOTg5Yi1jYzljLTRhMmUtYTlmYi0wY2UwMGY3ODdhM2MiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjo0Nn0=",
       "start_time": "2024-11-12T10:00:00Z",
@@ -75,12 +63,24 @@
     {
       "id": "eyJzZWdtZW50SUQiOiI3YWJjNjEyZS0yMTFhLTRiYmYtODZiMy1jNTAzZDEwMzkyMDEiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjo0Nn0=",
       "start_time": "2024-11-14T10:00:00Z",
-      "end_time": "2024-11-14T14:00:00Z",
+      "end_time": "2024-11-14T13:00:00Z",
       "title": "Super Mario Party Jamboree avec Onu et Bytell ",
       "canceled_until": null,
       "category": {
         "id": "1471610418",
         "name": "Super Mario Party Jamboree"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiIyNmM1YjIxYS05NmExLTQwZDUtYWZiNS01MmNhMDM5ZjQ1MGQiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjo0Nn0=",
+      "start_time": "2024-11-14T13:00:00Z",
+      "end_time": "2024-11-14T16:00:00Z",
+      "title": "Le Kacky sur Trackmania avec @Wingo et @Bytell2",
+      "canceled_until": null,
+      "category": {
+        "id": "687129551",
+        "name": "Trackmania"
       },
       "is_recurring": true
     },
@@ -159,12 +159,24 @@
     {
       "id": "eyJzZWdtZW50SUQiOiI3YWJjNjEyZS0yMTFhLTRiYmYtODZiMy1jNTAzZDEwMzkyMDEiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjo0N30=",
       "start_time": "2024-11-21T10:00:00Z",
-      "end_time": "2024-11-21T14:00:00Z",
+      "end_time": "2024-11-21T13:00:00Z",
       "title": "Super Mario Party Jamboree avec Onu et Bytell ",
       "canceled_until": null,
       "category": {
         "id": "1471610418",
         "name": "Super Mario Party Jamboree"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiIyNmM1YjIxYS05NmExLTQwZDUtYWZiNS01MmNhMDM5ZjQ1MGQiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjo0N30=",
+      "start_time": "2024-11-21T13:00:00Z",
+      "end_time": "2024-11-21T16:00:00Z",
+      "title": "Le Kacky sur Trackmania avec @Wingo et @Bytell2",
+      "canceled_until": null,
+      "category": {
+        "id": "687129551",
+        "name": "Trackmania"
       },
       "is_recurring": true
     },
@@ -237,18 +249,6 @@
       "category": {
         "id": "1505767674",
         "name": "Mario & Luigi: Brothership"
-      },
-      "is_recurring": true
-    },
-    {
-      "id": "eyJzZWdtZW50SUQiOiI3YWJjNjEyZS0yMTFhLTRiYmYtODZiMy1jNTAzZDEwMzkyMDEiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjo0OH0=",
-      "start_time": "2024-11-28T10:00:00Z",
-      "end_time": "2024-11-28T14:00:00Z",
-      "title": "Super Mario Party Jamboree avec Onu et Bytell ",
-      "canceled_until": null,
-      "category": {
-        "id": "1471610418",
-        "name": "Super Mario Party Jamboree"
       },
       "is_recurring": true
     }
