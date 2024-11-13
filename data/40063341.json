@@ -7,23 +7,11 @@
     "broadcaster_type": "partner",
     "description": "",
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/3cdae7df-600c-4833-8dfe-8d2abc5a3b25-profile_image-300x300.png",
-    "offline_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/0132f23c-ef22-4f62-8b36-db9633ac70d1-channel_offline_image-1920x1080.png",
+    "offline_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/4da01e19-82d8-4aba-99f6-c95c244f1949-channel_offline_image-1920x1080.png",
     "view_count": 0,
     "created_at": "2013-02-05T19:20:22Z"
   },
   "schedulers": [
-    {
-      "id": "eyJzZWdtZW50SUQiOiI4YjgxODkyYi1jOWE3LTQyMzMtYjJjYi03YjQxZGExMjlhNzYiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjo0Nn0=",
-      "start_time": "2024-11-12T19:00:00Z",
-      "end_time": "2024-11-12T21:30:00Z",
-      "title": "🍿 POPCORN AVEC LA GRISETTE, TERRACID & MISTERMV",
-      "canceled_until": null,
-      "category": {
-        "id": "417752",
-        "name": "Talk Shows & Podcasts"
-      },
-      "is_recurring": true
-    },
     {
       "id": "eyJzZWdtZW50SUQiOiI4MWFiYWE2MC01YTU2LTQzMmMtOWEyZi0xMTFkMjA3MzBmNWQiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjo0Nn0=",
       "start_time": "2024-11-13T13:00:00Z",
@@ -246,6 +234,18 @@
       "category": {
         "id": "21779",
         "name": "League of Legends"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiI4YjgxODkyYi1jOWE3LTQyMzMtYjJjYi03YjQxZGExMjlhNzYiLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjoxfQ==",
+      "start_time": "2024-12-31T19:00:00Z",
+      "end_time": "2024-12-31T21:30:00Z",
+      "title": "🍿 POPCORN AVEC LA GRISETTE, TERRACID & MISTERMV",
+      "canceled_until": null,
+      "category": {
+        "id": "417752",
+        "name": "Talk Shows & Podcasts"
       },
       "is_recurring": true
     }
