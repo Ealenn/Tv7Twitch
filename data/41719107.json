@@ -13,30 +13,6 @@
   },
   "schedulers": [
     {
-      "id": "eyJzZWdtZW50SUQiOiIxNTFhNTU3Ny1hZmJmLTRhODEtYTZjNy1jMTdlYTA1OTE5MGUiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjo0Nn0=",
-      "start_time": "2024-11-13T18:00:00Z",
-      "end_time": "2024-11-13T19:00:00Z",
-      "title": "REACT Warcraft DIRECT : Des annonces sur la plus grosse license de Blizzard ?",
-      "canceled_until": null,
-      "category": {
-        "id": "509658",
-        "name": "Just Chatting"
-      },
-      "is_recurring": false
-    },
-    {
-      "id": "eyJzZWdtZW50SUQiOiJlM2I3MmMyMy05ZjRmLTQ2NmYtYjcxYS0zMjk5ZTg4ZGEyZGEiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjo0Nn0=",
-      "start_time": "2024-11-13T19:00:00Z",
-      "end_time": "2024-11-13T22:00:00Z",
-      "title": "Training Dreamhack avec toute l'équipe Valorant",
-      "canceled_until": null,
-      "category": {
-        "id": "516575",
-        "name": "VALORANT"
-      },
-      "is_recurring": false
-    },
-    {
       "id": "eyJzZWdtZW50SUQiOiIxZmVjYzJkMC0wN2QyLTRjYTQtODlmMy02YTBiOTE5M2IwNWUiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjo0Nn0=",
       "start_time": "2024-11-14T19:00:00Z",
       "end_time": "2024-11-14T21:30:00Z",
@@ -244,6 +220,30 @@
       "id": "eyJzZWdtZW50SUQiOiJiNTE0YTNkMC0xM2IxLTRjMGYtYTAzMy05OTdiYzc4Yjc1YjEiLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjo5fQ==",
       "start_time": "2025-02-24T19:30:00Z",
       "end_time": "2025-02-24T23:00:00Z",
+      "title": "Soirée du lundi",
+      "canceled_until": null,
+      "category": {
+        "id": "509658",
+        "name": "Just Chatting"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiJiNTE0YTNkMC0xM2IxLTRjMGYtYTAzMy05OTdiYzc4Yjc1YjEiLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjoxMH0=",
+      "start_time": "2025-03-03T19:30:00Z",
+      "end_time": "2025-03-03T23:00:00Z",
+      "title": "Soirée du lundi",
+      "canceled_until": null,
+      "category": {
+        "id": "509658",
+        "name": "Just Chatting"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiJiNTE0YTNkMC0xM2IxLTRjMGYtYTAzMy05OTdiYzc4Yjc1YjEiLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjoxMX0=",
+      "start_time": "2025-03-10T19:30:00Z",
+      "end_time": "2025-03-10T23:00:00Z",
       "title": "Soirée du lundi",
       "canceled_until": null,
       "category": {
