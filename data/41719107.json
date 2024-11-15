@@ -13,18 +13,6 @@
   },
   "schedulers": [
     {
-      "id": "eyJzZWdtZW50SUQiOiIxZmVjYzJkMC0wN2QyLTRjYTQtODlmMy02YTBiOTE5M2IwNWUiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjo0Nn0=",
-      "start_time": "2024-11-14T19:00:00Z",
-      "end_time": "2024-11-14T21:30:00Z",
-      "title": "BOAT, première émission. Quiz en live",
-      "canceled_until": null,
-      "category": {
-        "id": "509658",
-        "name": "Just Chatting"
-      },
-      "is_recurring": false
-    },
-    {
       "id": "eyJzZWdtZW50SUQiOiIzMWMwMzYyOC05ZWUwLTRlMjAtYmVjNS04OGUwYjU2OGM3ODIiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjo0Nn0=",
       "start_time": "2024-11-15T19:00:00Z",
       "end_time": "2024-11-15T23:00:00Z",
@@ -33,6 +21,18 @@
       "category": {
         "id": "509658",
         "name": "Just Chatting"
+      },
+      "is_recurring": false
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiIxNTY5YjY5Yi1mODkwLTQ2YmMtYmZkZC02YTFhMzE4NDdhYWYiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjo0Nn0=",
+      "start_time": "2024-11-16T13:00:00Z",
+      "end_time": "2024-11-16T16:30:00Z",
+      "title": "Entrainement Valorant Dreamhack",
+      "canceled_until": null,
+      "category": {
+        "id": "516575",
+        "name": "VALORANT"
       },
       "is_recurring": false
     },

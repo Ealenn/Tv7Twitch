@@ -13,18 +13,6 @@
   },
   "schedulers": [
     {
-      "id": "eyJzZWdtZW50SUQiOiIzZTFhNDhmZC0xOWNlLTRlNjUtYjAyMS0yZTBkOWQ5MGFkZGMiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjo0Nn0=",
-      "start_time": "2024-11-14T11:15:00Z",
-      "end_time": "2024-11-14T12:45:00Z",
-      "title": "Espace et océans",
-      "canceled_until": null,
-      "category": {
-        "id": "509658",
-        "name": "Just Chatting"
-      },
-      "is_recurring": false
-    },
-    {
       "id": "eyJzZWdtZW50SUQiOiI5YmQ3ZWVmMy01ODAyLTRjMjgtYmQyZi0xZTM2NTAwZGY2MmUiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjo0N30=",
       "start_time": "2024-11-20T11:00:00Z",
       "end_time": "2024-11-20T12:30:00Z",
