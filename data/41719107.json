@@ -13,18 +13,6 @@
   },
   "schedulers": [
     {
-      "id": "eyJzZWdtZW50SUQiOiIzMWMwMzYyOC05ZWUwLTRlMjAtYmVjNS04OGUwYjU2OGM3ODIiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjo0Nn0=",
-      "start_time": "2024-11-15T19:00:00Z",
-      "end_time": "2024-11-15T23:00:00Z",
-      "title": "[Sur la chaine Twitch @Alphacast] Table Quest, Jeu de rôle",
-      "canceled_until": null,
-      "category": {
-        "id": "509658",
-        "name": "Just Chatting"
-      },
-      "is_recurring": false
-    },
-    {
       "id": "eyJzZWdtZW50SUQiOiIxNTY5YjY5Yi1mODkwLTQ2YmMtYmZkZC02YTFhMzE4NDdhYWYiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjo0Nn0=",
       "start_time": "2024-11-16T13:00:00Z",
       "end_time": "2024-11-16T16:30:00Z",
@@ -244,6 +232,18 @@
       "id": "eyJzZWdtZW50SUQiOiJiNTE0YTNkMC0xM2IxLTRjMGYtYTAzMy05OTdiYzc4Yjc1YjEiLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjoxMX0=",
       "start_time": "2025-03-10T19:30:00Z",
       "end_time": "2025-03-10T23:00:00Z",
+      "title": "Soirée du lundi",
+      "canceled_until": null,
+      "category": {
+        "id": "509658",
+        "name": "Just Chatting"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiJiNTE0YTNkMC0xM2IxLTRjMGYtYTAzMy05OTdiYzc4Yjc1YjEiLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjoxMn0=",
+      "start_time": "2025-03-17T19:30:00Z",
+      "end_time": "2025-03-17T23:00:00Z",
       "title": "Soirée du lundi",
       "canceled_until": null,
       "category": {
