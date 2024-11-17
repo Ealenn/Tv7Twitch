@@ -13,18 +13,6 @@
   },
   "schedulers": [
     {
-      "id": "eyJzZWdtZW50SUQiOiJlZTcwYmU1Zi0xZTQxLTRkMDYtYTU0ZC03ODRhMmM2ZDk5ZjQiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjo0Nn0=",
-      "start_time": "2024-11-16T19:00:00Z",
-      "end_time": "2024-11-16T23:30:00Z",
-      "title": "⚔️ LES OG'S : SOIRÉE CLASH",
-      "canceled_until": null,
-      "category": {
-        "id": "21779",
-        "name": "League of Legends"
-      },
-      "is_recurring": false
-    },
-    {
       "id": "eyJzZWdtZW50SUQiOiJkMjc5YTZhMi1mNjhlLTQ0NTktOGZlNS0yNWU3NmZiNWVmNzEiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjo0N30=",
       "start_time": "2024-11-18T19:00:00Z",
       "end_time": "2024-11-18T23:00:00Z",
@@ -249,6 +237,18 @@
       "category": {
         "id": "21779",
         "name": "League of Legends"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiI4YjgxODkyYi1jOWE3LTQyMzMtYjJjYi03YjQxZGExMjlhNzYiLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjo0fQ==",
+      "start_time": "2025-01-21T19:00:00Z",
+      "end_time": "2025-01-21T21:30:00Z",
+      "title": "🍿 POPCORN AVEC LA GRISETTE, TERRACID & MISTERMV",
+      "canceled_until": null,
+      "category": {
+        "id": "417752",
+        "name": "Talk Shows & Podcasts"
       },
       "is_recurring": true
     }
