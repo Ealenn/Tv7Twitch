@@ -7,28 +7,16 @@
     "broadcaster_type": "partner",
     "description": "",
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/3cdae7df-600c-4833-8dfe-8d2abc5a3b25-profile_image-300x300.png",
-    "offline_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/d02b96d1-6564-4a63-ad8d-5c2dc0d12c75-channel_offline_image-1920x1080.png",
+    "offline_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/5f21bce5-59e4-4134-bfd1-dc4064bb1ce1-channel_offline_image-1920x1080.png",
     "view_count": 0,
     "created_at": "2013-02-05T19:20:22Z"
   },
   "schedulers": [
     {
-      "id": "eyJzZWdtZW50SUQiOiJkMjc5YTZhMi1mNjhlLTQ0NTktOGZlNS0yNWU3NmZiNWVmNzEiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjo0N30=",
-      "start_time": "2024-11-18T19:00:00Z",
-      "end_time": "2024-11-18T23:00:00Z",
-      "title": "⚔️ LES OG'S : PREMIÈRE SOIRÉE",
-      "canceled_until": null,
-      "category": {
-        "id": "21779",
-        "name": "League of Legends"
-      },
-      "is_recurring": true
-    },
-    {
       "id": "eyJzZWdtZW50SUQiOiI4YjgxODkyYi1jOWE3LTQyMzMtYjJjYi03YjQxZGExMjlhNzYiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjo0N30=",
       "start_time": "2024-11-19T19:00:00Z",
       "end_time": "2024-11-19T21:30:00Z",
-      "title": "🍿 POPCORN AVEC LA GRISETTE, TERRACID & MISTERMV",
+      "title": "🍿 POPCORN AVEC MAXIME BIAGGI, GRIM & ETOILES",
       "canceled_until": null,
       "category": {
         "id": "417752",
@@ -37,38 +25,62 @@
       "is_recurring": true
     },
     {
-      "id": "eyJzZWdtZW50SUQiOiJkMjc5YTZhMi1mNjhlLTQ0NTktOGZlNS0yNWU3NmZiNWVmNzEiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjo0OH0=",
-      "start_time": "2024-11-25T19:00:00Z",
-      "end_time": "2024-11-25T23:00:00Z",
-      "title": "⚔️ LES OG'S : PREMIÈRE SOIRÉE",
+      "id": "eyJzZWdtZW50SUQiOiJlYzBmYjg2NS03Yzk3LTQ2N2ItODZlMi03OTcwMDM1Y2MxYzgiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjo0N30=",
+      "start_time": "2024-11-20T13:00:00Z",
+      "end_time": "2024-11-20T14:00:00Z",
+      "title": "🎙 PRÉ LIVE",
+      "canceled_until": null,
+      "category": {
+        "id": "509658",
+        "name": "Just Chatting"
+      },
+      "is_recurring": false
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiI5MGNkMDE3My04Y2NkLTQ2ZTItYTcwOC1jZjg2MGJlODc5ZDQiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjo0N30=",
+      "start_time": "2024-11-20T14:00:00Z",
+      "end_time": "2024-11-20T18:00:00Z",
+      "title": "⚔️ OBJECTIF MASTER",
       "canceled_until": null,
       "category": {
         "id": "21779",
         "name": "League of Legends"
       },
-      "is_recurring": true
+      "is_recurring": false
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiIwOWU4N2E3Ny0zNmJmLTRjOWYtYmI0Yy1hYmEwZjE4OGE4MzUiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjo0N30=",
+      "start_time": "2024-11-21T19:00:00Z",
+      "end_time": "2024-11-21T23:00:00Z",
+      "title": "⚔️ LES OG'S AVEC COACH NISQY",
+      "canceled_until": null,
+      "category": {
+        "id": "21779",
+        "name": "League of Legends"
+      },
+      "is_recurring": false
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiJmZDhkYjQxYi0xMjE3LTQ1M2MtOWQzZi1kY2RmOWZkODdhNjMiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjo0N30=",
+      "start_time": "2024-11-24T11:00:00Z",
+      "end_time": "2024-11-24T13:00:00Z",
+      "title": "🃏 OPENING CARTES NBA AVEC ARDA",
+      "canceled_until": null,
+      "category": {
+        "id": "509658",
+        "name": "Just Chatting"
+      },
+      "is_recurring": false
     },
     {
       "id": "eyJzZWdtZW50SUQiOiI4YjgxODkyYi1jOWE3LTQyMzMtYjJjYi03YjQxZGExMjlhNzYiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjo0OH0=",
       "start_time": "2024-11-26T19:00:00Z",
       "end_time": "2024-11-26T21:30:00Z",
-      "title": "🍿 POPCORN AVEC LA GRISETTE, TERRACID & MISTERMV",
+      "title": "🍿 POPCORN AVEC MAXIME BIAGGI, GRIM & ETOILES",
       "canceled_until": null,
       "category": {
         "id": "417752",
         "name": "Talk Shows & Podcasts"
-      },
-      "is_recurring": true
-    },
-    {
-      "id": "eyJzZWdtZW50SUQiOiJkMjc5YTZhMi1mNjhlLTQ0NTktOGZlNS0yNWU3NmZiNWVmNzEiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjo0OX0=",
-      "start_time": "2024-12-02T19:00:00Z",
-      "end_time": "2024-12-02T23:00:00Z",
-      "title": "⚔️ LES OG'S : PREMIÈRE SOIRÉE",
-      "canceled_until": null,
-      "category": {
-        "id": "21779",
-        "name": "League of Legends"
       },
       "is_recurring": true
     },
@@ -76,23 +88,11 @@
       "id": "eyJzZWdtZW50SUQiOiI4YjgxODkyYi1jOWE3LTQyMzMtYjJjYi03YjQxZGExMjlhNzYiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjo0OX0=",
       "start_time": "2024-12-03T19:00:00Z",
       "end_time": "2024-12-03T21:30:00Z",
-      "title": "🍿 POPCORN AVEC LA GRISETTE, TERRACID & MISTERMV",
+      "title": "🍿 POPCORN AVEC MAXIME BIAGGI, GRIM & ETOILES",
       "canceled_until": null,
       "category": {
         "id": "417752",
         "name": "Talk Shows & Podcasts"
-      },
-      "is_recurring": true
-    },
-    {
-      "id": "eyJzZWdtZW50SUQiOiJkMjc5YTZhMi1mNjhlLTQ0NTktOGZlNS0yNWU3NmZiNWVmNzEiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjo1MH0=",
-      "start_time": "2024-12-09T19:00:00Z",
-      "end_time": "2024-12-09T23:00:00Z",
-      "title": "⚔️ LES OG'S : PREMIÈRE SOIRÉE",
-      "canceled_until": null,
-      "category": {
-        "id": "21779",
-        "name": "League of Legends"
       },
       "is_recurring": true
     },
@@ -100,23 +100,11 @@
       "id": "eyJzZWdtZW50SUQiOiI4YjgxODkyYi1jOWE3LTQyMzMtYjJjYi03YjQxZGExMjlhNzYiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjo1MH0=",
       "start_time": "2024-12-10T19:00:00Z",
       "end_time": "2024-12-10T21:30:00Z",
-      "title": "🍿 POPCORN AVEC LA GRISETTE, TERRACID & MISTERMV",
+      "title": "🍿 POPCORN AVEC MAXIME BIAGGI, GRIM & ETOILES",
       "canceled_until": null,
       "category": {
         "id": "417752",
         "name": "Talk Shows & Podcasts"
-      },
-      "is_recurring": true
-    },
-    {
-      "id": "eyJzZWdtZW50SUQiOiJkMjc5YTZhMi1mNjhlLTQ0NTktOGZlNS0yNWU3NmZiNWVmNzEiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjo1MX0=",
-      "start_time": "2024-12-16T19:00:00Z",
-      "end_time": "2024-12-16T23:00:00Z",
-      "title": "⚔️ LES OG'S : PREMIÈRE SOIRÉE",
-      "canceled_until": null,
-      "category": {
-        "id": "21779",
-        "name": "League of Legends"
       },
       "is_recurring": true
     },
@@ -124,23 +112,11 @@
       "id": "eyJzZWdtZW50SUQiOiI4YjgxODkyYi1jOWE3LTQyMzMtYjJjYi03YjQxZGExMjlhNzYiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjo1MX0=",
       "start_time": "2024-12-17T19:00:00Z",
       "end_time": "2024-12-17T21:30:00Z",
-      "title": "🍿 POPCORN AVEC LA GRISETTE, TERRACID & MISTERMV",
+      "title": "🍿 POPCORN AVEC MAXIME BIAGGI, GRIM & ETOILES",
       "canceled_until": null,
       "category": {
         "id": "417752",
         "name": "Talk Shows & Podcasts"
-      },
-      "is_recurring": true
-    },
-    {
-      "id": "eyJzZWdtZW50SUQiOiJkMjc5YTZhMi1mNjhlLTQ0NTktOGZlNS0yNWU3NmZiNWVmNzEiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjo1Mn0=",
-      "start_time": "2024-12-23T19:00:00Z",
-      "end_time": "2024-12-23T23:00:00Z",
-      "title": "⚔️ LES OG'S : PREMIÈRE SOIRÉE",
-      "canceled_until": null,
-      "category": {
-        "id": "21779",
-        "name": "League of Legends"
       },
       "is_recurring": true
     },
@@ -148,23 +124,11 @@
       "id": "eyJzZWdtZW50SUQiOiI4YjgxODkyYi1jOWE3LTQyMzMtYjJjYi03YjQxZGExMjlhNzYiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjo1Mn0=",
       "start_time": "2024-12-24T19:00:00Z",
       "end_time": "2024-12-24T21:30:00Z",
-      "title": "🍿 POPCORN AVEC LA GRISETTE, TERRACID & MISTERMV",
+      "title": "🍿 POPCORN AVEC MAXIME BIAGGI, GRIM & ETOILES",
       "canceled_until": null,
       "category": {
         "id": "417752",
         "name": "Talk Shows & Podcasts"
-      },
-      "is_recurring": true
-    },
-    {
-      "id": "eyJzZWdtZW50SUQiOiJkMjc5YTZhMi1mNjhlLTQ0NTktOGZlNS0yNWU3NmZiNWVmNzEiLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjoxfQ==",
-      "start_time": "2024-12-30T19:00:00Z",
-      "end_time": "2024-12-30T23:00:00Z",
-      "title": "⚔️ LES OG'S : PREMIÈRE SOIRÉE",
-      "canceled_until": null,
-      "category": {
-        "id": "21779",
-        "name": "League of Legends"
       },
       "is_recurring": true
     },
@@ -172,23 +136,11 @@
       "id": "eyJzZWdtZW50SUQiOiI4YjgxODkyYi1jOWE3LTQyMzMtYjJjYi03YjQxZGExMjlhNzYiLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjoxfQ==",
       "start_time": "2024-12-31T19:00:00Z",
       "end_time": "2024-12-31T21:30:00Z",
-      "title": "🍿 POPCORN AVEC LA GRISETTE, TERRACID & MISTERMV",
+      "title": "🍿 POPCORN AVEC MAXIME BIAGGI, GRIM & ETOILES",
       "canceled_until": null,
       "category": {
         "id": "417752",
         "name": "Talk Shows & Podcasts"
-      },
-      "is_recurring": true
-    },
-    {
-      "id": "eyJzZWdtZW50SUQiOiJkMjc5YTZhMi1mNjhlLTQ0NTktOGZlNS0yNWU3NmZiNWVmNzEiLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjoyfQ==",
-      "start_time": "2025-01-06T19:00:00Z",
-      "end_time": "2025-01-06T23:00:00Z",
-      "title": "⚔️ LES OG'S : PREMIÈRE SOIRÉE",
-      "canceled_until": null,
-      "category": {
-        "id": "21779",
-        "name": "League of Legends"
       },
       "is_recurring": true
     },
@@ -196,23 +148,11 @@
       "id": "eyJzZWdtZW50SUQiOiI4YjgxODkyYi1jOWE3LTQyMzMtYjJjYi03YjQxZGExMjlhNzYiLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjoyfQ==",
       "start_time": "2025-01-07T19:00:00Z",
       "end_time": "2025-01-07T21:30:00Z",
-      "title": "🍿 POPCORN AVEC LA GRISETTE, TERRACID & MISTERMV",
+      "title": "🍿 POPCORN AVEC MAXIME BIAGGI, GRIM & ETOILES",
       "canceled_until": null,
       "category": {
         "id": "417752",
         "name": "Talk Shows & Podcasts"
-      },
-      "is_recurring": true
-    },
-    {
-      "id": "eyJzZWdtZW50SUQiOiJkMjc5YTZhMi1mNjhlLTQ0NTktOGZlNS0yNWU3NmZiNWVmNzEiLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjozfQ==",
-      "start_time": "2025-01-13T19:00:00Z",
-      "end_time": "2025-01-13T23:00:00Z",
-      "title": "⚔️ LES OG'S : PREMIÈRE SOIRÉE",
-      "canceled_until": null,
-      "category": {
-        "id": "21779",
-        "name": "League of Legends"
       },
       "is_recurring": true
     },
@@ -220,7 +160,7 @@
       "id": "eyJzZWdtZW50SUQiOiI4YjgxODkyYi1jOWE3LTQyMzMtYjJjYi03YjQxZGExMjlhNzYiLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjozfQ==",
       "start_time": "2025-01-14T19:00:00Z",
       "end_time": "2025-01-14T21:30:00Z",
-      "title": "🍿 POPCORN AVEC LA GRISETTE, TERRACID & MISTERMV",
+      "title": "🍿 POPCORN AVEC MAXIME BIAGGI, GRIM & ETOILES",
       "canceled_until": null,
       "category": {
         "id": "417752",
@@ -229,22 +169,82 @@
       "is_recurring": true
     },
     {
-      "id": "eyJzZWdtZW50SUQiOiJkMjc5YTZhMi1mNjhlLTQ0NTktOGZlNS0yNWU3NmZiNWVmNzEiLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjo0fQ==",
-      "start_time": "2025-01-20T19:00:00Z",
-      "end_time": "2025-01-20T23:00:00Z",
-      "title": "⚔️ LES OG'S : PREMIÈRE SOIRÉE",
+      "id": "eyJzZWdtZW50SUQiOiI4YjgxODkyYi1jOWE3LTQyMzMtYjJjYi03YjQxZGExMjlhNzYiLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjo0fQ==",
+      "start_time": "2025-01-21T19:00:00Z",
+      "end_time": "2025-01-21T21:30:00Z",
+      "title": "🍿 POPCORN AVEC MAXIME BIAGGI, GRIM & ETOILES",
       "canceled_until": null,
       "category": {
-        "id": "21779",
-        "name": "League of Legends"
+        "id": "417752",
+        "name": "Talk Shows & Podcasts"
       },
       "is_recurring": true
     },
     {
-      "id": "eyJzZWdtZW50SUQiOiI4YjgxODkyYi1jOWE3LTQyMzMtYjJjYi03YjQxZGExMjlhNzYiLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjo0fQ==",
-      "start_time": "2025-01-21T19:00:00Z",
-      "end_time": "2025-01-21T21:30:00Z",
-      "title": "🍿 POPCORN AVEC LA GRISETTE, TERRACID & MISTERMV",
+      "id": "eyJzZWdtZW50SUQiOiI4YjgxODkyYi1jOWE3LTQyMzMtYjJjYi03YjQxZGExMjlhNzYiLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjo1fQ==",
+      "start_time": "2025-01-28T19:00:00Z",
+      "end_time": "2025-01-28T21:30:00Z",
+      "title": "🍿 POPCORN AVEC MAXIME BIAGGI, GRIM & ETOILES",
+      "canceled_until": null,
+      "category": {
+        "id": "417752",
+        "name": "Talk Shows & Podcasts"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiI4YjgxODkyYi1jOWE3LTQyMzMtYjJjYi03YjQxZGExMjlhNzYiLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjo2fQ==",
+      "start_time": "2025-02-04T19:00:00Z",
+      "end_time": "2025-02-04T21:30:00Z",
+      "title": "🍿 POPCORN AVEC MAXIME BIAGGI, GRIM & ETOILES",
+      "canceled_until": null,
+      "category": {
+        "id": "417752",
+        "name": "Talk Shows & Podcasts"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiI4YjgxODkyYi1jOWE3LTQyMzMtYjJjYi03YjQxZGExMjlhNzYiLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjo3fQ==",
+      "start_time": "2025-02-11T19:00:00Z",
+      "end_time": "2025-02-11T21:30:00Z",
+      "title": "🍿 POPCORN AVEC MAXIME BIAGGI, GRIM & ETOILES",
+      "canceled_until": null,
+      "category": {
+        "id": "417752",
+        "name": "Talk Shows & Podcasts"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiI4YjgxODkyYi1jOWE3LTQyMzMtYjJjYi03YjQxZGExMjlhNzYiLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjo4fQ==",
+      "start_time": "2025-02-18T19:00:00Z",
+      "end_time": "2025-02-18T21:30:00Z",
+      "title": "🍿 POPCORN AVEC MAXIME BIAGGI, GRIM & ETOILES",
+      "canceled_until": null,
+      "category": {
+        "id": "417752",
+        "name": "Talk Shows & Podcasts"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiI4YjgxODkyYi1jOWE3LTQyMzMtYjJjYi03YjQxZGExMjlhNzYiLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjo5fQ==",
+      "start_time": "2025-02-25T19:00:00Z",
+      "end_time": "2025-02-25T21:30:00Z",
+      "title": "🍿 POPCORN AVEC MAXIME BIAGGI, GRIM & ETOILES",
+      "canceled_until": null,
+      "category": {
+        "id": "417752",
+        "name": "Talk Shows & Podcasts"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiI4YjgxODkyYi1jOWE3LTQyMzMtYjJjYi03YjQxZGExMjlhNzYiLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjoxMH0=",
+      "start_time": "2025-03-04T19:00:00Z",
+      "end_time": "2025-03-04T21:30:00Z",
+      "title": "🍿 POPCORN AVEC MAXIME BIAGGI, GRIM & ETOILES",
       "canceled_until": null,
       "category": {
         "id": "417752",
