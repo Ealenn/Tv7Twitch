@@ -7,23 +7,11 @@
     "broadcaster_type": "partner",
     "description": "",
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/3cdae7df-600c-4833-8dfe-8d2abc5a3b25-profile_image-300x300.png",
-    "offline_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/5f21bce5-59e4-4134-bfd1-dc4064bb1ce1-channel_offline_image-1920x1080.png",
+    "offline_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/b2ff019a-3504-43f3-a99d-7558d2278539-channel_offline_image-1920x1080.png",
     "view_count": 0,
     "created_at": "2013-02-05T19:20:22Z"
   },
   "schedulers": [
-    {
-      "id": "eyJzZWdtZW50SUQiOiI4YjgxODkyYi1jOWE3LTQyMzMtYjJjYi03YjQxZGExMjlhNzYiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjo0N30=",
-      "start_time": "2024-11-19T19:00:00Z",
-      "end_time": "2024-11-19T21:30:00Z",
-      "title": "🍿 POPCORN AVEC MAXIME BIAGGI, GRIM & ETOILES",
-      "canceled_until": null,
-      "category": {
-        "id": "417752",
-        "name": "Talk Shows & Podcasts"
-      },
-      "is_recurring": true
-    },
     {
       "id": "eyJzZWdtZW50SUQiOiJlYzBmYjg2NS03Yzk3LTQ2N2ItODZlMi03OTcwMDM1Y2MxYzgiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjo0N30=",
       "start_time": "2024-11-20T13:00:00Z",
@@ -244,6 +232,18 @@
       "id": "eyJzZWdtZW50SUQiOiI4YjgxODkyYi1jOWE3LTQyMzMtYjJjYi03YjQxZGExMjlhNzYiLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjoxMH0=",
       "start_time": "2025-03-04T19:00:00Z",
       "end_time": "2025-03-04T21:30:00Z",
+      "title": "🍿 POPCORN AVEC MAXIME BIAGGI, GRIM & ETOILES",
+      "canceled_until": null,
+      "category": {
+        "id": "417752",
+        "name": "Talk Shows & Podcasts"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiI4YjgxODkyYi1jOWE3LTQyMzMtYjJjYi03YjQxZGExMjlhNzYiLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjoxMX0=",
+      "start_time": "2025-03-11T19:00:00Z",
+      "end_time": "2025-03-11T21:30:00Z",
       "title": "🍿 POPCORN AVEC MAXIME BIAGGI, GRIM & ETOILES",
       "canceled_until": null,
       "category": {

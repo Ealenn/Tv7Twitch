@@ -13,18 +13,6 @@
   },
   "schedulers": [
     {
-      "id": "eyJzZWdtZW50SUQiOiJjYjYyNzNjNy04OGQ1LTQzMWYtOGYxMS1hNDc2MjM0MTZhZmUiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjo0N30=",
-      "start_time": "2024-11-19T19:00:00Z",
-      "end_time": "2024-11-19T23:00:00Z",
-      "title": "Training Valorant Dreamhack avec MoMaN, HyP, Cyvoph et Apo",
-      "canceled_until": null,
-      "category": {
-        "id": "516575",
-        "name": "VALORANT"
-      },
-      "is_recurring": false
-    },
-    {
       "id": "eyJzZWdtZW50SUQiOiIzODMwNDYxMC1kZWU4LTQ1ZWEtYjEzNy00ZGVjZDAxMjk4NWIiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjo0N30=",
       "start_time": "2024-11-20T15:00:00Z",
       "end_time": "2024-11-20T18:00:00Z",
@@ -244,6 +232,18 @@
       "id": "eyJzZWdtZW50SUQiOiJiNTE0YTNkMC0xM2IxLTRjMGYtYTAzMy05OTdiYzc4Yjc1YjEiLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjo4fQ==",
       "start_time": "2025-02-17T19:30:00Z",
       "end_time": "2025-02-17T23:00:00Z",
+      "title": "Soirée du lundi",
+      "canceled_until": null,
+      "category": {
+        "id": "509658",
+        "name": "Just Chatting"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiJiNTE0YTNkMC0xM2IxLTRjMGYtYTAzMy05OTdiYzc4Yjc1YjEiLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjo5fQ==",
+      "start_time": "2025-02-24T19:30:00Z",
+      "end_time": "2025-02-24T23:00:00Z",
       "title": "Soirée du lundi",
       "canceled_until": null,
       "category": {
