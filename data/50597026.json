@@ -13,30 +13,6 @@
   },
   "schedulers": [
     {
-      "id": "eyJzZWdtZW50SUQiOiI4YmFiMzYwZC1iYTQ5LTQyZWItYjMwOS1lYTI0ZWFiMWQxMWYiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjo0N30=",
-      "start_time": "2024-11-20T10:00:00Z",
-      "end_time": "2024-11-20T15:00:00Z",
-      "title": "Fin de Two Falls",
-      "canceled_until": null,
-      "category": {
-        "id": "1890083907",
-        "name": "Two Falls: Nishu Takuashina"
-      },
-      "is_recurring": true
-    },
-    {
-      "id": "eyJzZWdtZW50SUQiOiIyMzI4MDBmNC1iYTcwLTQ1ODAtYmJiZi1mNGQ4YWRkNTU3ODUiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjo0N30=",
-      "start_time": "2024-11-20T19:00:00Z",
-      "end_time": "2024-11-20T23:00:00Z",
-      "title": "Maitre des Fleurs spécial avec Guill !",
-      "canceled_until": null,
-      "category": {
-        "id": "338715930",
-        "name": "Maitre des Fleurs"
-      },
-      "is_recurring": true
-    },
-    {
       "id": "eyJzZWdtZW50SUQiOiI3YWJjNjEyZS0yMTFhLTRiYmYtODZiMy1jNTAzZDEwMzkyMDEiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjo0N30=",
       "start_time": "2024-11-21T10:00:00Z",
       "end_time": "2024-11-21T14:00:00Z",
@@ -117,18 +93,6 @@
       "category": {
         "id": "1890083907",
         "name": "Two Falls: Nishu Takuashina"
-      },
-      "is_recurring": true
-    },
-    {
-      "id": "eyJzZWdtZW50SUQiOiIyMzI4MDBmNC1iYTcwLTQ1ODAtYmJiZi1mNGQ4YWRkNTU3ODUiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjo0OH0=",
-      "start_time": "2024-11-27T19:00:00Z",
-      "end_time": "2024-11-27T23:00:00Z",
-      "title": "Maitre des Fleurs spécial avec Guill !",
-      "canceled_until": null,
-      "category": {
-        "id": "338715930",
-        "name": "Maitre des Fleurs"
       },
       "is_recurring": true
     },
@@ -217,18 +181,6 @@
       "is_recurring": true
     },
     {
-      "id": "eyJzZWdtZW50SUQiOiIyMzI4MDBmNC1iYTcwLTQ1ODAtYmJiZi1mNGQ4YWRkNTU3ODUiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjo0OX0=",
-      "start_time": "2024-12-04T19:00:00Z",
-      "end_time": "2024-12-04T23:00:00Z",
-      "title": "Maitre des Fleurs spécial avec Guill !",
-      "canceled_until": null,
-      "category": {
-        "id": "338715930",
-        "name": "Maitre des Fleurs"
-      },
-      "is_recurring": true
-    },
-    {
       "id": "eyJzZWdtZW50SUQiOiI3YWJjNjEyZS0yMTFhLTRiYmYtODZiMy1jNTAzZDEwMzkyMDEiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjo0OX0=",
       "start_time": "2024-12-05T10:00:00Z",
       "end_time": "2024-12-05T14:00:00Z",
@@ -244,6 +196,54 @@
       "id": "eyJzZWdtZW50SUQiOiIyNmM1YjIxYS05NmExLTQwZDUtYWZiNS01MmNhMDM5ZjQ1MGQiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjo0OX0=",
       "start_time": "2024-12-05T14:00:00Z",
       "end_time": "2024-12-05T18:00:00Z",
+      "title": "On continue Mario & Luigi : L'épopée fraternelle",
+      "canceled_until": null,
+      "category": {
+        "id": "1505767674",
+        "name": "Mario & Luigi: Brothership"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiJkMTBiMjQyNS1lNTQzLTRlNmMtYTViNi02Y2VhOGZmOWY4YWQiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjo0OX0=",
+      "start_time": "2024-12-06T10:00:00Z",
+      "end_time": "2024-12-06T16:00:00Z",
+      "title": "Bread and Fred avec Vickyspleen",
+      "canceled_until": null,
+      "category": {
+        "id": "1568659111",
+        "name": "Bread & Fred"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiIzN2ZhOWU2NC02NjA4LTRmZjgtOTEwOC1kZTgxN2JjMTdjYzMiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjo1MH0=",
+      "start_time": "2024-12-09T10:00:00Z",
+      "end_time": "2024-12-09T17:00:00Z",
+      "title": "Culture & plaisir sur le Maitre des Fleurs",
+      "canceled_until": null,
+      "category": {
+        "id": "338715930",
+        "name": "Maitre des Fleurs"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiI5ODFhOTg5Yi1jYzljLTRhMmUtYTlmYi0wY2UwMGY3ODdhM2MiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjo1MH0=",
+      "start_time": "2024-12-10T10:00:00Z",
+      "end_time": "2024-12-10T14:00:00Z",
+      "title": "CodeNames avé les potes",
+      "canceled_until": null,
+      "category": {
+        "id": "508509",
+        "name": "Codenames"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiJkMWZmY2EwOC05ZWJmLTQyZTQtYTFjNy1jYTI5MmRiYzBmYmIiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjo1MH0=",
+      "start_time": "2024-12-10T14:00:00Z",
+      "end_time": "2024-12-10T18:00:00Z",
       "title": "On continue Mario & Luigi : L'épopée fraternelle",
       "canceled_until": null,
       "category": {
