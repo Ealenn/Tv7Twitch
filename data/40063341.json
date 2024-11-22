@@ -13,18 +13,6 @@
   },
   "schedulers": [
     {
-      "id": "eyJzZWdtZW50SUQiOiIwOWU4N2E3Ny0zNmJmLTRjOWYtYmI0Yy1hYmEwZjE4OGE4MzUiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjo0N30=",
-      "start_time": "2024-11-21T19:00:00Z",
-      "end_time": "2024-11-21T23:00:00Z",
-      "title": "⚔️ LES OG'S AVEC COACH NISQY",
-      "canceled_until": null,
-      "category": {
-        "id": "21779",
-        "name": "League of Legends"
-      },
-      "is_recurring": false
-    },
-    {
       "id": "eyJzZWdtZW50SUQiOiJmZDhkYjQxYi0xMjE3LTQ1M2MtOWQzZi1kY2RmOWZkODdhNjMiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjo0N30=",
       "start_time": "2024-11-24T11:00:00Z",
       "end_time": "2024-11-24T13:00:00Z",
@@ -244,6 +232,18 @@
       "id": "eyJzZWdtZW50SUQiOiI4YjgxODkyYi1jOWE3LTQyMzMtYjJjYi03YjQxZGExMjlhNzYiLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjoxM30=",
       "start_time": "2025-03-25T19:00:00Z",
       "end_time": "2025-03-25T21:30:00Z",
+      "title": "🍿 POPCORN AVEC MAXIME BIAGGI, GRIM & ETOILES",
+      "canceled_until": null,
+      "category": {
+        "id": "417752",
+        "name": "Talk Shows & Podcasts"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiI4YjgxODkyYi1jOWE3LTQyMzMtYjJjYi03YjQxZGExMjlhNzYiLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjoxNH0=",
+      "start_time": "2025-04-01T18:00:00Z",
+      "end_time": "2025-04-01T20:30:00Z",
       "title": "🍿 POPCORN AVEC MAXIME BIAGGI, GRIM & ETOILES",
       "canceled_until": null,
       "category": {
