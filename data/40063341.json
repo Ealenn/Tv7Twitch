@@ -13,18 +13,6 @@
   },
   "schedulers": [
     {
-      "id": "eyJzZWdtZW50SUQiOiJmZDhkYjQxYi0xMjE3LTQ1M2MtOWQzZi1kY2RmOWZkODdhNjMiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjo0N30=",
-      "start_time": "2024-11-24T11:00:00Z",
-      "end_time": "2024-11-24T13:00:00Z",
-      "title": "🃏 OPENING CARTES NBA AVEC ARDA",
-      "canceled_until": null,
-      "category": {
-        "id": "509658",
-        "name": "Just Chatting"
-      },
-      "is_recurring": false
-    },
-    {
       "id": "eyJzZWdtZW50SUQiOiI4YjgxODkyYi1jOWE3LTQyMzMtYjJjYi03YjQxZGExMjlhNzYiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjo0OH0=",
       "start_time": "2024-11-26T19:00:00Z",
       "end_time": "2024-11-26T21:30:00Z",
@@ -244,6 +232,18 @@
       "id": "eyJzZWdtZW50SUQiOiI4YjgxODkyYi1jOWE3LTQyMzMtYjJjYi03YjQxZGExMjlhNzYiLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjoxNH0=",
       "start_time": "2025-04-01T18:00:00Z",
       "end_time": "2025-04-01T20:30:00Z",
+      "title": "🍿 POPCORN AVEC MAXIME BIAGGI, GRIM & ETOILES",
+      "canceled_until": null,
+      "category": {
+        "id": "417752",
+        "name": "Talk Shows & Podcasts"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiI4YjgxODkyYi1jOWE3LTQyMzMtYjJjYi03YjQxZGExMjlhNzYiLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjoxNX0=",
+      "start_time": "2025-04-08T18:00:00Z",
+      "end_time": "2025-04-08T20:30:00Z",
       "title": "🍿 POPCORN AVEC MAXIME BIAGGI, GRIM & ETOILES",
       "canceled_until": null,
       "category": {
