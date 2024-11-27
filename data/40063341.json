@@ -7,23 +7,11 @@
     "broadcaster_type": "partner",
     "description": "",
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/3cdae7df-600c-4833-8dfe-8d2abc5a3b25-profile_image-300x300.png",
-    "offline_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/add8991e-9997-4e5b-9ce7-57efbcfc4de5-channel_offline_image-1920x1080.png",
+    "offline_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/5173a207-a999-4670-b21e-62a325aedaf6-channel_offline_image-1920x1080.png",
     "view_count": 0,
     "created_at": "2013-02-05T19:20:22Z"
   },
   "schedulers": [
-    {
-      "id": "eyJzZWdtZW50SUQiOiI4YjgxODkyYi1jOWE3LTQyMzMtYjJjYi03YjQxZGExMjlhNzYiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjo0OH0=",
-      "start_time": "2024-11-26T19:00:00Z",
-      "end_time": "2024-11-26T21:30:00Z",
-      "title": "🍿 POPCORN AVEC ADIL RAMI, NASKID & YASS",
-      "canceled_until": null,
-      "category": {
-        "id": "417752",
-        "name": "Talk Shows & Podcasts"
-      },
-      "is_recurring": true
-    },
     {
       "id": "eyJzZWdtZW50SUQiOiIxZjUzNzkzOC03NzdlLTQ0YzAtYWU4OS0yNzhjNzlhYmE2YTAiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjo0OH0=",
       "start_time": "2024-11-27T13:00:00Z",
@@ -249,6 +237,18 @@
       "category": {
         "id": "21779",
         "name": "League of Legends"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiI4YjgxODkyYi1jOWE3LTQyMzMtYjJjYi03YjQxZGExMjlhNzYiLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjo0fQ==",
+      "start_time": "2025-01-21T19:00:00Z",
+      "end_time": "2025-01-21T21:30:00Z",
+      "title": "🍿 POPCORN AVEC ADIL RAMI, NASKID & YASS",
+      "canceled_until": null,
+      "category": {
+        "id": "417752",
+        "name": "Talk Shows & Podcasts"
       },
       "is_recurring": true
     }

@@ -13,18 +13,6 @@
   },
   "schedulers": [
     {
-      "id": "eyJzZWdtZW50SUQiOiI4ZTRhNGJiOS1mZmFmLTQ0YjctOWFhMy04ZTFkMjRjY2Q5OWYiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjo0OH0=",
-      "start_time": "2024-11-27T17:00:00Z",
-      "end_time": "2024-11-27T19:00:00Z",
-      "title": "DE RETOUR à MONTPELLIER !",
-      "canceled_until": null,
-      "category": {
-        "id": "509658",
-        "name": "Just Chatting"
-      },
-      "is_recurring": false
-    },
-    {
       "id": "eyJzZWdtZW50SUQiOiI3MGFjMTAyZi0zYzkyLTQ3YjEtOTczOC1iMzk2MThiNGE2MDEiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjo0OH0=",
       "start_time": "2024-11-27T19:00:00Z",
       "end_time": "2024-11-27T21:00:00Z",
