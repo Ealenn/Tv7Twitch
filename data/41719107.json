@@ -13,18 +13,6 @@
   },
   "schedulers": [
     {
-      "id": "eyJzZWdtZW50SUQiOiI3MGFjMTAyZi0zYzkyLTQ3YjEtOTczOC1iMzk2MThiNGE2MDEiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjo0OH0=",
-      "start_time": "2024-11-27T19:00:00Z",
-      "end_time": "2024-11-27T21:00:00Z",
-      "title": "Découverte de Strinova avec Gius, Kennystream, Lapi et MoMaN",
-      "canceled_until": null,
-      "category": {
-        "id": "1515015750",
-        "name": "Strinova"
-      },
-      "is_recurring": false
-    },
-    {
       "id": "eyJzZWdtZW50SUQiOiI2MDM4YWEyYi00YzAwLTRhZDMtYjNjMS04MTYxZDZkZGY4N2EiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjo0OH0=",
       "start_time": "2024-11-28T19:00:00Z",
       "end_time": "2024-11-28T21:00:00Z",

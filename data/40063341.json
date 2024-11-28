@@ -13,30 +13,6 @@
   },
   "schedulers": [
     {
-      "id": "eyJzZWdtZW50SUQiOiIxZjUzNzkzOC03NzdlLTQ0YzAtYWU4OS0yNzhjNzlhYmE2YTAiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjo0OH0=",
-      "start_time": "2024-11-27T13:00:00Z",
-      "end_time": "2024-11-27T14:00:00Z",
-      "title": "🎙 PRÉ-LIVE",
-      "canceled_until": null,
-      "category": {
-        "id": "509658",
-        "name": "Just Chatting"
-      },
-      "is_recurring": false
-    },
-    {
-      "id": "eyJzZWdtZW50SUQiOiIxYzNmYzcxOC04N2RjLTQzNmQtODEwZi1mOWExYmQ4YTUxZTEiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjo0OH0=",
-      "start_time": "2024-11-27T14:00:00Z",
-      "end_time": "2024-11-27T18:00:00Z",
-      "title": "🎧 BINGO JBL SUR LEAGUE OF LEGENDS",
-      "canceled_until": null,
-      "category": {
-        "id": "21779",
-        "name": "League of Legends"
-      },
-      "is_recurring": false
-    },
-    {
       "id": "eyJzZWdtZW50SUQiOiI5NDRjY2Q3MC1mZTM0LTQ2YWUtOWYyOS05MTkxYTBkMGQyMDIiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjo0OH0=",
       "start_time": "2024-11-28T19:00:00Z",
       "end_time": "2024-11-28T23:00:00Z",
@@ -244,6 +220,30 @@
       "id": "eyJzZWdtZW50SUQiOiI4YjgxODkyYi1jOWE3LTQyMzMtYjJjYi03YjQxZGExMjlhNzYiLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjo0fQ==",
       "start_time": "2025-01-21T19:00:00Z",
       "end_time": "2025-01-21T21:30:00Z",
+      "title": "🍿 POPCORN AVEC ADIL RAMI, NASKID & YASS",
+      "canceled_until": null,
+      "category": {
+        "id": "417752",
+        "name": "Talk Shows & Podcasts"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiI5NDRjY2Q3MC1mZTM0LTQ2YWUtOWYyOS05MTkxYTBkMGQyMDIiLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjo0fQ==",
+      "start_time": "2025-01-23T19:00:00Z",
+      "end_time": "2025-01-23T23:00:00Z",
+      "title": "✨ LES OG'SSSS SUR LA FAILLE",
+      "canceled_until": null,
+      "category": {
+        "id": "21779",
+        "name": "League of Legends"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiI4YjgxODkyYi1jOWE3LTQyMzMtYjJjYi03YjQxZGExMjlhNzYiLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjo1fQ==",
+      "start_time": "2025-01-28T19:00:00Z",
+      "end_time": "2025-01-28T21:30:00Z",
       "title": "🍿 POPCORN AVEC ADIL RAMI, NASKID & YASS",
       "canceled_until": null,
       "category": {
