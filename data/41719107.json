@@ -13,18 +13,6 @@
   },
   "schedulers": [
     {
-      "id": "eyJzZWdtZW50SUQiOiI3M2RhMGEzYS1lNTE5LTQwZTctYjY0MC05ZWQyOGE5NTQ1MDkiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjo0OH0=",
-      "start_time": "2024-11-30T19:00:00Z",
-      "end_time": "2024-11-30T22:00:00Z",
-      "title": "2e live de Supervive avec MoMaN, Kennystream et Gius",
-      "canceled_until": null,
-      "category": {
-        "id": "721156300",
-        "name": "SUPERVIVE"
-      },
-      "is_recurring": false
-    },
-    {
       "id": "eyJzZWdtZW50SUQiOiI2MmQ5ZDVlZi05MzNlLTRmODQtYTNjYy00Y2QyOTFiMjg0YTAiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjo0OH0=",
       "start_time": "2024-12-01T19:00:00Z",
       "end_time": "2024-12-01T23:30:00Z",
