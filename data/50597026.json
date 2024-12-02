@@ -25,38 +25,26 @@
       "is_recurring": true
     },
     {
-      "id": "eyJzZWdtZW50SUQiOiI5ODFhOTg5Yi1jYzljLTRhMmUtYTlmYi0wY2UwMGY3ODdhM2MiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjo0OX0=",
-      "start_time": "2024-12-03T10:00:00Z",
-      "end_time": "2024-12-03T14:00:00Z",
-      "title": "Codenames avé les potes",
-      "canceled_until": null,
-      "category": {
-        "id": "508509",
-        "name": "Codenames"
-      },
-      "is_recurring": true
-    },
-    {
       "id": "eyJzZWdtZW50SUQiOiJkMWZmY2EwOC05ZWJmLTQyZTQtYTFjNy1jYTI5MmRiYzBmYmIiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjo0OX0=",
-      "start_time": "2024-12-03T14:00:00Z",
-      "end_time": "2024-12-03T18:00:00Z",
-      "title": "On continue Mario & Luigi : L'épopée fraternelle",
+      "start_time": "2024-12-03T19:00:00Z",
+      "end_time": "2024-12-03T22:00:00Z",
+      "title": "Popcorn (sur la chaîne de PA)",
       "canceled_until": null,
       "category": {
-        "id": "1505767674",
-        "name": "Mario & Luigi: Brothership"
+        "id": "509658",
+        "name": "Just Chatting"
       },
       "is_recurring": true
     },
     {
       "id": "eyJzZWdtZW50SUQiOiI4YmFiMzYwZC1iYTQ5LTQyZWItYjMwOS1lYTI0ZWFiMWQxMWYiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjo0OX0=",
-      "start_time": "2024-12-04T19:00:00Z",
-      "end_time": "2024-12-04T23:00:00Z",
-      "title": "Maitre des Fleurs spécial avec Guill",
+      "start_time": "2024-12-04T15:00:00Z",
+      "end_time": "2024-12-04T20:00:00Z",
+      "title": "Début de l'aventure Dofus 3.0 !",
       "canceled_until": null,
       "category": {
-        "id": "338715930",
-        "name": "Maitre des Fleurs"
+        "id": "20596",
+        "name": "Dofus"
       },
       "is_recurring": true
     },
@@ -64,23 +52,71 @@
       "id": "eyJzZWdtZW50SUQiOiI3YWJjNjEyZS0yMTFhLTRiYmYtODZiMy1jNTAzZDEwMzkyMDEiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjo0OX0=",
       "start_time": "2024-12-05T10:00:00Z",
       "end_time": "2024-12-05T14:00:00Z",
-      "title": "On découvre Unrailed 2 ",
+      "title": "Lycans avé les copains",
       "canceled_until": null,
       "category": {
-        "id": "1985775240",
-        "name": "Unrailed 2: Back on Track"
+        "id": "1494074023",
+        "name": "Lycans"
       },
       "is_recurring": true
     },
     {
       "id": "eyJzZWdtZW50SUQiOiIyNmM1YjIxYS05NmExLTQwZDUtYWZiNS01MmNhMDM5ZjQ1MGQiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjo0OX0=",
-      "start_time": "2024-12-06T10:00:00Z",
-      "end_time": "2024-12-06T17:00:00Z",
-      "title": "On continue et termine Mario & Luigi : L'épopée fraternelle",
+      "start_time": "2024-12-05T14:00:00Z",
+      "end_time": "2024-12-05T18:00:00Z",
+      "title": "La fin de Mario & Luigi : L'épopée fraternelle ?",
       "canceled_until": null,
       "category": {
         "id": "1505767674",
         "name": "Mario & Luigi: Brothership"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiJkMWZjYWQ3Zi04YWM4LTQ4MzEtODExMi1kYjgzYzkzYTE4NDAiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjo0OX0=",
+      "start_time": "2024-12-06T13:00:00Z",
+      "end_time": "2024-12-06T19:00:00Z",
+      "title": "On continue la découverte de Dofus",
+      "canceled_until": null,
+      "category": {
+        "id": "20596",
+        "name": "Dofus"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiIxYzUxOGI5Zi0yYjI2LTQ5ZmYtOWQzNC0xODA2OWJiNjMxNWYiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjo0OX0=",
+      "start_time": "2024-12-06T19:00:00Z",
+      "end_time": "2024-12-06T23:00:00Z",
+      "title": "Grosse soirée Lycans !",
+      "canceled_until": null,
+      "category": {
+        "id": "1494074023",
+        "name": "Lycans"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiIyMDY2ZjRmZS0xOWE0LTRjNzctOTMzMC1mYjgwZmVlMWU4MWEiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjo0OX0=",
+      "start_time": "2024-12-08T14:00:00Z",
+      "end_time": "2024-12-08T19:00:00Z",
+      "title": "Balade du dimanche sur Dofus",
+      "canceled_until": null,
+      "category": {
+        "id": "20596",
+        "name": "Dofus"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiIzZjQzOTQxZC04Y2JkLTQxMDgtODE2NS1hYmM5NmEyNDZiMzUiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjo0OX0=",
+      "start_time": "2024-12-08T19:00:00Z",
+      "end_time": "2024-12-08T23:00:00Z",
+      "title": "Soirée The Crew Motorfest !",
+      "canceled_until": null,
+      "category": {
+        "id": "666511413",
+        "name": "The Crew: Motorfest"
       },
       "is_recurring": true
     },
@@ -97,38 +133,26 @@
       "is_recurring": true
     },
     {
-      "id": "eyJzZWdtZW50SUQiOiI5ODFhOTg5Yi1jYzljLTRhMmUtYTlmYi0wY2UwMGY3ODdhM2MiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjo1MH0=",
-      "start_time": "2024-12-10T10:00:00Z",
-      "end_time": "2024-12-10T14:00:00Z",
-      "title": "Codenames avé les potes",
-      "canceled_until": null,
-      "category": {
-        "id": "508509",
-        "name": "Codenames"
-      },
-      "is_recurring": true
-    },
-    {
       "id": "eyJzZWdtZW50SUQiOiJkMWZmY2EwOC05ZWJmLTQyZTQtYTFjNy1jYTI5MmRiYzBmYmIiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjo1MH0=",
-      "start_time": "2024-12-10T14:00:00Z",
-      "end_time": "2024-12-10T18:00:00Z",
-      "title": "On continue Mario & Luigi : L'épopée fraternelle",
+      "start_time": "2024-12-10T19:00:00Z",
+      "end_time": "2024-12-10T22:00:00Z",
+      "title": "Popcorn (sur la chaîne de PA)",
       "canceled_until": null,
       "category": {
-        "id": "1505767674",
-        "name": "Mario & Luigi: Brothership"
+        "id": "509658",
+        "name": "Just Chatting"
       },
       "is_recurring": true
     },
     {
       "id": "eyJzZWdtZW50SUQiOiI4YmFiMzYwZC1iYTQ5LTQyZWItYjMwOS1lYTI0ZWFiMWQxMWYiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjo1MH0=",
-      "start_time": "2024-12-11T19:00:00Z",
-      "end_time": "2024-12-11T23:00:00Z",
-      "title": "Maitre des Fleurs spécial avec Guill",
+      "start_time": "2024-12-11T15:00:00Z",
+      "end_time": "2024-12-11T20:00:00Z",
+      "title": "Début de l'aventure Dofus 3.0 !",
       "canceled_until": null,
       "category": {
-        "id": "338715930",
-        "name": "Maitre des Fleurs"
+        "id": "20596",
+        "name": "Dofus"
       },
       "is_recurring": true
     },
@@ -136,23 +160,71 @@
       "id": "eyJzZWdtZW50SUQiOiI3YWJjNjEyZS0yMTFhLTRiYmYtODZiMy1jNTAzZDEwMzkyMDEiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjo1MH0=",
       "start_time": "2024-12-12T10:00:00Z",
       "end_time": "2024-12-12T14:00:00Z",
-      "title": "On découvre Unrailed 2 ",
+      "title": "Lycans avé les copains",
       "canceled_until": null,
       "category": {
-        "id": "1985775240",
-        "name": "Unrailed 2: Back on Track"
+        "id": "1494074023",
+        "name": "Lycans"
       },
       "is_recurring": true
     },
     {
       "id": "eyJzZWdtZW50SUQiOiIyNmM1YjIxYS05NmExLTQwZDUtYWZiNS01MmNhMDM5ZjQ1MGQiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjo1MH0=",
-      "start_time": "2024-12-13T10:00:00Z",
-      "end_time": "2024-12-13T17:00:00Z",
-      "title": "On continue et termine Mario & Luigi : L'épopée fraternelle",
+      "start_time": "2024-12-12T14:00:00Z",
+      "end_time": "2024-12-12T18:00:00Z",
+      "title": "La fin de Mario & Luigi : L'épopée fraternelle ?",
       "canceled_until": null,
       "category": {
         "id": "1505767674",
         "name": "Mario & Luigi: Brothership"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiJkMWZjYWQ3Zi04YWM4LTQ4MzEtODExMi1kYjgzYzkzYTE4NDAiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjo1MH0=",
+      "start_time": "2024-12-13T13:00:00Z",
+      "end_time": "2024-12-13T19:00:00Z",
+      "title": "On continue la découverte de Dofus",
+      "canceled_until": null,
+      "category": {
+        "id": "20596",
+        "name": "Dofus"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiIxYzUxOGI5Zi0yYjI2LTQ5ZmYtOWQzNC0xODA2OWJiNjMxNWYiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjo1MH0=",
+      "start_time": "2024-12-13T19:00:00Z",
+      "end_time": "2024-12-13T23:00:00Z",
+      "title": "Grosse soirée Lycans !",
+      "canceled_until": null,
+      "category": {
+        "id": "1494074023",
+        "name": "Lycans"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiIyMDY2ZjRmZS0xOWE0LTRjNzctOTMzMC1mYjgwZmVlMWU4MWEiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjo1MH0=",
+      "start_time": "2024-12-15T14:00:00Z",
+      "end_time": "2024-12-15T19:00:00Z",
+      "title": "Balade du dimanche sur Dofus",
+      "canceled_until": null,
+      "category": {
+        "id": "20596",
+        "name": "Dofus"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiIzZjQzOTQxZC04Y2JkLTQxMDgtODE2NS1hYmM5NmEyNDZiMzUiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjo1MH0=",
+      "start_time": "2024-12-15T19:00:00Z",
+      "end_time": "2024-12-15T23:00:00Z",
+      "title": "Soirée The Crew Motorfest !",
+      "canceled_until": null,
+      "category": {
+        "id": "666511413",
+        "name": "The Crew: Motorfest"
       },
       "is_recurring": true
     },
@@ -169,86 +241,14 @@
       "is_recurring": true
     },
     {
-      "id": "eyJzZWdtZW50SUQiOiI5ODFhOTg5Yi1jYzljLTRhMmUtYTlmYi0wY2UwMGY3ODdhM2MiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjo1MX0=",
-      "start_time": "2024-12-17T10:00:00Z",
-      "end_time": "2024-12-17T14:00:00Z",
-      "title": "Codenames avé les potes",
-      "canceled_until": null,
-      "category": {
-        "id": "508509",
-        "name": "Codenames"
-      },
-      "is_recurring": true
-    },
-    {
       "id": "eyJzZWdtZW50SUQiOiJkMWZmY2EwOC05ZWJmLTQyZTQtYTFjNy1jYTI5MmRiYzBmYmIiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjo1MX0=",
-      "start_time": "2024-12-17T14:00:00Z",
-      "end_time": "2024-12-17T18:00:00Z",
-      "title": "On continue Mario & Luigi : L'épopée fraternelle",
+      "start_time": "2024-12-17T19:00:00Z",
+      "end_time": "2024-12-17T22:00:00Z",
+      "title": "Popcorn (sur la chaîne de PA)",
       "canceled_until": null,
       "category": {
-        "id": "1505767674",
-        "name": "Mario & Luigi: Brothership"
-      },
-      "is_recurring": true
-    },
-    {
-      "id": "eyJzZWdtZW50SUQiOiI4YmFiMzYwZC1iYTQ5LTQyZWItYjMwOS1lYTI0ZWFiMWQxMWYiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjo1MX0=",
-      "start_time": "2024-12-18T19:00:00Z",
-      "end_time": "2024-12-18T23:00:00Z",
-      "title": "Maitre des Fleurs spécial avec Guill",
-      "canceled_until": null,
-      "category": {
-        "id": "338715930",
-        "name": "Maitre des Fleurs"
-      },
-      "is_recurring": true
-    },
-    {
-      "id": "eyJzZWdtZW50SUQiOiI3YWJjNjEyZS0yMTFhLTRiYmYtODZiMy1jNTAzZDEwMzkyMDEiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjo1MX0=",
-      "start_time": "2024-12-19T10:00:00Z",
-      "end_time": "2024-12-19T14:00:00Z",
-      "title": "On découvre Unrailed 2 ",
-      "canceled_until": null,
-      "category": {
-        "id": "1985775240",
-        "name": "Unrailed 2: Back on Track"
-      },
-      "is_recurring": true
-    },
-    {
-      "id": "eyJzZWdtZW50SUQiOiIyNmM1YjIxYS05NmExLTQwZDUtYWZiNS01MmNhMDM5ZjQ1MGQiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjo1MX0=",
-      "start_time": "2024-12-20T10:00:00Z",
-      "end_time": "2024-12-20T17:00:00Z",
-      "title": "On continue et termine Mario & Luigi : L'épopée fraternelle",
-      "canceled_until": null,
-      "category": {
-        "id": "1505767674",
-        "name": "Mario & Luigi: Brothership"
-      },
-      "is_recurring": true
-    },
-    {
-      "id": "eyJzZWdtZW50SUQiOiIzN2ZhOWU2NC02NjA4LTRmZjgtOTEwOC1kZTgxN2JjMTdjYzMiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjo1Mn0=",
-      "start_time": "2024-12-23T10:00:00Z",
-      "end_time": "2024-12-23T17:00:00Z",
-      "title": "Culture & plaisir sur le Maitre des Fleurs",
-      "canceled_until": null,
-      "category": {
-        "id": "338715930",
-        "name": "Maitre des Fleurs"
-      },
-      "is_recurring": true
-    },
-    {
-      "id": "eyJzZWdtZW50SUQiOiI5ODFhOTg5Yi1jYzljLTRhMmUtYTlmYi0wY2UwMGY3ODdhM2MiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjo1Mn0=",
-      "start_time": "2024-12-24T10:00:00Z",
-      "end_time": "2024-12-24T14:00:00Z",
-      "title": "Codenames avé les potes",
-      "canceled_until": null,
-      "category": {
-        "id": "508509",
-        "name": "Codenames"
+        "id": "509658",
+        "name": "Just Chatting"
       },
       "is_recurring": true
     }
