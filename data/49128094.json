@@ -25,6 +25,18 @@
       "is_recurring": true
     },
     {
+      "id": "eyJzZWdtZW50SUQiOiJiZmE1ZWQwNC1kZDYwLTRlMzUtYTBjMi1kMjkyMTEzZTFlYzciLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjo0OX0=",
+      "start_time": "2024-12-06T19:00:00Z",
+      "end_time": "2024-12-06T22:00:00Z",
+      "title": "Avant première de Indiana Joooones!",
+      "canceled_until": null,
+      "category": {
+        "id": "1397606945",
+        "name": "Indiana Jones and the Great Circle"
+      },
+      "is_recurring": false
+    },
+    {
       "id": "eyJzZWdtZW50SUQiOiI5ODkyMzQwZi03MWI3LTQyNTYtYWU3OS1iMzljZTE3YzJkZGQiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjo1MH0=",
       "start_time": "2024-12-11T17:00:00Z",
       "end_time": "2024-12-11T19:00:00Z",
@@ -232,18 +244,6 @@
       "id": "eyJzZWdtZW50SUQiOiI5ODkyMzQwZi03MWI3LTQyNTYtYWU3OS1iMzljZTE3YzJkZGQiLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjoxNX0=",
       "start_time": "2025-04-09T16:00:00Z",
       "end_time": "2025-04-09T18:00:00Z",
-      "title": " Debrief' de l'actualité jeu vidéo de la semaine avec vous ☕",
-      "canceled_until": null,
-      "category": {
-        "id": "509658",
-        "name": "Just Chatting"
-      },
-      "is_recurring": true
-    },
-    {
-      "id": "eyJzZWdtZW50SUQiOiI5ODkyMzQwZi03MWI3LTQyNTYtYWU3OS1iMzljZTE3YzJkZGQiLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjoxNn0=",
-      "start_time": "2025-04-16T16:00:00Z",
-      "end_time": "2025-04-16T18:00:00Z",
       "title": " Debrief' de l'actualité jeu vidéo de la semaine avec vous ☕",
       "canceled_until": null,
       "category": {
