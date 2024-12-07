@@ -13,30 +13,6 @@
   },
   "schedulers": [
     {
-      "id": "eyJzZWdtZW50SUQiOiJmMjliMWYxNC0yNWI2LTQxODgtYWJiZi02NTIwM2U2ZGJmNzUiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjo0OX0=",
-      "start_time": "2024-12-06T13:00:00Z",
-      "end_time": "2024-12-06T14:00:00Z",
-      "title": "🎙 PRÉ LIVE",
-      "canceled_until": null,
-      "category": {
-        "id": "509658",
-        "name": "Just Chatting"
-      },
-      "is_recurring": false
-    },
-    {
-      "id": "eyJzZWdtZW50SUQiOiI2NDE4OWRhNC1mNjI3LTQ1Y2EtOWEzNC1hMTRlODA0NDMzNjMiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjo0OX0=",
-      "start_time": "2024-12-06T14:00:00Z",
-      "end_time": "2024-12-06T18:00:00Z",
-      "title": "📺 STREAM LIBRE",
-      "canceled_until": null,
-      "category": {
-        "id": "509658",
-        "name": "Just Chatting"
-      },
-      "is_recurring": false
-    },
-    {
       "id": "eyJzZWdtZW50SUQiOiI4YjgxODkyYi1jOWE3LTQyMzMtYjJjYi03YjQxZGExMjlhNzYiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjo1MH0=",
       "start_time": "2024-12-10T19:00:00Z",
       "end_time": "2024-12-10T21:30:00Z",
@@ -244,6 +220,30 @@
       "id": "eyJzZWdtZW50SUQiOiI5NDRjY2Q3MC1mZTM0LTQ2YWUtOWYyOS05MTkxYTBkMGQyMDIiLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjo2fQ==",
       "start_time": "2025-02-06T19:00:00Z",
       "end_time": "2025-02-06T23:00:00Z",
+      "title": "✨ SHOWMATCH : LES OG'SSSS ",
+      "canceled_until": null,
+      "category": {
+        "id": "21779",
+        "name": "League of Legends"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiI4YjgxODkyYi1jOWE3LTQyMzMtYjJjYi03YjQxZGExMjlhNzYiLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjo3fQ==",
+      "start_time": "2025-02-11T19:00:00Z",
+      "end_time": "2025-02-11T21:30:00Z",
+      "title": "🍿 POPCORN avec Zerator, Ava Mind & Ponce",
+      "canceled_until": null,
+      "category": {
+        "id": "417752",
+        "name": "Talk Shows & Podcasts"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiI5NDRjY2Q3MC1mZTM0LTQ2YWUtOWYyOS05MTkxYTBkMGQyMDIiLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjo3fQ==",
+      "start_time": "2025-02-13T19:00:00Z",
+      "end_time": "2025-02-13T23:00:00Z",
       "title": "✨ SHOWMATCH : LES OG'SSSS ",
       "canceled_until": null,
       "category": {
