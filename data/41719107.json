@@ -13,34 +13,22 @@
   },
   "schedulers": [
     {
-      "id": "eyJzZWdtZW50SUQiOiIwMDFiYzMzMC0xNDRiLTQ1ZjctOGU5MS05MmIxZWJkMTYwZmEiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjo1MH0=",
-      "start_time": "2024-12-09T15:00:00Z",
-      "end_time": "2024-12-09T19:30:00Z",
-      "title": "Découverte de Path Of Exile 2 (publicité)",
+      "id": "eyJzZWdtZW50SUQiOiJmNDZiYzgyMi1mZjYyLTRiZjQtODI5NC1jMjcxMjBiYzI2ZjciLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjo1MH0=",
+      "start_time": "2024-12-11T19:00:00Z",
+      "end_time": "2024-12-11T22:00:00Z",
+      "title": "Fight For Sub Fall Guys avec 40 Streamers",
       "canceled_until": null,
       "category": {
-        "id": "1702520304",
-        "name": "Path of Exile 2"
+        "id": "512980",
+        "name": "Fall Guys"
       },
       "is_recurring": false
-    },
-    {
-      "id": "eyJzZWdtZW50SUQiOiI0N2YwODdkMi1hZDlhLTRlZGMtOTllYS0zOWVmZWJhNzlkZTgiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjo1MH0=",
-      "start_time": "2024-12-09T19:30:00Z",
-      "end_time": "2024-12-09T23:00:00Z",
-      "title": "Soirée du lundi avec des gens et des jeux",
-      "canceled_until": null,
-      "category": {
-        "id": "509658",
-        "name": "Just Chatting"
-      },
-      "is_recurring": true
     },
     {
       "id": "eyJzZWdtZW50SUQiOiI2MjZiYTdhYS1kNTU3LTQ4OTgtODNlNC0yYzQ4ZjlmMmVmZTkiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjo1MH0=",
       "start_time": "2024-12-12T19:00:00Z",
       "end_time": "2024-12-12T21:00:00Z",
-      "title": "BOAT, la culture au sens large avec 6 invités",
+      "title": "BOAT, la culture au sens large avec 6 invités (3e émission)",
       "canceled_until": null,
       "category": {
         "id": "509658",
@@ -52,7 +40,31 @@
       "id": "eyJzZWdtZW50SUQiOiI0ZjA0ZDA0MS1jMzllLTQ0MzctOWQyMy0wODg1NWQxZTJlY2MiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjo1MH0=",
       "start_time": "2024-12-13T19:00:00Z",
       "end_time": "2024-12-13T23:00:00Z",
-      "title": "[sur la chaîne ALPHACAST] Table Quest, jeu de rôle avec 7 personnes",
+      "title": "[sur la chaîne @ALPHACAST] Table Quest, jeu de rôle avec 7 personnes",
+      "canceled_until": null,
+      "category": {
+        "id": "509658",
+        "name": "Just Chatting"
+      },
+      "is_recurring": false
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiI2Y2IyZGYyYS1lMzcyLTRiZTMtYTZjMS1kODEyNzc3Y2EyNDAiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjo1MH0=",
+      "start_time": "2024-12-14T19:00:00Z",
+      "end_time": "2024-12-14T23:00:00Z",
+      "title": "[Sur la chaîne @Lapi] Fight For Arena pvp sur WoW",
+      "canceled_until": null,
+      "category": {
+        "id": "18122",
+        "name": "World of Warcraft"
+      },
+      "is_recurring": false
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiI2YWE0ZWRmNC0xODU2LTRhMTItOWNkZC0zNWEyZTRjMGRkMDQiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjo1MH0=",
+      "start_time": "2024-12-15T19:00:00Z",
+      "end_time": "2024-12-15T23:00:00Z",
+      "title": "Indiemanche, découverte de 2 jeux indépendants",
       "canceled_until": null,
       "category": {
         "id": "509658",
@@ -232,18 +244,6 @@
       "id": "eyJzZWdtZW50SUQiOiI0N2YwODdkMi1hZDlhLTRlZGMtOTllYS0zOWVmZWJhNzlkZTgiLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjoxM30=",
       "start_time": "2025-03-24T19:30:00Z",
       "end_time": "2025-03-24T23:00:00Z",
-      "title": "Soirée du lundi avec des gens et des jeux",
-      "canceled_until": null,
-      "category": {
-        "id": "509658",
-        "name": "Just Chatting"
-      },
-      "is_recurring": true
-    },
-    {
-      "id": "eyJzZWdtZW50SUQiOiI0N2YwODdkMi1hZDlhLTRlZGMtOTllYS0zOWVmZWJhNzlkZTgiLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjoxNH0=",
-      "start_time": "2025-03-31T18:30:00Z",
-      "end_time": "2025-03-31T22:00:00Z",
       "title": "Soirée du lundi avec des gens et des jeux",
       "canceled_until": null,
       "category": {
