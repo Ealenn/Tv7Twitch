@@ -13,30 +13,6 @@
   },
   "schedulers": [
     {
-      "id": "eyJzZWdtZW50SUQiOiJjYTM1ZjczNC05MGUzLTQxZmItYjJlOS05Y2UzZjZkOWYwZDciLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjo1MH0=",
-      "start_time": "2024-12-11T13:00:00Z",
-      "end_time": "2024-12-11T14:00:00Z",
-      "title": "🎙 PRÉ-LIVE",
-      "canceled_until": null,
-      "category": {
-        "id": "509658",
-        "name": "Just Chatting"
-      },
-      "is_recurring": false
-    },
-    {
-      "id": "eyJzZWdtZW50SUQiOiI5NjY3ZGFkYy00MzU5LTRhZWYtOWRjNi0zNTk1NWFjOTdlZWQiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjo1MH0=",
-      "start_time": "2024-12-11T14:00:00Z",
-      "end_time": "2024-12-11T18:00:00Z",
-      "title": "⚔ LEAGUE OF LEGENDS COACHÉ PAR CHREAK",
-      "canceled_until": null,
-      "category": {
-        "id": "21779",
-        "name": "League of Legends"
-      },
-      "is_recurring": false
-    },
-    {
       "id": "eyJzZWdtZW50SUQiOiI5NDRjY2Q3MC1mZTM0LTQ2YWUtOWYyOS05MTkxYTBkMGQyMDIiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjo1MH0=",
       "start_time": "2024-12-12T19:00:00Z",
       "end_time": "2024-12-12T23:00:00Z",
@@ -244,6 +220,30 @@
       "id": "eyJzZWdtZW50SUQiOiI4YjgxODkyYi1jOWE3LTQyMzMtYjJjYi03YjQxZGExMjlhNzYiLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjo2fQ==",
       "start_time": "2025-02-04T19:00:00Z",
       "end_time": "2025-02-04T21:30:00Z",
+      "title": "🍿 POPCORN avec Byllhan, Kaatsup & LeBouseuh",
+      "canceled_until": null,
+      "category": {
+        "id": "417752",
+        "name": "Talk Shows & Podcasts"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiI5NDRjY2Q3MC1mZTM0LTQ2YWUtOWYyOS05MTkxYTBkMGQyMDIiLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjo2fQ==",
+      "start_time": "2025-02-06T19:00:00Z",
+      "end_time": "2025-02-06T23:00:00Z",
+      "title": "✨ SHOWMATCH : LES OG'S VS KAMETO TV",
+      "canceled_until": null,
+      "category": {
+        "id": "21779",
+        "name": "League of Legends"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiI4YjgxODkyYi1jOWE3LTQyMzMtYjJjYi03YjQxZGExMjlhNzYiLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjo3fQ==",
+      "start_time": "2025-02-11T19:00:00Z",
+      "end_time": "2025-02-11T21:30:00Z",
       "title": "🍿 POPCORN avec Byllhan, Kaatsup & LeBouseuh",
       "canceled_until": null,
       "category": {
