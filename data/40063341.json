@@ -13,30 +13,6 @@
   },
   "schedulers": [
     {
-      "id": "eyJzZWdtZW50SUQiOiI1YTg4MjljYy1mNWI2LTRlY2ItYjNlYy00NjljMjgxM2EyYWUiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjo1MH0=",
-      "start_time": "2024-12-13T13:00:00Z",
-      "end_time": "2024-12-13T14:00:00Z",
-      "title": "🎙 PRÉ-LIVE",
-      "canceled_until": null,
-      "category": {
-        "id": "509658",
-        "name": "Just Chatting"
-      },
-      "is_recurring": false
-    },
-    {
-      "id": "eyJzZWdtZW50SUQiOiIyZDY0ZTc3Ni05ZTliLTQ0YzQtOTVlNi05OGYyYmQ2YjdmZDkiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjo1MH0=",
-      "start_time": "2024-12-13T14:00:00Z",
-      "end_time": "2024-12-13T18:00:00Z",
-      "title": "📺 STREAM LIBRE",
-      "canceled_until": null,
-      "category": {
-        "id": "509658",
-        "name": "Just Chatting"
-      },
-      "is_recurring": false
-    },
-    {
       "id": "eyJzZWdtZW50SUQiOiI4YjgxODkyYi1jOWE3LTQyMzMtYjJjYi03YjQxZGExMjlhNzYiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjo1MX0=",
       "start_time": "2024-12-17T19:00:00Z",
       "end_time": "2024-12-17T21:30:00Z",
@@ -244,6 +220,30 @@
       "id": "eyJzZWdtZW50SUQiOiI5NDRjY2Q3MC1mZTM0LTQ2YWUtOWYyOS05MTkxYTBkMGQyMDIiLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjo3fQ==",
       "start_time": "2025-02-13T19:00:00Z",
       "end_time": "2025-02-13T23:00:00Z",
+      "title": "✨ SHOWMATCH : LES OG'S VS KAMETO TV",
+      "canceled_until": null,
+      "category": {
+        "id": "21779",
+        "name": "League of Legends"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiI4YjgxODkyYi1jOWE3LTQyMzMtYjJjYi03YjQxZGExMjlhNzYiLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjo4fQ==",
+      "start_time": "2025-02-18T19:00:00Z",
+      "end_time": "2025-02-18T21:30:00Z",
+      "title": "🍿 POPCORN avec Byllhan, Kaatsup & LeBouseuh",
+      "canceled_until": null,
+      "category": {
+        "id": "417752",
+        "name": "Talk Shows & Podcasts"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiI5NDRjY2Q3MC1mZTM0LTQ2YWUtOWYyOS05MTkxYTBkMGQyMDIiLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjo4fQ==",
+      "start_time": "2025-02-20T19:00:00Z",
+      "end_time": "2025-02-20T23:00:00Z",
       "title": "✨ SHOWMATCH : LES OG'S VS KAMETO TV",
       "canceled_until": null,
       "category": {
