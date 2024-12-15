@@ -13,18 +13,6 @@
   },
   "schedulers": [
     {
-      "id": "eyJzZWdtZW50SUQiOiI2Y2IyZGYyYS1lMzcyLTRiZTMtYTZjMS1kODEyNzc3Y2EyNDAiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjo1MH0=",
-      "start_time": "2024-12-14T19:00:00Z",
-      "end_time": "2024-12-14T23:00:00Z",
-      "title": "[Sur la chaîne @Lapi] Fight For Arena pvp sur WoW",
-      "canceled_until": null,
-      "category": {
-        "id": "18122",
-        "name": "World of Warcraft"
-      },
-      "is_recurring": false
-    },
-    {
       "id": "eyJzZWdtZW50SUQiOiI2YWE0ZWRmNC0xODU2LTRhMTItOWNkZC0zNWEyZTRjMGRkMDQiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjo1MH0=",
       "start_time": "2024-12-15T19:00:00Z",
       "end_time": "2024-12-15T23:00:00Z",
@@ -244,6 +232,18 @@
       "id": "eyJzZWdtZW50SUQiOiI0N2YwODdkMi1hZDlhLTRlZGMtOTllYS0zOWVmZWJhNzlkZTgiLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjoxNn0=",
       "start_time": "2025-04-14T18:30:00Z",
       "end_time": "2025-04-14T22:00:00Z",
+      "title": "Soirée du lundi avec des gens et des jeux",
+      "canceled_until": null,
+      "category": {
+        "id": "509658",
+        "name": "Just Chatting"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiI0N2YwODdkMi1hZDlhLTRlZGMtOTllYS0zOWVmZWJhNzlkZTgiLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjoxN30=",
+      "start_time": "2025-04-21T18:30:00Z",
+      "end_time": "2025-04-21T22:00:00Z",
       "title": "Soirée du lundi avec des gens et des jeux",
       "canceled_until": null,
       "category": {
