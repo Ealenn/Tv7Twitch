@@ -13,16 +13,52 @@
   },
   "schedulers": [
     {
-      "id": "eyJzZWdtZW50SUQiOiI0N2YwODdkMi1hZDlhLTRlZGMtOTllYS0zOWVmZWJhNzlkZTgiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjo1MX0=",
-      "start_time": "2024-12-16T19:30:00Z",
-      "end_time": "2024-12-16T23:00:00Z",
-      "title": "Soirée du lundi avec des gens et des jeux",
+      "id": "eyJzZWdtZW50SUQiOiJiNmExNGRmYi01OTg4LTQyMDQtODhlMC1hYjc2YTAwMGZlNTIiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjo1MX0=",
+      "start_time": "2024-12-17T19:00:00Z",
+      "end_time": "2024-12-17T21:00:00Z",
+      "title": "Découverte d'Indiana Jones et le Cercle Ancien sur PC en full ultra avec Path Tracing | #RTXOn #Publicité",
+      "canceled_until": null,
+      "category": {
+        "id": "1397606945",
+        "name": "Indiana Jones and the Great Circle"
+      },
+      "is_recurring": false
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiJiYTI4MTFjMy1hMzNmLTQ4NTEtODdjNS1lNWVlMmY0MjhjODQiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjo1MX0=",
+      "start_time": "2024-12-18T19:00:00Z",
+      "end_time": "2024-12-18T22:00:00Z",
+      "title": "RPG TP en duo avec HyP contre 3 autres équipes",
+      "canceled_until": null,
+      "category": {
+        "id": "687129551",
+        "name": "Trackmania"
+      },
+      "is_recurring": false
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiJiZGRjOTg4MS0wYWYzLTQ0ZWEtOTEzZC05ODBmYmNkODMyOTkiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjo1MX0=",
+      "start_time": "2024-12-20T19:00:00Z",
+      "end_time": "2024-12-20T21:00:00Z",
+      "title": "ANNONCE MANDATORY",
+      "canceled_until": null,
+      "category": {
+        "id": "509663",
+        "name": "Special Events"
+      },
+      "is_recurring": false
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiI4ZmUzNDU4OC0xMzhkLTRiYTItYTQ5OC1lZjJjM2NmOGQ2YzYiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjo1MX0=",
+      "start_time": "2024-12-22T19:00:00Z",
+      "end_time": "2024-12-22T23:00:00Z",
+      "title": "Indiemanche, découerte de 2 jeux indépendants",
       "canceled_until": null,
       "category": {
         "id": "509658",
         "name": "Just Chatting"
       },
-      "is_recurring": true
+      "is_recurring": false
     },
     {
       "id": "eyJzZWdtZW50SUQiOiI0N2YwODdkMi1hZDlhLTRlZGMtOTllYS0zOWVmZWJhNzlkZTgiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjo1Mn0=",
@@ -59,6 +95,18 @@
         "name": "Just Chatting"
       },
       "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiI4NjdiN2Q0My02ODA5LTQ5MDMtYjQzMi1iZjE1NjkxYTkyZDAiLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjoyfQ==",
+      "start_time": "2025-01-09T19:00:00Z",
+      "end_time": "2025-01-09T21:00:00Z",
+      "title": "BOAT - La culture au sens large, 4e émission",
+      "canceled_until": null,
+      "category": {
+        "id": "509658",
+        "name": "Just Chatting"
+      },
+      "is_recurring": false
     },
     {
       "id": "eyJzZWdtZW50SUQiOiI0N2YwODdkMi1hZDlhLTRlZGMtOTllYS0zOWVmZWJhNzlkZTgiLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjozfQ==",
@@ -196,54 +244,6 @@
       "id": "eyJzZWdtZW50SUQiOiI0N2YwODdkMi1hZDlhLTRlZGMtOTllYS0zOWVmZWJhNzlkZTgiLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjoxNH0=",
       "start_time": "2025-03-31T18:30:00Z",
       "end_time": "2025-03-31T22:00:00Z",
-      "title": "Soirée du lundi avec des gens et des jeux",
-      "canceled_until": null,
-      "category": {
-        "id": "509658",
-        "name": "Just Chatting"
-      },
-      "is_recurring": true
-    },
-    {
-      "id": "eyJzZWdtZW50SUQiOiI0N2YwODdkMi1hZDlhLTRlZGMtOTllYS0zOWVmZWJhNzlkZTgiLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjoxNX0=",
-      "start_time": "2025-04-07T18:30:00Z",
-      "end_time": "2025-04-07T22:00:00Z",
-      "title": "Soirée du lundi avec des gens et des jeux",
-      "canceled_until": null,
-      "category": {
-        "id": "509658",
-        "name": "Just Chatting"
-      },
-      "is_recurring": true
-    },
-    {
-      "id": "eyJzZWdtZW50SUQiOiI0N2YwODdkMi1hZDlhLTRlZGMtOTllYS0zOWVmZWJhNzlkZTgiLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjoxNn0=",
-      "start_time": "2025-04-14T18:30:00Z",
-      "end_time": "2025-04-14T22:00:00Z",
-      "title": "Soirée du lundi avec des gens et des jeux",
-      "canceled_until": null,
-      "category": {
-        "id": "509658",
-        "name": "Just Chatting"
-      },
-      "is_recurring": true
-    },
-    {
-      "id": "eyJzZWdtZW50SUQiOiI0N2YwODdkMi1hZDlhLTRlZGMtOTllYS0zOWVmZWJhNzlkZTgiLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjoxN30=",
-      "start_time": "2025-04-21T18:30:00Z",
-      "end_time": "2025-04-21T22:00:00Z",
-      "title": "Soirée du lundi avec des gens et des jeux",
-      "canceled_until": null,
-      "category": {
-        "id": "509658",
-        "name": "Just Chatting"
-      },
-      "is_recurring": true
-    },
-    {
-      "id": "eyJzZWdtZW50SUQiOiI0N2YwODdkMi1hZDlhLTRlZGMtOTllYS0zOWVmZWJhNzlkZTgiLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjoxOH0=",
-      "start_time": "2025-04-28T18:30:00Z",
-      "end_time": "2025-04-28T22:00:00Z",
       "title": "Soirée du lundi avec des gens et des jeux",
       "canceled_until": null,
       "category": {
