@@ -13,30 +13,6 @@
   },
   "schedulers": [
     {
-      "id": "eyJzZWdtZW50SUQiOiJkMWZmY2EwOC05ZWJmLTQyZTQtYTFjNy1jYTI5MmRiYzBmYmIiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjo1MX0=",
-      "start_time": "2024-12-17T10:00:00Z",
-      "end_time": "2024-12-17T14:00:00Z",
-      "title": "Lycans avé les copains",
-      "canceled_until": null,
-      "category": {
-        "id": "1494074023",
-        "name": "Lycans"
-      },
-      "is_recurring": true
-    },
-    {
-      "id": "eyJzZWdtZW50SUQiOiJhNmY4NTVhZi02OTYwLTQ0Y2ItOTc1ZC01ZWQ4YjEwYjgwYTQiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjo1MX0=",
-      "start_time": "2024-12-17T14:00:00Z",
-      "end_time": "2024-12-17T17:00:00Z",
-      "title": "Découverte Crusader king 3 !",
-      "canceled_until": null,
-      "category": {
-        "id": "514888",
-        "name": "Crusader Kings III"
-      },
-      "is_recurring": true
-    },
-    {
       "id": "eyJzZWdtZW50SUQiOiIwOWEwZjdlMy0xZmI0LTQ3YzEtODdiYi0zYWM4ZjM4OTI3NjAiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjo1MX0=",
       "start_time": "2024-12-18T18:00:00Z",
       "end_time": "2024-12-18T23:00:00Z",
@@ -249,6 +225,30 @@
       "category": {
         "id": "1494074023",
         "name": "Lycans"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiJhNmY4NTVhZi02OTYwLTQ0Y2ItOTc1ZC01ZWQ4YjEwYjgwYTQiLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjoyfQ==",
+      "start_time": "2025-01-07T14:00:00Z",
+      "end_time": "2025-01-07T17:00:00Z",
+      "title": "Découverte Crusader king 3 !",
+      "canceled_until": null,
+      "category": {
+        "id": "514888",
+        "name": "Crusader Kings III"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiIyMDY2ZjRmZS0xOWE0LTRjNzctOTMzMC1mYjgwZmVlMWU4MWEiLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjoyfQ==",
+      "start_time": "2025-01-09T12:00:00Z",
+      "end_time": "2025-01-09T18:00:00Z",
+      "title": "Path of Exile !",
+      "canceled_until": null,
+      "category": {
+        "id": "1702520304",
+        "name": "Path of Exile 2"
       },
       "is_recurring": true
     }
