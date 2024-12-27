@@ -13,30 +13,6 @@
   },
   "schedulers": [
     {
-      "id": "eyJzZWdtZW50SUQiOiI2M2U0NDRjOS1lZWM0LTQ5ZGEtYmYyZC1jN2NlYTEzYzQzNzMiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjo1Mn0=",
-      "start_time": "2024-12-26T18:30:00Z",
-      "end_time": "2024-12-26T19:30:00Z",
-      "title": "🎙️ PRÉ-LIVE",
-      "canceled_until": null,
-      "category": {
-        "id": "509658",
-        "name": "Just Chatting"
-      },
-      "is_recurring": false
-    },
-    {
-      "id": "eyJzZWdtZW50SUQiOiI5ZGM3Nzk2Ny04NmI1LTRkNGMtODJlMS04MDk2MDgxMzNlYzgiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjo1Mn0=",
-      "start_time": "2024-12-26T19:30:00Z",
-      "end_time": "2024-12-26T23:00:00Z",
-      "title": "📺 REACT - QUI EST LA TAUPE ?",
-      "canceled_until": null,
-      "category": {
-        "id": "509658",
-        "name": "Just Chatting"
-      },
-      "is_recurring": false
-    },
-    {
       "id": "eyJzZWdtZW50SUQiOiJlYjViOTY5NS02MzZlLTQ5MGEtODhiNy02YmM5NGI0NTQ3YjMiLCJpc29ZZWFyIjoyMDI0LCJpc29XZWVrIjo1Mn0=",
       "start_time": "2024-12-27T13:00:00Z",
       "end_time": "2024-12-27T14:00:00Z",
