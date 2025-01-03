@@ -11,18 +11,5 @@
     "view_count": 0,
     "created_at": "2013-02-05T19:20:22Z"
   },
-  "schedulers": [
-    {
-      "id": "eyJzZWdtZW50SUQiOiI1ZTNmZWIxYS0xOWYwLTQ4ZDItYmUwMC01MzRiYWIwOGE3M2YiLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjoxfQ==",
-      "start_time": "2025-01-02T13:00:00Z",
-      "end_time": "2025-01-02T17:00:00Z",
-      "title": "🏀 PACK OPENING NBA : WEMBY MERCURY BOX AVEC BASTIEN (TRASHTALK) & ARDA",
-      "canceled_until": null,
-      "category": {
-        "id": "509658",
-        "name": "Just Chatting"
-      },
-      "is_recurring": false
-    }
-  ]
+  "schedulers": []
 }
