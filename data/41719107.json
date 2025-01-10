@@ -13,18 +13,6 @@
   },
   "schedulers": [
     {
-      "id": "eyJzZWdtZW50SUQiOiI4NjdiN2Q0My02ODA5LTQ5MDMtYjQzMi1iZjE1NjkxYTkyZDAiLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjoyfQ==",
-      "start_time": "2025-01-09T19:00:00Z",
-      "end_time": "2025-01-09T21:00:00Z",
-      "title": "BOAT - La culture au sens large, 4e émission",
-      "canceled_until": null,
-      "category": {
-        "id": "509658",
-        "name": "Just Chatting"
-      },
-      "is_recurring": false
-    },
-    {
       "id": "eyJzZWdtZW50SUQiOiI0N2YwODdkMi1hZDlhLTRlZGMtOTllYS0zOWVmZWJhNzlkZTgiLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjozfQ==",
       "start_time": "2025-01-13T19:30:00Z",
       "end_time": "2025-01-13T23:00:00Z",
@@ -244,6 +232,18 @@
       "id": "eyJzZWdtZW50SUQiOiI0N2YwODdkMi1hZDlhLTRlZGMtOTllYS0zOWVmZWJhNzlkZTgiLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjoxOX0=",
       "start_time": "2025-05-05T18:30:00Z",
       "end_time": "2025-05-05T22:00:00Z",
+      "title": "Soirée du lundi avec des gens et des jeux",
+      "canceled_until": null,
+      "category": {
+        "id": "509658",
+        "name": "Just Chatting"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiI0N2YwODdkMi1hZDlhLTRlZGMtOTllYS0zOWVmZWJhNzlkZTgiLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjoyMH0=",
+      "start_time": "2025-05-12T18:30:00Z",
+      "end_time": "2025-05-12T22:00:00Z",
       "title": "Soirée du lundi avec des gens et des jeux",
       "canceled_until": null,
       "category": {
