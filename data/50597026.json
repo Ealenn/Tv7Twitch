@@ -13,30 +13,6 @@
   },
   "schedulers": [
     {
-      "id": "eyJzZWdtZW50SUQiOiJkMWZmY2EwOC05ZWJmLTQyZTQtYTFjNy1jYTI5MmRiYzBmYmIiLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjozfQ==",
-      "start_time": "2025-01-14T10:00:00Z",
-      "end_time": "2025-01-14T13:00:00Z",
-      "title": "Lycans",
-      "canceled_until": null,
-      "category": {
-        "id": "1494074023",
-        "name": "Lycans"
-      },
-      "is_recurring": true
-    },
-    {
-      "id": "eyJzZWdtZW50SUQiOiI2MTRmNjIwNS02M2Q1LTQzZjMtOWIzNi0xYzc2ZDZlMGYyZDciLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjozfQ==",
-      "start_time": "2025-01-14T13:00:00Z",
-      "end_time": "2025-01-14T17:00:00Z",
-      "title": "Discussion Musique & Ecoute avec Léo et JB (Floral Records)",
-      "canceled_until": null,
-      "category": {
-        "id": "18122",
-        "name": "World of Warcraft"
-      },
-      "is_recurring": true
-    },
-    {
       "id": "eyJzZWdtZW50SUQiOiIwNDE0NDU4Ny00ZTgyLTQ3YWYtOTllNi1hNzE0YzIxYzQ4MjYiLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjozfQ==",
       "start_time": "2025-01-15T19:00:00Z",
       "end_time": "2025-01-15T21:00:00Z",
@@ -245,6 +221,30 @@
       "start_time": "2025-02-04T13:00:00Z",
       "end_time": "2025-02-04T17:00:00Z",
       "title": "Discussion Musique & Ecoute avec Léo et JB (Floral Records)",
+      "canceled_until": null,
+      "category": {
+        "id": "18122",
+        "name": "World of Warcraft"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiIwNDE0NDU4Ny00ZTgyLTQ3YWYtOTllNi1hNzE0YzIxYzQ4MjYiLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjo2fQ==",
+      "start_time": "2025-02-05T19:00:00Z",
+      "end_time": "2025-02-05T21:00:00Z",
+      "title": "Émission \"Rentre dans le Game\" avec plein de streamers (Sensibilisation autour du tabac)",
+      "canceled_until": null,
+      "category": {
+        "id": "509663",
+        "name": "Special Events"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiJkMWZjYWQ3Zi04YWM4LTQ4MzEtODExMi1kYjgzYzkzYTE4NDAiLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjo2fQ==",
+      "start_time": "2025-02-06T18:00:00Z",
+      "end_time": "2025-02-06T23:00:00Z",
+      "title": "FightForSub WoW Hardcore (avec plein de streamers)",
       "canceled_until": null,
       "category": {
         "id": "18122",
