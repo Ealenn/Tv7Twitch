@@ -13,18 +13,6 @@
   },
   "schedulers": [
     {
-      "id": "eyJzZWdtZW50SUQiOiIxY2U2NGE5Ni1mNGFiLTRlNjEtOGU3OS1hNTZkOTBmMWI1NTMiLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjozfQ==",
-      "start_time": "2025-01-17T10:00:00Z",
-      "end_time": "2025-01-17T15:00:00Z",
-      "title": "Code Names",
-      "canceled_until": null,
-      "category": {
-        "id": "508509",
-        "name": "Codenames"
-      },
-      "is_recurring": true
-    },
-    {
       "id": "eyJzZWdtZW50SUQiOiIzN2ZhOWU2NC02NjA4LTRmZjgtOTEwOC1kZTgxN2JjMTdjYzMiLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjo0fQ==",
       "start_time": "2025-01-20T10:00:00Z",
       "end_time": "2025-01-20T17:00:00Z",
@@ -249,6 +237,18 @@
       "category": {
         "id": "338715930",
         "name": "Maitre des Fleurs"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiJkMWZmY2EwOC05ZWJmLTQyZTQtYTFjNy1jYTI5MmRiYzBmYmIiLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjo3fQ==",
+      "start_time": "2025-02-11T10:00:00Z",
+      "end_time": "2025-02-11T13:00:00Z",
+      "title": "Lycans",
+      "canceled_until": null,
+      "category": {
+        "id": "1494074023",
+        "name": "Lycans"
       },
       "is_recurring": true
     }
