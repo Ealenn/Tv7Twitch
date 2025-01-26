@@ -13,18 +13,6 @@
   },
   "schedulers": [
     {
-      "id": "eyJzZWdtZW50SUQiOiIwZWI1Zjc3Yi01NWQ5LTQ5NzYtYjE4Zi1lZTJjNmFkMTE4MWEiLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjo0fQ==",
-      "start_time": "2025-01-25T17:00:00Z",
-      "end_time": "2025-01-25T23:00:00Z",
-      "title": "Plunderstorm Creator Royale 2 en duo avec Luuxia",
-      "canceled_until": null,
-      "category": {
-        "id": "18122",
-        "name": "World of Warcraft"
-      },
-      "is_recurring": false
-    },
-    {
       "id": "eyJzZWdtZW50SUQiOiI1ZThhZmJiOC1mNTYxLTQ3ZGYtYjFmZi1jNGY1ZmZkYzA5MjgiLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjo0fQ==",
       "start_time": "2025-01-26T13:00:00Z",
       "end_time": "2025-01-26T17:00:00Z",
@@ -244,6 +232,18 @@
       "id": "eyJzZWdtZW50SUQiOiIzN2ZhOWU2NC02NjA4LTRmZjgtOTEwOC1kZTgxN2JjMTdjYzMiLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjoyMn0=",
       "start_time": "2025-05-26T09:00:00Z",
       "end_time": "2025-05-26T16:00:00Z",
+      "title": "Culture & plaisir sur le Maitre des Fleurs",
+      "canceled_until": null,
+      "category": {
+        "id": "338715930",
+        "name": "Maitre des Fleurs"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiIzN2ZhOWU2NC02NjA4LTRmZjgtOTEwOC1kZTgxN2JjMTdjYzMiLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjoyM30=",
+      "start_time": "2025-06-02T09:00:00Z",
+      "end_time": "2025-06-02T16:00:00Z",
       "title": "Culture & plaisir sur le Maitre des Fleurs",
       "canceled_until": null,
       "category": {
