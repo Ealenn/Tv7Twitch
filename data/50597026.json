@@ -13,18 +13,6 @@
   },
   "schedulers": [
     {
-      "id": "eyJzZWdtZW50SUQiOiJkNzliYzJjNy1lNTVhLTQ0MzUtOThkNC1kMDFmZjdjNmUxMzIiLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjo1fQ==",
-      "start_time": "2025-02-02T13:00:00Z",
-      "end_time": "2025-02-02T17:00:00Z",
-      "title": "Tournoi des fleurs !",
-      "canceled_until": null,
-      "category": {
-        "id": "941530474",
-        "name": "Mario Kart 8 Deluxe"
-      },
-      "is_recurring": true
-    },
-    {
       "id": "eyJzZWdtZW50SUQiOiIzN2ZhOWU2NC02NjA4LTRmZjgtOTEwOC1kZTgxN2JjMTdjYzMiLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjo2fQ==",
       "start_time": "2025-02-03T10:00:00Z",
       "end_time": "2025-02-03T17:00:00Z",
@@ -37,20 +25,8 @@
       "is_recurring": true
     },
     {
-      "id": "eyJzZWdtZW50SUQiOiJlOGQ0YWVlYS1hZTZmLTRlNDYtOWVlYy02M2MyNjdhYWYzYTUiLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjo2fQ==",
-      "start_time": "2025-02-04T10:00:00Z",
-      "end_time": "2025-02-04T13:00:00Z",
-      "title": "Lycans avé les potes ",
-      "canceled_until": null,
-      "category": {
-        "id": "1494074023",
-        "name": "Lycans"
-      },
-      "is_recurring": true
-    },
-    {
-      "id": "eyJzZWdtZW50SUQiOiIzYWYyNDc5ZS1lMDhlLTQ0ZDQtODEwYy02NTlmM2NiODRkNTciLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjo2fQ==",
-      "start_time": "2025-02-04T14:00:00Z",
+      "id": "eyJzZWdtZW50SUQiOiJjMjc0ZTVkNi0xMTBjLTQ3MzQtYTliOS1mZWRiZTBjYWUxZjIiLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjo2fQ==",
+      "start_time": "2025-02-04T13:00:00Z",
       "end_time": "2025-02-04T19:00:00Z",
       "title": "Wow Hardcore avec @Luuxia",
       "canceled_until": null,
@@ -61,14 +37,26 @@
       "is_recurring": true
     },
     {
-      "id": "eyJzZWdtZW50SUQiOiI1MDNmY2I1Mi1mOWVlLTQ0YzctOGIxOS1lY2NmOTE3N2VkNDkiLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjo2fQ==",
-      "start_time": "2025-02-05T19:00:00Z",
-      "end_time": "2025-02-05T23:00:00Z",
-      "title": "Maitre des fleurs avec @BagheraJones",
+      "id": "eyJzZWdtZW50SUQiOiJiMzFhZmRhMy1jY2JlLTRkOTEtYWU0NS04YTE2NWFiMzc3ZmIiLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjo2fQ==",
+      "start_time": "2025-02-04T19:00:00Z",
+      "end_time": "2025-02-04T22:00:00Z",
+      "title": "TrackMania RPG TeamPlay de @Wingo",
       "canceled_until": null,
       "category": {
-        "id": "338715930",
-        "name": "Maitre des Fleurs"
+        "id": "687129551",
+        "name": "Trackmania"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiIyNjUxOWVjNC1iNjFiLTQ1NzctYjA0OC1jNTcwNzc3NWEwYjgiLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjo2fQ==",
+      "start_time": "2025-02-05T10:00:00Z",
+      "end_time": "2025-02-05T17:00:00Z",
+      "title": "Le grand retour du speedrun BOTW avec le coach @Aife",
+      "canceled_until": null,
+      "category": {
+        "id": "110758",
+        "name": "The Legend of Zelda: Breath of the Wild"
       },
       "is_recurring": true
     },
@@ -85,14 +73,26 @@
       "is_recurring": true
     },
     {
-      "id": "eyJzZWdtZW50SUQiOiJiMjllYWZkNS1jN2QwLTQwMzMtOTAwYy0zMDhlOGMxYjE3ZTYiLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjo2fQ==",
-      "start_time": "2025-02-07T10:00:00Z",
-      "end_time": "2025-02-07T14:00:00Z",
-      "title": "Codenames avé les potes ",
+      "id": "eyJzZWdtZW50SUQiOiIxMDg1YTRkYy1iYTA3LTRjMDMtYjg0NC03MjY5M2MyYWI1YmMiLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjo2fQ==",
+      "start_time": "2025-02-06T19:00:00Z",
+      "end_time": "2025-02-06T22:00:00Z",
+      "title": "BOAT sur la chaîne de @Zerator !",
       "canceled_until": null,
       "category": {
-        "id": "508509",
-        "name": "Codenames"
+        "id": "509663",
+        "name": "Special Events"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiJlOGQ0YWVlYS1hZTZmLTRlNDYtOWVlYy02M2MyNjdhYWYzYTUiLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjo2fQ==",
+      "start_time": "2025-02-07T10:00:00Z",
+      "end_time": "2025-02-07T14:00:00Z",
+      "title": "Lycans avé les copaings",
+      "canceled_until": null,
+      "category": {
+        "id": "1494074023",
+        "name": "Lycans"
       },
       "is_recurring": true
     },
@@ -109,30 +109,6 @@
       "is_recurring": true
     },
     {
-      "id": "eyJzZWdtZW50SUQiOiI0NDY5N2ZkYy0xNTc3LTQ1MTgtYWJkNi02NDlkNjljMjc5NWQiLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjo2fQ==",
-      "start_time": "2025-02-08T13:00:00Z",
-      "end_time": "2025-02-08T18:00:00Z",
-      "title": "Wow Hardcore avec @Luuxia",
-      "canceled_until": null,
-      "category": {
-        "id": "18122",
-        "name": "World of Warcraft"
-      },
-      "is_recurring": true
-    },
-    {
-      "id": "eyJzZWdtZW50SUQiOiJkNzliYzJjNy1lNTVhLTQ0MzUtOThkNC1kMDFmZjdjNmUxMzIiLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjo2fQ==",
-      "start_time": "2025-02-09T13:00:00Z",
-      "end_time": "2025-02-09T17:00:00Z",
-      "title": "Tournoi des fleurs !",
-      "canceled_until": null,
-      "category": {
-        "id": "941530474",
-        "name": "Mario Kart 8 Deluxe"
-      },
-      "is_recurring": true
-    },
-    {
       "id": "eyJzZWdtZW50SUQiOiIzN2ZhOWU2NC02NjA4LTRmZjgtOTEwOC1kZTgxN2JjMTdjYzMiLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjo3fQ==",
       "start_time": "2025-02-10T10:00:00Z",
       "end_time": "2025-02-10T17:00:00Z",
@@ -145,20 +121,8 @@
       "is_recurring": true
     },
     {
-      "id": "eyJzZWdtZW50SUQiOiJlOGQ0YWVlYS1hZTZmLTRlNDYtOWVlYy02M2MyNjdhYWYzYTUiLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjo3fQ==",
-      "start_time": "2025-02-11T10:00:00Z",
-      "end_time": "2025-02-11T13:00:00Z",
-      "title": "Lycans avé les potes ",
-      "canceled_until": null,
-      "category": {
-        "id": "1494074023",
-        "name": "Lycans"
-      },
-      "is_recurring": true
-    },
-    {
-      "id": "eyJzZWdtZW50SUQiOiIzYWYyNDc5ZS1lMDhlLTQ0ZDQtODEwYy02NTlmM2NiODRkNTciLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjo3fQ==",
-      "start_time": "2025-02-11T14:00:00Z",
+      "id": "eyJzZWdtZW50SUQiOiJjMjc0ZTVkNi0xMTBjLTQ3MzQtYTliOS1mZWRiZTBjYWUxZjIiLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjo3fQ==",
+      "start_time": "2025-02-11T13:00:00Z",
       "end_time": "2025-02-11T19:00:00Z",
       "title": "Wow Hardcore avec @Luuxia",
       "canceled_until": null,
@@ -169,14 +133,26 @@
       "is_recurring": true
     },
     {
-      "id": "eyJzZWdtZW50SUQiOiI1MDNmY2I1Mi1mOWVlLTQ0YzctOGIxOS1lY2NmOTE3N2VkNDkiLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjo3fQ==",
-      "start_time": "2025-02-12T19:00:00Z",
-      "end_time": "2025-02-12T23:00:00Z",
-      "title": "Maitre des fleurs avec @BagheraJones",
+      "id": "eyJzZWdtZW50SUQiOiJiMzFhZmRhMy1jY2JlLTRkOTEtYWU0NS04YTE2NWFiMzc3ZmIiLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjo3fQ==",
+      "start_time": "2025-02-11T19:00:00Z",
+      "end_time": "2025-02-11T22:00:00Z",
+      "title": "TrackMania RPG TeamPlay de @Wingo",
       "canceled_until": null,
       "category": {
-        "id": "338715930",
-        "name": "Maitre des Fleurs"
+        "id": "687129551",
+        "name": "Trackmania"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiIyNjUxOWVjNC1iNjFiLTQ1NzctYjA0OC1jNTcwNzc3NWEwYjgiLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjo3fQ==",
+      "start_time": "2025-02-12T10:00:00Z",
+      "end_time": "2025-02-12T17:00:00Z",
+      "title": "Le grand retour du speedrun BOTW avec le coach @Aife",
+      "canceled_until": null,
+      "category": {
+        "id": "110758",
+        "name": "The Legend of Zelda: Breath of the Wild"
       },
       "is_recurring": true
     },
@@ -193,14 +169,26 @@
       "is_recurring": true
     },
     {
-      "id": "eyJzZWdtZW50SUQiOiJiMjllYWZkNS1jN2QwLTQwMzMtOTAwYy0zMDhlOGMxYjE3ZTYiLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjo3fQ==",
-      "start_time": "2025-02-14T10:00:00Z",
-      "end_time": "2025-02-14T14:00:00Z",
-      "title": "Codenames avé les potes ",
+      "id": "eyJzZWdtZW50SUQiOiIxMDg1YTRkYy1iYTA3LTRjMDMtYjg0NC03MjY5M2MyYWI1YmMiLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjo3fQ==",
+      "start_time": "2025-02-13T19:00:00Z",
+      "end_time": "2025-02-13T22:00:00Z",
+      "title": "BOAT sur la chaîne de @Zerator !",
       "canceled_until": null,
       "category": {
-        "id": "508509",
-        "name": "Codenames"
+        "id": "509663",
+        "name": "Special Events"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiJlOGQ0YWVlYS1hZTZmLTRlNDYtOWVlYy02M2MyNjdhYWYzYTUiLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjo3fQ==",
+      "start_time": "2025-02-14T10:00:00Z",
+      "end_time": "2025-02-14T14:00:00Z",
+      "title": "Lycans avé les copaings",
+      "canceled_until": null,
+      "category": {
+        "id": "1494074023",
+        "name": "Lycans"
       },
       "is_recurring": true
     },
@@ -217,9 +205,21 @@
       "is_recurring": true
     },
     {
-      "id": "eyJzZWdtZW50SUQiOiI0NDY5N2ZkYy0xNTc3LTQ1MTgtYWJkNi02NDlkNjljMjc5NWQiLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjo3fQ==",
-      "start_time": "2025-02-15T13:00:00Z",
-      "end_time": "2025-02-15T18:00:00Z",
+      "id": "eyJzZWdtZW50SUQiOiIzN2ZhOWU2NC02NjA4LTRmZjgtOTEwOC1kZTgxN2JjMTdjYzMiLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjo4fQ==",
+      "start_time": "2025-02-17T10:00:00Z",
+      "end_time": "2025-02-17T17:00:00Z",
+      "title": "Culture & plaisir sur le Maitre des Fleurs",
+      "canceled_until": null,
+      "category": {
+        "id": "338715930",
+        "name": "Maitre des Fleurs"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiJjMjc0ZTVkNi0xMTBjLTQ3MzQtYTliOS1mZWRiZTBjYWUxZjIiLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjo4fQ==",
+      "start_time": "2025-02-18T13:00:00Z",
+      "end_time": "2025-02-18T19:00:00Z",
       "title": "Wow Hardcore avec @Luuxia",
       "canceled_until": null,
       "category": {
@@ -229,26 +229,26 @@
       "is_recurring": true
     },
     {
-      "id": "eyJzZWdtZW50SUQiOiJkNzliYzJjNy1lNTVhLTQ0MzUtOThkNC1kMDFmZjdjNmUxMzIiLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjo3fQ==",
-      "start_time": "2025-02-16T13:00:00Z",
-      "end_time": "2025-02-16T17:00:00Z",
-      "title": "Tournoi des fleurs !",
+      "id": "eyJzZWdtZW50SUQiOiJiMzFhZmRhMy1jY2JlLTRkOTEtYWU0NS04YTE2NWFiMzc3ZmIiLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjo4fQ==",
+      "start_time": "2025-02-18T19:00:00Z",
+      "end_time": "2025-02-18T22:00:00Z",
+      "title": "TrackMania RPG TeamPlay de @Wingo",
       "canceled_until": null,
       "category": {
-        "id": "941530474",
-        "name": "Mario Kart 8 Deluxe"
+        "id": "687129551",
+        "name": "Trackmania"
       },
       "is_recurring": true
     },
     {
-      "id": "eyJzZWdtZW50SUQiOiIzN2ZhOWU2NC02NjA4LTRmZjgtOTEwOC1kZTgxN2JjMTdjYzMiLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjo4fQ==",
-      "start_time": "2025-02-17T10:00:00Z",
-      "end_time": "2025-02-17T17:00:00Z",
-      "title": "Culture & plaisir sur le Maitre des Fleurs",
+      "id": "eyJzZWdtZW50SUQiOiIyNjUxOWVjNC1iNjFiLTQ1NzctYjA0OC1jNTcwNzc3NWEwYjgiLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjo4fQ==",
+      "start_time": "2025-02-19T10:00:00Z",
+      "end_time": "2025-02-19T17:00:00Z",
+      "title": "Le grand retour du speedrun BOTW avec le coach @Aife",
       "canceled_until": null,
       "category": {
-        "id": "338715930",
-        "name": "Maitre des Fleurs"
+        "id": "110758",
+        "name": "The Legend of Zelda: Breath of the Wild"
       },
       "is_recurring": true
     }
