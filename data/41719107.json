@@ -13,14 +13,14 @@
   },
   "schedulers": [
     {
-      "id": "eyJzZWdtZW50SUQiOiI0NDI2NDI5NS04MTNhLTQ5M2QtODc0Yi1kMmQ1YTIwN2Q0ZWUiLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjo2fQ==",
-      "start_time": "2025-02-04T19:00:00Z",
-      "end_time": "2025-02-04T23:00:00Z",
-      "title": "RPG Teamplay Trackmania vec HyP",
+      "id": "eyJzZWdtZW50SUQiOiI1ODIzN2MyNC05NzYyLTRlZjAtYjU0ZC1jMDYyZTE5ZTRlNDkiLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjo2fQ==",
+      "start_time": "2025-02-05T12:00:00Z",
+      "end_time": "2025-02-05T18:00:00Z",
+      "title": "EXCLU MONDIALE. Civilization VII en avant première",
       "canceled_until": null,
       "category": {
-        "id": "687129551",
-        "name": "Trackmania"
+        "id": "414822821",
+        "name": "Sid Meier's Civilization VII"
       },
       "is_recurring": false
     },
