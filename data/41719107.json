@@ -13,18 +13,6 @@
   },
   "schedulers": [
     {
-      "id": "eyJzZWdtZW50SUQiOiI1ODIzN2MyNC05NzYyLTRlZjAtYjU0ZC1jMDYyZTE5ZTRlNDkiLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjo2fQ==",
-      "start_time": "2025-02-05T12:00:00Z",
-      "end_time": "2025-02-05T18:00:00Z",
-      "title": "EXCLU MONDIALE. Civilization VII en avant première",
-      "canceled_until": null,
-      "category": {
-        "id": "414822821",
-        "name": "Sid Meier's Civilization VII"
-      },
-      "is_recurring": false
-    },
-    {
       "id": "eyJzZWdtZW50SUQiOiI4OTg2YTc2YS1kZGI3LTQyZjktYTJkMC02MDIzNjk0N2QyYzIiLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjo2fQ==",
       "start_time": "2025-02-06T19:00:00Z",
       "end_time": "2025-02-06T22:00:00Z",
@@ -244,6 +232,18 @@
       "id": "eyJzZWdtZW50SUQiOiI0N2YwODdkMi1hZDlhLTRlZGMtOTllYS0zOWVmZWJhNzlkZTgiLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjoyM30=",
       "start_time": "2025-06-02T18:30:00Z",
       "end_time": "2025-06-02T22:00:00Z",
+      "title": "Soirée du lundi avec des gens et des jeux",
+      "canceled_until": null,
+      "category": {
+        "id": "509658",
+        "name": "Just Chatting"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiI0N2YwODdkMi1hZDlhLTRlZGMtOTllYS0zOWVmZWJhNzlkZTgiLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjoyNH0=",
+      "start_time": "2025-06-09T18:30:00Z",
+      "end_time": "2025-06-09T22:00:00Z",
       "title": "Soirée du lundi avec des gens et des jeux",
       "canceled_until": null,
       "category": {
