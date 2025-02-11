@@ -13,18 +13,6 @@
   },
   "schedulers": [
     {
-      "id": "eyJzZWdtZW50SUQiOiI0N2YwODdkMi1hZDlhLTRlZGMtOTllYS0zOWVmZWJhNzlkZTgiLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjo3fQ==",
-      "start_time": "2025-02-10T19:30:00Z",
-      "end_time": "2025-02-10T23:00:00Z",
-      "title": "Soirée du lundi avec des gens et des jeux",
-      "canceled_until": null,
-      "category": {
-        "id": "509658",
-        "name": "Just Chatting"
-      },
-      "is_recurring": true
-    },
-    {
       "id": "eyJzZWdtZW50SUQiOiIzYjIwMjcyZS05YjIzLTQ4NTUtOWU0OS0xZTc0MTU5NGVjNjkiLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjo3fQ==",
       "start_time": "2025-02-11T14:00:00Z",
       "end_time": "2025-02-11T19:00:00Z",
@@ -52,7 +40,7 @@
       "id": "eyJzZWdtZW50SUQiOiJmY2U3NDNiNC0yNjdhLTRkODItYTMzZC1jMGRkNDEzMmE3ZDQiLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjo3fQ==",
       "start_time": "2025-02-15T16:00:00Z",
       "end_time": "2025-02-15T20:00:00Z",
-      "title": "DEMI FINALE MANDATORY WoW",
+      "title": "DEMI FINALE MANDATORY Valorant",
       "canceled_until": null,
       "category": {
         "id": "516575",
@@ -244,6 +232,18 @@
       "id": "eyJzZWdtZW50SUQiOiI0N2YwODdkMi1hZDlhLTRlZGMtOTllYS0zOWVmZWJhNzlkZTgiLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjoyMH0=",
       "start_time": "2025-05-12T18:30:00Z",
       "end_time": "2025-05-12T22:00:00Z",
+      "title": "Soirée du lundi avec des gens et des jeux",
+      "canceled_until": null,
+      "category": {
+        "id": "509658",
+        "name": "Just Chatting"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiI0N2YwODdkMi1hZDlhLTRlZGMtOTllYS0zOWVmZWJhNzlkZTgiLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjoyMX0=",
+      "start_time": "2025-05-19T18:30:00Z",
+      "end_time": "2025-05-19T22:00:00Z",
       "title": "Soirée du lundi avec des gens et des jeux",
       "canceled_until": null,
       "category": {

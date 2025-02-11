@@ -7,9 +7,46 @@
     "broadcaster_type": "partner",
     "description": "",
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/3cdae7df-600c-4833-8dfe-8d2abc5a3b25-profile_image-300x300.png",
-    "offline_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/efffc47f-551f-47b1-9326-15042f8b1fe6-channel_offline_image-1920x1080.png",
+    "offline_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/e6c884c1-d72a-4630-8297-96deefad31e5-channel_offline_image-1920x1080.png",
     "view_count": 0,
     "created_at": "2013-02-05T19:20:22Z"
   },
-  "schedulers": []
+  "schedulers": [
+    {
+      "id": "eyJzZWdtZW50SUQiOiI3ZTViNmZkYS03NjIxLTQ4NjktOWZhMS0zYzIzMGZjOGVhYWYiLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjo3fQ==",
+      "start_time": "2025-02-11T19:00:00Z",
+      "end_time": "2025-02-11T23:00:00Z",
+      "title": "👑 AVENTURE CK3 EN MULTI !",
+      "canceled_until": null,
+      "category": {
+        "id": "514888",
+        "name": "Crusader Kings III"
+      },
+      "is_recurring": false
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiJmNmM2MmIzNC02NTk5LTQ2YzAtODI3OC05OGUwYzY1YmJmYWMiLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjo3fQ==",
+      "start_time": "2025-02-12T19:00:00Z",
+      "end_time": "2025-02-12T23:00:00Z",
+      "title": "👑 AVENTURE CK3 EN MULTI !",
+      "canceled_until": null,
+      "category": {
+        "id": "514888",
+        "name": "Crusader Kings III"
+      },
+      "is_recurring": false
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiJmNzJmZTUzNC00ZDIzLTRjOTUtYWMwMS1kYjVlMjVlYzZhNjEiLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjo3fQ==",
+      "start_time": "2025-02-13T19:00:00Z",
+      "end_time": "2025-02-13T23:00:00Z",
+      "title": "👑 AVENTURE CK3 EN MULTI !",
+      "canceled_until": null,
+      "category": {
+        "id": "514888",
+        "name": "Crusader Kings III"
+      },
+      "is_recurring": false
+    }
+  ]
 }
