@@ -13,30 +13,6 @@
   },
   "schedulers": [
     {
-      "id": "eyJzZWdtZW50SUQiOiJmY2U3NDNiNC0yNjdhLTRkODItYTMzZC1jMGRkNDEzMmE3ZDQiLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjo3fQ==",
-      "start_time": "2025-02-15T16:00:00Z",
-      "end_time": "2025-02-15T20:00:00Z",
-      "title": "DEMI FINALE MANDATORY Valorant",
-      "canceled_until": null,
-      "category": {
-        "id": "516575",
-        "name": "VALORANT"
-      },
-      "is_recurring": false
-    },
-    {
-      "id": "eyJzZWdtZW50SUQiOiIyOTExMTk1OC05NTZmLTRiZjgtOTIyYS0wMDM0NDhhOTRiMTYiLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjo3fQ==",
-      "start_time": "2025-02-15T20:00:00Z",
-      "end_time": "2025-02-15T23:00:00Z",
-      "title": "Mandatory WoW TGP jour 2",
-      "canceled_until": null,
-      "category": {
-        "id": "18122",
-        "name": "World of Warcraft"
-      },
-      "is_recurring": false
-    },
-    {
       "id": "eyJzZWdtZW50SUQiOiI3MTI2NWNiNi1hYTM3LTQ4NTEtOWE1OC05MTBkNGQzMDNhNTkiLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjo3fQ==",
       "start_time": "2025-02-16T15:00:00Z",
       "end_time": "2025-02-16T21:00:00Z",
@@ -244,6 +220,30 @@
       "id": "eyJzZWdtZW50SUQiOiI0N2YwODdkMi1hZDlhLTRlZGMtOTllYS0zOWVmZWJhNzlkZTgiLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjoyM30=",
       "start_time": "2025-06-02T18:30:00Z",
       "end_time": "2025-06-02T22:00:00Z",
+      "title": "Soirée du lundi avec des gens et des jeux",
+      "canceled_until": null,
+      "category": {
+        "id": "509658",
+        "name": "Just Chatting"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiI0N2YwODdkMi1hZDlhLTRlZGMtOTllYS0zOWVmZWJhNzlkZTgiLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjoyNH0=",
+      "start_time": "2025-06-09T18:30:00Z",
+      "end_time": "2025-06-09T22:00:00Z",
+      "title": "Soirée du lundi avec des gens et des jeux",
+      "canceled_until": null,
+      "category": {
+        "id": "509658",
+        "name": "Just Chatting"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiI0N2YwODdkMi1hZDlhLTRlZGMtOTllYS0zOWVmZWJhNzlkZTgiLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjoyNX0=",
+      "start_time": "2025-06-16T18:30:00Z",
+      "end_time": "2025-06-16T22:00:00Z",
       "title": "Soirée du lundi avec des gens et des jeux",
       "canceled_until": null,
       "category": {
