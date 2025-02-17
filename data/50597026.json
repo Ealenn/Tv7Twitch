@@ -13,18 +13,6 @@
   },
   "schedulers": [
     {
-      "id": "eyJzZWdtZW50SUQiOiJkM2FlM2RkZS05YWI1LTQzMjctOTJiOS00MWUzOTlkZTU3M2EiLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjo3fQ==",
-      "start_time": "2025-02-16T13:00:00Z",
-      "end_time": "2025-02-16T16:00:00Z",
-      "title": "Tournoi MK des fleurs ! ",
-      "canceled_until": null,
-      "category": {
-        "id": "941530474",
-        "name": "Mario Kart 8 Deluxe"
-      },
-      "is_recurring": true
-    },
-    {
       "id": "eyJzZWdtZW50SUQiOiIzN2ZhOWU2NC02NjA4LTRmZjgtOTEwOC1kZTgxN2JjMTdjYzMiLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjo4fQ==",
       "start_time": "2025-02-17T18:00:00Z",
       "end_time": "2025-02-17T23:00:00Z",
@@ -38,9 +26,9 @@
     },
     {
       "id": "eyJzZWdtZW50SUQiOiJiMzFhZmRhMy1jY2JlLTRkOTEtYWU0NS04YTE2NWFiMzc3ZmIiLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjo4fQ==",
-      "start_time": "2025-02-18T18:00:00Z",
-      "end_time": "2025-02-18T23:00:00Z",
-      "title": "Découverte de Donkey Kong Country Returns HD ",
+      "start_time": "2025-02-18T10:00:00Z",
+      "end_time": "2025-02-18T14:00:00Z",
+      "title": "Lycans avé les potes ",
       "canceled_until": null,
       "category": {
         "id": "478131056",
@@ -49,22 +37,10 @@
       "is_recurring": true
     },
     {
-      "id": "eyJzZWdtZW50SUQiOiIyNjUxOWVjNC1iNjFiLTQ1NzctYjA0OC1jNTcwNzc3NWEwYjgiLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjo4fQ==",
-      "start_time": "2025-02-19T19:00:00Z",
-      "end_time": "2025-02-19T23:00:00Z",
-      "title": "Code Names avec les potes !",
-      "canceled_until": null,
-      "category": {
-        "id": "508509",
-        "name": "Codenames"
-      },
-      "is_recurring": true
-    },
-    {
-      "id": "eyJzZWdtZW50SUQiOiI5Y2ExN2M1Yy0wYTY1LTQ2MTItYjY5OS1lMWZmMDJmYjk0NjkiLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjo4fQ==",
-      "start_time": "2025-02-20T14:00:00Z",
-      "end_time": "2025-02-20T19:00:00Z",
-      "title": "Wow Hardcore avec @Luuxia",
+      "id": "eyJzZWdtZW50SUQiOiIzZmZhNjNiMi05MzU1LTQ4YWYtOGQ1Yy0xYzEwZGE2MzIyZGYiLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjo4fQ==",
+      "start_time": "2025-02-18T14:00:00Z",
+      "end_time": "2025-02-18T19:00:00Z",
+      "title": "Suite de WOW hardcore avec @Luuxia",
       "canceled_until": null,
       "category": {
         "id": "18122",
@@ -73,9 +49,33 @@
       "is_recurring": true
     },
     {
+      "id": "eyJzZWdtZW50SUQiOiIyNjUxOWVjNC1iNjFiLTQ1NzctYjA0OC1jNTcwNzc3NWEwYjgiLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjo4fQ==",
+      "start_time": "2025-02-19T19:00:00Z",
+      "end_time": "2025-02-19T23:00:00Z",
+      "title": "Maitre des fleurs avec @Zerator en invité",
+      "canceled_until": null,
+      "category": {
+        "id": "338715930",
+        "name": "Maitre des Fleurs"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiI5Y2ExN2M1Yy0wYTY1LTQ2MTItYjY5OS1lMWZmMDJmYjk0NjkiLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjo4fQ==",
+      "start_time": "2025-02-20T12:00:00Z",
+      "end_time": "2025-02-20T17:00:00Z",
+      "title": "Découverte du Donkey Kong Country Returns",
+      "canceled_until": null,
+      "category": {
+        "id": "478131056",
+        "name": "Donkey Kong Country Returns HD"
+      },
+      "is_recurring": true
+    },
+    {
       "id": "eyJzZWdtZW50SUQiOiJlOGQ0YWVlYS1hZTZmLTRlNDYtOWVlYy02M2MyNjdhYWYzYTUiLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjo4fQ==",
-      "start_time": "2025-02-21T11:00:00Z",
-      "end_time": "2025-02-21T13:00:00Z",
+      "start_time": "2025-02-21T10:00:00Z",
+      "end_time": "2025-02-21T12:00:00Z",
       "title": "100% Commu !",
       "canceled_until": null,
       "category": {
@@ -97,18 +97,6 @@
       "is_recurring": true
     },
     {
-      "id": "eyJzZWdtZW50SUQiOiJkM2FlM2RkZS05YWI1LTQzMjctOTJiOS00MWUzOTlkZTU3M2EiLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjo4fQ==",
-      "start_time": "2025-02-23T13:00:00Z",
-      "end_time": "2025-02-23T16:00:00Z",
-      "title": "Tournoi MK des fleurs ! ",
-      "canceled_until": null,
-      "category": {
-        "id": "941530474",
-        "name": "Mario Kart 8 Deluxe"
-      },
-      "is_recurring": true
-    },
-    {
       "id": "eyJzZWdtZW50SUQiOiIzN2ZhOWU2NC02NjA4LTRmZjgtOTEwOC1kZTgxN2JjMTdjYzMiLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjo5fQ==",
       "start_time": "2025-02-24T18:00:00Z",
       "end_time": "2025-02-24T23:00:00Z",
@@ -122,9 +110,9 @@
     },
     {
       "id": "eyJzZWdtZW50SUQiOiJiMzFhZmRhMy1jY2JlLTRkOTEtYWU0NS04YTE2NWFiMzc3ZmIiLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjo5fQ==",
-      "start_time": "2025-02-25T18:00:00Z",
-      "end_time": "2025-02-25T23:00:00Z",
-      "title": "Découverte de Donkey Kong Country Returns HD ",
+      "start_time": "2025-02-25T10:00:00Z",
+      "end_time": "2025-02-25T14:00:00Z",
+      "title": "Lycans avé les potes ",
       "canceled_until": null,
       "category": {
         "id": "478131056",
@@ -133,22 +121,10 @@
       "is_recurring": true
     },
     {
-      "id": "eyJzZWdtZW50SUQiOiIyNjUxOWVjNC1iNjFiLTQ1NzctYjA0OC1jNTcwNzc3NWEwYjgiLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjo5fQ==",
-      "start_time": "2025-02-26T19:00:00Z",
-      "end_time": "2025-02-26T23:00:00Z",
-      "title": "Code Names avec les potes !",
-      "canceled_until": null,
-      "category": {
-        "id": "508509",
-        "name": "Codenames"
-      },
-      "is_recurring": true
-    },
-    {
-      "id": "eyJzZWdtZW50SUQiOiI5Y2ExN2M1Yy0wYTY1LTQ2MTItYjY5OS1lMWZmMDJmYjk0NjkiLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjo5fQ==",
-      "start_time": "2025-02-27T14:00:00Z",
-      "end_time": "2025-02-27T19:00:00Z",
-      "title": "Wow Hardcore avec @Luuxia",
+      "id": "eyJzZWdtZW50SUQiOiIzZmZhNjNiMi05MzU1LTQ4YWYtOGQ1Yy0xYzEwZGE2MzIyZGYiLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjo5fQ==",
+      "start_time": "2025-02-25T14:00:00Z",
+      "end_time": "2025-02-25T19:00:00Z",
+      "title": "Suite de WOW hardcore avec @Luuxia",
       "canceled_until": null,
       "category": {
         "id": "18122",
@@ -157,9 +133,33 @@
       "is_recurring": true
     },
     {
+      "id": "eyJzZWdtZW50SUQiOiIyNjUxOWVjNC1iNjFiLTQ1NzctYjA0OC1jNTcwNzc3NWEwYjgiLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjo5fQ==",
+      "start_time": "2025-02-26T19:00:00Z",
+      "end_time": "2025-02-26T23:00:00Z",
+      "title": "Maitre des fleurs avec @Zerator en invité",
+      "canceled_until": null,
+      "category": {
+        "id": "338715930",
+        "name": "Maitre des Fleurs"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiI5Y2ExN2M1Yy0wYTY1LTQ2MTItYjY5OS1lMWZmMDJmYjk0NjkiLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjo5fQ==",
+      "start_time": "2025-02-27T12:00:00Z",
+      "end_time": "2025-02-27T17:00:00Z",
+      "title": "Découverte du Donkey Kong Country Returns",
+      "canceled_until": null,
+      "category": {
+        "id": "478131056",
+        "name": "Donkey Kong Country Returns HD"
+      },
+      "is_recurring": true
+    },
+    {
       "id": "eyJzZWdtZW50SUQiOiJlOGQ0YWVlYS1hZTZmLTRlNDYtOWVlYy02M2MyNjdhYWYzYTUiLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjo5fQ==",
-      "start_time": "2025-02-28T11:00:00Z",
-      "end_time": "2025-02-28T13:00:00Z",
+      "start_time": "2025-02-28T10:00:00Z",
+      "end_time": "2025-02-28T12:00:00Z",
       "title": "100% Commu !",
       "canceled_until": null,
       "category": {
@@ -181,18 +181,6 @@
       "is_recurring": true
     },
     {
-      "id": "eyJzZWdtZW50SUQiOiJkM2FlM2RkZS05YWI1LTQzMjctOTJiOS00MWUzOTlkZTU3M2EiLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjo5fQ==",
-      "start_time": "2025-03-02T13:00:00Z",
-      "end_time": "2025-03-02T16:00:00Z",
-      "title": "Tournoi MK des fleurs ! ",
-      "canceled_until": null,
-      "category": {
-        "id": "941530474",
-        "name": "Mario Kart 8 Deluxe"
-      },
-      "is_recurring": true
-    },
-    {
       "id": "eyJzZWdtZW50SUQiOiIzN2ZhOWU2NC02NjA4LTRmZjgtOTEwOC1kZTgxN2JjMTdjYzMiLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjoxMH0=",
       "start_time": "2025-03-03T18:00:00Z",
       "end_time": "2025-03-03T23:00:00Z",
@@ -206,9 +194,9 @@
     },
     {
       "id": "eyJzZWdtZW50SUQiOiJiMzFhZmRhMy1jY2JlLTRkOTEtYWU0NS04YTE2NWFiMzc3ZmIiLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjoxMH0=",
-      "start_time": "2025-03-04T18:00:00Z",
-      "end_time": "2025-03-04T23:00:00Z",
-      "title": "Découverte de Donkey Kong Country Returns HD ",
+      "start_time": "2025-03-04T10:00:00Z",
+      "end_time": "2025-03-04T14:00:00Z",
+      "title": "Lycans avé les potes ",
       "canceled_until": null,
       "category": {
         "id": "478131056",
@@ -217,22 +205,10 @@
       "is_recurring": true
     },
     {
-      "id": "eyJzZWdtZW50SUQiOiIyNjUxOWVjNC1iNjFiLTQ1NzctYjA0OC1jNTcwNzc3NWEwYjgiLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjoxMH0=",
-      "start_time": "2025-03-05T19:00:00Z",
-      "end_time": "2025-03-05T23:00:00Z",
-      "title": "Code Names avec les potes !",
-      "canceled_until": null,
-      "category": {
-        "id": "508509",
-        "name": "Codenames"
-      },
-      "is_recurring": true
-    },
-    {
-      "id": "eyJzZWdtZW50SUQiOiI5Y2ExN2M1Yy0wYTY1LTQ2MTItYjY5OS1lMWZmMDJmYjk0NjkiLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjoxMH0=",
-      "start_time": "2025-03-06T14:00:00Z",
-      "end_time": "2025-03-06T19:00:00Z",
-      "title": "Wow Hardcore avec @Luuxia",
+      "id": "eyJzZWdtZW50SUQiOiIzZmZhNjNiMi05MzU1LTQ4YWYtOGQ1Yy0xYzEwZGE2MzIyZGYiLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjoxMH0=",
+      "start_time": "2025-03-04T14:00:00Z",
+      "end_time": "2025-03-04T19:00:00Z",
+      "title": "Suite de WOW hardcore avec @Luuxia",
       "canceled_until": null,
       "category": {
         "id": "18122",
@@ -241,9 +217,33 @@
       "is_recurring": true
     },
     {
+      "id": "eyJzZWdtZW50SUQiOiIyNjUxOWVjNC1iNjFiLTQ1NzctYjA0OC1jNTcwNzc3NWEwYjgiLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjoxMH0=",
+      "start_time": "2025-03-05T19:00:00Z",
+      "end_time": "2025-03-05T23:00:00Z",
+      "title": "Maitre des fleurs avec @Zerator en invité",
+      "canceled_until": null,
+      "category": {
+        "id": "338715930",
+        "name": "Maitre des Fleurs"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiI5Y2ExN2M1Yy0wYTY1LTQ2MTItYjY5OS1lMWZmMDJmYjk0NjkiLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjoxMH0=",
+      "start_time": "2025-03-06T12:00:00Z",
+      "end_time": "2025-03-06T17:00:00Z",
+      "title": "Découverte du Donkey Kong Country Returns",
+      "canceled_until": null,
+      "category": {
+        "id": "478131056",
+        "name": "Donkey Kong Country Returns HD"
+      },
+      "is_recurring": true
+    },
+    {
       "id": "eyJzZWdtZW50SUQiOiJlOGQ0YWVlYS1hZTZmLTRlNDYtOWVlYy02M2MyNjdhYWYzYTUiLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjoxMH0=",
-      "start_time": "2025-03-07T11:00:00Z",
-      "end_time": "2025-03-07T13:00:00Z",
+      "start_time": "2025-03-07T10:00:00Z",
+      "end_time": "2025-03-07T12:00:00Z",
       "title": "100% Commu !",
       "canceled_until": null,
       "category": {
