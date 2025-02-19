@@ -13,6 +13,66 @@
   },
   "schedulers": [
     {
+      "id": "eyJzZWdtZW50SUQiOiIzMGRiYzUxMy1hZTg0LTQzOGYtYTE0Mi1hNTk3MzY5NWEzNmUiLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjo4fQ==",
+      "start_time": "2025-02-19T16:00:00Z",
+      "end_time": "2025-02-19T18:00:00Z",
+      "title": "Découverte d'Echoes of Mystralia #Publicité",
+      "canceled_until": null,
+      "category": {
+        "id": "509534273",
+        "name": "Echoes of Mystralia"
+      },
+      "is_recurring": false
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiI2YzQ3MzI1NC1mMDBlLTQ1MjYtYTU4Zi0yM2M0NWZhYzcyNTQiLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjo4fQ==",
+      "start_time": "2025-02-19T19:00:00Z",
+      "end_time": "2025-02-19T21:00:00Z",
+      "title": "[Sur la chaîne PONCE] Maître des fleurs chez Ponce en direct",
+      "canceled_until": null,
+      "category": {
+        "id": "338715930",
+        "name": "Maitre des Fleurs"
+      },
+      "is_recurring": false
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiJjMDNlNTYxNi04NjRkLTQyMDYtOTliOS1hMDljMmMxNWU2ZDIiLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjo4fQ==",
+      "start_time": "2025-02-20T19:00:00Z",
+      "end_time": "2025-02-20T22:00:00Z",
+      "title": "BOAT, la culture au sens large, 7e émission",
+      "canceled_until": null,
+      "category": {
+        "id": "509658",
+        "name": "Just Chatting"
+      },
+      "is_recurring": false
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiIxMmEzNjM4Yy03MDBhLTRlY2QtYmFjYS1mZmVhMjgzOTU1ODAiLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjo4fQ==",
+      "start_time": "2025-02-22T16:00:00Z",
+      "end_time": "2025-02-22T18:00:00Z",
+      "title": "Découverte du prochain patch de WoW avec Kenny #Publicité",
+      "canceled_until": null,
+      "category": {
+        "id": "18122",
+        "name": "World of Warcraft"
+      },
+      "is_recurring": false
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiI4ZjVmOTQ0NC01MTg1LTRhMWItYWUwZi02NjMyYzZhNDhkNWIiLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjo4fQ==",
+      "start_time": "2025-02-23T16:00:00Z",
+      "end_time": "2025-02-23T18:00:00Z",
+      "title": "[Sur la chaîne Etoiles] Live culture avec Émilien mon duo de CUlture clash",
+      "canceled_until": null,
+      "category": {
+        "id": "509658",
+        "name": "Just Chatting"
+      },
+      "is_recurring": false
+    },
+    {
       "id": "eyJzZWdtZW50SUQiOiI0N2YwODdkMi1hZDlhLTRlZGMtOTllYS0zOWVmZWJhNzlkZTgiLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjo5fQ==",
       "start_time": "2025-02-24T19:30:00Z",
       "end_time": "2025-02-24T23:00:00Z",
@@ -184,66 +244,6 @@
       "id": "eyJzZWdtZW50SUQiOiI0N2YwODdkMi1hZDlhLTRlZGMtOTllYS0zOWVmZWJhNzlkZTgiLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjoyM30=",
       "start_time": "2025-06-02T18:30:00Z",
       "end_time": "2025-06-02T22:00:00Z",
-      "title": "Soirée du lundi avec des gens et des jeux",
-      "canceled_until": null,
-      "category": {
-        "id": "509658",
-        "name": "Just Chatting"
-      },
-      "is_recurring": true
-    },
-    {
-      "id": "eyJzZWdtZW50SUQiOiI0N2YwODdkMi1hZDlhLTRlZGMtOTllYS0zOWVmZWJhNzlkZTgiLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjoyNH0=",
-      "start_time": "2025-06-09T18:30:00Z",
-      "end_time": "2025-06-09T22:00:00Z",
-      "title": "Soirée du lundi avec des gens et des jeux",
-      "canceled_until": null,
-      "category": {
-        "id": "509658",
-        "name": "Just Chatting"
-      },
-      "is_recurring": true
-    },
-    {
-      "id": "eyJzZWdtZW50SUQiOiI0N2YwODdkMi1hZDlhLTRlZGMtOTllYS0zOWVmZWJhNzlkZTgiLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjoyNX0=",
-      "start_time": "2025-06-16T18:30:00Z",
-      "end_time": "2025-06-16T22:00:00Z",
-      "title": "Soirée du lundi avec des gens et des jeux",
-      "canceled_until": null,
-      "category": {
-        "id": "509658",
-        "name": "Just Chatting"
-      },
-      "is_recurring": true
-    },
-    {
-      "id": "eyJzZWdtZW50SUQiOiI0N2YwODdkMi1hZDlhLTRlZGMtOTllYS0zOWVmZWJhNzlkZTgiLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjoyNn0=",
-      "start_time": "2025-06-23T18:30:00Z",
-      "end_time": "2025-06-23T22:00:00Z",
-      "title": "Soirée du lundi avec des gens et des jeux",
-      "canceled_until": null,
-      "category": {
-        "id": "509658",
-        "name": "Just Chatting"
-      },
-      "is_recurring": true
-    },
-    {
-      "id": "eyJzZWdtZW50SUQiOiI0N2YwODdkMi1hZDlhLTRlZGMtOTllYS0zOWVmZWJhNzlkZTgiLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjoyN30=",
-      "start_time": "2025-06-30T18:30:00Z",
-      "end_time": "2025-06-30T22:00:00Z",
-      "title": "Soirée du lundi avec des gens et des jeux",
-      "canceled_until": null,
-      "category": {
-        "id": "509658",
-        "name": "Just Chatting"
-      },
-      "is_recurring": true
-    },
-    {
-      "id": "eyJzZWdtZW50SUQiOiI0N2YwODdkMi1hZDlhLTRlZGMtOTllYS0zOWVmZWJhNzlkZTgiLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjoyOH0=",
-      "start_time": "2025-07-07T18:30:00Z",
-      "end_time": "2025-07-07T22:00:00Z",
       "title": "Soirée du lundi avec des gens et des jeux",
       "canceled_until": null,
       "category": {

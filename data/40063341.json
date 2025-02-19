@@ -7,9 +7,22 @@
     "broadcaster_type": "partner",
     "description": "",
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/3cdae7df-600c-4833-8dfe-8d2abc5a3b25-profile_image-300x300.png",
-    "offline_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/e6c884c1-d72a-4630-8297-96deefad31e5-channel_offline_image-1920x1080.png",
+    "offline_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/b42339f0-67ff-4a22-b58b-34280bcad3d6-channel_offline_image-1920x1080.png",
     "view_count": 0,
     "created_at": "2013-02-05T19:20:22Z"
   },
-  "schedulers": []
+  "schedulers": [
+    {
+      "id": "eyJzZWdtZW50SUQiOiJhZjg4YWNjYS1iYjc3LTQ0ZTItOWVlMC1mZTBhYTIzMzJhYzIiLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjo4fQ==",
+      "start_time": "2025-02-19T18:00:00Z",
+      "end_time": "2025-02-19T20:00:00Z",
+      "title": "🏀 OPENING CARTES NBA AVEC ZACK & ARDA",
+      "canceled_until": null,
+      "category": {
+        "id": "509658",
+        "name": "Just Chatting"
+      },
+      "is_recurring": false
+    }
+  ]
 }
