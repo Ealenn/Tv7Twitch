@@ -13,18 +13,6 @@
   },
   "schedulers": [
     {
-      "id": "eyJzZWdtZW50SUQiOiI4ZjVmOTQ0NC01MTg1LTRhMWItYWUwZi02NjMyYzZhNDhkNWIiLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjo4fQ==",
-      "start_time": "2025-02-23T16:00:00Z",
-      "end_time": "2025-02-23T18:00:00Z",
-      "title": "[Sur la chaîne Etoiles] Live culture avec Émilien mon duo de CUlture clash",
-      "canceled_until": null,
-      "category": {
-        "id": "509658",
-        "name": "Just Chatting"
-      },
-      "is_recurring": false
-    },
-    {
       "id": "eyJzZWdtZW50SUQiOiI0N2YwODdkMi1hZDlhLTRlZGMtOTllYS0zOWVmZWJhNzlkZTgiLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjo5fQ==",
       "start_time": "2025-02-24T19:30:00Z",
       "end_time": "2025-02-24T23:00:00Z",
@@ -35,6 +23,66 @@
         "name": "Just Chatting"
       },
       "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiJkYjVjZWU5OC04NTVhLTQ2YTYtOGY2ZC00MjA4NTg0NWVkMTIiLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjo5fQ==",
+      "start_time": "2025-02-27T16:00:00Z",
+      "end_time": "2025-02-27T23:00:00Z",
+      "title": "[Sur la chaine MisterMV] JOUR 1 Speedons, marathon caritatif de speedrun",
+      "canceled_until": null,
+      "category": {
+        "id": "206444945",
+        "name": "Speedrun"
+      },
+      "is_recurring": false
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiIwZmJhYWZlNC1kYjU1LTRhZjktOTliOS04NTM3OTc3ODRmNGIiLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjo5fQ==",
+      "start_time": "2025-02-27T23:00:00Z",
+      "end_time": "2025-02-28T07:00:00Z",
+      "title": "[Sur la chaine MisterMV] JOUR 2 Speedons, marathon caritatif de speedrun",
+      "canceled_until": null,
+      "category": {
+        "id": "206444945",
+        "name": "Speedrun"
+      },
+      "is_recurring": false
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiI4Y2Q0MzRiMS0wMmFlLTRlYTEtYjI1ZC1lN2U0MzVkNTllNWUiLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjo5fQ==",
+      "start_time": "2025-02-28T19:00:00Z",
+      "end_time": "2025-02-28T23:00:00Z",
+      "title": "[Sur la chaine Etoiles] Culture Clash quiz de culture G en direct du Grand Rex",
+      "canceled_until": null,
+      "category": {
+        "id": "509663",
+        "name": "Special Events"
+      },
+      "is_recurring": false
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiIwM2YyMjkyNy1hMDZlLTQ0MGEtOTdlYi03ZTg3OTI3YmJmODgiLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjo5fQ==",
+      "start_time": "2025-03-01T00:00:00Z",
+      "end_time": "2025-03-01T23:00:00Z",
+      "title": "[Sur la chaine MisterMV] JOUR 3 Speedons, marathon caritatif de speedrun",
+      "canceled_until": null,
+      "category": {
+        "id": "206444945",
+        "name": "Speedrun"
+      },
+      "is_recurring": false
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiIyYzM4MTA5Zi0yZTNhLTQxNTMtYjE5MS00YzAzM2RkYmZkYTUiLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjo5fQ==",
+      "start_time": "2025-03-02T00:00:00Z",
+      "end_time": "2025-03-02T23:00:00Z",
+      "title": "[Sur la chaine MisterMV] JOUR 4 Speedons, marathon caritatif de speedrun",
+      "canceled_until": null,
+      "category": {
+        "id": "206444945",
+        "name": "Speedrun"
+      },
+      "is_recurring": false
     },
     {
       "id": "eyJzZWdtZW50SUQiOiI0N2YwODdkMi1hZDlhLTRlZGMtOTllYS0zOWVmZWJhNzlkZTgiLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjoxMH0=",
@@ -196,54 +244,6 @@
       "id": "eyJzZWdtZW50SUQiOiI0N2YwODdkMi1hZDlhLTRlZGMtOTllYS0zOWVmZWJhNzlkZTgiLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjoyM30=",
       "start_time": "2025-06-02T18:30:00Z",
       "end_time": "2025-06-02T22:00:00Z",
-      "title": "Soirée du lundi avec des gens et des jeux",
-      "canceled_until": null,
-      "category": {
-        "id": "509658",
-        "name": "Just Chatting"
-      },
-      "is_recurring": true
-    },
-    {
-      "id": "eyJzZWdtZW50SUQiOiI0N2YwODdkMi1hZDlhLTRlZGMtOTllYS0zOWVmZWJhNzlkZTgiLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjoyNH0=",
-      "start_time": "2025-06-09T18:30:00Z",
-      "end_time": "2025-06-09T22:00:00Z",
-      "title": "Soirée du lundi avec des gens et des jeux",
-      "canceled_until": null,
-      "category": {
-        "id": "509658",
-        "name": "Just Chatting"
-      },
-      "is_recurring": true
-    },
-    {
-      "id": "eyJzZWdtZW50SUQiOiI0N2YwODdkMi1hZDlhLTRlZGMtOTllYS0zOWVmZWJhNzlkZTgiLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjoyNX0=",
-      "start_time": "2025-06-16T18:30:00Z",
-      "end_time": "2025-06-16T22:00:00Z",
-      "title": "Soirée du lundi avec des gens et des jeux",
-      "canceled_until": null,
-      "category": {
-        "id": "509658",
-        "name": "Just Chatting"
-      },
-      "is_recurring": true
-    },
-    {
-      "id": "eyJzZWdtZW50SUQiOiI0N2YwODdkMi1hZDlhLTRlZGMtOTllYS0zOWVmZWJhNzlkZTgiLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjoyNn0=",
-      "start_time": "2025-06-23T18:30:00Z",
-      "end_time": "2025-06-23T22:00:00Z",
-      "title": "Soirée du lundi avec des gens et des jeux",
-      "canceled_until": null,
-      "category": {
-        "id": "509658",
-        "name": "Just Chatting"
-      },
-      "is_recurring": true
-    },
-    {
-      "id": "eyJzZWdtZW50SUQiOiI0N2YwODdkMi1hZDlhLTRlZGMtOTllYS0zOWVmZWJhNzlkZTgiLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjoyN30=",
-      "start_time": "2025-06-30T18:30:00Z",
-      "end_time": "2025-06-30T22:00:00Z",
       "title": "Soirée du lundi avec des gens et des jeux",
       "canceled_until": null,
       "category": {
