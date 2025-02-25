@@ -13,16 +13,16 @@
   },
   "schedulers": [
     {
-      "id": "eyJzZWdtZW50SUQiOiI0N2YwODdkMi1hZDlhLTRlZGMtOTllYS0zOWVmZWJhNzlkZTgiLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjo5fQ==",
-      "start_time": "2025-02-24T19:30:00Z",
-      "end_time": "2025-02-24T23:00:00Z",
-      "title": "Soirée du lundi avec des gens et des jeux",
+      "id": "eyJzZWdtZW50SUQiOiI0YTJlZDhmMy1iNzRhLTRmZjctOGIxOC0xN2U2YWMzODY2MTMiLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjo5fQ==",
+      "start_time": "2025-02-25T19:00:00Z",
+      "end_time": "2025-02-25T23:00:00Z",
+      "title": "Party Animals avec un nouveau mode en compagnie du Alphacrew",
       "canceled_until": null,
       "category": {
-        "id": "509658",
-        "name": "Just Chatting"
+        "id": "518186",
+        "name": "Party Animals"
       },
-      "is_recurring": true
+      "is_recurring": false
     },
     {
       "id": "eyJzZWdtZW50SUQiOiJkYjVjZWU5OC04NTVhLTQ2YTYtOGY2ZC00MjA4NTg0NWVkMTIiLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjo5fQ==",
@@ -39,7 +39,7 @@
     {
       "id": "eyJzZWdtZW50SUQiOiIwZmJhYWZlNC1kYjU1LTRhZjktOTliOS04NTM3OTc3ODRmNGIiLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjo5fQ==",
       "start_time": "2025-02-27T23:00:00Z",
-      "end_time": "2025-02-28T07:00:00Z",
+      "end_time": "2025-02-28T19:00:00Z",
       "title": "[Sur la chaine MisterMV] JOUR 2 Speedons, marathon caritatif de speedrun",
       "canceled_until": null,
       "category": {
