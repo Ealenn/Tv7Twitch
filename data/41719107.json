@@ -13,18 +13,6 @@
   },
   "schedulers": [
     {
-      "id": "eyJzZWdtZW50SUQiOiJkYjVjZWU5OC04NTVhLTQ2YTYtOGY2ZC00MjA4NTg0NWVkMTIiLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjo5fQ==",
-      "start_time": "2025-02-27T16:00:00Z",
-      "end_time": "2025-02-27T23:00:00Z",
-      "title": "[Sur la chaine MisterMV] JOUR 1 Speedons, marathon caritatif de speedrun",
-      "canceled_until": null,
-      "category": {
-        "id": "206444945",
-        "name": "Speedrun"
-      },
-      "is_recurring": false
-    },
-    {
       "id": "eyJzZWdtZW50SUQiOiIwZmJhYWZlNC1kYjU1LTRhZjktOTliOS04NTM3OTc3ODRmNGIiLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjo5fQ==",
       "start_time": "2025-02-27T23:00:00Z",
       "end_time": "2025-02-28T19:00:00Z",
@@ -244,6 +232,18 @@
       "id": "eyJzZWdtZW50SUQiOiI0N2YwODdkMi1hZDlhLTRlZGMtOTllYS0zOWVmZWJhNzlkZTgiLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjoyNH0=",
       "start_time": "2025-06-09T18:30:00Z",
       "end_time": "2025-06-09T22:00:00Z",
+      "title": "Soirée du lundi avec des gens et des jeux",
+      "canceled_until": null,
+      "category": {
+        "id": "509658",
+        "name": "Just Chatting"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiI0N2YwODdkMi1hZDlhLTRlZGMtOTllYS0zOWVmZWJhNzlkZTgiLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjoyNX0=",
+      "start_time": "2025-06-16T18:30:00Z",
+      "end_time": "2025-06-16T22:00:00Z",
       "title": "Soirée du lundi avec des gens et des jeux",
       "canceled_until": null,
       "category": {
