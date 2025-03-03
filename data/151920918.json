@@ -13,21 +13,9 @@
   },
   "schedulers": [
     {
-      "id": "eyJzZWdtZW50SUQiOiIzMmI1MjA5My03ZDVlLTRjOTgtOGRiYy1lYjMyZWU4NzFmOWQiLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjo5fQ==",
-      "start_time": "2025-03-02T07:30:00Z",
-      "end_time": "2025-03-02T09:30:00Z",
-      "title": "Firefly Blue Ghost Mission 1 Lunar Landing",
-      "canceled_until": null,
-      "category": {
-        "id": "509670",
-        "name": "Science & Technology"
-      },
-      "is_recurring": false
-    },
-    {
       "id": "eyJzZWdtZW50SUQiOiI2NTNlOTVlNC1jNTgwLTRmNWMtYTcxNi03OWEwYmVhZTFkYWQiLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjoxMH0=",
-      "start_time": "2025-03-03T02:15:00Z",
-      "end_time": "2025-03-03T04:15:00Z",
+      "start_time": "2025-03-05T02:15:00Z",
+      "end_time": "2025-03-05T04:15:00Z",
       "title": "SPHEREx and PUNCH Launch",
       "canceled_until": null,
       "category": {
