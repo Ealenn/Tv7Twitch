@@ -13,30 +13,6 @@
   },
   "schedulers": [
     {
-      "id": "eyJzZWdtZW50SUQiOiIyZjM5Y2M3OC1hMDVkLTQzN2QtODk5Yy03Y2I3YTBkNTllN2UiLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjoxMH0=",
-      "start_time": "2025-03-04T13:00:00Z",
-      "end_time": "2025-03-04T14:00:00Z",
-      "title": "🎙️ PRÉ LIVE",
-      "canceled_until": null,
-      "category": {
-        "id": "509658",
-        "name": "Just Chatting"
-      },
-      "is_recurring": false
-    },
-    {
-      "id": "eyJzZWdtZW50SUQiOiIxYjZhN2JkMy1iOTllLTQ5MGItODk5ZC1jNmRjOTAwZWRlNDQiLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjoxMH0=",
-      "start_time": "2025-03-04T14:00:00Z",
-      "end_time": "2025-03-04T18:00:00Z",
-      "title": "🦒 FIN DE L'ARC PLANET ZOO",
-      "canceled_until": null,
-      "category": {
-        "id": "512341",
-        "name": "Planet Zoo"
-      },
-      "is_recurring": false
-    },
-    {
       "id": "eyJzZWdtZW50SUQiOiJjZmNmYTA4My00NmU5LTRmNDQtYjgwYi1jODJiNGFlMDdmYTciLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjoxMH0=",
       "start_time": "2025-03-05T13:00:00Z",
       "end_time": "2025-03-05T14:00:00Z",
@@ -244,6 +220,30 @@
       "id": "eyJzZWdtZW50SUQiOiJiNmJmYmE3ZC0xMWYyLTRiODUtYmRiNy1iMDQ5ZjAzYjQ5ODMiLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjoyMn0=",
       "start_time": "2025-05-26T17:30:00Z",
       "end_time": "2025-05-26T18:30:00Z",
+      "title": "🎙️ PRÉ LIVE",
+      "canceled_until": null,
+      "category": {
+        "id": "509658",
+        "name": "Just Chatting"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiJiNmJmYmE3ZC0xMWYyLTRiODUtYmRiNy1iMDQ5ZjAzYjQ5ODMiLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjoyM30=",
+      "start_time": "2025-06-02T17:30:00Z",
+      "end_time": "2025-06-02T18:30:00Z",
+      "title": "🎙️ PRÉ LIVE",
+      "canceled_until": null,
+      "category": {
+        "id": "509658",
+        "name": "Just Chatting"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiJiNmJmYmE3ZC0xMWYyLTRiODUtYmRiNy1iMDQ5ZjAzYjQ5ODMiLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjoyNH0=",
+      "start_time": "2025-06-09T17:30:00Z",
+      "end_time": "2025-06-09T18:30:00Z",
       "title": "🎙️ PRÉ LIVE",
       "canceled_until": null,
       "category": {
