@@ -49,21 +49,9 @@
       "is_recurring": true
     },
     {
-      "id": "eyJzZWdtZW50SUQiOiIyNjUxOWVjNC1iNjFiLTQ1NzctYjA0OC1jNTcwNzc3NWEwYjgiLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjoxMX0=",
-      "start_time": "2025-03-12T10:00:00Z",
-      "end_time": "2025-03-12T17:00:00Z",
-      "title": "Découvert d’Astro Bot",
-      "canceled_until": null,
-      "category": {
-        "id": "2109666737",
-        "name": "ASTRO BOT"
-      },
-      "is_recurring": true
-    },
-    {
       "id": "eyJzZWdtZW50SUQiOiJmMzQ3OGI3My1mNjgxLTQ4YjctOTM4Ni0xMTBkMTZlMDYzYzciLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjoxMX0=",
-      "start_time": "2025-03-13T12:00:00Z",
-      "end_time": "2025-03-13T18:00:00Z",
+      "start_time": "2025-03-14T19:00:00Z",
+      "end_time": "2025-03-14T23:00:00Z",
       "title": "Suite de l’aventure Astro Bot",
       "canceled_until": null,
       "category": {
@@ -73,21 +61,9 @@
       "is_recurring": true
     },
     {
-      "id": "eyJzZWdtZW50SUQiOiIyODZjYzQwNC1lYmMwLTQ5ZWYtOTMxZC05MmFhOWFmMzRjZDUiLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjoxMX0=",
-      "start_time": "2025-03-14T10:00:00Z",
-      "end_time": "2025-03-14T14:00:00Z",
-      "title": "Code Names avé les copains",
-      "canceled_until": null,
-      "category": {
-        "id": "508509",
-        "name": "Codenames"
-      },
-      "is_recurring": true
-    },
-    {
       "id": "eyJzZWdtZW50SUQiOiJjOGE2YzczYi05ZjQyLTRhZjAtOTM5NC1hYTUzYmExYTNkNDMiLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjoxMX0=",
-      "start_time": "2025-03-14T14:00:00Z",
-      "end_time": "2025-03-14T18:00:00Z",
+      "start_time": "2025-03-16T14:00:00Z",
+      "end_time": "2025-03-16T18:00:00Z",
       "title": "WoW Hardcore avec @Luuxia",
       "canceled_until": null,
       "category": {
@@ -133,21 +109,9 @@
       "is_recurring": true
     },
     {
-      "id": "eyJzZWdtZW50SUQiOiIyNjUxOWVjNC1iNjFiLTQ1NzctYjA0OC1jNTcwNzc3NWEwYjgiLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjoxMn0=",
-      "start_time": "2025-03-19T10:00:00Z",
-      "end_time": "2025-03-19T17:00:00Z",
-      "title": "Découvert d’Astro Bot",
-      "canceled_until": null,
-      "category": {
-        "id": "2109666737",
-        "name": "ASTRO BOT"
-      },
-      "is_recurring": true
-    },
-    {
       "id": "eyJzZWdtZW50SUQiOiJmMzQ3OGI3My1mNjgxLTQ4YjctOTM4Ni0xMTBkMTZlMDYzYzciLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjoxMn0=",
-      "start_time": "2025-03-20T12:00:00Z",
-      "end_time": "2025-03-20T18:00:00Z",
+      "start_time": "2025-03-21T19:00:00Z",
+      "end_time": "2025-03-21T23:00:00Z",
       "title": "Suite de l’aventure Astro Bot",
       "canceled_until": null,
       "category": {
@@ -157,21 +121,9 @@
       "is_recurring": true
     },
     {
-      "id": "eyJzZWdtZW50SUQiOiIyODZjYzQwNC1lYmMwLTQ5ZWYtOTMxZC05MmFhOWFmMzRjZDUiLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjoxMn0=",
-      "start_time": "2025-03-21T10:00:00Z",
-      "end_time": "2025-03-21T14:00:00Z",
-      "title": "Code Names avé les copains",
-      "canceled_until": null,
-      "category": {
-        "id": "508509",
-        "name": "Codenames"
-      },
-      "is_recurring": true
-    },
-    {
       "id": "eyJzZWdtZW50SUQiOiJjOGE2YzczYi05ZjQyLTRhZjAtOTM5NC1hYTUzYmExYTNkNDMiLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjoxMn0=",
-      "start_time": "2025-03-21T14:00:00Z",
-      "end_time": "2025-03-21T18:00:00Z",
+      "start_time": "2025-03-23T14:00:00Z",
+      "end_time": "2025-03-23T18:00:00Z",
       "title": "WoW Hardcore avec @Luuxia",
       "canceled_until": null,
       "category": {
@@ -217,21 +169,9 @@
       "is_recurring": true
     },
     {
-      "id": "eyJzZWdtZW50SUQiOiIyNjUxOWVjNC1iNjFiLTQ1NzctYjA0OC1jNTcwNzc3NWEwYjgiLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjoxM30=",
-      "start_time": "2025-03-26T10:00:00Z",
-      "end_time": "2025-03-26T17:00:00Z",
-      "title": "Découvert d’Astro Bot",
-      "canceled_until": null,
-      "category": {
-        "id": "2109666737",
-        "name": "ASTRO BOT"
-      },
-      "is_recurring": true
-    },
-    {
       "id": "eyJzZWdtZW50SUQiOiJmMzQ3OGI3My1mNjgxLTQ4YjctOTM4Ni0xMTBkMTZlMDYzYzciLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjoxM30=",
-      "start_time": "2025-03-27T12:00:00Z",
-      "end_time": "2025-03-27T18:00:00Z",
+      "start_time": "2025-03-28T19:00:00Z",
+      "end_time": "2025-03-28T23:00:00Z",
       "title": "Suite de l’aventure Astro Bot",
       "canceled_until": null,
       "category": {
@@ -241,14 +181,74 @@
       "is_recurring": true
     },
     {
-      "id": "eyJzZWdtZW50SUQiOiIyODZjYzQwNC1lYmMwLTQ5ZWYtOTMxZC05MmFhOWFmMzRjZDUiLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjoxM30=",
-      "start_time": "2025-03-28T10:00:00Z",
-      "end_time": "2025-03-28T14:00:00Z",
-      "title": "Code Names avé les copains",
+      "id": "eyJzZWdtZW50SUQiOiJjOGE2YzczYi05ZjQyLTRhZjAtOTM5NC1hYTUzYmExYTNkNDMiLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjoxM30=",
+      "start_time": "2025-03-30T13:00:00Z",
+      "end_time": "2025-03-30T17:00:00Z",
+      "title": "WoW Hardcore avec @Luuxia",
       "canceled_until": null,
       "category": {
-        "id": "508509",
-        "name": "Codenames"
+        "id": "18122",
+        "name": "World of Warcraft"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiIzN2ZhOWU2NC02NjA4LTRmZjgtOTEwOC1kZTgxN2JjMTdjYzMiLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjoxNH0=",
+      "start_time": "2025-03-31T09:00:00Z",
+      "end_time": "2025-03-31T16:00:00Z",
+      "title": "Culture & plaisir sur le Maitre des Fleurs",
+      "canceled_until": null,
+      "category": {
+        "id": "338715930",
+        "name": "Maitre des Fleurs"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiJiMzFhZmRhMy1jY2JlLTRkOTEtYWU0NS04YTE2NWFiMzc3ZmIiLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjoxNH0=",
+      "start_time": "2025-04-01T09:00:00Z",
+      "end_time": "2025-04-01T13:00:00Z",
+      "title": "Lycans avec les potes",
+      "canceled_until": null,
+      "category": {
+        "id": "1494074023",
+        "name": "Lycans"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiIzZmZhNjNiMi05MzU1LTQ4YWYtOGQ1Yy0xYzEwZGE2MzIyZGYiLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjoxNH0=",
+      "start_time": "2025-04-01T13:00:00Z",
+      "end_time": "2025-04-01T18:00:00Z",
+      "title": "WoW Hardcore avec @Luuxia",
+      "canceled_until": null,
+      "category": {
+        "id": "18122",
+        "name": "World of Warcraft"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiJmMzQ3OGI3My1mNjgxLTQ4YjctOTM4Ni0xMTBkMTZlMDYzYzciLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjoxNH0=",
+      "start_time": "2025-04-04T18:00:00Z",
+      "end_time": "2025-04-04T22:00:00Z",
+      "title": "Suite de l’aventure Astro Bot",
+      "canceled_until": null,
+      "category": {
+        "id": "2109666737",
+        "name": "ASTRO BOT"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiJjOGE2YzczYi05ZjQyLTRhZjAtOTM5NC1hYTUzYmExYTNkNDMiLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjoxNH0=",
+      "start_time": "2025-04-06T13:00:00Z",
+      "end_time": "2025-04-06T17:00:00Z",
+      "title": "WoW Hardcore avec @Luuxia",
+      "canceled_until": null,
+      "category": {
+        "id": "18122",
+        "name": "World of Warcraft"
       },
       "is_recurring": true
     }

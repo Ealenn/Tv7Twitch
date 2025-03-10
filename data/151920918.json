@@ -13,10 +13,10 @@
   },
   "schedulers": [
     {
-      "id": "eyJzZWdtZW50SUQiOiJiNDA0ZWQyMC01M2Y1LTRmMzQtYTBmOC1mYjM4MDc0YWNmN2EiLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjoxMX0=",
-      "start_time": "2025-03-12T19:45:00Z",
-      "end_time": "2025-03-13T00:45:00Z",
-      "title": "NASA's SpaceX Crew-10 Launch",
+      "id": "eyJzZWdtZW50SUQiOiI2NTNlOTVlNC1jNTgwLTRmNWMtYTcxNi03OWEwYmVhZTFkYWQiLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjoxMX0=",
+      "start_time": "2025-03-11T02:15:00Z",
+      "end_time": "2025-03-11T04:15:00Z",
+      "title": "SPHEREx and PUNCH Launch",
       "canceled_until": null,
       "category": {
         "id": "509670",
@@ -25,10 +25,10 @@
       "is_recurring": false
     },
     {
-      "id": "eyJzZWdtZW50SUQiOiI2NTNlOTVlNC1jNTgwLTRmNWMtYTcxNi03OWEwYmVhZTFkYWQiLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjoxOH0=",
-      "start_time": "2025-05-01T01:15:00Z",
-      "end_time": "2025-05-01T03:15:00Z",
-      "title": "SPHEREx and PUNCH Launch Time and Date TBD",
+      "id": "eyJzZWdtZW50SUQiOiJiNDA0ZWQyMC01M2Y1LTRmMzQtYTBmOC1mYjM4MDc0YWNmN2EiLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjoxMX0=",
+      "start_time": "2025-03-12T19:45:00Z",
+      "end_time": "2025-03-13T00:45:00Z",
+      "title": "NASA's SpaceX Crew-10 Launch",
       "canceled_until": null,
       "category": {
         "id": "509670",
