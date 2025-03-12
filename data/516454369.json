@@ -13,18 +13,6 @@
   },
   "schedulers": [
     {
-      "id": "eyJzZWdtZW50SUQiOiI3ZjAxMTAzZS1hOTBlLTQxNmQtOTg1My1jNmIzYzU1Mjg3NjIiLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjoxMX0=",
-      "start_time": "2025-03-11T09:00:00Z",
-      "end_time": "2025-03-11T11:00:00Z",
-      "title": "Visite du système solaire 🚀",
-      "canceled_until": null,
-      "category": {
-        "id": "80607",
-        "name": "Elite: Dangerous"
-      },
-      "is_recurring": false
-    },
-    {
       "id": "eyJzZWdtZW50SUQiOiIyZGNmMTUzNy03NmY4LTQ3OWQtYjI1OS0wZDJlM2FjODBkNzQiLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjoxNX0=",
       "start_time": "2025-04-08T08:00:00Z",
       "end_time": "2025-04-08T10:00:00Z",
