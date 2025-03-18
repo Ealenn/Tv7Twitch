@@ -7,9 +7,70 @@
     "broadcaster_type": "partner",
     "description": "",
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/3cdae7df-600c-4833-8dfe-8d2abc5a3b25-profile_image-300x300.png",
-    "offline_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/583f5474-d9ec-4430-941a-821af0a08131-channel_offline_image-1920x1080.png",
+    "offline_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/9fb84579-fac9-46a7-8df1-0a09bd80fa58-channel_offline_image-1920x1080.png",
     "view_count": 0,
     "created_at": "2013-02-05T19:20:22Z"
   },
-  "schedulers": []
+  "schedulers": [
+    {
+      "id": "eyJzZWdtZW50SUQiOiI5OTZjZTFlNS1jYWRlLTQ3MzMtOWU0Yi03MzgxMGY4NGM2MDMiLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjoxMn0=",
+      "start_time": "2025-03-18T12:00:00Z",
+      "end_time": "2025-03-18T13:00:00Z",
+      "title": "🎙️ PRÉ-LIVE",
+      "canceled_until": null,
+      "category": {
+        "id": "509658",
+        "name": "Just Chatting"
+      },
+      "is_recurring": false
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiJjODc0ZTA4OC1iYjYxLTQyOGItYTg1Ny0zNzg1MDk5ZmJkNWQiLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjoxMn0=",
+      "start_time": "2025-03-18T13:00:00Z",
+      "end_time": "2025-03-18T16:00:00Z",
+      "title": "🔫 SUITE DE L'AVENTURE GTA V",
+      "canceled_until": null,
+      "category": {
+        "id": "32982",
+        "name": "Grand Theft Auto V"
+      },
+      "is_recurring": false
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiIwNTU0Zjg3ZS0yYTZlLTQ3N2MtOWU3OC1kNTFmY2ExZWNjMmIiLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjoxMn0=",
+      "start_time": "2025-03-19T17:00:00Z",
+      "end_time": "2025-03-19T20:00:00Z",
+      "title": "🏓 TOURNOI CHEZ LRB",
+      "canceled_until": null,
+      "category": {
+        "id": "518203",
+        "name": "Sports"
+      },
+      "is_recurring": false
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiJiOWE0ZTdjZS1mZjYxLTQwMGYtODE5Ni03NzBkM2ZlYmU0YWQiLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjoxMn0=",
+      "start_time": "2025-03-20T13:00:00Z",
+      "end_time": "2025-03-20T14:00:00Z",
+      "title": "🎙️ PRÉ-LIVE",
+      "canceled_until": null,
+      "category": {
+        "id": "509658",
+        "name": "Just Chatting"
+      },
+      "is_recurring": false
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiI5MDFiNTNhMS02NmMyLTQ3MWUtYmI2My1mYjYwNWYxOThkOGQiLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjoxMn0=",
+      "start_time": "2025-03-20T14:00:00Z",
+      "end_time": "2025-03-20T18:00:00Z",
+      "title": "🔫 L'AVENTURE SE POURSUIT À LOS SANTOS ",
+      "canceled_until": null,
+      "category": {
+        "id": "32982",
+        "name": "Grand Theft Auto V"
+      },
+      "is_recurring": false
+    }
+  ]
 }

@@ -13,16 +13,40 @@
   },
   "schedulers": [
     {
-      "id": "eyJzZWdtZW50SUQiOiI0N2YwODdkMi1hZDlhLTRlZGMtOTllYS0zOWVmZWJhNzlkZTgiLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjoxMn0=",
-      "start_time": "2025-03-17T19:30:00Z",
-      "end_time": "2025-03-17T23:00:00Z",
-      "title": "Soirée du lundi avec des gens et des jeux",
+      "id": "eyJzZWdtZW50SUQiOiJhZjI4OTg1OC1iYzVlLTRiZDEtODJmYS1hZDNkMWFkMjQ1NTAiLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjoxMn0=",
+      "start_time": "2025-03-18T18:00:00Z",
+      "end_time": "2025-03-18T20:00:00Z",
+      "title": "Découverte d'Assassin's Creed Shadows (Publicité)",
+      "canceled_until": null,
+      "category": {
+        "id": "960705568",
+        "name": "Assassin's Creed Shadows"
+      },
+      "is_recurring": false
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiJkY2I3OTJkZC1iYmE5LTQ1YjAtYmUyMS0wNTcwNzRmNmRlYzkiLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjoxMn0=",
+      "start_time": "2025-03-19T17:00:00Z",
+      "end_time": "2025-03-19T21:00:00Z",
+      "title": "[Sur la chaîne Sakor_] Ping Pong contest",
+      "canceled_until": null,
+      "category": {
+        "id": "518203",
+        "name": "Sports"
+      },
+      "is_recurring": false
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiI5MTljY2MxMy00MzcyLTRlMGMtODk2MC0yNDI5MjJlYTk5ODEiLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjoxMn0=",
+      "start_time": "2025-03-20T19:00:00Z",
+      "end_time": "2025-03-20T21:00:00Z",
+      "title": "BOAT : la culture au sens large. 9e émission",
       "canceled_until": null,
       "category": {
         "id": "509658",
         "name": "Just Chatting"
       },
-      "is_recurring": true
+      "is_recurring": false
     },
     {
       "id": "eyJzZWdtZW50SUQiOiI0N2YwODdkMi1hZDlhLTRlZGMtOTllYS0zOWVmZWJhNzlkZTgiLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjoxM30=",
@@ -220,30 +244,6 @@
       "id": "eyJzZWdtZW50SUQiOiI0N2YwODdkMi1hZDlhLTRlZGMtOTllYS0zOWVmZWJhNzlkZTgiLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjoyOX0=",
       "start_time": "2025-07-14T18:30:00Z",
       "end_time": "2025-07-14T22:00:00Z",
-      "title": "Soirée du lundi avec des gens et des jeux",
-      "canceled_until": null,
-      "category": {
-        "id": "509658",
-        "name": "Just Chatting"
-      },
-      "is_recurring": true
-    },
-    {
-      "id": "eyJzZWdtZW50SUQiOiI0N2YwODdkMi1hZDlhLTRlZGMtOTllYS0zOWVmZWJhNzlkZTgiLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjozMH0=",
-      "start_time": "2025-07-21T18:30:00Z",
-      "end_time": "2025-07-21T22:00:00Z",
-      "title": "Soirée du lundi avec des gens et des jeux",
-      "canceled_until": null,
-      "category": {
-        "id": "509658",
-        "name": "Just Chatting"
-      },
-      "is_recurring": true
-    },
-    {
-      "id": "eyJzZWdtZW50SUQiOiI0N2YwODdkMi1hZDlhLTRlZGMtOTllYS0zOWVmZWJhNzlkZTgiLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjozMX0=",
-      "start_time": "2025-07-28T18:30:00Z",
-      "end_time": "2025-07-28T22:00:00Z",
       "title": "Soirée du lundi avec des gens et des jeux",
       "canceled_until": null,
       "category": {
