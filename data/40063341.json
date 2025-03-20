@@ -13,18 +13,6 @@
   },
   "schedulers": [
     {
-      "id": "eyJzZWdtZW50SUQiOiIwNTU0Zjg3ZS0yYTZlLTQ3N2MtOWU3OC1kNTFmY2ExZWNjMmIiLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjoxMn0=",
-      "start_time": "2025-03-19T17:00:00Z",
-      "end_time": "2025-03-19T20:00:00Z",
-      "title": "🏓 TOURNOI CHEZ LRB",
-      "canceled_until": null,
-      "category": {
-        "id": "518203",
-        "name": "Sports"
-      },
-      "is_recurring": false
-    },
-    {
       "id": "eyJzZWdtZW50SUQiOiJiOWE0ZTdjZS1mZjYxLTQwMGYtODE5Ni03NzBkM2ZlYmU0YWQiLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjoxMn0=",
       "start_time": "2025-03-20T13:00:00Z",
       "end_time": "2025-03-20T14:00:00Z",
