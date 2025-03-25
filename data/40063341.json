@@ -7,9 +7,106 @@
     "broadcaster_type": "partner",
     "description": "",
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/3cdae7df-600c-4833-8dfe-8d2abc5a3b25-profile_image-300x300.png",
-    "offline_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/9fb84579-fac9-46a7-8df1-0a09bd80fa58-channel_offline_image-1920x1080.png",
+    "offline_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/814539a9-11ea-4a99-8925-bc2ee9593f0a-channel_offline_image-1920x1080.png",
     "view_count": 0,
     "created_at": "2013-02-05T19:20:22Z"
   },
-  "schedulers": []
+  "schedulers": [
+    {
+      "id": "eyJzZWdtZW50SUQiOiJmMzRlZTgwNi1iNzBjLTRjOWUtOWQyYS0yYWQ5MzE5YWYxMWYiLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjoxM30=",
+      "start_time": "2025-03-25T14:00:00Z",
+      "end_time": "2025-03-25T15:00:00Z",
+      "title": "⚽ DEBRIEF DRAFT KINGS LEAGUE",
+      "canceled_until": null,
+      "category": {
+        "id": "509658",
+        "name": "Just Chatting"
+      },
+      "is_recurring": false
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiJkM2EzNzcyNS01NDE2LTQwOWItYjA5Yi0xN2VmZDlmZTVmZWIiLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjoxM30=",
+      "start_time": "2025-03-25T15:00:00Z",
+      "end_time": "2025-03-25T18:00:00Z",
+      "title": "🚔 SUITE DE L'AVENTURE GTA V",
+      "canceled_until": null,
+      "category": {
+        "id": "32982",
+        "name": "Grand Theft Auto V"
+      },
+      "is_recurring": false
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiJjMGJhZDRkOC1kZTZhLTQyODktOTk2NC02ZTUwNzA3OTQ2NWQiLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjoxM30=",
+      "start_time": "2025-03-26T13:00:00Z",
+      "end_time": "2025-03-26T14:00:00Z",
+      "title": "🎙 PRÉ LIVE",
+      "canceled_until": null,
+      "category": {
+        "id": "509658",
+        "name": "Just Chatting"
+      },
+      "is_recurring": false
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiI0NjgzMzNhMC0zMjg0LTRhYmUtYTc4OC03Mzg4MzlmMzhlZjAiLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjoxM30=",
+      "start_time": "2025-03-26T14:00:00Z",
+      "end_time": "2025-03-26T18:00:00Z",
+      "title": "🚔 ON CONTINUE L'AVENTURE GTA V",
+      "canceled_until": null,
+      "category": {
+        "id": "32982",
+        "name": "Grand Theft Auto V"
+      },
+      "is_recurring": false
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiI5Y2RkMWE2MC1hMjljLTRjN2QtYTRiNS1kZmIyMmViOGIzMGMiLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjoxM30=",
+      "start_time": "2025-03-27T13:00:00Z",
+      "end_time": "2025-03-27T14:00:00Z",
+      "title": "🎙 PRÉ LIVE",
+      "canceled_until": null,
+      "category": {
+        "id": "509658",
+        "name": "Just Chatting"
+      },
+      "is_recurring": false
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiJlMTlhZDMzNS00ODlmLTRjMWQtOTU1Ny1mZTgzZGU0NmZjYjAiLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjoxM30=",
+      "start_time": "2025-03-27T14:00:00Z",
+      "end_time": "2025-03-27T18:00:00Z",
+      "title": "🚔 ON CONTINUE L'AVENTURE GTA V",
+      "canceled_until": null,
+      "category": {
+        "id": "32982",
+        "name": "Grand Theft Auto V"
+      },
+      "is_recurring": false
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiI1NDVlOTQxNy04YjdjLTQzOWEtYjRmOS04NDc2NWU1N2Q0ZGMiLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjoxM30=",
+      "start_time": "2025-03-28T13:00:00Z",
+      "end_time": "2025-03-28T14:00:00Z",
+      "title": "🎙 PRÉ LIVE",
+      "canceled_until": null,
+      "category": {
+        "id": "509658",
+        "name": "Just Chatting"
+      },
+      "is_recurring": false
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiJlOTllYTJkMi1mNDBhLTQ5ZjMtYmQ3NC1jOTVlOTA0ODgyZjIiLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjoxM30=",
+      "start_time": "2025-03-28T14:00:00Z",
+      "end_time": "2025-03-28T18:00:00Z",
+      "title": "🚔 ON TERMINE L'AVENTURE GTA V",
+      "canceled_until": null,
+      "category": {
+        "id": "32982",
+        "name": "Grand Theft Auto V"
+      },
+      "is_recurring": false
+    }
+  ]
 }
