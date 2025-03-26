@@ -13,27 +13,6 @@
   },
   "schedulers": [
     {
-      "id": "eyJzZWdtZW50SUQiOiJiMzFhZmRhMy1jY2JlLTRkOTEtYWU0NS04YTE2NWFiMzc3ZmIiLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjoxM30=",
-      "start_time": "2025-03-25T14:00:00Z",
-      "end_time": "2025-03-25T19:00:00Z",
-      "title": "Training Zlan",
-      "canceled_until": null,
-      "category": null,
-      "is_recurring": true
-    },
-    {
-      "id": "eyJzZWdtZW50SUQiOiJlMmM0ODE3MC05MDFkLTRkNWYtOWE2ZC1lOGMyNjU2OTZmODkiLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjoxM30=",
-      "start_time": "2025-03-25T19:00:00Z",
-      "end_time": "2025-03-25T22:00:00Z",
-      "title": "Fight for Sub Mini royale",
-      "canceled_until": null,
-      "category": {
-        "id": "595375512",
-        "name": "Mini Royale"
-      },
-      "is_recurring": true
-    },
-    {
       "id": "eyJzZWdtZW50SUQiOiIzZWRhY2M1Ni0xOGRmLTQzYWMtYWQ3NC02NzgyZGEwZjNjMWMiLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjoxM30=",
       "start_time": "2025-03-26T19:00:00Z",
       "end_time": "2025-03-26T23:00:00Z",
@@ -47,8 +26,8 @@
     },
     {
       "id": "eyJzZWdtZW50SUQiOiJmMzQ3OGI3My1mNjgxLTQ4YjctOTM4Ni0xMTBkMTZlMDYzYzciLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjoxM30=",
-      "start_time": "2025-03-27T12:00:00Z",
-      "end_time": "2025-03-27T18:00:00Z",
+      "start_time": "2025-03-27T13:00:00Z",
+      "end_time": "2025-03-27T19:00:00Z",
       "title": "Suite de l’aventure Astro Bot",
       "canceled_until": null,
       "category": {
@@ -56,6 +35,18 @@
         "name": "ASTRO BOT"
       },
       "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiIxZjdhMGMwOC0wMjZiLTRkYjQtOTQ0Yi1mNjdmNDcyNDM2MWQiLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjoxM30=",
+      "start_time": "2025-03-27T19:00:00Z",
+      "end_time": "2025-03-27T21:00:00Z",
+      "title": "Découverte en multi (MV, Bagz, Etoiles, DFG, Croco,...)",
+      "canceled_until": null,
+      "category": {
+        "id": "1947549451",
+        "name": "Castle of Blackwater"
+      },
+      "is_recurring": false
     },
     {
       "id": "eyJzZWdtZW50SUQiOiJmY2U3ZDA4NS05OTU2LTQyZTItODlkNy1iMThmMDRjZDA0NDciLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjoxM30=",
@@ -125,8 +116,8 @@
     },
     {
       "id": "eyJzZWdtZW50SUQiOiJmMzQ3OGI3My1mNjgxLTQ4YjctOTM4Ni0xMTBkMTZlMDYzYzciLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjoxNH0=",
-      "start_time": "2025-04-03T11:00:00Z",
-      "end_time": "2025-04-03T17:00:00Z",
+      "start_time": "2025-04-03T12:00:00Z",
+      "end_time": "2025-04-03T18:00:00Z",
       "title": "Suite de l’aventure Astro Bot",
       "canceled_until": null,
       "category": {
@@ -203,8 +194,8 @@
     },
     {
       "id": "eyJzZWdtZW50SUQiOiJmMzQ3OGI3My1mNjgxLTQ4YjctOTM4Ni0xMTBkMTZlMDYzYzciLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjoxNX0=",
-      "start_time": "2025-04-10T11:00:00Z",
-      "end_time": "2025-04-10T17:00:00Z",
+      "start_time": "2025-04-10T12:00:00Z",
+      "end_time": "2025-04-10T18:00:00Z",
       "title": "Suite de l’aventure Astro Bot",
       "canceled_until": null,
       "category": {
@@ -231,6 +222,18 @@
       "category": {
         "id": "18122",
         "name": "World of Warcraft"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiIzN2ZhOWU2NC02NjA4LTRmZjgtOTEwOC1kZTgxN2JjMTdjYzMiLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjoxNn0=",
+      "start_time": "2025-04-14T09:00:00Z",
+      "end_time": "2025-04-14T16:00:00Z",
+      "title": "Culture & plaisir sur le Maitre des Fleurs",
+      "canceled_until": null,
+      "category": {
+        "id": "338715930",
+        "name": "Maitre des Fleurs"
       },
       "is_recurring": true
     }
