@@ -13,30 +13,6 @@
   },
   "schedulers": [
     {
-      "id": "eyJzZWdtZW50SUQiOiI5Y2RkMWE2MC1hMjljLTRjN2QtYTRiNS1kZmIyMmViOGIzMGMiLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjoxM30=",
-      "start_time": "2025-03-27T13:00:00Z",
-      "end_time": "2025-03-27T14:00:00Z",
-      "title": "🎙 PRÉ LIVE",
-      "canceled_until": null,
-      "category": {
-        "id": "509658",
-        "name": "Just Chatting"
-      },
-      "is_recurring": false
-    },
-    {
-      "id": "eyJzZWdtZW50SUQiOiJlMTlhZDMzNS00ODlmLTRjMWQtOTU1Ny1mZTgzZGU0NmZjYjAiLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjoxM30=",
-      "start_time": "2025-03-27T14:00:00Z",
-      "end_time": "2025-03-27T18:00:00Z",
-      "title": "🚔 ON CONTINUE L'AVENTURE GTA V",
-      "canceled_until": null,
-      "category": {
-        "id": "32982",
-        "name": "Grand Theft Auto V"
-      },
-      "is_recurring": false
-    },
-    {
       "id": "eyJzZWdtZW50SUQiOiI1NDVlOTQxNy04YjdjLTQzOWEtYjRmOS04NDc2NWU1N2Q0ZGMiLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjoxM30=",
       "start_time": "2025-03-28T13:00:00Z",
       "end_time": "2025-03-28T14:00:00Z",

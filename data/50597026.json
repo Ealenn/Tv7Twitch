@@ -13,30 +13,6 @@
   },
   "schedulers": [
     {
-      "id": "eyJzZWdtZW50SUQiOiJmMzQ3OGI3My1mNjgxLTQ4YjctOTM4Ni0xMTBkMTZlMDYzYzciLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjoxM30=",
-      "start_time": "2025-03-27T13:00:00Z",
-      "end_time": "2025-03-27T19:00:00Z",
-      "title": "Suite de l’aventure Astro Bot",
-      "canceled_until": null,
-      "category": {
-        "id": "2109666737",
-        "name": "ASTRO BOT"
-      },
-      "is_recurring": true
-    },
-    {
-      "id": "eyJzZWdtZW50SUQiOiIxZjdhMGMwOC0wMjZiLTRkYjQtOTQ0Yi1mNjdmNDcyNDM2MWQiLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjoxM30=",
-      "start_time": "2025-03-27T19:00:00Z",
-      "end_time": "2025-03-27T21:00:00Z",
-      "title": "Découverte en multi (MV, Bagz, Etoiles, DFG, Croco,...)",
-      "canceled_until": null,
-      "category": {
-        "id": "1947549451",
-        "name": "Castle of Blackwater"
-      },
-      "is_recurring": false
-    },
-    {
       "id": "eyJzZWdtZW50SUQiOiIzZmZhNjNiMi05MzU1LTQ4YWYtOGQ1Yy0xYzEwZGE2MzIyZGYiLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjoxM30=",
       "start_time": "2025-03-30T16:00:00Z",
       "end_time": "2025-03-30T20:00:00Z",
@@ -240,6 +216,30 @@
       "category": {
         "id": "2109666737",
         "name": "ASTRO BOT"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiIzZmZhNjNiMi05MzU1LTQ4YWYtOGQ1Yy0xYzEwZGE2MzIyZGYiLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjoxNn0=",
+      "start_time": "2025-04-20T16:00:00Z",
+      "end_time": "2025-04-20T20:00:00Z",
+      "title": "WoW Hardcore, 1er raid MC avec la Cowlab",
+      "canceled_until": null,
+      "category": {
+        "id": "18122",
+        "name": "World of Warcraft"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiIzN2ZhOWU2NC02NjA4LTRmZjgtOTEwOC1kZTgxN2JjMTdjYzMiLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjoxN30=",
+      "start_time": "2025-04-21T09:00:00Z",
+      "end_time": "2025-04-21T16:00:00Z",
+      "title": "Culture & plaisir sur le Maitre des Fleurs",
+      "canceled_until": null,
+      "category": {
+        "id": "338715930",
+        "name": "Maitre des Fleurs"
       },
       "is_recurring": true
     }
