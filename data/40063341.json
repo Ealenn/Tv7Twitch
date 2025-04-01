@@ -7,9 +7,115 @@
     "broadcaster_type": "partner",
     "description": "",
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/3cdae7df-600c-4833-8dfe-8d2abc5a3b25-profile_image-300x300.png",
-    "offline_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/814539a9-11ea-4a99-8925-bc2ee9593f0a-channel_offline_image-1920x1080.png",
+    "offline_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/1e940f73-8fff-4b5e-bbf2-73dc37df48ae-channel_offline_image-1920x1080.png",
     "view_count": 0,
     "created_at": "2013-02-05T19:20:22Z"
   },
-  "schedulers": []
+  "schedulers": [
+    {
+      "id": "eyJzZWdtZW50SUQiOiJmNmFjODY3Mi0zNWU1LTRhOWYtOTk3Zi1lODA5YjNhNmMxMTkiLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjoxNH0=",
+      "start_time": "2025-04-01T12:00:00Z",
+      "end_time": "2025-04-01T13:00:00Z",
+      "title": "🎙️ PRÉ-LIVE",
+      "canceled_until": null,
+      "category": {
+        "id": "509658",
+        "name": "Just Chatting"
+      },
+      "is_recurring": false
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiI0Zjg0YmU0Mi01NjViLTQ2MjYtOTFjYi1mMWFiZDEwNGNhYjciLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjoxNH0=",
+      "start_time": "2025-04-01T13:00:00Z",
+      "end_time": "2025-04-01T17:00:00Z",
+      "title": "🔫 NOUVELLE SEMAINE À LOS SANTOS",
+      "canceled_until": null,
+      "category": {
+        "id": "32982",
+        "name": "Grand Theft Auto V"
+      },
+      "is_recurring": false
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiIzZTZjNjM2OC1kNzRkLTQyYjMtYjZiZi02ZjBlNjU5ZDI3ZjQiLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjoxNH0=",
+      "start_time": "2025-04-02T12:00:00Z",
+      "end_time": "2025-04-02T13:00:00Z",
+      "title": "🎙️ PRÉ-LIVE",
+      "canceled_until": null,
+      "category": {
+        "id": "509658",
+        "name": "Just Chatting"
+      },
+      "is_recurring": false
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiI1N2Y0ZjMxZS0xNGIyLTRjZDItOGYyMS01YmQ0ZDYwYWU3YjAiLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjoxNH0=",
+      "start_time": "2025-04-02T13:00:00Z",
+      "end_time": "2025-04-02T17:00:00Z",
+      "title": "🔫 EL DOMINGO BANDITO ",
+      "canceled_until": null,
+      "category": {
+        "id": "32982",
+        "name": "Grand Theft Auto V"
+      },
+      "is_recurring": false
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiI2ODZiNDFmNS04ZDY0LTRmNDctYTJmNC0wNjAzNGE5NmRkN2YiLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjoxNH0=",
+      "start_time": "2025-04-03T12:00:00Z",
+      "end_time": "2025-04-03T13:00:00Z",
+      "title": "🎙️ PRÉ-LIVE",
+      "canceled_until": null,
+      "category": {
+        "id": "509658",
+        "name": "Just Chatting"
+      },
+      "is_recurring": false
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiIxMmZmYjFlZC1lNzg0LTQzYmUtYjg3YS05MWZhM2Q0NzQxMTciLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjoxNH0=",
+      "start_time": "2025-04-03T13:00:00Z",
+      "end_time": "2025-04-03T15:00:00Z",
+      "title": "STREAM LIBRE",
+      "canceled_until": null,
+      "category": null,
+      "is_recurring": false
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiI3ZjI3YWQyNS0yODdiLTQ1YTAtODIwYi04M2UzMWRjZjU5MjciLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjoxNH0=",
+      "start_time": "2025-04-04T12:00:00Z",
+      "end_time": "2025-04-04T13:00:00Z",
+      "title": "🎙️ PRÉ-LIVE AVEC XARI",
+      "canceled_until": null,
+      "category": {
+        "id": "509658",
+        "name": "Just Chatting"
+      },
+      "is_recurring": false
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiIwNWI5YmI5My01NjdmLTRkY2QtYjk0MS05OTFhMDg2ODVmZDIiLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjoxNH0=",
+      "start_time": "2025-04-04T13:00:00Z",
+      "end_time": "2025-04-04T16:00:00Z",
+      "title": "🃏 OPENING SWAP NBA & POKEMON AVEC XARI",
+      "canceled_until": null,
+      "category": {
+        "id": "509658",
+        "name": "Just Chatting"
+      },
+      "is_recurring": false
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiI0NjZkOTYxZS03N2E3LTQwOTItODNiMC00ZTI1ZmYxODdlMDAiLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjoxNH0=",
+      "start_time": "2025-04-06T14:00:00Z",
+      "end_time": "2025-04-06T18:00:00Z",
+      "title": "⚽️ 1RE JOURNÉE DE KINGS LEAGUE (MATCH FC SILMI À 18H)",
+      "canceled_until": null,
+      "category": {
+        "id": "232697171",
+        "name": "Football"
+      },
+      "is_recurring": false
+    }
+  ]
 }
