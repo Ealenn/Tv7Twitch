@@ -13,15 +13,6 @@
   },
   "schedulers": [
     {
-      "id": "eyJzZWdtZW50SUQiOiI2ODZiNDFmNS04ZDY0LTRmNDctYTJmNC0wNjAzNGE5NmRkN2YiLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjoxNH0=",
-      "start_time": "2025-04-03T12:00:00Z",
-      "end_time": "2025-04-03T15:00:00Z",
-      "title": "❌ LIVE ANNULÉ",
-      "canceled_until": null,
-      "category": null,
-      "is_recurring": false
-    },
-    {
       "id": "eyJzZWdtZW50SUQiOiI3ZjI3YWQyNS0yODdiLTQ1YTAtODIwYi04M2UzMWRjZjU5MjciLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjoxNH0=",
       "start_time": "2025-04-04T12:00:00Z",
       "end_time": "2025-04-04T14:00:00Z",
