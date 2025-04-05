@@ -13,30 +13,6 @@
   },
   "schedulers": [
     {
-      "id": "eyJzZWdtZW50SUQiOiI3ZjI3YWQyNS0yODdiLTQ1YTAtODIwYi04M2UzMWRjZjU5MjciLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjoxNH0=",
-      "start_time": "2025-04-04T12:00:00Z",
-      "end_time": "2025-04-04T14:00:00Z",
-      "title": "🎙️ PRÉ-LIVE AVEC ANDRÉ ⚽️",
-      "canceled_until": null,
-      "category": {
-        "id": "509658",
-        "name": "Just Chatting"
-      },
-      "is_recurring": false
-    },
-    {
-      "id": "eyJzZWdtZW50SUQiOiIwNWI5YmI5My01NjdmLTRkY2QtYjk0MS05OTFhMDg2ODVmZDIiLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjoxNH0=",
-      "start_time": "2025-04-04T14:00:00Z",
-      "end_time": "2025-04-04T16:00:00Z",
-      "title": "🃏 OPENING SWAP NBA & POKEMON AVEC XARI",
-      "canceled_until": null,
-      "category": {
-        "id": "509658",
-        "name": "Just Chatting"
-      },
-      "is_recurring": false
-    },
-    {
       "id": "eyJzZWdtZW50SUQiOiI0NjZkOTYxZS03N2E3LTQwOTItODNiMC00ZTI1ZmYxODdlMDAiLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjoxNH0=",
       "start_time": "2025-04-06T14:00:00Z",
       "end_time": "2025-04-06T18:00:00Z",
