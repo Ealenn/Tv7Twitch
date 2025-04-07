@@ -25,42 +25,60 @@
       "is_recurring": true
     },
     {
-      "id": "eyJzZWdtZW50SUQiOiIyZjcwMjA0MC01OWMwLTRhMDItYjI0YS05OTBkOGY4YmNhYTgiLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjoxNX0=",
-      "start_time": "2025-04-08T09:00:00Z",
-      "end_time": "2025-04-08T13:00:00Z",
-      "title": "LYCANS",
+      "id": "eyJzZWdtZW50SUQiOiJiMzFhZmRhMy1jY2JlLTRkOTEtYWU0NS04YTE2NWFiMzc3ZmIiLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjoxNX0=",
+      "start_time": "2025-04-08T12:00:00Z",
+      "end_time": "2025-04-08T18:00:00Z",
+      "title": "Training Zlan avec Wingo",
+      "canceled_until": null,
+      "category": null,
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiJkMGZjY2IzZS03ZjU0LTQxZTgtOTMxNS0zYWQwYjM0NDE1NmUiLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjoxNX0=",
+      "start_time": "2025-04-08T18:00:00Z",
+      "end_time": "2025-04-08T22:00:00Z",
+      "title": "Raid Onyxia et Molten Core WoW Hardcore",
       "canceled_until": null,
       "category": {
-        "id": "1494074023",
-        "name": "Lycans"
+        "id": "18122",
+        "name": "World of Warcraft"
       },
       "is_recurring": true
     },
     {
-      "id": "eyJzZWdtZW50SUQiOiJiMzFhZmRhMy1jY2JlLTRkOTEtYWU0NS04YTE2NWFiMzc3ZmIiLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjoxNX0=",
-      "start_time": "2025-04-08T13:00:00Z",
-      "end_time": "2025-04-08T18:00:00Z",
-      "title": "Training Zlan",
+      "id": "eyJzZWdtZW50SUQiOiJkNDI5NTgxZC0xOTg4LTQ4ZjYtYjI4YS00OWQ0Mzk2ZjUwODMiLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjoxNX0=",
+      "start_time": "2025-04-09T09:00:00Z",
+      "end_time": "2025-04-09T16:00:00Z",
+      "title": "Training Zlan avec Wingo",
       "canceled_until": null,
       "category": null,
       "is_recurring": true
     },
     {
       "id": "eyJzZWdtZW50SUQiOiI5OTU1MzY1YS0wZjFjLTQ3ZmUtYmNlZS04NDAzMDM2NmI5YjgiLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjoxNX0=",
-      "start_time": "2025-04-09T11:00:00Z",
-      "end_time": "2025-04-09T13:00:00Z",
-      "title": "Nintendo direct (Switch 2 hype)",
+      "start_time": "2025-04-10T09:00:00Z",
+      "end_time": "2025-04-10T15:00:00Z",
+      "title": "Training Zlan avec Wingo",
+      "canceled_until": null,
+      "category": null,
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiJlMzI2YTgxMy02MjkxLTRjMTAtODJjNi01NmQ5N2M2OTg1YjgiLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjoxNX0=",
+      "start_time": "2025-04-10T15:00:00Z",
+      "end_time": "2025-04-10T18:00:00Z",
+      "title": "Star Overdrive",
       "canceled_until": null,
       "category": {
-        "id": "509663",
-        "name": "Special Events"
+        "id": "1831853453",
+        "name": "Star Overdrive"
       },
       "is_recurring": true
     },
     {
       "id": "eyJzZWdtZW50SUQiOiI3ZTRkZGNkMy04N2I0LTQyZTUtOGI5Zi04ZmZiNDY1MGMxZWYiLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjoxNX0=",
-      "start_time": "2025-04-11T14:00:00Z",
-      "end_time": "2025-04-11T18:00:00Z",
+      "start_time": "2025-04-11T09:00:00Z",
+      "end_time": "2025-04-11T16:00:00Z",
       "title": "Training ZLAN avec Wingo",
       "canceled_until": null,
       "category": null,
@@ -79,42 +97,60 @@
       "is_recurring": true
     },
     {
-      "id": "eyJzZWdtZW50SUQiOiIyZjcwMjA0MC01OWMwLTRhMDItYjI0YS05OTBkOGY4YmNhYTgiLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjoxNn0=",
-      "start_time": "2025-04-15T09:00:00Z",
-      "end_time": "2025-04-15T13:00:00Z",
-      "title": "LYCANS",
+      "id": "eyJzZWdtZW50SUQiOiJiMzFhZmRhMy1jY2JlLTRkOTEtYWU0NS04YTE2NWFiMzc3ZmIiLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjoxNn0=",
+      "start_time": "2025-04-15T12:00:00Z",
+      "end_time": "2025-04-15T18:00:00Z",
+      "title": "Training Zlan avec Wingo",
+      "canceled_until": null,
+      "category": null,
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiJkMGZjY2IzZS03ZjU0LTQxZTgtOTMxNS0zYWQwYjM0NDE1NmUiLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjoxNn0=",
+      "start_time": "2025-04-15T18:00:00Z",
+      "end_time": "2025-04-15T22:00:00Z",
+      "title": "Raid Onyxia et Molten Core WoW Hardcore",
       "canceled_until": null,
       "category": {
-        "id": "1494074023",
-        "name": "Lycans"
+        "id": "18122",
+        "name": "World of Warcraft"
       },
       "is_recurring": true
     },
     {
-      "id": "eyJzZWdtZW50SUQiOiJiMzFhZmRhMy1jY2JlLTRkOTEtYWU0NS04YTE2NWFiMzc3ZmIiLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjoxNn0=",
-      "start_time": "2025-04-15T13:00:00Z",
-      "end_time": "2025-04-15T18:00:00Z",
-      "title": "Training Zlan",
+      "id": "eyJzZWdtZW50SUQiOiJkNDI5NTgxZC0xOTg4LTQ4ZjYtYjI4YS00OWQ0Mzk2ZjUwODMiLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjoxNn0=",
+      "start_time": "2025-04-16T09:00:00Z",
+      "end_time": "2025-04-16T16:00:00Z",
+      "title": "Training Zlan avec Wingo",
       "canceled_until": null,
       "category": null,
       "is_recurring": true
     },
     {
       "id": "eyJzZWdtZW50SUQiOiI5OTU1MzY1YS0wZjFjLTQ3ZmUtYmNlZS04NDAzMDM2NmI5YjgiLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjoxNn0=",
-      "start_time": "2025-04-16T11:00:00Z",
-      "end_time": "2025-04-16T13:00:00Z",
-      "title": "Nintendo direct (Switch 2 hype)",
+      "start_time": "2025-04-17T09:00:00Z",
+      "end_time": "2025-04-17T15:00:00Z",
+      "title": "Training Zlan avec Wingo",
+      "canceled_until": null,
+      "category": null,
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiJlMzI2YTgxMy02MjkxLTRjMTAtODJjNi01NmQ5N2M2OTg1YjgiLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjoxNn0=",
+      "start_time": "2025-04-17T15:00:00Z",
+      "end_time": "2025-04-17T18:00:00Z",
+      "title": "Star Overdrive",
       "canceled_until": null,
       "category": {
-        "id": "509663",
-        "name": "Special Events"
+        "id": "1831853453",
+        "name": "Star Overdrive"
       },
       "is_recurring": true
     },
     {
       "id": "eyJzZWdtZW50SUQiOiI3ZTRkZGNkMy04N2I0LTQyZTUtOGI5Zi04ZmZiNDY1MGMxZWYiLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjoxNn0=",
-      "start_time": "2025-04-18T14:00:00Z",
-      "end_time": "2025-04-18T18:00:00Z",
+      "start_time": "2025-04-18T09:00:00Z",
+      "end_time": "2025-04-18T16:00:00Z",
       "title": "Training ZLAN avec Wingo",
       "canceled_until": null,
       "category": null,
@@ -133,99 +169,54 @@
       "is_recurring": true
     },
     {
-      "id": "eyJzZWdtZW50SUQiOiIyZjcwMjA0MC01OWMwLTRhMDItYjI0YS05OTBkOGY4YmNhYTgiLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjoxN30=",
-      "start_time": "2025-04-22T09:00:00Z",
-      "end_time": "2025-04-22T13:00:00Z",
-      "title": "LYCANS",
+      "id": "eyJzZWdtZW50SUQiOiJiMzFhZmRhMy1jY2JlLTRkOTEtYWU0NS04YTE2NWFiMzc3ZmIiLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjoxN30=",
+      "start_time": "2025-04-22T12:00:00Z",
+      "end_time": "2025-04-22T18:00:00Z",
+      "title": "Training Zlan avec Wingo",
+      "canceled_until": null,
+      "category": null,
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiJkMGZjY2IzZS03ZjU0LTQxZTgtOTMxNS0zYWQwYjM0NDE1NmUiLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjoxN30=",
+      "start_time": "2025-04-22T18:00:00Z",
+      "end_time": "2025-04-22T22:00:00Z",
+      "title": "Raid Onyxia et Molten Core WoW Hardcore",
       "canceled_until": null,
       "category": {
-        "id": "1494074023",
-        "name": "Lycans"
+        "id": "18122",
+        "name": "World of Warcraft"
       },
       "is_recurring": true
     },
     {
-      "id": "eyJzZWdtZW50SUQiOiJiMzFhZmRhMy1jY2JlLTRkOTEtYWU0NS04YTE2NWFiMzc3ZmIiLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjoxN30=",
-      "start_time": "2025-04-22T13:00:00Z",
-      "end_time": "2025-04-22T18:00:00Z",
-      "title": "Training Zlan",
+      "id": "eyJzZWdtZW50SUQiOiJkNDI5NTgxZC0xOTg4LTQ4ZjYtYjI4YS00OWQ0Mzk2ZjUwODMiLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjoxN30=",
+      "start_time": "2025-04-23T09:00:00Z",
+      "end_time": "2025-04-23T16:00:00Z",
+      "title": "Training Zlan avec Wingo",
       "canceled_until": null,
       "category": null,
       "is_recurring": true
     },
     {
       "id": "eyJzZWdtZW50SUQiOiI5OTU1MzY1YS0wZjFjLTQ3ZmUtYmNlZS04NDAzMDM2NmI5YjgiLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjoxN30=",
-      "start_time": "2025-04-23T11:00:00Z",
-      "end_time": "2025-04-23T13:00:00Z",
-      "title": "Nintendo direct (Switch 2 hype)",
-      "canceled_until": null,
-      "category": {
-        "id": "509663",
-        "name": "Special Events"
-      },
-      "is_recurring": true
-    },
-    {
-      "id": "eyJzZWdtZW50SUQiOiI3ZTRkZGNkMy04N2I0LTQyZTUtOGI5Zi04ZmZiNDY1MGMxZWYiLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjoxN30=",
-      "start_time": "2025-04-25T14:00:00Z",
-      "end_time": "2025-04-25T18:00:00Z",
-      "title": "Training ZLAN avec Wingo",
+      "start_time": "2025-04-24T09:00:00Z",
+      "end_time": "2025-04-24T15:00:00Z",
+      "title": "Training Zlan avec Wingo",
       "canceled_until": null,
       "category": null,
       "is_recurring": true
     },
     {
-      "id": "eyJzZWdtZW50SUQiOiIzN2ZhOWU2NC02NjA4LTRmZjgtOTEwOC1kZTgxN2JjMTdjYzMiLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjoxOH0=",
-      "start_time": "2025-04-28T09:00:00Z",
-      "end_time": "2025-04-28T16:00:00Z",
-      "title": "Culture & plaisir sur le Maitre des Fleurs",
+      "id": "eyJzZWdtZW50SUQiOiJlMzI2YTgxMy02MjkxLTRjMTAtODJjNi01NmQ5N2M2OTg1YjgiLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjoxN30=",
+      "start_time": "2025-04-24T15:00:00Z",
+      "end_time": "2025-04-24T18:00:00Z",
+      "title": "Star Overdrive",
       "canceled_until": null,
       "category": {
-        "id": "338715930",
-        "name": "Maitre des Fleurs"
+        "id": "1831853453",
+        "name": "Star Overdrive"
       },
-      "is_recurring": true
-    },
-    {
-      "id": "eyJzZWdtZW50SUQiOiIyZjcwMjA0MC01OWMwLTRhMDItYjI0YS05OTBkOGY4YmNhYTgiLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjoxOH0=",
-      "start_time": "2025-04-29T09:00:00Z",
-      "end_time": "2025-04-29T13:00:00Z",
-      "title": "LYCANS",
-      "canceled_until": null,
-      "category": {
-        "id": "1494074023",
-        "name": "Lycans"
-      },
-      "is_recurring": true
-    },
-    {
-      "id": "eyJzZWdtZW50SUQiOiJiMzFhZmRhMy1jY2JlLTRkOTEtYWU0NS04YTE2NWFiMzc3ZmIiLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjoxOH0=",
-      "start_time": "2025-04-29T13:00:00Z",
-      "end_time": "2025-04-29T18:00:00Z",
-      "title": "Training Zlan",
-      "canceled_until": null,
-      "category": null,
-      "is_recurring": true
-    },
-    {
-      "id": "eyJzZWdtZW50SUQiOiI5OTU1MzY1YS0wZjFjLTQ3ZmUtYmNlZS04NDAzMDM2NmI5YjgiLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjoxOH0=",
-      "start_time": "2025-04-30T11:00:00Z",
-      "end_time": "2025-04-30T13:00:00Z",
-      "title": "Nintendo direct (Switch 2 hype)",
-      "canceled_until": null,
-      "category": {
-        "id": "509663",
-        "name": "Special Events"
-      },
-      "is_recurring": true
-    },
-    {
-      "id": "eyJzZWdtZW50SUQiOiI3ZTRkZGNkMy04N2I0LTQyZTUtOGI5Zi04ZmZiNDY1MGMxZWYiLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjoxOH0=",
-      "start_time": "2025-05-02T14:00:00Z",
-      "end_time": "2025-05-02T18:00:00Z",
-      "title": "Training ZLAN avec Wingo",
-      "canceled_until": null,
-      "category": null,
       "is_recurring": true
     }
   ]
