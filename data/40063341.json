@@ -7,9 +7,94 @@
     "broadcaster_type": "partner",
     "description": "Président du FC Silmi",
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/3cdae7df-600c-4833-8dfe-8d2abc5a3b25-profile_image-300x300.png",
-    "offline_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/d219d5b1-31c5-4dab-91a8-1fc01683a1f1-channel_offline_image-1920x1080.png",
+    "offline_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/45cab809-f2ad-44ba-819b-30d6cdc5f832-channel_offline_image-1920x1080.png",
     "view_count": 0,
     "created_at": "2013-02-05T19:20:22Z"
   },
-  "schedulers": []
+  "schedulers": [
+    {
+      "id": "eyJzZWdtZW50SUQiOiJmNTU4MTBmNi1mODE3LTQ0ZjMtODA0MC1lZjVmZmU3OTk3YjMiLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjoxNX0=",
+      "start_time": "2025-04-09T12:00:00Z",
+      "end_time": "2025-04-09T13:00:00Z",
+      "title": "🎙 PRÉ LIVE",
+      "canceled_until": null,
+      "category": {
+        "id": "509658",
+        "name": "Just Chatting"
+      },
+      "is_recurring": false
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiJkMzFiZDMxYS03NWFkLTQ5YWQtYjZkYS0wN2I0NWJlOTRhNjciLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjoxNX0=",
+      "start_time": "2025-04-09T13:00:00Z",
+      "end_time": "2025-04-09T17:00:00Z",
+      "title": "✨ DÉBUT DU LET'S PLAY",
+      "canceled_until": null,
+      "category": {
+        "id": "65950",
+        "name": "Beyond: Two Souls"
+      },
+      "is_recurring": false
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiJkY2MxMGM4NC0zMjZkLTQ4MjUtOGE0Zi0xNGU1MjU1NDMyNzgiLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjoxNX0=",
+      "start_time": "2025-04-10T12:00:00Z",
+      "end_time": "2025-04-10T13:00:00Z",
+      "title": "🎙 PRÉ LIVE",
+      "canceled_until": null,
+      "category": {
+        "id": "509658",
+        "name": "Just Chatting"
+      },
+      "is_recurring": false
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiJjZmFhZGM2ZS1lYmZlLTRlOGQtOGUwZi05ZmRjZTMzM2I4NTQiLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjoxNX0=",
+      "start_time": "2025-04-10T13:00:00Z",
+      "end_time": "2025-04-10T17:00:00Z",
+      "title": "📺 STREAM LIBRE",
+      "canceled_until": null,
+      "category": {
+        "id": "509658",
+        "name": "Just Chatting"
+      },
+      "is_recurring": false
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiI3MmVkNjViZi05MjZmLTQyMjgtOGRiNy0yNjcwYzA2NGM2MjYiLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjoxNX0=",
+      "start_time": "2025-04-11T12:00:00Z",
+      "end_time": "2025-04-11T13:00:00Z",
+      "title": "🎙 PRÉ LIVE",
+      "canceled_until": null,
+      "category": {
+        "id": "509658",
+        "name": "Just Chatting"
+      },
+      "is_recurring": false
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiI2ZWQwMTEwYS0zZjU2LTRkZmYtOTczZS1jY2JmNTRkMGIzODIiLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjoxNX0=",
+      "start_time": "2025-04-11T13:00:00Z",
+      "end_time": "2025-04-11T17:00:00Z",
+      "title": "✨ SUITE DU LET'S PLAY",
+      "canceled_until": null,
+      "category": {
+        "id": "65950",
+        "name": "Beyond: Two Souls"
+      },
+      "is_recurring": false
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiIxNTE0ZTZjZC1iZWZmLTQ1NmMtODllNS05ZDc2OGU5Y2Q0NmYiLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjoxNX0=",
+      "start_time": "2025-04-13T14:00:00Z",
+      "end_time": "2025-04-13T18:00:00Z",
+      "title": "⚽ DEUXIÈME JOURNÉE DE KINGS LEAGUE",
+      "canceled_until": null,
+      "category": {
+        "id": "1863222988",
+        "name": "Kings League"
+      },
+      "is_recurring": false
+    }
+  ]
 }
