@@ -13,27 +13,6 @@
   },
   "schedulers": [
     {
-      "id": "eyJzZWdtZW50SUQiOiJiMzFhZmRhMy1jY2JlLTRkOTEtYWU0NS04YTE2NWFiMzc3ZmIiLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjoxNX0=",
-      "start_time": "2025-04-08T12:00:00Z",
-      "end_time": "2025-04-08T18:00:00Z",
-      "title": "Training Zlan avec Wingo",
-      "canceled_until": null,
-      "category": null,
-      "is_recurring": true
-    },
-    {
-      "id": "eyJzZWdtZW50SUQiOiJkMGZjY2IzZS03ZjU0LTQxZTgtOTMxNS0zYWQwYjM0NDE1NmUiLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjoxNX0=",
-      "start_time": "2025-04-08T18:00:00Z",
-      "end_time": "2025-04-08T22:00:00Z",
-      "title": "Raid Onyxia et Molten Core WoW Hardcore",
-      "canceled_until": null,
-      "category": {
-        "id": "18122",
-        "name": "World of Warcraft"
-      },
-      "is_recurring": true
-    },
-    {
       "id": "eyJzZWdtZW50SUQiOiJkNDI5NTgxZC0xOTg4LTQ4ZjYtYjI4YS00OWQ0Mzk2ZjUwODMiLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjoxNX0=",
       "start_time": "2025-04-09T09:00:00Z",
       "end_time": "2025-04-09T16:00:00Z",
@@ -212,6 +191,27 @@
       "start_time": "2025-04-25T09:00:00Z",
       "end_time": "2025-04-25T16:00:00Z",
       "title": "Training ZLAN avec Wingo",
+      "canceled_until": null,
+      "category": null,
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiIzN2ZhOWU2NC02NjA4LTRmZjgtOTEwOC1kZTgxN2JjMTdjYzMiLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjoxOH0=",
+      "start_time": "2025-04-28T09:00:00Z",
+      "end_time": "2025-04-28T16:00:00Z",
+      "title": "Culture & plaisir sur le Maitre des Fleurs",
+      "canceled_until": null,
+      "category": {
+        "id": "338715930",
+        "name": "Maitre des Fleurs"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiJiMzFhZmRhMy1jY2JlLTRkOTEtYWU0NS04YTE2NWFiMzc3ZmIiLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjoxOH0=",
+      "start_time": "2025-04-29T12:00:00Z",
+      "end_time": "2025-04-29T18:00:00Z",
+      "title": "Training Zlan avec Wingo",
       "canceled_until": null,
       "category": null,
       "is_recurring": true
