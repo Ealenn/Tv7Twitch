@@ -13,15 +13,6 @@
   },
   "schedulers": [
     {
-      "id": "eyJzZWdtZW50SUQiOiJkNDI5NTgxZC0xOTg4LTQ4ZjYtYjI4YS00OWQ0Mzk2ZjUwODMiLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjoxNX0=",
-      "start_time": "2025-04-09T09:00:00Z",
-      "end_time": "2025-04-09T16:00:00Z",
-      "title": "Training Zlan avec Wingo",
-      "canceled_until": null,
-      "category": null,
-      "is_recurring": true
-    },
-    {
       "id": "eyJzZWdtZW50SUQiOiI5OTU1MzY1YS0wZjFjLTQ3ZmUtYmNlZS04NDAzMDM2NmI5YjgiLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjoxNX0=",
       "start_time": "2025-04-10T09:00:00Z",
       "end_time": "2025-04-10T15:00:00Z",
@@ -214,6 +205,18 @@
       "title": "Training Zlan avec Wingo",
       "canceled_until": null,
       "category": null,
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiJkMGZjY2IzZS03ZjU0LTQxZTgtOTMxNS0zYWQwYjM0NDE1NmUiLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjoxOH0=",
+      "start_time": "2025-04-29T18:00:00Z",
+      "end_time": "2025-04-29T22:00:00Z",
+      "title": "Raid Onyxia et Molten Core WoW Hardcore",
+      "canceled_until": null,
+      "category": {
+        "id": "18122",
+        "name": "World of Warcraft"
+      },
       "is_recurring": true
     }
   ]
