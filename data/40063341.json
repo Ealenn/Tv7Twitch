@@ -13,30 +13,6 @@
   },
   "schedulers": [
     {
-      "id": "eyJzZWdtZW50SUQiOiJkY2MxMGM4NC0zMjZkLTQ4MjUtOGE0Zi0xNGU1MjU1NDMyNzgiLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjoxNX0=",
-      "start_time": "2025-04-10T12:00:00Z",
-      "end_time": "2025-04-10T13:00:00Z",
-      "title": "🎙 PRÉ LIVE",
-      "canceled_until": null,
-      "category": {
-        "id": "509658",
-        "name": "Just Chatting"
-      },
-      "is_recurring": false
-    },
-    {
-      "id": "eyJzZWdtZW50SUQiOiJjZmFhZGM2ZS1lYmZlLTRlOGQtOGUwZi05ZmRjZTMzM2I4NTQiLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjoxNX0=",
-      "start_time": "2025-04-10T13:00:00Z",
-      "end_time": "2025-04-10T17:00:00Z",
-      "title": "📺 STREAM LIBRE",
-      "canceled_until": null,
-      "category": {
-        "id": "509658",
-        "name": "Just Chatting"
-      },
-      "is_recurring": false
-    },
-    {
       "id": "eyJzZWdtZW50SUQiOiI3MmVkNjViZi05MjZmLTQyMjgtOGRiNy0yNjcwYzA2NGM2MjYiLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjoxNX0=",
       "start_time": "2025-04-11T12:00:00Z",
       "end_time": "2025-04-11T13:00:00Z",
