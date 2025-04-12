@@ -13,30 +13,6 @@
   },
   "schedulers": [
     {
-      "id": "eyJzZWdtZW50SUQiOiI3MmVkNjViZi05MjZmLTQyMjgtOGRiNy0yNjcwYzA2NGM2MjYiLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjoxNX0=",
-      "start_time": "2025-04-11T12:00:00Z",
-      "end_time": "2025-04-11T13:00:00Z",
-      "title": "🎙 PRÉ LIVE",
-      "canceled_until": null,
-      "category": {
-        "id": "509658",
-        "name": "Just Chatting"
-      },
-      "is_recurring": false
-    },
-    {
-      "id": "eyJzZWdtZW50SUQiOiI2ZWQwMTEwYS0zZjU2LTRkZmYtOTczZS1jY2JmNTRkMGIzODIiLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjoxNX0=",
-      "start_time": "2025-04-11T13:00:00Z",
-      "end_time": "2025-04-11T17:00:00Z",
-      "title": "✨ SUITE DU LET'S PLAY",
-      "canceled_until": null,
-      "category": {
-        "id": "65950",
-        "name": "Beyond: Two Souls"
-      },
-      "is_recurring": false
-    },
-    {
       "id": "eyJzZWdtZW50SUQiOiIxNTE0ZTZjZC1iZWZmLTQ1NmMtODllNS05ZDc2OGU5Y2Q0NmYiLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjoxNX0=",
       "start_time": "2025-04-13T14:00:00Z",
       "end_time": "2025-04-13T18:00:00Z",
