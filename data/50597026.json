@@ -15,7 +15,7 @@
     {
       "id": "eyJzZWdtZW50SUQiOiIzN2ZhOWU2NC02NjA4LTRmZjgtOTEwOC1kZTgxN2JjMTdjYzMiLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjoxNn0=",
       "start_time": "2025-04-14T09:00:00Z",
-      "end_time": "2025-04-14T16:00:00Z",
+      "end_time": "2025-04-14T14:00:00Z",
       "title": "Culture & plaisir sur le Maitre des Fleurs",
       "canceled_until": null,
       "category": {
@@ -25,69 +25,84 @@
       "is_recurring": true
     },
     {
-      "id": "eyJzZWdtZW50SUQiOiJiMzFhZmRhMy1jY2JlLTRkOTEtYWU0NS04YTE2NWFiMzc3ZmIiLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjoxNn0=",
-      "start_time": "2025-04-15T12:00:00Z",
-      "end_time": "2025-04-15T18:00:00Z",
-      "title": "Training Zlan avec Wingo",
+      "id": "eyJzZWdtZW50SUQiOiIyZmRkYzQyMC0zYmE2LTRiZDItYWQ2Zi1iOTRjNWRmNWE2YzEiLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjoxNn0=",
+      "start_time": "2025-04-14T14:00:00Z",
+      "end_time": "2025-04-14T18:00:00Z",
+      "title": "BOOTCAMP ZLAN avec Wingo",
       "canceled_until": null,
       "category": null,
       "is_recurring": true
     },
     {
-      "id": "eyJzZWdtZW50SUQiOiJkMGZjY2IzZS03ZjU0LTQxZTgtOTMxNS0zYWQwYjM0NDE1NmUiLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjoxNn0=",
-      "start_time": "2025-04-15T18:00:00Z",
-      "end_time": "2025-04-15T22:00:00Z",
-      "title": "Raid Onyxia et Molten Core WoW Hardcore",
+      "id": "eyJzZWdtZW50SUQiOiJiMzFhZmRhMy1jY2JlLTRkOTEtYWU0NS04YTE2NWFiMzc3ZmIiLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjoxNn0=",
+      "start_time": "2025-04-15T09:00:00Z",
+      "end_time": "2025-04-15T17:00:00Z",
+      "title": "BOOTCAMP ZLAN avec Wingo",
       "canceled_until": null,
-      "category": {
-        "id": "18122",
-        "name": "World of Warcraft"
-      },
+      "category": null,
       "is_recurring": true
     },
     {
       "id": "eyJzZWdtZW50SUQiOiJkNDI5NTgxZC0xOTg4LTQ4ZjYtYjI4YS00OWQ0Mzk2ZjUwODMiLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjoxNn0=",
       "start_time": "2025-04-16T09:00:00Z",
       "end_time": "2025-04-16T16:00:00Z",
-      "title": "Training Zlan avec Wingo",
+      "title": "BOOTCAMP ZLAN avec Wingo",
       "canceled_until": null,
       "category": null,
       "is_recurring": true
     },
     {
-      "id": "eyJzZWdtZW50SUQiOiI5OTU1MzY1YS0wZjFjLTQ3ZmUtYmNlZS04NDAzMDM2NmI5YjgiLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjoxNn0=",
-      "start_time": "2025-04-17T09:00:00Z",
-      "end_time": "2025-04-17T15:00:00Z",
-      "title": "Training Zlan avec Wingo",
-      "canceled_until": null,
-      "category": null,
-      "is_recurring": true
-    },
-    {
-      "id": "eyJzZWdtZW50SUQiOiJlMzI2YTgxMy02MjkxLTRjMTAtODJjNi01NmQ5N2M2OTg1YjgiLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjoxNn0=",
-      "start_time": "2025-04-17T15:00:00Z",
-      "end_time": "2025-04-17T18:00:00Z",
-      "title": "Star Overdrive",
+      "id": "eyJzZWdtZW50SUQiOiI2MDM4MzljYS02MGY5LTQ3OTktODM4MS04ZmViYmEyNjdhMGMiLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjoxNn0=",
+      "start_time": "2025-04-16T18:00:00Z",
+      "end_time": "2025-04-16T22:00:00Z",
+      "title": "Maitre des Fleurs spécial avec Wingo",
       "canceled_until": null,
       "category": {
-        "id": "1831853453",
-        "name": "Star Overdrive"
+        "id": "338715930",
+        "name": "Maitre des Fleurs"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiJhNDY0MTExNy0wYWIyLTQ4NWEtOTc1NS1mNjgzMzQ0MDhmNmIiLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjoxNn0=",
+      "start_time": "2025-04-17T12:00:00Z",
+      "end_time": "2025-04-17T15:00:00Z",
+      "title": "React Mario Kart World Direct",
+      "canceled_until": null,
+      "category": {
+        "id": "509663",
+        "name": "Special Events"
       },
       "is_recurring": true
     },
     {
       "id": "eyJzZWdtZW50SUQiOiI3ZTRkZGNkMy04N2I0LTQyZTUtOGI5Zi04ZmZiNDY1MGMxZWYiLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjoxNn0=",
-      "start_time": "2025-04-18T09:00:00Z",
-      "end_time": "2025-04-18T16:00:00Z",
-      "title": "Training ZLAN avec Wingo",
+      "start_time": "2025-04-18T16:00:00Z",
+      "end_time": "2025-04-18T22:00:00Z",
+      "title": "ZLAN avec Wingo",
       "canceled_until": null,
-      "category": null,
+      "category": {
+        "id": "509663",
+        "name": "Special Events"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiJjYzc3ZTU0Ni1jZGY0LTRhZTQtODBjMy00ODk4OWI4MzBkMTUiLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjoxNn0=",
+      "start_time": "2025-04-19T10:00:00Z",
+      "end_time": "2025-04-19T18:00:00Z",
+      "title": "ZLAN avec Wingo",
+      "canceled_until": null,
+      "category": {
+        "id": "509663",
+        "name": "Special Events"
+      },
       "is_recurring": true
     },
     {
       "id": "eyJzZWdtZW50SUQiOiIzN2ZhOWU2NC02NjA4LTRmZjgtOTEwOC1kZTgxN2JjMTdjYzMiLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjoxN30=",
       "start_time": "2025-04-21T09:00:00Z",
-      "end_time": "2025-04-21T16:00:00Z",
+      "end_time": "2025-04-21T14:00:00Z",
       "title": "Culture & plaisir sur le Maitre des Fleurs",
       "canceled_until": null,
       "category": {
@@ -97,69 +112,84 @@
       "is_recurring": true
     },
     {
-      "id": "eyJzZWdtZW50SUQiOiJiMzFhZmRhMy1jY2JlLTRkOTEtYWU0NS04YTE2NWFiMzc3ZmIiLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjoxN30=",
-      "start_time": "2025-04-22T12:00:00Z",
-      "end_time": "2025-04-22T18:00:00Z",
-      "title": "Training Zlan avec Wingo",
+      "id": "eyJzZWdtZW50SUQiOiIyZmRkYzQyMC0zYmE2LTRiZDItYWQ2Zi1iOTRjNWRmNWE2YzEiLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjoxN30=",
+      "start_time": "2025-04-21T14:00:00Z",
+      "end_time": "2025-04-21T18:00:00Z",
+      "title": "BOOTCAMP ZLAN avec Wingo",
       "canceled_until": null,
       "category": null,
       "is_recurring": true
     },
     {
-      "id": "eyJzZWdtZW50SUQiOiJkMGZjY2IzZS03ZjU0LTQxZTgtOTMxNS0zYWQwYjM0NDE1NmUiLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjoxN30=",
-      "start_time": "2025-04-22T18:00:00Z",
-      "end_time": "2025-04-22T22:00:00Z",
-      "title": "Raid Onyxia et Molten Core WoW Hardcore",
+      "id": "eyJzZWdtZW50SUQiOiJiMzFhZmRhMy1jY2JlLTRkOTEtYWU0NS04YTE2NWFiMzc3ZmIiLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjoxN30=",
+      "start_time": "2025-04-22T09:00:00Z",
+      "end_time": "2025-04-22T17:00:00Z",
+      "title": "BOOTCAMP ZLAN avec Wingo",
       "canceled_until": null,
-      "category": {
-        "id": "18122",
-        "name": "World of Warcraft"
-      },
+      "category": null,
       "is_recurring": true
     },
     {
       "id": "eyJzZWdtZW50SUQiOiJkNDI5NTgxZC0xOTg4LTQ4ZjYtYjI4YS00OWQ0Mzk2ZjUwODMiLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjoxN30=",
       "start_time": "2025-04-23T09:00:00Z",
       "end_time": "2025-04-23T16:00:00Z",
-      "title": "Training Zlan avec Wingo",
+      "title": "BOOTCAMP ZLAN avec Wingo",
       "canceled_until": null,
       "category": null,
       "is_recurring": true
     },
     {
-      "id": "eyJzZWdtZW50SUQiOiI5OTU1MzY1YS0wZjFjLTQ3ZmUtYmNlZS04NDAzMDM2NmI5YjgiLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjoxN30=",
-      "start_time": "2025-04-24T09:00:00Z",
-      "end_time": "2025-04-24T15:00:00Z",
-      "title": "Training Zlan avec Wingo",
-      "canceled_until": null,
-      "category": null,
-      "is_recurring": true
-    },
-    {
-      "id": "eyJzZWdtZW50SUQiOiJlMzI2YTgxMy02MjkxLTRjMTAtODJjNi01NmQ5N2M2OTg1YjgiLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjoxN30=",
-      "start_time": "2025-04-24T15:00:00Z",
-      "end_time": "2025-04-24T18:00:00Z",
-      "title": "Star Overdrive",
+      "id": "eyJzZWdtZW50SUQiOiI2MDM4MzljYS02MGY5LTQ3OTktODM4MS04ZmViYmEyNjdhMGMiLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjoxN30=",
+      "start_time": "2025-04-23T18:00:00Z",
+      "end_time": "2025-04-23T22:00:00Z",
+      "title": "Maitre des Fleurs spécial avec Wingo",
       "canceled_until": null,
       "category": {
-        "id": "1831853453",
-        "name": "Star Overdrive"
+        "id": "338715930",
+        "name": "Maitre des Fleurs"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiJhNDY0MTExNy0wYWIyLTQ4NWEtOTc1NS1mNjgzMzQ0MDhmNmIiLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjoxN30=",
+      "start_time": "2025-04-24T12:00:00Z",
+      "end_time": "2025-04-24T15:00:00Z",
+      "title": "React Mario Kart World Direct",
+      "canceled_until": null,
+      "category": {
+        "id": "509663",
+        "name": "Special Events"
       },
       "is_recurring": true
     },
     {
       "id": "eyJzZWdtZW50SUQiOiI3ZTRkZGNkMy04N2I0LTQyZTUtOGI5Zi04ZmZiNDY1MGMxZWYiLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjoxN30=",
-      "start_time": "2025-04-25T09:00:00Z",
-      "end_time": "2025-04-25T16:00:00Z",
-      "title": "Training ZLAN avec Wingo",
+      "start_time": "2025-04-25T16:00:00Z",
+      "end_time": "2025-04-25T22:00:00Z",
+      "title": "ZLAN avec Wingo",
       "canceled_until": null,
-      "category": null,
+      "category": {
+        "id": "509663",
+        "name": "Special Events"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiJjYzc3ZTU0Ni1jZGY0LTRhZTQtODBjMy00ODk4OWI4MzBkMTUiLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjoxN30=",
+      "start_time": "2025-04-26T10:00:00Z",
+      "end_time": "2025-04-26T18:00:00Z",
+      "title": "ZLAN avec Wingo",
+      "canceled_until": null,
+      "category": {
+        "id": "509663",
+        "name": "Special Events"
+      },
       "is_recurring": true
     },
     {
       "id": "eyJzZWdtZW50SUQiOiIzN2ZhOWU2NC02NjA4LTRmZjgtOTEwOC1kZTgxN2JjMTdjYzMiLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjoxOH0=",
       "start_time": "2025-04-28T09:00:00Z",
-      "end_time": "2025-04-28T16:00:00Z",
+      "end_time": "2025-04-28T14:00:00Z",
       "title": "Culture & plaisir sur le Maitre des Fleurs",
       "canceled_until": null,
       "category": {
@@ -169,54 +199,30 @@
       "is_recurring": true
     },
     {
-      "id": "eyJzZWdtZW50SUQiOiJiMzFhZmRhMy1jY2JlLTRkOTEtYWU0NS04YTE2NWFiMzc3ZmIiLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjoxOH0=",
-      "start_time": "2025-04-29T12:00:00Z",
-      "end_time": "2025-04-29T18:00:00Z",
-      "title": "Training Zlan avec Wingo",
+      "id": "eyJzZWdtZW50SUQiOiIyZmRkYzQyMC0zYmE2LTRiZDItYWQ2Zi1iOTRjNWRmNWE2YzEiLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjoxOH0=",
+      "start_time": "2025-04-28T14:00:00Z",
+      "end_time": "2025-04-28T18:00:00Z",
+      "title": "BOOTCAMP ZLAN avec Wingo",
       "canceled_until": null,
       "category": null,
       "is_recurring": true
     },
     {
-      "id": "eyJzZWdtZW50SUQiOiJkMGZjY2IzZS03ZjU0LTQxZTgtOTMxNS0zYWQwYjM0NDE1NmUiLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjoxOH0=",
-      "start_time": "2025-04-29T18:00:00Z",
-      "end_time": "2025-04-29T22:00:00Z",
-      "title": "Raid Onyxia et Molten Core WoW Hardcore",
+      "id": "eyJzZWdtZW50SUQiOiJiMzFhZmRhMy1jY2JlLTRkOTEtYWU0NS04YTE2NWFiMzc3ZmIiLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjoxOH0=",
+      "start_time": "2025-04-29T09:00:00Z",
+      "end_time": "2025-04-29T17:00:00Z",
+      "title": "BOOTCAMP ZLAN avec Wingo",
       "canceled_until": null,
-      "category": {
-        "id": "18122",
-        "name": "World of Warcraft"
-      },
+      "category": null,
       "is_recurring": true
     },
     {
       "id": "eyJzZWdtZW50SUQiOiJkNDI5NTgxZC0xOTg4LTQ4ZjYtYjI4YS00OWQ0Mzk2ZjUwODMiLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjoxOH0=",
       "start_time": "2025-04-30T09:00:00Z",
       "end_time": "2025-04-30T16:00:00Z",
-      "title": "Training Zlan avec Wingo",
+      "title": "BOOTCAMP ZLAN avec Wingo",
       "canceled_until": null,
       "category": null,
-      "is_recurring": true
-    },
-    {
-      "id": "eyJzZWdtZW50SUQiOiI5OTU1MzY1YS0wZjFjLTQ3ZmUtYmNlZS04NDAzMDM2NmI5YjgiLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjoxOH0=",
-      "start_time": "2025-05-01T09:00:00Z",
-      "end_time": "2025-05-01T15:00:00Z",
-      "title": "Training Zlan avec Wingo",
-      "canceled_until": null,
-      "category": null,
-      "is_recurring": true
-    },
-    {
-      "id": "eyJzZWdtZW50SUQiOiJlMzI2YTgxMy02MjkxLTRjMTAtODJjNi01NmQ5N2M2OTg1YjgiLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjoxOH0=",
-      "start_time": "2025-05-01T15:00:00Z",
-      "end_time": "2025-05-01T18:00:00Z",
-      "title": "Star Overdrive",
-      "canceled_until": null,
-      "category": {
-        "id": "1831853453",
-        "name": "Star Overdrive"
-      },
       "is_recurring": true
     }
   ]
