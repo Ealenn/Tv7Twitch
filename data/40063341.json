@@ -7,9 +7,82 @@
     "broadcaster_type": "partner",
     "description": "Président du FC Silmi",
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/3cdae7df-600c-4833-8dfe-8d2abc5a3b25-profile_image-300x300.png",
-    "offline_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/45cab809-f2ad-44ba-819b-30d6cdc5f832-channel_offline_image-1920x1080.png",
+    "offline_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/da5c444f-c1dc-4fd1-a6e0-d4ad1089d056-channel_offline_image-1920x1080.png",
     "view_count": 0,
     "created_at": "2013-02-05T19:20:22Z"
   },
-  "schedulers": []
+  "schedulers": [
+    {
+      "id": "eyJzZWdtZW50SUQiOiIzY2FhMjRhZS1hZGJhLTQwNjUtODk1OC1jODQ4OTNiNzVlNzkiLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjoxNn0=",
+      "start_time": "2025-04-15T12:00:00Z",
+      "end_time": "2025-04-15T14:30:00Z",
+      "title": "✨ ON CONTINUE L'HISTOIRE ",
+      "canceled_until": null,
+      "category": {
+        "id": "65950",
+        "name": "Beyond: Two Souls"
+      },
+      "is_recurring": false
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiI1YzFlYTNiNi0zYTBjLTQ4Y2ItOTAwZC1jNDAzZjEwODVkYjEiLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjoxNn0=",
+      "start_time": "2025-04-17T12:00:00Z",
+      "end_time": "2025-04-17T13:00:00Z",
+      "title": "🎙 PRÉ LIVE",
+      "canceled_until": null,
+      "category": {
+        "id": "509658",
+        "name": "Just Chatting"
+      },
+      "is_recurring": false
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiJjMzI3ZDk4NS0zNzIwLTRmYjQtYmNhYy03ZTU5NzZlOTc3ODgiLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjoxNn0=",
+      "start_time": "2025-04-17T13:00:00Z",
+      "end_time": "2025-04-17T17:00:00Z",
+      "title": "📺 STREAM LIBRE",
+      "canceled_until": null,
+      "category": {
+        "id": "509658",
+        "name": "Just Chatting"
+      },
+      "is_recurring": false
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiI2Y2I0ZGE0Mi03YWM2LTRmNGUtYTQ2Ny03NTEzZjE4NmRhYjciLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjoxNn0=",
+      "start_time": "2025-04-18T12:00:00Z",
+      "end_time": "2025-04-18T13:00:00Z",
+      "title": "🎙 PRÉ LIVE",
+      "canceled_until": null,
+      "category": {
+        "id": "509658",
+        "name": "Just Chatting"
+      },
+      "is_recurring": false
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiI2OWNhMjk4Ni04MzgyLTQ2MjctYmU4Mi1kYmQ0MzU4NTZkYjciLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjoxNn0=",
+      "start_time": "2025-04-18T13:00:00Z",
+      "end_time": "2025-04-18T17:30:00Z",
+      "title": "✨ ON TERMINE BEYOND TWO SOULS",
+      "canceled_until": null,
+      "category": {
+        "id": "65950",
+        "name": "Beyond: Two Souls"
+      },
+      "is_recurring": false
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiI0NThjZWZjMi1lZTY0LTQwZTAtOWQ3Yi00OGFkMzkwYzU0M2YiLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjoxNn0=",
+      "start_time": "2025-04-20T14:00:00Z",
+      "end_time": "2025-04-20T18:00:00Z",
+      "title": "⚽ KINGS LEAGUE : FC SILMI VS WOLF PACK FC",
+      "canceled_until": null,
+      "category": {
+        "id": "1863222988",
+        "name": "Kings League"
+      },
+      "is_recurring": false
+    }
+  ]
 }
