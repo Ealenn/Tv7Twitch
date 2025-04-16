@@ -13,18 +13,6 @@
   },
   "schedulers": [
     {
-      "id": "eyJzZWdtZW50SUQiOiIzY2FhMjRhZS1hZGJhLTQwNjUtODk1OC1jODQ4OTNiNzVlNzkiLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjoxNn0=",
-      "start_time": "2025-04-15T12:00:00Z",
-      "end_time": "2025-04-15T14:30:00Z",
-      "title": "✨ ON CONTINUE L'HISTOIRE ",
-      "canceled_until": null,
-      "category": {
-        "id": "65950",
-        "name": "Beyond: Two Souls"
-      },
-      "is_recurring": false
-    },
-    {
       "id": "eyJzZWdtZW50SUQiOiI1YzFlYTNiNi0zYTBjLTQ4Y2ItOTAwZC1jNDAzZjEwODVkYjEiLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjoxNn0=",
       "start_time": "2025-04-17T12:00:00Z",
       "end_time": "2025-04-17T13:00:00Z",
