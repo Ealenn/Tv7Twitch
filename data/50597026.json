@@ -7,23 +7,11 @@
     "broadcaster_type": "partner",
     "description": "Nous sommes de très jolies fleurs dans un même bouquet.",
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/d4737061-8f00-49d9-a56f-fcb4a9230b3f-profile_image-300x300.png",
-    "offline_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/ac832c5c-0e48-4cb8-8e8d-b08306003dca-channel_offline_image-1920x1080.png",
+    "offline_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/31f9d49e-8ac1-48da-a0c3-c92669ac59a0-channel_offline_image-1920x1080.png",
     "view_count": 0,
     "created_at": "2013-10-24T19:04:45Z"
   },
   "schedulers": [
-    {
-      "id": "eyJzZWdtZW50SUQiOiIzN2ZhOWU2NC02NjA4LTRmZjgtOTEwOC1kZTgxN2JjMTdjYzMiLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjoxN30=",
-      "start_time": "2025-04-21T09:00:00Z",
-      "end_time": "2025-04-21T16:00:00Z",
-      "title": "Culture & plaisir sur le Maitre des Fleurs",
-      "canceled_until": null,
-      "category": {
-        "id": "338715930",
-        "name": "Maitre des Fleurs"
-      },
-      "is_recurring": true
-    },
     {
       "id": "eyJzZWdtZW50SUQiOiJiMzFhZmRhMy1jY2JlLTRkOTEtYWU0NS04YTE2NWFiMzc3ZmIiLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjoxN30=",
       "start_time": "2025-04-22T09:00:00Z",
@@ -249,6 +237,18 @@
       "category": {
         "id": "1494074023",
         "name": "Lycans"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiI1M2VhNjk4YS05YzE2LTRmYTUtYmMyOS1jMzk4ZTQ5NDljMjQiLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjoyMH0=",
+      "start_time": "2025-05-13T13:00:00Z",
+      "end_time": "2025-05-13T17:00:00Z",
+      "title": "Astro Bot (le presque non 100%)",
+      "canceled_until": null,
+      "category": {
+        "id": "2109666737",
+        "name": "ASTRO BOT"
       },
       "is_recurring": true
     }
