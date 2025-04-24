@@ -7,35 +7,11 @@
     "broadcaster_type": "partner",
     "description": "Président du FC Silmi",
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/3cdae7df-600c-4833-8dfe-8d2abc5a3b25-profile_image-300x300.png",
-    "offline_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/10951907-ace7-4427-86c2-1c76e9596910-channel_offline_image-1920x1080.png",
+    "offline_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/4ba809b5-ffb4-4870-925c-ecea463aa008-channel_offline_image-1920x1080.png",
     "view_count": 0,
     "created_at": "2013-02-05T19:20:22Z"
   },
   "schedulers": [
-    {
-      "id": "eyJzZWdtZW50SUQiOiI1MmIzNWExNC0yNWQ4LTQwNTgtYWVlOC1iNjU2NjQwZDBlOWIiLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjoxN30=",
-      "start_time": "2025-04-23T11:00:00Z",
-      "end_time": "2025-04-23T12:00:00Z",
-      "title": "🎙️ PRÉ LIVE",
-      "canceled_until": null,
-      "category": {
-        "id": "509658",
-        "name": "Just Chatting"
-      },
-      "is_recurring": false
-    },
-    {
-      "id": "eyJzZWdtZW50SUQiOiIxMzkxOTU4NS03NzE3LTQxZjEtOGY4OC1jOWFjZWMyMzk0NmMiLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjoxN30=",
-      "start_time": "2025-04-23T12:00:00Z",
-      "end_time": "2025-04-23T14:00:00Z",
-      "title": "⛷️ ON REPART DANS LA NEIGE",
-      "canceled_until": null,
-      "category": {
-        "id": "2109314477",
-        "name": "Lonely Mountains: Snow Riders"
-      },
-      "is_recurring": false
-    },
     {
       "id": "eyJzZWdtZW50SUQiOiIwMmEyYzI4Mi01Nzg1LTQ4M2UtYWVmNC1lMTZiNTVjY2I2YmUiLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjoxN30=",
       "start_time": "2025-04-25T12:00:00Z",
