@@ -13,18 +13,6 @@
   },
   "schedulers": [
     {
-      "id": "eyJzZWdtZW50SUQiOiI3ODZkZGE4YS01NWVmLTQ3ZGMtYmEwYS01MzI1NDA4YWUyMTUiLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjoxN30=",
-      "start_time": "2025-04-24T18:00:00Z",
-      "end_time": "2025-04-24T21:00:00Z",
-      "title": "[Pas streamé] CONCERT Broadwhale à Lyon avec LBW et PVNOVA",
-      "canceled_until": null,
-      "category": {
-        "id": "26936",
-        "name": "Music"
-      },
-      "is_recurring": false
-    },
-    {
       "id": "eyJzZWdtZW50SUQiOiJlZTlkOWI0NS1kM2I2LTQ5NTMtOGIxYy1iMjUxNTE2YTM1YmEiLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjoxN30=",
       "start_time": "2025-04-25T16:00:00Z",
       "end_time": "2025-04-25T18:00:00Z",
@@ -244,6 +232,18 @@
       "id": "eyJzZWdtZW50SUQiOiI0N2YwODdkMi1hZDlhLTRlZGMtOTllYS0zOWVmZWJhNzlkZTgiLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjozMn0=",
       "start_time": "2025-08-04T18:30:00Z",
       "end_time": "2025-08-04T22:00:00Z",
+      "title": "Soirée du lundi avec des gens et des jeux",
+      "canceled_until": null,
+      "category": {
+        "id": "509658",
+        "name": "Just Chatting"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiI0N2YwODdkMi1hZDlhLTRlZGMtOTllYS0zOWVmZWJhNzlkZTgiLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjozM30=",
+      "start_time": "2025-08-11T18:30:00Z",
+      "end_time": "2025-08-11T22:00:00Z",
       "title": "Soirée du lundi avec des gens et des jeux",
       "canceled_until": null,
       "category": {
