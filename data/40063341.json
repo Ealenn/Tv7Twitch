@@ -7,9 +7,58 @@
     "broadcaster_type": "partner",
     "description": "Président du FC Silmi",
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/3cdae7df-600c-4833-8dfe-8d2abc5a3b25-profile_image-300x300.png",
-    "offline_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/4ba809b5-ffb4-4870-925c-ecea463aa008-channel_offline_image-1920x1080.png",
+    "offline_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/71e22c24-f180-4f83-971e-ad9dd9f9fca9-channel_offline_image-1920x1080.png",
     "view_count": 0,
     "created_at": "2013-02-05T19:20:22Z"
   },
-  "schedulers": []
+  "schedulers": [
+    {
+      "id": "eyJzZWdtZW50SUQiOiI0MWI3OGYwZi01ZGNlLTQ2ODYtOGE1Ni0xYmRlYzkyMzViNjYiLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjoxOH0=",
+      "start_time": "2025-04-30T18:00:00Z",
+      "end_time": "2025-04-30T19:00:00Z",
+      "title": "🎙️ PRÉ LIVE",
+      "canceled_until": null,
+      "category": {
+        "id": "509658",
+        "name": "Just Chatting"
+      },
+      "is_recurring": false
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiIwY2ExY2FhMC0zNDk4LTRmZjctYjMxOC04OWMzYWM1MGE2OWUiLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjoxOH0=",
+      "start_time": "2025-04-30T19:00:00Z",
+      "end_time": "2025-04-30T22:00:00Z",
+      "title": "📺 REACT",
+      "canceled_until": null,
+      "category": {
+        "id": "509658",
+        "name": "Just Chatting"
+      },
+      "is_recurring": false
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiI0YTIwMzlhYi01MWQ0LTQ5MjctODM2MS0wNGZmZWI2NzZhOTIiLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjoxOH0=",
+      "start_time": "2025-05-04T14:00:00Z",
+      "end_time": "2025-05-04T18:00:00Z",
+      "title": "⚽️ KINGS LEAGUE : FC SILMI VS F2R",
+      "canceled_until": null,
+      "category": {
+        "id": "1863222988",
+        "name": "Kings League"
+      },
+      "is_recurring": false
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiJjNDRkNjA4ZC04YzlmLTQxNDctYjA2OS03NTBlNmE0NDBhNjgiLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjoxOX0=",
+      "start_time": "2025-05-05T16:00:00Z",
+      "end_time": "2025-05-05T20:00:00Z",
+      "title": "⚽️ KINGS LEAGUE : FC SILMI VS KARASU",
+      "canceled_until": null,
+      "category": {
+        "id": "1863222988",
+        "name": "Kings League"
+      },
+      "is_recurring": false
+    }
+  ]
 }
