@@ -13,30 +13,6 @@
   },
   "schedulers": [
     {
-      "id": "eyJzZWdtZW50SUQiOiI0MWI3OGYwZi01ZGNlLTQ2ODYtOGE1Ni0xYmRlYzkyMzViNjYiLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjoxOH0=",
-      "start_time": "2025-04-30T18:00:00Z",
-      "end_time": "2025-04-30T19:00:00Z",
-      "title": "🎙️ PRÉ LIVE",
-      "canceled_until": null,
-      "category": {
-        "id": "509658",
-        "name": "Just Chatting"
-      },
-      "is_recurring": false
-    },
-    {
-      "id": "eyJzZWdtZW50SUQiOiIwY2ExY2FhMC0zNDk4LTRmZjctYjMxOC04OWMzYWM1MGE2OWUiLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjoxOH0=",
-      "start_time": "2025-04-30T19:00:00Z",
-      "end_time": "2025-04-30T22:00:00Z",
-      "title": "📺 REACT",
-      "canceled_until": null,
-      "category": {
-        "id": "509658",
-        "name": "Just Chatting"
-      },
-      "is_recurring": false
-    },
-    {
       "id": "eyJzZWdtZW50SUQiOiI0YTIwMzlhYi01MWQ0LTQ5MjctODM2MS0wNGZmZWI2NzZhOTIiLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjoxOH0=",
       "start_time": "2025-05-04T14:00:00Z",
       "end_time": "2025-05-04T18:00:00Z",
