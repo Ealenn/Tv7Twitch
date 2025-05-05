@@ -25,38 +25,26 @@
       "is_recurring": true
     },
     {
-      "id": "eyJzZWdtZW50SUQiOiI1M2VhNjk4YS05YzE2LTRmYTUtYmMyOS1jMzk4ZTQ5NDljMjQiLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjoxOX0=",
+      "id": "eyJzZWdtZW50SUQiOiJiMzFhZmRhMy1jY2JlLTRkOTEtYWU0NS04YTE2NWFiMzc3ZmIiLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjoxOX0=",
       "start_time": "2025-05-06T09:00:00Z",
-      "end_time": "2025-05-06T12:00:00Z",
-      "title": "Clair Obscur: Expedition 33",
+      "end_time": "2025-05-06T13:00:00Z",
+      "title": "Lycans avec les potes ",
       "canceled_until": null,
       "category": {
-        "id": "36799602",
-        "name": "Clair Obscur: Expedition 33"
+        "id": "1494074023",
+        "name": "Lycans"
       },
       "is_recurring": true
     },
     {
-      "id": "eyJzZWdtZW50SUQiOiIzMTJlNTYwYy0zM2QzLTQ4MWEtYWMxYS0zNGFkNjI1YzA2ZDkiLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjoxOX0=",
-      "start_time": "2025-05-06T12:00:00Z",
-      "end_time": "2025-05-06T16:00:00Z",
-      "title": "On écoute vos sons et on parle musique avec Léo et JB de Floral Records",
+      "id": "eyJzZWdtZW50SUQiOiIwZmRhMDM4My0xMmM4LTQ3NWUtODg3MS1lNzhhYjYyMmM3M2YiLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjoxOX0=",
+      "start_time": "2025-05-06T13:00:00Z",
+      "end_time": "2025-05-06T17:00:00Z",
+      "title": "Le non 100%",
       "canceled_until": null,
       "category": {
-        "id": "26936",
-        "name": "Music"
-      },
-      "is_recurring": true
-    },
-    {
-      "id": "eyJzZWdtZW50SUQiOiI4YjBiNWQyOS1hNTU5LTQxNTQtYWM5Ni03YzY2ZTExYjdhNTQiLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjoxOX0=",
-      "start_time": "2025-05-06T18:30:00Z",
-      "end_time": "2025-05-06T22:30:00Z",
-      "title": "WoW Classic Hardcore (Raid à 40) Molten Core + Onyxia + BWL?",
-      "canceled_until": null,
-      "category": {
-        "id": "18122",
-        "name": "World of Warcraft"
+        "id": "2109666737",
+        "name": "ASTRO BOT"
       },
       "is_recurring": true
     },
@@ -73,26 +61,14 @@
       "is_recurring": true
     },
     {
-      "id": "eyJzZWdtZW50SUQiOiJiMzFhZmRhMy1jY2JlLTRkOTEtYWU0NS04YTE2NWFiMzc3ZmIiLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjoxOX0=",
-      "start_time": "2025-05-08T09:00:00Z",
-      "end_time": "2025-05-08T13:00:00Z",
-      "title": "Lycans avec les potes ",
-      "canceled_until": null,
-      "category": {
-        "id": "1494074023",
-        "name": "Lycans"
-      },
-      "is_recurring": true
-    },
-    {
       "id": "eyJzZWdtZW50SUQiOiJhNDY0MTExNy0wYWIyLTQ4NWEtOTc1NS1mNjgzMzQ0MDhmNmIiLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjoxOX0=",
-      "start_time": "2025-05-08T13:00:00Z",
-      "end_time": "2025-05-08T16:00:00Z",
-      "title": "Lonely Mountains: Snow Riders avec les copains",
+      "start_time": "2025-05-08T12:00:00Z",
+      "end_time": "2025-05-08T18:00:00Z",
+      "title": "Little kitty, big city",
       "canceled_until": null,
       "category": {
-        "id": "2109314477",
-        "name": "Lonely Mountains: Snow Riders"
+        "id": "1510583289",
+        "name": "Little Kitty, Big City"
       },
       "is_recurring": true
     },
@@ -100,12 +76,9 @@
       "id": "eyJzZWdtZW50SUQiOiIxMzcyMzllZi0yMjkzLTRkYjQtYTlmZi1jMDNmYjI5ZTY0NDIiLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjoxOX0=",
       "start_time": "2025-05-09T09:00:00Z",
       "end_time": "2025-05-09T16:00:00Z",
-      "title": "Clair Obscur: Expedition 33",
+      "title": "yolo",
       "canceled_until": null,
-      "category": {
-        "id": "36799602",
-        "name": "Clair Obscur: Expedition 33"
-      },
+      "category": null,
       "is_recurring": true
     },
     {
@@ -121,38 +94,26 @@
       "is_recurring": true
     },
     {
-      "id": "eyJzZWdtZW50SUQiOiI1M2VhNjk4YS05YzE2LTRmYTUtYmMyOS1jMzk4ZTQ5NDljMjQiLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjoyMH0=",
+      "id": "eyJzZWdtZW50SUQiOiJiMzFhZmRhMy1jY2JlLTRkOTEtYWU0NS04YTE2NWFiMzc3ZmIiLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjoyMH0=",
       "start_time": "2025-05-13T09:00:00Z",
-      "end_time": "2025-05-13T12:00:00Z",
-      "title": "Clair Obscur: Expedition 33",
+      "end_time": "2025-05-13T13:00:00Z",
+      "title": "Lycans avec les potes ",
       "canceled_until": null,
       "category": {
-        "id": "36799602",
-        "name": "Clair Obscur: Expedition 33"
+        "id": "1494074023",
+        "name": "Lycans"
       },
       "is_recurring": true
     },
     {
-      "id": "eyJzZWdtZW50SUQiOiIzMTJlNTYwYy0zM2QzLTQ4MWEtYWMxYS0zNGFkNjI1YzA2ZDkiLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjoyMH0=",
-      "start_time": "2025-05-13T12:00:00Z",
-      "end_time": "2025-05-13T16:00:00Z",
-      "title": "On écoute vos sons et on parle musique avec Léo et JB de Floral Records",
+      "id": "eyJzZWdtZW50SUQiOiIwZmRhMDM4My0xMmM4LTQ3NWUtODg3MS1lNzhhYjYyMmM3M2YiLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjoyMH0=",
+      "start_time": "2025-05-13T13:00:00Z",
+      "end_time": "2025-05-13T17:00:00Z",
+      "title": "Le non 100%",
       "canceled_until": null,
       "category": {
-        "id": "26936",
-        "name": "Music"
-      },
-      "is_recurring": true
-    },
-    {
-      "id": "eyJzZWdtZW50SUQiOiI4YjBiNWQyOS1hNTU5LTQxNTQtYWM5Ni03YzY2ZTExYjdhNTQiLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjoyMH0=",
-      "start_time": "2025-05-13T18:30:00Z",
-      "end_time": "2025-05-13T22:30:00Z",
-      "title": "WoW Classic Hardcore (Raid à 40) Molten Core + Onyxia + BWL?",
-      "canceled_until": null,
-      "category": {
-        "id": "18122",
-        "name": "World of Warcraft"
+        "id": "2109666737",
+        "name": "ASTRO BOT"
       },
       "is_recurring": true
     },
@@ -169,26 +130,14 @@
       "is_recurring": true
     },
     {
-      "id": "eyJzZWdtZW50SUQiOiJiMzFhZmRhMy1jY2JlLTRkOTEtYWU0NS04YTE2NWFiMzc3ZmIiLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjoyMH0=",
-      "start_time": "2025-05-15T09:00:00Z",
-      "end_time": "2025-05-15T13:00:00Z",
-      "title": "Lycans avec les potes ",
-      "canceled_until": null,
-      "category": {
-        "id": "1494074023",
-        "name": "Lycans"
-      },
-      "is_recurring": true
-    },
-    {
       "id": "eyJzZWdtZW50SUQiOiJhNDY0MTExNy0wYWIyLTQ4NWEtOTc1NS1mNjgzMzQ0MDhmNmIiLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjoyMH0=",
-      "start_time": "2025-05-15T13:00:00Z",
-      "end_time": "2025-05-15T16:00:00Z",
-      "title": "Lonely Mountains: Snow Riders avec les copains",
+      "start_time": "2025-05-15T12:00:00Z",
+      "end_time": "2025-05-15T18:00:00Z",
+      "title": "Little kitty, big city",
       "canceled_until": null,
       "category": {
-        "id": "2109314477",
-        "name": "Lonely Mountains: Snow Riders"
+        "id": "1510583289",
+        "name": "Little Kitty, Big City"
       },
       "is_recurring": true
     },
@@ -196,12 +145,9 @@
       "id": "eyJzZWdtZW50SUQiOiIxMzcyMzllZi0yMjkzLTRkYjQtYTlmZi1jMDNmYjI5ZTY0NDIiLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjoyMH0=",
       "start_time": "2025-05-16T09:00:00Z",
       "end_time": "2025-05-16T16:00:00Z",
-      "title": "Clair Obscur: Expedition 33",
+      "title": "yolo",
       "canceled_until": null,
-      "category": {
-        "id": "36799602",
-        "name": "Clair Obscur: Expedition 33"
-      },
+      "category": null,
       "is_recurring": true
     },
     {
@@ -217,9 +163,33 @@
       "is_recurring": true
     },
     {
-      "id": "eyJzZWdtZW50SUQiOiI1M2VhNjk4YS05YzE2LTRmYTUtYmMyOS1jMzk4ZTQ5NDljMjQiLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjoyMX0=",
+      "id": "eyJzZWdtZW50SUQiOiJiMzFhZmRhMy1jY2JlLTRkOTEtYWU0NS04YTE2NWFiMzc3ZmIiLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjoyMX0=",
       "start_time": "2025-05-20T09:00:00Z",
-      "end_time": "2025-05-20T12:00:00Z",
+      "end_time": "2025-05-20T13:00:00Z",
+      "title": "Lycans avec les potes ",
+      "canceled_until": null,
+      "category": {
+        "id": "1494074023",
+        "name": "Lycans"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiIwZmRhMDM4My0xMmM4LTQ3NWUtODg3MS1lNzhhYjYyMmM3M2YiLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjoyMX0=",
+      "start_time": "2025-05-20T13:00:00Z",
+      "end_time": "2025-05-20T17:00:00Z",
+      "title": "Le non 100%",
+      "canceled_until": null,
+      "category": {
+        "id": "2109666737",
+        "name": "ASTRO BOT"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiI2MDM4MzljYS02MGY5LTQ3OTktODM4MS04ZmViYmEyNjdhMGMiLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjoyMX0=",
+      "start_time": "2025-05-21T09:00:00Z",
+      "end_time": "2025-05-21T16:00:00Z",
       "title": "Clair Obscur: Expedition 33",
       "canceled_until": null,
       "category": {
@@ -229,26 +199,47 @@
       "is_recurring": true
     },
     {
-      "id": "eyJzZWdtZW50SUQiOiIzMTJlNTYwYy0zM2QzLTQ4MWEtYWMxYS0zNGFkNjI1YzA2ZDkiLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjoyMX0=",
-      "start_time": "2025-05-20T12:00:00Z",
-      "end_time": "2025-05-20T16:00:00Z",
-      "title": "On écoute vos sons et on parle musique avec Léo et JB de Floral Records",
+      "id": "eyJzZWdtZW50SUQiOiJhNDY0MTExNy0wYWIyLTQ4NWEtOTc1NS1mNjgzMzQ0MDhmNmIiLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjoyMX0=",
+      "start_time": "2025-05-22T12:00:00Z",
+      "end_time": "2025-05-22T18:00:00Z",
+      "title": "Little kitty, big city",
       "canceled_until": null,
       "category": {
-        "id": "26936",
-        "name": "Music"
+        "id": "1510583289",
+        "name": "Little Kitty, Big City"
       },
       "is_recurring": true
     },
     {
-      "id": "eyJzZWdtZW50SUQiOiI4YjBiNWQyOS1hNTU5LTQxNTQtYWM5Ni03YzY2ZTExYjdhNTQiLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjoyMX0=",
-      "start_time": "2025-05-20T18:30:00Z",
-      "end_time": "2025-05-20T22:30:00Z",
-      "title": "WoW Classic Hardcore (Raid à 40) Molten Core + Onyxia + BWL?",
+      "id": "eyJzZWdtZW50SUQiOiIxMzcyMzllZi0yMjkzLTRkYjQtYTlmZi1jMDNmYjI5ZTY0NDIiLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjoyMX0=",
+      "start_time": "2025-05-23T09:00:00Z",
+      "end_time": "2025-05-23T16:00:00Z",
+      "title": "yolo",
+      "canceled_until": null,
+      "category": null,
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiIzN2ZhOWU2NC02NjA4LTRmZjgtOTEwOC1kZTgxN2JjMTdjYzMiLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjoyMn0=",
+      "start_time": "2025-05-26T09:00:00Z",
+      "end_time": "2025-05-26T16:00:00Z",
+      "title": "Culture & plaisir sur le Maitre des Fleurs",
       "canceled_until": null,
       "category": {
-        "id": "18122",
-        "name": "World of Warcraft"
+        "id": "338715930",
+        "name": "Maitre des Fleurs"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiJiMzFhZmRhMy1jY2JlLTRkOTEtYWU0NS04YTE2NWFiMzc3ZmIiLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjoyMn0=",
+      "start_time": "2025-05-27T09:00:00Z",
+      "end_time": "2025-05-27T13:00:00Z",
+      "title": "Lycans avec les potes ",
+      "canceled_until": null,
+      "category": {
+        "id": "1494074023",
+        "name": "Lycans"
       },
       "is_recurring": true
     }
