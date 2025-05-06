@@ -13,16 +13,52 @@
   },
   "schedulers": [
     {
-      "id": "eyJzZWdtZW50SUQiOiI0N2YwODdkMi1hZDlhLTRlZGMtOTllYS0zOWVmZWJhNzlkZTgiLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjoxOX0=",
-      "start_time": "2025-05-05T18:30:00Z",
-      "end_time": "2025-05-05T22:00:00Z",
-      "title": "Soirée du lundi avec des gens et des jeux",
+      "id": "eyJzZWdtZW50SUQiOiJjZjNjZjNmNi01Mzk3LTRjMWQtYWNlMi1mZjE1YTVlNGViNTQiLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjoxOX0=",
+      "start_time": "2025-05-06T17:00:00Z",
+      "end_time": "2025-05-06T20:00:00Z",
+      "title": "Je sais pas ce qu'on fait, mais on fait des trucs",
       "canceled_until": null,
       "category": {
         "id": "509658",
         "name": "Just Chatting"
       },
-      "is_recurring": true
+      "is_recurring": false
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiJiOTg4MjJlOC1kNjUyLTRmN2UtOGI1My1hYjcwMDYzYjllZTQiLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjoxOX0=",
+      "start_time": "2025-05-07T18:00:00Z",
+      "end_time": "2025-05-07T21:00:00Z",
+      "title": "[Sur la Chaine EnjoyPhoenix] Le bureau des lettres oubliées",
+      "canceled_until": null,
+      "category": {
+        "id": "509658",
+        "name": "Just Chatting"
+      },
+      "is_recurring": false
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiI2OWE1NDg2OC01OWEzLTQ0ZmUtODZkNC1iZjAwYWNlMTdiNjIiLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjoxOX0=",
+      "start_time": "2025-05-08T17:00:00Z",
+      "end_time": "2025-05-08T21:00:00Z",
+      "title": "[Sur la Chaine LittleBigWhale] ON FAIT UN CONCERT au Trianon, dernière date BroadWhale",
+      "canceled_until": null,
+      "category": {
+        "id": "26936",
+        "name": "Music"
+      },
+      "is_recurring": false
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiI3NjVjMDRlMC05Y2UyLTQwYTYtODNjNS0xYThhNzBhZThmN2YiLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjoxOX0=",
+      "start_time": "2025-05-09T17:00:00Z",
+      "end_time": "2025-05-09T20:00:00Z",
+      "title": "Je sais pas ce qu'on fait, mais on fait des trucs",
+      "canceled_until": null,
+      "category": {
+        "id": "509658",
+        "name": "Just Chatting"
+      },
+      "is_recurring": false
     },
     {
       "id": "eyJzZWdtZW50SUQiOiI0N2YwODdkMi1hZDlhLTRlZGMtOTllYS0zOWVmZWJhNzlkZTgiLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjoyMH0=",
@@ -208,42 +244,6 @@
       "id": "eyJzZWdtZW50SUQiOiI0N2YwODdkMi1hZDlhLTRlZGMtOTllYS0zOWVmZWJhNzlkZTgiLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjozNX0=",
       "start_time": "2025-08-25T18:30:00Z",
       "end_time": "2025-08-25T22:00:00Z",
-      "title": "Soirée du lundi avec des gens et des jeux",
-      "canceled_until": null,
-      "category": {
-        "id": "509658",
-        "name": "Just Chatting"
-      },
-      "is_recurring": true
-    },
-    {
-      "id": "eyJzZWdtZW50SUQiOiI0N2YwODdkMi1hZDlhLTRlZGMtOTllYS0zOWVmZWJhNzlkZTgiLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjozNn0=",
-      "start_time": "2025-09-01T18:30:00Z",
-      "end_time": "2025-09-01T22:00:00Z",
-      "title": "Soirée du lundi avec des gens et des jeux",
-      "canceled_until": null,
-      "category": {
-        "id": "509658",
-        "name": "Just Chatting"
-      },
-      "is_recurring": true
-    },
-    {
-      "id": "eyJzZWdtZW50SUQiOiI0N2YwODdkMi1hZDlhLTRlZGMtOTllYS0zOWVmZWJhNzlkZTgiLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjozN30=",
-      "start_time": "2025-09-08T18:30:00Z",
-      "end_time": "2025-09-08T22:00:00Z",
-      "title": "Soirée du lundi avec des gens et des jeux",
-      "canceled_until": null,
-      "category": {
-        "id": "509658",
-        "name": "Just Chatting"
-      },
-      "is_recurring": true
-    },
-    {
-      "id": "eyJzZWdtZW50SUQiOiI0N2YwODdkMi1hZDlhLTRlZGMtOTllYS0zOWVmZWJhNzlkZTgiLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjozOH0=",
-      "start_time": "2025-09-15T18:30:00Z",
-      "end_time": "2025-09-15T22:00:00Z",
       "title": "Soirée du lundi avec des gens et des jeux",
       "canceled_until": null,
       "category": {
