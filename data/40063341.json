@@ -7,9 +7,94 @@
     "broadcaster_type": "partner",
     "description": "Président du FC Silmi",
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/3cdae7df-600c-4833-8dfe-8d2abc5a3b25-profile_image-300x300.png",
-    "offline_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/21e83840-c374-4ec7-8ce0-a7ab0373cb38-channel_offline_image-1920x1080.png",
+    "offline_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/5ba7fdbc-0477-428b-a5fb-172228922776-channel_offline_image-1920x1080.png",
     "view_count": 0,
     "created_at": "2013-02-05T19:20:22Z"
   },
-  "schedulers": []
+  "schedulers": [
+    {
+      "id": "eyJzZWdtZW50SUQiOiI2ZjBkMTExMC1jOWRhLTRhZGYtOTgxZS01ZWU5NzVmZmJlZGEiLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjoyMH0=",
+      "start_time": "2025-05-13T18:30:00Z",
+      "end_time": "2025-05-13T21:00:00Z",
+      "title": "⚽ ON REACT LES DEMI-FINALES DE LA KINGS LEAGUE",
+      "canceled_until": null,
+      "category": {
+        "id": "1863222988",
+        "name": "Kings League"
+      },
+      "is_recurring": false
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiJhNzM0OGMyYy04ZWI5LTQ2NzktOWM2Yi0wZjNjZjFhMDAwNmMiLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjoyMH0=",
+      "start_time": "2025-05-14T12:00:00Z",
+      "end_time": "2025-05-14T13:00:00Z",
+      "title": "🎙 PRÉ LIVE",
+      "canceled_until": null,
+      "category": {
+        "id": "509658",
+        "name": "Just Chatting"
+      },
+      "is_recurring": false
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiI0NjEwZDEwMS1kMTdhLTQ4MzYtODhiNS01NTM5MjhiNjg0NTciLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjoyMH0=",
+      "start_time": "2025-05-14T13:00:00Z",
+      "end_time": "2025-05-14T17:00:00Z",
+      "title": "👮‍♂️ ON DÉCOUVRE THE PRECINT",
+      "canceled_until": null,
+      "category": {
+        "id": "1603372251",
+        "name": "The Precinct"
+      },
+      "is_recurring": false
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiJlZDgwY2NjMS1kZGZjLTQ2YmYtOGZiYy04NTVhMmI4YjYyMmYiLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjoyMH0=",
+      "start_time": "2025-05-15T12:00:00Z",
+      "end_time": "2025-05-15T13:00:00Z",
+      "title": "🎙 PRÉ LIVE",
+      "canceled_until": null,
+      "category": {
+        "id": "509658",
+        "name": "Just Chatting"
+      },
+      "is_recurring": false
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiJmMDVmN2M0Yy04YjQzLTQ0ZDMtYWU4Zi1iNGVhYzEwNmNjNjYiLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjoyMH0=",
+      "start_time": "2025-05-15T13:00:00Z",
+      "end_time": "2025-05-15T17:00:00Z",
+      "title": "📺 STREAM LIBRE",
+      "canceled_until": null,
+      "category": {
+        "id": "509658",
+        "name": "Just Chatting"
+      },
+      "is_recurring": false
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiI1M2UwYzRjYy1lOWM5LTQ5MmMtODU4Ni0zZTQzNGZmNTkyMGYiLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjoyMH0=",
+      "start_time": "2025-05-16T12:00:00Z",
+      "end_time": "2025-05-16T13:00:00Z",
+      "title": "🎙 PRÉ LIVE",
+      "canceled_until": null,
+      "category": {
+        "id": "509658",
+        "name": "Just Chatting"
+      },
+      "is_recurring": false
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiIzYmQ1NzMwNy0xY2M1LTQ0MGItODU4Zi1jNTdjYzc1ZjM4YjYiLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjoyMH0=",
+      "start_time": "2025-05-16T13:00:00Z",
+      "end_time": "2025-05-16T17:00:00Z",
+      "title": "📺 STREAM LIBRE",
+      "canceled_until": null,
+      "category": {
+        "id": "509658",
+        "name": "Just Chatting"
+      },
+      "is_recurring": false
+    }
+  ]
 }
