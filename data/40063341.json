@@ -13,18 +13,6 @@
   },
   "schedulers": [
     {
-      "id": "eyJzZWdtZW50SUQiOiI2ZjBkMTExMC1jOWRhLTRhZGYtOTgxZS01ZWU5NzVmZmJlZGEiLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjoyMH0=",
-      "start_time": "2025-05-13T18:30:00Z",
-      "end_time": "2025-05-13T21:00:00Z",
-      "title": "⚽ ON REACT LES DEMI-FINALES DE LA KINGS LEAGUE",
-      "canceled_until": null,
-      "category": {
-        "id": "1863222988",
-        "name": "Kings League"
-      },
-      "is_recurring": false
-    },
-    {
       "id": "eyJzZWdtZW50SUQiOiJhNzM0OGMyYy04ZWI5LTQ2NzktOWM2Yi0wZjNjZjFhMDAwNmMiLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjoyMH0=",
       "start_time": "2025-05-14T12:00:00Z",
       "end_time": "2025-05-14T13:00:00Z",

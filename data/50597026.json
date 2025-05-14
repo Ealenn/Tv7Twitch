@@ -13,42 +13,6 @@
   },
   "schedulers": [
     {
-      "id": "eyJzZWdtZW50SUQiOiJiMzFhZmRhMy1jY2JlLTRkOTEtYWU0NS04YTE2NWFiMzc3ZmIiLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjoyMH0=",
-      "start_time": "2025-05-13T09:00:00Z",
-      "end_time": "2025-05-13T14:00:00Z",
-      "title": "Lycans avec les potes ",
-      "canceled_until": null,
-      "category": {
-        "id": "1494074023",
-        "name": "Lycans"
-      },
-      "is_recurring": true
-    },
-    {
-      "id": "eyJzZWdtZW50SUQiOiIwZmRhMDM4My0xMmM4LTQ3NWUtODg3MS1lNzhhYjYyMmM3M2YiLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjoyMH0=",
-      "start_time": "2025-05-13T14:00:00Z",
-      "end_time": "2025-05-13T17:00:00Z",
-      "title": "Palia",
-      "canceled_until": null,
-      "category": {
-        "id": "982017546",
-        "name": "Palia"
-      },
-      "is_recurring": true
-    },
-    {
-      "id": "eyJzZWdtZW50SUQiOiIyMjExMmJjYi1mYWRiLTQ1Y2EtODZlNC0yMDIwMTZiMmIzODkiLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjoyMH0=",
-      "start_time": "2025-05-13T18:30:00Z",
-      "end_time": "2025-05-13T21:30:00Z",
-      "title": "Raid WoW Hardcore",
-      "canceled_until": null,
-      "category": {
-        "id": "18122",
-        "name": "World of Warcraft"
-      },
-      "is_recurring": true
-    },
-    {
       "id": "eyJzZWdtZW50SUQiOiI2MDM4MzljYS02MGY5LTQ3OTktODM4MS04ZmViYmEyNjdhMGMiLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjoyMH0=",
       "start_time": "2025-05-14T09:00:00Z",
       "end_time": "2025-05-14T16:00:00Z",
@@ -110,25 +74,13 @@
     },
     {
       "id": "eyJzZWdtZW50SUQiOiIwZmRhMDM4My0xMmM4LTQ3NWUtODg3MS1lNzhhYjYyMmM3M2YiLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjoyMX0=",
-      "start_time": "2025-05-20T14:00:00Z",
-      "end_time": "2025-05-20T17:00:00Z",
+      "start_time": "2025-05-20T17:00:00Z",
+      "end_time": "2025-05-20T21:00:00Z",
       "title": "Palia",
       "canceled_until": null,
       "category": {
         "id": "982017546",
         "name": "Palia"
-      },
-      "is_recurring": true
-    },
-    {
-      "id": "eyJzZWdtZW50SUQiOiIyMjExMmJjYi1mYWRiLTQ1Y2EtODZlNC0yMDIwMTZiMmIzODkiLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjoyMX0=",
-      "start_time": "2025-05-20T18:30:00Z",
-      "end_time": "2025-05-20T21:30:00Z",
-      "title": "Raid WoW Hardcore",
-      "canceled_until": null,
-      "category": {
-        "id": "18122",
-        "name": "World of Warcraft"
       },
       "is_recurring": true
     },
@@ -194,25 +146,13 @@
     },
     {
       "id": "eyJzZWdtZW50SUQiOiIwZmRhMDM4My0xMmM4LTQ3NWUtODg3MS1lNzhhYjYyMmM3M2YiLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjoyMn0=",
-      "start_time": "2025-05-27T14:00:00Z",
-      "end_time": "2025-05-27T17:00:00Z",
+      "start_time": "2025-05-27T17:00:00Z",
+      "end_time": "2025-05-27T21:00:00Z",
       "title": "Palia",
       "canceled_until": null,
       "category": {
         "id": "982017546",
         "name": "Palia"
-      },
-      "is_recurring": true
-    },
-    {
-      "id": "eyJzZWdtZW50SUQiOiIyMjExMmJjYi1mYWRiLTQ1Y2EtODZlNC0yMDIwMTZiMmIzODkiLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjoyMn0=",
-      "start_time": "2025-05-27T18:30:00Z",
-      "end_time": "2025-05-27T21:30:00Z",
-      "title": "Raid WoW Hardcore",
-      "canceled_until": null,
-      "category": {
-        "id": "18122",
-        "name": "World of Warcraft"
       },
       "is_recurring": true
     },
@@ -249,6 +189,66 @@
       "category": {
         "id": "36799602",
         "name": "Clair Obscur: Expedition 33"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiIzN2ZhOWU2NC02NjA4LTRmZjgtOTEwOC1kZTgxN2JjMTdjYzMiLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjoyM30=",
+      "start_time": "2025-06-02T09:00:00Z",
+      "end_time": "2025-06-02T16:00:00Z",
+      "title": "Culture & plaisir sur le Maitre des Fleurs",
+      "canceled_until": null,
+      "category": {
+        "id": "338715930",
+        "name": "Maitre des Fleurs"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiJiMzFhZmRhMy1jY2JlLTRkOTEtYWU0NS04YTE2NWFiMzc3ZmIiLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjoyM30=",
+      "start_time": "2025-06-03T09:00:00Z",
+      "end_time": "2025-06-03T14:00:00Z",
+      "title": "Lycans avec les potes ",
+      "canceled_until": null,
+      "category": {
+        "id": "1494074023",
+        "name": "Lycans"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiIwZmRhMDM4My0xMmM4LTQ3NWUtODg3MS1lNzhhYjYyMmM3M2YiLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjoyM30=",
+      "start_time": "2025-06-03T17:00:00Z",
+      "end_time": "2025-06-03T21:00:00Z",
+      "title": "Palia",
+      "canceled_until": null,
+      "category": {
+        "id": "982017546",
+        "name": "Palia"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiI2MDM4MzljYS02MGY5LTQ3OTktODM4MS04ZmViYmEyNjdhMGMiLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjoyM30=",
+      "start_time": "2025-06-04T09:00:00Z",
+      "end_time": "2025-06-04T16:00:00Z",
+      "title": "Clair Obscur: Expedition 33",
+      "canceled_until": null,
+      "category": {
+        "id": "36799602",
+        "name": "Clair Obscur: Expedition 33"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiJhNDY0MTExNy0wYWIyLTQ4NWEtOTc1NS1mNjgzMzQ0MDhmNmIiLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjoyM30=",
+      "start_time": "2025-06-05T11:00:00Z",
+      "end_time": "2025-06-05T16:00:00Z",
+      "title": "Codenames avec les potes",
+      "canceled_until": null,
+      "category": {
+        "id": "508509",
+        "name": "Codenames"
       },
       "is_recurring": true
     }
