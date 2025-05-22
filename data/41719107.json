@@ -13,6 +13,42 @@
   },
   "schedulers": [
     {
+      "id": "eyJzZWdtZW50SUQiOiJjMDI5ZTcyYS1mMGZjLTRjZjgtOGVlZC0zMTk3NDE1NWQzNDIiLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjoyMX0=",
+      "start_time": "2025-05-22T16:00:00Z",
+      "end_time": "2025-05-22T18:00:00Z",
+      "title": "[Sur la chaine Jirayalecochon] Écu du roi, petit quiz de culture G",
+      "canceled_until": null,
+      "category": {
+        "id": "509658",
+        "name": "Just Chatting"
+      },
+      "is_recurring": false
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiJlZDVjNGM5Mi1iMDQzLTRmYWItYmI1OC04YWRhNDNiMzZmNzciLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjoyMX0=",
+      "start_time": "2025-05-24T12:00:00Z",
+      "end_time": "2025-05-24T21:00:00Z",
+      "title": "[Sur la chaine CrocodyleTV] HANGAR Lan de LoL(je joue pas mais j'y suis toute la journée)",
+      "canceled_until": null,
+      "category": {
+        "id": "21779",
+        "name": "League of Legends"
+      },
+      "is_recurring": false
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiIyZDc1YzYwMy03Y2VjLTRlYmItOGM2NS1hODc4OTE3NjdjMTQiLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjoyMX0=",
+      "start_time": "2025-05-25T18:00:00Z",
+      "end_time": "2025-05-25T22:00:00Z",
+      "title": "On essaye ENFIN RoadCraft en Coop avec...",
+      "canceled_until": null,
+      "category": {
+        "id": "1106985046",
+        "name": "RoadCraft"
+      },
+      "is_recurring": false
+    },
+    {
       "id": "eyJzZWdtZW50SUQiOiI0N2YwODdkMi1hZDlhLTRlZGMtOTllYS0zOWVmZWJhNzlkZTgiLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjoyMn0=",
       "start_time": "2025-05-26T18:30:00Z",
       "end_time": "2025-05-26T22:00:00Z",
@@ -208,42 +244,6 @@
       "id": "eyJzZWdtZW50SUQiOiI0N2YwODdkMi1hZDlhLTRlZGMtOTllYS0zOWVmZWJhNzlkZTgiLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjozOH0=",
       "start_time": "2025-09-15T18:30:00Z",
       "end_time": "2025-09-15T22:00:00Z",
-      "title": "Soirée du lundi avec des gens et des jeux",
-      "canceled_until": null,
-      "category": {
-        "id": "509658",
-        "name": "Just Chatting"
-      },
-      "is_recurring": true
-    },
-    {
-      "id": "eyJzZWdtZW50SUQiOiI0N2YwODdkMi1hZDlhLTRlZGMtOTllYS0zOWVmZWJhNzlkZTgiLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjozOX0=",
-      "start_time": "2025-09-22T18:30:00Z",
-      "end_time": "2025-09-22T22:00:00Z",
-      "title": "Soirée du lundi avec des gens et des jeux",
-      "canceled_until": null,
-      "category": {
-        "id": "509658",
-        "name": "Just Chatting"
-      },
-      "is_recurring": true
-    },
-    {
-      "id": "eyJzZWdtZW50SUQiOiI0N2YwODdkMi1hZDlhLTRlZGMtOTllYS0zOWVmZWJhNzlkZTgiLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjo0MH0=",
-      "start_time": "2025-09-29T18:30:00Z",
-      "end_time": "2025-09-29T22:00:00Z",
-      "title": "Soirée du lundi avec des gens et des jeux",
-      "canceled_until": null,
-      "category": {
-        "id": "509658",
-        "name": "Just Chatting"
-      },
-      "is_recurring": true
-    },
-    {
-      "id": "eyJzZWdtZW50SUQiOiI0N2YwODdkMi1hZDlhLTRlZGMtOTllYS0zOWVmZWJhNzlkZTgiLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjo0MX0=",
-      "start_time": "2025-10-06T18:30:00Z",
-      "end_time": "2025-10-06T22:00:00Z",
       "title": "Soirée du lundi avec des gens et des jeux",
       "canceled_until": null,
       "category": {

@@ -13,18 +13,6 @@
   },
   "schedulers": [
     {
-      "id": "eyJzZWdtZW50SUQiOiI2MDM4MzljYS02MGY5LTQ3OTktODM4MS04ZmViYmEyNjdhMGMiLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjoyMX0=",
-      "start_time": "2025-05-21T09:00:00Z",
-      "end_time": "2025-05-21T16:00:00Z",
-      "title": "Clair Obscur: Expedition 33",
-      "canceled_until": null,
-      "category": {
-        "id": "36799602",
-        "name": "Clair Obscur: Expedition 33"
-      },
-      "is_recurring": true
-    },
-    {
       "id": "eyJzZWdtZW50SUQiOiJhNDY0MTExNy0wYWIyLTQ4NWEtOTc1NS1mNjgzMzQ0MDhmNmIiLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjoyMX0=",
       "start_time": "2025-05-22T13:00:00Z",
       "end_time": "2025-05-22T16:00:00Z",
@@ -249,6 +237,18 @@
       "category": {
         "id": "509672",
         "name": "IRL"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiIzZTMzZTdiMC1iNDEzLTRkMTMtOGQ2ZC1hMjRhZjE1ZDYyNmQiLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjoyNH0=",
+      "start_time": "2025-06-13T09:00:00Z",
+      "end_time": "2025-06-13T16:00:00Z",
+      "title": "Clair Obscur: Expedition 33",
+      "canceled_until": null,
+      "category": {
+        "id": "36799602",
+        "name": "Clair Obscur: Expedition 33"
       },
       "is_recurring": true
     }
