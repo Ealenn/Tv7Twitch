@@ -13,18 +13,6 @@
   },
   "schedulers": [
     {
-      "id": "eyJzZWdtZW50SUQiOiJlZDVjNGM5Mi1iMDQzLTRmYWItYmI1OC04YWRhNDNiMzZmNzciLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjoyMX0=",
-      "start_time": "2025-05-24T12:00:00Z",
-      "end_time": "2025-05-24T21:00:00Z",
-      "title": "[Sur la chaine CrocodyleTV] HANGAR Lan de LoL(je joue pas mais j'y suis toute la journée)",
-      "canceled_until": null,
-      "category": {
-        "id": "21779",
-        "name": "League of Legends"
-      },
-      "is_recurring": false
-    },
-    {
       "id": "eyJzZWdtZW50SUQiOiIyZDc1YzYwMy03Y2VjLTRlYmItOGM2NS1hODc4OTE3NjdjMTQiLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjoyMX0=",
       "start_time": "2025-05-25T18:00:00Z",
       "end_time": "2025-05-25T22:00:00Z",
@@ -244,6 +232,18 @@
       "id": "eyJzZWdtZW50SUQiOiI0N2YwODdkMi1hZDlhLTRlZGMtOTllYS0zOWVmZWJhNzlkZTgiLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjozOX0=",
       "start_time": "2025-09-22T18:30:00Z",
       "end_time": "2025-09-22T22:00:00Z",
+      "title": "Soirée du lundi avec des gens et des jeux",
+      "canceled_until": null,
+      "category": {
+        "id": "509658",
+        "name": "Just Chatting"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiI0N2YwODdkMi1hZDlhLTRlZGMtOTllYS0zOWVmZWJhNzlkZTgiLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjo0MH0=",
+      "start_time": "2025-09-29T18:30:00Z",
+      "end_time": "2025-09-29T22:00:00Z",
       "title": "Soirée du lundi avec des gens et des jeux",
       "canceled_until": null,
       "category": {
