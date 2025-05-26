@@ -13,18 +13,6 @@
   },
   "schedulers": [
     {
-      "id": "eyJzZWdtZW50SUQiOiIyZDc1YzYwMy03Y2VjLTRlYmItOGM2NS1hODc4OTE3NjdjMTQiLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjoyMX0=",
-      "start_time": "2025-05-25T18:00:00Z",
-      "end_time": "2025-05-25T22:00:00Z",
-      "title": "On essaye ENFIN RoadCraft en Coop avec...",
-      "canceled_until": null,
-      "category": {
-        "id": "1106985046",
-        "name": "RoadCraft"
-      },
-      "is_recurring": false
-    },
-    {
       "id": "eyJzZWdtZW50SUQiOiI0N2YwODdkMi1hZDlhLTRlZGMtOTllYS0zOWVmZWJhNzlkZTgiLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjoyMn0=",
       "start_time": "2025-05-26T18:30:00Z",
       "end_time": "2025-05-26T22:00:00Z",
@@ -35,6 +23,54 @@
         "name": "Just Chatting"
       },
       "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiIxZjFmMGRlZC01MTdkLTRmNjItOTgzNi1iZWRhM2EzZDViOTAiLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjoyMn0=",
+      "start_time": "2025-05-29T18:00:00Z",
+      "end_time": "2025-05-29T21:00:00Z",
+      "title": "BOAT : La culture au sens large, 14e émission",
+      "canceled_until": null,
+      "category": {
+        "id": "509658",
+        "name": "Just Chatting"
+      },
+      "is_recurring": false
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiI3YjVjNmVmMi1iOGNhLTRlMzctODMxZi00N2I2ZjkwNjI1YzMiLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjoyMn0=",
+      "start_time": "2025-05-30T17:00:00Z",
+      "end_time": "2025-05-30T22:30:00Z",
+      "title": "Jour 1 : Coupe du monde de WoW : Mandatory joue les MDI",
+      "canceled_until": null,
+      "category": {
+        "id": "18122",
+        "name": "World of Warcraft"
+      },
+      "is_recurring": false
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiJkYzA1YzA0YS1mMjEyLTQzZTAtODRlZS1hZTMyZjNiM2U4NDciLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjoyMn0=",
+      "start_time": "2025-05-31T17:00:00Z",
+      "end_time": "2025-05-31T22:30:00Z",
+      "title": "Jour 2 : Coupe du monde de WoW : Mandatory joue les MDI",
+      "canceled_until": null,
+      "category": {
+        "id": "18122",
+        "name": "World of Warcraft"
+      },
+      "is_recurring": false
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiIxYzUzYzAzZC1kNzM3LTQxMzgtYjNiMC04MzYxYzRlOTRhMTMiLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjoyMn0=",
+      "start_time": "2025-06-01T17:00:00Z",
+      "end_time": "2025-06-01T22:30:00Z",
+      "title": "Jour 3 : Coupe du monde de WoW : Mandatory joue les MDI",
+      "canceled_until": null,
+      "category": {
+        "id": "18122",
+        "name": "World of Warcraft"
+      },
+      "is_recurring": false
     },
     {
       "id": "eyJzZWdtZW50SUQiOiI0N2YwODdkMi1hZDlhLTRlZGMtOTllYS0zOWVmZWJhNzlkZTgiLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjoyM30=",
@@ -208,42 +244,6 @@
       "id": "eyJzZWdtZW50SUQiOiI0N2YwODdkMi1hZDlhLTRlZGMtOTllYS0zOWVmZWJhNzlkZTgiLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjozN30=",
       "start_time": "2025-09-08T18:30:00Z",
       "end_time": "2025-09-08T22:00:00Z",
-      "title": "Soirée du lundi avec des gens et des jeux",
-      "canceled_until": null,
-      "category": {
-        "id": "509658",
-        "name": "Just Chatting"
-      },
-      "is_recurring": true
-    },
-    {
-      "id": "eyJzZWdtZW50SUQiOiI0N2YwODdkMi1hZDlhLTRlZGMtOTllYS0zOWVmZWJhNzlkZTgiLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjozOH0=",
-      "start_time": "2025-09-15T18:30:00Z",
-      "end_time": "2025-09-15T22:00:00Z",
-      "title": "Soirée du lundi avec des gens et des jeux",
-      "canceled_until": null,
-      "category": {
-        "id": "509658",
-        "name": "Just Chatting"
-      },
-      "is_recurring": true
-    },
-    {
-      "id": "eyJzZWdtZW50SUQiOiI0N2YwODdkMi1hZDlhLTRlZGMtOTllYS0zOWVmZWJhNzlkZTgiLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjozOX0=",
-      "start_time": "2025-09-22T18:30:00Z",
-      "end_time": "2025-09-22T22:00:00Z",
-      "title": "Soirée du lundi avec des gens et des jeux",
-      "canceled_until": null,
-      "category": {
-        "id": "509658",
-        "name": "Just Chatting"
-      },
-      "is_recurring": true
-    },
-    {
-      "id": "eyJzZWdtZW50SUQiOiI0N2YwODdkMi1hZDlhLTRlZGMtOTllYS0zOWVmZWJhNzlkZTgiLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjo0MH0=",
-      "start_time": "2025-09-29T18:30:00Z",
-      "end_time": "2025-09-29T22:00:00Z",
       "title": "Soirée du lundi avec des gens et des jeux",
       "canceled_until": null,
       "category": {
