@@ -13,18 +13,6 @@
   },
   "schedulers": [
     {
-      "id": "eyJzZWdtZW50SUQiOiI0N2YwODdkMi1hZDlhLTRlZGMtOTllYS0zOWVmZWJhNzlkZTgiLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjoyMn0=",
-      "start_time": "2025-05-26T18:30:00Z",
-      "end_time": "2025-05-26T22:00:00Z",
-      "title": "Soirée du lundi avec des gens et des jeux",
-      "canceled_until": null,
-      "category": {
-        "id": "509658",
-        "name": "Just Chatting"
-      },
-      "is_recurring": true
-    },
-    {
       "id": "eyJzZWdtZW50SUQiOiIxZjFmMGRlZC01MTdkLTRmNjItOTgzNi1iZWRhM2EzZDViOTAiLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjoyMn0=",
       "start_time": "2025-05-29T18:00:00Z",
       "end_time": "2025-05-29T21:00:00Z",
@@ -244,6 +232,18 @@
       "id": "eyJzZWdtZW50SUQiOiI0N2YwODdkMi1hZDlhLTRlZGMtOTllYS0zOWVmZWJhNzlkZTgiLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjozN30=",
       "start_time": "2025-09-08T18:30:00Z",
       "end_time": "2025-09-08T22:00:00Z",
+      "title": "Soirée du lundi avec des gens et des jeux",
+      "canceled_until": null,
+      "category": {
+        "id": "509658",
+        "name": "Just Chatting"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiI0N2YwODdkMi1hZDlhLTRlZGMtOTllYS0zOWVmZWJhNzlkZTgiLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjozOH0=",
+      "start_time": "2025-09-15T18:30:00Z",
+      "end_time": "2025-09-15T22:00:00Z",
       "title": "Soirée du lundi avec des gens et des jeux",
       "canceled_until": null,
       "category": {

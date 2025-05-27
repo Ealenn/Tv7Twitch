@@ -7,9 +7,82 @@
     "broadcaster_type": "partner",
     "description": "Président du FC Silmi",
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/3cdae7df-600c-4833-8dfe-8d2abc5a3b25-profile_image-300x300.png",
-    "offline_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/d2c6e44d-d79e-4fc2-917d-c7fec7b99471-channel_offline_image-1920x1080.png",
+    "offline_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/c4dc1628-2cea-42d9-8dcf-27c300eefdc7-channel_offline_image-1920x1080.png",
     "view_count": 0,
     "created_at": "2013-02-05T19:20:22Z"
   },
-  "schedulers": []
+  "schedulers": [
+    {
+      "id": "eyJzZWdtZW50SUQiOiIxZmU5OGM3NC1hYjRhLTQzNTMtODdhZS03NmIwYWNiM2EwMGMiLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjoyMn0=",
+      "start_time": "2025-05-27T18:00:00Z",
+      "end_time": "2025-05-27T21:00:00Z",
+      "title": "👨‍🍳 EN CUISINE AVEC KAMETO",
+      "canceled_until": null,
+      "category": {
+        "id": "509658",
+        "name": "Just Chatting"
+      },
+      "is_recurring": false
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiI0Mjg4YjYzOC1hOTMyLTRmMGYtOTA4OC01Y2Y1NGQ1M2E3ZDEiLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjoyMn0=",
+      "start_time": "2025-05-28T17:30:00Z",
+      "end_time": "2025-05-28T18:30:00Z",
+      "title": "🎙 PRÉ LIVE",
+      "canceled_until": null,
+      "category": {
+        "id": "509658",
+        "name": "Just Chatting"
+      },
+      "is_recurring": false
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiI1MWY5ZjdlZi02NGQzLTQ2M2ItOTBlMy04ZGZmYjcyZWIyNzUiLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjoyMn0=",
+      "start_time": "2025-05-28T18:30:00Z",
+      "end_time": "2025-05-28T22:00:00Z",
+      "title": "📺 SUITE DU REACT OUTLAST",
+      "canceled_until": null,
+      "category": {
+        "id": "509658",
+        "name": "Just Chatting"
+      },
+      "is_recurring": false
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiI1OTFmMWFkNi03MTcwLTQ2OTMtOWRjZC00NzU4OTYwNTA5NjciLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjoyMn0=",
+      "start_time": "2025-05-29T12:00:00Z",
+      "end_time": "2025-05-29T13:00:00Z",
+      "title": "🎙 PRÉ LIVE",
+      "canceled_until": null,
+      "category": {
+        "id": "509658",
+        "name": "Just Chatting"
+      },
+      "is_recurring": false
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiIxNjJmMjU5MC0xNTdhLTQ5OWItODliZi02NDJlOTE0YWE3MzciLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjoyMn0=",
+      "start_time": "2025-05-29T13:00:00Z",
+      "end_time": "2025-05-29T15:00:00Z",
+      "title": "💻 ON CONTINUE STREAMER LIFE SIMULATOR ",
+      "canceled_until": null,
+      "category": {
+        "id": "1173950709",
+        "name": "Streamer Life Simulator 2"
+      },
+      "is_recurring": false
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiI1ZDljY2RlMy0wOTVlLTRlNzItODY5NC1hNTZiYTllMmM1NTAiLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjoyMn0=",
+      "start_time": "2025-05-29T15:00:00Z",
+      "end_time": "2025-05-29T17:00:00Z",
+      "title": "🌍 CHALLENGE FRANCE SUR GEOGUESSR",
+      "canceled_until": null,
+      "category": {
+        "id": "369418",
+        "name": "GeoGuessr"
+      },
+      "is_recurring": false
+    }
+  ]
 }
