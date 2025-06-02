@@ -14,8 +14,8 @@
   "schedulers": [
     {
       "id": "eyJzZWdtZW50SUQiOiIzN2ZhOWU2NC02NjA4LTRmZjgtOTEwOC1kZTgxN2JjMTdjYzMiLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjoyM30=",
-      "start_time": "2025-06-03T09:00:00Z",
-      "end_time": "2025-06-03T16:00:00Z",
+      "start_time": "2025-06-02T09:00:00Z",
+      "end_time": "2025-06-02T16:00:00Z",
       "title": "Culture & plaisir sur le Maitre des Fleurs",
       "canceled_until": null,
       "category": {
@@ -26,44 +26,44 @@
     },
     {
       "id": "eyJzZWdtZW50SUQiOiI2MDM4MzljYS02MGY5LTQ3OTktODM4MS04ZmViYmEyNjdhMGMiLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjoyM30=",
-      "start_time": "2025-06-04T09:00:00Z",
-      "end_time": "2025-06-04T16:00:00Z",
-      "title": "Clair Obscur: Expedition 33",
+      "start_time": "2025-06-03T09:00:00Z",
+      "end_time": "2025-06-03T15:00:00Z",
+      "title": "POPUCOM avec Wingo",
       "canceled_until": null,
       "category": {
-        "id": "36799602",
-        "name": "Clair Obscur: Expedition 33"
+        "id": "478468002",
+        "name": "POPUCOM"
       },
       "is_recurring": true
     },
     {
       "id": "eyJzZWdtZW50SUQiOiJhNDY0MTExNy0wYWIyLTQ4NWEtOTc1NS1mNjgzMzQ0MDhmNmIiLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjoyM30=",
-      "start_time": "2025-06-05T11:00:00Z",
+      "start_time": "2025-06-05T09:00:00Z",
       "end_time": "2025-06-05T16:00:00Z",
-      "title": "Stream libre",
+      "title": "On découvre enfin Mario Kart World sur la SWITCH 2",
       "canceled_until": null,
       "category": {
-        "id": "509658",
-        "name": "Just Chatting"
+        "id": "1826300051",
+        "name": "Mario Kart World"
       },
       "is_recurring": true
     },
     {
       "id": "eyJzZWdtZW50SUQiOiIzZTMzZTdiMC1iNDEzLTRkMTMtOGQ2ZC1hMjRhZjE1ZDYyNmQiLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjoyM30=",
-      "start_time": "2025-06-06T16:00:00Z",
-      "end_time": "2025-06-06T21:00:00Z",
-      "title": "Elden Ring Nightreign",
+      "start_time": "2025-06-06T12:00:00Z",
+      "end_time": "2025-06-06T17:00:00Z",
+      "title": "Switch 2 DAY 2 - Mario Kart World",
       "canceled_until": null,
       "category": {
-        "id": "982348888",
-        "name": "Elden Ring: Nightreign"
+        "id": "1826300051",
+        "name": "Mario Kart World"
       },
       "is_recurring": true
     },
     {
       "id": "eyJzZWdtZW50SUQiOiIzN2ZhOWU2NC02NjA4LTRmZjgtOTEwOC1kZTgxN2JjMTdjYzMiLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjoyNH0=",
-      "start_time": "2025-06-10T09:00:00Z",
-      "end_time": "2025-06-10T16:00:00Z",
+      "start_time": "2025-06-09T09:00:00Z",
+      "end_time": "2025-06-09T16:00:00Z",
       "title": "Culture & plaisir sur le Maitre des Fleurs",
       "canceled_until": null,
       "category": {
@@ -74,44 +74,44 @@
     },
     {
       "id": "eyJzZWdtZW50SUQiOiI2MDM4MzljYS02MGY5LTQ3OTktODM4MS04ZmViYmEyNjdhMGMiLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjoyNH0=",
-      "start_time": "2025-06-11T09:00:00Z",
-      "end_time": "2025-06-11T16:00:00Z",
-      "title": "Clair Obscur: Expedition 33",
+      "start_time": "2025-06-10T09:00:00Z",
+      "end_time": "2025-06-10T15:00:00Z",
+      "title": "POPUCOM avec Wingo",
       "canceled_until": null,
       "category": {
-        "id": "36799602",
-        "name": "Clair Obscur: Expedition 33"
+        "id": "478468002",
+        "name": "POPUCOM"
       },
       "is_recurring": true
     },
     {
       "id": "eyJzZWdtZW50SUQiOiJhNDY0MTExNy0wYWIyLTQ4NWEtOTc1NS1mNjgzMzQ0MDhmNmIiLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjoyNH0=",
-      "start_time": "2025-06-12T11:00:00Z",
+      "start_time": "2025-06-12T09:00:00Z",
       "end_time": "2025-06-12T16:00:00Z",
-      "title": "Stream libre",
+      "title": "On découvre enfin Mario Kart World sur la SWITCH 2",
       "canceled_until": null,
       "category": {
-        "id": "509658",
-        "name": "Just Chatting"
+        "id": "1826300051",
+        "name": "Mario Kart World"
       },
       "is_recurring": true
     },
     {
       "id": "eyJzZWdtZW50SUQiOiIzZTMzZTdiMC1iNDEzLTRkMTMtOGQ2ZC1hMjRhZjE1ZDYyNmQiLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjoyNH0=",
-      "start_time": "2025-06-13T16:00:00Z",
-      "end_time": "2025-06-13T21:00:00Z",
-      "title": "Elden Ring Nightreign",
+      "start_time": "2025-06-13T12:00:00Z",
+      "end_time": "2025-06-13T17:00:00Z",
+      "title": "Switch 2 DAY 2 - Mario Kart World",
       "canceled_until": null,
       "category": {
-        "id": "982348888",
-        "name": "Elden Ring: Nightreign"
+        "id": "1826300051",
+        "name": "Mario Kart World"
       },
       "is_recurring": true
     },
     {
       "id": "eyJzZWdtZW50SUQiOiIzN2ZhOWU2NC02NjA4LTRmZjgtOTEwOC1kZTgxN2JjMTdjYzMiLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjoyNX0=",
-      "start_time": "2025-06-17T09:00:00Z",
-      "end_time": "2025-06-17T16:00:00Z",
+      "start_time": "2025-06-16T09:00:00Z",
+      "end_time": "2025-06-16T16:00:00Z",
       "title": "Culture & plaisir sur le Maitre des Fleurs",
       "canceled_until": null,
       "category": {
@@ -122,44 +122,44 @@
     },
     {
       "id": "eyJzZWdtZW50SUQiOiI2MDM4MzljYS02MGY5LTQ3OTktODM4MS04ZmViYmEyNjdhMGMiLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjoyNX0=",
-      "start_time": "2025-06-18T09:00:00Z",
-      "end_time": "2025-06-18T16:00:00Z",
-      "title": "Clair Obscur: Expedition 33",
+      "start_time": "2025-06-17T09:00:00Z",
+      "end_time": "2025-06-17T15:00:00Z",
+      "title": "POPUCOM avec Wingo",
       "canceled_until": null,
       "category": {
-        "id": "36799602",
-        "name": "Clair Obscur: Expedition 33"
+        "id": "478468002",
+        "name": "POPUCOM"
       },
       "is_recurring": true
     },
     {
       "id": "eyJzZWdtZW50SUQiOiJhNDY0MTExNy0wYWIyLTQ4NWEtOTc1NS1mNjgzMzQ0MDhmNmIiLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjoyNX0=",
-      "start_time": "2025-06-19T11:00:00Z",
+      "start_time": "2025-06-19T09:00:00Z",
       "end_time": "2025-06-19T16:00:00Z",
-      "title": "Stream libre",
+      "title": "On découvre enfin Mario Kart World sur la SWITCH 2",
       "canceled_until": null,
       "category": {
-        "id": "509658",
-        "name": "Just Chatting"
+        "id": "1826300051",
+        "name": "Mario Kart World"
       },
       "is_recurring": true
     },
     {
       "id": "eyJzZWdtZW50SUQiOiIzZTMzZTdiMC1iNDEzLTRkMTMtOGQ2ZC1hMjRhZjE1ZDYyNmQiLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjoyNX0=",
-      "start_time": "2025-06-20T16:00:00Z",
-      "end_time": "2025-06-20T21:00:00Z",
-      "title": "Elden Ring Nightreign",
+      "start_time": "2025-06-20T12:00:00Z",
+      "end_time": "2025-06-20T17:00:00Z",
+      "title": "Switch 2 DAY 2 - Mario Kart World",
       "canceled_until": null,
       "category": {
-        "id": "982348888",
-        "name": "Elden Ring: Nightreign"
+        "id": "1826300051",
+        "name": "Mario Kart World"
       },
       "is_recurring": true
     },
     {
       "id": "eyJzZWdtZW50SUQiOiIzN2ZhOWU2NC02NjA4LTRmZjgtOTEwOC1kZTgxN2JjMTdjYzMiLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjoyNn0=",
-      "start_time": "2025-06-24T09:00:00Z",
-      "end_time": "2025-06-24T16:00:00Z",
+      "start_time": "2025-06-23T09:00:00Z",
+      "end_time": "2025-06-23T16:00:00Z",
       "title": "Culture & plaisir sur le Maitre des Fleurs",
       "canceled_until": null,
       "category": {
@@ -170,44 +170,44 @@
     },
     {
       "id": "eyJzZWdtZW50SUQiOiI2MDM4MzljYS02MGY5LTQ3OTktODM4MS04ZmViYmEyNjdhMGMiLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjoyNn0=",
-      "start_time": "2025-06-25T09:00:00Z",
-      "end_time": "2025-06-25T16:00:00Z",
-      "title": "Clair Obscur: Expedition 33",
+      "start_time": "2025-06-24T09:00:00Z",
+      "end_time": "2025-06-24T15:00:00Z",
+      "title": "POPUCOM avec Wingo",
       "canceled_until": null,
       "category": {
-        "id": "36799602",
-        "name": "Clair Obscur: Expedition 33"
+        "id": "478468002",
+        "name": "POPUCOM"
       },
       "is_recurring": true
     },
     {
       "id": "eyJzZWdtZW50SUQiOiJhNDY0MTExNy0wYWIyLTQ4NWEtOTc1NS1mNjgzMzQ0MDhmNmIiLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjoyNn0=",
-      "start_time": "2025-06-26T11:00:00Z",
+      "start_time": "2025-06-26T09:00:00Z",
       "end_time": "2025-06-26T16:00:00Z",
-      "title": "Stream libre",
+      "title": "On découvre enfin Mario Kart World sur la SWITCH 2",
       "canceled_until": null,
       "category": {
-        "id": "509658",
-        "name": "Just Chatting"
+        "id": "1826300051",
+        "name": "Mario Kart World"
       },
       "is_recurring": true
     },
     {
       "id": "eyJzZWdtZW50SUQiOiIzZTMzZTdiMC1iNDEzLTRkMTMtOGQ2ZC1hMjRhZjE1ZDYyNmQiLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjoyNn0=",
-      "start_time": "2025-06-27T16:00:00Z",
-      "end_time": "2025-06-27T21:00:00Z",
-      "title": "Elden Ring Nightreign",
+      "start_time": "2025-06-27T12:00:00Z",
+      "end_time": "2025-06-27T17:00:00Z",
+      "title": "Switch 2 DAY 2 - Mario Kart World",
       "canceled_until": null,
       "category": {
-        "id": "982348888",
-        "name": "Elden Ring: Nightreign"
+        "id": "1826300051",
+        "name": "Mario Kart World"
       },
       "is_recurring": true
     },
     {
       "id": "eyJzZWdtZW50SUQiOiIzN2ZhOWU2NC02NjA4LTRmZjgtOTEwOC1kZTgxN2JjMTdjYzMiLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjoyN30=",
-      "start_time": "2025-07-01T09:00:00Z",
-      "end_time": "2025-07-01T16:00:00Z",
+      "start_time": "2025-06-30T09:00:00Z",
+      "end_time": "2025-06-30T16:00:00Z",
       "title": "Culture & plaisir sur le Maitre des Fleurs",
       "canceled_until": null,
       "category": {
@@ -218,37 +218,37 @@
     },
     {
       "id": "eyJzZWdtZW50SUQiOiI2MDM4MzljYS02MGY5LTQ3OTktODM4MS04ZmViYmEyNjdhMGMiLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjoyN30=",
-      "start_time": "2025-07-02T09:00:00Z",
-      "end_time": "2025-07-02T16:00:00Z",
-      "title": "Clair Obscur: Expedition 33",
+      "start_time": "2025-07-01T09:00:00Z",
+      "end_time": "2025-07-01T15:00:00Z",
+      "title": "POPUCOM avec Wingo",
       "canceled_until": null,
       "category": {
-        "id": "36799602",
-        "name": "Clair Obscur: Expedition 33"
+        "id": "478468002",
+        "name": "POPUCOM"
       },
       "is_recurring": true
     },
     {
       "id": "eyJzZWdtZW50SUQiOiJhNDY0MTExNy0wYWIyLTQ4NWEtOTc1NS1mNjgzMzQ0MDhmNmIiLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjoyN30=",
-      "start_time": "2025-07-03T11:00:00Z",
+      "start_time": "2025-07-03T09:00:00Z",
       "end_time": "2025-07-03T16:00:00Z",
-      "title": "Stream libre",
+      "title": "On découvre enfin Mario Kart World sur la SWITCH 2",
       "canceled_until": null,
       "category": {
-        "id": "509658",
-        "name": "Just Chatting"
+        "id": "1826300051",
+        "name": "Mario Kart World"
       },
       "is_recurring": true
     },
     {
       "id": "eyJzZWdtZW50SUQiOiIzZTMzZTdiMC1iNDEzLTRkMTMtOGQ2ZC1hMjRhZjE1ZDYyNmQiLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjoyN30=",
-      "start_time": "2025-07-04T16:00:00Z",
-      "end_time": "2025-07-04T21:00:00Z",
-      "title": "Elden Ring Nightreign",
+      "start_time": "2025-07-04T12:00:00Z",
+      "end_time": "2025-07-04T17:00:00Z",
+      "title": "Switch 2 DAY 2 - Mario Kart World",
       "canceled_until": null,
       "category": {
-        "id": "982348888",
-        "name": "Elden Ring: Nightreign"
+        "id": "1826300051",
+        "name": "Mario Kart World"
       },
       "is_recurring": true
     }
