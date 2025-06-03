@@ -7,9 +7,250 @@
     "broadcaster_type": "partner",
     "description": "Président du FC Silmi",
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/3cdae7df-600c-4833-8dfe-8d2abc5a3b25-profile_image-300x300.png",
-    "offline_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/c4dc1628-2cea-42d9-8dcf-27c300eefdc7-channel_offline_image-1920x1080.png",
+    "offline_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/b7ec2032-36d1-4bac-8419-06d72cba5b36-channel_offline_image-1920x1080.png",
     "view_count": 0,
     "created_at": "2013-02-05T19:20:22Z"
   },
-  "schedulers": []
+  "schedulers": [
+    {
+      "id": "eyJzZWdtZW50SUQiOiJmOTA3ZDY3NC0wYjgzLTRjN2EtYjdhNC0zNWZhZDgxYjMzZjYiLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjoyM30=",
+      "start_time": "2025-06-03T12:00:00Z",
+      "end_time": "2025-06-03T13:00:00Z",
+      "title": "🎙 PRÉ LIVE",
+      "canceled_until": null,
+      "category": {
+        "id": "509658",
+        "name": "Just Chatting"
+      },
+      "is_recurring": false
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiIxMTFhMDQzYi00ZTI3LTQxMWEtYjk5ZS1mZTM5NWE0ZTAyYTMiLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjoyM30=",
+      "start_time": "2025-06-03T13:00:00Z",
+      "end_time": "2025-06-03T17:00:00Z",
+      "title": "📺 STREAM LIBRE",
+      "canceled_until": null,
+      "category": {
+        "id": "509658",
+        "name": "Just Chatting"
+      },
+      "is_recurring": false
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiJmZDRlYTQyMC00NjcxLTRjZDctOGI0Ny1lZmEwZTg1ZWQ2MzQiLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjoyM30=",
+      "start_time": "2025-06-04T17:30:00Z",
+      "end_time": "2025-06-04T18:30:00Z",
+      "title": "🎙 PRÉ LIVE",
+      "canceled_until": null,
+      "category": {
+        "id": "509658",
+        "name": "Just Chatting"
+      },
+      "is_recurring": false
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiIzZTBlZDNmZS0xMTQxLTQxYjItOTNmZi1kYjk3ZWY2M2ViZDUiLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjoyM30=",
+      "start_time": "2025-06-04T18:30:00Z",
+      "end_time": "2025-06-04T22:00:00Z",
+      "title": "📺 ON TERMINE LE REACT OUTLAST",
+      "canceled_until": null,
+      "category": {
+        "id": "509658",
+        "name": "Just Chatting"
+      },
+      "is_recurring": false
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiI4YmExOGUwZS03NDJhLTRjMzUtYmQ4MC1hY2ZlNTk1M2UwMDkiLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjoyM30=",
+      "start_time": "2025-06-05T12:00:00Z",
+      "end_time": "2025-06-05T13:00:00Z",
+      "title": "🎙 PRÉ LIVE",
+      "canceled_until": null,
+      "category": {
+        "id": "509658",
+        "name": "Just Chatting"
+      },
+      "is_recurring": false
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiIyZjNkZGNiYS0yMjFjLTRjZjUtOGUwNC1hYTQxN2E0NjAzNjMiLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjoyM30=",
+      "start_time": "2025-06-05T13:00:00Z",
+      "end_time": "2025-06-05T17:00:00Z",
+      "title": "📺 STREAM LIBRE",
+      "canceled_until": null,
+      "category": {
+        "id": "509658",
+        "name": "Just Chatting"
+      },
+      "is_recurring": false
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiI2ZmU0NTcxYS1hMDk1LTQwNDEtYTk4MS0zNDlhOWFiYjBhMzkiLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjoyNH0=",
+      "start_time": "2025-06-09T17:30:00Z",
+      "end_time": "2025-06-09T18:30:00Z",
+      "title": "🎙 PRÉ LIVE",
+      "canceled_until": null,
+      "category": {
+        "id": "509658",
+        "name": "Just Chatting"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiI2ZmU0NTcxYS1hMDk1LTQwNDEtYTk4MS0zNDlhOWFiYjBhMzkiLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjoyNX0=",
+      "start_time": "2025-06-16T17:30:00Z",
+      "end_time": "2025-06-16T18:30:00Z",
+      "title": "🎙 PRÉ LIVE",
+      "canceled_until": null,
+      "category": {
+        "id": "509658",
+        "name": "Just Chatting"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiI2ZmU0NTcxYS1hMDk1LTQwNDEtYTk4MS0zNDlhOWFiYjBhMzkiLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjoyNn0=",
+      "start_time": "2025-06-23T17:30:00Z",
+      "end_time": "2025-06-23T18:30:00Z",
+      "title": "🎙 PRÉ LIVE",
+      "canceled_until": null,
+      "category": {
+        "id": "509658",
+        "name": "Just Chatting"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiI2ZmU0NTcxYS1hMDk1LTQwNDEtYTk4MS0zNDlhOWFiYjBhMzkiLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjoyN30=",
+      "start_time": "2025-06-30T17:30:00Z",
+      "end_time": "2025-06-30T18:30:00Z",
+      "title": "🎙 PRÉ LIVE",
+      "canceled_until": null,
+      "category": {
+        "id": "509658",
+        "name": "Just Chatting"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiI2ZmU0NTcxYS1hMDk1LTQwNDEtYTk4MS0zNDlhOWFiYjBhMzkiLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjoyOH0=",
+      "start_time": "2025-07-07T17:30:00Z",
+      "end_time": "2025-07-07T18:30:00Z",
+      "title": "🎙 PRÉ LIVE",
+      "canceled_until": null,
+      "category": {
+        "id": "509658",
+        "name": "Just Chatting"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiI2ZmU0NTcxYS1hMDk1LTQwNDEtYTk4MS0zNDlhOWFiYjBhMzkiLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjoyOX0=",
+      "start_time": "2025-07-14T17:30:00Z",
+      "end_time": "2025-07-14T18:30:00Z",
+      "title": "🎙 PRÉ LIVE",
+      "canceled_until": null,
+      "category": {
+        "id": "509658",
+        "name": "Just Chatting"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiI2ZmU0NTcxYS1hMDk1LTQwNDEtYTk4MS0zNDlhOWFiYjBhMzkiLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjozMH0=",
+      "start_time": "2025-07-21T17:30:00Z",
+      "end_time": "2025-07-21T18:30:00Z",
+      "title": "🎙 PRÉ LIVE",
+      "canceled_until": null,
+      "category": {
+        "id": "509658",
+        "name": "Just Chatting"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiI2ZmU0NTcxYS1hMDk1LTQwNDEtYTk4MS0zNDlhOWFiYjBhMzkiLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjozMX0=",
+      "start_time": "2025-07-28T17:30:00Z",
+      "end_time": "2025-07-28T18:30:00Z",
+      "title": "🎙 PRÉ LIVE",
+      "canceled_until": null,
+      "category": {
+        "id": "509658",
+        "name": "Just Chatting"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiI2ZmU0NTcxYS1hMDk1LTQwNDEtYTk4MS0zNDlhOWFiYjBhMzkiLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjozMn0=",
+      "start_time": "2025-08-04T17:30:00Z",
+      "end_time": "2025-08-04T18:30:00Z",
+      "title": "🎙 PRÉ LIVE",
+      "canceled_until": null,
+      "category": {
+        "id": "509658",
+        "name": "Just Chatting"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiI2ZmU0NTcxYS1hMDk1LTQwNDEtYTk4MS0zNDlhOWFiYjBhMzkiLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjozM30=",
+      "start_time": "2025-08-11T17:30:00Z",
+      "end_time": "2025-08-11T18:30:00Z",
+      "title": "🎙 PRÉ LIVE",
+      "canceled_until": null,
+      "category": {
+        "id": "509658",
+        "name": "Just Chatting"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiI2ZmU0NTcxYS1hMDk1LTQwNDEtYTk4MS0zNDlhOWFiYjBhMzkiLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjozNH0=",
+      "start_time": "2025-08-18T17:30:00Z",
+      "end_time": "2025-08-18T18:30:00Z",
+      "title": "🎙 PRÉ LIVE",
+      "canceled_until": null,
+      "category": {
+        "id": "509658",
+        "name": "Just Chatting"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiI2ZmU0NTcxYS1hMDk1LTQwNDEtYTk4MS0zNDlhOWFiYjBhMzkiLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjozNX0=",
+      "start_time": "2025-08-25T17:30:00Z",
+      "end_time": "2025-08-25T18:30:00Z",
+      "title": "🎙 PRÉ LIVE",
+      "canceled_until": null,
+      "category": {
+        "id": "509658",
+        "name": "Just Chatting"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiI2ZmU0NTcxYS1hMDk1LTQwNDEtYTk4MS0zNDlhOWFiYjBhMzkiLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjozNn0=",
+      "start_time": "2025-09-01T17:30:00Z",
+      "end_time": "2025-09-01T18:30:00Z",
+      "title": "🎙 PRÉ LIVE",
+      "canceled_until": null,
+      "category": {
+        "id": "509658",
+        "name": "Just Chatting"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiI2ZmU0NTcxYS1hMDk1LTQwNDEtYTk4MS0zNDlhOWFiYjBhMzkiLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjozN30=",
+      "start_time": "2025-09-08T17:30:00Z",
+      "end_time": "2025-09-08T18:30:00Z",
+      "title": "🎙 PRÉ LIVE",
+      "canceled_until": null,
+      "category": {
+        "id": "509658",
+        "name": "Just Chatting"
+      },
+      "is_recurring": true
+    }
+  ]
 }
