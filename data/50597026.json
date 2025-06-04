@@ -13,18 +13,6 @@
   },
   "schedulers": [
     {
-      "id": "eyJzZWdtZW50SUQiOiI2MDM4MzljYS02MGY5LTQ3OTktODM4MS04ZmViYmEyNjdhMGMiLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjoyM30=",
-      "start_time": "2025-06-03T09:00:00Z",
-      "end_time": "2025-06-03T15:00:00Z",
-      "title": "POPUCOM avec Wingo",
-      "canceled_until": null,
-      "category": {
-        "id": "478468002",
-        "name": "POPUCOM"
-      },
-      "is_recurring": true
-    },
-    {
       "id": "eyJzZWdtZW50SUQiOiJhNDY0MTExNy0wYWIyLTQ4NWEtOTc1NS1mNjgzMzQ0MDhmNmIiLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjoyM30=",
       "start_time": "2025-06-05T09:00:00Z",
       "end_time": "2025-06-05T16:00:00Z",
@@ -249,6 +237,18 @@
       "category": {
         "id": "338715930",
         "name": "Maitre des Fleurs"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiI2MDM4MzljYS02MGY5LTQ3OTktODM4MS04ZmViYmEyNjdhMGMiLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjoyOH0=",
+      "start_time": "2025-07-08T09:00:00Z",
+      "end_time": "2025-07-08T15:00:00Z",
+      "title": "POPUCOM avec Wingo",
+      "canceled_until": null,
+      "category": {
+        "id": "478468002",
+        "name": "POPUCOM"
       },
       "is_recurring": true
     }
