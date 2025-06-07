@@ -13,18 +13,6 @@
   },
   "schedulers": [
     {
-      "id": "eyJzZWdtZW50SUQiOiIzZTMzZTdiMC1iNDEzLTRkMTMtOGQ2ZC1hMjRhZjE1ZDYyNmQiLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjoyM30=",
-      "start_time": "2025-06-06T12:00:00Z",
-      "end_time": "2025-06-06T17:00:00Z",
-      "title": "Switch 2 DAY 2 - Mario Kart World",
-      "canceled_until": null,
-      "category": {
-        "id": "1826300051",
-        "name": "Mario Kart World"
-      },
-      "is_recurring": true
-    },
-    {
       "id": "eyJzZWdtZW50SUQiOiIzN2ZhOWU2NC02NjA4LTRmZjgtOTEwOC1kZTgxN2JjMTdjYzMiLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjoyNH0=",
       "start_time": "2025-06-09T09:00:00Z",
       "end_time": "2025-06-09T16:00:00Z",
@@ -245,6 +233,18 @@
       "start_time": "2025-07-10T09:00:00Z",
       "end_time": "2025-07-10T16:00:00Z",
       "title": "On découvre enfin Mario Kart World sur la SWITCH 2",
+      "canceled_until": null,
+      "category": {
+        "id": "1826300051",
+        "name": "Mario Kart World"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiIzZTMzZTdiMC1iNDEzLTRkMTMtOGQ2ZC1hMjRhZjE1ZDYyNmQiLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjoyOH0=",
+      "start_time": "2025-07-11T12:00:00Z",
+      "end_time": "2025-07-11T17:00:00Z",
+      "title": "Switch 2 DAY 2 - Mario Kart World",
       "canceled_until": null,
       "category": {
         "id": "1826300051",
