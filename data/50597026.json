@@ -7,52 +7,40 @@
     "broadcaster_type": "partner",
     "description": "Nous sommes de très jolies fleurs dans un même bouquet.",
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/d4737061-8f00-49d9-a56f-fcb4a9230b3f-profile_image-300x300.png",
-    "offline_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/9360089a-2536-4727-891e-1bce5dd1ee7b-channel_offline_image-1920x1080.png",
+    "offline_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/5f32051e-a760-421e-89a3-e0148af74f3d-channel_offline_image-1920x1080.png",
     "view_count": 0,
     "created_at": "2013-10-24T19:04:45Z"
   },
   "schedulers": [
     {
-      "id": "eyJzZWdtZW50SUQiOiIzN2ZhOWU2NC02NjA4LTRmZjgtOTEwOC1kZTgxN2JjMTdjYzMiLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjoyNH0=",
-      "start_time": "2025-06-09T09:00:00Z",
-      "end_time": "2025-06-09T16:00:00Z",
-      "title": "Culture & plaisir sur le Maitre des Fleurs",
-      "canceled_until": null,
-      "category": {
-        "id": "338715930",
-        "name": "Maitre des Fleurs"
-      },
-      "is_recurring": true
-    },
-    {
       "id": "eyJzZWdtZW50SUQiOiI2MDM4MzljYS02MGY5LTQ3OTktODM4MS04ZmViYmEyNjdhMGMiLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjoyNH0=",
-      "start_time": "2025-06-10T09:00:00Z",
-      "end_time": "2025-06-10T15:00:00Z",
-      "title": "POPUCOM avec Wingo",
+      "start_time": "2025-06-10T11:00:00Z",
+      "end_time": "2025-06-10T14:00:00Z",
+      "title": "Rune Factory : Guardians of Azuma",
       "canceled_until": null,
       "category": {
-        "id": "478468002",
-        "name": "POPUCOM"
+        "id": "126493842",
+        "name": "Rune Factory: Guardians of Azuma"
       },
       "is_recurring": true
     },
     {
-      "id": "eyJzZWdtZW50SUQiOiJhNDY0MTExNy0wYWIyLTQ4NWEtOTc1NS1mNjgzMzQ0MDhmNmIiLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjoyNH0=",
-      "start_time": "2025-06-12T09:00:00Z",
-      "end_time": "2025-06-12T16:00:00Z",
-      "title": "On découvre enfin Mario Kart World sur la SWITCH 2",
+      "id": "eyJzZWdtZW50SUQiOiJlNGU4MTQ5NS1lYWM0LTQyYmUtYTNmNC03MzEwNWExOWI4NmMiLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjoyNH0=",
+      "start_time": "2025-06-10T14:00:00Z",
+      "end_time": "2025-06-10T17:00:00Z",
+      "title": "Clair Obscur: Expédition 33",
       "canceled_until": null,
       "category": {
-        "id": "1826300051",
-        "name": "Mario Kart World"
+        "id": "36799602",
+        "name": "Clair Obscur: Expedition 33"
       },
       "is_recurring": true
     },
     {
       "id": "eyJzZWdtZW50SUQiOiIzZTMzZTdiMC1iNDEzLTRkMTMtOGQ2ZC1hMjRhZjE1ZDYyNmQiLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjoyNH0=",
-      "start_time": "2025-06-13T12:00:00Z",
-      "end_time": "2025-06-13T17:00:00Z",
-      "title": "Switch 2 DAY 2 - Mario Kart World",
+      "start_time": "2025-06-14T08:00:00Z",
+      "end_time": "2025-06-14T18:00:00Z",
+      "title": "LAN Mario Kart World",
       "canceled_until": null,
       "category": {
         "id": "1826300051",
@@ -62,7 +50,7 @@
     },
     {
       "id": "eyJzZWdtZW50SUQiOiIzN2ZhOWU2NC02NjA4LTRmZjgtOTEwOC1kZTgxN2JjMTdjYzMiLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjoyNX0=",
-      "start_time": "2025-06-16T09:00:00Z",
+      "start_time": "2025-06-16T10:00:00Z",
       "end_time": "2025-06-16T16:00:00Z",
       "title": "Culture & plaisir sur le Maitre des Fleurs",
       "canceled_until": null,
@@ -73,22 +61,10 @@
       "is_recurring": true
     },
     {
-      "id": "eyJzZWdtZW50SUQiOiI2MDM4MzljYS02MGY5LTQ3OTktODM4MS04ZmViYmEyNjdhMGMiLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjoyNX0=",
-      "start_time": "2025-06-17T09:00:00Z",
-      "end_time": "2025-06-17T15:00:00Z",
-      "title": "POPUCOM avec Wingo",
-      "canceled_until": null,
-      "category": {
-        "id": "478468002",
-        "name": "POPUCOM"
-      },
-      "is_recurring": true
-    },
-    {
-      "id": "eyJzZWdtZW50SUQiOiJhNDY0MTExNy0wYWIyLTQ4NWEtOTc1NS1mNjgzMzQ0MDhmNmIiLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjoyNX0=",
-      "start_time": "2025-06-19T09:00:00Z",
-      "end_time": "2025-06-19T16:00:00Z",
-      "title": "On découvre enfin Mario Kart World sur la SWITCH 2",
+      "id": "eyJzZWdtZW50SUQiOiIxMGMzYWEyMS1mZTQxLTQxZGUtOWY2ZC05MDgwZTg5YTRlZDkiLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjoyNX0=",
+      "start_time": "2025-06-16T18:00:00Z",
+      "end_time": "2025-06-16T21:00:00Z",
+      "title": "Soirée du lundi",
       "canceled_until": null,
       "category": {
         "id": "1826300051",
@@ -97,10 +73,34 @@
       "is_recurring": true
     },
     {
+      "id": "eyJzZWdtZW50SUQiOiI2MDM4MzljYS02MGY5LTQ3OTktODM4MS04ZmViYmEyNjdhMGMiLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjoyNX0=",
+      "start_time": "2025-06-17T11:00:00Z",
+      "end_time": "2025-06-17T14:00:00Z",
+      "title": "Rune Factory : Guardians of Azuma",
+      "canceled_until": null,
+      "category": {
+        "id": "126493842",
+        "name": "Rune Factory: Guardians of Azuma"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiJlNGU4MTQ5NS1lYWM0LTQyYmUtYTNmNC03MzEwNWExOWI4NmMiLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjoyNX0=",
+      "start_time": "2025-06-17T14:00:00Z",
+      "end_time": "2025-06-17T17:00:00Z",
+      "title": "Clair Obscur: Expédition 33",
+      "canceled_until": null,
+      "category": {
+        "id": "36799602",
+        "name": "Clair Obscur: Expedition 33"
+      },
+      "is_recurring": true
+    },
+    {
       "id": "eyJzZWdtZW50SUQiOiIzZTMzZTdiMC1iNDEzLTRkMTMtOGQ2ZC1hMjRhZjE1ZDYyNmQiLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjoyNX0=",
-      "start_time": "2025-06-20T12:00:00Z",
-      "end_time": "2025-06-20T17:00:00Z",
-      "title": "Switch 2 DAY 2 - Mario Kart World",
+      "start_time": "2025-06-21T08:00:00Z",
+      "end_time": "2025-06-21T18:00:00Z",
+      "title": "LAN Mario Kart World",
       "canceled_until": null,
       "category": {
         "id": "1826300051",
@@ -110,7 +110,7 @@
     },
     {
       "id": "eyJzZWdtZW50SUQiOiIzN2ZhOWU2NC02NjA4LTRmZjgtOTEwOC1kZTgxN2JjMTdjYzMiLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjoyNn0=",
-      "start_time": "2025-06-23T09:00:00Z",
+      "start_time": "2025-06-23T10:00:00Z",
       "end_time": "2025-06-23T16:00:00Z",
       "title": "Culture & plaisir sur le Maitre des Fleurs",
       "canceled_until": null,
@@ -121,22 +121,10 @@
       "is_recurring": true
     },
     {
-      "id": "eyJzZWdtZW50SUQiOiI2MDM4MzljYS02MGY5LTQ3OTktODM4MS04ZmViYmEyNjdhMGMiLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjoyNn0=",
-      "start_time": "2025-06-24T09:00:00Z",
-      "end_time": "2025-06-24T15:00:00Z",
-      "title": "POPUCOM avec Wingo",
-      "canceled_until": null,
-      "category": {
-        "id": "478468002",
-        "name": "POPUCOM"
-      },
-      "is_recurring": true
-    },
-    {
-      "id": "eyJzZWdtZW50SUQiOiJhNDY0MTExNy0wYWIyLTQ4NWEtOTc1NS1mNjgzMzQ0MDhmNmIiLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjoyNn0=",
-      "start_time": "2025-06-26T09:00:00Z",
-      "end_time": "2025-06-26T16:00:00Z",
-      "title": "On découvre enfin Mario Kart World sur la SWITCH 2",
+      "id": "eyJzZWdtZW50SUQiOiIxMGMzYWEyMS1mZTQxLTQxZGUtOWY2ZC05MDgwZTg5YTRlZDkiLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjoyNn0=",
+      "start_time": "2025-06-23T18:00:00Z",
+      "end_time": "2025-06-23T21:00:00Z",
+      "title": "Soirée du lundi",
       "canceled_until": null,
       "category": {
         "id": "1826300051",
@@ -145,10 +133,34 @@
       "is_recurring": true
     },
     {
+      "id": "eyJzZWdtZW50SUQiOiI2MDM4MzljYS02MGY5LTQ3OTktODM4MS04ZmViYmEyNjdhMGMiLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjoyNn0=",
+      "start_time": "2025-06-24T11:00:00Z",
+      "end_time": "2025-06-24T14:00:00Z",
+      "title": "Rune Factory : Guardians of Azuma",
+      "canceled_until": null,
+      "category": {
+        "id": "126493842",
+        "name": "Rune Factory: Guardians of Azuma"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiJlNGU4MTQ5NS1lYWM0LTQyYmUtYTNmNC03MzEwNWExOWI4NmMiLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjoyNn0=",
+      "start_time": "2025-06-24T14:00:00Z",
+      "end_time": "2025-06-24T17:00:00Z",
+      "title": "Clair Obscur: Expédition 33",
+      "canceled_until": null,
+      "category": {
+        "id": "36799602",
+        "name": "Clair Obscur: Expedition 33"
+      },
+      "is_recurring": true
+    },
+    {
       "id": "eyJzZWdtZW50SUQiOiIzZTMzZTdiMC1iNDEzLTRkMTMtOGQ2ZC1hMjRhZjE1ZDYyNmQiLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjoyNn0=",
-      "start_time": "2025-06-27T12:00:00Z",
-      "end_time": "2025-06-27T17:00:00Z",
-      "title": "Switch 2 DAY 2 - Mario Kart World",
+      "start_time": "2025-06-28T08:00:00Z",
+      "end_time": "2025-06-28T18:00:00Z",
+      "title": "LAN Mario Kart World",
       "canceled_until": null,
       "category": {
         "id": "1826300051",
@@ -158,7 +170,7 @@
     },
     {
       "id": "eyJzZWdtZW50SUQiOiIzN2ZhOWU2NC02NjA4LTRmZjgtOTEwOC1kZTgxN2JjMTdjYzMiLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjoyN30=",
-      "start_time": "2025-06-30T09:00:00Z",
+      "start_time": "2025-06-30T10:00:00Z",
       "end_time": "2025-06-30T16:00:00Z",
       "title": "Culture & plaisir sur le Maitre des Fleurs",
       "canceled_until": null,
@@ -169,22 +181,10 @@
       "is_recurring": true
     },
     {
-      "id": "eyJzZWdtZW50SUQiOiI2MDM4MzljYS02MGY5LTQ3OTktODM4MS04ZmViYmEyNjdhMGMiLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjoyN30=",
-      "start_time": "2025-07-01T09:00:00Z",
-      "end_time": "2025-07-01T15:00:00Z",
-      "title": "POPUCOM avec Wingo",
-      "canceled_until": null,
-      "category": {
-        "id": "478468002",
-        "name": "POPUCOM"
-      },
-      "is_recurring": true
-    },
-    {
-      "id": "eyJzZWdtZW50SUQiOiJhNDY0MTExNy0wYWIyLTQ4NWEtOTc1NS1mNjgzMzQ0MDhmNmIiLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjoyN30=",
-      "start_time": "2025-07-03T09:00:00Z",
-      "end_time": "2025-07-03T16:00:00Z",
-      "title": "On découvre enfin Mario Kart World sur la SWITCH 2",
+      "id": "eyJzZWdtZW50SUQiOiIxMGMzYWEyMS1mZTQxLTQxZGUtOWY2ZC05MDgwZTg5YTRlZDkiLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjoyN30=",
+      "start_time": "2025-06-30T18:00:00Z",
+      "end_time": "2025-06-30T21:00:00Z",
+      "title": "Soirée du lundi",
       "canceled_until": null,
       "category": {
         "id": "1826300051",
@@ -193,10 +193,34 @@
       "is_recurring": true
     },
     {
+      "id": "eyJzZWdtZW50SUQiOiI2MDM4MzljYS02MGY5LTQ3OTktODM4MS04ZmViYmEyNjdhMGMiLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjoyN30=",
+      "start_time": "2025-07-01T11:00:00Z",
+      "end_time": "2025-07-01T14:00:00Z",
+      "title": "Rune Factory : Guardians of Azuma",
+      "canceled_until": null,
+      "category": {
+        "id": "126493842",
+        "name": "Rune Factory: Guardians of Azuma"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiJlNGU4MTQ5NS1lYWM0LTQyYmUtYTNmNC03MzEwNWExOWI4NmMiLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjoyN30=",
+      "start_time": "2025-07-01T14:00:00Z",
+      "end_time": "2025-07-01T17:00:00Z",
+      "title": "Clair Obscur: Expédition 33",
+      "canceled_until": null,
+      "category": {
+        "id": "36799602",
+        "name": "Clair Obscur: Expedition 33"
+      },
+      "is_recurring": true
+    },
+    {
       "id": "eyJzZWdtZW50SUQiOiIzZTMzZTdiMC1iNDEzLTRkMTMtOGQ2ZC1hMjRhZjE1ZDYyNmQiLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjoyN30=",
-      "start_time": "2025-07-04T12:00:00Z",
-      "end_time": "2025-07-04T17:00:00Z",
-      "title": "Switch 2 DAY 2 - Mario Kart World",
+      "start_time": "2025-07-05T08:00:00Z",
+      "end_time": "2025-07-05T18:00:00Z",
+      "title": "LAN Mario Kart World",
       "canceled_until": null,
       "category": {
         "id": "1826300051",
@@ -206,7 +230,7 @@
     },
     {
       "id": "eyJzZWdtZW50SUQiOiIzN2ZhOWU2NC02NjA4LTRmZjgtOTEwOC1kZTgxN2JjMTdjYzMiLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjoyOH0=",
-      "start_time": "2025-07-07T09:00:00Z",
+      "start_time": "2025-07-07T10:00:00Z",
       "end_time": "2025-07-07T16:00:00Z",
       "title": "Culture & plaisir sur le Maitre des Fleurs",
       "canceled_until": null,
@@ -217,34 +241,10 @@
       "is_recurring": true
     },
     {
-      "id": "eyJzZWdtZW50SUQiOiI2MDM4MzljYS02MGY5LTQ3OTktODM4MS04ZmViYmEyNjdhMGMiLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjoyOH0=",
-      "start_time": "2025-07-08T09:00:00Z",
-      "end_time": "2025-07-08T15:00:00Z",
-      "title": "POPUCOM avec Wingo",
-      "canceled_until": null,
-      "category": {
-        "id": "478468002",
-        "name": "POPUCOM"
-      },
-      "is_recurring": true
-    },
-    {
-      "id": "eyJzZWdtZW50SUQiOiJhNDY0MTExNy0wYWIyLTQ4NWEtOTc1NS1mNjgzMzQ0MDhmNmIiLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjoyOH0=",
-      "start_time": "2025-07-10T09:00:00Z",
-      "end_time": "2025-07-10T16:00:00Z",
-      "title": "On découvre enfin Mario Kart World sur la SWITCH 2",
-      "canceled_until": null,
-      "category": {
-        "id": "1826300051",
-        "name": "Mario Kart World"
-      },
-      "is_recurring": true
-    },
-    {
-      "id": "eyJzZWdtZW50SUQiOiIzZTMzZTdiMC1iNDEzLTRkMTMtOGQ2ZC1hMjRhZjE1ZDYyNmQiLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjoyOH0=",
-      "start_time": "2025-07-11T12:00:00Z",
-      "end_time": "2025-07-11T17:00:00Z",
-      "title": "Switch 2 DAY 2 - Mario Kart World",
+      "id": "eyJzZWdtZW50SUQiOiIxMGMzYWEyMS1mZTQxLTQxZGUtOWY2ZC05MDgwZTg5YTRlZDkiLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjoyOH0=",
+      "start_time": "2025-07-07T18:00:00Z",
+      "end_time": "2025-07-07T21:00:00Z",
+      "title": "Soirée du lundi",
       "canceled_until": null,
       "category": {
         "id": "1826300051",
