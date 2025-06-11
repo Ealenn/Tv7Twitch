@@ -13,21 +13,21 @@
   },
   "schedulers": [
     {
-      "id": "eyJzZWdtZW50SUQiOiJhZjNhZDM1Zi0xMDYyLTQwNWMtYjRmOC05YzVjMTY1NDlhYmEiLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjoyNH0=",
-      "start_time": "2025-06-10T17:00:00Z",
-      "end_time": "2025-06-10T21:00:00Z",
-      "title": "SORTIE OFFICIELLE de Dune: Awakening pour la sortie du jeu, donc re-découverte ! Publicité",
+      "id": "eyJzZWdtZW50SUQiOiJjMWM1ZWQxMy01M2U4LTQ1OTgtYTBjNi04MjJhMmRmODQxODUiLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjoyNH0=",
+      "start_time": "2025-06-11T16:00:00Z",
+      "end_time": "2025-06-11T18:00:00Z",
+      "title": "Découverte de MindsEye avant les démo du neofest. Publicité",
       "canceled_until": null,
       "category": {
-        "id": "1987896617",
-        "name": "Dune: Awakening"
+        "id": "686116244",
+        "name": "MindsEye"
       },
       "is_recurring": false
     },
     {
       "id": "eyJzZWdtZW50SUQiOiJlYmE3YjUxNC05YjNkLTQwZjctYmJjNi1iMjYwMGRjMmIyZmEiLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjoyNH0=",
-      "start_time": "2025-06-11T17:00:00Z",
-      "end_time": "2025-06-11T21:00:00Z",
+      "start_time": "2025-06-11T18:00:00Z",
+      "end_time": "2025-06-11T22:00:00Z",
       "title": "On essaye des DEMOS du NeoFest de Steam",
       "canceled_until": null,
       "category": {
