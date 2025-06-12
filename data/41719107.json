@@ -13,30 +13,6 @@
   },
   "schedulers": [
     {
-      "id": "eyJzZWdtZW50SUQiOiJjMWM1ZWQxMy01M2U4LTQ1OTgtYTBjNi04MjJhMmRmODQxODUiLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjoyNH0=",
-      "start_time": "2025-06-11T16:00:00Z",
-      "end_time": "2025-06-11T18:00:00Z",
-      "title": "Découverte de MindsEye avant les démo du neofest. Publicité",
-      "canceled_until": null,
-      "category": {
-        "id": "686116244",
-        "name": "MindsEye"
-      },
-      "is_recurring": false
-    },
-    {
-      "id": "eyJzZWdtZW50SUQiOiJlYmE3YjUxNC05YjNkLTQwZjctYmJjNi1iMjYwMGRjMmIyZmEiLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjoyNH0=",
-      "start_time": "2025-06-11T18:00:00Z",
-      "end_time": "2025-06-11T22:00:00Z",
-      "title": "On essaye des DEMOS du NeoFest de Steam",
-      "canceled_until": null,
-      "category": {
-        "id": "66082",
-        "name": "Games + Demos"
-      },
-      "is_recurring": false
-    },
-    {
       "id": "eyJzZWdtZW50SUQiOiJjMGZjODIyOC01N2MzLTQ0ZmItYWM1Mi0wMjJkMzJiY2ZjNjEiLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjoyNH0=",
       "start_time": "2025-06-12T18:00:00Z",
       "end_time": "2025-06-12T20:00:00Z",
@@ -244,6 +220,30 @@
       "id": "eyJzZWdtZW50SUQiOiI0N2YwODdkMi1hZDlhLTRlZGMtOTllYS0zOWVmZWJhNzlkZTgiLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjo0MH0=",
       "start_time": "2025-09-29T18:30:00Z",
       "end_time": "2025-09-29T22:00:00Z",
+      "title": "Soirée du lundi avec des gens et des jeux",
+      "canceled_until": null,
+      "category": {
+        "id": "509658",
+        "name": "Just Chatting"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiI0N2YwODdkMi1hZDlhLTRlZGMtOTllYS0zOWVmZWJhNzlkZTgiLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjo0MX0=",
+      "start_time": "2025-10-06T18:30:00Z",
+      "end_time": "2025-10-06T22:00:00Z",
+      "title": "Soirée du lundi avec des gens et des jeux",
+      "canceled_until": null,
+      "category": {
+        "id": "509658",
+        "name": "Just Chatting"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiI0N2YwODdkMi1hZDlhLTRlZGMtOTllYS0zOWVmZWJhNzlkZTgiLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjo0Mn0=",
+      "start_time": "2025-10-13T18:30:00Z",
+      "end_time": "2025-10-13T22:00:00Z",
       "title": "Soirée du lundi avec des gens et des jeux",
       "canceled_until": null,
       "category": {
