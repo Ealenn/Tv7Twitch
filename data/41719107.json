@@ -13,18 +13,6 @@
   },
   "schedulers": [
     {
-      "id": "eyJzZWdtZW50SUQiOiI4YWE4NGY5MS1mOWNkLTRiNGItOGQwNC1hNTQwNjEwNjI4MDgiLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjoyNH0=",
-      "start_time": "2025-06-14T12:00:00Z",
-      "end_time": "2025-06-14T21:00:00Z",
-      "title": "LAN MarioKart au Hangar (je stream pas mais y'a 15 streamers)",
-      "canceled_until": null,
-      "category": {
-        "id": "509663",
-        "name": "Special Events"
-      },
-      "is_recurring": false
-    },
-    {
       "id": "eyJzZWdtZW50SUQiOiI0N2YwODdkMi1hZDlhLTRlZGMtOTllYS0zOWVmZWJhNzlkZTgiLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjoyNX0=",
       "start_time": "2025-06-16T18:30:00Z",
       "end_time": "2025-06-16T22:00:00Z",
@@ -244,6 +232,18 @@
       "id": "eyJzZWdtZW50SUQiOiI0N2YwODdkMi1hZDlhLTRlZGMtOTllYS0zOWVmZWJhNzlkZTgiLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjo0M30=",
       "start_time": "2025-10-20T18:30:00Z",
       "end_time": "2025-10-20T22:00:00Z",
+      "title": "Soirée du lundi avec des gens et des jeux",
+      "canceled_until": null,
+      "category": {
+        "id": "509658",
+        "name": "Just Chatting"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiI0N2YwODdkMi1hZDlhLTRlZGMtOTllYS0zOWVmZWJhNzlkZTgiLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjo0NH0=",
+      "start_time": "2025-10-27T19:30:00Z",
+      "end_time": "2025-10-27T23:00:00Z",
       "title": "Soirée du lundi avec des gens et des jeux",
       "canceled_until": null,
       "category": {

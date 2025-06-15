@@ -13,18 +13,6 @@
   },
   "schedulers": [
     {
-      "id": "eyJzZWdtZW50SUQiOiIzZTMzZTdiMC1iNDEzLTRkMTMtOGQ2ZC1hMjRhZjE1ZDYyNmQiLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjoyNH0=",
-      "start_time": "2025-06-14T08:00:00Z",
-      "end_time": "2025-06-14T18:00:00Z",
-      "title": "LAN Mario Kart World",
-      "canceled_until": null,
-      "category": {
-        "id": "1826300051",
-        "name": "Mario Kart World"
-      },
-      "is_recurring": true
-    },
-    {
       "id": "eyJzZWdtZW50SUQiOiI1YWFjMjU4Zi1hNTRhLTQ3MDUtOTcwNS0wYWZiMzNjMjI2ZDEiLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjoyNH0=",
       "start_time": "2025-06-15T12:00:00Z",
       "end_time": "2025-06-15T16:00:00Z",
@@ -249,6 +237,18 @@
       "category": {
         "id": "126493842",
         "name": "Rune Factory: Guardians of Azuma"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiJlNGU4MTQ5NS1lYWM0LTQyYmUtYTNmNC03MzEwNWExOWI4NmMiLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjoyOH0=",
+      "start_time": "2025-07-08T14:00:00Z",
+      "end_time": "2025-07-08T17:00:00Z",
+      "title": "Clair Obscur: Expédition 33",
+      "canceled_until": null,
+      "category": {
+        "id": "36799602",
+        "name": "Clair Obscur: Expedition 33"
       },
       "is_recurring": true
     }
