@@ -13,18 +13,6 @@
   },
   "schedulers": [
     {
-      "id": "eyJzZWdtZW50SUQiOiI1YWFjMjU4Zi1hNTRhLTQ3MDUtOTcwNS0wYWZiMzNjMjI2ZDEiLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjoyNH0=",
-      "start_time": "2025-06-15T12:00:00Z",
-      "end_time": "2025-06-15T16:00:00Z",
-      "title": "Découverte de Dune: Awakening avec @Ultia !",
-      "canceled_until": null,
-      "category": {
-        "id": "1987896617",
-        "name": "Dune: Awakening"
-      },
-      "is_recurring": false
-    },
-    {
       "id": "eyJzZWdtZW50SUQiOiIzN2ZhOWU2NC02NjA4LTRmZjgtOTEwOC1kZTgxN2JjMTdjYzMiLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjoyNX0=",
       "start_time": "2025-06-16T10:00:00Z",
       "end_time": "2025-06-16T16:00:00Z",
@@ -37,27 +25,12 @@
       "is_recurring": true
     },
     {
-      "id": "eyJzZWdtZW50SUQiOiIxMGMzYWEyMS1mZTQxLTQxZGUtOWY2ZC05MDgwZTg5YTRlZDkiLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjoyNX0=",
-      "start_time": "2025-06-16T18:00:00Z",
-      "end_time": "2025-06-16T21:00:00Z",
-      "title": "Soirée du lundi",
-      "canceled_until": null,
-      "category": {
-        "id": "1826300051",
-        "name": "Mario Kart World"
-      },
-      "is_recurring": true
-    },
-    {
       "id": "eyJzZWdtZW50SUQiOiI2MDM4MzljYS02MGY5LTQ3OTktODM4MS04ZmViYmEyNjdhMGMiLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjoyNX0=",
-      "start_time": "2025-06-17T11:00:00Z",
+      "start_time": "2025-06-17T13:00:00Z",
       "end_time": "2025-06-17T14:00:00Z",
-      "title": "Rune Factory : Guardians of Azuma",
+      "title": "Session sur FuturGuesser",
       "canceled_until": null,
-      "category": {
-        "id": "126493842",
-        "name": "Rune Factory: Guardians of Azuma"
-      },
+      "category": null,
       "is_recurring": true
     },
     {
@@ -73,14 +46,50 @@
       "is_recurring": true
     },
     {
-      "id": "eyJzZWdtZW50SUQiOiIzZTMzZTdiMC1iNDEzLTRkMTMtOGQ2ZC1hMjRhZjE1ZDYyNmQiLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjoyNX0=",
-      "start_time": "2025-06-21T08:00:00Z",
-      "end_time": "2025-06-21T18:00:00Z",
-      "title": "LAN Mario Kart World",
+      "id": "eyJzZWdtZW50SUQiOiI2ZDIwNjRlZi03OTFhLTQzOGUtYTc1Yy00M2VmZWJlZDYyMGQiLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjoyNX0=",
+      "start_time": "2025-06-18T09:00:00Z",
+      "end_time": "2025-06-18T16:00:00Z",
+      "title": "Que le bonheur sur Mario Kart World !",
       "canceled_until": null,
       "category": {
         "id": "1826300051",
         "name": "Mario Kart World"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiJmZmJiYmNiZC0yNzY3LTQzNTgtOTJjOC0yYTMxYmEzNGJiMDciLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjoyNX0=",
+      "start_time": "2025-06-19T11:00:00Z",
+      "end_time": "2025-06-19T14:00:00Z",
+      "title": "Mensonge et trahison avé les copains",
+      "canceled_until": null,
+      "category": {
+        "id": "1494074023",
+        "name": "Lycans"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiJlY2NjZTIxMi02OTU0LTRjZWEtODc3Yi03ZDMxNmY3M2QyNWYiLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjoyNX0=",
+      "start_time": "2025-06-19T14:00:00Z",
+      "end_time": "2025-06-19T17:00:00Z",
+      "title": "On se Mario le Kart",
+      "canceled_until": null,
+      "category": {
+        "id": "1826300051",
+        "name": "Mario Kart World"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiIzZTMzZTdiMC1iNDEzLTRkMTMtOGQ2ZC1hMjRhZjE1ZDYyNmQiLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjoyNX0=",
+      "start_time": "2025-06-21T12:00:00Z",
+      "end_time": "2025-06-21T21:00:00Z",
+      "title": "GUILL INVITATIONAL : Lan multigaming sur Fall Guys, Trackmania, Minecraft et Valorant",
+      "canceled_until": null,
+      "category": {
+        "id": "509663",
+        "name": "Special Events"
       },
       "is_recurring": true
     },
@@ -97,27 +106,12 @@
       "is_recurring": true
     },
     {
-      "id": "eyJzZWdtZW50SUQiOiIxMGMzYWEyMS1mZTQxLTQxZGUtOWY2ZC05MDgwZTg5YTRlZDkiLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjoyNn0=",
-      "start_time": "2025-06-23T18:00:00Z",
-      "end_time": "2025-06-23T21:00:00Z",
-      "title": "Soirée du lundi",
-      "canceled_until": null,
-      "category": {
-        "id": "1826300051",
-        "name": "Mario Kart World"
-      },
-      "is_recurring": true
-    },
-    {
       "id": "eyJzZWdtZW50SUQiOiI2MDM4MzljYS02MGY5LTQ3OTktODM4MS04ZmViYmEyNjdhMGMiLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjoyNn0=",
-      "start_time": "2025-06-24T11:00:00Z",
+      "start_time": "2025-06-24T13:00:00Z",
       "end_time": "2025-06-24T14:00:00Z",
-      "title": "Rune Factory : Guardians of Azuma",
+      "title": "Session sur FuturGuesser",
       "canceled_until": null,
-      "category": {
-        "id": "126493842",
-        "name": "Rune Factory: Guardians of Azuma"
-      },
+      "category": null,
       "is_recurring": true
     },
     {
@@ -133,14 +127,50 @@
       "is_recurring": true
     },
     {
-      "id": "eyJzZWdtZW50SUQiOiIzZTMzZTdiMC1iNDEzLTRkMTMtOGQ2ZC1hMjRhZjE1ZDYyNmQiLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjoyNn0=",
-      "start_time": "2025-06-28T08:00:00Z",
-      "end_time": "2025-06-28T18:00:00Z",
-      "title": "LAN Mario Kart World",
+      "id": "eyJzZWdtZW50SUQiOiI2ZDIwNjRlZi03OTFhLTQzOGUtYTc1Yy00M2VmZWJlZDYyMGQiLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjoyNn0=",
+      "start_time": "2025-06-25T09:00:00Z",
+      "end_time": "2025-06-25T16:00:00Z",
+      "title": "Que le bonheur sur Mario Kart World !",
       "canceled_until": null,
       "category": {
         "id": "1826300051",
         "name": "Mario Kart World"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiJmZmJiYmNiZC0yNzY3LTQzNTgtOTJjOC0yYTMxYmEzNGJiMDciLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjoyNn0=",
+      "start_time": "2025-06-26T11:00:00Z",
+      "end_time": "2025-06-26T14:00:00Z",
+      "title": "Mensonge et trahison avé les copains",
+      "canceled_until": null,
+      "category": {
+        "id": "1494074023",
+        "name": "Lycans"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiJlY2NjZTIxMi02OTU0LTRjZWEtODc3Yi03ZDMxNmY3M2QyNWYiLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjoyNn0=",
+      "start_time": "2025-06-26T14:00:00Z",
+      "end_time": "2025-06-26T17:00:00Z",
+      "title": "On se Mario le Kart",
+      "canceled_until": null,
+      "category": {
+        "id": "1826300051",
+        "name": "Mario Kart World"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiIzZTMzZTdiMC1iNDEzLTRkMTMtOGQ2ZC1hMjRhZjE1ZDYyNmQiLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjoyNn0=",
+      "start_time": "2025-06-28T12:00:00Z",
+      "end_time": "2025-06-28T21:00:00Z",
+      "title": "GUILL INVITATIONAL : Lan multigaming sur Fall Guys, Trackmania, Minecraft et Valorant",
+      "canceled_until": null,
+      "category": {
+        "id": "509663",
+        "name": "Special Events"
       },
       "is_recurring": true
     },
@@ -157,27 +187,12 @@
       "is_recurring": true
     },
     {
-      "id": "eyJzZWdtZW50SUQiOiIxMGMzYWEyMS1mZTQxLTQxZGUtOWY2ZC05MDgwZTg5YTRlZDkiLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjoyN30=",
-      "start_time": "2025-06-30T18:00:00Z",
-      "end_time": "2025-06-30T21:00:00Z",
-      "title": "Soirée du lundi",
-      "canceled_until": null,
-      "category": {
-        "id": "1826300051",
-        "name": "Mario Kart World"
-      },
-      "is_recurring": true
-    },
-    {
       "id": "eyJzZWdtZW50SUQiOiI2MDM4MzljYS02MGY5LTQ3OTktODM4MS04ZmViYmEyNjdhMGMiLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjoyN30=",
-      "start_time": "2025-07-01T11:00:00Z",
+      "start_time": "2025-07-01T13:00:00Z",
       "end_time": "2025-07-01T14:00:00Z",
-      "title": "Rune Factory : Guardians of Azuma",
+      "title": "Session sur FuturGuesser",
       "canceled_until": null,
-      "category": {
-        "id": "126493842",
-        "name": "Rune Factory: Guardians of Azuma"
-      },
+      "category": null,
       "is_recurring": true
     },
     {
@@ -193,10 +208,10 @@
       "is_recurring": true
     },
     {
-      "id": "eyJzZWdtZW50SUQiOiIzZTMzZTdiMC1iNDEzLTRkMTMtOGQ2ZC1hMjRhZjE1ZDYyNmQiLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjoyN30=",
-      "start_time": "2025-07-05T08:00:00Z",
-      "end_time": "2025-07-05T18:00:00Z",
-      "title": "LAN Mario Kart World",
+      "id": "eyJzZWdtZW50SUQiOiI2ZDIwNjRlZi03OTFhLTQzOGUtYTc1Yy00M2VmZWJlZDYyMGQiLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjoyN30=",
+      "start_time": "2025-07-02T09:00:00Z",
+      "end_time": "2025-07-02T16:00:00Z",
+      "title": "Que le bonheur sur Mario Kart World !",
       "canceled_until": null,
       "category": {
         "id": "1826300051",
@@ -205,50 +220,26 @@
       "is_recurring": true
     },
     {
-      "id": "eyJzZWdtZW50SUQiOiIzN2ZhOWU2NC02NjA4LTRmZjgtOTEwOC1kZTgxN2JjMTdjYzMiLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjoyOH0=",
-      "start_time": "2025-07-07T10:00:00Z",
-      "end_time": "2025-07-07T16:00:00Z",
-      "title": "Culture & plaisir sur le Maitre des Fleurs",
+      "id": "eyJzZWdtZW50SUQiOiJmZmJiYmNiZC0yNzY3LTQzNTgtOTJjOC0yYTMxYmEzNGJiMDciLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjoyN30=",
+      "start_time": "2025-07-03T11:00:00Z",
+      "end_time": "2025-07-03T14:00:00Z",
+      "title": "Mensonge et trahison avé les copains",
       "canceled_until": null,
       "category": {
-        "id": "338715930",
-        "name": "Maitre des Fleurs"
+        "id": "1494074023",
+        "name": "Lycans"
       },
       "is_recurring": true
     },
     {
-      "id": "eyJzZWdtZW50SUQiOiIxMGMzYWEyMS1mZTQxLTQxZGUtOWY2ZC05MDgwZTg5YTRlZDkiLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjoyOH0=",
-      "start_time": "2025-07-07T18:00:00Z",
-      "end_time": "2025-07-07T21:00:00Z",
-      "title": "Soirée du lundi",
+      "id": "eyJzZWdtZW50SUQiOiJlY2NjZTIxMi02OTU0LTRjZWEtODc3Yi03ZDMxNmY3M2QyNWYiLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjoyN30=",
+      "start_time": "2025-07-03T14:00:00Z",
+      "end_time": "2025-07-03T17:00:00Z",
+      "title": "On se Mario le Kart",
       "canceled_until": null,
       "category": {
         "id": "1826300051",
         "name": "Mario Kart World"
-      },
-      "is_recurring": true
-    },
-    {
-      "id": "eyJzZWdtZW50SUQiOiI2MDM4MzljYS02MGY5LTQ3OTktODM4MS04ZmViYmEyNjdhMGMiLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjoyOH0=",
-      "start_time": "2025-07-08T11:00:00Z",
-      "end_time": "2025-07-08T14:00:00Z",
-      "title": "Rune Factory : Guardians of Azuma",
-      "canceled_until": null,
-      "category": {
-        "id": "126493842",
-        "name": "Rune Factory: Guardians of Azuma"
-      },
-      "is_recurring": true
-    },
-    {
-      "id": "eyJzZWdtZW50SUQiOiJlNGU4MTQ5NS1lYWM0LTQyYmUtYTNmNC03MzEwNWExOWI4NmMiLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjoyOH0=",
-      "start_time": "2025-07-08T14:00:00Z",
-      "end_time": "2025-07-08T17:00:00Z",
-      "title": "Clair Obscur: Expédition 33",
-      "canceled_until": null,
-      "category": {
-        "id": "36799602",
-        "name": "Clair Obscur: Expedition 33"
       },
       "is_recurring": true
     }
