@@ -13,30 +13,6 @@
   },
   "schedulers": [
     {
-      "id": "eyJzZWdtZW50SUQiOiIzNjc0YTYyNi1hMzk3LTRhMTYtOWM2NS0xMjI0NzA3ZjI4M2EiLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjoyNX0=",
-      "start_time": "2025-06-17T16:00:00Z",
-      "end_time": "2025-06-17T18:00:00Z",
-      "title": "(re)Découverte de Rooftops & Alleys: The Parkour Game (Publicité)",
-      "canceled_until": null,
-      "category": {
-        "id": "1613139833",
-        "name": "Rooftops & Alleys: The Parkour Game"
-      },
-      "is_recurring": false
-    },
-    {
-      "id": "eyJzZWdtZW50SUQiOiI4ZGM3NWU3ZS1hODMyLTRkYTYtYTFmYi0wMGNjYjlmNzY3YzYiLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjoyNX0=",
-      "start_time": "2025-06-17T18:00:00Z",
-      "end_time": "2025-06-17T22:00:00Z",
-      "title": "Mario Kart World avec plein de gens DINGUS",
-      "canceled_until": null,
-      "category": {
-        "id": "1826300051",
-        "name": "Mario Kart World"
-      },
-      "is_recurring": false
-    },
-    {
       "id": "eyJzZWdtZW50SUQiOiJjMDBkZDUxOC1hNGI3LTQ4MTMtYTMzZC0wOGU0YTlhNTlkODEiLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjoyNX0=",
       "start_time": "2025-06-21T12:00:00Z",
       "end_time": "2025-06-21T21:00:00Z",
@@ -244,6 +220,30 @@
       "id": "eyJzZWdtZW50SUQiOiI0N2YwODdkMi1hZDlhLTRlZGMtOTllYS0zOWVmZWJhNzlkZTgiLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjo0Mn0=",
       "start_time": "2025-10-13T18:30:00Z",
       "end_time": "2025-10-13T22:00:00Z",
+      "title": "Soirée du lundi avec des gens et des jeux",
+      "canceled_until": null,
+      "category": {
+        "id": "509658",
+        "name": "Just Chatting"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiI0N2YwODdkMi1hZDlhLTRlZGMtOTllYS0zOWVmZWJhNzlkZTgiLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjo0M30=",
+      "start_time": "2025-10-20T18:30:00Z",
+      "end_time": "2025-10-20T22:00:00Z",
+      "title": "Soirée du lundi avec des gens et des jeux",
+      "canceled_until": null,
+      "category": {
+        "id": "509658",
+        "name": "Just Chatting"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiI0N2YwODdkMi1hZDlhLTRlZGMtOTllYS0zOWVmZWJhNzlkZTgiLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjo0NH0=",
+      "start_time": "2025-10-27T19:30:00Z",
+      "end_time": "2025-10-27T23:00:00Z",
       "title": "Soirée du lundi avec des gens et des jeux",
       "canceled_until": null,
       "category": {
