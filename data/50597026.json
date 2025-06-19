@@ -13,18 +13,6 @@
   },
   "schedulers": [
     {
-      "id": "eyJzZWdtZW50SUQiOiI2ZDIwNjRlZi03OTFhLTQzOGUtYTc1Yy00M2VmZWJlZDYyMGQiLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjoyNX0=",
-      "start_time": "2025-06-18T09:00:00Z",
-      "end_time": "2025-06-18T16:00:00Z",
-      "title": "Que le bonheur sur Mario Kart World !",
-      "canceled_until": null,
-      "category": {
-        "id": "1826300051",
-        "name": "Mario Kart World"
-      },
-      "is_recurring": true
-    },
-    {
       "id": "eyJzZWdtZW50SUQiOiJmZmJiYmNiZC0yNzY3LTQzNTgtOTJjOC0yYTMxYmEzNGJiMDciLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjoyNX0=",
       "start_time": "2025-06-19T11:00:00Z",
       "end_time": "2025-06-19T14:00:00Z",
@@ -241,6 +229,18 @@
       "title": "Session sur FutureGuessR",
       "canceled_until": null,
       "category": null,
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiJlNGU4MTQ5NS1lYWM0LTQyYmUtYTNmNC03MzEwNWExOWI4NmMiLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjoyOH0=",
+      "start_time": "2025-07-08T14:00:00Z",
+      "end_time": "2025-07-08T17:00:00Z",
+      "title": "Clair Obscur: Expédition 33",
+      "canceled_until": null,
+      "category": {
+        "id": "36799602",
+        "name": "Clair Obscur: Expedition 33"
+      },
       "is_recurring": true
     }
   ]
