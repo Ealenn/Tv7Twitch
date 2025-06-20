@@ -13,30 +13,6 @@
   },
   "schedulers": [
     {
-      "id": "eyJzZWdtZW50SUQiOiJmZmJiYmNiZC0yNzY3LTQzNTgtOTJjOC0yYTMxYmEzNGJiMDciLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjoyNX0=",
-      "start_time": "2025-06-19T11:00:00Z",
-      "end_time": "2025-06-19T14:00:00Z",
-      "title": "Mensonge et trahison avé les copains",
-      "canceled_until": null,
-      "category": {
-        "id": "1494074023",
-        "name": "Lycans"
-      },
-      "is_recurring": true
-    },
-    {
-      "id": "eyJzZWdtZW50SUQiOiJlY2NjZTIxMi02OTU0LTRjZWEtODc3Yi03ZDMxNmY3M2QyNWYiLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjoyNX0=",
-      "start_time": "2025-06-19T14:00:00Z",
-      "end_time": "2025-06-19T17:00:00Z",
-      "title": "On se Mario le Kart",
-      "canceled_until": null,
-      "category": {
-        "id": "1826300051",
-        "name": "Mario Kart World"
-      },
-      "is_recurring": true
-    },
-    {
       "id": "eyJzZWdtZW50SUQiOiIzZTMzZTdiMC1iNDEzLTRkMTMtOGQ2ZC1hMjRhZjE1ZDYyNmQiLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjoyNX0=",
       "start_time": "2025-06-21T12:00:00Z",
       "end_time": "2025-06-21T21:00:00Z",
@@ -240,6 +216,30 @@
       "category": {
         "id": "36799602",
         "name": "Clair Obscur: Expedition 33"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiI2ZDIwNjRlZi03OTFhLTQzOGUtYTc1Yy00M2VmZWJlZDYyMGQiLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjoyOH0=",
+      "start_time": "2025-07-09T09:00:00Z",
+      "end_time": "2025-07-09T16:00:00Z",
+      "title": "Que le bonheur sur Mario Kart World !",
+      "canceled_until": null,
+      "category": {
+        "id": "1826300051",
+        "name": "Mario Kart World"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiJmZmJiYmNiZC0yNzY3LTQzNTgtOTJjOC0yYTMxYmEzNGJiMDciLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjoyOH0=",
+      "start_time": "2025-07-10T11:00:00Z",
+      "end_time": "2025-07-10T14:00:00Z",
+      "title": "Mensonge et trahison avé les copains",
+      "canceled_until": null,
+      "category": {
+        "id": "1494074023",
+        "name": "Lycans"
       },
       "is_recurring": true
     }
