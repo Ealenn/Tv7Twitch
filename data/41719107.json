@@ -13,18 +13,6 @@
   },
   "schedulers": [
     {
-      "id": "eyJzZWdtZW50SUQiOiI0NTJkNmFiMy02OGM1LTQwMDYtYWNmNC0zYTE0MzQ4MDEyMzkiLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjoyNn0=",
-      "start_time": "2025-06-28T12:00:00Z",
-      "end_time": "2025-06-28T21:00:00Z",
-      "title": "[Sur la chaîne Alphacast] LAN Age Of All Time au Hangar",
-      "canceled_until": null,
-      "category": {
-        "id": "9623",
-        "name": "Age of Empires"
-      },
-      "is_recurring": false
-    },
-    {
       "id": "eyJzZWdtZW50SUQiOiI0N2YwODdkMi1hZDlhLTRlZGMtOTllYS0zOWVmZWJhNzlkZTgiLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjoyN30=",
       "start_time": "2025-06-30T18:30:00Z",
       "end_time": "2025-06-30T22:00:00Z",
@@ -244,6 +232,18 @@
       "id": "eyJzZWdtZW50SUQiOiI0N2YwODdkMi1hZDlhLTRlZGMtOTllYS0zOWVmZWJhNzlkZTgiLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjo0NX0=",
       "start_time": "2025-11-03T19:30:00Z",
       "end_time": "2025-11-03T23:00:00Z",
+      "title": "Soirée du lundi avec des gens et des jeux",
+      "canceled_until": null,
+      "category": {
+        "id": "509658",
+        "name": "Just Chatting"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiI0N2YwODdkMi1hZDlhLTRlZGMtOTllYS0zOWVmZWJhNzlkZTgiLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjo0Nn0=",
+      "start_time": "2025-11-10T19:30:00Z",
+      "end_time": "2025-11-10T23:00:00Z",
       "title": "Soirée du lundi avec des gens et des jeux",
       "canceled_until": null,
       "category": {
