@@ -13,6 +13,54 @@
   },
   "schedulers": [
     {
+      "id": "eyJzZWdtZW50SUQiOiIwOTUxZTIxMS1hMDlmLTQ1MjUtYTUzOC01MzMwOTRmZTA1NTMiLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjoyN30=",
+      "start_time": "2025-07-02T15:30:00Z",
+      "end_time": "2025-07-02T17:30:00Z",
+      "title": "Découverte de Mecha Break pour la sortie mondiale",
+      "canceled_until": null,
+      "category": {
+        "id": "723461364",
+        "name": "Mecha BREAK"
+      },
+      "is_recurring": false
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiJmYWZkYjRlYS0yYWZmLTRjNDMtYTQyMS1iZjA2NmU0NGI2NDQiLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjoyN30=",
+      "start_time": "2025-07-02T18:00:00Z",
+      "end_time": "2025-07-02T21:00:00Z",
+      "title": "Trackmania RPG avec Hyp et Gius en trio",
+      "canceled_until": null,
+      "category": {
+        "id": "687129551",
+        "name": "Trackmania"
+      },
+      "is_recurring": false
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiI3ZDAzNTc0NC00ZjExLTQ3NjEtYjNkYS0zNmNmNzg5NTM0OWEiLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjoyN30=",
+      "start_time": "2025-07-05T18:00:00Z",
+      "end_time": "2025-07-05T22:00:00Z",
+      "title": "Lancement de l’événement communautaire Albion Online",
+      "canceled_until": null,
+      "category": {
+        "id": "417528",
+        "name": "Albion Online"
+      },
+      "is_recurring": false
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiJiZTVmNzQzMC01YzVlLTRkODgtOTE3My00OTAxZTljMGY5ZGUiLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjoyN30=",
+      "start_time": "2025-07-06T16:00:00Z",
+      "end_time": "2025-07-06T18:00:00Z",
+      "title": "REPRISE SPLIT 3, 1er Match MDR Valorant",
+      "canceled_until": null,
+      "category": {
+        "id": "516575",
+        "name": "VALORANT"
+      },
+      "is_recurring": false
+    },
+    {
       "id": "eyJzZWdtZW50SUQiOiI0N2YwODdkMi1hZDlhLTRlZGMtOTllYS0zOWVmZWJhNzlkZTgiLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjoyOH0=",
       "start_time": "2025-07-07T18:30:00Z",
       "end_time": "2025-07-07T22:00:00Z",
@@ -196,54 +244,6 @@
       "id": "eyJzZWdtZW50SUQiOiI0N2YwODdkMi1hZDlhLTRlZGMtOTllYS0zOWVmZWJhNzlkZTgiLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjo0M30=",
       "start_time": "2025-10-20T18:30:00Z",
       "end_time": "2025-10-20T22:00:00Z",
-      "title": "Soirée du lundi avec des gens et des jeux",
-      "canceled_until": null,
-      "category": {
-        "id": "509658",
-        "name": "Just Chatting"
-      },
-      "is_recurring": true
-    },
-    {
-      "id": "eyJzZWdtZW50SUQiOiI0N2YwODdkMi1hZDlhLTRlZGMtOTllYS0zOWVmZWJhNzlkZTgiLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjo0NH0=",
-      "start_time": "2025-10-27T19:30:00Z",
-      "end_time": "2025-10-27T23:00:00Z",
-      "title": "Soirée du lundi avec des gens et des jeux",
-      "canceled_until": null,
-      "category": {
-        "id": "509658",
-        "name": "Just Chatting"
-      },
-      "is_recurring": true
-    },
-    {
-      "id": "eyJzZWdtZW50SUQiOiI0N2YwODdkMi1hZDlhLTRlZGMtOTllYS0zOWVmZWJhNzlkZTgiLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjo0NX0=",
-      "start_time": "2025-11-03T19:30:00Z",
-      "end_time": "2025-11-03T23:00:00Z",
-      "title": "Soirée du lundi avec des gens et des jeux",
-      "canceled_until": null,
-      "category": {
-        "id": "509658",
-        "name": "Just Chatting"
-      },
-      "is_recurring": true
-    },
-    {
-      "id": "eyJzZWdtZW50SUQiOiI0N2YwODdkMi1hZDlhLTRlZGMtOTllYS0zOWVmZWJhNzlkZTgiLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjo0Nn0=",
-      "start_time": "2025-11-10T19:30:00Z",
-      "end_time": "2025-11-10T23:00:00Z",
-      "title": "Soirée du lundi avec des gens et des jeux",
-      "canceled_until": null,
-      "category": {
-        "id": "509658",
-        "name": "Just Chatting"
-      },
-      "is_recurring": true
-    },
-    {
-      "id": "eyJzZWdtZW50SUQiOiI0N2YwODdkMi1hZDlhLTRlZGMtOTllYS0zOWVmZWJhNzlkZTgiLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjo0N30=",
-      "start_time": "2025-11-17T19:30:00Z",
-      "end_time": "2025-11-17T23:00:00Z",
       "title": "Soirée du lundi avec des gens et des jeux",
       "canceled_until": null,
       "category": {
