@@ -13,30 +13,6 @@
   },
   "schedulers": [
     {
-      "id": "eyJzZWdtZW50SUQiOiI5NGI2NGM4MS0yN2VlLTQ4ZmEtYjc3ZC0zMGM2OTg2Yzg3NjQiLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjoyN30=",
-      "start_time": "2025-07-03T12:00:00Z",
-      "end_time": "2025-07-03T13:00:00Z",
-      "title": "🎙 PRÉ LIVE",
-      "canceled_until": null,
-      "category": {
-        "id": "509658",
-        "name": "Just Chatting"
-      },
-      "is_recurring": false
-    },
-    {
-      "id": "eyJzZWdtZW50SUQiOiIwM2IwMWRkNS1mNjJiLTRiYWEtOGZjMS1iMTVlYTYyNWUwZjEiLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjoyN30=",
-      "start_time": "2025-07-03T13:00:00Z",
-      "end_time": "2025-07-03T15:00:00Z",
-      "title": "📺 STREAM LIBRE",
-      "canceled_until": null,
-      "category": {
-        "id": "509658",
-        "name": "Just Chatting"
-      },
-      "is_recurring": false
-    },
-    {
       "id": "eyJzZWdtZW50SUQiOiI2ZmU0NTcxYS1hMDk1LTQwNDEtYTk4MS0zNDlhOWFiYjBhMzkiLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjoyOH0=",
       "start_time": "2025-07-07T17:30:00Z",
       "end_time": "2025-07-07T18:30:00Z",
@@ -244,6 +220,30 @@
       "id": "eyJzZWdtZW50SUQiOiI2ZmU0NTcxYS1hMDk1LTQwNDEtYTk4MS0zNDlhOWFiYjBhMzkiLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjo0NX0=",
       "start_time": "2025-11-03T18:30:00Z",
       "end_time": "2025-11-03T19:30:00Z",
+      "title": "🎙 PRÉ LIVE",
+      "canceled_until": null,
+      "category": {
+        "id": "509658",
+        "name": "Just Chatting"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiI2ZmU0NTcxYS1hMDk1LTQwNDEtYTk4MS0zNDlhOWFiYjBhMzkiLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjo0Nn0=",
+      "start_time": "2025-11-10T18:30:00Z",
+      "end_time": "2025-11-10T19:30:00Z",
+      "title": "🎙 PRÉ LIVE",
+      "canceled_until": null,
+      "category": {
+        "id": "509658",
+        "name": "Just Chatting"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiI2ZmU0NTcxYS1hMDk1LTQwNDEtYTk4MS0zNDlhOWFiYjBhMzkiLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjo0N30=",
+      "start_time": "2025-11-17T18:30:00Z",
+      "end_time": "2025-11-17T19:30:00Z",
       "title": "🎙 PRÉ LIVE",
       "canceled_until": null,
       "category": {

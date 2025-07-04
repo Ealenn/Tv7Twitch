@@ -14,7 +14,7 @@
   "schedulers": [
     {
       "id": "eyJzZWdtZW50SUQiOiI3ZDAzNTc0NC00ZjExLTQ3NjEtYjNkYS0zNmNmNzg5NTM0OWEiLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjoyN30=",
-      "start_time": "2025-07-05T18:00:00Z",
+      "start_time": "2025-07-05T16:00:00Z",
       "end_time": "2025-07-05T22:00:00Z",
       "title": "Lancement de l’événement communautaire Albion Online",
       "canceled_until": null,
@@ -26,8 +26,8 @@
     },
     {
       "id": "eyJzZWdtZW50SUQiOiJiZTVmNzQzMC01YzVlLTRkODgtOTE3My00OTAxZTljMGY5ZGUiLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjoyN30=",
-      "start_time": "2025-07-06T16:00:00Z",
-      "end_time": "2025-07-06T18:00:00Z",
+      "start_time": "2025-07-06T15:00:00Z",
+      "end_time": "2025-07-06T17:00:00Z",
       "title": "REPRISE SPLIT 3, 1er Match MDR Valorant",
       "canceled_until": null,
       "category": {
