@@ -13,16 +13,64 @@
   },
   "schedulers": [
     {
-      "id": "eyJzZWdtZW50SUQiOiI0N2YwODdkMi1hZDlhLTRlZGMtOTllYS0zOWVmZWJhNzlkZTgiLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjoyOH0=",
-      "start_time": "2025-07-07T18:30:00Z",
-      "end_time": "2025-07-07T22:00:00Z",
-      "title": "Soirée du lundi avec des gens et des jeux",
+      "id": "eyJzZWdtZW50SUQiOiIxMmQzNTIxOS05NjdkLTRlNTQtODZiYS04ZWZlNjk3YmRiZmQiLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjoyOH0=",
+      "start_time": "2025-07-08T18:00:00Z",
+      "end_time": "2025-07-08T21:00:00Z",
+      "title": "Showmatch Nouvelle Map Valorant : MISSION : CORRODE",
+      "canceled_until": null,
+      "category": {
+        "id": "516575",
+        "name": "VALORANT"
+      },
+      "is_recurring": false
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiJmZGI3ZmM3Yi0wMmU4LTRiOTktYmQ1Yi1kYjgyNzRhM2MzYzciLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjoyOH0=",
+      "start_time": "2025-07-09T17:00:00Z",
+      "end_time": "2025-07-09T22:00:00Z",
+      "title": "Stream Libre des jeux de la discussion des trucs",
       "canceled_until": null,
       "category": {
         "id": "509658",
         "name": "Just Chatting"
       },
-      "is_recurring": true
+      "is_recurring": false
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiI2MDQzYmUyOC01MmQ0LTRlN2EtYTNkNC03ODM2Njg4YTIwMGUiLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjoyOH0=",
+      "start_time": "2025-07-10T18:00:00Z",
+      "end_time": "2025-07-10T21:00:00Z",
+      "title": "BOAT : la culture au sens large. 17e Émission",
+      "canceled_until": null,
+      "category": {
+        "id": "509658",
+        "name": "Just Chatting"
+      },
+      "is_recurring": false
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiJjNThjZDU2Ni1jNjBmLTQxMDktODI5Yi04YWQ4OGViMjE1NWUiLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjoyOH0=",
+      "start_time": "2025-07-12T18:00:00Z",
+      "end_time": "2025-07-12T22:00:00Z",
+      "title": "The Crucible : la suite de l'aventure de la guilde Albion Online",
+      "canceled_until": null,
+      "category": {
+        "id": "417528",
+        "name": "Albion Online"
+      },
+      "is_recurring": false
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiI5ZGZkNzViZS1iZjU4LTRlMmMtOTMzYy1hOWNiNjg1N2I0YmQiLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjoyOH0=",
+      "start_time": "2025-07-13T15:00:00Z",
+      "end_time": "2025-07-13T18:00:00Z",
+      "title": "Mandatory vs F9, 2e match du split 3",
+      "canceled_until": null,
+      "category": {
+        "id": "516575",
+        "name": "VALORANT"
+      },
+      "is_recurring": false
     },
     {
       "id": "eyJzZWdtZW50SUQiOiI0N2YwODdkMi1hZDlhLTRlZGMtOTllYS0zOWVmZWJhNzlkZTgiLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjoyOX0=",
@@ -196,54 +244,6 @@
       "id": "eyJzZWdtZW50SUQiOiI0N2YwODdkMi1hZDlhLTRlZGMtOTllYS0zOWVmZWJhNzlkZTgiLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjo0M30=",
       "start_time": "2025-10-20T18:30:00Z",
       "end_time": "2025-10-20T22:00:00Z",
-      "title": "Soirée du lundi avec des gens et des jeux",
-      "canceled_until": null,
-      "category": {
-        "id": "509658",
-        "name": "Just Chatting"
-      },
-      "is_recurring": true
-    },
-    {
-      "id": "eyJzZWdtZW50SUQiOiI0N2YwODdkMi1hZDlhLTRlZGMtOTllYS0zOWVmZWJhNzlkZTgiLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjo0NH0=",
-      "start_time": "2025-10-27T19:30:00Z",
-      "end_time": "2025-10-27T23:00:00Z",
-      "title": "Soirée du lundi avec des gens et des jeux",
-      "canceled_until": null,
-      "category": {
-        "id": "509658",
-        "name": "Just Chatting"
-      },
-      "is_recurring": true
-    },
-    {
-      "id": "eyJzZWdtZW50SUQiOiI0N2YwODdkMi1hZDlhLTRlZGMtOTllYS0zOWVmZWJhNzlkZTgiLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjo0NX0=",
-      "start_time": "2025-11-03T19:30:00Z",
-      "end_time": "2025-11-03T23:00:00Z",
-      "title": "Soirée du lundi avec des gens et des jeux",
-      "canceled_until": null,
-      "category": {
-        "id": "509658",
-        "name": "Just Chatting"
-      },
-      "is_recurring": true
-    },
-    {
-      "id": "eyJzZWdtZW50SUQiOiI0N2YwODdkMi1hZDlhLTRlZGMtOTllYS0zOWVmZWJhNzlkZTgiLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjo0Nn0=",
-      "start_time": "2025-11-10T19:30:00Z",
-      "end_time": "2025-11-10T23:00:00Z",
-      "title": "Soirée du lundi avec des gens et des jeux",
-      "canceled_until": null,
-      "category": {
-        "id": "509658",
-        "name": "Just Chatting"
-      },
-      "is_recurring": true
-    },
-    {
-      "id": "eyJzZWdtZW50SUQiOiI0N2YwODdkMi1hZDlhLTRlZGMtOTllYS0zOWVmZWJhNzlkZTgiLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjo0N30=",
-      "start_time": "2025-11-17T19:30:00Z",
-      "end_time": "2025-11-17T23:00:00Z",
       "title": "Soirée du lundi avec des gens et des jeux",
       "canceled_until": null,
       "category": {
