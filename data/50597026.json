@@ -13,30 +13,6 @@
   },
   "schedulers": [
     {
-      "id": "eyJzZWdtZW50SUQiOiJmZmJiYmNiZC0yNzY3LTQzNTgtOTJjOC0yYTMxYmEzNGJiMDciLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjoyOH0=",
-      "start_time": "2025-07-10T11:00:00Z",
-      "end_time": "2025-07-10T16:00:00Z",
-      "title": "LYCANS avec les copains",
-      "canceled_until": null,
-      "category": {
-        "id": "1494074023",
-        "name": "Lycans"
-      },
-      "is_recurring": true
-    },
-    {
-      "id": "eyJzZWdtZW50SUQiOiJiNzdlMzZhZC02Y2E3LTRmNjktYTk5Zi01MTEwMjAwYTc0ZWYiLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjoyOH0=",
-      "start_time": "2025-07-10T18:00:00Z",
-      "end_time": "2025-07-10T22:00:00Z",
-      "title": "MK World : Match en équipe avec Guill Jimmyboy et la WF",
-      "canceled_until": null,
-      "category": {
-        "id": "1826300051",
-        "name": "Mario Kart World"
-      },
-      "is_recurring": true
-    },
-    {
       "id": "eyJzZWdtZW50SUQiOiIzN2ZhOWU2NC02NjA4LTRmZjgtOTEwOC1kZTgxN2JjMTdjYzMiLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjoyOX0=",
       "start_time": "2025-07-14T10:00:00Z",
       "end_time": "2025-07-14T16:00:00Z",
@@ -249,6 +225,30 @@
       "category": {
         "id": "417752",
         "name": "Talk Shows & Podcasts"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiJmZmJiYmNiZC0yNzY3LTQzNTgtOTJjOC0yYTMxYmEzNGJiMDciLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjozM30=",
+      "start_time": "2025-08-14T11:00:00Z",
+      "end_time": "2025-08-14T16:00:00Z",
+      "title": "LYCANS avec les copains",
+      "canceled_until": null,
+      "category": {
+        "id": "1494074023",
+        "name": "Lycans"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiJiNzdlMzZhZC02Y2E3LTRmNjktYTk5Zi01MTEwMjAwYTc0ZWYiLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjozM30=",
+      "start_time": "2025-08-14T18:00:00Z",
+      "end_time": "2025-08-14T22:00:00Z",
+      "title": "MK World : Match en équipe avec Guill Jimmyboy et la WF",
+      "canceled_until": null,
+      "category": {
+        "id": "1826300051",
+        "name": "Mario Kart World"
       },
       "is_recurring": true
     }
