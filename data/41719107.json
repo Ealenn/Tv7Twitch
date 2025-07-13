@@ -13,18 +13,6 @@
   },
   "schedulers": [
     {
-      "id": "eyJzZWdtZW50SUQiOiJjNThjZDU2Ni1jNjBmLTQxMDktODI5Yi04YWQ4OGViMjE1NWUiLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjoyOH0=",
-      "start_time": "2025-07-12T16:00:00Z",
-      "end_time": "2025-07-12T20:00:00Z",
-      "title": "The Crucible : la suite de l'aventure de la guilde Albion Online",
-      "canceled_until": null,
-      "category": {
-        "id": "417528",
-        "name": "Albion Online"
-      },
-      "is_recurring": false
-    },
-    {
       "id": "eyJzZWdtZW50SUQiOiI5ZGZkNzViZS1iZjU4LTRlMmMtOTMzYy1hOWNiNjg1N2I0YmQiLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjoyOH0=",
       "start_time": "2025-07-13T15:00:00Z",
       "end_time": "2025-07-13T18:00:00Z",
@@ -244,6 +232,18 @@
       "id": "eyJzZWdtZW50SUQiOiI0N2YwODdkMi1hZDlhLTRlZGMtOTllYS0zOWVmZWJhNzlkZTgiLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjo0NX0=",
       "start_time": "2025-11-03T19:30:00Z",
       "end_time": "2025-11-03T23:00:00Z",
+      "title": "Soirée du lundi avec des gens et des jeux",
+      "canceled_until": null,
+      "category": {
+        "id": "509658",
+        "name": "Just Chatting"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiI0N2YwODdkMi1hZDlhLTRlZGMtOTllYS0zOWVmZWJhNzlkZTgiLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjo0Nn0=",
+      "start_time": "2025-11-10T19:30:00Z",
+      "end_time": "2025-11-10T23:00:00Z",
       "title": "Soirée du lundi avec des gens et des jeux",
       "canceled_until": null,
       "category": {
