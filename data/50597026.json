@@ -26,20 +26,20 @@
     },
     {
       "id": "eyJzZWdtZW50SUQiOiI2NmRiYjljNC1kNzE3LTQwN2QtYjc5ZC02NjQ3YTU0OGZjNjUiLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjoyOX0=",
-      "start_time": "2025-07-15T17:00:00Z",
-      "end_time": "2025-07-15T21:00:00Z",
-      "title": "Le Dessous des Cartes (sur la chaîne Twitch de ArteFR)",
+      "start_time": "2025-07-15T16:00:00Z",
+      "end_time": "2025-07-15T20:00:00Z",
+      "title": "Mario Kart ",
       "canceled_until": null,
       "category": {
-        "id": "417752",
-        "name": "Talk Shows & Podcasts"
+        "id": "1826300051",
+        "name": "Mario Kart World"
       },
       "is_recurring": true
     },
     {
       "id": "eyJzZWdtZW50SUQiOiJmZmJiYmNiZC0yNzY3LTQzNTgtOTJjOC0yYTMxYmEzNGJiMDciLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjoyOX0=",
-      "start_time": "2025-07-17T11:00:00Z",
-      "end_time": "2025-07-17T16:00:00Z",
+      "start_time": "2025-07-16T09:00:00Z",
+      "end_time": "2025-07-16T13:00:00Z",
       "title": "LYCANS avec les copains",
       "canceled_until": null,
       "category": {
@@ -50,13 +50,37 @@
     },
     {
       "id": "eyJzZWdtZW50SUQiOiJiNzdlMzZhZC02Y2E3LTRmNjktYTk5Zi01MTEwMjAwYTc0ZWYiLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjoyOX0=",
-      "start_time": "2025-07-17T18:00:00Z",
-      "end_time": "2025-07-17T22:00:00Z",
-      "title": "MK World : Match en équipe avec Guill Jimmyboy et la WF",
+      "start_time": "2025-07-16T13:00:00Z",
+      "end_time": "2025-07-16T17:00:00Z",
+      "title": "Clair Obscur Expédition 33 (la fin ???)",
       "canceled_until": null,
       "category": {
-        "id": "1826300051",
-        "name": "Mario Kart World"
+        "id": "36799602",
+        "name": "Clair Obscur: Expedition 33"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiJmM2ZjOGFmOS00ODA5LTRhMTgtODg0My03MDBlOTRkNmU1NzgiLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjoyOX0=",
+      "start_time": "2025-07-17T09:00:00Z",
+      "end_time": "2025-07-17T15:00:00Z",
+      "title": "Donkey Kong Bananza",
+      "canceled_until": null,
+      "category": {
+        "id": "1222247252",
+        "name": "Donkey Kong Bananza"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiJiMzY1NTk1NS03MTkyLTQ0MjYtOGU2My0wZDQzZmJiZTY0NWUiLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjoyOX0=",
+      "start_time": "2025-07-18T10:00:00Z",
+      "end_time": "2025-07-18T18:00:00Z",
+      "title": "Shiny Dex Challenge (Hoenn Édition, 3G)",
+      "canceled_until": null,
+      "category": {
+        "id": "1982936547",
+        "name": "Pokémon"
       },
       "is_recurring": true
     },
@@ -74,20 +98,20 @@
     },
     {
       "id": "eyJzZWdtZW50SUQiOiI2NmRiYjljNC1kNzE3LTQwN2QtYjc5ZC02NjQ3YTU0OGZjNjUiLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjozMH0=",
-      "start_time": "2025-07-22T17:00:00Z",
-      "end_time": "2025-07-22T21:00:00Z",
-      "title": "Le Dessous des Cartes (sur la chaîne Twitch de ArteFR)",
+      "start_time": "2025-07-22T16:00:00Z",
+      "end_time": "2025-07-22T20:00:00Z",
+      "title": "Mario Kart ",
       "canceled_until": null,
       "category": {
-        "id": "417752",
-        "name": "Talk Shows & Podcasts"
+        "id": "1826300051",
+        "name": "Mario Kart World"
       },
       "is_recurring": true
     },
     {
       "id": "eyJzZWdtZW50SUQiOiJmZmJiYmNiZC0yNzY3LTQzNTgtOTJjOC0yYTMxYmEzNGJiMDciLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjozMH0=",
-      "start_time": "2025-07-24T11:00:00Z",
-      "end_time": "2025-07-24T16:00:00Z",
+      "start_time": "2025-07-23T09:00:00Z",
+      "end_time": "2025-07-23T13:00:00Z",
       "title": "LYCANS avec les copains",
       "canceled_until": null,
       "category": {
@@ -98,13 +122,37 @@
     },
     {
       "id": "eyJzZWdtZW50SUQiOiJiNzdlMzZhZC02Y2E3LTRmNjktYTk5Zi01MTEwMjAwYTc0ZWYiLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjozMH0=",
-      "start_time": "2025-07-24T18:00:00Z",
-      "end_time": "2025-07-24T22:00:00Z",
-      "title": "MK World : Match en équipe avec Guill Jimmyboy et la WF",
+      "start_time": "2025-07-23T13:00:00Z",
+      "end_time": "2025-07-23T17:00:00Z",
+      "title": "Clair Obscur Expédition 33 (la fin ???)",
       "canceled_until": null,
       "category": {
-        "id": "1826300051",
-        "name": "Mario Kart World"
+        "id": "36799602",
+        "name": "Clair Obscur: Expedition 33"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiJmM2ZjOGFmOS00ODA5LTRhMTgtODg0My03MDBlOTRkNmU1NzgiLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjozMH0=",
+      "start_time": "2025-07-24T09:00:00Z",
+      "end_time": "2025-07-24T15:00:00Z",
+      "title": "Donkey Kong Bananza",
+      "canceled_until": null,
+      "category": {
+        "id": "1222247252",
+        "name": "Donkey Kong Bananza"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiJiMzY1NTk1NS03MTkyLTQ0MjYtOGU2My0wZDQzZmJiZTY0NWUiLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjozMH0=",
+      "start_time": "2025-07-25T10:00:00Z",
+      "end_time": "2025-07-25T18:00:00Z",
+      "title": "Shiny Dex Challenge (Hoenn Édition, 3G)",
+      "canceled_until": null,
+      "category": {
+        "id": "1982936547",
+        "name": "Pokémon"
       },
       "is_recurring": true
     },
@@ -122,20 +170,20 @@
     },
     {
       "id": "eyJzZWdtZW50SUQiOiI2NmRiYjljNC1kNzE3LTQwN2QtYjc5ZC02NjQ3YTU0OGZjNjUiLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjozMX0=",
-      "start_time": "2025-07-29T17:00:00Z",
-      "end_time": "2025-07-29T21:00:00Z",
-      "title": "Le Dessous des Cartes (sur la chaîne Twitch de ArteFR)",
+      "start_time": "2025-07-29T16:00:00Z",
+      "end_time": "2025-07-29T20:00:00Z",
+      "title": "Mario Kart ",
       "canceled_until": null,
       "category": {
-        "id": "417752",
-        "name": "Talk Shows & Podcasts"
+        "id": "1826300051",
+        "name": "Mario Kart World"
       },
       "is_recurring": true
     },
     {
       "id": "eyJzZWdtZW50SUQiOiJmZmJiYmNiZC0yNzY3LTQzNTgtOTJjOC0yYTMxYmEzNGJiMDciLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjozMX0=",
-      "start_time": "2025-07-31T11:00:00Z",
-      "end_time": "2025-07-31T16:00:00Z",
+      "start_time": "2025-07-30T09:00:00Z",
+      "end_time": "2025-07-30T13:00:00Z",
       "title": "LYCANS avec les copains",
       "canceled_until": null,
       "category": {
@@ -146,13 +194,37 @@
     },
     {
       "id": "eyJzZWdtZW50SUQiOiJiNzdlMzZhZC02Y2E3LTRmNjktYTk5Zi01MTEwMjAwYTc0ZWYiLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjozMX0=",
-      "start_time": "2025-07-31T18:00:00Z",
-      "end_time": "2025-07-31T22:00:00Z",
-      "title": "MK World : Match en équipe avec Guill Jimmyboy et la WF",
+      "start_time": "2025-07-30T13:00:00Z",
+      "end_time": "2025-07-30T17:00:00Z",
+      "title": "Clair Obscur Expédition 33 (la fin ???)",
       "canceled_until": null,
       "category": {
-        "id": "1826300051",
-        "name": "Mario Kart World"
+        "id": "36799602",
+        "name": "Clair Obscur: Expedition 33"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiJmM2ZjOGFmOS00ODA5LTRhMTgtODg0My03MDBlOTRkNmU1NzgiLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjozMX0=",
+      "start_time": "2025-07-31T09:00:00Z",
+      "end_time": "2025-07-31T15:00:00Z",
+      "title": "Donkey Kong Bananza",
+      "canceled_until": null,
+      "category": {
+        "id": "1222247252",
+        "name": "Donkey Kong Bananza"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiJiMzY1NTk1NS03MTkyLTQ0MjYtOGU2My0wZDQzZmJiZTY0NWUiLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjozMX0=",
+      "start_time": "2025-08-01T10:00:00Z",
+      "end_time": "2025-08-01T18:00:00Z",
+      "title": "Shiny Dex Challenge (Hoenn Édition, 3G)",
+      "canceled_until": null,
+      "category": {
+        "id": "1982936547",
+        "name": "Pokémon"
       },
       "is_recurring": true
     },
@@ -170,81 +242,9 @@
     },
     {
       "id": "eyJzZWdtZW50SUQiOiI2NmRiYjljNC1kNzE3LTQwN2QtYjc5ZC02NjQ3YTU0OGZjNjUiLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjozMn0=",
-      "start_time": "2025-08-05T17:00:00Z",
-      "end_time": "2025-08-05T21:00:00Z",
-      "title": "Le Dessous des Cartes (sur la chaîne Twitch de ArteFR)",
-      "canceled_until": null,
-      "category": {
-        "id": "417752",
-        "name": "Talk Shows & Podcasts"
-      },
-      "is_recurring": true
-    },
-    {
-      "id": "eyJzZWdtZW50SUQiOiJmZmJiYmNiZC0yNzY3LTQzNTgtOTJjOC0yYTMxYmEzNGJiMDciLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjozMn0=",
-      "start_time": "2025-08-07T11:00:00Z",
-      "end_time": "2025-08-07T16:00:00Z",
-      "title": "LYCANS avec les copains",
-      "canceled_until": null,
-      "category": {
-        "id": "1494074023",
-        "name": "Lycans"
-      },
-      "is_recurring": true
-    },
-    {
-      "id": "eyJzZWdtZW50SUQiOiJiNzdlMzZhZC02Y2E3LTRmNjktYTk5Zi01MTEwMjAwYTc0ZWYiLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjozMn0=",
-      "start_time": "2025-08-07T18:00:00Z",
-      "end_time": "2025-08-07T22:00:00Z",
-      "title": "MK World : Match en équipe avec Guill Jimmyboy et la WF",
-      "canceled_until": null,
-      "category": {
-        "id": "1826300051",
-        "name": "Mario Kart World"
-      },
-      "is_recurring": true
-    },
-    {
-      "id": "eyJzZWdtZW50SUQiOiIzN2ZhOWU2NC02NjA4LTRmZjgtOTEwOC1kZTgxN2JjMTdjYzMiLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjozM30=",
-      "start_time": "2025-08-11T10:00:00Z",
-      "end_time": "2025-08-11T16:00:00Z",
-      "title": "Culture & plaisir sur le Maitre des Fleurs",
-      "canceled_until": null,
-      "category": {
-        "id": "338715930",
-        "name": "Maitre des Fleurs"
-      },
-      "is_recurring": true
-    },
-    {
-      "id": "eyJzZWdtZW50SUQiOiI2NmRiYjljNC1kNzE3LTQwN2QtYjc5ZC02NjQ3YTU0OGZjNjUiLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjozM30=",
-      "start_time": "2025-08-12T17:00:00Z",
-      "end_time": "2025-08-12T21:00:00Z",
-      "title": "Le Dessous des Cartes (sur la chaîne Twitch de ArteFR)",
-      "canceled_until": null,
-      "category": {
-        "id": "417752",
-        "name": "Talk Shows & Podcasts"
-      },
-      "is_recurring": true
-    },
-    {
-      "id": "eyJzZWdtZW50SUQiOiJmZmJiYmNiZC0yNzY3LTQzNTgtOTJjOC0yYTMxYmEzNGJiMDciLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjozM30=",
-      "start_time": "2025-08-14T11:00:00Z",
-      "end_time": "2025-08-14T16:00:00Z",
-      "title": "LYCANS avec les copains",
-      "canceled_until": null,
-      "category": {
-        "id": "1494074023",
-        "name": "Lycans"
-      },
-      "is_recurring": true
-    },
-    {
-      "id": "eyJzZWdtZW50SUQiOiJiNzdlMzZhZC02Y2E3LTRmNjktYTk5Zi01MTEwMjAwYTc0ZWYiLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjozM30=",
-      "start_time": "2025-08-14T18:00:00Z",
-      "end_time": "2025-08-14T22:00:00Z",
-      "title": "MK World : Match en équipe avec Guill Jimmyboy et la WF",
+      "start_time": "2025-08-05T16:00:00Z",
+      "end_time": "2025-08-05T20:00:00Z",
+      "title": "Mario Kart ",
       "canceled_until": null,
       "category": {
         "id": "1826300051",

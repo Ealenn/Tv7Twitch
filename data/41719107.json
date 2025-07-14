@@ -13,30 +13,6 @@
   },
   "schedulers": [
     {
-      "id": "eyJzZWdtZW50SUQiOiI5ZGZkNzViZS1iZjU4LTRlMmMtOTMzYy1hOWNiNjg1N2I0YmQiLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjoyOH0=",
-      "start_time": "2025-07-13T15:00:00Z",
-      "end_time": "2025-07-13T18:00:00Z",
-      "title": "Mandatory vs F9, 2e match du split 3",
-      "canceled_until": null,
-      "category": {
-        "id": "516575",
-        "name": "VALORANT"
-      },
-      "is_recurring": false
-    },
-    {
-      "id": "eyJzZWdtZW50SUQiOiI3ZWM5MmU4Mi02OTMwLTRhZWUtODM3OC0zMmRlN2YwM2Y2NTAiLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjoyOH0=",
-      "start_time": "2025-07-13T18:00:00Z",
-      "end_time": "2025-07-13T22:00:00Z",
-      "title": "Soirée FFA Age of Empire IV avec Alpha et des gens",
-      "canceled_until": null,
-      "category": {
-        "id": "498482",
-        "name": "Age of Empires IV"
-      },
-      "is_recurring": false
-    },
-    {
       "id": "eyJzZWdtZW50SUQiOiI0N2YwODdkMi1hZDlhLTRlZGMtOTllYS0zOWVmZWJhNzlkZTgiLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjoyOX0=",
       "start_time": "2025-07-14T18:30:00Z",
       "end_time": "2025-07-14T22:00:00Z",
@@ -244,6 +220,30 @@
       "id": "eyJzZWdtZW50SUQiOiI0N2YwODdkMi1hZDlhLTRlZGMtOTllYS0zOWVmZWJhNzlkZTgiLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjo0Nn0=",
       "start_time": "2025-11-10T19:30:00Z",
       "end_time": "2025-11-10T23:00:00Z",
+      "title": "Soirée du lundi avec des gens et des jeux",
+      "canceled_until": null,
+      "category": {
+        "id": "509658",
+        "name": "Just Chatting"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiI0N2YwODdkMi1hZDlhLTRlZGMtOTllYS0zOWVmZWJhNzlkZTgiLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjo0N30=",
+      "start_time": "2025-11-17T19:30:00Z",
+      "end_time": "2025-11-17T23:00:00Z",
+      "title": "Soirée du lundi avec des gens et des jeux",
+      "canceled_until": null,
+      "category": {
+        "id": "509658",
+        "name": "Just Chatting"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiI0N2YwODdkMi1hZDlhLTRlZGMtOTllYS0zOWVmZWJhNzlkZTgiLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjo0OH0=",
+      "start_time": "2025-11-24T19:30:00Z",
+      "end_time": "2025-11-24T23:00:00Z",
       "title": "Soirée du lundi avec des gens et des jeux",
       "canceled_until": null,
       "category": {
