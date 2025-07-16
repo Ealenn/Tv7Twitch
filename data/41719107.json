@@ -13,9 +13,9 @@
   },
   "schedulers": [
     {
-      "id": "eyJzZWdtZW50SUQiOiJhMjQ0MTAyZi1mMWE5LTRjZjMtYTMxMy0xN2VkYWEzYTA1MjIiLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjoyOX0=",
-      "start_time": "2025-07-15T17:00:00Z",
-      "end_time": "2025-07-15T22:00:00Z",
+      "id": "eyJzZWdtZW50SUQiOiIxNTk2ZTNjMS1iMGY0LTQ5OGUtOWZjZi1hMzg1NzU0MGU0YjkiLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjoyOX0=",
+      "start_time": "2025-07-16T15:30:00Z",
+      "end_time": "2025-07-16T19:30:00Z",
       "title": "DES JEUX",
       "canceled_until": null,
       "category": {
@@ -25,14 +25,14 @@
       "is_recurring": false
     },
     {
-      "id": "eyJzZWdtZW50SUQiOiIxNTk2ZTNjMS1iMGY0LTQ5OGUtOWZjZi1hMzg1NzU0MGU0YjkiLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjoyOX0=",
-      "start_time": "2025-07-16T18:00:00Z",
-      "end_time": "2025-07-16T22:00:00Z",
-      "title": "DES JEUX",
+      "id": "eyJzZWdtZW50SUQiOiI1YWZmYjFmYi1mZjJkLTQ5MTgtYjc5NC01NDU0NmEzYzdkNGYiLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjoyOX0=",
+      "start_time": "2025-07-17T17:00:00Z",
+      "end_time": "2025-07-17T21:00:00Z",
+      "title": "Albion Online : Evenement The Crucible on continue !",
       "canceled_until": null,
       "category": {
-        "id": "66082",
-        "name": "Games + Demos"
+        "id": "417528",
+        "name": "Albion Online"
       },
       "is_recurring": false
     },
