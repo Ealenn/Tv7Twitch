@@ -13,18 +13,6 @@
   },
   "schedulers": [
     {
-      "id": "eyJzZWdtZW50SUQiOiIxNTk2ZTNjMS1iMGY0LTQ5OGUtOWZjZi1hMzg1NzU0MGU0YjkiLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjoyOX0=",
-      "start_time": "2025-07-16T15:30:00Z",
-      "end_time": "2025-07-16T19:30:00Z",
-      "title": "DES JEUX",
-      "canceled_until": null,
-      "category": {
-        "id": "66082",
-        "name": "Games + Demos"
-      },
-      "is_recurring": false
-    },
-    {
       "id": "eyJzZWdtZW50SUQiOiI1YWZmYjFmYi1mZjJkLTQ5MTgtYjc5NC01NDU0NmEzYzdkNGYiLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjoyOX0=",
       "start_time": "2025-07-17T17:00:00Z",
       "end_time": "2025-07-17T21:00:00Z",
@@ -244,6 +232,18 @@
       "id": "eyJzZWdtZW50SUQiOiI0N2YwODdkMi1hZDlhLTRlZGMtOTllYS0zOWVmZWJhNzlkZTgiLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjo0NX0=",
       "start_time": "2025-11-03T19:30:00Z",
       "end_time": "2025-11-03T23:00:00Z",
+      "title": "Soirée du lundi avec des gens et des jeux",
+      "canceled_until": null,
+      "category": {
+        "id": "509658",
+        "name": "Just Chatting"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiI0N2YwODdkMi1hZDlhLTRlZGMtOTllYS0zOWVmZWJhNzlkZTgiLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjo0Nn0=",
+      "start_time": "2025-11-10T19:30:00Z",
+      "end_time": "2025-11-10T23:00:00Z",
       "title": "Soirée du lundi avec des gens et des jeux",
       "canceled_until": null,
       "category": {
