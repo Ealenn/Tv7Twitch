@@ -13,18 +13,6 @@
   },
   "schedulers": [
     {
-      "id": "eyJzZWdtZW50SUQiOiI3MGNkZTk2Ni03N2M3LTQzMmEtYTkyZi05OWRkMjg5MjExMmQiLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjozMH0=",
-      "start_time": "2025-07-23T15:30:00Z",
-      "end_time": "2025-07-23T17:30:00Z",
-      "title": "MECHA BREAK on joue pew pew les robots",
-      "canceled_until": null,
-      "category": {
-        "id": "723461364",
-        "name": "Mecha BREAK"
-      },
-      "is_recurring": false
-    },
-    {
       "id": "eyJzZWdtZW50SUQiOiIzZjllODRlMS1lYjMzLTQzNWUtYTA0NC0yZjk1ZGExMDdhNzciLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjozMH0=",
       "start_time": "2025-07-23T18:00:00Z",
       "end_time": "2025-07-23T21:00:00Z",
@@ -244,6 +232,18 @@
       "id": "eyJzZWdtZW50SUQiOiI0N2YwODdkMi1hZDlhLTRlZGMtOTllYS0zOWVmZWJhNzlkZTgiLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjo0NX0=",
       "start_time": "2025-11-03T19:30:00Z",
       "end_time": "2025-11-03T23:00:00Z",
+      "title": "Soirée du lundi avec des gens et des jeux",
+      "canceled_until": null,
+      "category": {
+        "id": "509658",
+        "name": "Just Chatting"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiI0N2YwODdkMi1hZDlhLTRlZGMtOTllYS0zOWVmZWJhNzlkZTgiLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjo0Nn0=",
+      "start_time": "2025-11-10T19:30:00Z",
+      "end_time": "2025-11-10T23:00:00Z",
       "title": "Soirée du lundi avec des gens et des jeux",
       "canceled_until": null,
       "category": {
