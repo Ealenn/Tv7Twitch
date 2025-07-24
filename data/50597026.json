@@ -13,30 +13,6 @@
   },
   "schedulers": [
     {
-      "id": "eyJzZWdtZW50SUQiOiJiMzY1NTk1NS03MTkyLTQ0MjYtOGU2My0wZDQzZmJiZTY0NWUiLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjozMH0=",
-      "start_time": "2025-07-23T15:00:00Z",
-      "end_time": "2025-07-23T18:00:00Z",
-      "title": "Fall guys",
-      "canceled_until": null,
-      "category": {
-        "id": "512980",
-        "name": "Fall Guys"
-      },
-      "is_recurring": true
-    },
-    {
-      "id": "eyJzZWdtZW50SUQiOiI0OTZlZDI4Mi01MDgyLTRjMjAtOWM1Yy05ZmM4YmNlMzFhODMiLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjozMH0=",
-      "start_time": "2025-07-23T18:00:00Z",
-      "end_time": "2025-07-23T22:00:00Z",
-      "title": "Fight for Sub sur Fall Guys en duo avec Wingo",
-      "canceled_until": null,
-      "category": {
-        "id": "512980",
-        "name": "Fall Guys"
-      },
-      "is_recurring": true
-    },
-    {
       "id": "eyJzZWdtZW50SUQiOiJjOGE5NWZjYi02MjhlLTRkN2ItYmQ3ZC1iMzc2NjI1MjY5Y2EiLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjozMH0=",
       "start_time": "2025-07-24T09:00:00Z",
       "end_time": "2025-07-24T14:00:00Z",
@@ -249,6 +225,30 @@
       "category": {
         "id": "1081998272",
         "name": "PEAK"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiI3MDg4NTRlMi1lYzYyLTQ2ZTgtOWZmMC0yMzQyZGJiNzE1OWEiLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjozMn0=",
+      "start_time": "2025-08-08T14:00:00Z",
+      "end_time": "2025-08-08T18:00:00Z",
+      "title": "Donkey kong bananza",
+      "canceled_until": null,
+      "category": {
+        "id": "1222247252",
+        "name": "Donkey Kong Bananza"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiI2NmRiYjljNC1kNzE3LTQwN2QtYjc5ZC02NjQ3YTU0OGZjNjUiLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjozMn0=",
+      "start_time": "2025-08-08T18:00:00Z",
+      "end_time": "2025-08-08T22:00:00Z",
+      "title": "Mario Kart en 6v6 avec Guill, Jimmyboy et la team WF",
+      "canceled_until": null,
+      "category": {
+        "id": "1826300051",
+        "name": "Mario Kart World"
       },
       "is_recurring": true
     }
