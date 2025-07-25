@@ -13,18 +13,6 @@
   },
   "schedulers": [
     {
-      "id": "eyJzZWdtZW50SUQiOiJkNTI5OTE5My00ODMyLTQyOWUtYWYzOC0zMjkzMDA5NzdmODUiLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjozMH0=",
-      "start_time": "2025-07-24T18:00:00Z",
-      "end_time": "2025-07-24T20:30:00Z",
-      "title": "BOAT, dernière émission de la saison !",
-      "canceled_until": null,
-      "category": {
-        "id": "509658",
-        "name": "Just Chatting"
-      },
-      "is_recurring": false
-    },
-    {
       "id": "eyJzZWdtZW50SUQiOiI4YjJmZDMyYi1iYTMzLTQ3YmItOTI1MC04ZmFlZWZjM2U2ODQiLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjozMH0=",
       "start_time": "2025-07-25T11:30:00Z",
       "end_time": "2025-07-25T13:30:00Z",
@@ -244,6 +232,18 @@
       "id": "eyJzZWdtZW50SUQiOiI0N2YwODdkMi1hZDlhLTRlZGMtOTllYS0zOWVmZWJhNzlkZTgiLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjo0N30=",
       "start_time": "2025-11-17T19:30:00Z",
       "end_time": "2025-11-17T23:00:00Z",
+      "title": "Soirée du lundi avec des gens et des jeux",
+      "canceled_until": null,
+      "category": {
+        "id": "509658",
+        "name": "Just Chatting"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiI0N2YwODdkMi1hZDlhLTRlZGMtOTllYS0zOWVmZWJhNzlkZTgiLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjo0OH0=",
+      "start_time": "2025-11-24T19:30:00Z",
+      "end_time": "2025-11-24T23:00:00Z",
       "title": "Soirée du lundi avec des gens et des jeux",
       "canceled_until": null,
       "category": {

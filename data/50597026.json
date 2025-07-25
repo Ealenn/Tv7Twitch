@@ -13,18 +13,6 @@
   },
   "schedulers": [
     {
-      "id": "eyJzZWdtZW50SUQiOiJjOGE5NWZjYi02MjhlLTRkN2ItYmQ3ZC1iMzc2NjI1MjY5Y2EiLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjozMH0=",
-      "start_time": "2025-07-24T09:00:00Z",
-      "end_time": "2025-07-24T14:00:00Z",
-      "title": "Peak",
-      "canceled_until": null,
-      "category": {
-        "id": "1081998272",
-        "name": "PEAK"
-      },
-      "is_recurring": true
-    },
-    {
       "id": "eyJzZWdtZW50SUQiOiI3MDg4NTRlMi1lYzYyLTQ2ZTgtOWZmMC0yMzQyZGJiNzE1OWEiLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjozMH0=",
       "start_time": "2025-07-25T14:00:00Z",
       "end_time": "2025-07-25T18:00:00Z",
@@ -249,6 +237,18 @@
       "category": {
         "id": "1826300051",
         "name": "Mario Kart World"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiIzN2ZhOWU2NC02NjA4LTRmZjgtOTEwOC1kZTgxN2JjMTdjYzMiLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjozM30=",
+      "start_time": "2025-08-11T10:00:00Z",
+      "end_time": "2025-08-11T16:00:00Z",
+      "title": "Culture & plaisir sur le Maitre des Fleurs",
+      "canceled_until": null,
+      "category": {
+        "id": "338715930",
+        "name": "Maitre des Fleurs"
       },
       "is_recurring": true
     }
