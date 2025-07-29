@@ -7,23 +7,11 @@
     "broadcaster_type": "partner",
     "description": "Nous sommes de très jolies fleurs dans un même bouquet.",
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/d4737061-8f00-49d9-a56f-fcb4a9230b3f-profile_image-300x300.png",
-    "offline_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/396602a7-289f-4180-8add-1e29a25b76b5-channel_offline_image-1920x1080.png",
+    "offline_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/f0f9db5d-cb99-47cd-8d4e-d8f7ac518626-channel_offline_image-1920x1080.png",
     "view_count": 0,
     "created_at": "2013-10-24T19:04:45Z"
   },
   "schedulers": [
-    {
-      "id": "eyJzZWdtZW50SUQiOiIzN2ZhOWU2NC02NjA4LTRmZjgtOTEwOC1kZTgxN2JjMTdjYzMiLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjozMX0=",
-      "start_time": "2025-07-28T10:00:00Z",
-      "end_time": "2025-07-28T16:00:00Z",
-      "title": "Culture & plaisir sur le Maitre des Fleurs",
-      "canceled_until": null,
-      "category": {
-        "id": "338715930",
-        "name": "Maitre des Fleurs"
-      },
-      "is_recurring": true
-    },
     {
       "id": "eyJzZWdtZW50SUQiOiJmZmJiYmNiZC0yNzY3LTQzNTgtOTJjOC0yYTMxYmEzNGJiMDciLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjozMX0=",
       "start_time": "2025-07-29T09:00:00Z",
@@ -249,6 +237,18 @@
       "category": {
         "id": "1470171153",
         "name": "Pokémon Friends"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiJlZmUwNTllMy1hYzEzLTRkMjYtOWFmNC1hYzY3NGY3YmU5MTkiLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjozM30=",
+      "start_time": "2025-08-14T11:00:00Z",
+      "end_time": "2025-08-14T15:00:00Z",
+      "title": "On grimpe la montagne avec Wingo & Sundae",
+      "canceled_until": null,
+      "category": {
+        "id": "1081998272",
+        "name": "PEAK"
       },
       "is_recurring": true
     }
