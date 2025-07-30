@@ -13,30 +13,6 @@
   },
   "schedulers": [
     {
-      "id": "eyJzZWdtZW50SUQiOiJmZmJiYmNiZC0yNzY3LTQzNTgtOTJjOC0yYTMxYmEzNGJiMDciLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjozMX0=",
-      "start_time": "2025-07-29T09:00:00Z",
-      "end_time": "2025-07-29T12:00:00Z",
-      "title": "LYCANS avé les copains",
-      "canceled_until": null,
-      "category": {
-        "id": "1494074023",
-        "name": "Lycans"
-      },
-      "is_recurring": true
-    },
-    {
-      "id": "eyJzZWdtZW50SUQiOiJmM2ZjOGFmOS00ODA5LTRhMTgtODg0My03MDBlOTRkNmU1NzgiLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjozMX0=",
-      "start_time": "2025-07-29T12:00:00Z",
-      "end_time": "2025-07-29T16:00:00Z",
-      "title": "On continue l'aventure Donkey Kong Bananza",
-      "canceled_until": null,
-      "category": {
-        "id": "1222247252",
-        "name": "Donkey Kong Bananza"
-      },
-      "is_recurring": true
-    },
-    {
       "id": "eyJzZWdtZW50SUQiOiJiMzY1NTk1NS03MTkyLTQ0MjYtOGU2My0wZDQzZmJiZTY0NWUiLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjozMX0=",
       "start_time": "2025-07-30T09:00:00Z",
       "end_time": "2025-07-30T12:00:00Z",
@@ -249,6 +225,30 @@
       "category": {
         "id": "1081998272",
         "name": "PEAK"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiIzN2ZhOWU2NC02NjA4LTRmZjgtOTEwOC1kZTgxN2JjMTdjYzMiLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjozNH0=",
+      "start_time": "2025-08-18T10:00:00Z",
+      "end_time": "2025-08-18T16:00:00Z",
+      "title": "Culture & plaisir sur le Maitre des Fleurs",
+      "canceled_until": null,
+      "category": {
+        "id": "338715930",
+        "name": "Maitre des Fleurs"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiJmZmJiYmNiZC0yNzY3LTQzNTgtOTJjOC0yYTMxYmEzNGJiMDciLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjozNH0=",
+      "start_time": "2025-08-19T09:00:00Z",
+      "end_time": "2025-08-19T12:00:00Z",
+      "title": "LYCANS avé les copains",
+      "canceled_until": null,
+      "category": {
+        "id": "1494074023",
+        "name": "Lycans"
       },
       "is_recurring": true
     }
