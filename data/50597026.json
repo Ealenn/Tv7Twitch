@@ -13,30 +13,6 @@
   },
   "schedulers": [
     {
-      "id": "eyJzZWdtZW50SUQiOiJiMzY1NTk1NS03MTkyLTQ0MjYtOGU2My0wZDQzZmJiZTY0NWUiLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjozMX0=",
-      "start_time": "2025-07-30T09:00:00Z",
-      "end_time": "2025-07-30T12:00:00Z",
-      "title": "L'addiction Pokémon Friends",
-      "canceled_until": null,
-      "category": {
-        "id": "1470171153",
-        "name": "Pokémon Friends"
-      },
-      "is_recurring": true
-    },
-    {
-      "id": "eyJzZWdtZW50SUQiOiI0OTZlZDI4Mi01MDgyLTRjMjAtOWM1Yy05ZmM4YmNlMzFhODMiLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjozMX0=",
-      "start_time": "2025-07-30T12:00:00Z",
-      "end_time": "2025-07-30T16:00:00Z",
-      "title": "On continue l'aventure Donkey Kong Bananza",
-      "canceled_until": null,
-      "category": {
-        "id": "1222247252",
-        "name": "Donkey Kong Bananza"
-      },
-      "is_recurring": true
-    },
-    {
       "id": "eyJzZWdtZW50SUQiOiJjOGE5NWZjYi02MjhlLTRkN2ItYmQ3ZC1iMzc2NjI1MjY5Y2EiLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjozMX0=",
       "start_time": "2025-07-31T09:00:00Z",
       "end_time": "2025-07-31T11:00:00Z",
@@ -249,6 +225,30 @@
       "category": {
         "id": "1494074023",
         "name": "Lycans"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiJmM2ZjOGFmOS00ODA5LTRhMTgtODg0My03MDBlOTRkNmU1NzgiLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjozNH0=",
+      "start_time": "2025-08-19T12:00:00Z",
+      "end_time": "2025-08-19T16:00:00Z",
+      "title": "On continue l'aventure Donkey Kong Bananza",
+      "canceled_until": null,
+      "category": {
+        "id": "1222247252",
+        "name": "Donkey Kong Bananza"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiJiMzY1NTk1NS03MTkyLTQ0MjYtOGU2My0wZDQzZmJiZTY0NWUiLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjozNH0=",
+      "start_time": "2025-08-20T09:00:00Z",
+      "end_time": "2025-08-20T12:00:00Z",
+      "title": "L'addiction Pokémon Friends",
+      "canceled_until": null,
+      "category": {
+        "id": "1470171153",
+        "name": "Pokémon Friends"
       },
       "is_recurring": true
     }
