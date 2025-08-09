@@ -13,18 +13,6 @@
   },
   "schedulers": [
     {
-      "id": "eyJzZWdtZW50SUQiOiI1YzM5YjZmMC0yMjU3LTQ3MWUtYTBmNi0xZmVmZjNlMDI2NjciLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjozMn0=",
-      "start_time": "2025-08-08T09:00:00Z",
-      "end_time": "2025-08-08T16:00:00Z",
-      "title": "Stream libre",
-      "canceled_until": null,
-      "category": {
-        "id": "509658",
-        "name": "Just Chatting"
-      },
-      "is_recurring": true
-    },
-    {
       "id": "eyJzZWdtZW50SUQiOiIzN2ZhOWU2NC02NjA4LTRmZjgtOTEwOC1kZTgxN2JjMTdjYzMiLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjozM30=",
       "start_time": "2025-08-11T10:00:00Z",
       "end_time": "2025-08-11T16:00:00Z",
@@ -245,6 +233,18 @@
       "start_time": "2025-09-04T09:00:00Z",
       "end_time": "2025-09-04T16:00:00Z",
       "title": "Stream Libre",
+      "canceled_until": null,
+      "category": {
+        "id": "509658",
+        "name": "Just Chatting"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiI1YzM5YjZmMC0yMjU3LTQ3MWUtYTBmNi0xZmVmZjNlMDI2NjciLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjozNn0=",
+      "start_time": "2025-09-05T09:00:00Z",
+      "end_time": "2025-09-05T16:00:00Z",
+      "title": "Stream libre",
       "canceled_until": null,
       "category": {
         "id": "509658",
