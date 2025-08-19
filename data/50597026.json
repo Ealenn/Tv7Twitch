@@ -13,18 +13,6 @@
   },
   "schedulers": [
     {
-      "id": "eyJzZWdtZW50SUQiOiIzN2ZhOWU2NC02NjA4LTRmZjgtOTEwOC1kZTgxN2JjMTdjYzMiLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjozNH0=",
-      "start_time": "2025-08-18T11:00:00Z",
-      "end_time": "2025-08-18T17:00:00Z",
-      "title": "Culture & plaisir sur le Maitre des Fleurs",
-      "canceled_until": null,
-      "category": {
-        "id": "338715930",
-        "name": "Maitre des Fleurs"
-      },
-      "is_recurring": true
-    },
-    {
       "id": "eyJzZWdtZW50SUQiOiIzN2ZhOWU2NC02NjA4LTRmZjgtOTEwOC1kZTgxN2JjMTdjYzMiLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjozNX0=",
       "start_time": "2025-08-25T11:00:00Z",
       "end_time": "2025-08-25T17:00:00Z",
@@ -244,6 +232,18 @@
       "id": "eyJzZWdtZW50SUQiOiIzN2ZhOWU2NC02NjA4LTRmZjgtOTEwOC1kZTgxN2JjMTdjYzMiLCJpc29ZZWFyIjoyMDI2LCJpc29XZWVrIjoxfQ==",
       "start_time": "2025-12-29T12:00:00Z",
       "end_time": "2025-12-29T18:00:00Z",
+      "title": "Culture & plaisir sur le Maitre des Fleurs",
+      "canceled_until": null,
+      "category": {
+        "id": "338715930",
+        "name": "Maitre des Fleurs"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiIzN2ZhOWU2NC02NjA4LTRmZjgtOTEwOC1kZTgxN2JjMTdjYzMiLCJpc29ZZWFyIjoyMDI2LCJpc29XZWVrIjoyfQ==",
+      "start_time": "2026-01-05T12:00:00Z",
+      "end_time": "2026-01-05T18:00:00Z",
       "title": "Culture & plaisir sur le Maitre des Fleurs",
       "canceled_until": null,
       "category": {
