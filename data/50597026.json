@@ -14,8 +14,8 @@
   "schedulers": [
     {
       "id": "eyJzZWdtZW50SUQiOiIzN2ZhOWU2NC02NjA4LTRmZjgtOTEwOC1kZTgxN2JjMTdjYzMiLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjozNn0=",
-      "start_time": "2025-09-01T11:00:00Z",
-      "end_time": "2025-09-01T17:00:00Z",
+      "start_time": "2025-09-01T09:00:00Z",
+      "end_time": "2025-09-01T15:00:00Z",
       "title": "Culture & plaisir sur le Maitre des Fleurs",
       "canceled_until": null,
       "category": {
@@ -25,225 +25,225 @@
       "is_recurring": true
     },
     {
+      "id": "eyJzZWdtZW50SUQiOiJmZjIzYWUxNi1mMzJhLTRlYTktOGMxNy0yOWY1M2RkNDI2NjUiLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjozNn0=",
+      "start_time": "2025-09-02T09:00:00Z",
+      "end_time": "2025-09-02T13:00:00Z",
+      "title": "",
+      "canceled_until": null,
+      "category": {
+        "id": "1494074023",
+        "name": "Lycans"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiJiM2IwYWQ4My1kYjAwLTRmZTEtODIzMS0zY2Q2NTUxYThlMGIiLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjozNn0=",
+      "start_time": "2025-09-02T13:00:00Z",
+      "end_time": "2025-09-02T17:00:00Z",
+      "title": "",
+      "canceled_until": null,
+      "category": {
+        "id": "957620847",
+        "name": "METAL GEAR SOLID Δ: SNAKE EATER"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiI2MzZlZWY4OS0wNzc2LTQ1ZDMtOTIzYy0yMGM1OGQ0OWY5N2IiLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjozNn0=",
+      "start_time": "2025-09-03T09:00:00Z",
+      "end_time": "2025-09-03T16:00:00Z",
+      "title": "",
+      "canceled_until": null,
+      "category": {
+        "id": "509658",
+        "name": "Just Chatting"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiI4ZWVkMGRjMi0zODY4LTQ2YzAtYjdhMi0wODg3NzE3MzY5YzEiLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjozNn0=",
+      "start_time": "2025-09-05T16:00:00Z",
+      "end_time": "2025-09-05T22:00:00Z",
+      "title": "",
+      "canceled_until": null,
+      "category": {
+        "id": "305984745",
+        "name": "ZEVENT"
+      },
+      "is_recurring": false
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiIzNzQwNjNjZi1iNjgzLTQyOTktOGQ3My01MDc0OTk1OTc1NTciLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjozNn0=",
+      "start_time": "2025-09-06T09:00:00Z",
+      "end_time": "2025-09-06T22:00:00Z",
+      "title": "",
+      "canceled_until": null,
+      "category": {
+        "id": "305984745",
+        "name": "ZEVENT"
+      },
+      "is_recurring": false
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiJjMzcwYWJhNC03YjJkLTQ5NTEtOGYyOC1jMDU5YTc4MTM2NjQiLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjozNn0=",
+      "start_time": "2025-09-07T09:00:00Z",
+      "end_time": "2025-09-07T22:00:00Z",
+      "title": "",
+      "canceled_until": null,
+      "category": {
+        "id": "305984745",
+        "name": "ZEVENT"
+      },
+      "is_recurring": false
+    },
+    {
       "id": "eyJzZWdtZW50SUQiOiIzN2ZhOWU2NC02NjA4LTRmZjgtOTEwOC1kZTgxN2JjMTdjYzMiLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjozN30=",
-      "start_time": "2025-09-08T11:00:00Z",
-      "end_time": "2025-09-08T17:00:00Z",
+      "start_time": "2025-09-08T09:00:00Z",
+      "end_time": "2025-09-08T15:00:00Z",
       "title": "Culture & plaisir sur le Maitre des Fleurs",
       "canceled_until": null,
       "category": {
         "id": "338715930",
         "name": "Maitre des Fleurs"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiJmZjIzYWUxNi1mMzJhLTRlYTktOGMxNy0yOWY1M2RkNDI2NjUiLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjozN30=",
+      "start_time": "2025-09-09T09:00:00Z",
+      "end_time": "2025-09-09T13:00:00Z",
+      "title": "",
+      "canceled_until": null,
+      "category": {
+        "id": "1494074023",
+        "name": "Lycans"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiJiM2IwYWQ4My1kYjAwLTRmZTEtODIzMS0zY2Q2NTUxYThlMGIiLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjozN30=",
+      "start_time": "2025-09-09T13:00:00Z",
+      "end_time": "2025-09-09T17:00:00Z",
+      "title": "",
+      "canceled_until": null,
+      "category": {
+        "id": "957620847",
+        "name": "METAL GEAR SOLID Δ: SNAKE EATER"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiI2MzZlZWY4OS0wNzc2LTQ1ZDMtOTIzYy0yMGM1OGQ0OWY5N2IiLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjozN30=",
+      "start_time": "2025-09-10T09:00:00Z",
+      "end_time": "2025-09-10T16:00:00Z",
+      "title": "",
+      "canceled_until": null,
+      "category": {
+        "id": "509658",
+        "name": "Just Chatting"
       },
       "is_recurring": true
     },
     {
       "id": "eyJzZWdtZW50SUQiOiIzN2ZhOWU2NC02NjA4LTRmZjgtOTEwOC1kZTgxN2JjMTdjYzMiLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjozOH0=",
-      "start_time": "2025-09-15T11:00:00Z",
-      "end_time": "2025-09-15T17:00:00Z",
+      "start_time": "2025-09-15T09:00:00Z",
+      "end_time": "2025-09-15T15:00:00Z",
       "title": "Culture & plaisir sur le Maitre des Fleurs",
       "canceled_until": null,
       "category": {
         "id": "338715930",
         "name": "Maitre des Fleurs"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiJmZjIzYWUxNi1mMzJhLTRlYTktOGMxNy0yOWY1M2RkNDI2NjUiLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjozOH0=",
+      "start_time": "2025-09-16T09:00:00Z",
+      "end_time": "2025-09-16T13:00:00Z",
+      "title": "",
+      "canceled_until": null,
+      "category": {
+        "id": "1494074023",
+        "name": "Lycans"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiJiM2IwYWQ4My1kYjAwLTRmZTEtODIzMS0zY2Q2NTUxYThlMGIiLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjozOH0=",
+      "start_time": "2025-09-16T13:00:00Z",
+      "end_time": "2025-09-16T17:00:00Z",
+      "title": "",
+      "canceled_until": null,
+      "category": {
+        "id": "957620847",
+        "name": "METAL GEAR SOLID Δ: SNAKE EATER"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiI2MzZlZWY4OS0wNzc2LTQ1ZDMtOTIzYy0yMGM1OGQ0OWY5N2IiLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjozOH0=",
+      "start_time": "2025-09-17T09:00:00Z",
+      "end_time": "2025-09-17T16:00:00Z",
+      "title": "",
+      "canceled_until": null,
+      "category": {
+        "id": "509658",
+        "name": "Just Chatting"
       },
       "is_recurring": true
     },
     {
       "id": "eyJzZWdtZW50SUQiOiIzN2ZhOWU2NC02NjA4LTRmZjgtOTEwOC1kZTgxN2JjMTdjYzMiLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjozOX0=",
-      "start_time": "2025-09-22T11:00:00Z",
-      "end_time": "2025-09-22T17:00:00Z",
+      "start_time": "2025-09-22T09:00:00Z",
+      "end_time": "2025-09-22T15:00:00Z",
       "title": "Culture & plaisir sur le Maitre des Fleurs",
       "canceled_until": null,
       "category": {
         "id": "338715930",
         "name": "Maitre des Fleurs"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiJmZjIzYWUxNi1mMzJhLTRlYTktOGMxNy0yOWY1M2RkNDI2NjUiLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjozOX0=",
+      "start_time": "2025-09-23T09:00:00Z",
+      "end_time": "2025-09-23T13:00:00Z",
+      "title": "",
+      "canceled_until": null,
+      "category": {
+        "id": "1494074023",
+        "name": "Lycans"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiJiM2IwYWQ4My1kYjAwLTRmZTEtODIzMS0zY2Q2NTUxYThlMGIiLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjozOX0=",
+      "start_time": "2025-09-23T13:00:00Z",
+      "end_time": "2025-09-23T17:00:00Z",
+      "title": "",
+      "canceled_until": null,
+      "category": {
+        "id": "957620847",
+        "name": "METAL GEAR SOLID Δ: SNAKE EATER"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiI2MzZlZWY4OS0wNzc2LTQ1ZDMtOTIzYy0yMGM1OGQ0OWY5N2IiLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjozOX0=",
+      "start_time": "2025-09-24T09:00:00Z",
+      "end_time": "2025-09-24T16:00:00Z",
+      "title": "",
+      "canceled_until": null,
+      "category": {
+        "id": "509658",
+        "name": "Just Chatting"
       },
       "is_recurring": true
     },
     {
       "id": "eyJzZWdtZW50SUQiOiIzN2ZhOWU2NC02NjA4LTRmZjgtOTEwOC1kZTgxN2JjMTdjYzMiLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjo0MH0=",
-      "start_time": "2025-09-29T11:00:00Z",
-      "end_time": "2025-09-29T17:00:00Z",
-      "title": "Culture & plaisir sur le Maitre des Fleurs",
-      "canceled_until": null,
-      "category": {
-        "id": "338715930",
-        "name": "Maitre des Fleurs"
-      },
-      "is_recurring": true
-    },
-    {
-      "id": "eyJzZWdtZW50SUQiOiIzN2ZhOWU2NC02NjA4LTRmZjgtOTEwOC1kZTgxN2JjMTdjYzMiLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjo0MX0=",
-      "start_time": "2025-10-06T11:00:00Z",
-      "end_time": "2025-10-06T17:00:00Z",
-      "title": "Culture & plaisir sur le Maitre des Fleurs",
-      "canceled_until": null,
-      "category": {
-        "id": "338715930",
-        "name": "Maitre des Fleurs"
-      },
-      "is_recurring": true
-    },
-    {
-      "id": "eyJzZWdtZW50SUQiOiIzN2ZhOWU2NC02NjA4LTRmZjgtOTEwOC1kZTgxN2JjMTdjYzMiLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjo0Mn0=",
-      "start_time": "2025-10-13T11:00:00Z",
-      "end_time": "2025-10-13T17:00:00Z",
-      "title": "Culture & plaisir sur le Maitre des Fleurs",
-      "canceled_until": null,
-      "category": {
-        "id": "338715930",
-        "name": "Maitre des Fleurs"
-      },
-      "is_recurring": true
-    },
-    {
-      "id": "eyJzZWdtZW50SUQiOiIzN2ZhOWU2NC02NjA4LTRmZjgtOTEwOC1kZTgxN2JjMTdjYzMiLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjo0M30=",
-      "start_time": "2025-10-20T11:00:00Z",
-      "end_time": "2025-10-20T17:00:00Z",
-      "title": "Culture & plaisir sur le Maitre des Fleurs",
-      "canceled_until": null,
-      "category": {
-        "id": "338715930",
-        "name": "Maitre des Fleurs"
-      },
-      "is_recurring": true
-    },
-    {
-      "id": "eyJzZWdtZW50SUQiOiIzN2ZhOWU2NC02NjA4LTRmZjgtOTEwOC1kZTgxN2JjMTdjYzMiLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjo0NH0=",
-      "start_time": "2025-10-27T12:00:00Z",
-      "end_time": "2025-10-27T18:00:00Z",
-      "title": "Culture & plaisir sur le Maitre des Fleurs",
-      "canceled_until": null,
-      "category": {
-        "id": "338715930",
-        "name": "Maitre des Fleurs"
-      },
-      "is_recurring": true
-    },
-    {
-      "id": "eyJzZWdtZW50SUQiOiIzN2ZhOWU2NC02NjA4LTRmZjgtOTEwOC1kZTgxN2JjMTdjYzMiLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjo0NX0=",
-      "start_time": "2025-11-03T12:00:00Z",
-      "end_time": "2025-11-03T18:00:00Z",
-      "title": "Culture & plaisir sur le Maitre des Fleurs",
-      "canceled_until": null,
-      "category": {
-        "id": "338715930",
-        "name": "Maitre des Fleurs"
-      },
-      "is_recurring": true
-    },
-    {
-      "id": "eyJzZWdtZW50SUQiOiIzN2ZhOWU2NC02NjA4LTRmZjgtOTEwOC1kZTgxN2JjMTdjYzMiLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjo0Nn0=",
-      "start_time": "2025-11-10T12:00:00Z",
-      "end_time": "2025-11-10T18:00:00Z",
-      "title": "Culture & plaisir sur le Maitre des Fleurs",
-      "canceled_until": null,
-      "category": {
-        "id": "338715930",
-        "name": "Maitre des Fleurs"
-      },
-      "is_recurring": true
-    },
-    {
-      "id": "eyJzZWdtZW50SUQiOiIzN2ZhOWU2NC02NjA4LTRmZjgtOTEwOC1kZTgxN2JjMTdjYzMiLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjo0N30=",
-      "start_time": "2025-11-17T12:00:00Z",
-      "end_time": "2025-11-17T18:00:00Z",
-      "title": "Culture & plaisir sur le Maitre des Fleurs",
-      "canceled_until": null,
-      "category": {
-        "id": "338715930",
-        "name": "Maitre des Fleurs"
-      },
-      "is_recurring": true
-    },
-    {
-      "id": "eyJzZWdtZW50SUQiOiIzN2ZhOWU2NC02NjA4LTRmZjgtOTEwOC1kZTgxN2JjMTdjYzMiLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjo0OH0=",
-      "start_time": "2025-11-24T12:00:00Z",
-      "end_time": "2025-11-24T18:00:00Z",
-      "title": "Culture & plaisir sur le Maitre des Fleurs",
-      "canceled_until": null,
-      "category": {
-        "id": "338715930",
-        "name": "Maitre des Fleurs"
-      },
-      "is_recurring": true
-    },
-    {
-      "id": "eyJzZWdtZW50SUQiOiIzN2ZhOWU2NC02NjA4LTRmZjgtOTEwOC1kZTgxN2JjMTdjYzMiLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjo0OX0=",
-      "start_time": "2025-12-01T12:00:00Z",
-      "end_time": "2025-12-01T18:00:00Z",
-      "title": "Culture & plaisir sur le Maitre des Fleurs",
-      "canceled_until": null,
-      "category": {
-        "id": "338715930",
-        "name": "Maitre des Fleurs"
-      },
-      "is_recurring": true
-    },
-    {
-      "id": "eyJzZWdtZW50SUQiOiIzN2ZhOWU2NC02NjA4LTRmZjgtOTEwOC1kZTgxN2JjMTdjYzMiLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjo1MH0=",
-      "start_time": "2025-12-08T12:00:00Z",
-      "end_time": "2025-12-08T18:00:00Z",
-      "title": "Culture & plaisir sur le Maitre des Fleurs",
-      "canceled_until": null,
-      "category": {
-        "id": "338715930",
-        "name": "Maitre des Fleurs"
-      },
-      "is_recurring": true
-    },
-    {
-      "id": "eyJzZWdtZW50SUQiOiIzN2ZhOWU2NC02NjA4LTRmZjgtOTEwOC1kZTgxN2JjMTdjYzMiLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjo1MX0=",
-      "start_time": "2025-12-15T12:00:00Z",
-      "end_time": "2025-12-15T18:00:00Z",
-      "title": "Culture & plaisir sur le Maitre des Fleurs",
-      "canceled_until": null,
-      "category": {
-        "id": "338715930",
-        "name": "Maitre des Fleurs"
-      },
-      "is_recurring": true
-    },
-    {
-      "id": "eyJzZWdtZW50SUQiOiIzN2ZhOWU2NC02NjA4LTRmZjgtOTEwOC1kZTgxN2JjMTdjYzMiLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjo1Mn0=",
-      "start_time": "2025-12-22T12:00:00Z",
-      "end_time": "2025-12-22T18:00:00Z",
-      "title": "Culture & plaisir sur le Maitre des Fleurs",
-      "canceled_until": null,
-      "category": {
-        "id": "338715930",
-        "name": "Maitre des Fleurs"
-      },
-      "is_recurring": true
-    },
-    {
-      "id": "eyJzZWdtZW50SUQiOiIzN2ZhOWU2NC02NjA4LTRmZjgtOTEwOC1kZTgxN2JjMTdjYzMiLCJpc29ZZWFyIjoyMDI2LCJpc29XZWVrIjoxfQ==",
-      "start_time": "2025-12-29T12:00:00Z",
-      "end_time": "2025-12-29T18:00:00Z",
-      "title": "Culture & plaisir sur le Maitre des Fleurs",
-      "canceled_until": null,
-      "category": {
-        "id": "338715930",
-        "name": "Maitre des Fleurs"
-      },
-      "is_recurring": true
-    },
-    {
-      "id": "eyJzZWdtZW50SUQiOiIzN2ZhOWU2NC02NjA4LTRmZjgtOTEwOC1kZTgxN2JjMTdjYzMiLCJpc29ZZWFyIjoyMDI2LCJpc29XZWVrIjoyfQ==",
-      "start_time": "2026-01-05T12:00:00Z",
-      "end_time": "2026-01-05T18:00:00Z",
-      "title": "Culture & plaisir sur le Maitre des Fleurs",
-      "canceled_until": null,
-      "category": {
-        "id": "338715930",
-        "name": "Maitre des Fleurs"
-      },
-      "is_recurring": true
-    },
-    {
-      "id": "eyJzZWdtZW50SUQiOiIzN2ZhOWU2NC02NjA4LTRmZjgtOTEwOC1kZTgxN2JjMTdjYzMiLCJpc29ZZWFyIjoyMDI2LCJpc29XZWVrIjozfQ==",
-      "start_time": "2026-01-12T12:00:00Z",
-      "end_time": "2026-01-12T18:00:00Z",
+      "start_time": "2025-09-29T09:00:00Z",
+      "end_time": "2025-09-29T15:00:00Z",
       "title": "Culture & plaisir sur le Maitre des Fleurs",
       "canceled_until": null,
       "category": {
