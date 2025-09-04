@@ -13,16 +13,40 @@
   },
   "schedulers": [
     {
-      "id": "eyJzZWdtZW50SUQiOiI5ODkyMzQwZi03MWI3LTQyNTYtYWU3OS1iMzljZTE3YzJkZGQiLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjozNn0=",
-      "start_time": "2025-09-03T16:00:00Z",
-      "end_time": "2025-09-03T18:00:00Z",
-      "title": " Debrief' de l'actualité jeu vidéo de la semaine avec vous ☕",
+      "id": "eyJzZWdtZW50SUQiOiI1ODE0ZDI4NC1mODhjLTRkNjUtODg0OC0wZTViZDQ0YzUxMDYiLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjozNn0=",
+      "start_time": "2025-09-05T16:00:00Z",
+      "end_time": "2025-09-05T22:00:00Z",
+      "title": "Zevent Jour 1",
       "canceled_until": null,
       "category": {
-        "id": "509658",
-        "name": "Just Chatting"
+        "id": "305984745",
+        "name": "ZEVENT"
       },
-      "is_recurring": true
+      "is_recurring": false
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiIxNDI2MzY3Ny1jODlmLTRjN2MtOTAyMi1jZTZiODMyZGVlZjMiLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjozNn0=",
+      "start_time": "2025-09-06T08:00:00Z",
+      "end_time": "2025-09-06T21:00:00Z",
+      "title": "Zevent Jour 2",
+      "canceled_until": null,
+      "category": {
+        "id": "305984745",
+        "name": "ZEVENT"
+      },
+      "is_recurring": false
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiIyYTkyMDY1Yi1iMzZmLTRhNmItYmZiZS0yMzIwOWRhMDhjOGYiLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjozNn0=",
+      "start_time": "2025-09-07T08:00:00Z",
+      "end_time": "2025-09-07T22:00:00Z",
+      "title": "Zevent Jour 3",
+      "canceled_until": null,
+      "category": {
+        "id": "305984745",
+        "name": "ZEVENT"
+      },
+      "is_recurring": false
     },
     {
       "id": "eyJzZWdtZW50SUQiOiI5ODkyMzQwZi03MWI3LTQyNTYtYWU3OS1iMzljZTE3YzJkZGQiLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjozN30=",
@@ -220,30 +244,6 @@
       "id": "eyJzZWdtZW50SUQiOiI5ODkyMzQwZi03MWI3LTQyNTYtYWU3OS1iMzljZTE3YzJkZGQiLCJpc29ZZWFyIjoyMDI2LCJpc29XZWVrIjoxfQ==",
       "start_time": "2025-12-31T17:00:00Z",
       "end_time": "2025-12-31T19:00:00Z",
-      "title": " Debrief' de l'actualité jeu vidéo de la semaine avec vous ☕",
-      "canceled_until": null,
-      "category": {
-        "id": "509658",
-        "name": "Just Chatting"
-      },
-      "is_recurring": true
-    },
-    {
-      "id": "eyJzZWdtZW50SUQiOiI5ODkyMzQwZi03MWI3LTQyNTYtYWU3OS1iMzljZTE3YzJkZGQiLCJpc29ZZWFyIjoyMDI2LCJpc29XZWVrIjoyfQ==",
-      "start_time": "2026-01-07T17:00:00Z",
-      "end_time": "2026-01-07T19:00:00Z",
-      "title": " Debrief' de l'actualité jeu vidéo de la semaine avec vous ☕",
-      "canceled_until": null,
-      "category": {
-        "id": "509658",
-        "name": "Just Chatting"
-      },
-      "is_recurring": true
-    },
-    {
-      "id": "eyJzZWdtZW50SUQiOiI5ODkyMzQwZi03MWI3LTQyNTYtYWU3OS1iMzljZTE3YzJkZGQiLCJpc29ZZWFyIjoyMDI2LCJpc29XZWVrIjozfQ==",
-      "start_time": "2026-01-14T17:00:00Z",
-      "end_time": "2026-01-14T19:00:00Z",
       "title": " Debrief' de l'actualité jeu vidéo de la semaine avec vous ☕",
       "canceled_until": null,
       "category": {

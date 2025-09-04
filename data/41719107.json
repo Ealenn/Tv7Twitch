@@ -13,18 +13,6 @@
   },
   "schedulers": [
     {
-      "id": "eyJzZWdtZW50SUQiOiJmODgzMWRlNC03OWE3LTQ0Y2QtYjBiMS1iNWYzNzE0ZmM2MTYiLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjozNn0=",
-      "start_time": "2025-09-03T17:30:00Z",
-      "end_time": "2025-09-03T20:30:00Z",
-      "title": "DEUXIÈME MATCH EMEA Mandatory VALORANT",
-      "canceled_until": null,
-      "category": {
-        "id": "516575",
-        "name": "VALORANT"
-      },
-      "is_recurring": false
-    },
-    {
       "id": "eyJzZWdtZW50SUQiOiIyODM0ODViMS04NDdmLTQ1YTYtYjJkNi0yNTUxYzZhY2YzNmQiLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjozNn0=",
       "start_time": "2025-09-04T17:00:00Z",
       "end_time": "2025-09-04T22:00:00Z",
