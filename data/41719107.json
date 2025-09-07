@@ -13,18 +13,6 @@
   },
   "schedulers": [
     {
-      "id": "eyJzZWdtZW50SUQiOiJhZTRhNjQyMS00YTNlLTQwNzMtODdhZC00YTEzMWFlZmQyMmEiLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjozNn0=",
-      "start_time": "2025-09-06T12:00:00Z",
-      "end_time": "2025-09-07T03:00:00Z",
-      "title": "ZEVENT 2025 JOUR 2, STREAM EN DIRECT",
-      "canceled_until": null,
-      "category": {
-        "id": "305984745",
-        "name": "ZEVENT"
-      },
-      "is_recurring": false
-    },
-    {
       "id": "eyJzZWdtZW50SUQiOiJlOTRkMGM0Yi00ZWVlLTQxNTctOTEzYS05YWFlYmFiY2Q1ZjMiLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjozNn0=",
       "start_time": "2025-09-07T11:00:00Z",
       "end_time": "2025-09-07T22:00:00Z",
