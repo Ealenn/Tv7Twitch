@@ -7,27 +7,39 @@
     "broadcaster_type": "partner",
     "description": "Nous sommes de très jolies fleurs dans un même bouquet.",
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/d4737061-8f00-49d9-a56f-fcb4a9230b3f-profile_image-300x300.png",
-    "offline_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/b02896e4-7303-4e6d-8a01-591970fc7cdf-channel_offline_image-1920x1080.jpeg",
+    "offline_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/0278e6e7-edff-4e6f-a64e-e80e29075f86-channel_offline_image-1920x1080.png",
     "view_count": 0,
     "created_at": "2013-10-24T19:04:45Z"
   },
   "schedulers": [
     {
-      "id": "eyJzZWdtZW50SUQiOiIzN2ZhOWU2NC02NjA4LTRmZjgtOTEwOC1kZTgxN2JjMTdjYzMiLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjozN30=",
-      "start_time": "2025-09-08T09:00:00Z",
-      "end_time": "2025-09-08T15:00:00Z",
-      "title": "Culture & plaisir sur le Maitre des Fleurs",
+      "id": "eyJzZWdtZW50SUQiOiJmZjIzYWUxNi1mMzJhLTRlYTktOGMxNy0yOWY1M2RkNDI2NjUiLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjozN30=",
+      "start_time": "2025-09-09T10:00:00Z",
+      "end_time": "2025-09-09T16:00:00Z",
+      "title": "Débrief ZEVENT",
       "canceled_until": null,
       "category": {
-        "id": "338715930",
-        "name": "Maitre des Fleurs"
+        "id": "509658",
+        "name": "Just Chatting"
       },
       "is_recurring": true
     },
     {
-      "id": "eyJzZWdtZW50SUQiOiJmZjIzYWUxNi1mMzJhLTRlYTktOGMxNy0yOWY1M2RkNDI2NjUiLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjozN30=",
-      "start_time": "2025-09-09T09:00:00Z",
-      "end_time": "2025-09-09T13:00:00Z",
+      "id": "eyJzZWdtZW50SUQiOiIyY2I0MGVlMC0yZWYwLTQ4OWEtOTRjYy1mYzk3NDJjYjAxMjEiLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjozN30=",
+      "start_time": "2025-09-10T09:00:00Z",
+      "end_time": "2025-09-10T16:00:00Z",
+      "title": "",
+      "canceled_until": null,
+      "category": {
+        "id": "103828",
+        "name": "Pokémon X/Y"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiJhYmY1MWQ3ZC0wNGM5LTQyNDYtODFiYi1kYzdhY2I3YzUyNGQiLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjozN30=",
+      "start_time": "2025-09-11T09:00:00Z",
+      "end_time": "2025-09-11T13:00:00Z",
       "title": "",
       "canceled_until": null,
       "category": {
@@ -37,28 +49,40 @@
       "is_recurring": true
     },
     {
-      "id": "eyJzZWdtZW50SUQiOiJiM2IwYWQ4My1kYjAwLTRmZTEtODIzMS0zY2Q2NTUxYThlMGIiLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjozN30=",
-      "start_time": "2025-09-09T13:00:00Z",
-      "end_time": "2025-09-09T17:00:00Z",
-      "title": "",
-      "canceled_until": null,
-      "category": {
-        "id": "957620847",
-        "name": "METAL GEAR SOLID Δ: SNAKE EATER"
-      },
-      "is_recurring": true
-    },
-    {
-      "id": "eyJzZWdtZW50SUQiOiI2MzZlZWY4OS0wNzc2LTQ1ZDMtOTIzYy0yMGM1OGQ0OWY5N2IiLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjozN30=",
-      "start_time": "2025-09-10T09:00:00Z",
-      "end_time": "2025-09-10T16:00:00Z",
-      "title": "",
+      "id": "eyJzZWdtZW50SUQiOiI2N2U3NzhlNC0yMzUxLTQxMTEtYTljZS0yNTczNjE1ZjNiYTkiLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjozN30=",
+      "start_time": "2025-09-11T13:00:00Z",
+      "end_time": "2025-09-11T16:00:00Z",
+      "title": "Stream libre",
       "canceled_until": null,
       "category": {
         "id": "509658",
         "name": "Just Chatting"
       },
       "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiI5OTkxMzI4Yi1kNWQ5LTQ5YjQtODY2ZC04MTdjOGMwNGE2NDciLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjozN30=",
+      "start_time": "2025-09-12T09:00:00Z",
+      "end_time": "2025-09-12T16:00:00Z",
+      "title": "",
+      "canceled_until": null,
+      "category": {
+        "id": "103828",
+        "name": "Pokémon X/Y"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiIxY2VjODZjNS04MGRiLTRkYzYtODcyMS1jZTU3YzUwMGFmZjQiLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjozN30=",
+      "start_time": "2025-09-13T15:00:00Z",
+      "end_time": "2025-09-13T21:00:00Z",
+      "title": "STARCUP",
+      "canceled_until": null,
+      "category": {
+        "id": "1826300051",
+        "name": "Mario Kart World"
+      },
+      "is_recurring": false
     },
     {
       "id": "eyJzZWdtZW50SUQiOiIzN2ZhOWU2NC02NjA4LTRmZjgtOTEwOC1kZTgxN2JjMTdjYzMiLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjozOH0=",
@@ -74,8 +98,32 @@
     },
     {
       "id": "eyJzZWdtZW50SUQiOiJmZjIzYWUxNi1mMzJhLTRlYTktOGMxNy0yOWY1M2RkNDI2NjUiLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjozOH0=",
-      "start_time": "2025-09-16T09:00:00Z",
-      "end_time": "2025-09-16T13:00:00Z",
+      "start_time": "2025-09-16T10:00:00Z",
+      "end_time": "2025-09-16T16:00:00Z",
+      "title": "Débrief ZEVENT",
+      "canceled_until": null,
+      "category": {
+        "id": "509658",
+        "name": "Just Chatting"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiIyY2I0MGVlMC0yZWYwLTQ4OWEtOTRjYy1mYzk3NDJjYjAxMjEiLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjozOH0=",
+      "start_time": "2025-09-17T09:00:00Z",
+      "end_time": "2025-09-17T16:00:00Z",
+      "title": "",
+      "canceled_until": null,
+      "category": {
+        "id": "103828",
+        "name": "Pokémon X/Y"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiJhYmY1MWQ3ZC0wNGM5LTQyNDYtODFiYi1kYzdhY2I3YzUyNGQiLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjozOH0=",
+      "start_time": "2025-09-18T09:00:00Z",
+      "end_time": "2025-09-18T13:00:00Z",
       "title": "",
       "canceled_until": null,
       "category": {
@@ -85,26 +133,26 @@
       "is_recurring": true
     },
     {
-      "id": "eyJzZWdtZW50SUQiOiJiM2IwYWQ4My1kYjAwLTRmZTEtODIzMS0zY2Q2NTUxYThlMGIiLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjozOH0=",
-      "start_time": "2025-09-16T13:00:00Z",
-      "end_time": "2025-09-16T17:00:00Z",
-      "title": "",
-      "canceled_until": null,
-      "category": {
-        "id": "957620847",
-        "name": "METAL GEAR SOLID Δ: SNAKE EATER"
-      },
-      "is_recurring": true
-    },
-    {
-      "id": "eyJzZWdtZW50SUQiOiI2MzZlZWY4OS0wNzc2LTQ1ZDMtOTIzYy0yMGM1OGQ0OWY5N2IiLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjozOH0=",
-      "start_time": "2025-09-17T09:00:00Z",
-      "end_time": "2025-09-17T16:00:00Z",
-      "title": "",
+      "id": "eyJzZWdtZW50SUQiOiI2N2U3NzhlNC0yMzUxLTQxMTEtYTljZS0yNTczNjE1ZjNiYTkiLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjozOH0=",
+      "start_time": "2025-09-18T13:00:00Z",
+      "end_time": "2025-09-18T16:00:00Z",
+      "title": "Stream libre",
       "canceled_until": null,
       "category": {
         "id": "509658",
         "name": "Just Chatting"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiI5OTkxMzI4Yi1kNWQ5LTQ5YjQtODY2ZC04MTdjOGMwNGE2NDciLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjozOH0=",
+      "start_time": "2025-09-19T09:00:00Z",
+      "end_time": "2025-09-19T16:00:00Z",
+      "title": "",
+      "canceled_until": null,
+      "category": {
+        "id": "103828",
+        "name": "Pokémon X/Y"
       },
       "is_recurring": true
     },
@@ -122,8 +170,32 @@
     },
     {
       "id": "eyJzZWdtZW50SUQiOiJmZjIzYWUxNi1mMzJhLTRlYTktOGMxNy0yOWY1M2RkNDI2NjUiLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjozOX0=",
-      "start_time": "2025-09-23T09:00:00Z",
-      "end_time": "2025-09-23T13:00:00Z",
+      "start_time": "2025-09-23T10:00:00Z",
+      "end_time": "2025-09-23T16:00:00Z",
+      "title": "Débrief ZEVENT",
+      "canceled_until": null,
+      "category": {
+        "id": "509658",
+        "name": "Just Chatting"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiIyY2I0MGVlMC0yZWYwLTQ4OWEtOTRjYy1mYzk3NDJjYjAxMjEiLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjozOX0=",
+      "start_time": "2025-09-24T09:00:00Z",
+      "end_time": "2025-09-24T16:00:00Z",
+      "title": "",
+      "canceled_until": null,
+      "category": {
+        "id": "103828",
+        "name": "Pokémon X/Y"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiJhYmY1MWQ3ZC0wNGM5LTQyNDYtODFiYi1kYzdhY2I3YzUyNGQiLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjozOX0=",
+      "start_time": "2025-09-25T09:00:00Z",
+      "end_time": "2025-09-25T13:00:00Z",
       "title": "",
       "canceled_until": null,
       "category": {
@@ -133,26 +205,26 @@
       "is_recurring": true
     },
     {
-      "id": "eyJzZWdtZW50SUQiOiJiM2IwYWQ4My1kYjAwLTRmZTEtODIzMS0zY2Q2NTUxYThlMGIiLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjozOX0=",
-      "start_time": "2025-09-23T13:00:00Z",
-      "end_time": "2025-09-23T17:00:00Z",
-      "title": "",
-      "canceled_until": null,
-      "category": {
-        "id": "957620847",
-        "name": "METAL GEAR SOLID Δ: SNAKE EATER"
-      },
-      "is_recurring": true
-    },
-    {
-      "id": "eyJzZWdtZW50SUQiOiI2MzZlZWY4OS0wNzc2LTQ1ZDMtOTIzYy0yMGM1OGQ0OWY5N2IiLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjozOX0=",
-      "start_time": "2025-09-24T09:00:00Z",
-      "end_time": "2025-09-24T16:00:00Z",
-      "title": "",
+      "id": "eyJzZWdtZW50SUQiOiI2N2U3NzhlNC0yMzUxLTQxMTEtYTljZS0yNTczNjE1ZjNiYTkiLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjozOX0=",
+      "start_time": "2025-09-25T13:00:00Z",
+      "end_time": "2025-09-25T16:00:00Z",
+      "title": "Stream libre",
       "canceled_until": null,
       "category": {
         "id": "509658",
         "name": "Just Chatting"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiI5OTkxMzI4Yi1kNWQ5LTQ5YjQtODY2ZC04MTdjOGMwNGE2NDciLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjozOX0=",
+      "start_time": "2025-09-26T09:00:00Z",
+      "end_time": "2025-09-26T16:00:00Z",
+      "title": "",
+      "canceled_until": null,
+      "category": {
+        "id": "103828",
+        "name": "Pokémon X/Y"
       },
       "is_recurring": true
     },
@@ -170,81 +242,9 @@
     },
     {
       "id": "eyJzZWdtZW50SUQiOiJmZjIzYWUxNi1mMzJhLTRlYTktOGMxNy0yOWY1M2RkNDI2NjUiLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjo0MH0=",
-      "start_time": "2025-09-30T09:00:00Z",
-      "end_time": "2025-09-30T13:00:00Z",
-      "title": "",
-      "canceled_until": null,
-      "category": {
-        "id": "1494074023",
-        "name": "Lycans"
-      },
-      "is_recurring": true
-    },
-    {
-      "id": "eyJzZWdtZW50SUQiOiJiM2IwYWQ4My1kYjAwLTRmZTEtODIzMS0zY2Q2NTUxYThlMGIiLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjo0MH0=",
-      "start_time": "2025-09-30T13:00:00Z",
-      "end_time": "2025-09-30T17:00:00Z",
-      "title": "",
-      "canceled_until": null,
-      "category": {
-        "id": "957620847",
-        "name": "METAL GEAR SOLID Δ: SNAKE EATER"
-      },
-      "is_recurring": true
-    },
-    {
-      "id": "eyJzZWdtZW50SUQiOiI2MzZlZWY4OS0wNzc2LTQ1ZDMtOTIzYy0yMGM1OGQ0OWY5N2IiLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjo0MH0=",
-      "start_time": "2025-10-01T09:00:00Z",
-      "end_time": "2025-10-01T16:00:00Z",
-      "title": "",
-      "canceled_until": null,
-      "category": {
-        "id": "509658",
-        "name": "Just Chatting"
-      },
-      "is_recurring": true
-    },
-    {
-      "id": "eyJzZWdtZW50SUQiOiIzN2ZhOWU2NC02NjA4LTRmZjgtOTEwOC1kZTgxN2JjMTdjYzMiLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjo0MX0=",
-      "start_time": "2025-10-06T09:00:00Z",
-      "end_time": "2025-10-06T15:00:00Z",
-      "title": "Culture & plaisir sur le Maitre des Fleurs",
-      "canceled_until": null,
-      "category": {
-        "id": "338715930",
-        "name": "Maitre des Fleurs"
-      },
-      "is_recurring": true
-    },
-    {
-      "id": "eyJzZWdtZW50SUQiOiJmZjIzYWUxNi1mMzJhLTRlYTktOGMxNy0yOWY1M2RkNDI2NjUiLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjo0MX0=",
-      "start_time": "2025-10-07T09:00:00Z",
-      "end_time": "2025-10-07T13:00:00Z",
-      "title": "",
-      "canceled_until": null,
-      "category": {
-        "id": "1494074023",
-        "name": "Lycans"
-      },
-      "is_recurring": true
-    },
-    {
-      "id": "eyJzZWdtZW50SUQiOiJiM2IwYWQ4My1kYjAwLTRmZTEtODIzMS0zY2Q2NTUxYThlMGIiLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjo0MX0=",
-      "start_time": "2025-10-07T13:00:00Z",
-      "end_time": "2025-10-07T17:00:00Z",
-      "title": "",
-      "canceled_until": null,
-      "category": {
-        "id": "957620847",
-        "name": "METAL GEAR SOLID Δ: SNAKE EATER"
-      },
-      "is_recurring": true
-    },
-    {
-      "id": "eyJzZWdtZW50SUQiOiI2MzZlZWY4OS0wNzc2LTQ1ZDMtOTIzYy0yMGM1OGQ0OWY5N2IiLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjo0MX0=",
-      "start_time": "2025-10-08T09:00:00Z",
-      "end_time": "2025-10-08T16:00:00Z",
-      "title": "",
+      "start_time": "2025-09-30T10:00:00Z",
+      "end_time": "2025-09-30T16:00:00Z",
+      "title": "Débrief ZEVENT",
       "canceled_until": null,
       "category": {
         "id": "509658",
