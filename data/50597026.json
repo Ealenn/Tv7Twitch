@@ -13,18 +13,6 @@
   },
   "schedulers": [
     {
-      "id": "eyJzZWdtZW50SUQiOiI5OTkxMzI4Yi1kNWQ5LTQ5YjQtODY2ZC04MTdjOGMwNGE2NDciLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjozN30=",
-      "start_time": "2025-09-12T09:00:00Z",
-      "end_time": "2025-09-12T16:00:00Z",
-      "title": "",
-      "canceled_until": null,
-      "category": {
-        "id": "103828",
-        "name": "Pokémon X/Y"
-      },
-      "is_recurring": true
-    },
-    {
       "id": "eyJzZWdtZW50SUQiOiIxY2VjODZjNS04MGRiLTRkYzYtODcyMS1jZTU3YzUwMGFmZjQiLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjozN30=",
       "start_time": "2025-09-13T15:00:00Z",
       "end_time": "2025-09-13T21:00:00Z",
@@ -249,6 +237,18 @@
       "category": {
         "id": "103828",
         "name": "Pokémon X/Y"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiIzN2ZhOWU2NC02NjA4LTRmZjgtOTEwOC1kZTgxN2JjMTdjYzMiLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjo0MX0=",
+      "start_time": "2025-10-06T09:00:00Z",
+      "end_time": "2025-10-06T15:00:00Z",
+      "title": "Culture & plaisir sur le Maitre des Fleurs",
+      "canceled_until": null,
+      "category": {
+        "id": "338715930",
+        "name": "Maitre des Fleurs"
       },
       "is_recurring": true
     }
