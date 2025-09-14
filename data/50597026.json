@@ -13,18 +13,6 @@
   },
   "schedulers": [
     {
-      "id": "eyJzZWdtZW50SUQiOiIxY2VjODZjNS04MGRiLTRkYzYtODcyMS1jZTU3YzUwMGFmZjQiLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjozN30=",
-      "start_time": "2025-09-13T15:00:00Z",
-      "end_time": "2025-09-13T21:00:00Z",
-      "title": "STARCUP",
-      "canceled_until": null,
-      "category": {
-        "id": "1826300051",
-        "name": "Mario Kart World"
-      },
-      "is_recurring": false
-    },
-    {
       "id": "eyJzZWdtZW50SUQiOiIzN2ZhOWU2NC02NjA4LTRmZjgtOTEwOC1kZTgxN2JjMTdjYzMiLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjozOH0=",
       "start_time": "2025-09-15T09:00:00Z",
       "end_time": "2025-09-15T15:00:00Z",
@@ -249,6 +237,18 @@
       "category": {
         "id": "338715930",
         "name": "Maitre des Fleurs"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiJmZjIzYWUxNi1mMzJhLTRlYTktOGMxNy0yOWY1M2RkNDI2NjUiLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjo0MX0=",
+      "start_time": "2025-10-07T10:00:00Z",
+      "end_time": "2025-10-07T16:00:00Z",
+      "title": "Débrief ZEVENT",
+      "canceled_until": null,
+      "category": {
+        "id": "509658",
+        "name": "Just Chatting"
       },
       "is_recurring": true
     }
