@@ -13,21 +13,9 @@
   },
   "schedulers": [
     {
-      "id": "eyJzZWdtZW50SUQiOiIzN2ZhOWU2NC02NjA4LTRmZjgtOTEwOC1kZTgxN2JjMTdjYzMiLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjozOH0=",
-      "start_time": "2025-09-15T10:00:00Z",
-      "end_time": "2025-09-15T16:00:00Z",
-      "title": "Culture & plaisir sur le Maitre des Fleurs",
-      "canceled_until": null,
-      "category": {
-        "id": "338715930",
-        "name": "Maitre des Fleurs"
-      },
-      "is_recurring": true
-    },
-    {
       "id": "eyJzZWdtZW50SUQiOiJmZjIzYWUxNi1mMzJhLTRlYTktOGMxNy0yOWY1M2RkNDI2NjUiLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjozOH0=",
       "start_time": "2025-09-16T09:00:00Z",
-      "end_time": "2025-09-16T16:00:00Z",
+      "end_time": "2025-09-16T15:00:00Z",
       "title": "",
       "canceled_until": null,
       "category": {
@@ -99,7 +87,7 @@
     {
       "id": "eyJzZWdtZW50SUQiOiJmZjIzYWUxNi1mMzJhLTRlYTktOGMxNy0yOWY1M2RkNDI2NjUiLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjozOX0=",
       "start_time": "2025-09-23T09:00:00Z",
-      "end_time": "2025-09-23T16:00:00Z",
+      "end_time": "2025-09-23T15:00:00Z",
       "title": "",
       "canceled_until": null,
       "category": {
@@ -171,7 +159,7 @@
     {
       "id": "eyJzZWdtZW50SUQiOiJmZjIzYWUxNi1mMzJhLTRlYTktOGMxNy0yOWY1M2RkNDI2NjUiLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjo0MH0=",
       "start_time": "2025-09-30T09:00:00Z",
-      "end_time": "2025-09-30T16:00:00Z",
+      "end_time": "2025-09-30T15:00:00Z",
       "title": "",
       "canceled_until": null,
       "category": {
@@ -243,12 +231,24 @@
     {
       "id": "eyJzZWdtZW50SUQiOiJmZjIzYWUxNi1mMzJhLTRlYTktOGMxNy0yOWY1M2RkNDI2NjUiLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjo0MX0=",
       "start_time": "2025-10-07T09:00:00Z",
-      "end_time": "2025-10-07T16:00:00Z",
+      "end_time": "2025-10-07T15:00:00Z",
       "title": "",
       "canceled_until": null,
       "category": {
         "id": "1494074023",
         "name": "Lycans"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiI0YzUzMmQ0OC04ZWM3LTRkZGQtOTcwMy1jZWI0MDI5MmRmYzAiLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjo0MX0=",
+      "start_time": "2025-10-07T18:00:00Z",
+      "end_time": "2025-10-07T22:00:00Z",
+      "title": "WoW Hardcore - raid à 20 avec <CowLab> Zul’Gurub et Ahn’Qiraj",
+      "canceled_until": null,
+      "category": {
+        "id": "18122",
+        "name": "World of Warcraft"
       },
       "is_recurring": true
     }

@@ -7,22 +7,118 @@
     "broadcaster_type": "partner",
     "description": "Président du FC Silmi",
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/3cdae7df-600c-4833-8dfe-8d2abc5a3b25-profile_image-300x300.png",
-    "offline_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/20ef2ef8-6441-4495-a31a-62ac4ed4d9d6-channel_offline_image-1920x1080.png",
+    "offline_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/79e19117-fa6c-4057-a64e-7a4df0c05c69-channel_offline_image-1920x1080.png",
     "view_count": 0,
     "created_at": "2013-02-05T19:20:22Z"
   },
   "schedulers": [
     {
-      "id": "eyJzZWdtZW50SUQiOiI2ZmU0NTcxYS1hMDk1LTQwNDEtYTk4MS0zNDlhOWFiYjBhMzkiLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjozOH0=",
-      "start_time": "2025-09-15T17:30:00Z",
-      "end_time": "2025-09-15T18:30:00Z",
+      "id": "eyJzZWdtZW50SUQiOiI1NzIyZjBiMS0zY2I0LTQ4ZDUtOTYxOS0zMjdhMjk5NTMwMWYiLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjozOH0=",
+      "start_time": "2025-09-16T12:00:00Z",
+      "end_time": "2025-09-16T13:00:00Z",
       "title": "🎙 PRÉ LIVE",
       "canceled_until": null,
       "category": {
         "id": "509658",
         "name": "Just Chatting"
       },
-      "is_recurring": true
+      "is_recurring": false
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiIyYzlkZmYyMi1mMGUxLTRiYmMtYTMxOS1iOWE4MTVkMzRjMTkiLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjozOH0=",
+      "start_time": "2025-09-16T13:00:00Z",
+      "end_time": "2025-09-16T17:00:00Z",
+      "title": "👮‍♂️ ON DÉCOUVRE PRISON ESCAPE SIMULATOR",
+      "canceled_until": null,
+      "category": {
+        "id": "137253189",
+        "name": "Prison Escape Simulator"
+      },
+      "is_recurring": false
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiIzN2M0NGNiZC1mZGI2LTRlZmItOGZjYy0wZWVkMzgwNDE5NTUiLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjozOH0=",
+      "start_time": "2025-09-17T12:00:00Z",
+      "end_time": "2025-09-17T13:00:00Z",
+      "title": "🎙 PRÉ LIVE",
+      "canceled_until": null,
+      "category": {
+        "id": "509658",
+        "name": "Just Chatting"
+      },
+      "is_recurring": false
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiJmYzQxZDk3Mi1jYzA5LTQzOTItOTdjOS1lYWIzNzU1YzVkYTgiLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjozOH0=",
+      "start_time": "2025-09-17T13:00:00Z",
+      "end_time": "2025-09-17T17:00:00Z",
+      "title": "🔫 WARZONE AVEC CHOWH1",
+      "canceled_until": null,
+      "category": {
+        "id": "512710",
+        "name": "Call of Duty: Warzone"
+      },
+      "is_recurring": false
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiJmMTczMjE2MS1kYTNlLTRjZjctODUyNi1iZGZmOGFkMTQ0ODEiLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjozOH0=",
+      "start_time": "2025-09-18T17:30:00Z",
+      "end_time": "2025-09-18T19:00:00Z",
+      "title": "🎙 PRÉ LIVE",
+      "canceled_until": null,
+      "category": {
+        "id": "509658",
+        "name": "Just Chatting"
+      },
+      "is_recurring": false
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiI4ZGI1ZDM2MS1iYjkxLTRlZmMtODBmMS1lNmE0ZGU4NmI4OGIiLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjozOH0=",
+      "start_time": "2025-09-18T19:00:00Z",
+      "end_time": "2025-09-18T22:00:00Z",
+      "title": "📺 REACT : LOVE IS BLIND",
+      "canceled_until": null,
+      "category": {
+        "id": "509658",
+        "name": "Just Chatting"
+      },
+      "is_recurring": false
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiJmOGM2ZDI5NS0wMzIxLTRjYWEtOTFiYi00OWZhZDhkOGNlYjIiLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjozOH0=",
+      "start_time": "2025-09-19T12:00:00Z",
+      "end_time": "2025-09-19T13:00:00Z",
+      "title": "🎙 PRÉ LIVE",
+      "canceled_until": null,
+      "category": {
+        "id": "509658",
+        "name": "Just Chatting"
+      },
+      "is_recurring": false
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiI2ZDQ0OTViMS0xNWZlLTQzY2UtOTJhYy1hZWQ1OTc3Yzc0Y2QiLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjozOH0=",
+      "start_time": "2025-09-19T13:00:00Z",
+      "end_time": "2025-09-19T15:00:00Z",
+      "title": "✨ ON RETOURNE SUR LA FAILLE",
+      "canceled_until": null,
+      "category": {
+        "id": "21779",
+        "name": "League of Legends"
+      },
+      "is_recurring": false
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiJlOGFlYTQyMC0xNDhmLTQ0NTYtYjczMC1kYzYxYjNmNDQxMDciLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjozOH0=",
+      "start_time": "2025-09-19T15:00:00Z",
+      "end_time": "2025-09-19T17:00:00Z",
+      "title": "🌍 GEOGUESSR",
+      "canceled_until": null,
+      "category": {
+        "id": "369418",
+        "name": "GeoGuessr"
+      },
+      "is_recurring": false
     },
     {
       "id": "eyJzZWdtZW50SUQiOiI2ZmU0NTcxYS1hMDk1LTQwNDEtYTk4MS0zNDlhOWFiYjBhMzkiLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjozOX0=",
@@ -148,102 +244,6 @@
       "id": "eyJzZWdtZW50SUQiOiI2ZmU0NTcxYS1hMDk1LTQwNDEtYTk4MS0zNDlhOWFiYjBhMzkiLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjo0OX0=",
       "start_time": "2025-12-01T18:30:00Z",
       "end_time": "2025-12-01T19:30:00Z",
-      "title": "🎙 PRÉ LIVE",
-      "canceled_until": null,
-      "category": {
-        "id": "509658",
-        "name": "Just Chatting"
-      },
-      "is_recurring": true
-    },
-    {
-      "id": "eyJzZWdtZW50SUQiOiI2ZmU0NTcxYS1hMDk1LTQwNDEtYTk4MS0zNDlhOWFiYjBhMzkiLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjo1MH0=",
-      "start_time": "2025-12-08T18:30:00Z",
-      "end_time": "2025-12-08T19:30:00Z",
-      "title": "🎙 PRÉ LIVE",
-      "canceled_until": null,
-      "category": {
-        "id": "509658",
-        "name": "Just Chatting"
-      },
-      "is_recurring": true
-    },
-    {
-      "id": "eyJzZWdtZW50SUQiOiI2ZmU0NTcxYS1hMDk1LTQwNDEtYTk4MS0zNDlhOWFiYjBhMzkiLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjo1MX0=",
-      "start_time": "2025-12-15T18:30:00Z",
-      "end_time": "2025-12-15T19:30:00Z",
-      "title": "🎙 PRÉ LIVE",
-      "canceled_until": null,
-      "category": {
-        "id": "509658",
-        "name": "Just Chatting"
-      },
-      "is_recurring": true
-    },
-    {
-      "id": "eyJzZWdtZW50SUQiOiI2ZmU0NTcxYS1hMDk1LTQwNDEtYTk4MS0zNDlhOWFiYjBhMzkiLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjo1Mn0=",
-      "start_time": "2025-12-22T18:30:00Z",
-      "end_time": "2025-12-22T19:30:00Z",
-      "title": "🎙 PRÉ LIVE",
-      "canceled_until": null,
-      "category": {
-        "id": "509658",
-        "name": "Just Chatting"
-      },
-      "is_recurring": true
-    },
-    {
-      "id": "eyJzZWdtZW50SUQiOiI2ZmU0NTcxYS1hMDk1LTQwNDEtYTk4MS0zNDlhOWFiYjBhMzkiLCJpc29ZZWFyIjoyMDI2LCJpc29XZWVrIjoxfQ==",
-      "start_time": "2025-12-29T18:30:00Z",
-      "end_time": "2025-12-29T19:30:00Z",
-      "title": "🎙 PRÉ LIVE",
-      "canceled_until": null,
-      "category": {
-        "id": "509658",
-        "name": "Just Chatting"
-      },
-      "is_recurring": true
-    },
-    {
-      "id": "eyJzZWdtZW50SUQiOiI2ZmU0NTcxYS1hMDk1LTQwNDEtYTk4MS0zNDlhOWFiYjBhMzkiLCJpc29ZZWFyIjoyMDI2LCJpc29XZWVrIjoyfQ==",
-      "start_time": "2026-01-05T18:30:00Z",
-      "end_time": "2026-01-05T19:30:00Z",
-      "title": "🎙 PRÉ LIVE",
-      "canceled_until": null,
-      "category": {
-        "id": "509658",
-        "name": "Just Chatting"
-      },
-      "is_recurring": true
-    },
-    {
-      "id": "eyJzZWdtZW50SUQiOiI2ZmU0NTcxYS1hMDk1LTQwNDEtYTk4MS0zNDlhOWFiYjBhMzkiLCJpc29ZZWFyIjoyMDI2LCJpc29XZWVrIjozfQ==",
-      "start_time": "2026-01-12T18:30:00Z",
-      "end_time": "2026-01-12T19:30:00Z",
-      "title": "🎙 PRÉ LIVE",
-      "canceled_until": null,
-      "category": {
-        "id": "509658",
-        "name": "Just Chatting"
-      },
-      "is_recurring": true
-    },
-    {
-      "id": "eyJzZWdtZW50SUQiOiI2ZmU0NTcxYS1hMDk1LTQwNDEtYTk4MS0zNDlhOWFiYjBhMzkiLCJpc29ZZWFyIjoyMDI2LCJpc29XZWVrIjo0fQ==",
-      "start_time": "2026-01-19T18:30:00Z",
-      "end_time": "2026-01-19T19:30:00Z",
-      "title": "🎙 PRÉ LIVE",
-      "canceled_until": null,
-      "category": {
-        "id": "509658",
-        "name": "Just Chatting"
-      },
-      "is_recurring": true
-    },
-    {
-      "id": "eyJzZWdtZW50SUQiOiI2ZmU0NTcxYS1hMDk1LTQwNDEtYTk4MS0zNDlhOWFiYjBhMzkiLCJpc29ZZWFyIjoyMDI2LCJpc29XZWVrIjo1fQ==",
-      "start_time": "2026-01-26T18:30:00Z",
-      "end_time": "2026-01-26T19:30:00Z",
       "title": "🎙 PRÉ LIVE",
       "canceled_until": null,
       "category": {
