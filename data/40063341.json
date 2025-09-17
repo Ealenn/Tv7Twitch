@@ -13,30 +13,6 @@
   },
   "schedulers": [
     {
-      "id": "eyJzZWdtZW50SUQiOiI1NzIyZjBiMS0zY2I0LTQ4ZDUtOTYxOS0zMjdhMjk5NTMwMWYiLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjozOH0=",
-      "start_time": "2025-09-16T12:00:00Z",
-      "end_time": "2025-09-16T13:00:00Z",
-      "title": "🎙 PRÉ LIVE",
-      "canceled_until": null,
-      "category": {
-        "id": "509658",
-        "name": "Just Chatting"
-      },
-      "is_recurring": false
-    },
-    {
-      "id": "eyJzZWdtZW50SUQiOiIyYzlkZmYyMi1mMGUxLTRiYmMtYTMxOS1iOWE4MTVkMzRjMTkiLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjozOH0=",
-      "start_time": "2025-09-16T13:00:00Z",
-      "end_time": "2025-09-16T17:00:00Z",
-      "title": "👮‍♂️ ON DÉCOUVRE PRISON ESCAPE SIMULATOR",
-      "canceled_until": null,
-      "category": {
-        "id": "137253189",
-        "name": "Prison Escape Simulator"
-      },
-      "is_recurring": false
-    },
-    {
       "id": "eyJzZWdtZW50SUQiOiIzN2M0NGNiZC1mZGI2LTRlZmItOGZjYy0wZWVkMzgwNDE5NTUiLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjozOH0=",
       "start_time": "2025-09-17T12:00:00Z",
       "end_time": "2025-09-17T13:00:00Z",
@@ -244,6 +220,30 @@
       "id": "eyJzZWdtZW50SUQiOiI2ZmU0NTcxYS1hMDk1LTQwNDEtYTk4MS0zNDlhOWFiYjBhMzkiLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjo0OX0=",
       "start_time": "2025-12-01T18:30:00Z",
       "end_time": "2025-12-01T19:30:00Z",
+      "title": "🎙 PRÉ LIVE",
+      "canceled_until": null,
+      "category": {
+        "id": "509658",
+        "name": "Just Chatting"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiI2ZmU0NTcxYS1hMDk1LTQwNDEtYTk4MS0zNDlhOWFiYjBhMzkiLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjo1MH0=",
+      "start_time": "2025-12-08T18:30:00Z",
+      "end_time": "2025-12-08T19:30:00Z",
+      "title": "🎙 PRÉ LIVE",
+      "canceled_until": null,
+      "category": {
+        "id": "509658",
+        "name": "Just Chatting"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiI2ZmU0NTcxYS1hMDk1LTQwNDEtYTk4MS0zNDlhOWFiYjBhMzkiLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjo1MX0=",
+      "start_time": "2025-12-15T18:30:00Z",
+      "end_time": "2025-12-15T19:30:00Z",
       "title": "🎙 PRÉ LIVE",
       "canceled_until": null,
       "category": {

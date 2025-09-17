@@ -11,5 +11,102 @@
     "view_count": 0,
     "created_at": "2013-03-25T23:44:28Z"
   },
-  "schedulers": []
+  "schedulers": [
+    {
+      "id": "eyJzZWdtZW50SUQiOiIyYjAwYzFhYy1mNDVkLTQzNTYtYmIzYy1hMGE5ODIyNWIyYjgiLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjozOH0=",
+      "start_time": "2025-09-17T17:00:00Z",
+      "end_time": "2025-09-17T20:00:00Z",
+      "title": "[Sur la chaine artefr] Live en direct",
+      "canceled_until": null,
+      "category": {
+        "id": "509658",
+        "name": "Just Chatting"
+      },
+      "is_recurring": false
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiJjYzgyYzY4ZC0yNjA0LTRmZTQtYjFiNy0zODQ1M2NmMDViNDciLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjozOH0=",
+      "start_time": "2025-09-18T16:00:00Z",
+      "end_time": "2025-09-18T18:00:00Z",
+      "title": "Découverte de Dying Light: The Beast (Publicité)",
+      "canceled_until": null,
+      "category": {
+        "id": "1749963163",
+        "name": "Dying Light: The Beast"
+      },
+      "is_recurring": false
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiI5Mjg2NWI1Yi0wN2NhLTQ1MWMtOTFkZi00NDUyYjA2MTVjYmIiLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjozOH0=",
+      "start_time": "2025-09-20T18:00:00Z",
+      "end_time": "2025-09-20T20:00:00Z",
+      "title": "Découverte de Arkheron (Publicité)",
+      "canceled_until": null,
+      "category": {
+        "id": "509658",
+        "name": "Just Chatting"
+      },
+      "is_recurring": false
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiJkOTQ5MDY2ZC1hZWNiLTRmN2ItYWIyYy1hNDQ0ZjJjNjZlOGUiLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjozOH0=",
+      "start_time": "2025-09-21T16:00:00Z",
+      "end_time": "2025-09-21T20:00:00Z",
+      "title": "Watchparty et Cast PEC Pubg final (publicité)",
+      "canceled_until": null,
+      "category": {
+        "id": "493057",
+        "name": "PUBG: BATTLEGROUNDS"
+      },
+      "is_recurring": false
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiJjOGI3NDExNy00OTIyLTRhYzItYTQ2MC03OGVhMGY5ZjI3YjEiLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjozOX0=",
+      "start_time": "2025-09-25T16:00:00Z",
+      "end_time": "2025-09-25T22:00:00Z",
+      "title": "Découverte 1.0 HADES II JEU LÉGENDAIRE CA PART EN LÉGENDE",
+      "canceled_until": null,
+      "category": {
+        "id": "376500771",
+        "name": "Hades II"
+      },
+      "is_recurring": false
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiI2ZmQ2ZmYxZi0xODNjLTRkODUtODJkNi05MjY1NzcwYWQyNTUiLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjozOX0=",
+      "start_time": "2025-09-26T16:00:00Z",
+      "end_time": "2025-09-26T22:00:00Z",
+      "title": "JOUR 1 : Lan Multigaming avec Kenny et Etoiles (GamesCore)",
+      "canceled_until": null,
+      "category": {
+        "id": "12308397",
+        "name": "LAN Party"
+      },
+      "is_recurring": false
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiJjMDE0ZGRkMC1jOTMzLTRhNjAtOWE1My03Y2RhM2UyMWQ5MGQiLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjozOX0=",
+      "start_time": "2025-09-27T12:00:00Z",
+      "end_time": "2025-09-27T22:00:00Z",
+      "title": "JOUR 2 : Lan Multigaming avec Kenny et Etoiles (GamesCore)",
+      "canceled_until": null,
+      "category": {
+        "id": "12308397",
+        "name": "LAN Party"
+      },
+      "is_recurring": false
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiIzZDllYTFiYy05YWQ1LTQyYjUtOTE5MC1mOGVhNjg4NmNjYzAiLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjozOX0=",
+      "start_time": "2025-09-28T12:00:00Z",
+      "end_time": "2025-09-28T22:00:00Z",
+      "title": "JOUR 3 : Lan Multigaming avec Kenny et Etoiles (GamesCore)",
+      "canceled_until": null,
+      "category": {
+        "id": "12308397",
+        "name": "LAN Party"
+      },
+      "is_recurring": false
+    }
+  ]
 }
