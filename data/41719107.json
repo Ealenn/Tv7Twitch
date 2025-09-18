@@ -13,18 +13,6 @@
   },
   "schedulers": [
     {
-      "id": "eyJzZWdtZW50SUQiOiIyYjAwYzFhYy1mNDVkLTQzNTYtYmIzYy1hMGE5ODIyNWIyYjgiLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjozOH0=",
-      "start_time": "2025-09-17T17:00:00Z",
-      "end_time": "2025-09-17T20:00:00Z",
-      "title": "[Sur la chaine artefr] Live en direct",
-      "canceled_until": null,
-      "category": {
-        "id": "509658",
-        "name": "Just Chatting"
-      },
-      "is_recurring": false
-    },
-    {
       "id": "eyJzZWdtZW50SUQiOiJjYzgyYzY4ZC0yNjA0LTRmZTQtYjFiNy0zODQ1M2NmMDViNDciLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjozOH0=",
       "start_time": "2025-09-18T16:00:00Z",
       "end_time": "2025-09-18T18:00:00Z",
