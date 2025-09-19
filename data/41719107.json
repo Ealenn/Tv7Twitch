@@ -13,26 +13,14 @@
   },
   "schedulers": [
     {
-      "id": "eyJzZWdtZW50SUQiOiJjYzgyYzY4ZC0yNjA0LTRmZTQtYjFiNy0zODQ1M2NmMDViNDciLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjozOH0=",
-      "start_time": "2025-09-18T16:00:00Z",
-      "end_time": "2025-09-18T18:00:00Z",
-      "title": "Découverte de Dying Light: The Beast (Publicité)",
-      "canceled_until": null,
-      "category": {
-        "id": "1749963163",
-        "name": "Dying Light: The Beast"
-      },
-      "is_recurring": false
-    },
-    {
       "id": "eyJzZWdtZW50SUQiOiI5Mjg2NWI1Yi0wN2NhLTQ1MWMtOTFkZi00NDUyYjA2MTVjYmIiLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjozOH0=",
-      "start_time": "2025-09-20T18:00:00Z",
-      "end_time": "2025-09-20T20:00:00Z",
-      "title": "Découverte de Arkheron (Publicité)",
+      "start_time": "2025-09-20T14:00:00Z",
+      "end_time": "2025-09-20T18:00:00Z",
+      "title": "Découverte de Arkheron avec Etoiles et Antoine.D (Publicité)",
       "canceled_until": null,
       "category": {
-        "id": "509658",
-        "name": "Just Chatting"
+        "id": "1295872446",
+        "name": "Arkheron"
       },
       "is_recurring": false
     },
