@@ -14,7 +14,7 @@
   "schedulers": [
     {
       "id": "eyJzZWdtZW50SUQiOiIzN2ZhOWU2NC02NjA4LTRmZjgtOTEwOC1kZTgxN2JjMTdjYzMiLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjozOX0=",
-      "start_time": "2025-09-22T10:00:00Z",
+      "start_time": "2025-09-22T11:00:00Z",
       "end_time": "2025-09-22T16:00:00Z",
       "title": "Culture & plaisir sur le Maitre des Fleurs",
       "canceled_until": null,
@@ -27,7 +27,7 @@
     {
       "id": "eyJzZWdtZW50SUQiOiJmZjIzYWUxNi1mMzJhLTRlYTktOGMxNy0yOWY1M2RkNDI2NjUiLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjozOX0=",
       "start_time": "2025-09-23T09:00:00Z",
-      "end_time": "2025-09-23T15:00:00Z",
+      "end_time": "2025-09-23T16:00:00Z",
       "title": "",
       "canceled_until": null,
       "category": {
@@ -37,56 +37,44 @@
       "is_recurring": true
     },
     {
-      "id": "eyJzZWdtZW50SUQiOiI0YzUzMmQ0OC04ZWM3LTRkZGQtOTcwMy1jZWI0MDI5MmRmYzAiLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjozOX0=",
-      "start_time": "2025-09-23T18:00:00Z",
-      "end_time": "2025-09-23T22:00:00Z",
-      "title": "WoW Hardcore - raid à 20 avec <CowLab> Zul’Gurub et Ahn’Qiraj",
+      "id": "eyJzZWdtZW50SUQiOiI1MWJhNzU2YS1mMjlmLTQzMGYtOGRkNi02Njk3NjIwNDVhMDkiLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjozOX0=",
+      "start_time": "2025-09-27T16:00:00Z",
+      "end_time": "2025-09-27T18:00:00Z",
+      "title": "",
       "canceled_until": null,
       "category": {
-        "id": "18122",
-        "name": "World of Warcraft"
+        "id": "1135492840",
+        "name": "Sonic Racing: CrossWorlds"
       },
-      "is_recurring": true
+      "is_recurring": false
     },
     {
-      "id": "eyJzZWdtZW50SUQiOiIyY2I0MGVlMC0yZWYwLTQ4OWEtOTRjYy1mYzk3NDJjYjAxMjEiLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjozOX0=",
-      "start_time": "2025-09-24T09:00:00Z",
-      "end_time": "2025-09-24T16:00:00Z",
+      "id": "eyJzZWdtZW50SUQiOiJmZTdlOTkwNi1lNDlmLTQwYzgtYWUxMS1hNzYxNWExZDQzMzIiLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjozOX0=",
+      "start_time": "2025-09-27T18:00:00Z",
+      "end_time": "2025-09-27T22:00:00Z",
+      "title": "Twitch Rivals",
+      "canceled_until": null,
+      "category": {
+        "id": "1135492840",
+        "name": "Sonic Racing: CrossWorlds"
+      },
+      "is_recurring": false
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiIxZWJmYzdkZS1hMDQzLTQ1YWYtYjg0Ny0zYjgxYjRmYTcwODciLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjozOX0=",
+      "start_time": "2025-09-28T13:00:00Z",
+      "end_time": "2025-09-28T16:00:00Z",
       "title": "",
       "canceled_until": null,
       "category": {
         "id": "103828",
         "name": "Pokémon X/Y"
       },
-      "is_recurring": true
-    },
-    {
-      "id": "eyJzZWdtZW50SUQiOiJhYmY1MWQ3ZC0wNGM5LTQyNDYtODFiYi1kYzdhY2I3YzUyNGQiLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjozOX0=",
-      "start_time": "2025-09-25T11:00:00Z",
-      "end_time": "2025-09-25T16:00:00Z",
-      "title": "",
-      "canceled_until": null,
-      "category": {
-        "id": "508509",
-        "name": "Codenames"
-      },
-      "is_recurring": true
-    },
-    {
-      "id": "eyJzZWdtZW50SUQiOiI5OTkxMzI4Yi1kNWQ5LTQ5YjQtODY2ZC04MTdjOGMwNGE2NDciLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjozOX0=",
-      "start_time": "2025-09-26T09:00:00Z",
-      "end_time": "2025-09-26T16:00:00Z",
-      "title": "",
-      "canceled_until": null,
-      "category": {
-        "id": "103828",
-        "name": "Pokémon X/Y"
-      },
-      "is_recurring": true
+      "is_recurring": false
     },
     {
       "id": "eyJzZWdtZW50SUQiOiIzN2ZhOWU2NC02NjA4LTRmZjgtOTEwOC1kZTgxN2JjMTdjYzMiLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjo0MH0=",
-      "start_time": "2025-09-29T10:00:00Z",
+      "start_time": "2025-09-29T11:00:00Z",
       "end_time": "2025-09-29T16:00:00Z",
       "title": "Culture & plaisir sur le Maitre des Fleurs",
       "canceled_until": null,
@@ -99,7 +87,7 @@
     {
       "id": "eyJzZWdtZW50SUQiOiJmZjIzYWUxNi1mMzJhLTRlYTktOGMxNy0yOWY1M2RkNDI2NjUiLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjo0MH0=",
       "start_time": "2025-09-30T09:00:00Z",
-      "end_time": "2025-09-30T15:00:00Z",
+      "end_time": "2025-09-30T16:00:00Z",
       "title": "",
       "canceled_until": null,
       "category": {
@@ -109,56 +97,8 @@
       "is_recurring": true
     },
     {
-      "id": "eyJzZWdtZW50SUQiOiI0YzUzMmQ0OC04ZWM3LTRkZGQtOTcwMy1jZWI0MDI5MmRmYzAiLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjo0MH0=",
-      "start_time": "2025-09-30T18:00:00Z",
-      "end_time": "2025-09-30T22:00:00Z",
-      "title": "WoW Hardcore - raid à 20 avec <CowLab> Zul’Gurub et Ahn’Qiraj",
-      "canceled_until": null,
-      "category": {
-        "id": "18122",
-        "name": "World of Warcraft"
-      },
-      "is_recurring": true
-    },
-    {
-      "id": "eyJzZWdtZW50SUQiOiIyY2I0MGVlMC0yZWYwLTQ4OWEtOTRjYy1mYzk3NDJjYjAxMjEiLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjo0MH0=",
-      "start_time": "2025-10-01T09:00:00Z",
-      "end_time": "2025-10-01T16:00:00Z",
-      "title": "",
-      "canceled_until": null,
-      "category": {
-        "id": "103828",
-        "name": "Pokémon X/Y"
-      },
-      "is_recurring": true
-    },
-    {
-      "id": "eyJzZWdtZW50SUQiOiJhYmY1MWQ3ZC0wNGM5LTQyNDYtODFiYi1kYzdhY2I3YzUyNGQiLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjo0MH0=",
-      "start_time": "2025-10-02T11:00:00Z",
-      "end_time": "2025-10-02T16:00:00Z",
-      "title": "",
-      "canceled_until": null,
-      "category": {
-        "id": "508509",
-        "name": "Codenames"
-      },
-      "is_recurring": true
-    },
-    {
-      "id": "eyJzZWdtZW50SUQiOiI5OTkxMzI4Yi1kNWQ5LTQ5YjQtODY2ZC04MTdjOGMwNGE2NDciLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjo0MH0=",
-      "start_time": "2025-10-03T09:00:00Z",
-      "end_time": "2025-10-03T16:00:00Z",
-      "title": "",
-      "canceled_until": null,
-      "category": {
-        "id": "103828",
-        "name": "Pokémon X/Y"
-      },
-      "is_recurring": true
-    },
-    {
       "id": "eyJzZWdtZW50SUQiOiIzN2ZhOWU2NC02NjA4LTRmZjgtOTEwOC1kZTgxN2JjMTdjYzMiLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjo0MX0=",
-      "start_time": "2025-10-06T10:00:00Z",
+      "start_time": "2025-10-06T11:00:00Z",
       "end_time": "2025-10-06T16:00:00Z",
       "title": "Culture & plaisir sur le Maitre des Fleurs",
       "canceled_until": null,
@@ -171,7 +111,7 @@
     {
       "id": "eyJzZWdtZW50SUQiOiJmZjIzYWUxNi1mMzJhLTRlYTktOGMxNy0yOWY1M2RkNDI2NjUiLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjo0MX0=",
       "start_time": "2025-10-07T09:00:00Z",
-      "end_time": "2025-10-07T15:00:00Z",
+      "end_time": "2025-10-07T16:00:00Z",
       "title": "",
       "canceled_until": null,
       "category": {
@@ -181,56 +121,8 @@
       "is_recurring": true
     },
     {
-      "id": "eyJzZWdtZW50SUQiOiI0YzUzMmQ0OC04ZWM3LTRkZGQtOTcwMy1jZWI0MDI5MmRmYzAiLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjo0MX0=",
-      "start_time": "2025-10-07T18:00:00Z",
-      "end_time": "2025-10-07T22:00:00Z",
-      "title": "WoW Hardcore - raid à 20 avec <CowLab> Zul’Gurub et Ahn’Qiraj",
-      "canceled_until": null,
-      "category": {
-        "id": "18122",
-        "name": "World of Warcraft"
-      },
-      "is_recurring": true
-    },
-    {
-      "id": "eyJzZWdtZW50SUQiOiIyY2I0MGVlMC0yZWYwLTQ4OWEtOTRjYy1mYzk3NDJjYjAxMjEiLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjo0MX0=",
-      "start_time": "2025-10-08T09:00:00Z",
-      "end_time": "2025-10-08T16:00:00Z",
-      "title": "",
-      "canceled_until": null,
-      "category": {
-        "id": "103828",
-        "name": "Pokémon X/Y"
-      },
-      "is_recurring": true
-    },
-    {
-      "id": "eyJzZWdtZW50SUQiOiJhYmY1MWQ3ZC0wNGM5LTQyNDYtODFiYi1kYzdhY2I3YzUyNGQiLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjo0MX0=",
-      "start_time": "2025-10-09T11:00:00Z",
-      "end_time": "2025-10-09T16:00:00Z",
-      "title": "",
-      "canceled_until": null,
-      "category": {
-        "id": "508509",
-        "name": "Codenames"
-      },
-      "is_recurring": true
-    },
-    {
-      "id": "eyJzZWdtZW50SUQiOiI5OTkxMzI4Yi1kNWQ5LTQ5YjQtODY2ZC04MTdjOGMwNGE2NDciLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjo0MX0=",
-      "start_time": "2025-10-10T09:00:00Z",
-      "end_time": "2025-10-10T16:00:00Z",
-      "title": "",
-      "canceled_until": null,
-      "category": {
-        "id": "103828",
-        "name": "Pokémon X/Y"
-      },
-      "is_recurring": true
-    },
-    {
       "id": "eyJzZWdtZW50SUQiOiIzN2ZhOWU2NC02NjA4LTRmZjgtOTEwOC1kZTgxN2JjMTdjYzMiLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjo0Mn0=",
-      "start_time": "2025-10-13T10:00:00Z",
+      "start_time": "2025-10-13T11:00:00Z",
       "end_time": "2025-10-13T16:00:00Z",
       "title": "Culture & plaisir sur le Maitre des Fleurs",
       "canceled_until": null,
@@ -243,12 +135,120 @@
     {
       "id": "eyJzZWdtZW50SUQiOiJmZjIzYWUxNi1mMzJhLTRlYTktOGMxNy0yOWY1M2RkNDI2NjUiLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjo0Mn0=",
       "start_time": "2025-10-14T09:00:00Z",
-      "end_time": "2025-10-14T15:00:00Z",
+      "end_time": "2025-10-14T16:00:00Z",
       "title": "",
       "canceled_until": null,
       "category": {
         "id": "1494074023",
         "name": "Lycans"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiIzN2ZhOWU2NC02NjA4LTRmZjgtOTEwOC1kZTgxN2JjMTdjYzMiLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjo0M30=",
+      "start_time": "2025-10-20T11:00:00Z",
+      "end_time": "2025-10-20T16:00:00Z",
+      "title": "Culture & plaisir sur le Maitre des Fleurs",
+      "canceled_until": null,
+      "category": {
+        "id": "338715930",
+        "name": "Maitre des Fleurs"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiJmZjIzYWUxNi1mMzJhLTRlYTktOGMxNy0yOWY1M2RkNDI2NjUiLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjo0M30=",
+      "start_time": "2025-10-21T09:00:00Z",
+      "end_time": "2025-10-21T16:00:00Z",
+      "title": "",
+      "canceled_until": null,
+      "category": {
+        "id": "1494074023",
+        "name": "Lycans"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiIzN2ZhOWU2NC02NjA4LTRmZjgtOTEwOC1kZTgxN2JjMTdjYzMiLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjo0NH0=",
+      "start_time": "2025-10-27T12:00:00Z",
+      "end_time": "2025-10-27T17:00:00Z",
+      "title": "Culture & plaisir sur le Maitre des Fleurs",
+      "canceled_until": null,
+      "category": {
+        "id": "338715930",
+        "name": "Maitre des Fleurs"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiJmZjIzYWUxNi1mMzJhLTRlYTktOGMxNy0yOWY1M2RkNDI2NjUiLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjo0NH0=",
+      "start_time": "2025-10-28T10:00:00Z",
+      "end_time": "2025-10-28T17:00:00Z",
+      "title": "",
+      "canceled_until": null,
+      "category": {
+        "id": "1494074023",
+        "name": "Lycans"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiIzN2ZhOWU2NC02NjA4LTRmZjgtOTEwOC1kZTgxN2JjMTdjYzMiLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjo0NX0=",
+      "start_time": "2025-11-03T12:00:00Z",
+      "end_time": "2025-11-03T17:00:00Z",
+      "title": "Culture & plaisir sur le Maitre des Fleurs",
+      "canceled_until": null,
+      "category": {
+        "id": "338715930",
+        "name": "Maitre des Fleurs"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiJmZjIzYWUxNi1mMzJhLTRlYTktOGMxNy0yOWY1M2RkNDI2NjUiLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjo0NX0=",
+      "start_time": "2025-11-04T10:00:00Z",
+      "end_time": "2025-11-04T17:00:00Z",
+      "title": "",
+      "canceled_until": null,
+      "category": {
+        "id": "1494074023",
+        "name": "Lycans"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiIzN2ZhOWU2NC02NjA4LTRmZjgtOTEwOC1kZTgxN2JjMTdjYzMiLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjo0Nn0=",
+      "start_time": "2025-11-10T12:00:00Z",
+      "end_time": "2025-11-10T17:00:00Z",
+      "title": "Culture & plaisir sur le Maitre des Fleurs",
+      "canceled_until": null,
+      "category": {
+        "id": "338715930",
+        "name": "Maitre des Fleurs"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiJmZjIzYWUxNi1mMzJhLTRlYTktOGMxNy0yOWY1M2RkNDI2NjUiLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjo0Nn0=",
+      "start_time": "2025-11-11T10:00:00Z",
+      "end_time": "2025-11-11T17:00:00Z",
+      "title": "",
+      "canceled_until": null,
+      "category": {
+        "id": "1494074023",
+        "name": "Lycans"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiIzN2ZhOWU2NC02NjA4LTRmZjgtOTEwOC1kZTgxN2JjMTdjYzMiLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjo0N30=",
+      "start_time": "2025-11-17T12:00:00Z",
+      "end_time": "2025-11-17T17:00:00Z",
+      "title": "Culture & plaisir sur le Maitre des Fleurs",
+      "canceled_until": null,
+      "category": {
+        "id": "338715930",
+        "name": "Maitre des Fleurs"
       },
       "is_recurring": true
     }
