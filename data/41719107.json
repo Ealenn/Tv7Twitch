@@ -13,34 +13,10 @@
   },
   "schedulers": [
     {
-      "id": "eyJzZWdtZW50SUQiOiIxMzY4MWYxZC0yYTBhLTQ2MWItYTI4ZC02ZWViYmEzZGU3ZTQiLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjozOX0=",
-      "start_time": "2025-09-25T13:30:00Z",
-      "end_time": "2025-09-25T15:30:00Z",
-      "title": "Redécouverte de Sonic Racing CrossWorlds ",
-      "canceled_until": null,
-      "category": {
-        "id": "1135492840",
-        "name": "Sonic Racing: CrossWorlds"
-      },
-      "is_recurring": false
-    },
-    {
-      "id": "eyJzZWdtZW50SUQiOiJjOGI3NDExNy00OTIyLTRhYzItYTQ2MC03OGVhMGY5ZjI3YjEiLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjozOX0=",
-      "start_time": "2025-09-25T16:00:00Z",
-      "end_time": "2025-09-25T22:00:00Z",
-      "title": "Découverte 1.0 HADES II JEU LÉGENDAIRE CA PART EN LÉGENDE",
-      "canceled_until": null,
-      "category": {
-        "id": "376500771",
-        "name": "Hades II"
-      },
-      "is_recurring": false
-    },
-    {
-      "id": "eyJzZWdtZW50SUQiOiI2ZmQ2ZmYxZi0xODNjLTRkODUtODJkNi05MjY1NzcwYWQyNTUiLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjozOX0=",
-      "start_time": "2025-09-26T16:00:00Z",
-      "end_time": "2025-09-26T22:00:00Z",
-      "title": "JOUR 1 : Lan Multigaming avec Kenny et Etoiles (GamesCore)",
+      "id": "eyJzZWdtZW50SUQiOiIxOGJjMGFkNi05ZTY1LTQyZDQtYWQwMS1lZmI2ZGI0YTg4NWYiLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjozOX0=",
+      "start_time": "2025-09-26T16:30:00Z",
+      "end_time": "2025-09-26T22:30:00Z",
+      "title": "GamesCore Lan Multigaming avec Etoiles et MoMaN",
       "canceled_until": null,
       "category": {
         "id": "12308397",
@@ -49,22 +25,10 @@
       "is_recurring": false
     },
     {
-      "id": "eyJzZWdtZW50SUQiOiJjMDE0ZGRkMC1jOTMzLTRhNjAtOWE1My03Y2RhM2UyMWQ5MGQiLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjozOX0=",
-      "start_time": "2025-09-27T12:00:00Z",
-      "end_time": "2025-09-27T22:00:00Z",
-      "title": "JOUR 2 : Lan Multigaming avec Kenny et Etoiles (GamesCore)",
-      "canceled_until": null,
-      "category": {
-        "id": "12308397",
-        "name": "LAN Party"
-      },
-      "is_recurring": false
-    },
-    {
-      "id": "eyJzZWdtZW50SUQiOiIzZDllYTFiYy05YWQ1LTQyYjUtOTE5MC1mOGVhNjg4NmNjYzAiLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjozOX0=",
-      "start_time": "2025-09-28T12:00:00Z",
-      "end_time": "2025-09-28T22:00:00Z",
-      "title": "JOUR 3 : Lan Multigaming avec Kenny et Etoiles (GamesCore)",
+      "id": "eyJzZWdtZW50SUQiOiI4NjZlOTc2NS1iYTUwLTRiYWUtYWI1Mi0zNjNkNWFmNGMxOWEiLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjozOX0=",
+      "start_time": "2025-09-27T09:00:00Z",
+      "end_time": "2025-09-27T15:00:00Z",
+      "title": "GamesCore Lan Multigaming avec Etoiles et MoMaN",
       "canceled_until": null,
       "category": {
         "id": "12308397",
