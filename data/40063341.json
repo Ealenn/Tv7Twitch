@@ -13,30 +13,6 @@
   },
   "schedulers": [
     {
-      "id": "eyJzZWdtZW50SUQiOiIxNTVlMTFiYi00ODFlLTRlYWEtOGUzNy1iYzljNzI0YTRmNjMiLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjo0MX0=",
-      "start_time": "2025-10-07T13:00:00Z",
-      "end_time": "2025-10-07T15:00:00Z",
-      "title": "⚔ KINGS OF MEAT AVEC LOWAN & ZANK",
-      "canceled_until": null,
-      "category": {
-        "id": "1277238074",
-        "name": "King of Meat"
-      },
-      "is_recurring": false
-    },
-    {
-      "id": "eyJzZWdtZW50SUQiOiIyOTVhMjA5Mi02ZTY1LTRlOTAtOGRjMS1mNDA5YTI2ODY4MTEiLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjo0MX0=",
-      "start_time": "2025-10-07T15:00:00Z",
-      "end_time": "2025-10-07T17:00:00Z",
-      "title": "📺 STREAM LIBRE",
-      "canceled_until": null,
-      "category": {
-        "id": "509658",
-        "name": "Just Chatting"
-      },
-      "is_recurring": false
-    },
-    {
       "id": "eyJzZWdtZW50SUQiOiI2ZTc2OWE4OS0yNzA4LTQyMjgtYTMzNC1lZWYxMzQzZTRmNTgiLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjo0MX0=",
       "start_time": "2025-10-09T12:00:00Z",
       "end_time": "2025-10-09T13:00:00Z",
@@ -244,6 +220,30 @@
       "id": "eyJzZWdtZW50SUQiOiI2ZmU0NTcxYS1hMDk1LTQwNDEtYTk4MS0zNDlhOWFiYjBhMzkiLCJpc29ZZWFyIjoyMDI2LCJpc29XZWVrIjoyfQ==",
       "start_time": "2026-01-05T18:30:00Z",
       "end_time": "2026-01-05T19:30:00Z",
+      "title": "🎙 PRÉ LIVE",
+      "canceled_until": null,
+      "category": {
+        "id": "509658",
+        "name": "Just Chatting"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiI2ZmU0NTcxYS1hMDk1LTQwNDEtYTk4MS0zNDlhOWFiYjBhMzkiLCJpc29ZZWFyIjoyMDI2LCJpc29XZWVrIjozfQ==",
+      "start_time": "2026-01-12T18:30:00Z",
+      "end_time": "2026-01-12T19:30:00Z",
+      "title": "🎙 PRÉ LIVE",
+      "canceled_until": null,
+      "category": {
+        "id": "509658",
+        "name": "Just Chatting"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiI2ZmU0NTcxYS1hMDk1LTQwNDEtYTk4MS0zNDlhOWFiYjBhMzkiLCJpc29ZZWFyIjoyMDI2LCJpc29XZWVrIjo0fQ==",
+      "start_time": "2026-01-19T18:30:00Z",
+      "end_time": "2026-01-19T19:30:00Z",
       "title": "🎙 PRÉ LIVE",
       "canceled_until": null,
       "category": {
