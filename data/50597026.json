@@ -13,18 +13,6 @@
   },
   "schedulers": [
     {
-      "id": "eyJzZWdtZW50SUQiOiJmOGVjMDcxZi1kOGU4LTQ5ZGYtOTI4YS1mZjliZjM5ZDU0ZjIiLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjo0MX0=",
-      "start_time": "2025-10-09T11:00:00Z",
-      "end_time": "2025-10-09T15:00:00Z",
-      "title": "LYCANS",
-      "canceled_until": null,
-      "category": {
-        "id": "1494074023",
-        "name": "Lycans"
-      },
-      "is_recurring": true
-    },
-    {
       "id": "eyJzZWdtZW50SUQiOiJmZjIzYWUxNi1mMzJhLTRlYTktOGMxNy0yOWY1M2RkNDI2NjUiLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjo0Mn0=",
       "start_time": "2025-10-14T12:00:00Z",
       "end_time": "2025-10-14T15:00:00Z",
@@ -249,6 +237,18 @@
       "category": {
         "id": "1956",
         "name": "Bridge"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiJjOTEwM2I4NC03Y2YzLTRhOWQtYjYwMC1iOTUxNmYxMjczYTUiLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjo0OH0=",
+      "start_time": "2025-11-26T12:30:00Z",
+      "end_time": "2025-11-26T17:00:00Z",
+      "title": "Pokemon XY",
+      "canceled_until": null,
+      "category": {
+        "id": "103828",
+        "name": "Pokémon X/Y"
       },
       "is_recurring": true
     }
