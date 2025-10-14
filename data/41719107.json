@@ -11,5 +11,138 @@
     "view_count": 0,
     "created_at": "2013-03-25T23:44:28Z"
   },
-  "schedulers": []
+  "schedulers": [
+    {
+      "id": "eyJzZWdtZW50SUQiOiJkMjUzZmUwNy1kMzY5LTQ4ZjEtYmM5OS02MzA2ZjYwMzgxNWQiLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjo0Mn0=",
+      "start_time": "2025-10-14T17:00:00Z",
+      "end_time": "2025-10-14T19:00:00Z",
+      "title": "Découverte de Battlefield 6 avec @Gius et @Alphacast (publicité)",
+      "canceled_until": null,
+      "category": {
+        "id": "168648543",
+        "name": "BATTLEFIELD 6"
+      },
+      "is_recurring": false
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiJmMTUxODgwNy0zNzE2LTRhZGUtYjMwOS0yNTJmNTJhYWQ3ZTYiLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjo0Mn0=",
+      "start_time": "2025-10-16T18:00:00Z",
+      "end_time": "2025-10-16T22:00:00Z",
+      "title": "[Sur la chaîne Alphacast] Table Quest le retour !",
+      "canceled_until": null,
+      "category": {
+        "id": "509664",
+        "name": "Tabletop RPGs"
+      },
+      "is_recurring": false
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiJiYTM2ODFmNS1mZWUxLTQzMDEtYTFjZi0xZDE3OGM5OTA4Y2MiLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjo0Mn0=",
+      "start_time": "2025-10-17T16:00:00Z",
+      "end_time": "2025-10-17T22:00:00Z",
+      "title": "Découverte de Ball X Pit toute la soirée",
+      "canceled_until": null,
+      "category": {
+        "id": "275186889",
+        "name": "BALL x PIT"
+      },
+      "is_recurring": false
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiI5N2I1YWZlZi01M2NjLTRjYzUtOGQwZC0wZjI0Y2M0YzEwN2MiLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjo0Mn0=",
+      "start_time": "2025-10-19T17:00:00Z",
+      "end_time": "2025-10-19T20:00:00Z",
+      "title": "(en direct du hangar) PREMIER MATCH ASCENSION MANDATORY pour motner en VCT",
+      "canceled_until": null,
+      "category": {
+        "id": "516575",
+        "name": "VALORANT"
+      },
+      "is_recurring": false
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiI1ZWI1MTY2YS1lZThhLTRhMDItYTYxMS0yMGYxZjJlOGQ4Y2IiLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjo0M30=",
+      "start_time": "2025-10-21T18:00:00Z",
+      "end_time": "2025-10-21T20:00:00Z",
+      "title": "Découverte de Vampire: The Masquerade - Bloodlines",
+      "canceled_until": null,
+      "category": {
+        "id": "15062",
+        "name": "Vampire: The Masquerade - Bloodlines"
+      },
+      "is_recurring": false
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiJlYTNhOTI4Ni1hOWUyLTQ5NzgtOTkwMi1lMDM4ODM5ZmJmZTMiLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjo0N30=",
+      "start_time": "2025-11-17T05:00:00Z",
+      "end_time": "2025-11-17T08:00:00Z",
+      "title": "Matinale ! On se réveille ensemble ! Jour 1",
+      "canceled_until": null,
+      "category": {
+        "id": "509658",
+        "name": "Just Chatting"
+      },
+      "is_recurring": false
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiI4NjVlZDk1Zi0xZDAyLTQxZWItYjA3OS03ZDYwNTM4Y2ZiMDAiLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjo0N30=",
+      "start_time": "2025-11-18T05:00:00Z",
+      "end_time": "2025-11-18T08:00:00Z",
+      "title": "Matinale ! On se réveille ensemble ! Jour 2",
+      "canceled_until": null,
+      "category": {
+        "id": "509658",
+        "name": "Just Chatting"
+      },
+      "is_recurring": false
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiIzNDM4MjJhNS1hNjBkLTRjMGMtYTk0Yy0zNTFmYzYwNWY2ZDgiLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjo0N30=",
+      "start_time": "2025-11-19T05:00:00Z",
+      "end_time": "2025-11-19T08:00:00Z",
+      "title": "Matinale ! On se réveille ensemble ! Jour 3",
+      "canceled_until": null,
+      "category": {
+        "id": "509658",
+        "name": "Just Chatting"
+      },
+      "is_recurring": false
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiI4ZjQ2NTU0NC1jOTVjLTQxMTctOGUyNy05Yzg2YTBmMTQ2MjMiLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjo0N30=",
+      "start_time": "2025-11-20T05:00:00Z",
+      "end_time": "2025-11-20T08:00:00Z",
+      "title": "Matinale ! On se réveille ensemble ! Jour 4",
+      "canceled_until": null,
+      "category": {
+        "id": "509658",
+        "name": "Just Chatting"
+      },
+      "is_recurring": false
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiJlNmY5MTgzYy0xYjc0LTQ2NTUtOGRmZC1jOTRkMjMyODFlOWIiLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjo0N30=",
+      "start_time": "2025-11-21T05:00:00Z",
+      "end_time": "2025-11-21T08:00:00Z",
+      "title": "Matinale ! On se réveille ensemble ! Jour 5",
+      "canceled_until": null,
+      "category": {
+        "id": "509658",
+        "name": "Just Chatting"
+      },
+      "is_recurring": false
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiI1MThlNWNjNS05ODZhLTQwYjUtYTQyOC1jZGQ5ZTVjYTI2ZjQiLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjo0OX0=",
+      "start_time": "2025-12-06T09:00:00Z",
+      "end_time": "2025-12-06T18:00:00Z",
+      "title": "BROCANTE au Hangar (pas streamé, mais venez !) LeHangar.gg",
+      "canceled_until": null,
+      "category": {
+        "id": "509672",
+        "name": "IRL"
+      },
+      "is_recurring": false
+    }
+  ]
 }
