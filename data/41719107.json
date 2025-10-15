@@ -13,18 +13,6 @@
   },
   "schedulers": [
     {
-      "id": "eyJzZWdtZW50SUQiOiJkMjUzZmUwNy1kMzY5LTQ4ZjEtYmM5OS02MzA2ZjYwMzgxNWQiLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjo0Mn0=",
-      "start_time": "2025-10-14T17:00:00Z",
-      "end_time": "2025-10-14T19:00:00Z",
-      "title": "Découverte de Battlefield 6 avec @Gius et @Alphacast (publicité)",
-      "canceled_until": null,
-      "category": {
-        "id": "168648543",
-        "name": "BATTLEFIELD 6"
-      },
-      "is_recurring": false
-    },
-    {
       "id": "eyJzZWdtZW50SUQiOiJmMTUxODgwNy0zNzE2LTRhZGUtYjMwOS0yNTJmNTJhYWQ3ZTYiLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjo0Mn0=",
       "start_time": "2025-10-16T18:00:00Z",
       "end_time": "2025-10-16T22:00:00Z",
