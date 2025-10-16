@@ -13,42 +13,6 @@
   },
   "schedulers": [
     {
-      "id": "eyJzZWdtZW50SUQiOiIyMzFkZjc0NC1iNDY1LTQ5YmItOTQ5Zi03M2EyZWU3YTJmYzUiLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjo0Mn0=",
-      "start_time": "2025-10-15T08:00:00Z",
-      "end_time": "2025-10-15T09:00:00Z",
-      "title": "🎙 PRÉ LIVE",
-      "canceled_until": null,
-      "category": {
-        "id": "509658",
-        "name": "Just Chatting"
-      },
-      "is_recurring": false
-    },
-    {
-      "id": "eyJzZWdtZW50SUQiOiJlYTJlN2FiNi04Nzk2LTQyNzMtYTYwMS04NDIwNzRiYTU1YmEiLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjo0Mn0=",
-      "start_time": "2025-10-15T09:00:00Z",
-      "end_time": "2025-10-15T11:00:00Z",
-      "title": "🔫 ON TESTE FINAL SENTENCE",
-      "canceled_until": null,
-      "category": {
-        "id": "1489488028",
-        "name": "Final Sentence"
-      },
-      "is_recurring": false
-    },
-    {
-      "id": "eyJzZWdtZW50SUQiOiI5ZjUyYTZjOS00N2VkLTQwNmMtYjNiNy04ZDNkZjc1NTg2YTciLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjo0Mn0=",
-      "start_time": "2025-10-15T11:00:00Z",
-      "end_time": "2025-10-15T13:00:00Z",
-      "title": "✨ TRYHARD LEAGUE OF LEGENDS",
-      "canceled_until": null,
-      "category": {
-        "id": "21779",
-        "name": "League of Legends"
-      },
-      "is_recurring": false
-    },
-    {
       "id": "eyJzZWdtZW50SUQiOiJmNTk0MmQ2NC0wYWQzLTQ3MmItYjkxMi0yMWU2ZWNlMmNmNTUiLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjo0Mn0=",
       "start_time": "2025-10-17T12:00:00Z",
       "end_time": "2025-10-17T13:00:00Z",
@@ -245,6 +209,42 @@
       "start_time": "2025-12-08T18:30:00Z",
       "end_time": "2025-12-08T19:30:00Z",
       "title": "🎙 PRÉ LIVE",
+      "canceled_until": null,
+      "category": {
+        "id": "509658",
+        "name": "Just Chatting"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiI5MzJhNDgyOS03NDRiLTQxMjEtODk0NC00MzRhMjE2ZGQ3YjYiLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjo1MH0=",
+      "start_time": "2025-12-08T19:30:00Z",
+      "end_time": "2025-12-08T23:00:00Z",
+      "title": "📺 REACT : SUITE DE LOVE IS BLIND",
+      "canceled_until": null,
+      "category": {
+        "id": "509658",
+        "name": "Just Chatting"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiI2ZmU0NTcxYS1hMDk1LTQwNDEtYTk4MS0zNDlhOWFiYjBhMzkiLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjo1MX0=",
+      "start_time": "2025-12-15T18:30:00Z",
+      "end_time": "2025-12-15T19:30:00Z",
+      "title": "🎙 PRÉ LIVE",
+      "canceled_until": null,
+      "category": {
+        "id": "509658",
+        "name": "Just Chatting"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiI5MzJhNDgyOS03NDRiLTQxMjEtODk0NC00MzRhMjE2ZGQ3YjYiLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjo1MX0=",
+      "start_time": "2025-12-15T19:30:00Z",
+      "end_time": "2025-12-15T23:00:00Z",
+      "title": "📺 REACT : SUITE DE LOVE IS BLIND",
       "canceled_until": null,
       "category": {
         "id": "509658",
