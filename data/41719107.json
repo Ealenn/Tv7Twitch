@@ -13,18 +13,6 @@
   },
   "schedulers": [
     {
-      "id": "eyJzZWdtZW50SUQiOiJmMTUxODgwNy0zNzE2LTRhZGUtYjMwOS0yNTJmNTJhYWQ3ZTYiLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjo0Mn0=",
-      "start_time": "2025-10-16T18:00:00Z",
-      "end_time": "2025-10-16T22:00:00Z",
-      "title": "[Sur la chaîne Alphacast] Table Quest le retour !",
-      "canceled_until": null,
-      "category": {
-        "id": "509664",
-        "name": "Tabletop RPGs"
-      },
-      "is_recurring": false
-    },
-    {
       "id": "eyJzZWdtZW50SUQiOiJiYTM2ODFmNS1mZWUxLTQzMDEtYTFjZi0xZDE3OGM5OTA4Y2MiLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjo0Mn0=",
       "start_time": "2025-10-17T16:00:00Z",
       "end_time": "2025-10-17T22:00:00Z",
