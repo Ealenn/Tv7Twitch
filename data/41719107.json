@@ -13,18 +13,6 @@
   },
   "schedulers": [
     {
-      "id": "eyJzZWdtZW50SUQiOiJiYTM2ODFmNS1mZWUxLTQzMDEtYTFjZi0xZDE3OGM5OTA4Y2MiLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjo0Mn0=",
-      "start_time": "2025-10-17T16:00:00Z",
-      "end_time": "2025-10-17T22:00:00Z",
-      "title": "Découverte de Ball X Pit toute la soirée",
-      "canceled_until": null,
-      "category": {
-        "id": "275186889",
-        "name": "BALL x PIT"
-      },
-      "is_recurring": false
-    },
-    {
       "id": "eyJzZWdtZW50SUQiOiI5N2I1YWZlZi01M2NjLTRjYzUtOGQwZC0wZjI0Y2M0YzEwN2MiLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjo0Mn0=",
       "start_time": "2025-10-19T17:00:00Z",
       "end_time": "2025-10-19T20:00:00Z",
