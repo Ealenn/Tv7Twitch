@@ -13,18 +13,6 @@
   },
   "schedulers": [
     {
-      "id": "eyJzZWdtZW50SUQiOiI5N2I1YWZlZi01M2NjLTRjYzUtOGQwZC0wZjI0Y2M0YzEwN2MiLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjo0Mn0=",
-      "start_time": "2025-10-19T17:00:00Z",
-      "end_time": "2025-10-19T20:00:00Z",
-      "title": "(en direct du hangar) PREMIER MATCH ASCENSION MANDATORY pour motner en VCT",
-      "canceled_until": null,
-      "category": {
-        "id": "516575",
-        "name": "VALORANT"
-      },
-      "is_recurring": false
-    },
-    {
       "id": "eyJzZWdtZW50SUQiOiI1ZWI1MTY2YS1lZThhLTRhMDItYTYxMS0yMGYxZjJlOGQ4Y2IiLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjo0M30=",
       "start_time": "2025-10-21T18:00:00Z",
       "end_time": "2025-10-21T20:00:00Z",
