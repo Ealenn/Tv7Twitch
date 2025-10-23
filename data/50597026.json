@@ -13,18 +13,6 @@
   },
   "schedulers": [
     {
-      "id": "eyJzZWdtZW50SUQiOiIwYmI5NTBmZS05NTY2LTQ3NjMtOTQ4Zi05OGNhMjliYTIzNjgiLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjo0M30=",
-      "start_time": "2025-10-22T18:00:00Z",
-      "end_time": "2025-10-22T22:00:00Z",
-      "title": "Maitre des Fleurs spécial avec DFG",
-      "canceled_until": null,
-      "category": {
-        "id": "338715930",
-        "name": "Maitre des Fleurs"
-      },
-      "is_recurring": false
-    },
-    {
       "id": "eyJzZWdtZW50SUQiOiI5OTFlMDJlZS01MTQwLTQ3ODMtYWU1Mi1hZjQwN2FmMjQ2NjciLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjo0M30=",
       "start_time": "2025-10-23T10:00:00Z",
       "end_time": "2025-10-23T14:00:00Z",

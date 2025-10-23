@@ -13,18 +13,6 @@
   },
   "schedulers": [
     {
-      "id": "eyJzZWdtZW50SUQiOiIyNzRkNDcxOC1iMmQ0LTQyYmUtODViYy03YjY0N2UyNTdmMzciLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjo0M30=",
-      "start_time": "2025-10-22T17:00:00Z",
-      "end_time": "2025-10-22T20:00:00Z",
-      "title": "Mandatory 3e MATCH POUR MONTER EN VCT, IL FAUT GAGNER",
-      "canceled_until": null,
-      "category": {
-        "id": "516575",
-        "name": "VALORANT"
-      },
-      "is_recurring": false
-    },
-    {
       "id": "eyJzZWdtZW50SUQiOiJlYTNhOTI4Ni1hOWUyLTQ5NzgtOTkwMi1lMDM4ODM5ZmJmZTMiLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjo0N30=",
       "start_time": "2025-11-17T05:00:00Z",
       "end_time": "2025-11-17T08:00:00Z",

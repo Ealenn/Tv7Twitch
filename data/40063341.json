@@ -13,30 +13,6 @@
   },
   "schedulers": [
     {
-      "id": "eyJzZWdtZW50SUQiOiI1NTIyYmFmNS0xOTM3LTQzNzAtYWE0Ny03NjJhM2NiMTRjY2EiLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjo0M30=",
-      "start_time": "2025-10-22T12:00:00Z",
-      "end_time": "2025-10-22T13:00:00Z",
-      "title": "🎙 PRÉ LIVE",
-      "canceled_until": null,
-      "category": {
-        "id": "509658",
-        "name": "Just Chatting"
-      },
-      "is_recurring": false
-    },
-    {
-      "id": "eyJzZWdtZW50SUQiOiJkNDU5OTYwNi0wMWU2LTQ5NzAtOGE3ZS0wODQ3MzUyNTc2ZmEiLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjo0M30=",
-      "start_time": "2025-10-22T13:00:00Z",
-      "end_time": "2025-10-22T17:00:00Z",
-      "title": "📺 STREAM LIBRE",
-      "canceled_until": null,
-      "category": {
-        "id": "509658",
-        "name": "Just Chatting"
-      },
-      "is_recurring": false
-    },
-    {
       "id": "eyJzZWdtZW50SUQiOiI3OWUwZmMxMS0yMGQ2LTRhMWQtOTJkNi04Y2U0NGY1NTA5ZDQiLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjo0M30=",
       "start_time": "2025-10-23T18:00:00Z",
       "end_time": "2025-10-23T20:30:00Z",
@@ -244,6 +220,30 @@
       "id": "eyJzZWdtZW50SUQiOiI2ZmU0NTcxYS1hMDk1LTQwNDEtYTk4MS0zNDlhOWFiYjBhMzkiLCJpc29ZZWFyIjoyMDI2LCJpc29XZWVrIjo3fQ==",
       "start_time": "2026-02-09T18:30:00Z",
       "end_time": "2026-02-09T19:30:00Z",
+      "title": "🎙 PRÉ LIVE",
+      "canceled_until": null,
+      "category": {
+        "id": "509658",
+        "name": "Just Chatting"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiI2ZmU0NTcxYS1hMDk1LTQwNDEtYTk4MS0zNDlhOWFiYjBhMzkiLCJpc29ZZWFyIjoyMDI2LCJpc29XZWVrIjo4fQ==",
+      "start_time": "2026-02-16T18:30:00Z",
+      "end_time": "2026-02-16T19:30:00Z",
+      "title": "🎙 PRÉ LIVE",
+      "canceled_until": null,
+      "category": {
+        "id": "509658",
+        "name": "Just Chatting"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiI2ZmU0NTcxYS1hMDk1LTQwNDEtYTk4MS0zNDlhOWFiYjBhMzkiLCJpc29ZZWFyIjoyMDI2LCJpc29XZWVrIjo5fQ==",
+      "start_time": "2026-02-23T18:30:00Z",
+      "end_time": "2026-02-23T19:30:00Z",
       "title": "🎙 PRÉ LIVE",
       "canceled_until": null,
       "category": {
