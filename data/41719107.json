@@ -13,6 +13,18 @@
   },
   "schedulers": [
     {
+      "id": "eyJzZWdtZW50SUQiOiJlNTcwYjBhOC1hMmIxLTQ5NDItOTlkNS0zM2FhMGVlYmUwYTQiLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjo0M30=",
+      "start_time": "2025-10-25T16:00:00Z",
+      "end_time": "2025-10-25T20:00:00Z",
+      "title": "BO5 MANDATORY SE QUALIFIE EN VCT, MATCH DECISIF",
+      "canceled_until": null,
+      "category": {
+        "id": "516575",
+        "name": "VALORANT"
+      },
+      "is_recurring": false
+    },
+    {
       "id": "eyJzZWdtZW50SUQiOiJlYTNhOTI4Ni1hOWUyLTQ5NzgtOTkwMi1lMDM4ODM5ZmJmZTMiLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjo0N30=",
       "start_time": "2025-11-17T05:00:00Z",
       "end_time": "2025-11-17T08:00:00Z",
