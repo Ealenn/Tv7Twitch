@@ -13,6 +13,114 @@
   },
   "schedulers": [
     {
+      "id": "eyJzZWdtZW50SUQiOiI0MjdmNjY1MS1lYWUyLTQ2ODgtODZlNS03NDE0ZTQ3M2U0MWEiLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjo0NH0=",
+      "start_time": "2025-10-30T19:00:00Z",
+      "end_time": "2025-10-30T23:00:00Z",
+      "title": "[Sur la chaîne Alphacast] Table Quest",
+      "canceled_until": null,
+      "category": {
+        "id": "509664",
+        "name": "Tabletop RPGs"
+      },
+      "is_recurring": false
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiJjODIxNDA3Ny03YzExLTQyNWEtOGFkYi04Y2E0MjgwMTAxMjgiLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjo0NH0=",
+      "start_time": "2025-11-02T19:00:00Z",
+      "end_time": "2025-11-02T21:00:00Z",
+      "title": "Découverte de Arc Raiders avec Kenny et MoMaN",
+      "canceled_until": null,
+      "category": {
+        "id": "464339927",
+        "name": "ARC Raiders"
+      },
+      "is_recurring": false
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiI5M2VkN2YxNi1mM2E5LTRhZjctODAyYi04NGI0NzZkMmRiYzciLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjo0NX0=",
+      "start_time": "2025-11-03T19:30:00Z",
+      "end_time": "2025-11-03T23:00:00Z",
+      "title": "Soirée du lundi",
+      "canceled_until": null,
+      "category": {
+        "id": "509658",
+        "name": "Just Chatting"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiI2ZGJlNGRiNC1jNzZhLTQwYjUtYTJjOS04MWJkZjNjMGRiZDUiLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjo0NX0=",
+      "start_time": "2025-11-04T17:00:00Z",
+      "end_time": "2025-11-04T22:00:00Z",
+      "title": "Entrainement Lyon Esport avec HyP, MoMaN, Laytho et Apo",
+      "canceled_until": null,
+      "category": {
+        "id": "516575",
+        "name": "VALORANT"
+      },
+      "is_recurring": false
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiI0YzU3ZjlhMy1jZWJhLTRiMzQtODQ3OC1iZDk3MmI3Y2JkZmEiLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjo0NX0=",
+      "start_time": "2025-11-05T19:00:00Z",
+      "end_time": "2025-11-05T21:00:00Z",
+      "title": "reDécouverte Farming Simulator",
+      "canceled_until": null,
+      "category": {
+        "id": "262437666",
+        "name": "Farming Simulator 25"
+      },
+      "is_recurring": false
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiIxNDVlYWQzOS1lZTk5LTQzMjQtOGVmYi1hZjNkMTk3NzIyOTMiLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjo0NX0=",
+      "start_time": "2025-11-06T17:00:00Z",
+      "end_time": "2025-11-06T22:00:00Z",
+      "title": "Entrainement Lyon Esport avec HyP, MoMaN, Laytho et Apo",
+      "canceled_until": null,
+      "category": {
+        "id": "516575",
+        "name": "VALORANT"
+      },
+      "is_recurring": false
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiIzZTNmZWFhNC1lMjhkLTRhZTQtODNlZi0zODc1YjdlZGFkZmEiLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjo0NX0=",
+      "start_time": "2025-11-08T09:00:00Z",
+      "end_time": "2025-11-08T21:00:00Z",
+      "title": "JOUR 1 LAN LYON ESPORT VALORANT légendaire avec Hyp MoMaN Laytho et Apo",
+      "canceled_until": null,
+      "category": {
+        "id": "516575",
+        "name": "VALORANT"
+      },
+      "is_recurring": false
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiI1MWQ5ZjQ5MC01YjVhLTRiYWEtOTczOS1lZjVjOWUzMDkwNzEiLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjo0NX0=",
+      "start_time": "2025-11-09T09:00:00Z",
+      "end_time": "2025-11-09T21:00:00Z",
+      "title": "JOUR 2 LAN LYON ESPORT VALORANT légendaire avec Hyp MoMaN Laytho et Apo",
+      "canceled_until": null,
+      "category": {
+        "id": "516575",
+        "name": "VALORANT"
+      },
+      "is_recurring": false
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiI5M2VkN2YxNi1mM2E5LTRhZjctODAyYi04NGI0NzZkMmRiYzciLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjo0Nn0=",
+      "start_time": "2025-11-10T19:30:00Z",
+      "end_time": "2025-11-10T23:00:00Z",
+      "title": "Soirée du lundi",
+      "canceled_until": null,
+      "category": {
+        "id": "509658",
+        "name": "Just Chatting"
+      },
+      "is_recurring": true
+    },
+    {
       "id": "eyJzZWdtZW50SUQiOiJlYTNhOTI4Ni1hOWUyLTQ5NzgtOTkwMi1lMDM4ODM5ZmJmZTMiLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjo0N30=",
       "start_time": "2025-11-17T05:00:00Z",
       "end_time": "2025-11-17T08:00:00Z",
@@ -23,6 +131,18 @@
         "name": "Just Chatting"
       },
       "is_recurring": false
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiI5M2VkN2YxNi1mM2E5LTRhZjctODAyYi04NGI0NzZkMmRiYzciLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjo0N30=",
+      "start_time": "2025-11-17T19:30:00Z",
+      "end_time": "2025-11-17T23:00:00Z",
+      "title": "Soirée du lundi",
+      "canceled_until": null,
+      "category": {
+        "id": "509658",
+        "name": "Just Chatting"
+      },
+      "is_recurring": true
     },
     {
       "id": "eyJzZWdtZW50SUQiOiI4NjVlZDk1Zi0xZDAyLTQxZWItYjA3OS03ZDYwNTM4Y2ZiMDAiLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjo0N30=",
@@ -73,9 +193,45 @@
       "is_recurring": false
     },
     {
-      "id": "eyJzZWdtZW50SUQiOiI1MThlNWNjNS05ODZhLTQwYjUtYTQyOC1jZGQ5ZTVjYTI2ZjQiLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjo0OX0=",
-      "start_time": "2025-12-06T09:00:00Z",
-      "end_time": "2025-12-06T18:00:00Z",
+      "id": "eyJzZWdtZW50SUQiOiI5M2VkN2YxNi1mM2E5LTRhZjctODAyYi04NGI0NzZkMmRiYzciLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjo0OH0=",
+      "start_time": "2025-11-24T19:30:00Z",
+      "end_time": "2025-11-24T23:00:00Z",
+      "title": "Soirée du lundi",
+      "canceled_until": null,
+      "category": {
+        "id": "509658",
+        "name": "Just Chatting"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiI5M2VkN2YxNi1mM2E5LTRhZjctODAyYi04NGI0NzZkMmRiYzciLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjo0OX0=",
+      "start_time": "2025-12-01T19:30:00Z",
+      "end_time": "2025-12-01T23:00:00Z",
+      "title": "Soirée du lundi",
+      "canceled_until": null,
+      "category": {
+        "id": "509658",
+        "name": "Just Chatting"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiI5M2VkN2YxNi1mM2E5LTRhZjctODAyYi04NGI0NzZkMmRiYzciLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjo1MH0=",
+      "start_time": "2025-12-08T19:30:00Z",
+      "end_time": "2025-12-08T23:00:00Z",
+      "title": "Soirée du lundi",
+      "canceled_until": null,
+      "category": {
+        "id": "509658",
+        "name": "Just Chatting"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiI1MThlNWNjNS05ODZhLTQwYjUtYTQyOC1jZGQ5ZTVjYTI2ZjQiLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjo1MH0=",
+      "start_time": "2025-12-13T09:00:00Z",
+      "end_time": "2025-12-13T18:00:00Z",
       "title": "BROCANTE au Hangar (pas streamé, mais venez !) LeHangar.gg",
       "canceled_until": null,
       "category": {
@@ -83,6 +239,18 @@
         "name": "IRL"
       },
       "is_recurring": false
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiI5M2VkN2YxNi1mM2E5LTRhZjctODAyYi04NGI0NzZkMmRiYzciLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjo1MX0=",
+      "start_time": "2025-12-15T19:30:00Z",
+      "end_time": "2025-12-15T23:00:00Z",
+      "title": "Soirée du lundi",
+      "canceled_until": null,
+      "category": {
+        "id": "509658",
+        "name": "Just Chatting"
+      },
+      "is_recurring": true
     }
   ]
 }
