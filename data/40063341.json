@@ -13,18 +13,6 @@
   },
   "schedulers": [
     {
-      "id": "eyJzZWdtZW50SUQiOiI3N2I4OGI5MC1kMzU4LTQzYWMtODI4NS01Zjc4ZGNjMTMyMDYiLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjo0NH0=",
-      "start_time": "2025-10-30T11:00:00Z",
-      "end_time": "2025-10-30T13:00:00Z",
-      "title": "LIVE SUR voggt.com/DomingoPA | BOX BREAK NBA",
-      "canceled_until": null,
-      "category": {
-        "id": "509658",
-        "name": "Just Chatting"
-      },
-      "is_recurring": false
-    },
-    {
       "id": "eyJzZWdtZW50SUQiOiJhNjkwODdlZi1iNGU1LTRjMTgtODk2Ny0zZWEyNTYzZGRlNjQiLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjo0NH0=",
       "start_time": "2025-10-31T13:15:00Z",
       "end_time": "2025-10-31T15:15:00Z",
