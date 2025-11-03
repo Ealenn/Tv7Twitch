@@ -13,18 +13,6 @@
   },
   "schedulers": [
     {
-      "id": "eyJzZWdtZW50SUQiOiJjODIxNDA3Ny03YzExLTQyNWEtOGFkYi04Y2E0MjgwMTAxMjgiLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjo0NH0=",
-      "start_time": "2025-11-02T19:00:00Z",
-      "end_time": "2025-11-02T21:00:00Z",
-      "title": "Découverte de Arc Raiders avec Kenny et MoMaN",
-      "canceled_until": null,
-      "category": {
-        "id": "464339927",
-        "name": "ARC Raiders"
-      },
-      "is_recurring": false
-    },
-    {
       "id": "eyJzZWdtZW50SUQiOiI5M2VkN2YxNi1mM2E5LTRhZjctODAyYi04NGI0NzZkMmRiYzciLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjo0NX0=",
       "start_time": "2025-11-03T19:30:00Z",
       "end_time": "2025-11-03T23:00:00Z",
@@ -50,8 +38,8 @@
     },
     {
       "id": "eyJzZWdtZW50SUQiOiI0YzU3ZjlhMy1jZWJhLTRiMzQtODQ3OC1iZDk3MmI3Y2JkZmEiLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjo0NX0=",
-      "start_time": "2025-11-05T19:00:00Z",
-      "end_time": "2025-11-05T21:00:00Z",
+      "start_time": "2025-11-05T20:00:00Z",
+      "end_time": "2025-11-05T22:00:00Z",
       "title": "reDécouverte Farming Simulator",
       "canceled_until": null,
       "category": {
@@ -244,6 +232,18 @@
       "id": "eyJzZWdtZW50SUQiOiI5M2VkN2YxNi1mM2E5LTRhZjctODAyYi04NGI0NzZkMmRiYzciLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjo1Mn0=",
       "start_time": "2025-12-22T19:30:00Z",
       "end_time": "2025-12-22T23:00:00Z",
+      "title": "Soirée du lundi",
+      "canceled_until": null,
+      "category": {
+        "id": "509658",
+        "name": "Just Chatting"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiI5M2VkN2YxNi1mM2E5LTRhZjctODAyYi04NGI0NzZkMmRiYzciLCJpc29ZZWFyIjoyMDI2LCJpc29XZWVrIjoxfQ==",
+      "start_time": "2025-12-29T19:30:00Z",
+      "end_time": "2025-12-29T23:00:00Z",
       "title": "Soirée du lundi",
       "canceled_until": null,
       "category": {
