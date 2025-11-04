@@ -13,18 +13,6 @@
   },
   "schedulers": [
     {
-      "id": "eyJzZWdtZW50SUQiOiI5M2VkN2YxNi1mM2E5LTRhZjctODAyYi04NGI0NzZkMmRiYzciLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjo0NX0=",
-      "start_time": "2025-11-03T19:30:00Z",
-      "end_time": "2025-11-03T23:00:00Z",
-      "title": "Soirée du lundi",
-      "canceled_until": null,
-      "category": {
-        "id": "509658",
-        "name": "Just Chatting"
-      },
-      "is_recurring": true
-    },
-    {
       "id": "eyJzZWdtZW50SUQiOiI2ZGJlNGRiNC1jNzZhLTQwYjUtYTJjOS04MWJkZjNjMGRiZDUiLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjo0NX0=",
       "start_time": "2025-11-04T17:00:00Z",
       "end_time": "2025-11-04T22:00:00Z",
@@ -244,6 +232,18 @@
       "id": "eyJzZWdtZW50SUQiOiI5M2VkN2YxNi1mM2E5LTRhZjctODAyYi04NGI0NzZkMmRiYzciLCJpc29ZZWFyIjoyMDI2LCJpc29XZWVrIjoxfQ==",
       "start_time": "2025-12-29T19:30:00Z",
       "end_time": "2025-12-29T23:00:00Z",
+      "title": "Soirée du lundi",
+      "canceled_until": null,
+      "category": {
+        "id": "509658",
+        "name": "Just Chatting"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiI5M2VkN2YxNi1mM2E5LTRhZjctODAyYi04NGI0NzZkMmRiYzciLCJpc29ZZWFyIjoyMDI2LCJpc29XZWVrIjoyfQ==",
+      "start_time": "2026-01-05T19:30:00Z",
+      "end_time": "2026-01-05T23:00:00Z",
       "title": "Soirée du lundi",
       "canceled_until": null,
       "category": {

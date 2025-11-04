@@ -7,9 +7,250 @@
     "broadcaster_type": "partner",
     "description": "Président du FC Silmi",
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/3cdae7df-600c-4833-8dfe-8d2abc5a3b25-profile_image-300x300.png",
-    "offline_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/a9c834cb-1fbd-4329-bdf5-d77bf8699daf-channel_offline_image-1920x1080.png",
+    "offline_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/2c61e21c-3c12-432d-8016-cb943df89b31-channel_offline_image-1920x1080.png",
     "view_count": 0,
     "created_at": "2013-02-05T19:20:22Z"
   },
-  "schedulers": []
+  "schedulers": [
+    {
+      "id": "eyJzZWdtZW50SUQiOiI3ZTkxNTg3Zi02NDE4LTQwMGEtOGQ5Ni04OGI1MzNkMzBlODQiLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjo0NX0=",
+      "start_time": "2025-11-04T13:00:00Z",
+      "end_time": "2025-11-04T14:00:00Z",
+      "title": "PRÉ LIVE",
+      "canceled_until": null,
+      "category": {
+        "id": "509658",
+        "name": "Just Chatting"
+      },
+      "is_recurring": false
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiI0NzYwYmM5OC1lMjBjLTQxMDAtOTk2My00YTJiYTIxNTFiNzgiLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjo0NX0=",
+      "start_time": "2025-11-04T14:00:00Z",
+      "end_time": "2025-11-04T18:00:00Z",
+      "title": "STREAM LIBRE",
+      "canceled_until": null,
+      "category": {
+        "id": "509658",
+        "name": "Just Chatting"
+      },
+      "is_recurring": false
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiI2MmRjNmRkMy0wMTEzLTRiNWMtYTc0ZC05ZWRmOGM1NjllMDYiLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjo0NX0=",
+      "start_time": "2025-11-05T13:00:00Z",
+      "end_time": "2025-11-05T14:00:00Z",
+      "title": "PRÉ LIVE",
+      "canceled_until": null,
+      "category": {
+        "id": "509658",
+        "name": "Just Chatting"
+      },
+      "is_recurring": false
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiJjMmY5ZmRhNi0xNzQ4LTQxZGQtYjdkMy1mOTkyYzQ1NWZkYjciLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjo0NX0=",
+      "start_time": "2025-11-05T14:00:00Z",
+      "end_time": "2025-11-05T16:00:00Z",
+      "title": "ON DÉCOUVRE ARC RAIDERS AVEC LOLO & ZANK",
+      "canceled_until": null,
+      "category": {
+        "id": "464339927",
+        "name": "ARC Raiders"
+      },
+      "is_recurring": false
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiJiZThkYTk1NC04ODkyLTRkYWUtYTNiMC05ZWIwM2M4NzdkMDAiLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjo0NX0=",
+      "start_time": "2025-11-05T16:00:00Z",
+      "end_time": "2025-11-05T18:30:00Z",
+      "title": "STREAM LIBRE",
+      "canceled_until": null,
+      "category": {
+        "id": "509658",
+        "name": "Just Chatting"
+      },
+      "is_recurring": false
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiJhYzZjZTRiMi01NTlmLTRjYzQtOGNkNS0yMTdiMGM1YzI1MGEiLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjo0NX0=",
+      "start_time": "2025-11-06T18:30:00Z",
+      "end_time": "2025-11-06T19:30:00Z",
+      "title": "PRÉ LIVE",
+      "canceled_until": null,
+      "category": {
+        "id": "509658",
+        "name": "Just Chatting"
+      },
+      "is_recurring": false
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiI0ZWZkMzM5My1kNmJiLTRlYzktOTk1Yi1lZmUxZjUzZTc4YjgiLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjo0NX0=",
+      "start_time": "2025-11-06T19:30:00Z",
+      "end_time": "2025-11-06T23:00:00Z",
+      "title": "REACT : 100% PHYSIQUE ASIE",
+      "canceled_until": null,
+      "category": {
+        "id": "509658",
+        "name": "Just Chatting"
+      },
+      "is_recurring": false
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiJhMGExMWRkMy0wNWMyLTQwYzMtOGM4OC1jM2UyZDc0OTI4ZjQiLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjo0NX0=",
+      "start_time": "2025-11-07T13:00:00Z",
+      "end_time": "2025-11-07T14:00:00Z",
+      "title": "PRÉ LIVE",
+      "canceled_until": null,
+      "category": {
+        "id": "509658",
+        "name": "Just Chatting"
+      },
+      "is_recurring": false
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiI1MTg0MTAzOS0zNWNjLTQ2OTgtYjIwZi1jMTM2MTZhOGNmMzAiLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjo0NX0=",
+      "start_time": "2025-11-07T14:00:00Z",
+      "end_time": "2025-11-07T18:00:00Z",
+      "title": "STREAM LIBRE",
+      "canceled_until": null,
+      "category": {
+        "id": "509658",
+        "name": "Just Chatting"
+      },
+      "is_recurring": false
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiI0ZWFjYzIxMy1lYWFkLTQxYzMtYjMyYy1hYzIzZGYxODk0NDkiLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjo0Nn0=",
+      "start_time": "2025-11-10T18:30:00Z",
+      "end_time": "2025-11-10T19:30:00Z",
+      "title": "PRÉ LIVE",
+      "canceled_until": null,
+      "category": {
+        "id": "509658",
+        "name": "Just Chatting"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiI0ZWFjYzIxMy1lYWFkLTQxYzMtYjMyYy1hYzIzZGYxODk0NDkiLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjo0N30=",
+      "start_time": "2025-11-17T18:30:00Z",
+      "end_time": "2025-11-17T19:30:00Z",
+      "title": "PRÉ LIVE",
+      "canceled_until": null,
+      "category": {
+        "id": "509658",
+        "name": "Just Chatting"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiI0ZWFjYzIxMy1lYWFkLTQxYzMtYjMyYy1hYzIzZGYxODk0NDkiLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjo0OH0=",
+      "start_time": "2025-11-24T18:30:00Z",
+      "end_time": "2025-11-24T19:30:00Z",
+      "title": "PRÉ LIVE",
+      "canceled_until": null,
+      "category": {
+        "id": "509658",
+        "name": "Just Chatting"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiI0ZWFjYzIxMy1lYWFkLTQxYzMtYjMyYy1hYzIzZGYxODk0NDkiLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjo0OX0=",
+      "start_time": "2025-12-01T18:30:00Z",
+      "end_time": "2025-12-01T19:30:00Z",
+      "title": "PRÉ LIVE",
+      "canceled_until": null,
+      "category": {
+        "id": "509658",
+        "name": "Just Chatting"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiI0ZWFjYzIxMy1lYWFkLTQxYzMtYjMyYy1hYzIzZGYxODk0NDkiLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjo1MH0=",
+      "start_time": "2025-12-08T18:30:00Z",
+      "end_time": "2025-12-08T19:30:00Z",
+      "title": "PRÉ LIVE",
+      "canceled_until": null,
+      "category": {
+        "id": "509658",
+        "name": "Just Chatting"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiI0ZWFjYzIxMy1lYWFkLTQxYzMtYjMyYy1hYzIzZGYxODk0NDkiLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjo1MX0=",
+      "start_time": "2025-12-15T18:30:00Z",
+      "end_time": "2025-12-15T19:30:00Z",
+      "title": "PRÉ LIVE",
+      "canceled_until": null,
+      "category": {
+        "id": "509658",
+        "name": "Just Chatting"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiI0ZWFjYzIxMy1lYWFkLTQxYzMtYjMyYy1hYzIzZGYxODk0NDkiLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjo1Mn0=",
+      "start_time": "2025-12-22T18:30:00Z",
+      "end_time": "2025-12-22T19:30:00Z",
+      "title": "PRÉ LIVE",
+      "canceled_until": null,
+      "category": {
+        "id": "509658",
+        "name": "Just Chatting"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiI0ZWFjYzIxMy1lYWFkLTQxYzMtYjMyYy1hYzIzZGYxODk0NDkiLCJpc29ZZWFyIjoyMDI2LCJpc29XZWVrIjoxfQ==",
+      "start_time": "2025-12-29T18:30:00Z",
+      "end_time": "2025-12-29T19:30:00Z",
+      "title": "PRÉ LIVE",
+      "canceled_until": null,
+      "category": {
+        "id": "509658",
+        "name": "Just Chatting"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiI0ZWFjYzIxMy1lYWFkLTQxYzMtYjMyYy1hYzIzZGYxODk0NDkiLCJpc29ZZWFyIjoyMDI2LCJpc29XZWVrIjoyfQ==",
+      "start_time": "2026-01-05T18:30:00Z",
+      "end_time": "2026-01-05T19:30:00Z",
+      "title": "PRÉ LIVE",
+      "canceled_until": null,
+      "category": {
+        "id": "509658",
+        "name": "Just Chatting"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiI0ZWFjYzIxMy1lYWFkLTQxYzMtYjMyYy1hYzIzZGYxODk0NDkiLCJpc29ZZWFyIjoyMDI2LCJpc29XZWVrIjozfQ==",
+      "start_time": "2026-01-12T18:30:00Z",
+      "end_time": "2026-01-12T19:30:00Z",
+      "title": "PRÉ LIVE",
+      "canceled_until": null,
+      "category": {
+        "id": "509658",
+        "name": "Just Chatting"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiI0ZWFjYzIxMy1lYWFkLTQxYzMtYjMyYy1hYzIzZGYxODk0NDkiLCJpc29ZZWFyIjoyMDI2LCJpc29XZWVrIjo0fQ==",
+      "start_time": "2026-01-19T18:30:00Z",
+      "end_time": "2026-01-19T19:30:00Z",
+      "title": "PRÉ LIVE",
+      "canceled_until": null,
+      "category": {
+        "id": "509658",
+        "name": "Just Chatting"
+      },
+      "is_recurring": true
+    }
+  ]
 }
