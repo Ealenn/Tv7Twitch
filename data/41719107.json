@@ -13,18 +13,6 @@
   },
   "schedulers": [
     {
-      "id": "eyJzZWdtZW50SUQiOiI0YzU3ZjlhMy1jZWJhLTRiMzQtODQ3OC1iZDk3MmI3Y2JkZmEiLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjo0NX0=",
-      "start_time": "2025-11-05T20:00:00Z",
-      "end_time": "2025-11-05T22:00:00Z",
-      "title": "reDécouverte Farming Simulator",
-      "canceled_until": null,
-      "category": {
-        "id": "262437666",
-        "name": "Farming Simulator 25"
-      },
-      "is_recurring": false
-    },
-    {
       "id": "eyJzZWdtZW50SUQiOiIxNDVlYWQzOS1lZTk5LTQzMjQtOGVmYi1hZjNkMTk3NzIyOTMiLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjo0NX0=",
       "start_time": "2025-11-06T17:00:00Z",
       "end_time": "2025-11-06T22:00:00Z",
@@ -244,6 +232,18 @@
       "id": "eyJzZWdtZW50SUQiOiI5M2VkN2YxNi1mM2E5LTRhZjctODAyYi04NGI0NzZkMmRiYzciLCJpc29ZZWFyIjoyMDI2LCJpc29XZWVrIjozfQ==",
       "start_time": "2026-01-12T19:30:00Z",
       "end_time": "2026-01-12T23:00:00Z",
+      "title": "Soirée du lundi",
+      "canceled_until": null,
+      "category": {
+        "id": "509658",
+        "name": "Just Chatting"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiI5M2VkN2YxNi1mM2E5LTRhZjctODAyYi04NGI0NzZkMmRiYzciLCJpc29ZZWFyIjoyMDI2LCJpc29XZWVrIjo0fQ==",
+      "start_time": "2026-01-19T19:30:00Z",
+      "end_time": "2026-01-19T23:00:00Z",
       "title": "Soirée du lundi",
       "canceled_until": null,
       "category": {
