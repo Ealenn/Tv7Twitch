@@ -13,18 +13,6 @@
   },
   "schedulers": [
     {
-      "id": "eyJzZWdtZW50SUQiOiIzZTNmZWFhNC1lMjhkLTRhZTQtODNlZi0zODc1YjdlZGFkZmEiLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjo0NX0=",
-      "start_time": "2025-11-08T09:00:00Z",
-      "end_time": "2025-11-08T21:00:00Z",
-      "title": "JOUR 1 LAN LYON ESPORT VALORANT légendaire avec Hyp MoMaN Laytho et Apo",
-      "canceled_until": null,
-      "category": {
-        "id": "516575",
-        "name": "VALORANT"
-      },
-      "is_recurring": false
-    },
-    {
       "id": "eyJzZWdtZW50SUQiOiI1MWQ5ZjQ5MC01YjVhLTRiYWEtOTczOS1lZjVjOWUzMDkwNzEiLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjo0NX0=",
       "start_time": "2025-11-09T09:00:00Z",
       "end_time": "2025-11-09T21:00:00Z",
@@ -251,6 +239,18 @@
         "name": "Just Chatting"
       },
       "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiI1MThlNWNjNS05ODZhLTQwYjUtYTQyOC1jZGQ5ZTVjYTI2ZjQiLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjo1MH0=",
+      "start_time": "2025-12-13T09:00:00Z",
+      "end_time": "2025-12-13T18:00:00Z",
+      "title": "BROCANTE au Hangar (pas streamé, mais venez !) LeHangar.gg",
+      "canceled_until": null,
+      "category": {
+        "id": "509672",
+        "name": "IRL"
+      },
+      "is_recurring": false
     }
   ]
 }
