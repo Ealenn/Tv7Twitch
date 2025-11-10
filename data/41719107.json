@@ -13,18 +13,6 @@
   },
   "schedulers": [
     {
-      "id": "eyJzZWdtZW50SUQiOiI1MWQ5ZjQ5MC01YjVhLTRiYWEtOTczOS1lZjVjOWUzMDkwNzEiLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjo0NX0=",
-      "start_time": "2025-11-09T09:00:00Z",
-      "end_time": "2025-11-09T21:00:00Z",
-      "title": "JOUR 2 LAN LYON ESPORT VALORANT légendaire avec Hyp MoMaN Laytho et Apo",
-      "canceled_until": null,
-      "category": {
-        "id": "516575",
-        "name": "VALORANT"
-      },
-      "is_recurring": false
-    },
-    {
       "id": "eyJzZWdtZW50SUQiOiI5M2VkN2YxNi1mM2E5LTRhZjctODAyYi04NGI0NzZkMmRiYzciLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjo0Nn0=",
       "start_time": "2025-11-10T19:30:00Z",
       "end_time": "2025-11-10T23:00:00Z",
@@ -251,6 +239,18 @@
         "name": "IRL"
       },
       "is_recurring": false
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiI5M2VkN2YxNi1mM2E5LTRhZjctODAyYi04NGI0NzZkMmRiYzciLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjo1MX0=",
+      "start_time": "2025-12-15T19:30:00Z",
+      "end_time": "2025-12-15T23:00:00Z",
+      "title": "Soirée du lundi",
+      "canceled_until": null,
+      "category": {
+        "id": "509658",
+        "name": "Just Chatting"
+      },
+      "is_recurring": true
     }
   ]
 }
