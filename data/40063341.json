@@ -13,30 +13,6 @@
   },
   "schedulers": [
     {
-      "id": "eyJzZWdtZW50SUQiOiI2NmZiZGNlZS02NTVhLTQxMGItYTI3MC1jN2QzYmZlNzFmZTYiLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjo0Nn0=",
-      "start_time": "2025-11-14T13:00:00Z",
-      "end_time": "2025-11-14T14:00:00Z",
-      "title": "PRÉ LIVE",
-      "canceled_until": null,
-      "category": {
-        "id": "509658",
-        "name": "Just Chatting"
-      },
-      "is_recurring": false
-    },
-    {
-      "id": "eyJzZWdtZW50SUQiOiJmOGE3N2Y4Yi03YzQzLTQ4Y2YtOTIzMy03NWI2ZjQyNmE3YjciLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjo0Nn0=",
-      "start_time": "2025-11-14T14:00:00Z",
-      "end_time": "2025-11-14T18:00:00Z",
-      "title": "STREAM LIBRE",
-      "canceled_until": null,
-      "category": {
-        "id": "509658",
-        "name": "Just Chatting"
-      },
-      "is_recurring": false
-    },
-    {
       "id": "eyJzZWdtZW50SUQiOiI0ZWFjYzIxMy1lYWFkLTQxYzMtYjMyYy1hYzIzZGYxODk0NDkiLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjo0N30=",
       "start_time": "2025-11-17T18:30:00Z",
       "end_time": "2025-11-17T19:30:00Z",
@@ -244,6 +220,30 @@
       "id": "eyJzZWdtZW50SUQiOiI0ZWFjYzIxMy1lYWFkLTQxYzMtYjMyYy1hYzIzZGYxODk0NDkiLCJpc29ZZWFyIjoyMDI2LCJpc29XZWVrIjoxMn0=",
       "start_time": "2026-03-16T18:30:00Z",
       "end_time": "2026-03-16T19:30:00Z",
+      "title": "PRÉ LIVE",
+      "canceled_until": null,
+      "category": {
+        "id": "509658",
+        "name": "Just Chatting"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiI0ZWFjYzIxMy1lYWFkLTQxYzMtYjMyYy1hYzIzZGYxODk0NDkiLCJpc29ZZWFyIjoyMDI2LCJpc29XZWVrIjoxM30=",
+      "start_time": "2026-03-23T18:30:00Z",
+      "end_time": "2026-03-23T19:30:00Z",
+      "title": "PRÉ LIVE",
+      "canceled_until": null,
+      "category": {
+        "id": "509658",
+        "name": "Just Chatting"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiI0ZWFjYzIxMy1lYWFkLTQxYzMtYjMyYy1hYzIzZGYxODk0NDkiLCJpc29ZZWFyIjoyMDI2LCJpc29XZWVrIjoxNH0=",
+      "start_time": "2026-03-30T17:30:00Z",
+      "end_time": "2026-03-30T18:30:00Z",
       "title": "PRÉ LIVE",
       "canceled_until": null,
       "category": {

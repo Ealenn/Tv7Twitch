@@ -13,18 +13,6 @@
   },
   "schedulers": [
     {
-      "id": "eyJzZWdtZW50SUQiOiI3N2JhN2Y5ZC0zN2Y2LTQ4ZDktOTIzMi01YjY0Yjk1YTg4MzQiLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjo0Nn0=",
-      "start_time": "2025-11-14T18:00:00Z",
-      "end_time": "2025-11-14T23:00:00Z",
-      "title": "Sortez moi d'ici ça va être éprouvant",
-      "canceled_until": null,
-      "category": {
-        "id": "1517377137",
-        "name": "RV There Yet?"
-      },
-      "is_recurring": false
-    },
-    {
       "id": "eyJzZWdtZW50SUQiOiI2ZDJlNWFhZi04ODBjLTQ5Y2MtOGRjMi0zZTIxOWRiMDMyNmEiLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjo0Nn0=",
       "start_time": "2025-11-15T12:00:00Z",
       "end_time": "2025-11-15T22:00:00Z",
@@ -244,6 +232,18 @@
       "id": "eyJzZWdtZW50SUQiOiI5M2VkN2YxNi1mM2E5LTRhZjctODAyYi04NGI0NzZkMmRiYzciLCJpc29ZZWFyIjoyMDI2LCJpc29XZWVrIjozfQ==",
       "start_time": "2026-01-12T19:30:00Z",
       "end_time": "2026-01-12T23:00:00Z",
+      "title": "Soirée du lundi",
+      "canceled_until": null,
+      "category": {
+        "id": "509658",
+        "name": "Just Chatting"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiI5M2VkN2YxNi1mM2E5LTRhZjctODAyYi04NGI0NzZkMmRiYzciLCJpc29ZZWFyIjoyMDI2LCJpc29XZWVrIjo0fQ==",
+      "start_time": "2026-01-19T19:30:00Z",
+      "end_time": "2026-01-19T23:00:00Z",
       "title": "Soirée du lundi",
       "canceled_until": null,
       "category": {
