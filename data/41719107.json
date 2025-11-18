@@ -13,30 +13,6 @@
   },
   "schedulers": [
     {
-      "id": "eyJzZWdtZW50SUQiOiJlYTNhOTI4Ni1hOWUyLTQ5NzgtOTkwMi1lMDM4ODM5ZmJmZTMiLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjo0N30=",
-      "start_time": "2025-11-17T05:00:00Z",
-      "end_time": "2025-11-17T08:00:00Z",
-      "title": "Matinale ! On se réveille ensemble ! Jour 1",
-      "canceled_until": null,
-      "category": {
-        "id": "509658",
-        "name": "Just Chatting"
-      },
-      "is_recurring": false
-    },
-    {
-      "id": "eyJzZWdtZW50SUQiOiI5M2VkN2YxNi1mM2E5LTRhZjctODAyYi04NGI0NzZkMmRiYzciLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjo0N30=",
-      "start_time": "2025-11-17T19:30:00Z",
-      "end_time": "2025-11-17T23:00:00Z",
-      "title": "Soirée du lundi",
-      "canceled_until": null,
-      "category": {
-        "id": "509658",
-        "name": "Just Chatting"
-      },
-      "is_recurring": true
-    },
-    {
       "id": "eyJzZWdtZW50SUQiOiI4NjVlZDk1Zi0xZDAyLTQxZWItYjA3OS03ZDYwNTM4Y2ZiMDAiLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjo0N30=",
       "start_time": "2025-11-18T05:00:00Z",
       "end_time": "2025-11-18T08:00:00Z",
@@ -244,6 +220,30 @@
       "id": "eyJzZWdtZW50SUQiOiI5M2VkN2YxNi1mM2E5LTRhZjctODAyYi04NGI0NzZkMmRiYzciLCJpc29ZZWFyIjoyMDI2LCJpc29XZWVrIjo0fQ==",
       "start_time": "2026-01-19T19:30:00Z",
       "end_time": "2026-01-19T23:00:00Z",
+      "title": "Soirée du lundi",
+      "canceled_until": null,
+      "category": {
+        "id": "509658",
+        "name": "Just Chatting"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiI5M2VkN2YxNi1mM2E5LTRhZjctODAyYi04NGI0NzZkMmRiYzciLCJpc29ZZWFyIjoyMDI2LCJpc29XZWVrIjo1fQ==",
+      "start_time": "2026-01-26T19:30:00Z",
+      "end_time": "2026-01-26T23:00:00Z",
+      "title": "Soirée du lundi",
+      "canceled_until": null,
+      "category": {
+        "id": "509658",
+        "name": "Just Chatting"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiI5M2VkN2YxNi1mM2E5LTRhZjctODAyYi04NGI0NzZkMmRiYzciLCJpc29ZZWFyIjoyMDI2LCJpc29XZWVrIjo2fQ==",
+      "start_time": "2026-02-02T19:30:00Z",
+      "end_time": "2026-02-02T23:00:00Z",
       "title": "Soirée du lundi",
       "canceled_until": null,
       "category": {

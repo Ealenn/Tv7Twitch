@@ -11,5 +11,66 @@
     "view_count": 0,
     "created_at": "2013-10-24T19:04:45Z"
   },
-  "schedulers": []
+  "schedulers": [
+    {
+      "id": "eyJzZWdtZW50SUQiOiJjOTUwNzc5MS02ZjlhLTQ0ZWQtYWEzYS1kNDFmZmVjYmVkNWQiLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjo0N30=",
+      "start_time": "2025-11-18T11:00:00Z",
+      "end_time": "2025-11-18T15:00:00Z",
+      "title": "LYCANS",
+      "canceled_until": null,
+      "category": {
+        "id": "1494074023",
+        "name": "Lycans"
+      },
+      "is_recurring": false
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiI4ODhiOGUwZS1hYjY4LTQ1MTMtYTdmMC0wYjZkMzk4YTA3ZjAiLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjo0N30=",
+      "start_time": "2025-11-18T15:00:00Z",
+      "end_time": "2025-11-18T18:00:00Z",
+      "title": "Hades 2 (sur Switch 2)",
+      "canceled_until": null,
+      "category": {
+        "id": "376500771",
+        "name": "Hades II"
+      },
+      "is_recurring": false
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiI4NWJhOGNhYy1hZDQ4LTRhYjUtYmY0NC05NGZmYjYwM2M4NmQiLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjo0N30=",
+      "start_time": "2025-11-19T19:00:00Z",
+      "end_time": "2025-11-19T23:00:00Z",
+      "title": "Maitre des Fleurs spécial avec DFG (le retour)",
+      "canceled_until": null,
+      "category": {
+        "id": "338715930",
+        "name": "Maitre des Fleurs"
+      },
+      "is_recurring": false
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiI0ZjA5ODdkYi1jZGU2LTQyMjYtYjNkOS1iYzYxODczMDc4ZWEiLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjo0N30=",
+      "start_time": "2025-11-20T11:00:00Z",
+      "end_time": "2025-11-20T15:00:00Z",
+      "title": "Hype totale Kirby Air Riders",
+      "canceled_until": null,
+      "category": {
+        "id": "2086806174",
+        "name": "Kirby Air Riders"
+      },
+      "is_recurring": false
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiI1ZTBhMzg4Yi00NWFmLTRmZmQtODVjZi1lZTJkZjFjOWYxYjgiLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjo0N30=",
+      "start_time": "2025-11-21T11:00:00Z",
+      "end_time": "2025-11-21T15:00:00Z",
+      "title": "Suite de l'aventure",
+      "canceled_until": null,
+      "category": {
+        "id": "602959317",
+        "name": "Dispatch"
+      },
+      "is_recurring": false
+    }
+  ]
 }
