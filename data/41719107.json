@@ -13,10 +13,10 @@
   },
   "schedulers": [
     {
-      "id": "eyJzZWdtZW50SUQiOiI4NjVlZDk1Zi0xZDAyLTQxZWItYjA3OS03ZDYwNTM4Y2ZiMDAiLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjo0N30=",
-      "start_time": "2025-11-18T05:00:00Z",
-      "end_time": "2025-11-18T08:00:00Z",
-      "title": "Matinale ! On se réveille ensemble ! Jour 2",
+      "id": "eyJzZWdtZW50SUQiOiIzNDM4MjJhNS1hNjBkLTRjMGMtYTk0Yy0zNTFmYzYwNWY2ZDgiLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjo0N30=",
+      "start_time": "2025-11-19T05:00:00Z",
+      "end_time": "2025-11-19T08:00:00Z",
+      "title": "Matinale ! On se réveille ensemble ! Jour 3",
       "canceled_until": null,
       "category": {
         "id": "509658",
@@ -25,10 +25,10 @@
       "is_recurring": false
     },
     {
-      "id": "eyJzZWdtZW50SUQiOiIxNGE0YmVmZC1kNDI1LTRiNGQtYTYzOC1mZjI1ZDBmMDE3ZDIiLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjo0N30=",
-      "start_time": "2025-11-18T13:30:00Z",
-      "end_time": "2025-11-18T17:30:00Z",
-      "title": "Anno 117 en coop avec @Kennystream et @Alphacast",
+      "id": "eyJzZWdtZW50SUQiOiJmYjhlOTZkYS00YjVkLTQzYjctODFlNC04NzIxZmRhYzQ4NDciLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjo0N30=",
+      "start_time": "2025-11-19T14:30:00Z",
+      "end_time": "2025-11-19T18:00:00Z",
+      "title": "Suite et fin Anno en CoOp avec Alpha et Kenny",
       "canceled_until": null,
       "category": {
         "id": "1637021799",
@@ -37,10 +37,10 @@
       "is_recurring": false
     },
     {
-      "id": "eyJzZWdtZW50SUQiOiIzNDM4MjJhNS1hNjBkLTRjMGMtYTk0Yy0zNTFmYzYwNWY2ZDgiLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjo0N30=",
-      "start_time": "2025-11-19T05:00:00Z",
-      "end_time": "2025-11-19T08:00:00Z",
-      "title": "Matinale ! On se réveille ensemble ! Jour 3",
+      "id": "eyJzZWdtZW50SUQiOiIwNzFlZGYwOC03ZDE0LTQ2MmMtOTFkNi1lZTAyNDZkZDA5ZDUiLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjo0N30=",
+      "start_time": "2025-11-19T18:00:00Z",
+      "end_time": "2025-11-19T20:00:00Z",
+      "title": "Quizz Nagatow gaming",
       "canceled_until": null,
       "category": {
         "id": "509658",
