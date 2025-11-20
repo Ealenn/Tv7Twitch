@@ -13,18 +13,6 @@
   },
   "schedulers": [
     {
-      "id": "eyJzZWdtZW50SUQiOiI4NWJhOGNhYy1hZDQ4LTRhYjUtYmY0NC05NGZmYjYwM2M4NmQiLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjo0N30=",
-      "start_time": "2025-11-19T19:00:00Z",
-      "end_time": "2025-11-19T23:00:00Z",
-      "title": "Maitre des Fleurs spécial avec DFG (le retour)",
-      "canceled_until": null,
-      "category": {
-        "id": "338715930",
-        "name": "Maitre des Fleurs"
-      },
-      "is_recurring": false
-    },
-    {
       "id": "eyJzZWdtZW50SUQiOiI0ZjA5ODdkYi1jZGU2LTQyMjYtYjNkOS1iYzYxODczMDc4ZWEiLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjo0N30=",
       "start_time": "2025-11-20T11:00:00Z",
       "end_time": "2025-11-20T15:00:00Z",

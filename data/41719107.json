@@ -13,42 +13,6 @@
   },
   "schedulers": [
     {
-      "id": "eyJzZWdtZW50SUQiOiIzNDM4MjJhNS1hNjBkLTRjMGMtYTk0Yy0zNTFmYzYwNWY2ZDgiLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjo0N30=",
-      "start_time": "2025-11-19T05:00:00Z",
-      "end_time": "2025-11-19T08:00:00Z",
-      "title": "Matinale ! On se réveille ensemble ! Jour 3",
-      "canceled_until": null,
-      "category": {
-        "id": "509658",
-        "name": "Just Chatting"
-      },
-      "is_recurring": false
-    },
-    {
-      "id": "eyJzZWdtZW50SUQiOiJmYjhlOTZkYS00YjVkLTQzYjctODFlNC04NzIxZmRhYzQ4NDciLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjo0N30=",
-      "start_time": "2025-11-19T14:30:00Z",
-      "end_time": "2025-11-19T18:00:00Z",
-      "title": "Suite et fin Anno en CoOp avec Alpha et Kenny",
-      "canceled_until": null,
-      "category": {
-        "id": "1637021799",
-        "name": "Anno 117: Pax Romana"
-      },
-      "is_recurring": false
-    },
-    {
-      "id": "eyJzZWdtZW50SUQiOiIwNzFlZGYwOC03ZDE0LTQ2MmMtOTFkNi1lZTAyNDZkZDA5ZDUiLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjo0N30=",
-      "start_time": "2025-11-19T18:00:00Z",
-      "end_time": "2025-11-19T20:00:00Z",
-      "title": "Quizz Nagatow gaming",
-      "canceled_until": null,
-      "category": {
-        "id": "509658",
-        "name": "Just Chatting"
-      },
-      "is_recurring": false
-    },
-    {
       "id": "eyJzZWdtZW50SUQiOiI4ZjQ2NTU0NC1jOTVjLTQxMTctOGUyNy05Yzg2YTBmMTQ2MjMiLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjo0N30=",
       "start_time": "2025-11-20T05:00:00Z",
       "end_time": "2025-11-20T08:00:00Z",
@@ -244,6 +208,42 @@
       "id": "eyJzZWdtZW50SUQiOiI5M2VkN2YxNi1mM2E5LTRhZjctODAyYi04NGI0NzZkMmRiYzciLCJpc29ZZWFyIjoyMDI2LCJpc29XZWVrIjo2fQ==",
       "start_time": "2026-02-02T19:30:00Z",
       "end_time": "2026-02-02T23:00:00Z",
+      "title": "Soirée du lundi",
+      "canceled_until": null,
+      "category": {
+        "id": "509658",
+        "name": "Just Chatting"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiI5M2VkN2YxNi1mM2E5LTRhZjctODAyYi04NGI0NzZkMmRiYzciLCJpc29ZZWFyIjoyMDI2LCJpc29XZWVrIjo3fQ==",
+      "start_time": "2026-02-09T19:30:00Z",
+      "end_time": "2026-02-09T23:00:00Z",
+      "title": "Soirée du lundi",
+      "canceled_until": null,
+      "category": {
+        "id": "509658",
+        "name": "Just Chatting"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiI5M2VkN2YxNi1mM2E5LTRhZjctODAyYi04NGI0NzZkMmRiYzciLCJpc29ZZWFyIjoyMDI2LCJpc29XZWVrIjo4fQ==",
+      "start_time": "2026-02-16T19:30:00Z",
+      "end_time": "2026-02-16T23:00:00Z",
+      "title": "Soirée du lundi",
+      "canceled_until": null,
+      "category": {
+        "id": "509658",
+        "name": "Just Chatting"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiI5M2VkN2YxNi1mM2E5LTRhZjctODAyYi04NGI0NzZkMmRiYzciLCJpc29ZZWFyIjoyMDI2LCJpc29XZWVrIjo5fQ==",
+      "start_time": "2026-02-23T19:30:00Z",
+      "end_time": "2026-02-23T23:00:00Z",
       "title": "Soirée du lundi",
       "canceled_until": null,
       "category": {
