@@ -13,30 +13,6 @@
   },
   "schedulers": [
     {
-      "id": "eyJzZWdtZW50SUQiOiJlNmY5MTgzYy0xYjc0LTQ2NTUtOGRmZC1jOTRkMjMyODFlOWIiLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjo0N30=",
-      "start_time": "2025-11-21T05:00:00Z",
-      "end_time": "2025-11-21T08:00:00Z",
-      "title": "Matinale ! On se réveille ensemble ! Jour 5",
-      "canceled_until": null,
-      "category": {
-        "id": "509658",
-        "name": "Just Chatting"
-      },
-      "is_recurring": false
-    },
-    {
-      "id": "eyJzZWdtZW50SUQiOiIxNThjYTlmOC1iNzQ5LTRlOGItYWUzNC1jYjNhMzQ2N2E2ZDkiLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjo0N30=",
-      "start_time": "2025-11-21T18:00:00Z",
-      "end_time": "2025-11-21T23:00:00Z",
-      "title": "Jour 1 : Mandatory WoW en finale des MDI pour le titre mondial !",
-      "canceled_until": null,
-      "category": {
-        "id": "18122",
-        "name": "World of Warcraft"
-      },
-      "is_recurring": false
-    },
-    {
       "id": "eyJzZWdtZW50SUQiOiI4YTkwZDM1OC0zNDk0LTRkODEtYWNjMS1kYmMzNjg0ODYzYTEiLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjo0N30=",
       "start_time": "2025-11-22T18:00:00Z",
       "end_time": "2025-11-22T23:00:00Z",
@@ -244,6 +220,30 @@
       "id": "eyJzZWdtZW50SUQiOiI5M2VkN2YxNi1mM2E5LTRhZjctODAyYi04NGI0NzZkMmRiYzciLCJpc29ZZWFyIjoyMDI2LCJpc29XZWVrIjoxMH0=",
       "start_time": "2026-03-02T19:30:00Z",
       "end_time": "2026-03-02T23:00:00Z",
+      "title": "Soirée du lundi",
+      "canceled_until": null,
+      "category": {
+        "id": "509658",
+        "name": "Just Chatting"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiI5M2VkN2YxNi1mM2E5LTRhZjctODAyYi04NGI0NzZkMmRiYzciLCJpc29ZZWFyIjoyMDI2LCJpc29XZWVrIjoxMX0=",
+      "start_time": "2026-03-09T19:30:00Z",
+      "end_time": "2026-03-09T23:00:00Z",
+      "title": "Soirée du lundi",
+      "canceled_until": null,
+      "category": {
+        "id": "509658",
+        "name": "Just Chatting"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiI5M2VkN2YxNi1mM2E5LTRhZjctODAyYi04NGI0NzZkMmRiYzciLCJpc29ZZWFyIjoyMDI2LCJpc29XZWVrIjoxMn0=",
+      "start_time": "2026-03-16T19:30:00Z",
+      "end_time": "2026-03-16T23:00:00Z",
       "title": "Soirée du lundi",
       "canceled_until": null,
       "category": {
