@@ -13,16 +13,52 @@
   },
   "schedulers": [
     {
-      "id": "eyJzZWdtZW50SUQiOiI5M2VkN2YxNi1mM2E5LTRhZjctODAyYi04NGI0NzZkMmRiYzciLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjo0OH0=",
-      "start_time": "2025-11-24T19:30:00Z",
-      "end_time": "2025-11-24T23:00:00Z",
-      "title": "Soirée du lundi",
+      "id": "eyJzZWdtZW50SUQiOiI2MzI0YzdhZS1mZmU1LTRjZDctYTkxNi1lYWFmYWI0MzUzOGEiLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjo0OH0=",
+      "start_time": "2025-11-25T17:00:00Z",
+      "end_time": "2025-11-25T21:00:00Z",
+      "title": "Stream jeux et autres",
       "canceled_until": null,
       "category": {
         "id": "509658",
         "name": "Just Chatting"
       },
-      "is_recurring": true
+      "is_recurring": false
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiJlMzdiOGEyMy02NDRjLTQ5NjYtYjhjNy1mNGMxNzc2NzY0NTMiLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjo0OH0=",
+      "start_time": "2025-11-26T19:00:00Z",
+      "end_time": "2025-11-26T21:00:00Z",
+      "title": "Spy Party en plateau avec AntoineDaniel",
+      "canceled_until": null,
+      "category": {
+        "id": "27449",
+        "name": "SpyParty"
+      },
+      "is_recurring": false
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiJjNTBhMGU2NS03MTMxLTQ1OTctYTc5ZC1mMTc4YzRkZmY4MGUiLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjo0OH0=",
+      "start_time": "2025-11-28T19:00:00Z",
+      "end_time": "2025-11-28T23:00:00Z",
+      "title": "[Sur la chaîne Alphacast] Table Quest",
+      "canceled_until": null,
+      "category": {
+        "id": "509664",
+        "name": "Tabletop RPGs"
+      },
+      "is_recurring": false
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiI5NGRiZmRkMC1iY2ZkLTQ4MjAtYjEzZi04NjlkYzk4OTY4YmYiLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjo0OH0=",
+      "start_time": "2025-11-30T12:00:00Z",
+      "end_time": "2025-11-30T22:00:00Z",
+      "title": "LAN Fastlearner BEGINNER 2 WINNER by Nykho",
+      "canceled_until": null,
+      "category": {
+        "id": "12308397",
+        "name": "LAN Party"
+      },
+      "is_recurring": false
     },
     {
       "id": "eyJzZWdtZW50SUQiOiI5M2VkN2YxNi1mM2E5LTRhZjctODAyYi04NGI0NzZkMmRiYzciLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjo0OX0=",
@@ -208,42 +244,6 @@
       "id": "eyJzZWdtZW50SUQiOiI5M2VkN2YxNi1mM2E5LTRhZjctODAyYi04NGI0NzZkMmRiYzciLCJpc29ZZWFyIjoyMDI2LCJpc29XZWVrIjoxMX0=",
       "start_time": "2026-03-09T19:30:00Z",
       "end_time": "2026-03-09T23:00:00Z",
-      "title": "Soirée du lundi",
-      "canceled_until": null,
-      "category": {
-        "id": "509658",
-        "name": "Just Chatting"
-      },
-      "is_recurring": true
-    },
-    {
-      "id": "eyJzZWdtZW50SUQiOiI5M2VkN2YxNi1mM2E5LTRhZjctODAyYi04NGI0NzZkMmRiYzciLCJpc29ZZWFyIjoyMDI2LCJpc29XZWVrIjoxMn0=",
-      "start_time": "2026-03-16T19:30:00Z",
-      "end_time": "2026-03-16T23:00:00Z",
-      "title": "Soirée du lundi",
-      "canceled_until": null,
-      "category": {
-        "id": "509658",
-        "name": "Just Chatting"
-      },
-      "is_recurring": true
-    },
-    {
-      "id": "eyJzZWdtZW50SUQiOiI5M2VkN2YxNi1mM2E5LTRhZjctODAyYi04NGI0NzZkMmRiYzciLCJpc29ZZWFyIjoyMDI2LCJpc29XZWVrIjoxM30=",
-      "start_time": "2026-03-23T19:30:00Z",
-      "end_time": "2026-03-23T23:00:00Z",
-      "title": "Soirée du lundi",
-      "canceled_until": null,
-      "category": {
-        "id": "509658",
-        "name": "Just Chatting"
-      },
-      "is_recurring": true
-    },
-    {
-      "id": "eyJzZWdtZW50SUQiOiI5M2VkN2YxNi1mM2E5LTRhZjctODAyYi04NGI0NzZkMmRiYzciLCJpc29ZZWFyIjoyMDI2LCJpc29XZWVrIjoxNH0=",
-      "start_time": "2026-03-30T18:30:00Z",
-      "end_time": "2026-03-30T22:00:00Z",
       "title": "Soirée du lundi",
       "canceled_until": null,
       "category": {
