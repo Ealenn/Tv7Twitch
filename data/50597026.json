@@ -13,18 +13,6 @@
   },
   "schedulers": [
     {
-      "id": "eyJzZWdtZW50SUQiOiI0YzRjYmQ2OS0wMTU1LTQxOWItYWFiZC1kZTAyZTdiNjFhMDgiLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjo0OH0=",
-      "start_time": "2025-11-25T11:00:00Z",
-      "end_time": "2025-11-25T15:00:00Z",
-      "title": "",
-      "canceled_until": null,
-      "category": {
-        "id": "1494074023",
-        "name": "Lycans"
-      },
-      "is_recurring": false
-    },
-    {
       "id": "eyJzZWdtZW50SUQiOiI4ZGNiZGFkNi1lMmU3LTQzZmEtYTE2Ni1kNzE0MzcxM2E0ZWUiLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjo0OH0=",
       "start_time": "2025-11-26T11:00:00Z",
       "end_time": "2025-11-26T13:00:00Z",

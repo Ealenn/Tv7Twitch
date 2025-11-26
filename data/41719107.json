@@ -13,18 +13,6 @@
   },
   "schedulers": [
     {
-      "id": "eyJzZWdtZW50SUQiOiI2MzI0YzdhZS1mZmU1LTRjZDctYTkxNi1lYWFmYWI0MzUzOGEiLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjo0OH0=",
-      "start_time": "2025-11-25T17:00:00Z",
-      "end_time": "2025-11-25T21:00:00Z",
-      "title": "Stream jeux et autres",
-      "canceled_until": null,
-      "category": {
-        "id": "509658",
-        "name": "Just Chatting"
-      },
-      "is_recurring": false
-    },
-    {
       "id": "eyJzZWdtZW50SUQiOiJlMzdiOGEyMy02NDRjLTQ5NjYtYjhjNy1mNGMxNzc2NzY0NTMiLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjo0OH0=",
       "start_time": "2025-11-26T19:00:00Z",
       "end_time": "2025-11-26T21:00:00Z",
@@ -33,6 +21,18 @@
       "category": {
         "id": "27449",
         "name": "SpyParty"
+      },
+      "is_recurring": false
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiIyMTJjYTU2OS02OTY0LTRmNWMtOTk4MC1kYzI3NGIwMzVmYmQiLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjo0OH0=",
+      "start_time": "2025-11-27T19:30:00Z",
+      "end_time": "2025-11-27T22:30:00Z",
+      "title": "RPG Teamplay en trio avec Kenny et Hyp",
+      "canceled_until": null,
+      "category": {
+        "id": "687129551",
+        "name": "Trackmania"
       },
       "is_recurring": false
     },
