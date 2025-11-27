@@ -13,30 +13,6 @@
   },
   "schedulers": [
     {
-      "id": "eyJzZWdtZW50SUQiOiI4ZGNiZGFkNi1lMmU3LTQzZmEtYTE2Ni1kNzE0MzcxM2E0ZWUiLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjo0OH0=",
-      "start_time": "2025-11-26T11:00:00Z",
-      "end_time": "2025-11-26T13:00:00Z",
-      "title": "",
-      "canceled_until": null,
-      "category": {
-        "id": "602959317",
-        "name": "Dispatch"
-      },
-      "is_recurring": false
-    },
-    {
-      "id": "eyJzZWdtZW50SUQiOiJjZjYwYjI5My00MjU1LTQ4ZDYtYjk1MS03YzY5ZjA3NjA2MTQiLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjo0OH0=",
-      "start_time": "2025-11-26T13:00:00Z",
-      "end_time": "2025-11-26T17:00:00Z",
-      "title": "",
-      "canceled_until": null,
-      "category": {
-        "id": "376500771",
-        "name": "Hades II"
-      },
-      "is_recurring": false
-    },
-    {
       "id": "eyJzZWdtZW50SUQiOiJiZWVhYWZmNC0wOWE4LTQ1ZjUtYmMyNi05NjExYWEzZmUwMGYiLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjo0OH0=",
       "start_time": "2025-11-27T11:00:00Z",
       "end_time": "2025-11-27T15:00:00Z",
