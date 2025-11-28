@@ -13,18 +13,6 @@
   },
   "schedulers": [
     {
-      "id": "eyJzZWdtZW50SUQiOiIyMTJjYTU2OS02OTY0LTRmNWMtOTk4MC1kYzI3NGIwMzVmYmQiLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjo0OH0=",
-      "start_time": "2025-11-27T19:30:00Z",
-      "end_time": "2025-11-27T22:30:00Z",
-      "title": "RPG Teamplay en trio avec Kenny et Hyp",
-      "canceled_until": null,
-      "category": {
-        "id": "687129551",
-        "name": "Trackmania"
-      },
-      "is_recurring": false
-    },
-    {
       "id": "eyJzZWdtZW50SUQiOiJjNTBhMGU2NS03MTMxLTQ1OTctYTc5ZC1mMTc4YzRkZmY4MGUiLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjo0OH0=",
       "start_time": "2025-11-28T19:00:00Z",
       "end_time": "2025-11-28T23:00:00Z",
@@ -244,6 +232,18 @@
       "id": "eyJzZWdtZW50SUQiOiI5M2VkN2YxNi1mM2E5LTRhZjctODAyYi04NGI0NzZkMmRiYzciLCJpc29ZZWFyIjoyMDI2LCJpc29XZWVrIjoxMn0=",
       "start_time": "2026-03-16T19:30:00Z",
       "end_time": "2026-03-16T23:00:00Z",
+      "title": "Soirée du lundi",
+      "canceled_until": null,
+      "category": {
+        "id": "509658",
+        "name": "Just Chatting"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiI5M2VkN2YxNi1mM2E5LTRhZjctODAyYi04NGI0NzZkMmRiYzciLCJpc29ZZWFyIjoyMDI2LCJpc29XZWVrIjoxM30=",
+      "start_time": "2026-03-23T19:30:00Z",
+      "end_time": "2026-03-23T23:00:00Z",
       "title": "Soirée du lundi",
       "canceled_until": null,
       "category": {
