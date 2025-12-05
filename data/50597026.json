@@ -13,18 +13,6 @@
   },
   "schedulers": [
     {
-      "id": "eyJzZWdtZW50SUQiOiJjN2FiMzU4Mi1kZDBjLTRkNWItYTM3Ni1hNGU5ODNjZmJhZDYiLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjo0OX0=",
-      "start_time": "2025-12-04T11:00:00Z",
-      "end_time": "2025-12-04T16:00:00Z",
-      "title": "Stream Libre",
-      "canceled_until": null,
-      "category": {
-        "id": "509658",
-        "name": "Just Chatting"
-      },
-      "is_recurring": false
-    },
-    {
       "id": "eyJzZWdtZW50SUQiOiI3MGRmZmQ4Yi1hNDAwLTQ3YTEtYjVhZi0wYzFlN2M4ZTc2YmYiLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjo0OX0=",
       "start_time": "2025-12-05T11:00:00Z",
       "end_time": "2025-12-05T16:00:00Z",
