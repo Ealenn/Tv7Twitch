@@ -7,16 +7,16 @@
     "broadcaster_type": "partner",
     "description": "Président du FC Silmi",
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/3cdae7df-600c-4833-8dfe-8d2abc5a3b25-profile_image-300x300.png",
-    "offline_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/5136c8e2-02be-41a1-8c8d-ab12dcfa5eaa-channel_offline_image-1920x1080.png",
+    "offline_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/f56fb6de-0ccd-4219-a5de-edc682982114-channel_offline_image-1920x1080.png",
     "view_count": 0,
     "created_at": "2013-02-05T19:20:22Z"
   },
   "schedulers": [
     {
-      "id": "eyJzZWdtZW50SUQiOiI4ZTRkNzQ4NS0yYTcyLTQ2NmMtYWM3My0wYWU2MDAwMjZlYzIiLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjo0OX0=",
-      "start_time": "2025-12-06T12:00:00Z",
-      "end_time": "2025-12-06T23:00:00Z",
-      "title": "LES OG'S AU BRÉSIL",
+      "id": "eyJzZWdtZW50SUQiOiJjMzNkYWUyNi01ZjgzLTQ0YTktYWFiMS05YTU3ZDQ5YjJiYmIiLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjo0OX0=",
+      "start_time": "2025-12-07T12:00:00Z",
+      "end_time": "2025-12-07T23:00:00Z",
+      "title": "🇧🇷 LES OG'S AU BRÉSIL",
       "canceled_until": null,
       "category": {
         "id": "21779",
@@ -25,10 +25,10 @@
       "is_recurring": false
     },
     {
-      "id": "eyJzZWdtZW50SUQiOiJjMzNkYWUyNi01ZjgzLTQ0YTktYWFiMS05YTU3ZDQ5YjJiYmIiLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjo0OX0=",
-      "start_time": "2025-12-07T12:00:00Z",
-      "end_time": "2025-12-07T23:00:00Z",
-      "title": "LES OG'S AU BRÉSIL",
+      "id": "eyJzZWdtZW50SUQiOiIyNTA5MjQ2OC1jOTQ1LTRjMWUtOTMxMy00NGU3ODI4ZjVhZmIiLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjo1MH0=",
+      "start_time": "2025-12-08T12:00:00Z",
+      "end_time": "2025-12-08T23:00:00Z",
+      "title": "🇧🇷 LES OG'S AU BRÉSIL",
       "canceled_until": null,
       "category": {
         "id": "21779",
@@ -41,12 +41,48 @@
       "start_time": "2025-12-08T18:30:00Z",
       "end_time": "2025-12-08T19:30:00Z",
       "title": "PRÉ LIVE",
-      "canceled_until": null,
+      "canceled_until": "2025-12-08T19:30:00Z",
       "category": {
         "id": "509658",
         "name": "Just Chatting"
       },
       "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiIzYzVmYjQ5ZC0xYTkyLTQ3MGUtOGFkNi0yMjVkYjI3OTJiNzEiLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjo1MH0=",
+      "start_time": "2025-12-09T12:00:00Z",
+      "end_time": "2025-12-09T23:00:00Z",
+      "title": "🇧🇷 LES OG'S AU BRÉSIL",
+      "canceled_until": null,
+      "category": {
+        "id": "21779",
+        "name": "League of Legends"
+      },
+      "is_recurring": false
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiIyZDhlOWVhNS1lZDhjLTQ4ZWUtYjRlYy0zZWE0ZDMxOGIzNmQiLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjo1MH0=",
+      "start_time": "2025-12-10T12:00:00Z",
+      "end_time": "2025-12-10T23:00:00Z",
+      "title": "🇧🇷 LES OG'S AU BRÉSIL",
+      "canceled_until": null,
+      "category": {
+        "id": "21779",
+        "name": "League of Legends"
+      },
+      "is_recurring": false
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiIyNTEyNmM0Mi1jY2RjLTQ4MDktYTVjMy1iZDMzZDU0MzM0YzEiLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjo1MH0=",
+      "start_time": "2025-12-11T12:00:00Z",
+      "end_time": "2025-12-11T23:00:00Z",
+      "title": "🇧🇷 LES OG'S AU BRÉSIL",
+      "canceled_until": null,
+      "category": {
+        "id": "21779",
+        "name": "League of Legends"
+      },
+      "is_recurring": false
     },
     {
       "id": "eyJzZWdtZW50SUQiOiI0ZWFjYzIxMy1lYWFkLTQxYzMtYjMyYy1hYzIzZGYxODk0NDkiLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjo1MX0=",
@@ -208,42 +244,6 @@
       "id": "eyJzZWdtZW50SUQiOiI0ZWFjYzIxMy1lYWFkLTQxYzMtYjMyYy1hYzIzZGYxODk0NDkiLCJpc29ZZWFyIjoyMDI2LCJpc29XZWVrIjoxMn0=",
       "start_time": "2026-03-16T18:30:00Z",
       "end_time": "2026-03-16T19:30:00Z",
-      "title": "PRÉ LIVE",
-      "canceled_until": null,
-      "category": {
-        "id": "509658",
-        "name": "Just Chatting"
-      },
-      "is_recurring": true
-    },
-    {
-      "id": "eyJzZWdtZW50SUQiOiI0ZWFjYzIxMy1lYWFkLTQxYzMtYjMyYy1hYzIzZGYxODk0NDkiLCJpc29ZZWFyIjoyMDI2LCJpc29XZWVrIjoxM30=",
-      "start_time": "2026-03-23T18:30:00Z",
-      "end_time": "2026-03-23T19:30:00Z",
-      "title": "PRÉ LIVE",
-      "canceled_until": null,
-      "category": {
-        "id": "509658",
-        "name": "Just Chatting"
-      },
-      "is_recurring": true
-    },
-    {
-      "id": "eyJzZWdtZW50SUQiOiI0ZWFjYzIxMy1lYWFkLTQxYzMtYjMyYy1hYzIzZGYxODk0NDkiLCJpc29ZZWFyIjoyMDI2LCJpc29XZWVrIjoxNH0=",
-      "start_time": "2026-03-30T17:30:00Z",
-      "end_time": "2026-03-30T18:30:00Z",
-      "title": "PRÉ LIVE",
-      "canceled_until": null,
-      "category": {
-        "id": "509658",
-        "name": "Just Chatting"
-      },
-      "is_recurring": true
-    },
-    {
-      "id": "eyJzZWdtZW50SUQiOiI0ZWFjYzIxMy1lYWFkLTQxYzMtYjMyYy1hYzIzZGYxODk0NDkiLCJpc29ZZWFyIjoyMDI2LCJpc29XZWVrIjoxNX0=",
-      "start_time": "2026-04-06T17:30:00Z",
-      "end_time": "2026-04-06T18:30:00Z",
       "title": "PRÉ LIVE",
       "canceled_until": null,
       "category": {
