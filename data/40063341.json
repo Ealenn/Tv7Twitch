@@ -13,18 +13,6 @@
   },
   "schedulers": [
     {
-      "id": "eyJzZWdtZW50SUQiOiJjMzNkYWUyNi01ZjgzLTQ0YTktYWFiMS05YTU3ZDQ5YjJiYmIiLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjo0OX0=",
-      "start_time": "2025-12-07T12:00:00Z",
-      "end_time": "2025-12-07T23:00:00Z",
-      "title": "🇧🇷 LES OG'S AU BRÉSIL",
-      "canceled_until": null,
-      "category": {
-        "id": "21779",
-        "name": "League of Legends"
-      },
-      "is_recurring": false
-    },
-    {
       "id": "eyJzZWdtZW50SUQiOiIyNTA5MjQ2OC1jOTQ1LTRjMWUtOTMxMy00NGU3ODI4ZjVhZmIiLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjo1MH0=",
       "start_time": "2025-12-08T12:00:00Z",
       "end_time": "2025-12-08T23:00:00Z",
@@ -244,6 +232,18 @@
       "id": "eyJzZWdtZW50SUQiOiI0ZWFjYzIxMy1lYWFkLTQxYzMtYjMyYy1hYzIzZGYxODk0NDkiLCJpc29ZZWFyIjoyMDI2LCJpc29XZWVrIjoxMn0=",
       "start_time": "2026-03-16T18:30:00Z",
       "end_time": "2026-03-16T19:30:00Z",
+      "title": "PRÉ LIVE",
+      "canceled_until": null,
+      "category": {
+        "id": "509658",
+        "name": "Just Chatting"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiI0ZWFjYzIxMy1lYWFkLTQxYzMtYjMyYy1hYzIzZGYxODk0NDkiLCJpc29ZZWFyIjoyMDI2LCJpc29XZWVrIjoxM30=",
+      "start_time": "2026-03-23T18:30:00Z",
+      "end_time": "2026-03-23T19:30:00Z",
       "title": "PRÉ LIVE",
       "canceled_until": null,
       "category": {
