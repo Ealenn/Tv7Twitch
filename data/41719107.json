@@ -5,13 +5,37 @@
     "display_name": "ZeratoR",
     "type": "",
     "broadcaster_type": "partner",
-    "description": "Entrepreneur - Twitch partner - CEO @Unexpected_std & @MandatoryGG & Founder ZEVENT - Casu à mon grand dam mais j'organise des trucs. - contact : @alexdach on Twitter or dach@zerator.tv (we read emails)",
+    "description": "Entrepreneur - Twitch partner - CEO @Unexpected_std & @MandatoryGG & Founder ZEVENT & ZLAN - Casu à mon grand dam mais je fais parfois des trucs. - contact : @alexdach on Twitter or dach@zerator.tv (we read emails)",
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/599b546a-c27f-4684-93ff-5eeecd01fb2b-profile_image-300x300.png",
     "offline_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/3dc66d05-f8c3-4c8d-91df-da67531dbc4a-channel_offline_image-1920x1080.jpeg",
     "view_count": 0,
     "created_at": "2013-03-25T23:44:28Z"
   },
   "schedulers": [
+    {
+      "id": "eyJzZWdtZW50SUQiOiIyMTAyNGU4My1jNjc3LTQ5N2QtOTA1OS1iYWE0M2E0NDkwMjkiLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjo1MH0=",
+      "start_time": "2025-12-11T20:30:00Z",
+      "end_time": "2025-12-11T23:30:00Z",
+      "title": "Stream Gaming",
+      "canceled_until": null,
+      "category": {
+        "id": "509658",
+        "name": "Just Chatting"
+      },
+      "is_recurring": false
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiI0OTM3ZGE4Ny00YzFmLTQ4YzgtODMzNC00MWM1YmNmNTg4MTQiLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjo1MH0=",
+      "start_time": "2025-12-12T19:00:00Z",
+      "end_time": "2025-12-12T23:00:00Z",
+      "title": "[Sur la chaîne ALPHACAST] Table Quest",
+      "canceled_until": null,
+      "category": {
+        "id": "509664",
+        "name": "Tabletop RPGs"
+      },
+      "is_recurring": false
+    },
     {
       "id": "eyJzZWdtZW50SUQiOiI1MThlNWNjNS05ODZhLTQwYjUtYTQyOC1jZGQ5ZTVjYTI2ZjQiLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjo1MH0=",
       "start_time": "2025-12-13T09:00:00Z",
@@ -21,6 +45,18 @@
       "category": {
         "id": "509672",
         "name": "IRL"
+      },
+      "is_recurring": false
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiJlZGQ2MzI2Yy02YWZhLTQ3Y2MtODI2Zi1jZTFkMzU1M2FhZWYiLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjo1MH0=",
+      "start_time": "2025-12-14T18:00:00Z",
+      "end_time": "2025-12-14T21:00:00Z",
+      "title": "Battlefield REDSEC Challenge avec Hyp_TV JulietteARZ et Gius",
+      "canceled_until": null,
+      "category": {
+        "id": "1848745913",
+        "name": "Battlefield REDSEC"
       },
       "is_recurring": false
     },
@@ -208,42 +244,6 @@
       "id": "eyJzZWdtZW50SUQiOiI5M2VkN2YxNi1mM2E5LTRhZjctODAyYi04NGI0NzZkMmRiYzciLCJpc29ZZWFyIjoyMDI2LCJpc29XZWVrIjoxNH0=",
       "start_time": "2026-03-30T18:30:00Z",
       "end_time": "2026-03-30T22:00:00Z",
-      "title": "Soirée du lundi",
-      "canceled_until": null,
-      "category": {
-        "id": "509658",
-        "name": "Just Chatting"
-      },
-      "is_recurring": true
-    },
-    {
-      "id": "eyJzZWdtZW50SUQiOiI5M2VkN2YxNi1mM2E5LTRhZjctODAyYi04NGI0NzZkMmRiYzciLCJpc29ZZWFyIjoyMDI2LCJpc29XZWVrIjoxNX0=",
-      "start_time": "2026-04-06T18:30:00Z",
-      "end_time": "2026-04-06T22:00:00Z",
-      "title": "Soirée du lundi",
-      "canceled_until": null,
-      "category": {
-        "id": "509658",
-        "name": "Just Chatting"
-      },
-      "is_recurring": true
-    },
-    {
-      "id": "eyJzZWdtZW50SUQiOiI5M2VkN2YxNi1mM2E5LTRhZjctODAyYi04NGI0NzZkMmRiYzciLCJpc29ZZWFyIjoyMDI2LCJpc29XZWVrIjoxNn0=",
-      "start_time": "2026-04-13T18:30:00Z",
-      "end_time": "2026-04-13T22:00:00Z",
-      "title": "Soirée du lundi",
-      "canceled_until": null,
-      "category": {
-        "id": "509658",
-        "name": "Just Chatting"
-      },
-      "is_recurring": true
-    },
-    {
-      "id": "eyJzZWdtZW50SUQiOiI5M2VkN2YxNi1mM2E5LTRhZjctODAyYi04NGI0NzZkMmRiYzciLCJpc29ZZWFyIjoyMDI2LCJpc29XZWVrIjoxN30=",
-      "start_time": "2026-04-20T18:30:00Z",
-      "end_time": "2026-04-20T22:00:00Z",
       "title": "Soirée du lundi",
       "canceled_until": null,
       "category": {
