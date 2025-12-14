@@ -13,18 +13,6 @@
   },
   "schedulers": [
     {
-      "id": "eyJzZWdtZW50SUQiOiI1MThlNWNjNS05ODZhLTQwYjUtYTQyOC1jZGQ5ZTVjYTI2ZjQiLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjo1MH0=",
-      "start_time": "2025-12-13T09:00:00Z",
-      "end_time": "2025-12-13T18:00:00Z",
-      "title": "BROCANTE au Hangar (pas streamé, mais venez !) LeHangar.gg",
-      "canceled_until": null,
-      "category": {
-        "id": "509672",
-        "name": "IRL"
-      },
-      "is_recurring": false
-    },
-    {
       "id": "eyJzZWdtZW50SUQiOiJlZGQ2MzI2Yy02YWZhLTQ3Y2MtODI2Zi1jZTFkMzU1M2FhZWYiLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjo1MH0=",
       "start_time": "2025-12-14T18:00:00Z",
       "end_time": "2025-12-14T21:00:00Z",
@@ -244,6 +232,18 @@
       "id": "eyJzZWdtZW50SUQiOiI5M2VkN2YxNi1mM2E5LTRhZjctODAyYi04NGI0NzZkMmRiYzciLCJpc29ZZWFyIjoyMDI2LCJpc29XZWVrIjoxNn0=",
       "start_time": "2026-04-13T18:30:00Z",
       "end_time": "2026-04-13T22:00:00Z",
+      "title": "Soirée du lundi",
+      "canceled_until": null,
+      "category": {
+        "id": "509658",
+        "name": "Just Chatting"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiI5M2VkN2YxNi1mM2E5LTRhZjctODAyYi04NGI0NzZkMmRiYzciLCJpc29ZZWFyIjoyMDI2LCJpc29XZWVrIjoxN30=",
+      "start_time": "2026-04-20T18:30:00Z",
+      "end_time": "2026-04-20T22:00:00Z",
       "title": "Soirée du lundi",
       "canceled_until": null,
       "category": {
