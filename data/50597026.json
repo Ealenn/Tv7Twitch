@@ -13,18 +13,6 @@
   },
   "schedulers": [
     {
-      "id": "eyJzZWdtZW50SUQiOiJmMzViMGQyZC0wMTk4LTQwNDYtYjUxMy04MTY0OGEyNTg3NTgiLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjo1MX0=",
-      "start_time": "2025-12-17T19:00:00Z",
-      "end_time": "2025-12-17T22:30:00Z",
-      "title": "Maitre des Fleurs avec DFG",
-      "canceled_until": null,
-      "category": {
-        "id": "338715930",
-        "name": "Maitre des Fleurs"
-      },
-      "is_recurring": false
-    },
-    {
       "id": "eyJzZWdtZW50SUQiOiI3ZTk0OWIxNS0yYmYwLTQ4YjMtOGE4Ny0zYzRkMjI2ODY3ZjIiLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjo1MX0=",
       "start_time": "2025-12-18T18:30:00Z",
       "end_time": "2025-12-18T22:30:00Z",
