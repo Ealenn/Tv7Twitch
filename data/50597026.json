@@ -13,18 +13,6 @@
   },
   "schedulers": [
     {
-      "id": "eyJzZWdtZW50SUQiOiI3ZTk0OWIxNS0yYmYwLTQ4YjMtOGE4Ny0zYzRkMjI2ODY3ZjIiLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjo1MX0=",
-      "start_time": "2025-12-18T18:30:00Z",
-      "end_time": "2025-12-18T22:30:00Z",
-      "title": "TrackMania (event Wingo)",
-      "canceled_until": null,
-      "category": {
-        "id": "687129551",
-        "name": "Trackmania"
-      },
-      "is_recurring": false
-    },
-    {
       "id": "eyJzZWdtZW50SUQiOiJhMzU1NDViYy00NzMyLTQ0MWUtODQwYy1hNDExMWFlODFlZmIiLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjo1MX0=",
       "start_time": "2025-12-19T12:00:00Z",
       "end_time": "2025-12-19T16:00:00Z",
