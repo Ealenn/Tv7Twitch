@@ -13,18 +13,6 @@
   },
   "schedulers": [
     {
-      "id": "eyJzZWdtZW50SUQiOiJiN2MzNDUwYi03OGIzLTRkYjAtODA4YS1iMWJhM2UwYTEzZDciLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjo1MX0=",
-      "start_time": "2025-12-20T18:00:00Z",
-      "end_time": "2025-12-20T22:00:00Z",
-      "title": "On commente avec @FefeGG un tournoi Marvel Rivals entre créateurs",
-      "canceled_until": null,
-      "category": {
-        "id": "1264310518",
-        "name": "Marvel Rivals"
-      },
-      "is_recurring": false
-    },
-    {
       "id": "eyJzZWdtZW50SUQiOiIxZWY1YjFhMy1jMTQ2LTQ2YjctODk0NC1jNzM5YTI5MzU5ODQiLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjo1MX0=",
       "start_time": "2025-12-21T17:00:00Z",
       "end_time": "2025-12-21T19:00:00Z",
@@ -244,6 +232,18 @@
       "id": "eyJzZWdtZW50SUQiOiI5M2VkN2YxNi1mM2E5LTRhZjctODAyYi04NGI0NzZkMmRiYzciLCJpc29ZZWFyIjoyMDI2LCJpc29XZWVrIjoxN30=",
       "start_time": "2026-04-20T18:30:00Z",
       "end_time": "2026-04-20T22:00:00Z",
+      "title": "Soirée du lundi",
+      "canceled_until": null,
+      "category": {
+        "id": "509658",
+        "name": "Just Chatting"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiI5M2VkN2YxNi1mM2E5LTRhZjctODAyYi04NGI0NzZkMmRiYzciLCJpc29ZZWFyIjoyMDI2LCJpc29XZWVrIjoxOH0=",
+      "start_time": "2026-04-27T18:30:00Z",
+      "end_time": "2026-04-27T22:00:00Z",
       "title": "Soirée du lundi",
       "canceled_until": null,
       "category": {
