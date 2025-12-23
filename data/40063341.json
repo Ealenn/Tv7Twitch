@@ -7,22 +7,58 @@
     "broadcaster_type": "partner",
     "description": "Président du FC Silmi",
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/3cdae7df-600c-4833-8dfe-8d2abc5a3b25-profile_image-300x300.png",
-    "offline_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/49948452-a9a3-4179-8649-63b070cf4f34-channel_offline_image-1920x1080.png",
+    "offline_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/5d85ae00-0620-4f30-83dd-5123a4e65cf2-channel_offline_image-1920x1080.png",
     "view_count": 0,
     "created_at": "2013-02-05T19:20:22Z"
   },
   "schedulers": [
     {
-      "id": "eyJzZWdtZW50SUQiOiI0ZWFjYzIxMy1lYWFkLTQxYzMtYjMyYy1hYzIzZGYxODk0NDkiLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjo1Mn0=",
-      "start_time": "2025-12-22T18:30:00Z",
-      "end_time": "2025-12-22T19:30:00Z",
-      "title": "PRÉ LIVE",
+      "id": "eyJzZWdtZW50SUQiOiJmNzFjOTVmZC1lNTU3LTRkMDMtYTM3MC1iOGY5MTk1ZDQzZjQiLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjo1Mn0=",
+      "start_time": "2025-12-23T11:00:00Z",
+      "end_time": "2025-12-23T13:00:00Z",
+      "title": "🏀 BOX BREAK SUR VOGGT ",
+      "canceled_until": null,
+      "category": {
+        "id": "292679852",
+        "name": "Cards"
+      },
+      "is_recurring": false
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiIwMzdlOGMxNi1hOGUwLTRjN2ItYWQ3MC1iNjRkN2I1ZTVlMjYiLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjo1Mn0=",
+      "start_time": "2025-12-23T16:00:00Z",
+      "end_time": "2025-12-23T17:00:00Z",
+      "title": "🎙️ PRÉ-LIVE",
       "canceled_until": null,
       "category": {
         "id": "509658",
         "name": "Just Chatting"
       },
-      "is_recurring": true
+      "is_recurring": false
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiJlZGQzZWVkYS0xMjhmLTQ5NWYtOWNmNC1kNzU3Y2JkMTc1N2IiLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjo1Mn0=",
+      "start_time": "2025-12-23T17:00:00Z",
+      "end_time": "2025-12-23T19:00:00Z",
+      "title": "🔫 ON DÉCOUVRE LE MODE WILDCARDS SUR R6 AVEC TOMY | Collaboration Commerciale",
+      "canceled_until": null,
+      "category": {
+        "id": "460630",
+        "name": "Tom Clancy's Rainbow Six Siege X"
+      },
+      "is_recurring": false
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiJjZDIzMzczOC1jNWIzLTQxYmItOGM2My1kMjM0Y2QzYjE0YjciLCJpc29ZZWFyIjoyMDI1LCJpc29XZWVrIjo1Mn0=",
+      "start_time": "2025-12-28T19:00:00Z",
+      "end_time": "2025-12-28T23:00:00Z",
+      "title": "⚽️ LE GRAND RETOUR DE COACH BIZOT",
+      "canceled_until": null,
+      "category": {
+        "id": "1313351584",
+        "name": "Football Manager 26"
+      },
+      "is_recurring": false
     },
     {
       "id": "eyJzZWdtZW50SUQiOiI0ZWFjYzIxMy1lYWFkLTQxYzMtYjMyYy1hYzIzZGYxODk0NDkiLCJpc29ZZWFyIjoyMDI2LCJpc29XZWVrIjoxfQ==",
@@ -208,42 +244,6 @@
       "id": "eyJzZWdtZW50SUQiOiI0ZWFjYzIxMy1lYWFkLTQxYzMtYjMyYy1hYzIzZGYxODk0NDkiLCJpc29ZZWFyIjoyMDI2LCJpc29XZWVrIjoxNn0=",
       "start_time": "2026-04-13T17:30:00Z",
       "end_time": "2026-04-13T18:30:00Z",
-      "title": "PRÉ LIVE",
-      "canceled_until": null,
-      "category": {
-        "id": "509658",
-        "name": "Just Chatting"
-      },
-      "is_recurring": true
-    },
-    {
-      "id": "eyJzZWdtZW50SUQiOiI0ZWFjYzIxMy1lYWFkLTQxYzMtYjMyYy1hYzIzZGYxODk0NDkiLCJpc29ZZWFyIjoyMDI2LCJpc29XZWVrIjoxN30=",
-      "start_time": "2026-04-20T17:30:00Z",
-      "end_time": "2026-04-20T18:30:00Z",
-      "title": "PRÉ LIVE",
-      "canceled_until": null,
-      "category": {
-        "id": "509658",
-        "name": "Just Chatting"
-      },
-      "is_recurring": true
-    },
-    {
-      "id": "eyJzZWdtZW50SUQiOiI0ZWFjYzIxMy1lYWFkLTQxYzMtYjMyYy1hYzIzZGYxODk0NDkiLCJpc29ZZWFyIjoyMDI2LCJpc29XZWVrIjoxOH0=",
-      "start_time": "2026-04-27T17:30:00Z",
-      "end_time": "2026-04-27T18:30:00Z",
-      "title": "PRÉ LIVE",
-      "canceled_until": null,
-      "category": {
-        "id": "509658",
-        "name": "Just Chatting"
-      },
-      "is_recurring": true
-    },
-    {
-      "id": "eyJzZWdtZW50SUQiOiI0ZWFjYzIxMy1lYWFkLTQxYzMtYjMyYy1hYzIzZGYxODk0NDkiLCJpc29ZZWFyIjoyMDI2LCJpc29XZWVrIjoxOX0=",
-      "start_time": "2026-05-04T17:30:00Z",
-      "end_time": "2026-05-04T18:30:00Z",
       "title": "PRÉ LIVE",
       "canceled_until": null,
       "category": {
