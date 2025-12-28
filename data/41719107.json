@@ -25,6 +25,18 @@
       "is_recurring": true
     },
     {
+      "id": "eyJzZWdtZW50SUQiOiI3ODg4MTljNi1hYzIwLTRmN2EtYjc3NC0wY2RlOWY3NjEwMTMiLCJpc29ZZWFyIjoyMDI2LCJpc29XZWVrIjoxfQ==",
+      "start_time": "2026-01-04T18:00:00Z",
+      "end_time": "2026-01-04T22:00:00Z",
+      "title": "RETOUR EN STREAM AVEC DES ANNONCES !",
+      "canceled_until": null,
+      "category": {
+        "id": "509663",
+        "name": "Special Events"
+      },
+      "is_recurring": false
+    },
+    {
       "id": "eyJzZWdtZW50SUQiOiI5M2VkN2YxNi1mM2E5LTRhZjctODAyYi04NGI0NzZkMmRiYzciLCJpc29ZZWFyIjoyMDI2LCJpc29XZWVrIjoyfQ==",
       "start_time": "2026-01-05T19:30:00Z",
       "end_time": "2026-01-05T23:00:00Z",
@@ -232,18 +244,6 @@
       "id": "eyJzZWdtZW50SUQiOiI5M2VkN2YxNi1mM2E5LTRhZjctODAyYi04NGI0NzZkMmRiYzciLCJpc29ZZWFyIjoyMDI2LCJpc29XZWVrIjoxOX0=",
       "start_time": "2026-05-04T18:30:00Z",
       "end_time": "2026-05-04T22:00:00Z",
-      "title": "Soirée du lundi",
-      "canceled_until": null,
-      "category": {
-        "id": "509658",
-        "name": "Just Chatting"
-      },
-      "is_recurring": true
-    },
-    {
-      "id": "eyJzZWdtZW50SUQiOiI5M2VkN2YxNi1mM2E5LTRhZjctODAyYi04NGI0NzZkMmRiYzciLCJpc29ZZWFyIjoyMDI2LCJpc29XZWVrIjoyMH0=",
-      "start_time": "2026-05-11T18:30:00Z",
-      "end_time": "2026-05-11T22:00:00Z",
       "title": "Soirée du lundi",
       "canceled_until": null,
       "category": {
