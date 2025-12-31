@@ -13,18 +13,6 @@
   },
   "schedulers": [
     {
-      "id": "eyJzZWdtZW50SUQiOiJiMGZiYjlhYS1kMTEzLTRhYTAtODU0OC1lNTYzZjE0ZjdjZWQiLCJpc29ZZWFyIjoyMDI2LCJpc29XZWVrIjoxfQ==",
-      "start_time": "2025-12-30T19:00:00Z",
-      "end_time": "2025-12-30T23:30:00Z",
-      "title": "⚽️ DÉBUT DE LA SAISON ",
-      "canceled_until": null,
-      "category": {
-        "id": "1313351584",
-        "name": "Football Manager 26"
-      },
-      "is_recurring": false
-    },
-    {
       "id": "eyJzZWdtZW50SUQiOiI4OWRkZjczZS04NGNhLTRhOTEtYmM1MS00MzA5M2MxOTc5MmIiLCJpc29ZZWFyIjoyMDI2LCJpc29XZWVrIjoxfQ==",
       "start_time": "2026-01-02T13:00:00Z",
       "end_time": "2026-01-02T14:00:00Z",
@@ -244,6 +232,18 @@
       "id": "eyJzZWdtZW50SUQiOiI0ZWFjYzIxMy1lYWFkLTQxYzMtYjMyYy1hYzIzZGYxODk0NDkiLCJpc29ZZWFyIjoyMDI2LCJpc29XZWVrIjoxOH0=",
       "start_time": "2026-04-27T17:30:00Z",
       "end_time": "2026-04-27T18:30:00Z",
+      "title": "PRÉ LIVE",
+      "canceled_until": null,
+      "category": {
+        "id": "509658",
+        "name": "Just Chatting"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiI0ZWFjYzIxMy1lYWFkLTQxYzMtYjMyYy1hYzIzZGYxODk0NDkiLCJpc29ZZWFyIjoyMDI2LCJpc29XZWVrIjoxOX0=",
+      "start_time": "2026-05-04T17:30:00Z",
+      "end_time": "2026-05-04T18:30:00Z",
       "title": "PRÉ LIVE",
       "canceled_until": null,
       "category": {
