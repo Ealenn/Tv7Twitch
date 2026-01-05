@@ -13,14 +13,14 @@
   },
   "schedulers": [
     {
-      "id": "eyJzZWdtZW50SUQiOiI3ODg4MTljNi1hYzIwLTRmN2EtYjc3NC0wY2RlOWY3NjEwMTMiLCJpc29ZZWFyIjoyMDI2LCJpc29XZWVrIjoxfQ==",
-      "start_time": "2026-01-04T18:00:00Z",
-      "end_time": "2026-01-04T22:00:00Z",
-      "title": "RETOUR EN STREAM AVEC DES ANNONCES !",
+      "id": "eyJzZWdtZW50SUQiOiI4YjIyZDMzMy00ZjExLTQxMmEtYmFjYi0zM2E0MDM3MmQwMDUiLCJpc29ZZWFyIjoyMDI2LCJpc29XZWVrIjoyfQ==",
+      "start_time": "2026-01-05T17:00:00Z",
+      "end_time": "2026-01-05T19:30:00Z",
+      "title": "Découverte de Two Point Museum (Publicité)",
       "canceled_until": null,
       "category": {
-        "id": "509663",
-        "name": "Special Events"
+        "id": "1433665303",
+        "name": "Two Point Museum"
       },
       "is_recurring": false
     },
@@ -35,6 +35,90 @@
         "name": "Just Chatting"
       },
       "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiI2MDRlMzY2Mi0xMWFjLTQ4MzktYjczZS1kZmYxZWM0ZWZhZjciLCJpc29ZZWFyIjoyMDI2LCJpc29XZWVrIjoyfQ==",
+      "start_time": "2026-01-06T18:00:00Z",
+      "end_time": "2026-01-06T20:00:00Z",
+      "title": "Découverte de Street Fighter 6 avec Etoiles",
+      "canceled_until": null,
+      "category": {
+        "id": "55453844",
+        "name": "Street Fighter 6"
+      },
+      "is_recurring": false
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiIxYWY4ZTYwMi1iMTQ3LTQzN2ItOGI4Ny1jOTA1YTE4MGNkYTciLCJpc29ZZWFyIjoyMDI2LCJpc29XZWVrIjoyfQ==",
+      "start_time": "2026-01-07T19:00:00Z",
+      "end_time": "2026-01-07T23:00:00Z",
+      "title": "RV There Yet avec @MoMaN @Hyp_TV @MarineLord",
+      "canceled_until": null,
+      "category": {
+        "id": "1517377137",
+        "name": "RV There Yet?"
+      },
+      "is_recurring": false
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiJkY2FjNTA3Yi02ZTc5LTRjMWItODdhMy1kNjY3OTAzNmZlMjIiLCJpc29ZZWFyIjoyMDI2LCJpc29XZWVrIjoyfQ==",
+      "start_time": "2026-01-08T19:00:00Z",
+      "end_time": "2026-01-08T23:00:00Z",
+      "title": "RV There Yet avec @MoMaN @Hyp_TV @MarineLord",
+      "canceled_until": null,
+      "category": {
+        "id": "1517377137",
+        "name": "RV There Yet?"
+      },
+      "is_recurring": false
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiJjZGMzZmY0OC05MzU0LTQ4M2YtYjlkMC00NzE2YTMwZGIyZGQiLCJpc29ZZWFyIjoyMDI2LCJpc29XZWVrIjoyfQ==",
+      "start_time": "2026-01-09T19:00:00Z",
+      "end_time": "2026-01-09T23:00:00Z",
+      "title": "[Sur la chaîne Alphacast] Table Quest la reprise !",
+      "canceled_until": null,
+      "category": {
+        "id": "509664",
+        "name": "Tabletop RPGs"
+      },
+      "is_recurring": false
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiI2ZGVjMGFlNi05NGM5LTQyNjItYWY0MC0yMjZjNzczNWIwZWYiLCJpc29ZZWFyIjoyMDI2LCJpc29XZWVrIjoyfQ==",
+      "start_time": "2026-01-10T14:00:00Z",
+      "end_time": "2026-01-10T16:00:00Z",
+      "title": "MDR vs 3D MAX premier match du split 1",
+      "canceled_until": null,
+      "category": {
+        "id": "516575",
+        "name": "VALORANT"
+      },
+      "is_recurring": false
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiI4MDdjNjZjYS1lZmM2LTQxNTMtOWI5My04MGY1ZmNhNzIxNTEiLCJpc29ZZWFyIjoyMDI2LCJpc29XZWVrIjoyfQ==",
+      "start_time": "2026-01-11T17:00:00Z",
+      "end_time": "2026-01-11T19:00:00Z",
+      "title": "MDR vs Galions deuxième match du split 1",
+      "canceled_until": null,
+      "category": {
+        "id": "516575",
+        "name": "VALORANT"
+      },
+      "is_recurring": false
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiJhM2JlZTZlNC1jODg1LTQ1Y2QtYmQ4My1kODI0MjgzMzNhYTUiLCJpc29ZZWFyIjoyMDI2LCJpc29XZWVrIjoyfQ==",
+      "start_time": "2026-01-11T19:00:00Z",
+      "end_time": "2026-01-11T23:00:00Z",
+      "title": "Indiemanche, découverte de 2 jeux indépendants",
+      "canceled_until": null,
+      "category": {
+        "id": "66082",
+        "name": "Games + Demos"
+      },
+      "is_recurring": false
     },
     {
       "id": "eyJzZWdtZW50SUQiOiI5M2VkN2YxNi1mM2E5LTRhZjctODAyYi04NGI0NzZkMmRiYzciLCJpc29ZZWFyIjoyMDI2LCJpc29XZWVrIjozfQ==",
@@ -160,90 +244,6 @@
       "id": "eyJzZWdtZW50SUQiOiI5M2VkN2YxNi1mM2E5LTRhZjctODAyYi04NGI0NzZkMmRiYzciLCJpc29ZZWFyIjoyMDI2LCJpc29XZWVrIjoxM30=",
       "start_time": "2026-03-23T19:30:00Z",
       "end_time": "2026-03-23T23:00:00Z",
-      "title": "Soirée du lundi",
-      "canceled_until": null,
-      "category": {
-        "id": "509658",
-        "name": "Just Chatting"
-      },
-      "is_recurring": true
-    },
-    {
-      "id": "eyJzZWdtZW50SUQiOiI5M2VkN2YxNi1mM2E5LTRhZjctODAyYi04NGI0NzZkMmRiYzciLCJpc29ZZWFyIjoyMDI2LCJpc29XZWVrIjoxNH0=",
-      "start_time": "2026-03-30T18:30:00Z",
-      "end_time": "2026-03-30T22:00:00Z",
-      "title": "Soirée du lundi",
-      "canceled_until": null,
-      "category": {
-        "id": "509658",
-        "name": "Just Chatting"
-      },
-      "is_recurring": true
-    },
-    {
-      "id": "eyJzZWdtZW50SUQiOiI5M2VkN2YxNi1mM2E5LTRhZjctODAyYi04NGI0NzZkMmRiYzciLCJpc29ZZWFyIjoyMDI2LCJpc29XZWVrIjoxNX0=",
-      "start_time": "2026-04-06T18:30:00Z",
-      "end_time": "2026-04-06T22:00:00Z",
-      "title": "Soirée du lundi",
-      "canceled_until": null,
-      "category": {
-        "id": "509658",
-        "name": "Just Chatting"
-      },
-      "is_recurring": true
-    },
-    {
-      "id": "eyJzZWdtZW50SUQiOiI5M2VkN2YxNi1mM2E5LTRhZjctODAyYi04NGI0NzZkMmRiYzciLCJpc29ZZWFyIjoyMDI2LCJpc29XZWVrIjoxNn0=",
-      "start_time": "2026-04-13T18:30:00Z",
-      "end_time": "2026-04-13T22:00:00Z",
-      "title": "Soirée du lundi",
-      "canceled_until": null,
-      "category": {
-        "id": "509658",
-        "name": "Just Chatting"
-      },
-      "is_recurring": true
-    },
-    {
-      "id": "eyJzZWdtZW50SUQiOiI5M2VkN2YxNi1mM2E5LTRhZjctODAyYi04NGI0NzZkMmRiYzciLCJpc29ZZWFyIjoyMDI2LCJpc29XZWVrIjoxN30=",
-      "start_time": "2026-04-20T18:30:00Z",
-      "end_time": "2026-04-20T22:00:00Z",
-      "title": "Soirée du lundi",
-      "canceled_until": null,
-      "category": {
-        "id": "509658",
-        "name": "Just Chatting"
-      },
-      "is_recurring": true
-    },
-    {
-      "id": "eyJzZWdtZW50SUQiOiI5M2VkN2YxNi1mM2E5LTRhZjctODAyYi04NGI0NzZkMmRiYzciLCJpc29ZZWFyIjoyMDI2LCJpc29XZWVrIjoxOH0=",
-      "start_time": "2026-04-27T18:30:00Z",
-      "end_time": "2026-04-27T22:00:00Z",
-      "title": "Soirée du lundi",
-      "canceled_until": null,
-      "category": {
-        "id": "509658",
-        "name": "Just Chatting"
-      },
-      "is_recurring": true
-    },
-    {
-      "id": "eyJzZWdtZW50SUQiOiI5M2VkN2YxNi1mM2E5LTRhZjctODAyYi04NGI0NzZkMmRiYzciLCJpc29ZZWFyIjoyMDI2LCJpc29XZWVrIjoxOX0=",
-      "start_time": "2026-05-04T18:30:00Z",
-      "end_time": "2026-05-04T22:00:00Z",
-      "title": "Soirée du lundi",
-      "canceled_until": null,
-      "category": {
-        "id": "509658",
-        "name": "Just Chatting"
-      },
-      "is_recurring": true
-    },
-    {
-      "id": "eyJzZWdtZW50SUQiOiI5M2VkN2YxNi1mM2E5LTRhZjctODAyYi04NGI0NzZkMmRiYzciLCJpc29ZZWFyIjoyMDI2LCJpc29XZWVrIjoyMH0=",
-      "start_time": "2026-05-11T18:30:00Z",
-      "end_time": "2026-05-11T22:00:00Z",
       "title": "Soirée du lundi",
       "canceled_until": null,
       "category": {
