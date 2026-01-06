@@ -13,38 +13,14 @@
   },
   "schedulers": [
     {
-      "id": "eyJzZWdtZW50SUQiOiI4YjIyZDMzMy00ZjExLTQxMmEtYmFjYi0zM2E0MDM3MmQwMDUiLCJpc29ZZWFyIjoyMDI2LCJpc29XZWVrIjoyfQ==",
-      "start_time": "2026-01-05T17:00:00Z",
-      "end_time": "2026-01-05T19:30:00Z",
-      "title": "Découverte de Two Point Museum (Publicité)",
-      "canceled_until": null,
-      "category": {
-        "id": "1433665303",
-        "name": "Two Point Museum"
-      },
-      "is_recurring": false
-    },
-    {
-      "id": "eyJzZWdtZW50SUQiOiI5M2VkN2YxNi1mM2E5LTRhZjctODAyYi04NGI0NzZkMmRiYzciLCJpc29ZZWFyIjoyMDI2LCJpc29XZWVrIjoyfQ==",
-      "start_time": "2026-01-05T19:30:00Z",
-      "end_time": "2026-01-05T23:00:00Z",
-      "title": "Soirée du lundi",
-      "canceled_until": null,
-      "category": {
-        "id": "509658",
-        "name": "Just Chatting"
-      },
-      "is_recurring": true
-    },
-    {
       "id": "eyJzZWdtZW50SUQiOiI2MDRlMzY2Mi0xMWFjLTQ4MzktYjczZS1kZmYxZWM0ZWZhZjciLCJpc29ZZWFyIjoyMDI2LCJpc29XZWVrIjoyfQ==",
-      "start_time": "2026-01-06T18:00:00Z",
+      "start_time": "2026-01-06T17:00:00Z",
       "end_time": "2026-01-06T20:00:00Z",
-      "title": "Découverte de Street Fighter 6 avec Etoiles",
+      "title": "Hades II, la suite ! ENFIN",
       "canceled_until": null,
       "category": {
-        "id": "55453844",
-        "name": "Street Fighter 6"
+        "id": "376500771",
+        "name": "Hades II"
       },
       "is_recurring": false
     },
@@ -88,11 +64,23 @@
       "id": "eyJzZWdtZW50SUQiOiI2ZGVjMGFlNi05NGM5LTQyNjItYWY0MC0yMjZjNzczNWIwZWYiLCJpc29ZZWFyIjoyMDI2LCJpc29XZWVrIjoyfQ==",
       "start_time": "2026-01-10T14:00:00Z",
       "end_time": "2026-01-10T16:00:00Z",
-      "title": "MDR vs 3D MAX premier match du split 1",
+      "title": "MDR vs Esprit Shonen premier match du split 1",
       "canceled_until": null,
       "category": {
         "id": "516575",
         "name": "VALORANT"
+      },
+      "is_recurring": false
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiJlMWYxNjE5Yi1mYWJlLTQzMDItOWYxYS00OTlmMTVjNDExNjQiLCJpc29ZZWFyIjoyMDI2LCJpc29XZWVrIjoyfQ==",
+      "start_time": "2026-01-10T16:00:00Z",
+      "end_time": "2026-01-10T18:00:00Z",
+      "title": "Découverte de Street Fighter 6 avec @Etoiles",
+      "canceled_until": null,
+      "category": {
+        "id": "55453844",
+        "name": "Street Fighter 6"
       },
       "is_recurring": false
     },
@@ -244,6 +232,18 @@
       "id": "eyJzZWdtZW50SUQiOiI5M2VkN2YxNi1mM2E5LTRhZjctODAyYi04NGI0NzZkMmRiYzciLCJpc29ZZWFyIjoyMDI2LCJpc29XZWVrIjoxM30=",
       "start_time": "2026-03-23T19:30:00Z",
       "end_time": "2026-03-23T23:00:00Z",
+      "title": "Soirée du lundi",
+      "canceled_until": null,
+      "category": {
+        "id": "509658",
+        "name": "Just Chatting"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiI5M2VkN2YxNi1mM2E5LTRhZjctODAyYi04NGI0NzZkMmRiYzciLCJpc29ZZWFyIjoyMDI2LCJpc29XZWVrIjoxNH0=",
+      "start_time": "2026-03-30T18:30:00Z",
+      "end_time": "2026-03-30T22:00:00Z",
       "title": "Soirée du lundi",
       "canceled_until": null,
       "category": {

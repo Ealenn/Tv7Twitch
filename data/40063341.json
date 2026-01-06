@@ -7,22 +7,82 @@
     "broadcaster_type": "partner",
     "description": "Président du FC Silmi",
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/3cdae7df-600c-4833-8dfe-8d2abc5a3b25-profile_image-300x300.png",
-    "offline_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/18114605-f7b9-4cf1-9f40-03f1f139159d-channel_offline_image-1920x1080.png",
+    "offline_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/6ffa8e6e-c34b-4d83-a7b8-08b91c4865b2-channel_offline_image-1920x1080.png",
     "view_count": 0,
     "created_at": "2013-02-05T19:20:22Z"
   },
   "schedulers": [
     {
-      "id": "eyJzZWdtZW50SUQiOiI0ZWFjYzIxMy1lYWFkLTQxYzMtYjMyYy1hYzIzZGYxODk0NDkiLCJpc29ZZWFyIjoyMDI2LCJpc29XZWVrIjoyfQ==",
-      "start_time": "2026-01-05T18:30:00Z",
-      "end_time": "2026-01-05T19:30:00Z",
+      "id": "eyJzZWdtZW50SUQiOiIzNWQ0OGVkOC04ZDc4LTQwZTQtODBiYy1kZTFlODY3ZjM2OWUiLCJpc29ZZWFyIjoyMDI2LCJpc29XZWVrIjoyfQ==",
+      "start_time": "2026-01-06T13:00:00Z",
+      "end_time": "2026-01-06T14:00:00Z",
       "title": "PRÉ LIVE",
       "canceled_until": null,
       "category": {
         "id": "509658",
         "name": "Just Chatting"
       },
-      "is_recurring": true
+      "is_recurring": false
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiIzMWU3N2Q5Ny05Yjk3LTRiMjctYTZlNy02YmU3NjFiY2YzNGQiLCJpc29ZZWFyIjoyMDI2LCJpc29XZWVrIjoyfQ==",
+      "start_time": "2026-01-06T14:00:00Z",
+      "end_time": "2026-01-06T18:00:00Z",
+      "title": "ON CONTINUE L'AVENTURE AVEC BIRMINGHAM",
+      "canceled_until": null,
+      "category": {
+        "id": "1313351584",
+        "name": "Football Manager 26"
+      },
+      "is_recurring": false
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiI0ZWJiNjcxMC05MTczLTRkZTctYmFlYi1kMjE1ZmU3ODUyYWUiLCJpc29ZZWFyIjoyMDI2LCJpc29XZWVrIjoyfQ==",
+      "start_time": "2026-01-07T13:00:00Z",
+      "end_time": "2026-01-07T14:00:00Z",
+      "title": "PRÉ LIVE",
+      "canceled_until": null,
+      "category": {
+        "id": "509658",
+        "name": "Just Chatting"
+      },
+      "is_recurring": false
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiJjZTI2OGY2NS1iN2Y5LTQ3OWUtYjc1ZS03Y2QzZjkxNjY1NGYiLCJpc29ZZWFyIjoyMDI2LCJpc29XZWVrIjoyfQ==",
+      "start_time": "2026-01-07T14:00:00Z",
+      "end_time": "2026-01-07T18:00:00Z",
+      "title": "ON CONTINUE L'AVENTURE AVEC BIRMINGHAM",
+      "canceled_until": null,
+      "category": {
+        "id": "1313351584",
+        "name": "Football Manager 26"
+      },
+      "is_recurring": false
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiJjNTVkY2Q5Yy03OTVjLTQ4NzMtOTAzOS1kOGZhYThhODE5MDciLCJpc29ZZWFyIjoyMDI2LCJpc29XZWVrIjoyfQ==",
+      "start_time": "2026-01-08T18:30:00Z",
+      "end_time": "2026-01-08T19:00:00Z",
+      "title": "PRÉ LIVE",
+      "canceled_until": null,
+      "category": {
+        "id": "509658",
+        "name": "Just Chatting"
+      },
+      "is_recurring": false
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiJkZTU5ZmE0MC00MDY2LTQ5MjktYWZhZC01MzRlODFmNDVhOTciLCJpc29ZZWFyIjoyMDI2LCJpc29XZWVrIjoyfQ==",
+      "start_time": "2026-01-08T19:00:00Z",
+      "end_time": "2026-01-08T23:00:00Z",
+      "title": "ON CONTINUE L'AVENTURE AVEC BIRMINGHAM",
+      "canceled_until": null,
+      "category": {
+        "id": "1313351584",
+        "name": "Football Manager 26"
+      },
+      "is_recurring": false
     },
     {
       "id": "eyJzZWdtZW50SUQiOiI0ZWFjYzIxMy1lYWFkLTQxYzMtYjMyYy1hYzIzZGYxODk0NDkiLCJpc29ZZWFyIjoyMDI2LCJpc29XZWVrIjozfQ==",
@@ -184,66 +244,6 @@
       "id": "eyJzZWdtZW50SUQiOiI0ZWFjYzIxMy1lYWFkLTQxYzMtYjMyYy1hYzIzZGYxODk0NDkiLCJpc29ZZWFyIjoyMDI2LCJpc29XZWVrIjoxNn0=",
       "start_time": "2026-04-13T17:30:00Z",
       "end_time": "2026-04-13T18:30:00Z",
-      "title": "PRÉ LIVE",
-      "canceled_until": null,
-      "category": {
-        "id": "509658",
-        "name": "Just Chatting"
-      },
-      "is_recurring": true
-    },
-    {
-      "id": "eyJzZWdtZW50SUQiOiI0ZWFjYzIxMy1lYWFkLTQxYzMtYjMyYy1hYzIzZGYxODk0NDkiLCJpc29ZZWFyIjoyMDI2LCJpc29XZWVrIjoxN30=",
-      "start_time": "2026-04-20T17:30:00Z",
-      "end_time": "2026-04-20T18:30:00Z",
-      "title": "PRÉ LIVE",
-      "canceled_until": null,
-      "category": {
-        "id": "509658",
-        "name": "Just Chatting"
-      },
-      "is_recurring": true
-    },
-    {
-      "id": "eyJzZWdtZW50SUQiOiI0ZWFjYzIxMy1lYWFkLTQxYzMtYjMyYy1hYzIzZGYxODk0NDkiLCJpc29ZZWFyIjoyMDI2LCJpc29XZWVrIjoxOH0=",
-      "start_time": "2026-04-27T17:30:00Z",
-      "end_time": "2026-04-27T18:30:00Z",
-      "title": "PRÉ LIVE",
-      "canceled_until": null,
-      "category": {
-        "id": "509658",
-        "name": "Just Chatting"
-      },
-      "is_recurring": true
-    },
-    {
-      "id": "eyJzZWdtZW50SUQiOiI0ZWFjYzIxMy1lYWFkLTQxYzMtYjMyYy1hYzIzZGYxODk0NDkiLCJpc29ZZWFyIjoyMDI2LCJpc29XZWVrIjoxOX0=",
-      "start_time": "2026-05-04T17:30:00Z",
-      "end_time": "2026-05-04T18:30:00Z",
-      "title": "PRÉ LIVE",
-      "canceled_until": null,
-      "category": {
-        "id": "509658",
-        "name": "Just Chatting"
-      },
-      "is_recurring": true
-    },
-    {
-      "id": "eyJzZWdtZW50SUQiOiI0ZWFjYzIxMy1lYWFkLTQxYzMtYjMyYy1hYzIzZGYxODk0NDkiLCJpc29ZZWFyIjoyMDI2LCJpc29XZWVrIjoyMH0=",
-      "start_time": "2026-05-11T17:30:00Z",
-      "end_time": "2026-05-11T18:30:00Z",
-      "title": "PRÉ LIVE",
-      "canceled_until": null,
-      "category": {
-        "id": "509658",
-        "name": "Just Chatting"
-      },
-      "is_recurring": true
-    },
-    {
-      "id": "eyJzZWdtZW50SUQiOiI0ZWFjYzIxMy1lYWFkLTQxYzMtYjMyYy1hYzIzZGYxODk0NDkiLCJpc29ZZWFyIjoyMDI2LCJpc29XZWVrIjoyMX0=",
-      "start_time": "2026-05-18T17:30:00Z",
-      "end_time": "2026-05-18T18:30:00Z",
       "title": "PRÉ LIVE",
       "canceled_until": null,
       "category": {
