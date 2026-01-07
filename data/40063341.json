@@ -13,30 +13,6 @@
   },
   "schedulers": [
     {
-      "id": "eyJzZWdtZW50SUQiOiIzNWQ0OGVkOC04ZDc4LTQwZTQtODBiYy1kZTFlODY3ZjM2OWUiLCJpc29ZZWFyIjoyMDI2LCJpc29XZWVrIjoyfQ==",
-      "start_time": "2026-01-06T13:00:00Z",
-      "end_time": "2026-01-06T14:00:00Z",
-      "title": "PRÉ LIVE",
-      "canceled_until": null,
-      "category": {
-        "id": "509658",
-        "name": "Just Chatting"
-      },
-      "is_recurring": false
-    },
-    {
-      "id": "eyJzZWdtZW50SUQiOiIzMWU3N2Q5Ny05Yjk3LTRiMjctYTZlNy02YmU3NjFiY2YzNGQiLCJpc29ZZWFyIjoyMDI2LCJpc29XZWVrIjoyfQ==",
-      "start_time": "2026-01-06T14:00:00Z",
-      "end_time": "2026-01-06T18:00:00Z",
-      "title": "ON CONTINUE L'AVENTURE AVEC BIRMINGHAM",
-      "canceled_until": null,
-      "category": {
-        "id": "1313351584",
-        "name": "Football Manager 26"
-      },
-      "is_recurring": false
-    },
-    {
       "id": "eyJzZWdtZW50SUQiOiI0ZWJiNjcxMC05MTczLTRkZTctYmFlYi1kMjE1ZmU3ODUyYWUiLCJpc29ZZWFyIjoyMDI2LCJpc29XZWVrIjoyfQ==",
       "start_time": "2026-01-07T13:00:00Z",
       "end_time": "2026-01-07T14:00:00Z",
@@ -244,6 +220,30 @@
       "id": "eyJzZWdtZW50SUQiOiI0ZWFjYzIxMy1lYWFkLTQxYzMtYjMyYy1hYzIzZGYxODk0NDkiLCJpc29ZZWFyIjoyMDI2LCJpc29XZWVrIjoxNn0=",
       "start_time": "2026-04-13T17:30:00Z",
       "end_time": "2026-04-13T18:30:00Z",
+      "title": "PRÉ LIVE",
+      "canceled_until": null,
+      "category": {
+        "id": "509658",
+        "name": "Just Chatting"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiI0ZWFjYzIxMy1lYWFkLTQxYzMtYjMyYy1hYzIzZGYxODk0NDkiLCJpc29ZZWFyIjoyMDI2LCJpc29XZWVrIjoxN30=",
+      "start_time": "2026-04-20T17:30:00Z",
+      "end_time": "2026-04-20T18:30:00Z",
+      "title": "PRÉ LIVE",
+      "canceled_until": null,
+      "category": {
+        "id": "509658",
+        "name": "Just Chatting"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiI0ZWFjYzIxMy1lYWFkLTQxYzMtYjMyYy1hYzIzZGYxODk0NDkiLCJpc29ZZWFyIjoyMDI2LCJpc29XZWVrIjoxOH0=",
+      "start_time": "2026-04-27T17:30:00Z",
+      "end_time": "2026-04-27T18:30:00Z",
       "title": "PRÉ LIVE",
       "canceled_until": null,
       "category": {
