@@ -13,18 +13,6 @@
   },
   "schedulers": [
     {
-      "id": "eyJzZWdtZW50SUQiOiJjZGMzZmY0OC05MzU0LTQ4M2YtYjlkMC00NzE2YTMwZGIyZGQiLCJpc29ZZWFyIjoyMDI2LCJpc29XZWVrIjoyfQ==",
-      "start_time": "2026-01-09T19:00:00Z",
-      "end_time": "2026-01-09T23:00:00Z",
-      "title": "[Sur la chaîne Alphacast] Table Quest la reprise !",
-      "canceled_until": null,
-      "category": {
-        "id": "509664",
-        "name": "Tabletop RPGs"
-      },
-      "is_recurring": false
-    },
-    {
       "id": "eyJzZWdtZW50SUQiOiI2ZGVjMGFlNi05NGM5LTQyNjItYWY0MC0yMjZjNzczNWIwZWYiLCJpc29ZZWFyIjoyMDI2LCJpc29XZWVrIjoyfQ==",
       "start_time": "2026-01-10T14:00:00Z",
       "end_time": "2026-01-10T16:00:00Z",
@@ -244,6 +232,18 @@
       "id": "eyJzZWdtZW50SUQiOiI5M2VkN2YxNi1mM2E5LTRhZjctODAyYi04NGI0NzZkMmRiYzciLCJpc29ZZWFyIjoyMDI2LCJpc29XZWVrIjoxN30=",
       "start_time": "2026-04-20T18:30:00Z",
       "end_time": "2026-04-20T22:00:00Z",
+      "title": "Soirée du lundi",
+      "canceled_until": null,
+      "category": {
+        "id": "509658",
+        "name": "Just Chatting"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiI5M2VkN2YxNi1mM2E5LTRhZjctODAyYi04NGI0NzZkMmRiYzciLCJpc29ZZWFyIjoyMDI2LCJpc29XZWVrIjoxOH0=",
+      "start_time": "2026-04-27T18:30:00Z",
+      "end_time": "2026-04-27T22:00:00Z",
       "title": "Soirée du lundi",
       "canceled_until": null,
       "category": {
