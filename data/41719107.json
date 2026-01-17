@@ -13,21 +13,9 @@
   },
   "schedulers": [
     {
-      "id": "eyJzZWdtZW50SUQiOiIzYmQ1YWZiZi04ZWZhLTQyOWItODQ5Ny03OTk5ZWFkZjY4M2YiLCJpc29ZZWFyIjoyMDI2LCJpc29XZWVrIjozfQ==",
-      "start_time": "2026-01-16T19:00:00Z",
-      "end_time": "2026-01-16T21:00:00Z",
-      "title": "Mandatory vs JL (Valorant)",
-      "canceled_until": null,
-      "category": {
-        "id": "516575",
-        "name": "VALORANT"
-      },
-      "is_recurring": false
-    },
-    {
       "id": "eyJzZWdtZW50SUQiOiIxZDMxMmY0My0xNmQwLTQxNDAtOTZiMC1jMmEwZDcwZTJkMjIiLCJpc29ZZWFyIjoyMDI2LCJpc29XZWVrIjozfQ==",
       "start_time": "2026-01-17T12:00:00Z",
-      "end_time": "2026-01-17T22:00:00Z",
+      "end_time": "2026-01-17T20:00:00Z",
       "title": "[Pas de stream] LAN VALORANT AU HANGAR (quelques streamers y sont)",
       "canceled_until": null,
       "category": {
@@ -244,6 +232,18 @@
       "id": "eyJzZWdtZW50SUQiOiI5M2VkN2YxNi1mM2E5LTRhZjctODAyYi04NGI0NzZkMmRiYzciLCJpc29ZZWFyIjoyMDI2LCJpc29XZWVrIjoxOX0=",
       "start_time": "2026-05-04T18:30:00Z",
       "end_time": "2026-05-04T22:00:00Z",
+      "title": "Soirée du lundi",
+      "canceled_until": null,
+      "category": {
+        "id": "509658",
+        "name": "Just Chatting"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiI5M2VkN2YxNi1mM2E5LTRhZjctODAyYi04NGI0NzZkMmRiYzciLCJpc29ZZWFyIjoyMDI2LCJpc29XZWVrIjoyMH0=",
+      "start_time": "2026-05-11T18:30:00Z",
+      "end_time": "2026-05-11T22:00:00Z",
       "title": "Soirée du lundi",
       "canceled_until": null,
       "category": {
