@@ -13,16 +13,88 @@
   },
   "schedulers": [
     {
-      "id": "eyJzZWdtZW50SUQiOiI5M2VkN2YxNi1mM2E5LTRhZjctODAyYi04NGI0NzZkMmRiYzciLCJpc29ZZWFyIjoyMDI2LCJpc29XZWVrIjo0fQ==",
-      "start_time": "2026-01-19T19:30:00Z",
-      "end_time": "2026-01-19T23:00:00Z",
-      "title": "Soirée du lundi",
+      "id": "eyJzZWdtZW50SUQiOiIwZTU4OGJkOC02NGM4LTQ2OTQtOGI5NS1iMjZhOWJkN2VmZWEiLCJpc29ZZWFyIjoyMDI2LCJpc29XZWVrIjo0fQ==",
+      "start_time": "2026-01-20T19:00:00Z",
+      "end_time": "2026-01-20T23:00:00Z",
+      "title": "FightForSub WoW Hardcore en duo avec Gius",
+      "canceled_until": null,
+      "category": {
+        "id": "18122",
+        "name": "World of Warcraft"
+      },
+      "is_recurring": false
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiIyNDgyNDNhOC0yOGM3LTQ0NGYtYTNkYi0wZTMwN2Y1Y2M4ZjQiLCJpc29ZZWFyIjoyMDI2LCJpc29XZWVrIjo0fQ==",
+      "start_time": "2026-01-22T19:00:00Z",
+      "end_time": "2026-01-22T22:00:00Z",
+      "title": "RPG TeamPlay en trio avec Hyp et Gius",
+      "canceled_until": null,
+      "category": {
+        "id": "687129551",
+        "name": "Trackmania"
+      },
+      "is_recurring": false
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiI2NmU4ZTczMC1hMWE2LTRiNjEtOTk5Ny03NmMxNGE5YzY5YTciLCJpc29ZZWFyIjoyMDI2LCJpc29XZWVrIjo0fQ==",
+      "start_time": "2026-01-23T19:00:00Z",
+      "end_time": "2026-01-23T23:00:00Z",
+      "title": "[chez Alphacast] TABLE QUEST EN SALLE ! ÉPISODE FINAL",
+      "canceled_until": null,
+      "category": {
+        "id": "509664",
+        "name": "Tabletop RPGs"
+      },
+      "is_recurring": false
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiIxMzNjMTQxNy0yN2E0LTRhOGUtYmQyYS05NWI2NWFhZTNhN2YiLCJpc29ZZWFyIjoyMDI2LCJpc29XZWVrIjo0fQ==",
+      "start_time": "2026-01-24T14:00:00Z",
+      "end_time": "2026-01-24T16:00:00Z",
+      "title": "MANDATORY vs ERAH (match 5/7)",
+      "canceled_until": null,
+      "category": {
+        "id": "516575",
+        "name": "VALORANT"
+      },
+      "is_recurring": false
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiIwMmQ1MmYyMS1kYmMzLTRlZjQtOWM4NS1kOTlhMTQ1M2ZhMTIiLCJpc29ZZWFyIjoyMDI2LCJpc29XZWVrIjo0fQ==",
+      "start_time": "2026-01-25T14:00:00Z",
+      "end_time": "2026-01-25T16:00:00Z",
+      "title": "MANDATORY vs CAL (match 6/7)",
+      "canceled_until": null,
+      "category": {
+        "id": "516575",
+        "name": "VALORANT"
+      },
+      "is_recurring": false
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiI1YjFlNGE2Yi00MmRkLTQxYzgtOGY0Ny1jYjViYWUwMmQ0NzQiLCJpc29ZZWFyIjoyMDI2LCJpc29XZWVrIjo0fQ==",
+      "start_time": "2026-01-25T16:00:00Z",
+      "end_time": "2026-01-25T19:00:00Z",
+      "title": "Le stream continue !",
       "canceled_until": null,
       "category": {
         "id": "509658",
         "name": "Just Chatting"
       },
-      "is_recurring": true
+      "is_recurring": false
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiI2YmYyZmQ3MS1mMWE0LTQwYjgtYmY5MS00Mzk3N2Y5ZDM2YzIiLCJpc29ZZWFyIjoyMDI2LCJpc29XZWVrIjo0fQ==",
+      "start_time": "2026-01-25T19:00:00Z",
+      "end_time": "2026-01-25T23:00:00Z",
+      "title": "Indiemanche, découverte de 2 jeux indépendants",
+      "canceled_until": null,
+      "category": {
+        "id": "66082",
+        "name": "Games + Demos"
+      },
+      "is_recurring": false
     },
     {
       "id": "eyJzZWdtZW50SUQiOiI5M2VkN2YxNi1mM2E5LTRhZjctODAyYi04NGI0NzZkMmRiYzciLCJpc29ZZWFyIjoyMDI2LCJpc29XZWVrIjo1fQ==",
@@ -172,78 +244,6 @@
       "id": "eyJzZWdtZW50SUQiOiI5M2VkN2YxNi1mM2E5LTRhZjctODAyYi04NGI0NzZkMmRiYzciLCJpc29ZZWFyIjoyMDI2LCJpc29XZWVrIjoxN30=",
       "start_time": "2026-04-20T18:30:00Z",
       "end_time": "2026-04-20T22:00:00Z",
-      "title": "Soirée du lundi",
-      "canceled_until": null,
-      "category": {
-        "id": "509658",
-        "name": "Just Chatting"
-      },
-      "is_recurring": true
-    },
-    {
-      "id": "eyJzZWdtZW50SUQiOiI5M2VkN2YxNi1mM2E5LTRhZjctODAyYi04NGI0NzZkMmRiYzciLCJpc29ZZWFyIjoyMDI2LCJpc29XZWVrIjoxOH0=",
-      "start_time": "2026-04-27T18:30:00Z",
-      "end_time": "2026-04-27T22:00:00Z",
-      "title": "Soirée du lundi",
-      "canceled_until": null,
-      "category": {
-        "id": "509658",
-        "name": "Just Chatting"
-      },
-      "is_recurring": true
-    },
-    {
-      "id": "eyJzZWdtZW50SUQiOiI5M2VkN2YxNi1mM2E5LTRhZjctODAyYi04NGI0NzZkMmRiYzciLCJpc29ZZWFyIjoyMDI2LCJpc29XZWVrIjoxOX0=",
-      "start_time": "2026-05-04T18:30:00Z",
-      "end_time": "2026-05-04T22:00:00Z",
-      "title": "Soirée du lundi",
-      "canceled_until": null,
-      "category": {
-        "id": "509658",
-        "name": "Just Chatting"
-      },
-      "is_recurring": true
-    },
-    {
-      "id": "eyJzZWdtZW50SUQiOiI5M2VkN2YxNi1mM2E5LTRhZjctODAyYi04NGI0NzZkMmRiYzciLCJpc29ZZWFyIjoyMDI2LCJpc29XZWVrIjoyMH0=",
-      "start_time": "2026-05-11T18:30:00Z",
-      "end_time": "2026-05-11T22:00:00Z",
-      "title": "Soirée du lundi",
-      "canceled_until": null,
-      "category": {
-        "id": "509658",
-        "name": "Just Chatting"
-      },
-      "is_recurring": true
-    },
-    {
-      "id": "eyJzZWdtZW50SUQiOiI5M2VkN2YxNi1mM2E5LTRhZjctODAyYi04NGI0NzZkMmRiYzciLCJpc29ZZWFyIjoyMDI2LCJpc29XZWVrIjoyMX0=",
-      "start_time": "2026-05-18T18:30:00Z",
-      "end_time": "2026-05-18T22:00:00Z",
-      "title": "Soirée du lundi",
-      "canceled_until": null,
-      "category": {
-        "id": "509658",
-        "name": "Just Chatting"
-      },
-      "is_recurring": true
-    },
-    {
-      "id": "eyJzZWdtZW50SUQiOiI5M2VkN2YxNi1mM2E5LTRhZjctODAyYi04NGI0NzZkMmRiYzciLCJpc29ZZWFyIjoyMDI2LCJpc29XZWVrIjoyMn0=",
-      "start_time": "2026-05-25T18:30:00Z",
-      "end_time": "2026-05-25T22:00:00Z",
-      "title": "Soirée du lundi",
-      "canceled_until": null,
-      "category": {
-        "id": "509658",
-        "name": "Just Chatting"
-      },
-      "is_recurring": true
-    },
-    {
-      "id": "eyJzZWdtZW50SUQiOiI5M2VkN2YxNi1mM2E5LTRhZjctODAyYi04NGI0NzZkMmRiYzciLCJpc29ZZWFyIjoyMDI2LCJpc29XZWVrIjoyM30=",
-      "start_time": "2026-06-01T18:30:00Z",
-      "end_time": "2026-06-01T22:00:00Z",
       "title": "Soirée du lundi",
       "canceled_until": null,
       "category": {

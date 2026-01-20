@@ -7,22 +7,58 @@
     "broadcaster_type": "partner",
     "description": "Président du FC Silmi",
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/3cdae7df-600c-4833-8dfe-8d2abc5a3b25-profile_image-300x300.png",
-    "offline_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/a8325586-c82e-4263-95bb-4cfb0a5264b4-channel_offline_image-1920x1080.png",
+    "offline_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/20ec0f7f-cfc0-4207-8531-018cc30521a6-channel_offline_image-1920x1080.png",
     "view_count": 0,
     "created_at": "2013-02-05T19:20:22Z"
   },
   "schedulers": [
     {
-      "id": "eyJzZWdtZW50SUQiOiI0ZWFjYzIxMy1lYWFkLTQxYzMtYjMyYy1hYzIzZGYxODk0NDkiLCJpc29ZZWFyIjoyMDI2LCJpc29XZWVrIjo0fQ==",
-      "start_time": "2026-01-19T18:30:00Z",
-      "end_time": "2026-01-19T19:30:00Z",
+      "id": "eyJzZWdtZW50SUQiOiI3MDNhMmY4Mi04ZmJhLTQ4NTktODlhMi0zYjE1Yjg3MmUxYWYiLCJpc29ZZWFyIjoyMDI2LCJpc29XZWVrIjo0fQ==",
+      "start_time": "2026-01-20T19:00:00Z",
+      "end_time": "2026-01-20T21:30:00Z",
+      "title": "POPCORN AVEC PIERRE NINEY, TATIANA, JIJI & SIMON PUECH",
+      "canceled_until": null,
+      "category": {
+        "id": "417752",
+        "name": "Talk Shows & Podcasts"
+      },
+      "is_recurring": false
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiIzOGFjMmFkNi0wYzUzLTQ2YjAtYmJkYS0zNGZhODBmYzYzMGMiLCJpc29ZZWFyIjoyMDI2LCJpc29XZWVrIjo0fQ==",
+      "start_time": "2026-01-21T13:00:00Z",
+      "end_time": "2026-01-21T13:30:00Z",
       "title": "PRÉ LIVE",
       "canceled_until": null,
       "category": {
         "id": "509658",
         "name": "Just Chatting"
       },
-      "is_recurring": true
+      "is_recurring": false
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiIyNDQ0OGQ5NC00MzNhLTQ5Y2YtOTBlMy0xZTVkNjhjZjUyMTQiLCJpc29ZZWFyIjoyMDI2LCJpc29XZWVrIjo0fQ==",
+      "start_time": "2026-01-21T13:30:00Z",
+      "end_time": "2026-01-21T18:00:00Z",
+      "title": "SUITE DU CHAMPIONNAT",
+      "canceled_until": null,
+      "category": {
+        "id": "1313351584",
+        "name": "Football Manager 26"
+      },
+      "is_recurring": false
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiI3NmU2NzAwYy0zM2IxLTQ5OWQtOWI2OC02ZDBiZWI2ZTliODgiLCJpc29ZZWFyIjoyMDI2LCJpc29XZWVrIjo0fQ==",
+      "start_time": "2026-01-21T18:00:00Z",
+      "end_time": "2026-01-21T19:30:00Z",
+      "title": "OPENING CARTES NBA AVEC ARDA",
+      "canceled_until": null,
+      "category": {
+        "id": "509658",
+        "name": "Just Chatting"
+      },
+      "is_recurring": false
     },
     {
       "id": "eyJzZWdtZW50SUQiOiI0ZWFjYzIxMy1lYWFkLTQxYzMtYjMyYy1hYzIzZGYxODk0NDkiLCJpc29ZZWFyIjoyMDI2LCJpc29XZWVrIjo1fQ==",
@@ -208,42 +244,6 @@
       "id": "eyJzZWdtZW50SUQiOiI0ZWFjYzIxMy1lYWFkLTQxYzMtYjMyYy1hYzIzZGYxODk0NDkiLCJpc29ZZWFyIjoyMDI2LCJpc29XZWVrIjoyMH0=",
       "start_time": "2026-05-11T17:30:00Z",
       "end_time": "2026-05-11T18:30:00Z",
-      "title": "PRÉ LIVE",
-      "canceled_until": null,
-      "category": {
-        "id": "509658",
-        "name": "Just Chatting"
-      },
-      "is_recurring": true
-    },
-    {
-      "id": "eyJzZWdtZW50SUQiOiI0ZWFjYzIxMy1lYWFkLTQxYzMtYjMyYy1hYzIzZGYxODk0NDkiLCJpc29ZZWFyIjoyMDI2LCJpc29XZWVrIjoyMX0=",
-      "start_time": "2026-05-18T17:30:00Z",
-      "end_time": "2026-05-18T18:30:00Z",
-      "title": "PRÉ LIVE",
-      "canceled_until": null,
-      "category": {
-        "id": "509658",
-        "name": "Just Chatting"
-      },
-      "is_recurring": true
-    },
-    {
-      "id": "eyJzZWdtZW50SUQiOiI0ZWFjYzIxMy1lYWFkLTQxYzMtYjMyYy1hYzIzZGYxODk0NDkiLCJpc29ZZWFyIjoyMDI2LCJpc29XZWVrIjoyMn0=",
-      "start_time": "2026-05-25T17:30:00Z",
-      "end_time": "2026-05-25T18:30:00Z",
-      "title": "PRÉ LIVE",
-      "canceled_until": null,
-      "category": {
-        "id": "509658",
-        "name": "Just Chatting"
-      },
-      "is_recurring": true
-    },
-    {
-      "id": "eyJzZWdtZW50SUQiOiI0ZWFjYzIxMy1lYWFkLTQxYzMtYjMyYy1hYzIzZGYxODk0NDkiLCJpc29ZZWFyIjoyMDI2LCJpc29XZWVrIjoyM30=",
-      "start_time": "2026-06-01T17:30:00Z",
-      "end_time": "2026-06-01T18:30:00Z",
       "title": "PRÉ LIVE",
       "canceled_until": null,
       "category": {
