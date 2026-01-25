@@ -13,30 +13,6 @@
   },
   "schedulers": [
     {
-      "id": "eyJzZWdtZW50SUQiOiIxMzNjMTQxNy0yN2E0LTRhOGUtYmQyYS05NWI2NWFhZTNhN2YiLCJpc29ZZWFyIjoyMDI2LCJpc29XZWVrIjo0fQ==",
-      "start_time": "2026-01-24T14:00:00Z",
-      "end_time": "2026-01-24T16:00:00Z",
-      "title": "MANDATORY vs ERAH (match 5/7)",
-      "canceled_until": null,
-      "category": {
-        "id": "516575",
-        "name": "VALORANT"
-      },
-      "is_recurring": false
-    },
-    {
-      "id": "eyJzZWdtZW50SUQiOiJjMzhiMmMzMC0xZjhhLTQ3ZTAtYjZmYy1kZjE3ZTA3YzgxOGEiLCJpc29ZZWFyIjoyMDI2LCJpc29XZWVrIjo0fQ==",
-      "start_time": "2026-01-24T16:00:00Z",
-      "end_time": "2026-01-24T23:00:00Z",
-      "title": "Pokerayou",
-      "canceled_until": null,
-      "category": {
-        "id": "27471",
-        "name": "Minecraft"
-      },
-      "is_recurring": false
-    },
-    {
       "id": "eyJzZWdtZW50SUQiOiIwMmQ1MmYyMS1kYmMzLTRlZjQtOWM4NS1kOTlhMTQ1M2ZhMTIiLCJpc29ZZWFyIjoyMDI2LCJpc29XZWVrIjo0fQ==",
       "start_time": "2026-01-25T14:00:00Z",
       "end_time": "2026-01-25T16:00:00Z",
@@ -244,6 +220,30 @@
       "id": "eyJzZWdtZW50SUQiOiI5M2VkN2YxNi1mM2E5LTRhZjctODAyYi04NGI0NzZkMmRiYzciLCJpc29ZZWFyIjoyMDI2LCJpc29XZWVrIjoxOX0=",
       "start_time": "2026-05-04T18:30:00Z",
       "end_time": "2026-05-04T22:00:00Z",
+      "title": "Soirée du lundi",
+      "canceled_until": null,
+      "category": {
+        "id": "509658",
+        "name": "Just Chatting"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiI5M2VkN2YxNi1mM2E5LTRhZjctODAyYi04NGI0NzZkMmRiYzciLCJpc29ZZWFyIjoyMDI2LCJpc29XZWVrIjoyMH0=",
+      "start_time": "2026-05-11T18:30:00Z",
+      "end_time": "2026-05-11T22:00:00Z",
+      "title": "Soirée du lundi",
+      "canceled_until": null,
+      "category": {
+        "id": "509658",
+        "name": "Just Chatting"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiI5M2VkN2YxNi1mM2E5LTRhZjctODAyYi04NGI0NzZkMmRiYzciLCJpc29ZZWFyIjoyMDI2LCJpc29XZWVrIjoyMX0=",
+      "start_time": "2026-05-18T18:30:00Z",
+      "end_time": "2026-05-18T22:00:00Z",
       "title": "Soirée du lundi",
       "canceled_until": null,
       "category": {
