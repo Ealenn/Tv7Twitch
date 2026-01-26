@@ -13,42 +13,6 @@
   },
   "schedulers": [
     {
-      "id": "eyJzZWdtZW50SUQiOiIwMmQ1MmYyMS1kYmMzLTRlZjQtOWM4NS1kOTlhMTQ1M2ZhMTIiLCJpc29ZZWFyIjoyMDI2LCJpc29XZWVrIjo0fQ==",
-      "start_time": "2026-01-25T14:00:00Z",
-      "end_time": "2026-01-25T16:00:00Z",
-      "title": "MANDATORY vs CAL (match 6/7)",
-      "canceled_until": null,
-      "category": {
-        "id": "516575",
-        "name": "VALORANT"
-      },
-      "is_recurring": false
-    },
-    {
-      "id": "eyJzZWdtZW50SUQiOiI1YjFlNGE2Yi00MmRkLTQxYzgtOGY0Ny1jYjViYWUwMmQ0NzQiLCJpc29ZZWFyIjoyMDI2LCJpc29XZWVrIjo0fQ==",
-      "start_time": "2026-01-25T16:00:00Z",
-      "end_time": "2026-01-25T19:00:00Z",
-      "title": "Le stream continue !",
-      "canceled_until": null,
-      "category": {
-        "id": "509658",
-        "name": "Just Chatting"
-      },
-      "is_recurring": false
-    },
-    {
-      "id": "eyJzZWdtZW50SUQiOiI2YmYyZmQ3MS1mMWE0LTQwYjgtYmY5MS00Mzk3N2Y5ZDM2YzIiLCJpc29ZZWFyIjoyMDI2LCJpc29XZWVrIjo0fQ==",
-      "start_time": "2026-01-25T19:00:00Z",
-      "end_time": "2026-01-25T23:00:00Z",
-      "title": "Indiemanche, découverte de 2 jeux indépendants",
-      "canceled_until": null,
-      "category": {
-        "id": "66082",
-        "name": "Games + Demos"
-      },
-      "is_recurring": false
-    },
-    {
       "id": "eyJzZWdtZW50SUQiOiI5M2VkN2YxNi1mM2E5LTRhZjctODAyYi04NGI0NzZkMmRiYzciLCJpc29ZZWFyIjoyMDI2LCJpc29XZWVrIjo1fQ==",
       "start_time": "2026-01-26T19:30:00Z",
       "end_time": "2026-01-26T23:00:00Z",
@@ -244,6 +208,42 @@
       "id": "eyJzZWdtZW50SUQiOiI5M2VkN2YxNi1mM2E5LTRhZjctODAyYi04NGI0NzZkMmRiYzciLCJpc29ZZWFyIjoyMDI2LCJpc29XZWVrIjoyMX0=",
       "start_time": "2026-05-18T18:30:00Z",
       "end_time": "2026-05-18T22:00:00Z",
+      "title": "Soirée du lundi",
+      "canceled_until": null,
+      "category": {
+        "id": "509658",
+        "name": "Just Chatting"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiI5M2VkN2YxNi1mM2E5LTRhZjctODAyYi04NGI0NzZkMmRiYzciLCJpc29ZZWFyIjoyMDI2LCJpc29XZWVrIjoyMn0=",
+      "start_time": "2026-05-25T18:30:00Z",
+      "end_time": "2026-05-25T22:00:00Z",
+      "title": "Soirée du lundi",
+      "canceled_until": null,
+      "category": {
+        "id": "509658",
+        "name": "Just Chatting"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiI5M2VkN2YxNi1mM2E5LTRhZjctODAyYi04NGI0NzZkMmRiYzciLCJpc29ZZWFyIjoyMDI2LCJpc29XZWVrIjoyM30=",
+      "start_time": "2026-06-01T18:30:00Z",
+      "end_time": "2026-06-01T22:00:00Z",
+      "title": "Soirée du lundi",
+      "canceled_until": null,
+      "category": {
+        "id": "509658",
+        "name": "Just Chatting"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiI5M2VkN2YxNi1mM2E5LTRhZjctODAyYi04NGI0NzZkMmRiYzciLCJpc29ZZWFyIjoyMDI2LCJpc29XZWVrIjoyNH0=",
+      "start_time": "2026-06-08T18:30:00Z",
+      "end_time": "2026-06-08T22:00:00Z",
       "title": "Soirée du lundi",
       "canceled_until": null,
       "category": {
