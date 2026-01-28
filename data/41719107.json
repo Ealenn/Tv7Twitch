@@ -13,6 +13,18 @@
   },
   "schedulers": [
     {
+      "id": "eyJzZWdtZW50SUQiOiIyZjc4YzEwMS1jMGIwLTRlMTAtYjBkYy02NTQzMzI4MWRmMGUiLCJpc29ZZWFyIjoyMDI2LCJpc29XZWVrIjo1fQ==",
+      "start_time": "2026-01-28T18:00:00Z",
+      "end_time": "2026-01-28T23:00:00Z",
+      "title": "Megabonk, nouveau patch !",
+      "canceled_until": null,
+      "category": {
+        "id": "98473926",
+        "name": "Megabonk"
+      },
+      "is_recurring": false
+    },
+    {
       "id": "eyJzZWdtZW50SUQiOiIxMzZmOWU3Zi0yYjJmLTQyZGMtODg0Ny1hYzBiMmRiMjMxMGEiLCJpc29ZZWFyIjoyMDI2LCJpc29XZWVrIjo1fQ==",
       "start_time": "2026-01-31T12:00:00Z",
       "end_time": "2026-01-31T21:00:00Z",
@@ -232,18 +244,6 @@
       "id": "eyJzZWdtZW50SUQiOiI5M2VkN2YxNi1mM2E5LTRhZjctODAyYi04NGI0NzZkMmRiYzciLCJpc29ZZWFyIjoyMDI2LCJpc29XZWVrIjoyMX0=",
       "start_time": "2026-05-18T18:30:00Z",
       "end_time": "2026-05-18T22:00:00Z",
-      "title": "Soirée du lundi",
-      "canceled_until": null,
-      "category": {
-        "id": "509658",
-        "name": "Just Chatting"
-      },
-      "is_recurring": true
-    },
-    {
-      "id": "eyJzZWdtZW50SUQiOiI5M2VkN2YxNi1mM2E5LTRhZjctODAyYi04NGI0NzZkMmRiYzciLCJpc29ZZWFyIjoyMDI2LCJpc29XZWVrIjoyMn0=",
-      "start_time": "2026-05-25T18:30:00Z",
-      "end_time": "2026-05-25T22:00:00Z",
       "title": "Soirée du lundi",
       "canceled_until": null,
       "category": {
