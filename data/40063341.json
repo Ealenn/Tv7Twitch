@@ -13,30 +13,6 @@
   },
   "schedulers": [
     {
-      "id": "eyJzZWdtZW50SUQiOiJlNGIxZTg0MC0xOGIwLTQxYjEtYmI3Yi02MDZlMWE4NmE3NWIiLCJpc29ZZWFyIjoyMDI2LCJpc29XZWVrIjo2fQ==",
-      "start_time": "2026-02-03T18:30:00Z",
-      "end_time": "2026-02-03T19:00:00Z",
-      "title": "PRÉ LIVE",
-      "canceled_until": null,
-      "category": {
-        "id": "509658",
-        "name": "Just Chatting"
-      },
-      "is_recurring": false
-    },
-    {
-      "id": "eyJzZWdtZW50SUQiOiI3NTQ3OWIzMC1iYjJjLTQ5ZDgtYjE4OS1iY2M3ZmQxN2Q5MmUiLCJpc29ZZWFyIjoyMDI2LCJpc29XZWVrIjo2fQ==",
-      "start_time": "2026-02-03T19:00:00Z",
-      "end_time": "2026-02-03T23:00:00Z",
-      "title": "FIN DE SAISON AVEC BIRMINGHAM",
-      "canceled_until": null,
-      "category": {
-        "id": "1313351584",
-        "name": "Football Manager 26"
-      },
-      "is_recurring": false
-    },
-    {
       "id": "eyJzZWdtZW50SUQiOiI3Mzk2YjZiOS1lOTkwLTQ3MzItYTlmZC1kYmE5ZjJiNDczN2YiLCJpc29ZZWFyIjoyMDI2LCJpc29XZWVrIjo2fQ==",
       "start_time": "2026-02-04T18:30:00Z",
       "end_time": "2026-02-04T19:00:00Z",
@@ -244,6 +220,30 @@
       "id": "eyJzZWdtZW50SUQiOiI0ZWFjYzIxMy1lYWFkLTQxYzMtYjMyYy1hYzIzZGYxODk0NDkiLCJpc29ZZWFyIjoyMDI2LCJpc29XZWVrIjoxOX0=",
       "start_time": "2026-05-04T17:30:00Z",
       "end_time": "2026-05-04T18:30:00Z",
+      "title": "PRÉ LIVE",
+      "canceled_until": null,
+      "category": {
+        "id": "509658",
+        "name": "Just Chatting"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiI0ZWFjYzIxMy1lYWFkLTQxYzMtYjMyYy1hYzIzZGYxODk0NDkiLCJpc29ZZWFyIjoyMDI2LCJpc29XZWVrIjoyMH0=",
+      "start_time": "2026-05-11T17:30:00Z",
+      "end_time": "2026-05-11T18:30:00Z",
+      "title": "PRÉ LIVE",
+      "canceled_until": null,
+      "category": {
+        "id": "509658",
+        "name": "Just Chatting"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiI0ZWFjYzIxMy1lYWFkLTQxYzMtYjMyYy1hYzIzZGYxODk0NDkiLCJpc29ZZWFyIjoyMDI2LCJpc29XZWVrIjoyMX0=",
+      "start_time": "2026-05-18T17:30:00Z",
+      "end_time": "2026-05-18T18:30:00Z",
       "title": "PRÉ LIVE",
       "canceled_until": null,
       "category": {
