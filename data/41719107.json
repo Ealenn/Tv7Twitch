@@ -13,18 +13,6 @@
   },
   "schedulers": [
     {
-      "id": "eyJzZWdtZW50SUQiOiJmYzM0NWU0MC03OGUxLTQxYWMtYmJmZS03M2UxMGJlM2VhZTIiLCJpc29ZZWFyIjoyMDI2LCJpc29XZWVrIjo2fQ==",
-      "start_time": "2026-02-07T16:00:00Z",
-      "end_time": "2026-02-07T19:00:00Z",
-      "title": "PLAYOFF VALORANT en direct du hangar",
-      "canceled_until": null,
-      "category": {
-        "id": "516575",
-        "name": "VALORANT"
-      },
-      "is_recurring": false
-    },
-    {
       "id": "eyJzZWdtZW50SUQiOiJjMDVhZGZmOS1jYTU0LTQzNTQtOWFjMi05M2ZjZTdjNTcwZWYiLCJpc29ZZWFyIjoyMDI2LCJpc29XZWVrIjo2fQ==",
       "start_time": "2026-02-08T16:00:00Z",
       "end_time": "2026-02-08T19:00:00Z",
@@ -33,18 +21,6 @@
       "category": {
         "id": "516575",
         "name": "VALORANT"
-      },
-      "is_recurring": false
-    },
-    {
-      "id": "eyJzZWdtZW50SUQiOiJkYzUzODFkMy1jNzM2LTQwNWYtODY3Yy05ZjNhY2Q1ZWFmOTkiLCJpc29ZZWFyIjoyMDI2LCJpc29XZWVrIjo2fQ==",
-      "start_time": "2026-02-08T19:00:00Z",
-      "end_time": "2026-02-08T23:00:00Z",
-      "title": "Indiemanche, Découverte de 2 jeux indépendants",
-      "canceled_until": null,
-      "category": {
-        "id": "66082",
-        "name": "Games + Demos"
       },
       "is_recurring": false
     },
@@ -244,6 +220,30 @@
       "id": "eyJzZWdtZW50SUQiOiI5M2VkN2YxNi1mM2E5LTRhZjctODAyYi04NGI0NzZkMmRiYzciLCJpc29ZZWFyIjoyMDI2LCJpc29XZWVrIjoyM30=",
       "start_time": "2026-06-01T18:30:00Z",
       "end_time": "2026-06-01T22:00:00Z",
+      "title": "Soirée du lundi",
+      "canceled_until": null,
+      "category": {
+        "id": "509658",
+        "name": "Just Chatting"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiI5M2VkN2YxNi1mM2E5LTRhZjctODAyYi04NGI0NzZkMmRiYzciLCJpc29ZZWFyIjoyMDI2LCJpc29XZWVrIjoyNH0=",
+      "start_time": "2026-06-08T18:30:00Z",
+      "end_time": "2026-06-08T22:00:00Z",
+      "title": "Soirée du lundi",
+      "canceled_until": null,
+      "category": {
+        "id": "509658",
+        "name": "Just Chatting"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiI5M2VkN2YxNi1mM2E5LTRhZjctODAyYi04NGI0NzZkMmRiYzciLCJpc29ZZWFyIjoyMDI2LCJpc29XZWVrIjoyNX0=",
+      "start_time": "2026-06-15T18:30:00Z",
+      "end_time": "2026-06-15T22:00:00Z",
       "title": "Soirée du lundi",
       "canceled_until": null,
       "category": {
