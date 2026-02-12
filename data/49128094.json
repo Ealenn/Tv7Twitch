@@ -13,16 +13,16 @@
   },
   "schedulers": [
     {
-      "id": "eyJzZWdtZW50SUQiOiI5ODkyMzQwZi03MWI3LTQyNTYtYWU3OS1iMzljZTE3YzJkZGQiLCJpc29ZZWFyIjoyMDI2LCJpc29XZWVrIjo3fQ==",
-      "start_time": "2026-02-11T17:00:00Z",
-      "end_time": "2026-02-11T19:00:00Z",
-      "title": " Debrief' de l'actualité jeu vidéo de la semaine avec vous ☕",
+      "id": "eyJzZWdtZW50SUQiOiI3MzdhZjMyYy1hMzI1LTRmZDQtYmNjNS00ZmM1ZjYzZDY4ZDEiLCJpc29ZZWFyIjoyMDI2LCJpc29XZWVrIjo4fQ==",
+      "start_time": "2026-02-18T17:00:00Z",
+      "end_time": "2026-02-18T22:00:00Z",
+      "title": "Dune Serveur RolePlay",
       "canceled_until": null,
       "category": {
-        "id": "509658",
-        "name": "Just Chatting"
+        "id": "1987896617",
+        "name": "Dune: Awakening"
       },
-      "is_recurring": true
+      "is_recurring": false
     },
     {
       "id": "eyJzZWdtZW50SUQiOiI5ODkyMzQwZi03MWI3LTQyNTYtYWU3OS1iMzljZTE3YzJkZGQiLCJpc29ZZWFyIjoyMDI2LCJpc29XZWVrIjo4fQ==",
@@ -35,6 +35,30 @@
         "name": "Just Chatting"
       },
       "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiI0ZDEzZTY3Mi0zN2E4LTQ2MzctODdlZS02Y2ZlNTU4MzljMTQiLCJpc29ZZWFyIjoyMDI2LCJpc29XZWVrIjo4fQ==",
+      "start_time": "2026-02-19T17:00:00Z",
+      "end_time": "2026-02-19T22:00:00Z",
+      "title": "Dune Serveur RolePlay",
+      "canceled_until": null,
+      "category": {
+        "id": "1987896617",
+        "name": "Dune: Awakening"
+      },
+      "is_recurring": false
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiJiZmQyZTMxNC01MTljLTQ1NGEtOTllNC00MGNiYzZkOTJjZjAiLCJpc29ZZWFyIjoyMDI2LCJpc29XZWVrIjo4fQ==",
+      "start_time": "2026-02-20T17:00:00Z",
+      "end_time": "2026-02-20T22:00:00Z",
+      "title": "Dune Serveur RolePlay",
+      "canceled_until": null,
+      "category": {
+        "id": "1987896617",
+        "name": "Dune: Awakening"
+      },
+      "is_recurring": false
     },
     {
       "id": "eyJzZWdtZW50SUQiOiI5ODkyMzQwZi03MWI3LTQyNTYtYWU3OS1iMzljZTE3YzJkZGQiLCJpc29ZZWFyIjoyMDI2LCJpc29XZWVrIjo5fQ==",
@@ -220,30 +244,6 @@
       "id": "eyJzZWdtZW50SUQiOiI5ODkyMzQwZi03MWI3LTQyNTYtYWU3OS1iMzljZTE3YzJkZGQiLCJpc29ZZWFyIjoyMDI2LCJpc29XZWVrIjoyNH0=",
       "start_time": "2026-06-10T16:00:00Z",
       "end_time": "2026-06-10T18:00:00Z",
-      "title": " Debrief' de l'actualité jeu vidéo de la semaine avec vous ☕",
-      "canceled_until": null,
-      "category": {
-        "id": "509658",
-        "name": "Just Chatting"
-      },
-      "is_recurring": true
-    },
-    {
-      "id": "eyJzZWdtZW50SUQiOiI5ODkyMzQwZi03MWI3LTQyNTYtYWU3OS1iMzljZTE3YzJkZGQiLCJpc29ZZWFyIjoyMDI2LCJpc29XZWVrIjoyNX0=",
-      "start_time": "2026-06-17T16:00:00Z",
-      "end_time": "2026-06-17T18:00:00Z",
-      "title": " Debrief' de l'actualité jeu vidéo de la semaine avec vous ☕",
-      "canceled_until": null,
-      "category": {
-        "id": "509658",
-        "name": "Just Chatting"
-      },
-      "is_recurring": true
-    },
-    {
-      "id": "eyJzZWdtZW50SUQiOiI5ODkyMzQwZi03MWI3LTQyNTYtYWU3OS1iMzljZTE3YzJkZGQiLCJpc29ZZWFyIjoyMDI2LCJpc29XZWVrIjoyNn0=",
-      "start_time": "2026-06-24T16:00:00Z",
-      "end_time": "2026-06-24T18:00:00Z",
       "title": " Debrief' de l'actualité jeu vidéo de la semaine avec vous ☕",
       "canceled_until": null,
       "category": {
