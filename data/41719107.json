@@ -13,18 +13,6 @@
   },
   "schedulers": [
     {
-      "id": "eyJzZWdtZW50SUQiOiIyMTZmZTU2My1lOGUyLTRkODAtODVlNS01MzZkMTVlNWUyODIiLCJpc29ZZWFyIjoyMDI2LCJpc29XZWVrIjo3fQ==",
-      "start_time": "2026-02-12T19:00:00Z",
-      "end_time": "2026-02-12T22:00:00Z",
-      "title": "NOUVEAU JEU DE COOP AVEC HYP",
-      "canceled_until": null,
-      "category": {
-        "id": "66082",
-        "name": "Games + Demos"
-      },
-      "is_recurring": false
-    },
-    {
       "id": "eyJzZWdtZW50SUQiOiI0ZWZlYTlhZC1hMWQ0LTQzZWYtYjA3ZC0zNTYzNzRiNjdkMWYiLCJpc29ZZWFyIjoyMDI2LCJpc29XZWVrIjo3fQ==",
       "start_time": "2026-02-15T19:00:00Z",
       "end_time": "2026-02-15T23:00:00Z",
