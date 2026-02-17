@@ -7,22 +7,106 @@
     "broadcaster_type": "partner",
     "description": "Président du FC Silmi",
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/3cdae7df-600c-4833-8dfe-8d2abc5a3b25-profile_image-300x300.png",
-    "offline_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/0f51b03e-42eb-40c2-a2fc-cef6e3810d6f-channel_offline_image-1920x1080.png",
+    "offline_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/2b028d30-3f59-4f41-afd0-fadb51c1943c-channel_offline_image-1920x1080.png",
     "view_count": 0,
     "created_at": "2013-02-05T19:20:22Z"
   },
   "schedulers": [
     {
-      "id": "eyJzZWdtZW50SUQiOiI0ZWFjYzIxMy1lYWFkLTQxYzMtYjMyYy1hYzIzZGYxODk0NDkiLCJpc29ZZWFyIjoyMDI2LCJpc29XZWVrIjo4fQ==",
-      "start_time": "2026-02-16T18:30:00Z",
-      "end_time": "2026-02-16T19:30:00Z",
+      "id": "eyJzZWdtZW50SUQiOiI0ZTRmN2EzMy0xYTVkLTQ5NWMtOTU3OC01MDhmMjA3NTBlZmYiLCJpc29ZZWFyIjoyMDI2LCJpc29XZWVrIjo4fQ==",
+      "start_time": "2026-02-17T13:00:00Z",
+      "end_time": "2026-02-17T14:00:00Z",
       "title": "PRÉ LIVE",
       "canceled_until": null,
       "category": {
         "id": "509658",
         "name": "Just Chatting"
       },
-      "is_recurring": true
+      "is_recurring": false
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiIyMzFiMWFlOS0zOThkLTQzYzctYTllYi0wZTNlYWE5Y2U3NTkiLCJpc29ZZWFyIjoyMDI2LCJpc29XZWVrIjo4fQ==",
+      "start_time": "2026-02-17T14:00:00Z",
+      "end_time": "2026-02-17T18:00:00Z",
+      "title": "RUSH FIN DE SAISON",
+      "canceled_until": null,
+      "category": {
+        "id": "1313351584",
+        "name": "Football Manager 26"
+      },
+      "is_recurring": false
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiI3MTE3MmFjZS04YzAxLTQ3MDItODlkMi1iODk3YWNiYjVjM2UiLCJpc29ZZWFyIjoyMDI2LCJpc29XZWVrIjo4fQ==",
+      "start_time": "2026-02-18T13:00:00Z",
+      "end_time": "2026-02-18T14:00:00Z",
+      "title": "PRÉ LIVE",
+      "canceled_until": null,
+      "category": {
+        "id": "509658",
+        "name": "Just Chatting"
+      },
+      "is_recurring": false
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiI2YmU2YjA4Zi1lMGMzLTQ5ZWYtOGU0MC0wNzc2YzVhOGZmMDQiLCJpc29ZZWFyIjoyMDI2LCJpc29XZWVrIjo4fQ==",
+      "start_time": "2026-02-18T14:00:00Z",
+      "end_time": "2026-02-18T18:00:00Z",
+      "title": "FIN DE SAISON",
+      "canceled_until": null,
+      "category": {
+        "id": "1313351584",
+        "name": "Football Manager 26"
+      },
+      "is_recurring": false
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiJkY2I3MmRlMS03N2YyLTRiYTgtYjJiNy0wZTM3MDA4MjYxMzYiLCJpc29ZZWFyIjoyMDI2LCJpc29XZWVrIjo4fQ==",
+      "start_time": "2026-02-19T18:30:00Z",
+      "end_time": "2026-02-19T19:30:00Z",
+      "title": "PRÉ LIVE",
+      "canceled_until": null,
+      "category": {
+        "id": "509658",
+        "name": "Just Chatting"
+      },
+      "is_recurring": false
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiJkM2ZhMjMyNC0wN2FjLTQzODYtYWEwOS00MmE3ZDQ1NWY4ZjMiLCJpc29ZZWFyIjoyMDI2LCJpc29XZWVrIjo4fQ==",
+      "start_time": "2026-02-19T19:30:00Z",
+      "end_time": "2026-02-19T23:00:00Z",
+      "title": "ON JOUE À NEWS TOWER",
+      "canceled_until": null,
+      "category": {
+        "id": "566022902",
+        "name": "News Tower"
+      },
+      "is_recurring": false
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiI5ZmJhZDMxYi00ZDI4LTQ0YTAtOGVlZi05YmExMzUxNzBjYjYiLCJpc29ZZWFyIjoyMDI2LCJpc29XZWVrIjo4fQ==",
+      "start_time": "2026-02-20T13:00:00Z",
+      "end_time": "2026-02-20T14:00:00Z",
+      "title": "PRÉ LIVE",
+      "canceled_until": null,
+      "category": {
+        "id": "509658",
+        "name": "Just Chatting"
+      },
+      "is_recurring": false
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiIwZDg4Yzc3YS02NTE5LTQ3NDYtYjk5ZC04OTYzYzhlNmFiMmYiLCJpc29ZZWFyIjoyMDI2LCJpc29XZWVrIjo4fQ==",
+      "start_time": "2026-02-20T14:00:00Z",
+      "end_time": "2026-02-20T18:00:00Z",
+      "title": "ON TEST NGL BIATHLON",
+      "canceled_until": null,
+      "category": {
+        "id": "120576680",
+        "name": "NGL Biathlon"
+      },
+      "is_recurring": false
     },
     {
       "id": "eyJzZWdtZW50SUQiOiI0ZWFjYzIxMy1lYWFkLTQxYzMtYjMyYy1hYzIzZGYxODk0NDkiLCJpc29ZZWFyIjoyMDI2LCJpc29XZWVrIjo5fQ==",
@@ -160,90 +244,6 @@
       "id": "eyJzZWdtZW50SUQiOiI0ZWFjYzIxMy1lYWFkLTQxYzMtYjMyYy1hYzIzZGYxODk0NDkiLCJpc29ZZWFyIjoyMDI2LCJpc29XZWVrIjoyMH0=",
       "start_time": "2026-05-11T17:30:00Z",
       "end_time": "2026-05-11T18:30:00Z",
-      "title": "PRÉ LIVE",
-      "canceled_until": null,
-      "category": {
-        "id": "509658",
-        "name": "Just Chatting"
-      },
-      "is_recurring": true
-    },
-    {
-      "id": "eyJzZWdtZW50SUQiOiI0ZWFjYzIxMy1lYWFkLTQxYzMtYjMyYy1hYzIzZGYxODk0NDkiLCJpc29ZZWFyIjoyMDI2LCJpc29XZWVrIjoyMX0=",
-      "start_time": "2026-05-18T17:30:00Z",
-      "end_time": "2026-05-18T18:30:00Z",
-      "title": "PRÉ LIVE",
-      "canceled_until": null,
-      "category": {
-        "id": "509658",
-        "name": "Just Chatting"
-      },
-      "is_recurring": true
-    },
-    {
-      "id": "eyJzZWdtZW50SUQiOiI0ZWFjYzIxMy1lYWFkLTQxYzMtYjMyYy1hYzIzZGYxODk0NDkiLCJpc29ZZWFyIjoyMDI2LCJpc29XZWVrIjoyMn0=",
-      "start_time": "2026-05-25T17:30:00Z",
-      "end_time": "2026-05-25T18:30:00Z",
-      "title": "PRÉ LIVE",
-      "canceled_until": null,
-      "category": {
-        "id": "509658",
-        "name": "Just Chatting"
-      },
-      "is_recurring": true
-    },
-    {
-      "id": "eyJzZWdtZW50SUQiOiI0ZWFjYzIxMy1lYWFkLTQxYzMtYjMyYy1hYzIzZGYxODk0NDkiLCJpc29ZZWFyIjoyMDI2LCJpc29XZWVrIjoyM30=",
-      "start_time": "2026-06-01T17:30:00Z",
-      "end_time": "2026-06-01T18:30:00Z",
-      "title": "PRÉ LIVE",
-      "canceled_until": null,
-      "category": {
-        "id": "509658",
-        "name": "Just Chatting"
-      },
-      "is_recurring": true
-    },
-    {
-      "id": "eyJzZWdtZW50SUQiOiI0ZWFjYzIxMy1lYWFkLTQxYzMtYjMyYy1hYzIzZGYxODk0NDkiLCJpc29ZZWFyIjoyMDI2LCJpc29XZWVrIjoyNH0=",
-      "start_time": "2026-06-08T17:30:00Z",
-      "end_time": "2026-06-08T18:30:00Z",
-      "title": "PRÉ LIVE",
-      "canceled_until": null,
-      "category": {
-        "id": "509658",
-        "name": "Just Chatting"
-      },
-      "is_recurring": true
-    },
-    {
-      "id": "eyJzZWdtZW50SUQiOiI0ZWFjYzIxMy1lYWFkLTQxYzMtYjMyYy1hYzIzZGYxODk0NDkiLCJpc29ZZWFyIjoyMDI2LCJpc29XZWVrIjoyNX0=",
-      "start_time": "2026-06-15T17:30:00Z",
-      "end_time": "2026-06-15T18:30:00Z",
-      "title": "PRÉ LIVE",
-      "canceled_until": null,
-      "category": {
-        "id": "509658",
-        "name": "Just Chatting"
-      },
-      "is_recurring": true
-    },
-    {
-      "id": "eyJzZWdtZW50SUQiOiI0ZWFjYzIxMy1lYWFkLTQxYzMtYjMyYy1hYzIzZGYxODk0NDkiLCJpc29ZZWFyIjoyMDI2LCJpc29XZWVrIjoyNn0=",
-      "start_time": "2026-06-22T17:30:00Z",
-      "end_time": "2026-06-22T18:30:00Z",
-      "title": "PRÉ LIVE",
-      "canceled_until": null,
-      "category": {
-        "id": "509658",
-        "name": "Just Chatting"
-      },
-      "is_recurring": true
-    },
-    {
-      "id": "eyJzZWdtZW50SUQiOiI0ZWFjYzIxMy1lYWFkLTQxYzMtYjMyYy1hYzIzZGYxODk0NDkiLCJpc29ZZWFyIjoyMDI2LCJpc29XZWVrIjoyN30=",
-      "start_time": "2026-06-29T17:30:00Z",
-      "end_time": "2026-06-29T18:30:00Z",
       "title": "PRÉ LIVE",
       "canceled_until": null,
       "category": {
