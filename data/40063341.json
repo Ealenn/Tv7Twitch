@@ -13,30 +13,6 @@
   },
   "schedulers": [
     {
-      "id": "eyJzZWdtZW50SUQiOiI3MTE3MmFjZS04YzAxLTQ3MDItODlkMi1iODk3YWNiYjVjM2UiLCJpc29ZZWFyIjoyMDI2LCJpc29XZWVrIjo4fQ==",
-      "start_time": "2026-02-18T13:00:00Z",
-      "end_time": "2026-02-18T14:00:00Z",
-      "title": "PRÉ LIVE",
-      "canceled_until": null,
-      "category": {
-        "id": "509658",
-        "name": "Just Chatting"
-      },
-      "is_recurring": false
-    },
-    {
-      "id": "eyJzZWdtZW50SUQiOiI2YmU2YjA4Zi1lMGMzLTQ5ZWYtOGU0MC0wNzc2YzVhOGZmMDQiLCJpc29ZZWFyIjoyMDI2LCJpc29XZWVrIjo4fQ==",
-      "start_time": "2026-02-18T14:00:00Z",
-      "end_time": "2026-02-18T18:00:00Z",
-      "title": "FIN DE SAISON",
-      "canceled_until": null,
-      "category": {
-        "id": "1313351584",
-        "name": "Football Manager 26"
-      },
-      "is_recurring": false
-    },
-    {
       "id": "eyJzZWdtZW50SUQiOiJkY2I3MmRlMS03N2YyLTRiYTgtYjJiNy0wZTM3MDA4MjYxMzYiLCJpc29ZZWFyIjoyMDI2LCJpc29XZWVrIjo4fQ==",
       "start_time": "2026-02-19T18:30:00Z",
       "end_time": "2026-02-19T19:30:00Z",
@@ -244,6 +220,30 @@
       "id": "eyJzZWdtZW50SUQiOiI0ZWFjYzIxMy1lYWFkLTQxYzMtYjMyYy1hYzIzZGYxODk0NDkiLCJpc29ZZWFyIjoyMDI2LCJpc29XZWVrIjoyMn0=",
       "start_time": "2026-05-25T17:30:00Z",
       "end_time": "2026-05-25T18:30:00Z",
+      "title": "PRÉ LIVE",
+      "canceled_until": null,
+      "category": {
+        "id": "509658",
+        "name": "Just Chatting"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiI0ZWFjYzIxMy1lYWFkLTQxYzMtYjMyYy1hYzIzZGYxODk0NDkiLCJpc29ZZWFyIjoyMDI2LCJpc29XZWVrIjoyM30=",
+      "start_time": "2026-06-01T17:30:00Z",
+      "end_time": "2026-06-01T18:30:00Z",
+      "title": "PRÉ LIVE",
+      "canceled_until": null,
+      "category": {
+        "id": "509658",
+        "name": "Just Chatting"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiI0ZWFjYzIxMy1lYWFkLTQxYzMtYjMyYy1hYzIzZGYxODk0NDkiLCJpc29ZZWFyIjoyMDI2LCJpc29XZWVrIjoyNH0=",
+      "start_time": "2026-06-08T17:30:00Z",
+      "end_time": "2026-06-08T18:30:00Z",
       "title": "PRÉ LIVE",
       "canceled_until": null,
       "category": {

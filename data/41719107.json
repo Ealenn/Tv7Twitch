@@ -13,18 +13,6 @@
   },
   "schedulers": [
     {
-      "id": "eyJzZWdtZW50SUQiOiJiODRmZThhZi1mODBmLTRhZDMtODkzYy0xMDdiMWE3MDI1NzUiLCJpc29ZZWFyIjoyMDI2LCJpc29XZWVrIjo4fQ==",
-      "start_time": "2026-02-18T17:00:00Z",
-      "end_time": "2026-02-18T22:00:00Z",
-      "title": "LANCEMENT SERVEUR MMO DUNE EVENTIS semi rp pokérayou mais sur dune",
-      "canceled_until": null,
-      "category": {
-        "id": "1987896617",
-        "name": "Dune: Awakening"
-      },
-      "is_recurring": false
-    },
-    {
       "id": "eyJzZWdtZW50SUQiOiIwOGQ5N2JjMC1iYzMwLTRkNDEtOTJiYy04ZDhjNmVlMjA2MDIiLCJpc29ZZWFyIjoyMDI2LCJpc29XZWVrIjo4fQ==",
       "start_time": "2026-02-19T19:00:00Z",
       "end_time": "2026-02-20T00:00:00Z",
