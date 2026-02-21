@@ -13,30 +13,6 @@
   },
   "schedulers": [
     {
-      "id": "eyJzZWdtZW50SUQiOiI5ZmJhZDMxYi00ZDI4LTQ0YTAtOGVlZi05YmExMzUxNzBjYjYiLCJpc29ZZWFyIjoyMDI2LCJpc29XZWVrIjo4fQ==",
-      "start_time": "2026-02-20T13:00:00Z",
-      "end_time": "2026-02-20T14:00:00Z",
-      "title": "PRÉ LIVE",
-      "canceled_until": null,
-      "category": {
-        "id": "509658",
-        "name": "Just Chatting"
-      },
-      "is_recurring": false
-    },
-    {
-      "id": "eyJzZWdtZW50SUQiOiIwZDg4Yzc3YS02NTE5LTQ3NDYtYjk5ZC04OTYzYzhlNmFiMmYiLCJpc29ZZWFyIjoyMDI2LCJpc29XZWVrIjo4fQ==",
-      "start_time": "2026-02-20T14:00:00Z",
-      "end_time": "2026-02-20T18:00:00Z",
-      "title": "ON TEST NGL BIATHLON",
-      "canceled_until": null,
-      "category": {
-        "id": "120576680",
-        "name": "NGL Biathlon"
-      },
-      "is_recurring": false
-    },
-    {
       "id": "eyJzZWdtZW50SUQiOiI0ZWFjYzIxMy1lYWFkLTQxYzMtYjMyYy1hYzIzZGYxODk0NDkiLCJpc29ZZWFyIjoyMDI2LCJpc29XZWVrIjo5fQ==",
       "start_time": "2026-02-23T18:30:00Z",
       "end_time": "2026-02-23T19:30:00Z",
@@ -244,6 +220,30 @@
       "id": "eyJzZWdtZW50SUQiOiI0ZWFjYzIxMy1lYWFkLTQxYzMtYjMyYy1hYzIzZGYxODk0NDkiLCJpc29ZZWFyIjoyMDI2LCJpc29XZWVrIjoyNn0=",
       "start_time": "2026-06-22T17:30:00Z",
       "end_time": "2026-06-22T18:30:00Z",
+      "title": "PRÉ LIVE",
+      "canceled_until": null,
+      "category": {
+        "id": "509658",
+        "name": "Just Chatting"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiI0ZWFjYzIxMy1lYWFkLTQxYzMtYjMyYy1hYzIzZGYxODk0NDkiLCJpc29ZZWFyIjoyMDI2LCJpc29XZWVrIjoyN30=",
+      "start_time": "2026-06-29T17:30:00Z",
+      "end_time": "2026-06-29T18:30:00Z",
+      "title": "PRÉ LIVE",
+      "canceled_until": null,
+      "category": {
+        "id": "509658",
+        "name": "Just Chatting"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiI0ZWFjYzIxMy1lYWFkLTQxYzMtYjMyYy1hYzIzZGYxODk0NDkiLCJpc29ZZWFyIjoyMDI2LCJpc29XZWVrIjoyOH0=",
+      "start_time": "2026-07-06T17:30:00Z",
+      "end_time": "2026-07-06T18:30:00Z",
       "title": "PRÉ LIVE",
       "canceled_until": null,
       "category": {
