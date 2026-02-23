@@ -25,16 +25,40 @@
       "is_recurring": true
     },
     {
-      "id": "eyJzZWdtZW50SUQiOiI3NjhkYTRkZS1hYjQyLTRmNWYtODk1Ni1iYWRjNmVhN2YzMWYiLCJpc29ZZWFyIjoyMDI2LCJpc29XZWVrIjo5fQ==",
-      "start_time": "2026-02-24T11:00:00Z",
-      "end_time": "2026-02-24T15:00:00Z",
-      "title": "Lycans",
+      "id": "eyJzZWdtZW50SUQiOiI5MWRiOGE1Yy01NmE1LTRkMDAtYTk2Ny1mOTA3NGIwYTc1ZjIiLCJpc29ZZWFyIjoyMDI2LCJpc29XZWVrIjo5fQ==",
+      "start_time": "2026-02-24T19:00:00Z",
+      "end_time": "2026-02-24T23:00:00Z",
+      "title": "Among Us avec BagheraJones Cyprien DrFeelgood Emilien Julgane Lexi Armand MisterJDay et Raumane",
       "canceled_until": null,
       "category": {
-        "id": "1494074023",
-        "name": "Lycans"
+        "id": "510218",
+        "name": "Among Us"
       },
-      "is_recurring": true
+      "is_recurring": false
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiIwODkyODNhMi02MmYxLTRjY2UtOTY2Yi1hOWNiODU1MDQxMDIiLCJpc29ZZWFyIjoyMDI2LCJpc29XZWVrIjo5fQ==",
+      "start_time": "2026-02-25T19:00:00Z",
+      "end_time": "2026-02-25T23:00:00Z",
+      "title": "Stream Libre",
+      "canceled_until": null,
+      "category": {
+        "id": "509658",
+        "name": "Just Chatting"
+      },
+      "is_recurring": false
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiI1OWRiOWMxZS05YjlmLTRiMGQtOThmMS0xOTMxOGMyOGVhYmEiLCJpc29ZZWFyIjoyMDI2LCJpc29XZWVrIjo5fQ==",
+      "start_time": "2026-02-28T11:00:00Z",
+      "end_time": "2026-02-28T17:00:00Z",
+      "title": "Stream Libre",
+      "canceled_until": null,
+      "category": {
+        "id": "509658",
+        "name": "Just Chatting"
+      },
+      "is_recurring": false
     },
     {
       "id": "eyJzZWdtZW50SUQiOiIxY2JhOGIxNS00MzEwLTRiNGYtODc1MS1iMGZlOGExNDVhZDIiLCJpc29ZZWFyIjoyMDI2LCJpc29XZWVrIjoxMH0=",
@@ -45,18 +69,6 @@
       "category": {
         "id": "338715930",
         "name": "Maitre des Fleurs"
-      },
-      "is_recurring": true
-    },
-    {
-      "id": "eyJzZWdtZW50SUQiOiI3NjhkYTRkZS1hYjQyLTRmNWYtODk1Ni1iYWRjNmVhN2YzMWYiLCJpc29ZZWFyIjoyMDI2LCJpc29XZWVrIjoxMH0=",
-      "start_time": "2026-03-03T11:00:00Z",
-      "end_time": "2026-03-03T15:00:00Z",
-      "title": "Lycans",
-      "canceled_until": null,
-      "category": {
-        "id": "1494074023",
-        "name": "Lycans"
       },
       "is_recurring": true
     },
@@ -73,18 +85,6 @@
       "is_recurring": true
     },
     {
-      "id": "eyJzZWdtZW50SUQiOiI3NjhkYTRkZS1hYjQyLTRmNWYtODk1Ni1iYWRjNmVhN2YzMWYiLCJpc29ZZWFyIjoyMDI2LCJpc29XZWVrIjoxMX0=",
-      "start_time": "2026-03-10T11:00:00Z",
-      "end_time": "2026-03-10T15:00:00Z",
-      "title": "Lycans",
-      "canceled_until": null,
-      "category": {
-        "id": "1494074023",
-        "name": "Lycans"
-      },
-      "is_recurring": true
-    },
-    {
       "id": "eyJzZWdtZW50SUQiOiIxY2JhOGIxNS00MzEwLTRiNGYtODc1MS1iMGZlOGExNDVhZDIiLCJpc29ZZWFyIjoyMDI2LCJpc29XZWVrIjoxMn0=",
       "start_time": "2026-03-16T12:00:00Z",
       "end_time": "2026-03-16T16:00:00Z",
@@ -93,18 +93,6 @@
       "category": {
         "id": "338715930",
         "name": "Maitre des Fleurs"
-      },
-      "is_recurring": true
-    },
-    {
-      "id": "eyJzZWdtZW50SUQiOiI3NjhkYTRkZS1hYjQyLTRmNWYtODk1Ni1iYWRjNmVhN2YzMWYiLCJpc29ZZWFyIjoyMDI2LCJpc29XZWVrIjoxMn0=",
-      "start_time": "2026-03-17T11:00:00Z",
-      "end_time": "2026-03-17T15:00:00Z",
-      "title": "Lycans",
-      "canceled_until": null,
-      "category": {
-        "id": "1494074023",
-        "name": "Lycans"
       },
       "is_recurring": true
     },
@@ -121,18 +109,6 @@
       "is_recurring": true
     },
     {
-      "id": "eyJzZWdtZW50SUQiOiI3NjhkYTRkZS1hYjQyLTRmNWYtODk1Ni1iYWRjNmVhN2YzMWYiLCJpc29ZZWFyIjoyMDI2LCJpc29XZWVrIjoxM30=",
-      "start_time": "2026-03-24T11:00:00Z",
-      "end_time": "2026-03-24T15:00:00Z",
-      "title": "Lycans",
-      "canceled_until": null,
-      "category": {
-        "id": "1494074023",
-        "name": "Lycans"
-      },
-      "is_recurring": true
-    },
-    {
       "id": "eyJzZWdtZW50SUQiOiIxY2JhOGIxNS00MzEwLTRiNGYtODc1MS1iMGZlOGExNDVhZDIiLCJpc29ZZWFyIjoyMDI2LCJpc29XZWVrIjoxNH0=",
       "start_time": "2026-03-30T11:00:00Z",
       "end_time": "2026-03-30T15:00:00Z",
@@ -141,18 +117,6 @@
       "category": {
         "id": "338715930",
         "name": "Maitre des Fleurs"
-      },
-      "is_recurring": true
-    },
-    {
-      "id": "eyJzZWdtZW50SUQiOiI3NjhkYTRkZS1hYjQyLTRmNWYtODk1Ni1iYWRjNmVhN2YzMWYiLCJpc29ZZWFyIjoyMDI2LCJpc29XZWVrIjoxNH0=",
-      "start_time": "2026-03-31T10:00:00Z",
-      "end_time": "2026-03-31T14:00:00Z",
-      "title": "Lycans",
-      "canceled_until": null,
-      "category": {
-        "id": "1494074023",
-        "name": "Lycans"
       },
       "is_recurring": true
     },
@@ -169,18 +133,6 @@
       "is_recurring": true
     },
     {
-      "id": "eyJzZWdtZW50SUQiOiI3NjhkYTRkZS1hYjQyLTRmNWYtODk1Ni1iYWRjNmVhN2YzMWYiLCJpc29ZZWFyIjoyMDI2LCJpc29XZWVrIjoxNX0=",
-      "start_time": "2026-04-07T10:00:00Z",
-      "end_time": "2026-04-07T14:00:00Z",
-      "title": "Lycans",
-      "canceled_until": null,
-      "category": {
-        "id": "1494074023",
-        "name": "Lycans"
-      },
-      "is_recurring": true
-    },
-    {
       "id": "eyJzZWdtZW50SUQiOiIxY2JhOGIxNS00MzEwLTRiNGYtODc1MS1iMGZlOGExNDVhZDIiLCJpc29ZZWFyIjoyMDI2LCJpc29XZWVrIjoxNn0=",
       "start_time": "2026-04-13T11:00:00Z",
       "end_time": "2026-04-13T15:00:00Z",
@@ -189,18 +141,6 @@
       "category": {
         "id": "338715930",
         "name": "Maitre des Fleurs"
-      },
-      "is_recurring": true
-    },
-    {
-      "id": "eyJzZWdtZW50SUQiOiI3NjhkYTRkZS1hYjQyLTRmNWYtODk1Ni1iYWRjNmVhN2YzMWYiLCJpc29ZZWFyIjoyMDI2LCJpc29XZWVrIjoxNn0=",
-      "start_time": "2026-04-14T10:00:00Z",
-      "end_time": "2026-04-14T14:00:00Z",
-      "title": "Lycans",
-      "canceled_until": null,
-      "category": {
-        "id": "1494074023",
-        "name": "Lycans"
       },
       "is_recurring": true
     },
@@ -217,18 +157,6 @@
       "is_recurring": true
     },
     {
-      "id": "eyJzZWdtZW50SUQiOiI3NjhkYTRkZS1hYjQyLTRmNWYtODk1Ni1iYWRjNmVhN2YzMWYiLCJpc29ZZWFyIjoyMDI2LCJpc29XZWVrIjoxN30=",
-      "start_time": "2026-04-21T10:00:00Z",
-      "end_time": "2026-04-21T14:00:00Z",
-      "title": "Lycans",
-      "canceled_until": null,
-      "category": {
-        "id": "1494074023",
-        "name": "Lycans"
-      },
-      "is_recurring": true
-    },
-    {
       "id": "eyJzZWdtZW50SUQiOiIxY2JhOGIxNS00MzEwLTRiNGYtODc1MS1iMGZlOGExNDVhZDIiLCJpc29ZZWFyIjoyMDI2LCJpc29XZWVrIjoxOH0=",
       "start_time": "2026-04-27T11:00:00Z",
       "end_time": "2026-04-27T15:00:00Z",
@@ -241,14 +169,86 @@
       "is_recurring": true
     },
     {
-      "id": "eyJzZWdtZW50SUQiOiI3NjhkYTRkZS1hYjQyLTRmNWYtODk1Ni1iYWRjNmVhN2YzMWYiLCJpc29ZZWFyIjoyMDI2LCJpc29XZWVrIjoxOH0=",
-      "start_time": "2026-04-28T10:00:00Z",
-      "end_time": "2026-04-28T14:00:00Z",
-      "title": "Lycans",
+      "id": "eyJzZWdtZW50SUQiOiIxY2JhOGIxNS00MzEwLTRiNGYtODc1MS1iMGZlOGExNDVhZDIiLCJpc29ZZWFyIjoyMDI2LCJpc29XZWVrIjoxOX0=",
+      "start_time": "2026-05-04T11:00:00Z",
+      "end_time": "2026-05-04T15:00:00Z",
+      "title": "Le lundi c'est culture !",
       "canceled_until": null,
       "category": {
-        "id": "1494074023",
-        "name": "Lycans"
+        "id": "338715930",
+        "name": "Maitre des Fleurs"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiIxY2JhOGIxNS00MzEwLTRiNGYtODc1MS1iMGZlOGExNDVhZDIiLCJpc29ZZWFyIjoyMDI2LCJpc29XZWVrIjoyMH0=",
+      "start_time": "2026-05-11T11:00:00Z",
+      "end_time": "2026-05-11T15:00:00Z",
+      "title": "Le lundi c'est culture !",
+      "canceled_until": null,
+      "category": {
+        "id": "338715930",
+        "name": "Maitre des Fleurs"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiIxY2JhOGIxNS00MzEwLTRiNGYtODc1MS1iMGZlOGExNDVhZDIiLCJpc29ZZWFyIjoyMDI2LCJpc29XZWVrIjoyMX0=",
+      "start_time": "2026-05-18T11:00:00Z",
+      "end_time": "2026-05-18T15:00:00Z",
+      "title": "Le lundi c'est culture !",
+      "canceled_until": null,
+      "category": {
+        "id": "338715930",
+        "name": "Maitre des Fleurs"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiIxY2JhOGIxNS00MzEwLTRiNGYtODc1MS1iMGZlOGExNDVhZDIiLCJpc29ZZWFyIjoyMDI2LCJpc29XZWVrIjoyMn0=",
+      "start_time": "2026-05-25T11:00:00Z",
+      "end_time": "2026-05-25T15:00:00Z",
+      "title": "Le lundi c'est culture !",
+      "canceled_until": null,
+      "category": {
+        "id": "338715930",
+        "name": "Maitre des Fleurs"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiIxY2JhOGIxNS00MzEwLTRiNGYtODc1MS1iMGZlOGExNDVhZDIiLCJpc29ZZWFyIjoyMDI2LCJpc29XZWVrIjoyM30=",
+      "start_time": "2026-06-01T11:00:00Z",
+      "end_time": "2026-06-01T15:00:00Z",
+      "title": "Le lundi c'est culture !",
+      "canceled_until": null,
+      "category": {
+        "id": "338715930",
+        "name": "Maitre des Fleurs"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiIxY2JhOGIxNS00MzEwLTRiNGYtODc1MS1iMGZlOGExNDVhZDIiLCJpc29ZZWFyIjoyMDI2LCJpc29XZWVrIjoyNH0=",
+      "start_time": "2026-06-08T11:00:00Z",
+      "end_time": "2026-06-08T15:00:00Z",
+      "title": "Le lundi c'est culture !",
+      "canceled_until": null,
+      "category": {
+        "id": "338715930",
+        "name": "Maitre des Fleurs"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiIxY2JhOGIxNS00MzEwLTRiNGYtODc1MS1iMGZlOGExNDVhZDIiLCJpc29ZZWFyIjoyMDI2LCJpc29XZWVrIjoyNX0=",
+      "start_time": "2026-06-15T11:00:00Z",
+      "end_time": "2026-06-15T15:00:00Z",
+      "title": "Le lundi c'est culture !",
+      "canceled_until": null,
+      "category": {
+        "id": "338715930",
+        "name": "Maitre des Fleurs"
       },
       "is_recurring": true
     }
