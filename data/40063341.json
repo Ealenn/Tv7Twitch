@@ -7,22 +7,46 @@
     "broadcaster_type": "partner",
     "description": "Président du FC Silmi",
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/3cdae7df-600c-4833-8dfe-8d2abc5a3b25-profile_image-300x300.png",
-    "offline_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/2b028d30-3f59-4f41-afd0-fadb51c1943c-channel_offline_image-1920x1080.png",
+    "offline_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/d036e1d8-507b-4a6f-95dd-f9a39b8889f4-channel_offline_image-1920x1080.png",
     "view_count": 0,
     "created_at": "2013-02-05T19:20:22Z"
   },
   "schedulers": [
     {
-      "id": "eyJzZWdtZW50SUQiOiI0ZWFjYzIxMy1lYWFkLTQxYzMtYjMyYy1hYzIzZGYxODk0NDkiLCJpc29ZZWFyIjoyMDI2LCJpc29XZWVrIjo5fQ==",
-      "start_time": "2026-02-23T18:30:00Z",
-      "end_time": "2026-02-23T19:30:00Z",
-      "title": "PRÉ LIVE",
+      "id": "eyJzZWdtZW50SUQiOiJhNjMwNTQxNi1iYjQwLTQ2N2UtOGRjNS00M2I1Mjc5YzJjNzIiLCJpc29ZZWFyIjoyMDI2LCJpc29XZWVrIjo5fQ==",
+      "start_time": "2026-02-24T19:00:00Z",
+      "end_time": "2026-02-24T21:30:00Z",
+      "title": "CARDS CORNER AVEC PLEIN D'INVITÉS",
       "canceled_until": null,
       "category": {
         "id": "509658",
         "name": "Just Chatting"
       },
-      "is_recurring": true
+      "is_recurring": false
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiI1OTg2NGQyMC1lMDY5LTRiZjYtOTE3OC00MzNjNDcyOGVhZDkiLCJpc29ZZWFyIjoyMDI2LCJpc29XZWVrIjo5fQ==",
+      "start_time": "2026-02-25T12:30:00Z",
+      "end_time": "2026-02-25T14:00:00Z",
+      "title": "REACT DALS AVEC CAMILLE COMBAL",
+      "canceled_until": null,
+      "category": {
+        "id": "509658",
+        "name": "Just Chatting"
+      },
+      "is_recurring": false
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiI3MzgxN2VhYi1kNWMzLTQ0NWEtYjg1MS0xOGZiNTU1OTcyMjUiLCJpc29ZZWFyIjoyMDI2LCJpc29XZWVrIjo5fQ==",
+      "start_time": "2026-02-25T14:00:00Z",
+      "end_time": "2026-02-25T18:00:00Z",
+      "title": "SAISON 2 POUR OLÉ AVEC PONEY",
+      "canceled_until": null,
+      "category": {
+        "id": "120576680",
+        "name": "NGL Biathlon"
+      },
+      "is_recurring": false
     },
     {
       "id": "eyJzZWdtZW50SUQiOiI0ZWFjYzIxMy1lYWFkLTQxYzMtYjMyYy1hYzIzZGYxODk0NDkiLCJpc29ZZWFyIjoyMDI2LCJpc29XZWVrIjoxMH0=",
@@ -220,30 +244,6 @@
       "id": "eyJzZWdtZW50SUQiOiI0ZWFjYzIxMy1lYWFkLTQxYzMtYjMyYy1hYzIzZGYxODk0NDkiLCJpc29ZZWFyIjoyMDI2LCJpc29XZWVrIjoyNn0=",
       "start_time": "2026-06-22T17:30:00Z",
       "end_time": "2026-06-22T18:30:00Z",
-      "title": "PRÉ LIVE",
-      "canceled_until": null,
-      "category": {
-        "id": "509658",
-        "name": "Just Chatting"
-      },
-      "is_recurring": true
-    },
-    {
-      "id": "eyJzZWdtZW50SUQiOiI0ZWFjYzIxMy1lYWFkLTQxYzMtYjMyYy1hYzIzZGYxODk0NDkiLCJpc29ZZWFyIjoyMDI2LCJpc29XZWVrIjoyN30=",
-      "start_time": "2026-06-29T17:30:00Z",
-      "end_time": "2026-06-29T18:30:00Z",
-      "title": "PRÉ LIVE",
-      "canceled_until": null,
-      "category": {
-        "id": "509658",
-        "name": "Just Chatting"
-      },
-      "is_recurring": true
-    },
-    {
-      "id": "eyJzZWdtZW50SUQiOiI0ZWFjYzIxMy1lYWFkLTQxYzMtYjMyYy1hYzIzZGYxODk0NDkiLCJpc29ZZWFyIjoyMDI2LCJpc29XZWVrIjoyOH0=",
-      "start_time": "2026-07-06T17:30:00Z",
-      "end_time": "2026-07-06T18:30:00Z",
       "title": "PRÉ LIVE",
       "canceled_until": null,
       "category": {

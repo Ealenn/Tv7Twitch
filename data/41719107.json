@@ -11,5 +11,246 @@
     "view_count": 0,
     "created_at": "2013-03-25T23:44:28Z"
   },
-  "schedulers": []
+  "schedulers": [
+    {
+      "id": "eyJzZWdtZW50SUQiOiIzMTFhMmQyMC04N2Y0LTQxM2MtOGFmZC01ZjBiYTJmMDQ0OWQiLCJpc29ZZWFyIjoyMDI2LCJpc29XZWVrIjo5fQ==",
+      "start_time": "2026-02-24T19:00:00Z",
+      "end_time": "2026-02-24T21:00:00Z",
+      "title": "reDécouverte de Arkheron avec des gens formidables",
+      "canceled_until": null,
+      "category": {
+        "id": "1295872446",
+        "name": "Arkheron"
+      },
+      "is_recurring": false
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiI4YmM2MzAyYi00MjU3LTQ2MTMtYWJkNC02ZDc3Nzk3Nzc5ZDYiLCJpc29ZZWFyIjoyMDI2LCJpc29XZWVrIjo5fQ==",
+      "start_time": "2026-02-25T18:00:00Z",
+      "end_time": "2026-02-25T23:00:00Z",
+      "title": "On teste plein de démo du Next Fest de STEAM",
+      "canceled_until": null,
+      "category": {
+        "id": "66082",
+        "name": "Games + Demos"
+      },
+      "is_recurring": false
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiJkMGNhMzllOS01NjhjLTQwYmMtOTllZS00YTJhMDgyN2NkNzYiLCJpc29ZZWFyIjoyMDI2LCJpc29XZWVrIjo5fQ==",
+      "start_time": "2026-02-26T17:00:00Z",
+      "end_time": "2026-02-26T20:00:00Z",
+      "title": "RPG Teamplay en duo avec HyP",
+      "canceled_until": null,
+      "category": {
+        "id": "687129551",
+        "name": "Trackmania"
+      },
+      "is_recurring": false
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiI5MWM5Yjc0YS01NmI4LTQ0MGUtOGRlOS04NjhjZGFmMjQ1ZGMiLCJpc29ZZWFyIjoyMDI2LCJpc29XZWVrIjo5fQ==",
+      "start_time": "2026-02-26T21:00:00Z",
+      "end_time": "2026-02-27T01:00:00Z",
+      "title": "ACCÈS ANTICIPÉ DE WoW Midnight, la prochaine extension",
+      "canceled_until": null,
+      "category": {
+        "id": "18122",
+        "name": "World of Warcraft"
+      },
+      "is_recurring": false
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiI4MTE1ZGM1MS0wNTY5LTQxODEtOTQ1ZS0zNDFmYzk2NWUxOGIiLCJpc29ZZWFyIjoyMDI2LCJpc29XZWVrIjo5fQ==",
+      "start_time": "2026-02-27T12:00:00Z",
+      "end_time": "2026-02-28T00:00:00Z",
+      "title": "WoW Midnight, début d'extension (pexing, discussion, donjons, découverte)",
+      "canceled_until": null,
+      "category": {
+        "id": "18122",
+        "name": "World of Warcraft"
+      },
+      "is_recurring": false
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiIwM2ViODg5NS0xZDc1LTRkZDYtOTM4OC04OWMwZGQ2YThkZDYiLCJpc29ZZWFyIjoyMDI2LCJpc29XZWVrIjo5fQ==",
+      "start_time": "2026-02-28T19:00:00Z",
+      "end_time": "2026-02-28T22:00:00Z",
+      "title": "Soirée IRL en plateau dédiée à WoW",
+      "canceled_until": null,
+      "category": {
+        "id": "509658",
+        "name": "Just Chatting"
+      },
+      "is_recurring": false
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiIyNGQxYjc4Ni03NDVjLTQwZWUtYjU1MC05YzU2NDEyOTQ1N2YiLCJpc29ZZWFyIjoyMDI2LCJpc29XZWVrIjo5fQ==",
+      "start_time": "2026-03-01T19:00:00Z",
+      "end_time": "2026-03-01T23:00:00Z",
+      "title": "Indiemanche, découverte de 2 jeux indépendants",
+      "canceled_until": null,
+      "category": {
+        "id": "66082",
+        "name": "Games + Demos"
+      },
+      "is_recurring": false
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiI3ODM5MGJlMC1hNjhmLTQ4ZTMtYWUyNi04NmJiMzZhMGQ4MjMiLCJpc29ZZWFyIjoyMDI2LCJpc29XZWVrIjoxMH0=",
+      "start_time": "2026-03-02T19:30:00Z",
+      "end_time": "2026-03-02T23:00:00Z",
+      "title": "Soirée du lundi sur un jeu exceptionnel",
+      "canceled_until": null,
+      "category": {
+        "id": "66082",
+        "name": "Games + Demos"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiI3ODM5MGJlMC1hNjhmLTQ4ZTMtYWUyNi04NmJiMzZhMGQ4MjMiLCJpc29ZZWFyIjoyMDI2LCJpc29XZWVrIjoxMX0=",
+      "start_time": "2026-03-09T19:30:00Z",
+      "end_time": "2026-03-09T23:00:00Z",
+      "title": "Soirée du lundi sur un jeu exceptionnel",
+      "canceled_until": null,
+      "category": {
+        "id": "66082",
+        "name": "Games + Demos"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiI3ODM5MGJlMC1hNjhmLTQ4ZTMtYWUyNi04NmJiMzZhMGQ4MjMiLCJpc29ZZWFyIjoyMDI2LCJpc29XZWVrIjoxMn0=",
+      "start_time": "2026-03-16T19:30:00Z",
+      "end_time": "2026-03-16T23:00:00Z",
+      "title": "Soirée du lundi sur un jeu exceptionnel",
+      "canceled_until": null,
+      "category": {
+        "id": "66082",
+        "name": "Games + Demos"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiI3ODM5MGJlMC1hNjhmLTQ4ZTMtYWUyNi04NmJiMzZhMGQ4MjMiLCJpc29ZZWFyIjoyMDI2LCJpc29XZWVrIjoxM30=",
+      "start_time": "2026-03-23T19:30:00Z",
+      "end_time": "2026-03-23T23:00:00Z",
+      "title": "Soirée du lundi sur un jeu exceptionnel",
+      "canceled_until": null,
+      "category": {
+        "id": "66082",
+        "name": "Games + Demos"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiI3ODM5MGJlMC1hNjhmLTQ4ZTMtYWUyNi04NmJiMzZhMGQ4MjMiLCJpc29ZZWFyIjoyMDI2LCJpc29XZWVrIjoxNH0=",
+      "start_time": "2026-03-30T18:30:00Z",
+      "end_time": "2026-03-30T22:00:00Z",
+      "title": "Soirée du lundi sur un jeu exceptionnel",
+      "canceled_until": null,
+      "category": {
+        "id": "66082",
+        "name": "Games + Demos"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiI3ODM5MGJlMC1hNjhmLTQ4ZTMtYWUyNi04NmJiMzZhMGQ4MjMiLCJpc29ZZWFyIjoyMDI2LCJpc29XZWVrIjoxNX0=",
+      "start_time": "2026-04-06T18:30:00Z",
+      "end_time": "2026-04-06T22:00:00Z",
+      "title": "Soirée du lundi sur un jeu exceptionnel",
+      "canceled_until": null,
+      "category": {
+        "id": "66082",
+        "name": "Games + Demos"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiI3ODM5MGJlMC1hNjhmLTQ4ZTMtYWUyNi04NmJiMzZhMGQ4MjMiLCJpc29ZZWFyIjoyMDI2LCJpc29XZWVrIjoxNn0=",
+      "start_time": "2026-04-13T18:30:00Z",
+      "end_time": "2026-04-13T22:00:00Z",
+      "title": "Soirée du lundi sur un jeu exceptionnel",
+      "canceled_until": null,
+      "category": {
+        "id": "66082",
+        "name": "Games + Demos"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiI3ODM5MGJlMC1hNjhmLTQ4ZTMtYWUyNi04NmJiMzZhMGQ4MjMiLCJpc29ZZWFyIjoyMDI2LCJpc29XZWVrIjoxN30=",
+      "start_time": "2026-04-20T18:30:00Z",
+      "end_time": "2026-04-20T22:00:00Z",
+      "title": "Soirée du lundi sur un jeu exceptionnel",
+      "canceled_until": null,
+      "category": {
+        "id": "66082",
+        "name": "Games + Demos"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiI3ODM5MGJlMC1hNjhmLTQ4ZTMtYWUyNi04NmJiMzZhMGQ4MjMiLCJpc29ZZWFyIjoyMDI2LCJpc29XZWVrIjoxOH0=",
+      "start_time": "2026-04-27T18:30:00Z",
+      "end_time": "2026-04-27T22:00:00Z",
+      "title": "Soirée du lundi sur un jeu exceptionnel",
+      "canceled_until": null,
+      "category": {
+        "id": "66082",
+        "name": "Games + Demos"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiI3ODM5MGJlMC1hNjhmLTQ4ZTMtYWUyNi04NmJiMzZhMGQ4MjMiLCJpc29ZZWFyIjoyMDI2LCJpc29XZWVrIjoxOX0=",
+      "start_time": "2026-05-04T18:30:00Z",
+      "end_time": "2026-05-04T22:00:00Z",
+      "title": "Soirée du lundi sur un jeu exceptionnel",
+      "canceled_until": null,
+      "category": {
+        "id": "66082",
+        "name": "Games + Demos"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiI3ODM5MGJlMC1hNjhmLTQ4ZTMtYWUyNi04NmJiMzZhMGQ4MjMiLCJpc29ZZWFyIjoyMDI2LCJpc29XZWVrIjoyMH0=",
+      "start_time": "2026-05-11T18:30:00Z",
+      "end_time": "2026-05-11T22:00:00Z",
+      "title": "Soirée du lundi sur un jeu exceptionnel",
+      "canceled_until": null,
+      "category": {
+        "id": "66082",
+        "name": "Games + Demos"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiI3ODM5MGJlMC1hNjhmLTQ4ZTMtYWUyNi04NmJiMzZhMGQ4MjMiLCJpc29ZZWFyIjoyMDI2LCJpc29XZWVrIjoyMX0=",
+      "start_time": "2026-05-18T18:30:00Z",
+      "end_time": "2026-05-18T22:00:00Z",
+      "title": "Soirée du lundi sur un jeu exceptionnel",
+      "canceled_until": null,
+      "category": {
+        "id": "66082",
+        "name": "Games + Demos"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiI3ODM5MGJlMC1hNjhmLTQ4ZTMtYWUyNi04NmJiMzZhMGQ4MjMiLCJpc29ZZWFyIjoyMDI2LCJpc29XZWVrIjoyMn0=",
+      "start_time": "2026-05-25T18:30:00Z",
+      "end_time": "2026-05-25T22:00:00Z",
+      "title": "Soirée du lundi sur un jeu exceptionnel",
+      "canceled_until": null,
+      "category": {
+        "id": "66082",
+        "name": "Games + Demos"
+      },
+      "is_recurring": true
+    }
+  ]
 }
