@@ -13,30 +13,6 @@
   },
   "schedulers": [
     {
-      "id": "eyJzZWdtZW50SUQiOiJkMGNhMzllOS01NjhjLTQwYmMtOTllZS00YTJhMDgyN2NkNzYiLCJpc29ZZWFyIjoyMDI2LCJpc29XZWVrIjo5fQ==",
-      "start_time": "2026-02-26T17:00:00Z",
-      "end_time": "2026-02-26T20:00:00Z",
-      "title": "RPG Teamplay en duo avec HyP",
-      "canceled_until": null,
-      "category": {
-        "id": "687129551",
-        "name": "Trackmania"
-      },
-      "is_recurring": false
-    },
-    {
-      "id": "eyJzZWdtZW50SUQiOiI5MWM5Yjc0YS01NmI4LTQ0MGUtOGRlOS04NjhjZGFmMjQ1ZGMiLCJpc29ZZWFyIjoyMDI2LCJpc29XZWVrIjo5fQ==",
-      "start_time": "2026-02-26T21:00:00Z",
-      "end_time": "2026-02-27T01:00:00Z",
-      "title": "ACCÈS ANTICIPÉ DE WoW Midnight, la prochaine extension",
-      "canceled_until": null,
-      "category": {
-        "id": "18122",
-        "name": "World of Warcraft"
-      },
-      "is_recurring": false
-    },
-    {
       "id": "eyJzZWdtZW50SUQiOiI4MTE1ZGM1MS0wNTY5LTQxODEtOTQ1ZS0zNDFmYzk2NWUxOGIiLCJpc29ZZWFyIjoyMDI2LCJpc29XZWVrIjo5fQ==",
       "start_time": "2026-02-27T12:00:00Z",
       "end_time": "2026-02-28T00:00:00Z",
@@ -244,6 +220,30 @@
       "id": "eyJzZWdtZW50SUQiOiI3ODM5MGJlMC1hNjhmLTQ4ZTMtYWUyNi04NmJiMzZhMGQ4MjMiLCJpc29ZZWFyIjoyMDI2LCJpc29XZWVrIjoyNH0=",
       "start_time": "2026-06-08T18:30:00Z",
       "end_time": "2026-06-08T22:00:00Z",
+      "title": "Soirée du lundi sur un jeu exceptionnel",
+      "canceled_until": null,
+      "category": {
+        "id": "66082",
+        "name": "Games + Demos"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiI3ODM5MGJlMC1hNjhmLTQ4ZTMtYWUyNi04NmJiMzZhMGQ4MjMiLCJpc29ZZWFyIjoyMDI2LCJpc29XZWVrIjoyNX0=",
+      "start_time": "2026-06-15T18:30:00Z",
+      "end_time": "2026-06-15T22:00:00Z",
+      "title": "Soirée du lundi sur un jeu exceptionnel",
+      "canceled_until": null,
+      "category": {
+        "id": "66082",
+        "name": "Games + Demos"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiI3ODM5MGJlMC1hNjhmLTQ4ZTMtYWUyNi04NmJiMzZhMGQ4MjMiLCJpc29ZZWFyIjoyMDI2LCJpc29XZWVrIjoyNn0=",
+      "start_time": "2026-06-22T18:30:00Z",
+      "end_time": "2026-06-22T22:00:00Z",
       "title": "Soirée du lundi sur un jeu exceptionnel",
       "canceled_until": null,
       "category": {
