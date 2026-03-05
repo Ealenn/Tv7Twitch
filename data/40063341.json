@@ -13,42 +13,6 @@
   },
   "schedulers": [
     {
-      "id": "eyJzZWdtZW50SUQiOiJmNGY2NDRhZi1jYTU0LTQ4YTQtODg5OC03ZDcwNjgwM2VhYjEiLCJpc29ZZWFyIjoyMDI2LCJpc29XZWVrIjoxMH0=",
-      "start_time": "2026-03-04T13:00:00Z",
-      "end_time": "2026-03-04T14:00:00Z",
-      "title": "PRÉ LIVE",
-      "canceled_until": null,
-      "category": {
-        "id": "509658",
-        "name": "Just Chatting"
-      },
-      "is_recurring": false
-    },
-    {
-      "id": "eyJzZWdtZW50SUQiOiJiNDk1MzIzNS1jZDhlLTQwN2QtYWM3Yi0zNzQ5OTdlNzljMWYiLCJpc29ZZWFyIjoyMDI2LCJpc29XZWVrIjoxMH0=",
-      "start_time": "2026-03-04T14:00:00Z",
-      "end_time": "2026-03-04T18:00:00Z",
-      "title": "SAISON 3 SUR NGL BIATHLON",
-      "canceled_until": null,
-      "category": {
-        "id": "120576680",
-        "name": "NGL Biathlon 2026"
-      },
-      "is_recurring": false
-    },
-    {
-      "id": "eyJzZWdtZW50SUQiOiI2NjkxMTgwYi00YTBlLTRjZWUtYTJiYy1iOWJkNjY3NjIwOGEiLCJpc29ZZWFyIjoyMDI2LCJpc29XZWVrIjoxMH0=",
-      "start_time": "2026-03-04T19:00:00Z",
-      "end_time": "2026-03-04T21:30:00Z",
-      "title": "ZACK EN ROUE LIBRE CHEZ ZACK NANI",
-      "canceled_until": null,
-      "category": {
-        "id": "509658",
-        "name": "Just Chatting"
-      },
-      "is_recurring": false
-    },
-    {
       "id": "eyJzZWdtZW50SUQiOiJiYmY2YWFlYS1kZjc3LTQ5OTctOGJiZS1jMGE5MDQwMThjMGEiLCJpc29ZZWFyIjoyMDI2LCJpc29XZWVrIjoxMH0=",
       "start_time": "2026-03-06T13:00:00Z",
       "end_time": "2026-03-06T14:00:00Z",
@@ -244,6 +208,42 @@
       "id": "eyJzZWdtZW50SUQiOiI0ZWFjYzIxMy1lYWFkLTQxYzMtYjMyYy1hYzIzZGYxODk0NDkiLCJpc29ZZWFyIjoyMDI2LCJpc29XZWVrIjoyNX0=",
       "start_time": "2026-06-15T17:30:00Z",
       "end_time": "2026-06-15T18:30:00Z",
+      "title": "PRÉ LIVE",
+      "canceled_until": null,
+      "category": {
+        "id": "509658",
+        "name": "Just Chatting"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiI0ZWFjYzIxMy1lYWFkLTQxYzMtYjMyYy1hYzIzZGYxODk0NDkiLCJpc29ZZWFyIjoyMDI2LCJpc29XZWVrIjoyNn0=",
+      "start_time": "2026-06-22T17:30:00Z",
+      "end_time": "2026-06-22T18:30:00Z",
+      "title": "PRÉ LIVE",
+      "canceled_until": null,
+      "category": {
+        "id": "509658",
+        "name": "Just Chatting"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiI0ZWFjYzIxMy1lYWFkLTQxYzMtYjMyYy1hYzIzZGYxODk0NDkiLCJpc29ZZWFyIjoyMDI2LCJpc29XZWVrIjoyN30=",
+      "start_time": "2026-06-29T17:30:00Z",
+      "end_time": "2026-06-29T18:30:00Z",
+      "title": "PRÉ LIVE",
+      "canceled_until": null,
+      "category": {
+        "id": "509658",
+        "name": "Just Chatting"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiI0ZWFjYzIxMy1lYWFkLTQxYzMtYjMyYy1hYzIzZGYxODk0NDkiLCJpc29ZZWFyIjoyMDI2LCJpc29XZWVrIjoyOH0=",
+      "start_time": "2026-07-06T17:30:00Z",
+      "end_time": "2026-07-06T18:30:00Z",
       "title": "PRÉ LIVE",
       "canceled_until": null,
       "category": {

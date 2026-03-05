@@ -13,18 +13,6 @@
   },
   "schedulers": [
     {
-      "id": "eyJzZWdtZW50SUQiOiJjNjczNTk0NC1lNzVmLTQ3N2MtYjRjNy1iYTExOTFiNzFjMDUiLCJpc29ZZWFyIjoyMDI2LCJpc29XZWVrIjoxMH0=",
-      "start_time": "2026-03-04T11:00:00Z",
-      "end_time": "2026-03-04T15:00:00Z",
-      "title": "Stream Libre",
-      "canceled_until": null,
-      "category": {
-        "id": "509658",
-        "name": "Just Chatting"
-      },
-      "is_recurring": false
-    },
-    {
       "id": "eyJzZWdtZW50SUQiOiIzNGI4MjAxNC1hZWY0LTQzNmYtYWFkNS00OTJiMjY0YmNlYjUiLCJpc29ZZWFyIjoyMDI2LCJpc29XZWVrIjoxMH0=",
       "start_time": "2026-03-05T10:00:00Z",
       "end_time": "2026-03-05T15:00:00Z",
@@ -249,6 +237,18 @@
       "category": {
         "id": "1494074023",
         "name": "Lycans"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiIxY2JhOGIxNS00MzEwLTRiNGYtODc1MS1iMGZlOGExNDVhZDIiLCJpc29ZZWFyIjoyMDI2LCJpc29XZWVrIjoyMH0=",
+      "start_time": "2026-05-11T11:00:00Z",
+      "end_time": "2026-05-11T15:00:00Z",
+      "title": "Le lundi c'est culture !",
+      "canceled_until": null,
+      "category": {
+        "id": "338715930",
+        "name": "Maitre des Fleurs"
       },
       "is_recurring": true
     }
