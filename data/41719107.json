@@ -13,6 +13,18 @@
   },
   "schedulers": [
     {
+      "id": "eyJzZWdtZW50SUQiOiJlMmNkNDBjMi1jYWY0LTQ2MjEtYjA1YS00ZjVjNzJjMDdkZGEiLCJpc29ZZWFyIjoyMDI2LCJpc29XZWVrIjoxMX0=",
+      "start_time": "2026-03-13T13:00:00Z",
+      "end_time": "2026-03-13T17:00:00Z",
+      "title": "Co op à 4 sur Slay The Spire 2 avec des gens exceptionnels",
+      "canceled_until": null,
+      "category": {
+        "id": "1435206302",
+        "name": "Slay the Spire II"
+      },
+      "is_recurring": false
+    },
+    {
       "id": "eyJzZWdtZW50SUQiOiJiNjZmOTg1MC1kZjgwLTQ0ZGQtOTZmNS1mYTQ2OTY0YmU2MzkiLCJpc29ZZWFyIjoyMDI2LCJpc29XZWVrIjoxMX0=",
       "start_time": "2026-03-15T19:00:00Z",
       "end_time": "2026-03-15T23:00:00Z",
@@ -37,6 +49,150 @@
       "is_recurring": true
     },
     {
+      "id": "eyJzZWdtZW50SUQiOiJhNzJkNDVhYy03MjU5LTQ1YmYtYWNiYy0yN2E1NDFlMjg4MmUiLCJpc29ZZWFyIjoyMDI2LCJpc29XZWVrIjoxMn0=",
+      "start_time": "2026-03-18T13:00:00Z",
+      "end_time": "2026-03-18T18:00:00Z",
+      "title": "Début du WoW Hôtel avec 30 personnes IRL pendant 1 semaine !",
+      "canceled_until": null,
+      "category": {
+        "id": "18122",
+        "name": "World of Warcraft"
+      },
+      "is_recurring": false
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiI4YjM3YjUyOC1iZTY3LTQxYWMtODM1Yi02ODRjZThmMjA0NGUiLCJpc29ZZWFyIjoyMDI2LCJpc29XZWVrIjoxMn0=",
+      "start_time": "2026-03-18T18:00:00Z",
+      "end_time": "2026-03-18T19:00:00Z",
+      "title": "Annoncse Mandatory",
+      "canceled_until": null,
+      "category": {
+        "id": "509663",
+        "name": "Special Events"
+      },
+      "is_recurring": false
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiIyMzI5M2NkNS04MDBjLTQyMzYtYTliNi1mMGZkZDY3ZjU0YzAiLCJpc29ZZWFyIjoyMDI2LCJpc29XZWVrIjoxMn0=",
+      "start_time": "2026-03-18T19:00:00Z",
+      "end_time": "2026-03-18T23:00:00Z",
+      "title": "Début du RAID au WoW Hôtel avec 30 personnes IRL",
+      "canceled_until": null,
+      "category": {
+        "id": "18122",
+        "name": "World of Warcraft"
+      },
+      "is_recurring": false
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiI2MzU0M2NjZC05ZWIyLTQ4NGUtODg4Ni1jOWZhZTE4MjI2ZmMiLCJpc29ZZWFyIjoyMDI2LCJpc29XZWVrIjoxMn0=",
+      "start_time": "2026-03-19T13:00:00Z",
+      "end_time": "2026-03-19T19:00:00Z",
+      "title": "WoW Hôtel avec 30 personnes IRL pendant 1 semaine !",
+      "canceled_until": null,
+      "category": {
+        "id": "18122",
+        "name": "World of Warcraft"
+      },
+      "is_recurring": false
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiJiMDFiZGI3Mi1hYmRmLTRlZjYtYWI3My1lNmViZDI1ZDNlNmIiLCJpc29ZZWFyIjoyMDI2LCJpc29XZWVrIjoxMn0=",
+      "start_time": "2026-03-19T19:00:00Z",
+      "end_time": "2026-03-19T23:00:00Z",
+      "title": "RAID au WoW Hôtel, jour 2 !",
+      "canceled_until": null,
+      "category": {
+        "id": "18122",
+        "name": "World of Warcraft"
+      },
+      "is_recurring": false
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiJlYzcyMTMyNi1kNjcxLTQ2MDEtYThhZi03ZjEzNmNkMDZhMzAiLCJpc29ZZWFyIjoyMDI2LCJpc29XZWVrIjoxMn0=",
+      "start_time": "2026-03-20T13:00:00Z",
+      "end_time": "2026-03-20T19:00:00Z",
+      "title": "WoW Hôtel avec 30 personnes IRL",
+      "canceled_until": null,
+      "category": {
+        "id": "18122",
+        "name": "World of Warcraft"
+      },
+      "is_recurring": false
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiIwYjEzOGI5MC02NGRmLTQwNGUtYmI2OC0zZmJiZWRiOGU5MzIiLCJpc29ZZWFyIjoyMDI2LCJpc29XZWVrIjoxMn0=",
+      "start_time": "2026-03-20T19:00:00Z",
+      "end_time": "2026-03-20T23:00:00Z",
+      "title": "RAID au WoW Hôtel, jour 3 !",
+      "canceled_until": null,
+      "category": {
+        "id": "18122",
+        "name": "World of Warcraft"
+      },
+      "is_recurring": false
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiIwMmQzZTZjMy1jOTBhLTQxNTMtYjg4YS1mYzBjNzcwYmFmOWYiLCJpc29ZZWFyIjoyMDI2LCJpc29XZWVrIjoxMn0=",
+      "start_time": "2026-03-21T19:00:00Z",
+      "end_time": "2026-03-21T23:00:00Z",
+      "title": "On fait autre chose même si on est au WoW hôtel aujourd'hui !",
+      "canceled_until": null,
+      "category": {
+        "id": "66082",
+        "name": "Games + Demos"
+      },
+      "is_recurring": false
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiJhMjc4NDljNC02YWQyLTQwNzItOWFiMC0yNjUzYWNhNTkzOTMiLCJpc29ZZWFyIjoyMDI2LCJpc29XZWVrIjoxMn0=",
+      "start_time": "2026-03-22T13:00:00Z",
+      "end_time": "2026-03-22T19:00:00Z",
+      "title": "WoW Hôtel avec 30 personnes IRL",
+      "canceled_until": null,
+      "category": {
+        "id": "18122",
+        "name": "World of Warcraft"
+      },
+      "is_recurring": false
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiJmOWM0NGFiNC1iOTUxLTQ3MDUtYjExZC0xNjhmYTg3ZTdjYWYiLCJpc29ZZWFyIjoyMDI2LCJpc29XZWVrIjoxMn0=",
+      "start_time": "2026-03-22T19:00:00Z",
+      "end_time": "2026-03-22T23:00:00Z",
+      "title": "RAID au WoW Hôtel, jour 4 !",
+      "canceled_until": null,
+      "category": {
+        "id": "18122",
+        "name": "World of Warcraft"
+      },
+      "is_recurring": false
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiJmYjUwM2VhMi1iZWJlLTQ2NmMtOWIzMC1iZWRiNjE0OGM2ZTgiLCJpc29ZZWFyIjoyMDI2LCJpc29XZWVrIjoxM30=",
+      "start_time": "2026-03-23T13:00:00Z",
+      "end_time": "2026-03-23T19:00:00Z",
+      "title": "WoW Hôtel avec 30 personnes IRL",
+      "canceled_until": null,
+      "category": {
+        "id": "18122",
+        "name": "World of Warcraft"
+      },
+      "is_recurring": false
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiJmOWUyMTk1Mi00OTQ1LTQ5OTAtOThjOC01YzA4OGU3Mjg1ODEiLCJpc29ZZWFyIjoyMDI2LCJpc29XZWVrIjoxM30=",
+      "start_time": "2026-03-23T19:00:00Z",
+      "end_time": "2026-03-23T23:00:00Z",
+      "title": "RAID au WoW Hôtel, jour 5 !",
+      "canceled_until": null,
+      "category": {
+        "id": "18122",
+        "name": "World of Warcraft"
+      },
+      "is_recurring": false
+    },
+    {
       "id": "eyJzZWdtZW50SUQiOiI3ODM5MGJlMC1hNjhmLTQ4ZTMtYWUyNi04NmJiMzZhMGQ4MjMiLCJpc29ZZWFyIjoyMDI2LCJpc29XZWVrIjoxM30=",
       "start_time": "2026-03-23T19:30:00Z",
       "end_time": "2026-03-23T23:00:00Z",
@@ -47,6 +203,18 @@
         "name": "Games + Demos"
       },
       "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiJiMThmZWE4Yi03YmQyLTRjYWEtYWViYy05OWNhOGFhMTE4NjYiLCJpc29ZZWFyIjoyMDI2LCJpc29XZWVrIjoxM30=",
+      "start_time": "2026-03-24T13:00:00Z",
+      "end_time": "2026-03-24T23:00:00Z",
+      "title": "DERNIER JOUR DU WOW HÔTEL !",
+      "canceled_until": null,
+      "category": {
+        "id": "18122",
+        "name": "World of Warcraft"
+      },
+      "is_recurring": false
     },
     {
       "id": "eyJzZWdtZW50SUQiOiI3ODM5MGJlMC1hNjhmLTQ4ZTMtYWUyNi04NmJiMzZhMGQ4MjMiLCJpc29ZZWFyIjoyMDI2LCJpc29XZWVrIjoxNH0=",
@@ -76,174 +244,6 @@
       "id": "eyJzZWdtZW50SUQiOiI3ODM5MGJlMC1hNjhmLTQ4ZTMtYWUyNi04NmJiMzZhMGQ4MjMiLCJpc29ZZWFyIjoyMDI2LCJpc29XZWVrIjoxNn0=",
       "start_time": "2026-04-13T18:30:00Z",
       "end_time": "2026-04-13T22:00:00Z",
-      "title": "Soirée du lundi sur un jeu exceptionnel",
-      "canceled_until": null,
-      "category": {
-        "id": "66082",
-        "name": "Games + Demos"
-      },
-      "is_recurring": true
-    },
-    {
-      "id": "eyJzZWdtZW50SUQiOiI3ODM5MGJlMC1hNjhmLTQ4ZTMtYWUyNi04NmJiMzZhMGQ4MjMiLCJpc29ZZWFyIjoyMDI2LCJpc29XZWVrIjoxN30=",
-      "start_time": "2026-04-20T18:30:00Z",
-      "end_time": "2026-04-20T22:00:00Z",
-      "title": "Soirée du lundi sur un jeu exceptionnel",
-      "canceled_until": null,
-      "category": {
-        "id": "66082",
-        "name": "Games + Demos"
-      },
-      "is_recurring": true
-    },
-    {
-      "id": "eyJzZWdtZW50SUQiOiI3ODM5MGJlMC1hNjhmLTQ4ZTMtYWUyNi04NmJiMzZhMGQ4MjMiLCJpc29ZZWFyIjoyMDI2LCJpc29XZWVrIjoxOH0=",
-      "start_time": "2026-04-27T18:30:00Z",
-      "end_time": "2026-04-27T22:00:00Z",
-      "title": "Soirée du lundi sur un jeu exceptionnel",
-      "canceled_until": null,
-      "category": {
-        "id": "66082",
-        "name": "Games + Demos"
-      },
-      "is_recurring": true
-    },
-    {
-      "id": "eyJzZWdtZW50SUQiOiI3ODM5MGJlMC1hNjhmLTQ4ZTMtYWUyNi04NmJiMzZhMGQ4MjMiLCJpc29ZZWFyIjoyMDI2LCJpc29XZWVrIjoxOX0=",
-      "start_time": "2026-05-04T18:30:00Z",
-      "end_time": "2026-05-04T22:00:00Z",
-      "title": "Soirée du lundi sur un jeu exceptionnel",
-      "canceled_until": null,
-      "category": {
-        "id": "66082",
-        "name": "Games + Demos"
-      },
-      "is_recurring": true
-    },
-    {
-      "id": "eyJzZWdtZW50SUQiOiI3ODM5MGJlMC1hNjhmLTQ4ZTMtYWUyNi04NmJiMzZhMGQ4MjMiLCJpc29ZZWFyIjoyMDI2LCJpc29XZWVrIjoyMH0=",
-      "start_time": "2026-05-11T18:30:00Z",
-      "end_time": "2026-05-11T22:00:00Z",
-      "title": "Soirée du lundi sur un jeu exceptionnel",
-      "canceled_until": null,
-      "category": {
-        "id": "66082",
-        "name": "Games + Demos"
-      },
-      "is_recurring": true
-    },
-    {
-      "id": "eyJzZWdtZW50SUQiOiI3ODM5MGJlMC1hNjhmLTQ4ZTMtYWUyNi04NmJiMzZhMGQ4MjMiLCJpc29ZZWFyIjoyMDI2LCJpc29XZWVrIjoyMX0=",
-      "start_time": "2026-05-18T18:30:00Z",
-      "end_time": "2026-05-18T22:00:00Z",
-      "title": "Soirée du lundi sur un jeu exceptionnel",
-      "canceled_until": null,
-      "category": {
-        "id": "66082",
-        "name": "Games + Demos"
-      },
-      "is_recurring": true
-    },
-    {
-      "id": "eyJzZWdtZW50SUQiOiI3ODM5MGJlMC1hNjhmLTQ4ZTMtYWUyNi04NmJiMzZhMGQ4MjMiLCJpc29ZZWFyIjoyMDI2LCJpc29XZWVrIjoyMn0=",
-      "start_time": "2026-05-25T18:30:00Z",
-      "end_time": "2026-05-25T22:00:00Z",
-      "title": "Soirée du lundi sur un jeu exceptionnel",
-      "canceled_until": null,
-      "category": {
-        "id": "66082",
-        "name": "Games + Demos"
-      },
-      "is_recurring": true
-    },
-    {
-      "id": "eyJzZWdtZW50SUQiOiI3ODM5MGJlMC1hNjhmLTQ4ZTMtYWUyNi04NmJiMzZhMGQ4MjMiLCJpc29ZZWFyIjoyMDI2LCJpc29XZWVrIjoyM30=",
-      "start_time": "2026-06-01T18:30:00Z",
-      "end_time": "2026-06-01T22:00:00Z",
-      "title": "Soirée du lundi sur un jeu exceptionnel",
-      "canceled_until": null,
-      "category": {
-        "id": "66082",
-        "name": "Games + Demos"
-      },
-      "is_recurring": true
-    },
-    {
-      "id": "eyJzZWdtZW50SUQiOiI3ODM5MGJlMC1hNjhmLTQ4ZTMtYWUyNi04NmJiMzZhMGQ4MjMiLCJpc29ZZWFyIjoyMDI2LCJpc29XZWVrIjoyNH0=",
-      "start_time": "2026-06-08T18:30:00Z",
-      "end_time": "2026-06-08T22:00:00Z",
-      "title": "Soirée du lundi sur un jeu exceptionnel",
-      "canceled_until": null,
-      "category": {
-        "id": "66082",
-        "name": "Games + Demos"
-      },
-      "is_recurring": true
-    },
-    {
-      "id": "eyJzZWdtZW50SUQiOiI3ODM5MGJlMC1hNjhmLTQ4ZTMtYWUyNi04NmJiMzZhMGQ4MjMiLCJpc29ZZWFyIjoyMDI2LCJpc29XZWVrIjoyNX0=",
-      "start_time": "2026-06-15T18:30:00Z",
-      "end_time": "2026-06-15T22:00:00Z",
-      "title": "Soirée du lundi sur un jeu exceptionnel",
-      "canceled_until": null,
-      "category": {
-        "id": "66082",
-        "name": "Games + Demos"
-      },
-      "is_recurring": true
-    },
-    {
-      "id": "eyJzZWdtZW50SUQiOiI3ODM5MGJlMC1hNjhmLTQ4ZTMtYWUyNi04NmJiMzZhMGQ4MjMiLCJpc29ZZWFyIjoyMDI2LCJpc29XZWVrIjoyNn0=",
-      "start_time": "2026-06-22T18:30:00Z",
-      "end_time": "2026-06-22T22:00:00Z",
-      "title": "Soirée du lundi sur un jeu exceptionnel",
-      "canceled_until": null,
-      "category": {
-        "id": "66082",
-        "name": "Games + Demos"
-      },
-      "is_recurring": true
-    },
-    {
-      "id": "eyJzZWdtZW50SUQiOiI3ODM5MGJlMC1hNjhmLTQ4ZTMtYWUyNi04NmJiMzZhMGQ4MjMiLCJpc29ZZWFyIjoyMDI2LCJpc29XZWVrIjoyN30=",
-      "start_time": "2026-06-29T18:30:00Z",
-      "end_time": "2026-06-29T22:00:00Z",
-      "title": "Soirée du lundi sur un jeu exceptionnel",
-      "canceled_until": null,
-      "category": {
-        "id": "66082",
-        "name": "Games + Demos"
-      },
-      "is_recurring": true
-    },
-    {
-      "id": "eyJzZWdtZW50SUQiOiI3ODM5MGJlMC1hNjhmLTQ4ZTMtYWUyNi04NmJiMzZhMGQ4MjMiLCJpc29ZZWFyIjoyMDI2LCJpc29XZWVrIjoyOH0=",
-      "start_time": "2026-07-06T18:30:00Z",
-      "end_time": "2026-07-06T22:00:00Z",
-      "title": "Soirée du lundi sur un jeu exceptionnel",
-      "canceled_until": null,
-      "category": {
-        "id": "66082",
-        "name": "Games + Demos"
-      },
-      "is_recurring": true
-    },
-    {
-      "id": "eyJzZWdtZW50SUQiOiI3ODM5MGJlMC1hNjhmLTQ4ZTMtYWUyNi04NmJiMzZhMGQ4MjMiLCJpc29ZZWFyIjoyMDI2LCJpc29XZWVrIjoyOX0=",
-      "start_time": "2026-07-13T18:30:00Z",
-      "end_time": "2026-07-13T22:00:00Z",
-      "title": "Soirée du lundi sur un jeu exceptionnel",
-      "canceled_until": null,
-      "category": {
-        "id": "66082",
-        "name": "Games + Demos"
-      },
-      "is_recurring": true
-    },
-    {
-      "id": "eyJzZWdtZW50SUQiOiI3ODM5MGJlMC1hNjhmLTQ4ZTMtYWUyNi04NmJiMzZhMGQ4MjMiLCJpc29ZZWFyIjoyMDI2LCJpc29XZWVrIjozMH0=",
-      "start_time": "2026-07-20T18:30:00Z",
-      "end_time": "2026-07-20T22:00:00Z",
       "title": "Soirée du lundi sur un jeu exceptionnel",
       "canceled_until": null,
       "category": {
