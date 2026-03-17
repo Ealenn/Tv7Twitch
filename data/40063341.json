@@ -7,9 +7,94 @@
     "broadcaster_type": "partner",
     "description": "Président du FC Silmi",
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/3cdae7df-600c-4833-8dfe-8d2abc5a3b25-profile_image-300x300.png",
-    "offline_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/8c60eade-9d1a-4e39-a552-bb61abe2eeeb-channel_offline_image-1920x1080.png",
+    "offline_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/3f2e88bf-f887-4407-aadf-a300c3099d8c-channel_offline_image-1920x1080.png",
     "view_count": 0,
     "created_at": "2013-02-05T19:20:22Z"
   },
-  "schedulers": []
+  "schedulers": [
+    {
+      "id": "eyJzZWdtZW50SUQiOiI0MjNkMWExNC00ZjI3LTQ1YWEtYjc3Zi02Mzc3YzFiYjFjZWIiLCJpc29ZZWFyIjoyMDI2LCJpc29XZWVrIjoxMn0=",
+      "start_time": "2026-03-17T18:30:00Z",
+      "end_time": "2026-03-17T20:00:00Z",
+      "title": "REACT DALS AVEC ELSA BOIS",
+      "canceled_until": null,
+      "category": {
+        "id": "509658",
+        "name": "Just Chatting"
+      },
+      "is_recurring": false
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiJkNTZmMzU5ZS0wZTUwLTRlZmUtOGRiMi0zNTY2MGMzZDk5OWIiLCJpc29ZZWFyIjoyMDI2LCJpc29XZWVrIjoxMn0=",
+      "start_time": "2026-03-17T20:00:00Z",
+      "end_time": "2026-03-17T23:00:00Z",
+      "title": "SUITE DE l'AVENTURE GTA RP",
+      "canceled_until": null,
+      "category": {
+        "id": "32982",
+        "name": "Grand Theft Auto V"
+      },
+      "is_recurring": false
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiJkZjdiOTIyNC1iOGFmLTQ3NjItYjNlZi04ODU2MTk5NmU3MjYiLCJpc29ZZWFyIjoyMDI2LCJpc29XZWVrIjoxMn0=",
+      "start_time": "2026-03-19T13:00:00Z",
+      "end_time": "2026-03-19T16:00:00Z",
+      "title": "SESSION LOL AVEC TWEEKZ",
+      "canceled_until": null,
+      "category": {
+        "id": "21779",
+        "name": "League of Legends"
+      },
+      "is_recurring": false
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiI2NDA0NGE5Ni0xYTgyLTRiNDEtYTYyMC1hNzc3M2I2YTIyNjkiLCJpc29ZZWFyIjoyMDI2LCJpc29XZWVrIjoxMn0=",
+      "start_time": "2026-03-19T20:00:00Z",
+      "end_time": "2026-03-19T23:00:00Z",
+      "title": "SUITE DE L'AVENTURE GTA RP",
+      "canceled_until": null,
+      "category": {
+        "id": "32982",
+        "name": "Grand Theft Auto V"
+      },
+      "is_recurring": false
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiI3Mjg2YjYwYS0wZjcxLTRkOTUtYTcyZS00YzkyNjcwNjBjZGQiLCJpc29ZZWFyIjoyMDI2LCJpc29XZWVrIjoxMn0=",
+      "start_time": "2026-03-20T19:00:00Z",
+      "end_time": "2026-03-20T20:00:00Z",
+      "title": "PRÉ LIVE",
+      "canceled_until": null,
+      "category": {
+        "id": "509658",
+        "name": "Just Chatting"
+      },
+      "is_recurring": false
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiJjZGM2MjM3ZC1mYTQ5LTQ5M2MtODU0Ny04OTIwZDQ2MTcxYmMiLCJpc29ZZWFyIjoyMDI2LCJpc29XZWVrIjoxMn0=",
+      "start_time": "2026-03-20T20:00:00Z",
+      "end_time": "2026-03-20T23:00:00Z",
+      "title": "SUITE DE L'AVENTURE GTA RP",
+      "canceled_until": null,
+      "category": {
+        "id": "32982",
+        "name": "Grand Theft Auto V"
+      },
+      "is_recurring": false
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiI0NDJkODAwNS1lYjQ5LTRhODItYjhiNy05Njc5YTFmYzJjMzAiLCJpc29ZZWFyIjoyMDI2LCJpc29XZWVrIjoxMn0=",
+      "start_time": "2026-03-22T13:30:00Z",
+      "end_time": "2026-03-22T16:00:00Z",
+      "title": "1ER MATCH DU FC SILMI",
+      "canceled_until": null,
+      "category": {
+        "id": "1863222988",
+        "name": "Kings League"
+      },
+      "is_recurring": false
+    }
+  ]
 }
