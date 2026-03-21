@@ -13,30 +13,6 @@
   },
   "schedulers": [
     {
-      "id": "eyJzZWdtZW50SUQiOiJlYzcyMTMyNi1kNjcxLTQ2MDEtYThhZi03ZjEzNmNkMDZhMzAiLCJpc29ZZWFyIjoyMDI2LCJpc29XZWVrIjoxMn0=",
-      "start_time": "2026-03-20T16:00:00Z",
-      "end_time": "2026-03-20T19:00:00Z",
-      "title": "WoW Hôtel avec 30 personnes IRL",
-      "canceled_until": null,
-      "category": {
-        "id": "18122",
-        "name": "World of Warcraft"
-      },
-      "is_recurring": false
-    },
-    {
-      "id": "eyJzZWdtZW50SUQiOiIwYjEzOGI5MC02NGRmLTQwNGUtYmI2OC0zZmJiZWRiOGU5MzIiLCJpc29ZZWFyIjoyMDI2LCJpc29XZWVrIjoxMn0=",
-      "start_time": "2026-03-20T19:00:00Z",
-      "end_time": "2026-03-20T23:00:00Z",
-      "title": "RAID au WoW Hôtel, jour 3 !",
-      "canceled_until": null,
-      "category": {
-        "id": "18122",
-        "name": "World of Warcraft"
-      },
-      "is_recurring": false
-    },
-    {
       "id": "eyJzZWdtZW50SUQiOiI1ZGMzMmE3NS04YzNmLTQwOGQtOWRkYi01ZWIzY2QxNjJmOTMiLCJpc29ZZWFyIjoyMDI2LCJpc29XZWVrIjoxMn0=",
       "start_time": "2026-03-21T18:00:00Z",
       "end_time": "2026-03-21T21:00:00Z",
@@ -244,6 +220,30 @@
       "id": "eyJzZWdtZW50SUQiOiI3ODM5MGJlMC1hNjhmLTQ4ZTMtYWUyNi04NmJiMzZhMGQ4MjMiLCJpc29ZZWFyIjoyMDI2LCJpc29XZWVrIjoyM30=",
       "start_time": "2026-06-01T18:30:00Z",
       "end_time": "2026-06-01T22:00:00Z",
+      "title": "Soirée du lundi sur un jeu exceptionnel",
+      "canceled_until": null,
+      "category": {
+        "id": "66082",
+        "name": "Games + Demos"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiI3ODM5MGJlMC1hNjhmLTQ4ZTMtYWUyNi04NmJiMzZhMGQ4MjMiLCJpc29ZZWFyIjoyMDI2LCJpc29XZWVrIjoyNH0=",
+      "start_time": "2026-06-08T18:30:00Z",
+      "end_time": "2026-06-08T22:00:00Z",
+      "title": "Soirée du lundi sur un jeu exceptionnel",
+      "canceled_until": null,
+      "category": {
+        "id": "66082",
+        "name": "Games + Demos"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiI3ODM5MGJlMC1hNjhmLTQ4ZTMtYWUyNi04NmJiMzZhMGQ4MjMiLCJpc29ZZWFyIjoyMDI2LCJpc29XZWVrIjoyNX0=",
+      "start_time": "2026-06-15T18:30:00Z",
+      "end_time": "2026-06-15T22:00:00Z",
       "title": "Soirée du lundi sur un jeu exceptionnel",
       "canceled_until": null,
       "category": {

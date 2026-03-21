@@ -13,18 +13,6 @@
   },
   "schedulers": [
     {
-      "id": "eyJzZWdtZW50SUQiOiI1NzE3ODY3NS1kZTg4LTQzZWUtYWE4YS0yZjg5YzdkZDc3YmIiLCJpc29ZZWFyIjoyMDI2LCJpc29XZWVrIjoxMn0=",
-      "start_time": "2026-03-20T13:00:00Z",
-      "end_time": "2026-03-21T00:00:00Z",
-      "title": "WoW Hotel - Jour 3",
-      "canceled_until": null,
-      "category": {
-        "id": "18122",
-        "name": "World of Warcraft"
-      },
-      "is_recurring": false
-    },
-    {
       "id": "eyJzZWdtZW50SUQiOiIwYTBlZDZiMS1lYmE1LTQ5MzAtYjI5Ni1lOTFjZGExOWU4OWQiLCJpc29ZZWFyIjoyMDI2LCJpc29XZWVrIjoxMn0=",
       "start_time": "2026-03-22T13:00:00Z",
       "end_time": "2026-03-23T00:00:00Z",
@@ -249,6 +237,18 @@
       "category": {
         "id": "1494074023",
         "name": "Lycans"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiIxY2JhOGIxNS00MzEwLTRiNGYtODc1MS1iMGZlOGExNDVhZDIiLCJpc29ZZWFyIjoyMDI2LCJpc29XZWVrIjoyMn0=",
+      "start_time": "2026-05-25T11:00:00Z",
+      "end_time": "2026-05-25T15:00:00Z",
+      "title": "Le lundi c'est culture !",
+      "canceled_until": null,
+      "category": {
+        "id": "338715930",
+        "name": "Maitre des Fleurs"
       },
       "is_recurring": true
     }
