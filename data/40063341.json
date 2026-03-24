@@ -7,9 +7,82 @@
     "broadcaster_type": "partner",
     "description": "Président du FC Silmi",
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/3cdae7df-600c-4833-8dfe-8d2abc5a3b25-profile_image-300x300.png",
-    "offline_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/3f2e88bf-f887-4407-aadf-a300c3099d8c-channel_offline_image-1920x1080.png",
+    "offline_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/e68c2c00-0cc1-492c-b053-1183310f534e-channel_offline_image-1920x1080.png",
     "view_count": 0,
     "created_at": "2013-02-05T19:20:22Z"
   },
-  "schedulers": []
+  "schedulers": [
+    {
+      "id": "eyJzZWdtZW50SUQiOiIyOTJhNTNiNi0yOTAxLTRjODctYjdkMC1iYTNjYmE2ZmFhNjAiLCJpc29ZZWFyIjoyMDI2LCJpc29XZWVrIjoxM30=",
+      "start_time": "2026-03-24T19:00:00Z",
+      "end_time": "2026-03-24T20:00:00Z",
+      "title": "PRÉ LIVE",
+      "canceled_until": null,
+      "category": {
+        "id": "509658",
+        "name": "Just Chatting"
+      },
+      "is_recurring": false
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiJiZTMyOGQ4Ni1iYWIzLTRiZjAtYWI3ZS0xNTljMGYxMDFhMzYiLCJpc29ZZWFyIjoyMDI2LCJpc29XZWVrIjoxM30=",
+      "start_time": "2026-03-24T20:00:00Z",
+      "end_time": "2026-03-25T00:00:00Z",
+      "title": "GTA RP | SUITE DE L'AVENTURE",
+      "canceled_until": null,
+      "category": {
+        "id": "32982",
+        "name": "Grand Theft Auto V"
+      },
+      "is_recurring": false
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiIyNGQ2NmM1OS1lYjEwLTRmNzYtODE1OC1mZTE0NDNjNzNlNmQiLCJpc29ZZWFyIjoyMDI2LCJpc29XZWVrIjoxM30=",
+      "start_time": "2026-03-26T19:00:00Z",
+      "end_time": "2026-03-26T20:00:00Z",
+      "title": "PRÉ LIVE",
+      "canceled_until": null,
+      "category": {
+        "id": "509658",
+        "name": "Just Chatting"
+      },
+      "is_recurring": false
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiI1NTI1Yzc3OS1jNDZmLTRkYzEtOGFkZS1kOGU2YThmYzg0ZWQiLCJpc29ZZWFyIjoyMDI2LCJpc29XZWVrIjoxM30=",
+      "start_time": "2026-03-26T20:00:00Z",
+      "end_time": "2026-03-27T00:00:00Z",
+      "title": "GTA RP | SUITE DE L'AVENTURE",
+      "canceled_until": null,
+      "category": {
+        "id": "32982",
+        "name": "Grand Theft Auto V"
+      },
+      "is_recurring": false
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiI3ZjE0YTY5Yi0xYjcyLTRjN2ItODYyNy0wN2YxZjI3YTYyNzQiLCJpc29ZZWFyIjoyMDI2LCJpc29XZWVrIjoxM30=",
+      "start_time": "2026-03-27T20:30:00Z",
+      "end_time": "2026-03-28T00:00:00Z",
+      "title": "GTA RP | SUITE DE L'AVENTURE",
+      "canceled_until": null,
+      "category": {
+        "id": "32982",
+        "name": "Grand Theft Auto V"
+      },
+      "is_recurring": false
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiJkNTljNjkzZC0zNzZmLTQ3NzEtOWMwYi00MGQ2MGE5MDIxM2EiLCJpc29ZZWFyIjoyMDI2LCJpc29XZWVrIjoxM30=",
+      "start_time": "2026-03-29T12:30:00Z",
+      "end_time": "2026-03-29T17:00:00Z",
+      "title": "KINGS LEAGUE - JOURNÉE 2 POUR LE FC SILMI",
+      "canceled_until": null,
+      "category": {
+        "id": "1863222988",
+        "name": "Kings League"
+      },
+      "is_recurring": false
+    }
+  ]
 }
