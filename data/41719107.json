@@ -13,18 +13,6 @@
   },
   "schedulers": [
     {
-      "id": "eyJzZWdtZW50SUQiOiIwZDllYzEzMS02YmFkLTQzMzEtYTNhMS0wYWQ2MzQ0NGY5ODQiLCJpc29ZZWFyIjoyMDI2LCJpc29XZWVrIjoxM30=",
-      "start_time": "2026-03-25T19:00:00Z",
-      "end_time": "2026-03-25T21:00:00Z",
-      "title": "Découverte d'EverSiege: Untold Ages (publicité)",
-      "canceled_until": null,
-      "category": {
-        "id": "518814679",
-        "name": "EverSiege: Untold Ages"
-      },
-      "is_recurring": false
-    },
-    {
       "id": "eyJzZWdtZW50SUQiOiIxZDVjNmM0Mi1iZTJmLTRjMDAtOGEzNi05OWM1OGMzODE3NDAiLCJpc29ZZWFyIjoyMDI2LCJpc29XZWVrIjoxM30=",
       "start_time": "2026-03-27T19:00:00Z",
       "end_time": "2026-03-27T22:00:00Z",
