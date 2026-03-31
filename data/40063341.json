@@ -7,9 +7,106 @@
     "broadcaster_type": "partner",
     "description": "Président du FC Silmi",
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/3cdae7df-600c-4833-8dfe-8d2abc5a3b25-profile_image-300x300.png",
-    "offline_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/e68c2c00-0cc1-492c-b053-1183310f534e-channel_offline_image-1920x1080.png",
+    "offline_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/70a1319b-5dc2-4bcf-822c-ff8af1b58034-channel_offline_image-1920x1080.png",
     "view_count": 0,
     "created_at": "2013-02-05T19:20:22Z"
   },
-  "schedulers": []
+  "schedulers": [
+    {
+      "id": "eyJzZWdtZW50SUQiOiI1ZGMwY2UyNi1kNzliLTRlNjAtOTEyZi1lYzJmOTg1YzNkODQiLCJpc29ZZWFyIjoyMDI2LCJpc29XZWVrIjoxNH0=",
+      "start_time": "2026-03-31T18:00:00Z",
+      "end_time": "2026-03-31T19:00:00Z",
+      "title": "PRÉ LIVE",
+      "canceled_until": null,
+      "category": {
+        "id": "509658",
+        "name": "Just Chatting"
+      },
+      "is_recurring": false
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiIwMjk3ZWZlNi05OGNjLTQ5NTctYmFkNC1hNTU4ZGY3ODM0YjUiLCJpc29ZZWFyIjoyMDI2LCJpc29XZWVrIjoxNH0=",
+      "start_time": "2026-03-31T19:00:00Z",
+      "end_time": "2026-04-01T00:00:00Z",
+      "title": "GTA RP - SUITE DE L'AVENTURE POUR JUSTIN",
+      "canceled_until": null,
+      "category": {
+        "id": "32982",
+        "name": "Grand Theft Auto V"
+      },
+      "is_recurring": false
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiIzYzdhODY2OS0wM2VjLTQ0ODEtYmI0Zi01MTQ3NGE1ZjhkZDkiLCJpc29ZZWFyIjoyMDI2LCJpc29XZWVrIjoxNH0=",
+      "start_time": "2026-04-01T12:00:00Z",
+      "end_time": "2026-04-01T12:30:00Z",
+      "title": "PRÉ LIVE",
+      "canceled_until": null,
+      "category": {
+        "id": "509658",
+        "name": "Just Chatting"
+      },
+      "is_recurring": false
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiI1OTk5MGZlNi1hOTBmLTQwOTUtODdkNi05MGEzYmZmZTgzNTgiLCJpc29ZZWFyIjoyMDI2LCJpc29XZWVrIjoxNH0=",
+      "start_time": "2026-04-01T12:30:00Z",
+      "end_time": "2026-04-01T14:30:00Z",
+      "title": "REACT DALS AVEC CHRIS MARQUES",
+      "canceled_until": null,
+      "category": {
+        "id": "509658",
+        "name": "Just Chatting"
+      },
+      "is_recurring": false
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiIzMWU2OGU3My0xMWI2LTQ0ODYtYjVhOS1hNmRlYTUyNDlkM2MiLCJpc29ZZWFyIjoyMDI2LCJpc29XZWVrIjoxNH0=",
+      "start_time": "2026-04-02T18:00:00Z",
+      "end_time": "2026-04-02T19:00:00Z",
+      "title": "PRÉ LIVE",
+      "canceled_until": null,
+      "category": {
+        "id": "509658",
+        "name": "Just Chatting"
+      },
+      "is_recurring": false
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiI0MmQyZWExYS1lNDc5LTRlZjgtOGFlMC0xNzNjMjhmODY2MTkiLCJpc29ZZWFyIjoyMDI2LCJpc29XZWVrIjoxNH0=",
+      "start_time": "2026-04-02T19:00:00Z",
+      "end_time": "2026-04-03T00:00:00Z",
+      "title": "GTA RP - SUITE DE L'AVENTURE POUR JUSTIN",
+      "canceled_until": null,
+      "category": {
+        "id": "32982",
+        "name": "Grand Theft Auto V"
+      },
+      "is_recurring": false
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiI2NmNiNjcxMy1kZGQ5LTRmOGYtYWIyNS1jYjRhOGJlY2UxNmUiLCJpc29ZZWFyIjoyMDI2LCJpc29XZWVrIjoxNH0=",
+      "start_time": "2026-04-03T11:00:00Z",
+      "end_time": "2026-04-03T15:00:00Z",
+      "title": "REACT UTS AVEC HAMZA",
+      "canceled_until": null,
+      "category": {
+        "id": "509658",
+        "name": "Just Chatting"
+      },
+      "is_recurring": false
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiI5MGMxYzg4MS0xZWEzLTQ2NzUtYjk0Yi01NjBiYzRmODFkMTgiLCJpc29ZZWFyIjoyMDI2LCJpc29XZWVrIjoxNH0=",
+      "start_time": "2026-04-05T12:30:00Z",
+      "end_time": "2026-04-05T17:00:00Z",
+      "title": "JOURNÉE 2 - KINGS LEAGUE",
+      "canceled_until": null,
+      "category": {
+        "id": "1863222988",
+        "name": "Kings League"
+      },
+      "is_recurring": false
+    }
+  ]
 }
