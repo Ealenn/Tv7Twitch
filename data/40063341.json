@@ -13,30 +13,6 @@
   },
   "schedulers": [
     {
-      "id": "eyJzZWdtZW50SUQiOiIzMWU2OGU3My0xMWI2LTQ0ODYtYjVhOS1hNmRlYTUyNDlkM2MiLCJpc29ZZWFyIjoyMDI2LCJpc29XZWVrIjoxNH0=",
-      "start_time": "2026-04-02T18:00:00Z",
-      "end_time": "2026-04-02T19:00:00Z",
-      "title": "PRÉ LIVE",
-      "canceled_until": null,
-      "category": {
-        "id": "509658",
-        "name": "Just Chatting"
-      },
-      "is_recurring": false
-    },
-    {
-      "id": "eyJzZWdtZW50SUQiOiI0MmQyZWExYS1lNDc5LTRlZjgtOGFlMC0xNzNjMjhmODY2MTkiLCJpc29ZZWFyIjoyMDI2LCJpc29XZWVrIjoxNH0=",
-      "start_time": "2026-04-02T19:00:00Z",
-      "end_time": "2026-04-03T00:00:00Z",
-      "title": "GTA RP - SUITE DE L'AVENTURE POUR JUSTIN",
-      "canceled_until": null,
-      "category": {
-        "id": "32982",
-        "name": "Grand Theft Auto V"
-      },
-      "is_recurring": false
-    },
-    {
       "id": "eyJzZWdtZW50SUQiOiI2NmNiNjcxMy1kZGQ5LTRmOGYtYWIyNS1jYjRhOGJlY2UxNmUiLCJpc29ZZWFyIjoyMDI2LCJpc29XZWVrIjoxNH0=",
       "start_time": "2026-04-03T11:00:00Z",
       "end_time": "2026-04-03T15:00:00Z",
