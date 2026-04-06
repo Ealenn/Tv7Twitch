@@ -11,18 +11,5 @@
     "view_count": 0,
     "created_at": "2013-02-05T19:20:22Z"
   },
-  "schedulers": [
-    {
-      "id": "eyJzZWdtZW50SUQiOiI5MGMxYzg4MS0xZWEzLTQ2NzUtYjk0Yi01NjBiYzRmODFkMTgiLCJpc29ZZWFyIjoyMDI2LCJpc29XZWVrIjoxNH0=",
-      "start_time": "2026-04-05T12:30:00Z",
-      "end_time": "2026-04-05T17:00:00Z",
-      "title": "JOURNÉE 2 - KINGS LEAGUE",
-      "canceled_until": null,
-      "category": {
-        "id": "1863222988",
-        "name": "Kings League"
-      },
-      "is_recurring": false
-    }
-  ]
+  "schedulers": []
 }
