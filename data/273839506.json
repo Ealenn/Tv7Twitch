@@ -13,15 +13,6 @@
   },
   "schedulers": [
     {
-      "id": "eyJzZWdtZW50SUQiOiI5YTNhMmM1Yy0yOTk3LTRiY2ItOTQwMS1mY2I3ZjdjMjEzMzEiLCJpc29ZZWFyIjoyMDI2LCJpc29XZWVrIjoxNX0=",
-      "start_time": "2026-04-08T08:00:00Z",
-      "end_time": "2026-04-08T15:00:00Z",
-      "title": "Underscore_",
-      "canceled_until": null,
-      "category": null,
-      "is_recurring": false
-    },
-    {
       "id": "eyJzZWdtZW50SUQiOiI4MWQwZmMzNy1mYTJiLTQ2ZWQtOWZkYS1hMzhmNzdmNzk5YTgiLCJpc29ZZWFyIjoyMDI2LCJpc29XZWVrIjoxOX0=",
       "start_time": "2026-05-06T08:00:00Z",
       "end_time": "2026-05-06T15:00:00Z",
