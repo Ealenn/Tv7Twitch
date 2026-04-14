@@ -7,9 +7,58 @@
     "broadcaster_type": "partner",
     "description": "Président du FC Silmi",
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/3cdae7df-600c-4833-8dfe-8d2abc5a3b25-profile_image-300x300.png",
-    "offline_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/cd746a5f-df80-4efe-9748-b5413f32c6e7-channel_offline_image-1920x1080.png",
+    "offline_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/8f24b71a-6e98-47cd-abb2-f4b5d8521964-channel_offline_image-1920x1080.png",
     "view_count": 0,
     "created_at": "2013-02-05T19:20:22Z"
   },
-  "schedulers": []
+  "schedulers": [
+    {
+      "id": "eyJzZWdtZW50SUQiOiJlNGU2YzVhOC03ZjViLTQ4Y2ItYmVlNy1iYjhkMjRmYmM5MGUiLCJpc29ZZWFyIjoyMDI2LCJpc29XZWVrIjoxNn0=",
+      "start_time": "2026-04-15T12:00:00Z",
+      "end_time": "2026-04-15T13:00:00Z",
+      "title": "PRÉ LIVE",
+      "canceled_until": null,
+      "category": {
+        "id": "509658",
+        "name": "Just Chatting"
+      },
+      "is_recurring": false
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiI1OWMxZGNjNC01ZDE2LTQxNTYtOWZkYy0wNzJlOTBkMmI4ODQiLCJpc29ZZWFyIjoyMDI2LCJpc29XZWVrIjoxNn0=",
+      "start_time": "2026-04-15T13:00:00Z",
+      "end_time": "2026-04-15T15:00:00Z",
+      "title": "ON DÉCOUVRE ALASKA GOLD FEVER",
+      "canceled_until": null,
+      "category": {
+        "id": "607556524",
+        "name": "Alaska Gold Fever"
+      },
+      "is_recurring": false
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiI5ZGM1NDk1Ni1jYWJkLTRkNWMtYTZlYy1kOTliMGZhZTIyZjEiLCJpc29ZZWFyIjoyMDI2LCJpc29XZWVrIjoxNn0=",
+      "start_time": "2026-04-15T15:00:00Z",
+      "end_time": "2026-04-15T17:00:00Z",
+      "title": "STREAM LIBRE",
+      "canceled_until": null,
+      "category": {
+        "id": "509658",
+        "name": "Just Chatting"
+      },
+      "is_recurring": false
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiI2ZWFkYTQ5MS0zMjdiLTQ2ZmYtOWEwZi0xODU3NzYwNTRkMGQiLCJpc29ZZWFyIjoyMDI2LCJpc29XZWVrIjoxNn0=",
+      "start_time": "2026-04-19T12:30:00Z",
+      "end_time": "2026-04-19T17:00:00Z",
+      "title": "KINGS LEAGUE - JOURNÉE 5",
+      "canceled_until": null,
+      "category": {
+        "id": "1863222988",
+        "name": "Kings League"
+      },
+      "is_recurring": false
+    }
+  ]
 }

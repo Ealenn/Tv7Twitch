@@ -13,18 +13,6 @@
   },
   "schedulers": [
     {
-      "id": "eyJzZWdtZW50SUQiOiIxY2JhOGIxNS00MzEwLTRiNGYtODc1MS1iMGZlOGExNDVhZDIiLCJpc29ZZWFyIjoyMDI2LCJpc29XZWVrIjoxNn0=",
-      "start_time": "2026-04-13T11:00:00Z",
-      "end_time": "2026-04-13T15:00:00Z",
-      "title": "Le lundi c'est culture !",
-      "canceled_until": null,
-      "category": {
-        "id": "338715930",
-        "name": "Maitre des Fleurs"
-      },
-      "is_recurring": true
-    },
-    {
       "id": "eyJzZWdtZW50SUQiOiJkMWY5Yjc1Mi0wMTA0LTQ0YmEtYTkwZS0wZmJjN2RlOWQ1MTgiLCJpc29ZZWFyIjoyMDI2LCJpc29XZWVrIjoxNn0=",
       "start_time": "2026-04-14T10:00:00Z",
       "end_time": "2026-04-14T14:00:00Z",
@@ -35,6 +23,51 @@
         "name": "Lycans"
       },
       "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiI0MDk3Y2QzMy0yZTg5LTQ1M2EtOTM2YS0xNWJhNzBmM2YxOWQiLCJpc29ZZWFyIjoyMDI2LCJpc29XZWVrIjoxNn0=",
+      "start_time": "2026-04-14T14:00:00Z",
+      "end_time": "2026-04-14T17:00:00Z",
+      "title": "Suite (et fin ?) du défi",
+      "canceled_until": null,
+      "category": {
+        "id": "1826300051",
+        "name": "Mario Kart World"
+      },
+      "is_recurring": false
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiIyYTU0NmJkYy1kOWM5LTQ2OWYtOWMyMC1lMjg0NzdiNjBlZGUiLCJpc29ZZWFyIjoyMDI2LCJpc29XZWVrIjoxNn0=",
+      "start_time": "2026-04-15T10:00:00Z",
+      "end_time": "2026-04-15T15:00:00Z",
+      "title": "ON EST LA ",
+      "canceled_until": null,
+      "category": null,
+      "is_recurring": false
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiJmM2NjNTEwYy1kMzZmLTQ4OTMtYjA4My05Mjk3YzA3ZWQ0MzYiLCJpc29ZZWFyIjoyMDI2LCJpc29XZWVrIjoxNn0=",
+      "start_time": "2026-04-16T09:00:00Z",
+      "end_time": "2026-04-16T15:00:00Z",
+      "title": "ENFIN LA SORTIE OMG",
+      "canceled_until": null,
+      "category": {
+        "id": "1099705332",
+        "name": "Tomodachi Life: Living the Dream"
+      },
+      "is_recurring": false
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiIyOTA4ZWUxZS04YWMyLTRhMTEtODA0ZS01ZDA1MTc0NTJhMjEiLCJpc29ZZWFyIjoyMDI2LCJpc29XZWVrIjoxNn0=",
+      "start_time": "2026-04-17T09:00:00Z",
+      "end_time": "2026-04-17T15:00:00Z",
+      "title": "ON CONTINUE OMG",
+      "canceled_until": null,
+      "category": {
+        "id": "1099705332",
+        "name": "Tomodachi Life: Living the Dream"
+      },
+      "is_recurring": false
     },
     {
       "id": "eyJzZWdtZW50SUQiOiIxY2JhOGIxNS00MzEwLTRiNGYtODc1MS1iMGZlOGExNDVhZDIiLCJpc29ZZWFyIjoyMDI2LCJpc29XZWVrIjoxN30=",
@@ -213,42 +246,6 @@
       "category": {
         "id": "338715930",
         "name": "Maitre des Fleurs"
-      },
-      "is_recurring": true
-    },
-    {
-      "id": "eyJzZWdtZW50SUQiOiJkMWY5Yjc1Mi0wMTA0LTQ0YmEtYTkwZS0wZmJjN2RlOWQ1MTgiLCJpc29ZZWFyIjoyMDI2LCJpc29XZWVrIjoyNH0=",
-      "start_time": "2026-06-09T10:00:00Z",
-      "end_time": "2026-06-09T14:00:00Z",
-      "title": "Lycans",
-      "canceled_until": null,
-      "category": {
-        "id": "1494074023",
-        "name": "Lycans"
-      },
-      "is_recurring": true
-    },
-    {
-      "id": "eyJzZWdtZW50SUQiOiIxY2JhOGIxNS00MzEwLTRiNGYtODc1MS1iMGZlOGExNDVhZDIiLCJpc29ZZWFyIjoyMDI2LCJpc29XZWVrIjoyNX0=",
-      "start_time": "2026-06-15T11:00:00Z",
-      "end_time": "2026-06-15T15:00:00Z",
-      "title": "Le lundi c'est culture !",
-      "canceled_until": null,
-      "category": {
-        "id": "338715930",
-        "name": "Maitre des Fleurs"
-      },
-      "is_recurring": true
-    },
-    {
-      "id": "eyJzZWdtZW50SUQiOiJkMWY5Yjc1Mi0wMTA0LTQ0YmEtYTkwZS0wZmJjN2RlOWQ1MTgiLCJpc29ZZWFyIjoyMDI2LCJpc29XZWVrIjoyNX0=",
-      "start_time": "2026-06-16T10:00:00Z",
-      "end_time": "2026-06-16T14:00:00Z",
-      "title": "Lycans",
-      "canceled_until": null,
-      "category": {
-        "id": "1494074023",
-        "name": "Lycans"
       },
       "is_recurring": true
     }
