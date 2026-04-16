@@ -13,15 +13,6 @@
   },
   "schedulers": [
     {
-      "id": "eyJzZWdtZW50SUQiOiIyYTU0NmJkYy1kOWM5LTQ2OWYtOWMyMC1lMjg0NzdiNjBlZGUiLCJpc29ZZWFyIjoyMDI2LCJpc29XZWVrIjoxNn0=",
-      "start_time": "2026-04-15T10:00:00Z",
-      "end_time": "2026-04-15T15:00:00Z",
-      "title": "ON EST LA ",
-      "canceled_until": null,
-      "category": null,
-      "is_recurring": false
-    },
-    {
       "id": "eyJzZWdtZW50SUQiOiJmM2NjNTEwYy1kMzZmLTQ4OTMtYjA4My05Mjk3YzA3ZWQ0MzYiLCJpc29ZZWFyIjoyMDI2LCJpc29XZWVrIjoxNn0=",
       "start_time": "2026-04-16T09:00:00Z",
       "end_time": "2026-04-16T15:00:00Z",
@@ -246,6 +237,18 @@
       "category": {
         "id": "338715930",
         "name": "Maitre des Fleurs"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiJkMWY5Yjc1Mi0wMTA0LTQ0YmEtYTkwZS0wZmJjN2RlOWQ1MTgiLCJpc29ZZWFyIjoyMDI2LCJpc29XZWVrIjoyNX0=",
+      "start_time": "2026-06-16T10:00:00Z",
+      "end_time": "2026-06-16T14:00:00Z",
+      "title": "Lycans",
+      "canceled_until": null,
+      "category": {
+        "id": "1494074023",
+        "name": "Lycans"
       },
       "is_recurring": true
     }
