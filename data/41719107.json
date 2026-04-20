@@ -11,18 +11,5 @@
     "view_count": 0,
     "created_at": "2013-03-25T23:44:28Z"
   },
-  "schedulers": [
-    {
-      "id": "eyJzZWdtZW50SUQiOiIzMTBhM2QyNi01MWQyLTQ2N2UtOTQ5ZC01YzljYmE0MjU5Y2MiLCJpc29ZZWFyIjoyMDI2LCJpc29XZWVrIjoxNn0=",
-      "start_time": "2026-04-19T18:00:00Z",
-      "end_time": "2026-04-19T21:00:00Z",
-      "title": "MANDATORY vs F9 (match 5/7)",
-      "canceled_until": null,
-      "category": {
-        "id": "516575",
-        "name": "VALORANT"
-      },
-      "is_recurring": false
-    }
-  ]
+  "schedulers": []
 }
