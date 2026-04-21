@@ -11,5 +11,90 @@
     "view_count": 0,
     "created_at": "2013-03-25T23:44:28Z"
   },
-  "schedulers": []
+  "schedulers": [
+    {
+      "id": "eyJzZWdtZW50SUQiOiJlMTJhYzQ1YS1jMjI5LTQ5ZjktOTRiMy1mOTc2ZTNmYjExZTkiLCJpc29ZZWFyIjoyMDI2LCJpc29XZWVrIjoxN30=",
+      "start_time": "2026-04-21T18:00:00Z",
+      "end_time": "2026-04-21T21:30:00Z",
+      "title": "[Sur la chaine Domingo] POPCORN En invité",
+      "canceled_until": null,
+      "category": {
+        "id": "417752",
+        "name": "Talk Shows & Podcasts"
+      },
+      "is_recurring": false
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiI3MmI0OTExZC1iZDgwLTQ5ODItOGQyNS1iZDkxZjFhNDgyODkiLCJpc29ZZWFyIjoyMDI2LCJpc29XZWVrIjoxN30=",
+      "start_time": "2026-04-23T12:00:00Z",
+      "end_time": "2026-04-23T18:00:00Z",
+      "title": "On Rotourne sur FF14 avec des gens et aussi pour parler du futur du jeu",
+      "canceled_until": null,
+      "category": {
+        "id": "24241",
+        "name": "FINAL FANTASY XIV ONLINE"
+      },
+      "is_recurring": false
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiI5MGM0YWI2MS1hNTE2LTQyZjctOWQzMS04OTc0MjNiNmM2MzEiLCJpc29ZZWFyIjoyMDI2LCJpc29XZWVrIjoxN30=",
+      "start_time": "2026-04-24T16:00:00Z",
+      "end_time": "2026-04-24T22:00:00Z",
+      "title": "Keynote FF14 sur le futur du jeu + on joue ensuite",
+      "canceled_until": null,
+      "category": {
+        "id": "24241",
+        "name": "FINAL FANTASY XIV ONLINE"
+      },
+      "is_recurring": false
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiIyNjA3MWUwZi0zZWEyLTRkYzUtODdlZi1iYWEyODBmNGI2NGUiLCJpc29ZZWFyIjoyMDI2LCJpc29XZWVrIjoxN30=",
+      "start_time": "2026-04-25T13:00:00Z",
+      "end_time": "2026-04-25T16:00:00Z",
+      "title": "MANDATORY vs CAL (qualifications pour les playoffs ??)",
+      "canceled_until": null,
+      "category": {
+        "id": "516575",
+        "name": "VALORANT"
+      },
+      "is_recurring": false
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiI4M2Q1ZmM0OC0zOGZjLTQ3YzUtYjkxOS02N2NjNDI2OTYxNzQiLCJpc29ZZWFyIjoyMDI2LCJpc29XZWVrIjoxN30=",
+      "start_time": "2026-04-25T16:00:00Z",
+      "end_time": "2026-04-25T21:00:00Z",
+      "title": "Qualifications ZLAN, un duo sera qualifié et invité à l'évenement !",
+      "canceled_until": null,
+      "category": {
+        "id": "1949065062",
+        "name": "ZLAN"
+      },
+      "is_recurring": false
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiJlMGQ5ZjI1OC0wOWZhLTQyNjUtODNmZS1mMDY1Yjg5Y2RjZjAiLCJpc29ZZWFyIjoyMDI2LCJpc29XZWVrIjoxN30=",
+      "start_time": "2026-04-26T12:00:00Z",
+      "end_time": "2026-04-26T18:00:00Z",
+      "title": "On Rotourne sur FF14 avec des gens et aussi pour parler du futur du jeu",
+      "canceled_until": null,
+      "category": {
+        "id": "24241",
+        "name": "FINAL FANTASY XIV ONLINE"
+      },
+      "is_recurring": false
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiJhZWEzYTY2ZC0zYmI0LTQyNTYtYThjMC00NTM3OWMwN2RmNWUiLCJpc29ZZWFyIjoyMDI2LCJpc29XZWVrIjoxN30=",
+      "start_time": "2026-04-26T18:00:00Z",
+      "end_time": "2026-04-26T21:00:00Z",
+      "title": "MANDATORY vs JL, DERNIER MATCH AVANT PLAYOFFS ?",
+      "canceled_until": null,
+      "category": {
+        "id": "516575",
+        "name": "VALORANT"
+      },
+      "is_recurring": false
+    }
+  ]
 }

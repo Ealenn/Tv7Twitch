@@ -13,18 +13,6 @@
   },
   "schedulers": [
     {
-      "id": "eyJzZWdtZW50SUQiOiIxY2JhOGIxNS00MzEwLTRiNGYtODc1MS1iMGZlOGExNDVhZDIiLCJpc29ZZWFyIjoyMDI2LCJpc29XZWVrIjoxN30=",
-      "start_time": "2026-04-20T11:00:00Z",
-      "end_time": "2026-04-20T15:00:00Z",
-      "title": "Le lundi c'est culture !",
-      "canceled_until": null,
-      "category": {
-        "id": "338715930",
-        "name": "Maitre des Fleurs"
-      },
-      "is_recurring": true
-    },
-    {
       "id": "eyJzZWdtZW50SUQiOiJkMWY5Yjc1Mi0wMTA0LTQ0YmEtYTkwZS0wZmJjN2RlOWQ1MTgiLCJpc29ZZWFyIjoyMDI2LCJpc29XZWVrIjoxN30=",
       "start_time": "2026-04-21T10:00:00Z",
       "end_time": "2026-04-21T14:00:00Z",
@@ -35,6 +23,126 @@
         "name": "Lycans"
       },
       "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiI5MzM2NWM2ZC02NWMzLTQyMmQtODI2Ny1kNDk4NzRmNmRkZDMiLCJpc29ZZWFyIjoyMDI2LCJpc29XZWVrIjoxN30=",
+      "start_time": "2026-04-21T14:00:00Z",
+      "end_time": "2026-04-21T16:00:00Z",
+      "title": "Velocide Overdrive avec Anaee Bytell et Khalen (publicité)",
+      "canceled_until": null,
+      "category": {
+        "id": "292723156",
+        "name": "Velocide Overdrive"
+      },
+      "is_recurring": false
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiJiZjdlNWExNi03OTZkLTQ5OWUtYTI5ZC00MmE1YTE3YmQ5Y2YiLCJpc29ZZWFyIjoyMDI2LCJpc29XZWVrIjoxN30=",
+      "start_time": "2026-04-22T10:00:00Z",
+      "end_time": "2026-04-22T16:00:00Z",
+      "title": "L'île de la Tentafleur, l'île de tous les possibles",
+      "canceled_until": null,
+      "category": {
+        "id": "1099705332",
+        "name": "Tomodachi Life: Living the Dream"
+      },
+      "is_recurring": false
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiIxNGRhZGQ4Mi1hMjI0LTRhNmUtODQ4My04NDliMmVmYmMzMDgiLCJpc29ZZWFyIjoyMDI2LCJpc29XZWVrIjoxN30=",
+      "start_time": "2026-04-23T10:00:00Z",
+      "end_time": "2026-04-23T12:00:00Z",
+      "title": "L'île de la Tentafleur",
+      "canceled_until": null,
+      "category": {
+        "id": "1099705332",
+        "name": "Tomodachi Life: Living the Dream"
+      },
+      "is_recurring": false
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiJjY2U3NmNjNS1hNTYxLTRkNjItOWI1My03M2I5Njc2MGE1MzQiLCJpc29ZZWFyIjoyMDI2LCJpc29XZWVrIjoxN30=",
+      "start_time": "2026-04-23T12:00:00Z",
+      "end_time": "2026-04-23T17:00:00Z",
+      "title": "La salve FF14",
+      "canceled_until": null,
+      "category": {
+        "id": "24241",
+        "name": "FINAL FANTASY XIV ONLINE"
+      },
+      "is_recurring": false
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiI2MjNiZDMxMi01MjUwLTQ4ODMtOWRmYy03MTc1ZmU3ZGI1NTQiLCJpc29ZZWFyIjoyMDI2LCJpc29XZWVrIjoxN30=",
+      "start_time": "2026-04-24T13:00:00Z",
+      "end_time": "2026-04-24T15:00:00Z",
+      "title": "L'île de la Tentafleur",
+      "canceled_until": null,
+      "category": {
+        "id": "1099705332",
+        "name": "Tomodachi Life: Living the Dream"
+      },
+      "is_recurring": false
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiI1NTQ5NjhkMy01NTIxLTRhZTAtYTczZS1jMGRhOTNkY2ZlMjUiLCJpc29ZZWFyIjoyMDI2LCJpc29XZWVrIjoxN30=",
+      "start_time": "2026-04-24T15:00:00Z",
+      "end_time": "2026-04-24T20:00:00Z",
+      "title": "Le FAN FEST (keynote à 19h !!!)",
+      "canceled_until": null,
+      "category": {
+        "id": "24241",
+        "name": "FINAL FANTASY XIV ONLINE"
+      },
+      "is_recurring": false
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiJkOWM5YmMzOS0yM2Y4LTQ5YjMtYTc0MC1lOWNkNWQ2MDY1ZmEiLCJpc29ZZWFyIjoyMDI2LCJpc29XZWVrIjoxN30=",
+      "start_time": "2026-04-25T10:00:00Z",
+      "end_time": "2026-04-25T12:00:00Z",
+      "title": "L'île de la Tentafleur",
+      "canceled_until": null,
+      "category": {
+        "id": "1099705332",
+        "name": "Tomodachi Life: Living the Dream"
+      },
+      "is_recurring": false
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiI5M2JiZTY0ZC04NGNkLTRkMzktOTY4NC1jYjQ5ODE1Y2M1ZDQiLCJpc29ZZWFyIjoyMDI2LCJpc29XZWVrIjoxN30=",
+      "start_time": "2026-04-25T12:00:00Z",
+      "end_time": "2026-04-25T17:00:00Z",
+      "title": "La salve FF14",
+      "canceled_until": null,
+      "category": {
+        "id": "24241",
+        "name": "FINAL FANTASY XIV ONLINE"
+      },
+      "is_recurring": false
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiJiNmI2ZjI1OS02ZjM0LTQ5NWYtYmM1MC0xZTk1NDk0NzkyODYiLCJpc29ZZWFyIjoyMDI2LCJpc29XZWVrIjoxN30=",
+      "start_time": "2026-04-26T10:00:00Z",
+      "end_time": "2026-04-26T12:00:00Z",
+      "title": "L'île de la Tentafleur",
+      "canceled_until": null,
+      "category": {
+        "id": "1099705332",
+        "name": "Tomodachi Life: Living the Dream"
+      },
+      "is_recurring": false
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiIyOWRlOGRjNi02ZDJlLTQ4NWYtYmUwZS1iNjhiODMzNDgxNWEiLCJpc29ZZWFyIjoyMDI2LCJpc29XZWVrIjoxN30=",
+      "start_time": "2026-04-26T12:00:00Z",
+      "end_time": "2026-04-26T17:00:00Z",
+      "title": "La salve FF14",
+      "canceled_until": null,
+      "category": {
+        "id": "24241",
+        "name": "FINAL FANTASY XIV ONLINE"
+      },
+      "is_recurring": false
     },
     {
       "id": "eyJzZWdtZW50SUQiOiIxY2JhOGIxNS00MzEwLTRiNGYtODc1MS1iMGZlOGExNDVhZDIiLCJpc29ZZWFyIjoyMDI2LCJpc29XZWVrIjoxOH0=",
@@ -141,114 +249,6 @@
       "category": {
         "id": "338715930",
         "name": "Maitre des Fleurs"
-      },
-      "is_recurring": true
-    },
-    {
-      "id": "eyJzZWdtZW50SUQiOiJkMWY5Yjc1Mi0wMTA0LTQ0YmEtYTkwZS0wZmJjN2RlOWQ1MTgiLCJpc29ZZWFyIjoyMDI2LCJpc29XZWVrIjoyMn0=",
-      "start_time": "2026-05-26T10:00:00Z",
-      "end_time": "2026-05-26T14:00:00Z",
-      "title": "Lycans",
-      "canceled_until": null,
-      "category": {
-        "id": "1494074023",
-        "name": "Lycans"
-      },
-      "is_recurring": true
-    },
-    {
-      "id": "eyJzZWdtZW50SUQiOiIxY2JhOGIxNS00MzEwLTRiNGYtODc1MS1iMGZlOGExNDVhZDIiLCJpc29ZZWFyIjoyMDI2LCJpc29XZWVrIjoyM30=",
-      "start_time": "2026-06-01T11:00:00Z",
-      "end_time": "2026-06-01T15:00:00Z",
-      "title": "Le lundi c'est culture !",
-      "canceled_until": null,
-      "category": {
-        "id": "338715930",
-        "name": "Maitre des Fleurs"
-      },
-      "is_recurring": true
-    },
-    {
-      "id": "eyJzZWdtZW50SUQiOiJkMWY5Yjc1Mi0wMTA0LTQ0YmEtYTkwZS0wZmJjN2RlOWQ1MTgiLCJpc29ZZWFyIjoyMDI2LCJpc29XZWVrIjoyM30=",
-      "start_time": "2026-06-02T10:00:00Z",
-      "end_time": "2026-06-02T14:00:00Z",
-      "title": "Lycans",
-      "canceled_until": null,
-      "category": {
-        "id": "1494074023",
-        "name": "Lycans"
-      },
-      "is_recurring": true
-    },
-    {
-      "id": "eyJzZWdtZW50SUQiOiIxY2JhOGIxNS00MzEwLTRiNGYtODc1MS1iMGZlOGExNDVhZDIiLCJpc29ZZWFyIjoyMDI2LCJpc29XZWVrIjoyNH0=",
-      "start_time": "2026-06-08T11:00:00Z",
-      "end_time": "2026-06-08T15:00:00Z",
-      "title": "Le lundi c'est culture !",
-      "canceled_until": null,
-      "category": {
-        "id": "338715930",
-        "name": "Maitre des Fleurs"
-      },
-      "is_recurring": true
-    },
-    {
-      "id": "eyJzZWdtZW50SUQiOiJkMWY5Yjc1Mi0wMTA0LTQ0YmEtYTkwZS0wZmJjN2RlOWQ1MTgiLCJpc29ZZWFyIjoyMDI2LCJpc29XZWVrIjoyNH0=",
-      "start_time": "2026-06-09T10:00:00Z",
-      "end_time": "2026-06-09T14:00:00Z",
-      "title": "Lycans",
-      "canceled_until": null,
-      "category": {
-        "id": "1494074023",
-        "name": "Lycans"
-      },
-      "is_recurring": true
-    },
-    {
-      "id": "eyJzZWdtZW50SUQiOiIxY2JhOGIxNS00MzEwLTRiNGYtODc1MS1iMGZlOGExNDVhZDIiLCJpc29ZZWFyIjoyMDI2LCJpc29XZWVrIjoyNX0=",
-      "start_time": "2026-06-15T11:00:00Z",
-      "end_time": "2026-06-15T15:00:00Z",
-      "title": "Le lundi c'est culture !",
-      "canceled_until": null,
-      "category": {
-        "id": "338715930",
-        "name": "Maitre des Fleurs"
-      },
-      "is_recurring": true
-    },
-    {
-      "id": "eyJzZWdtZW50SUQiOiJkMWY5Yjc1Mi0wMTA0LTQ0YmEtYTkwZS0wZmJjN2RlOWQ1MTgiLCJpc29ZZWFyIjoyMDI2LCJpc29XZWVrIjoyNX0=",
-      "start_time": "2026-06-16T10:00:00Z",
-      "end_time": "2026-06-16T14:00:00Z",
-      "title": "Lycans",
-      "canceled_until": null,
-      "category": {
-        "id": "1494074023",
-        "name": "Lycans"
-      },
-      "is_recurring": true
-    },
-    {
-      "id": "eyJzZWdtZW50SUQiOiIxY2JhOGIxNS00MzEwLTRiNGYtODc1MS1iMGZlOGExNDVhZDIiLCJpc29ZZWFyIjoyMDI2LCJpc29XZWVrIjoyNn0=",
-      "start_time": "2026-06-22T11:00:00Z",
-      "end_time": "2026-06-22T15:00:00Z",
-      "title": "Le lundi c'est culture !",
-      "canceled_until": null,
-      "category": {
-        "id": "338715930",
-        "name": "Maitre des Fleurs"
-      },
-      "is_recurring": true
-    },
-    {
-      "id": "eyJzZWdtZW50SUQiOiJkMWY5Yjc1Mi0wMTA0LTQ0YmEtYTkwZS0wZmJjN2RlOWQ1MTgiLCJpc29ZZWFyIjoyMDI2LCJpc29XZWVrIjoyNn0=",
-      "start_time": "2026-06-23T10:00:00Z",
-      "end_time": "2026-06-23T14:00:00Z",
-      "title": "Lycans",
-      "canceled_until": null,
-      "category": {
-        "id": "1494074023",
-        "name": "Lycans"
       },
       "is_recurring": true
     }
