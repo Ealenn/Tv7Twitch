@@ -13,18 +13,6 @@
   },
   "schedulers": [
     {
-      "id": "eyJzZWdtZW50SUQiOiIzMWRmMTU3OS1kMGJjLTQ3YmItYTQ1Yi1mMzZmODg0YWE1ZjYiLCJpc29ZZWFyIjoyMDI2LCJpc29XZWVrIjoxN30=",
-      "start_time": "2026-04-21T18:00:00Z",
-      "end_time": "2026-04-21T20:30:00Z",
-      "title": "POPCORN AVEC DIEGO, ZERATOR & NICO",
-      "canceled_until": null,
-      "category": {
-        "id": "417752",
-        "name": "Talk Shows & Podcasts"
-      },
-      "is_recurring": false
-    },
-    {
       "id": "eyJzZWdtZW50SUQiOiIwYjI4ZjUwYS0xY2M4LTRjMDktYTM1Mi05MmJhZThlMjExMTYiLCJpc29ZZWFyIjoyMDI2LCJpc29XZWVrIjoxN30=",
       "start_time": "2026-04-22T12:00:00Z",
       "end_time": "2026-04-22T13:00:00Z",

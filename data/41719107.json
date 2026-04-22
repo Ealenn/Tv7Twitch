@@ -13,14 +13,14 @@
   },
   "schedulers": [
     {
-      "id": "eyJzZWdtZW50SUQiOiJlMTJhYzQ1YS1jMjI5LTQ5ZjktOTRiMy1mOTc2ZTNmYjExZTkiLCJpc29ZZWFyIjoyMDI2LCJpc29XZWVrIjoxN30=",
-      "start_time": "2026-04-21T18:00:00Z",
-      "end_time": "2026-04-21T21:30:00Z",
-      "title": "[Sur la chaine Domingo] POPCORN En invité",
+      "id": "eyJzZWdtZW50SUQiOiIxYjA3ZTAzNy1lYzZkLTQ1NjItODdkMi04MmZmNzQwMjlhMGYiLCJpc29ZZWFyIjoyMDI2LCJpc29XZWVrIjoxN30=",
+      "start_time": "2026-04-22T17:00:00Z",
+      "end_time": "2026-04-22T22:00:00Z",
+      "title": "Découverte de Vampire Crawlers OMG BANGER",
       "canceled_until": null,
       "category": {
-        "id": "417752",
-        "name": "Talk Shows & Podcasts"
+        "id": "1958242832",
+        "name": "Vampire Crawlers: The Turbo Wildcard from Vampire Survivors"
       },
       "is_recurring": false
     },
