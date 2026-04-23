@@ -13,30 +13,6 @@
   },
   "schedulers": [
     {
-      "id": "eyJzZWdtZW50SUQiOiIwYjI4ZjUwYS0xY2M4LTRjMDktYTM1Mi05MmJhZThlMjExMTYiLCJpc29ZZWFyIjoyMDI2LCJpc29XZWVrIjoxN30=",
-      "start_time": "2026-04-22T12:00:00Z",
-      "end_time": "2026-04-22T13:00:00Z",
-      "title": "PRÉ LIVE",
-      "canceled_until": null,
-      "category": {
-        "id": "509658",
-        "name": "Just Chatting"
-      },
-      "is_recurring": false
-    },
-    {
-      "id": "eyJzZWdtZW50SUQiOiI5YjBhMTEyZC03MGU0LTQ1MDQtODcwNy00YjY2YzllZjgwMDQiLCJpc29ZZWFyIjoyMDI2LCJpc29XZWVrIjoxN30=",
-      "start_time": "2026-04-22T13:00:00Z",
-      "end_time": "2026-04-22T17:00:00Z",
-      "title": "STREAM LIBRE",
-      "canceled_until": null,
-      "category": {
-        "id": "509658",
-        "name": "Just Chatting"
-      },
-      "is_recurring": false
-    },
-    {
       "id": "eyJzZWdtZW50SUQiOiIyMDQ0ODk0ZC00MWY5LTRlOWMtYTUwOC0zYzFkMzQ5M2M1YTkiLCJpc29ZZWFyIjoyMDI2LCJpc29XZWVrIjoxN30=",
       "start_time": "2026-04-24T12:00:00Z",
       "end_time": "2026-04-24T13:30:00Z",

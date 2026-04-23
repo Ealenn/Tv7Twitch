@@ -13,18 +13,6 @@
   },
   "schedulers": [
     {
-      "id": "eyJzZWdtZW50SUQiOiIxYjA3ZTAzNy1lYzZkLTQ1NjItODdkMi04MmZmNzQwMjlhMGYiLCJpc29ZZWFyIjoyMDI2LCJpc29XZWVrIjoxN30=",
-      "start_time": "2026-04-22T17:00:00Z",
-      "end_time": "2026-04-22T22:00:00Z",
-      "title": "Découverte de Vampire Crawlers OMG BANGER",
-      "canceled_until": null,
-      "category": {
-        "id": "1958242832",
-        "name": "Vampire Crawlers: The Turbo Wildcard from Vampire Survivors"
-      },
-      "is_recurring": false
-    },
-    {
       "id": "eyJzZWdtZW50SUQiOiI3MmI0OTExZC1iZDgwLTQ5ODItOGQyNS1iZDkxZjFhNDgyODkiLCJpc29ZZWFyIjoyMDI2LCJpc29XZWVrIjoxN30=",
       "start_time": "2026-04-23T12:00:00Z",
       "end_time": "2026-04-23T18:00:00Z",
