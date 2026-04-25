@@ -13,18 +13,6 @@
   },
   "schedulers": [
     {
-      "id": "eyJzZWdtZW50SUQiOiI5MGM0YWI2MS1hNTE2LTQyZjctOWQzMS04OTc0MjNiNmM2MzEiLCJpc29ZZWFyIjoyMDI2LCJpc29XZWVrIjoxN30=",
-      "start_time": "2026-04-24T16:00:00Z",
-      "end_time": "2026-04-24T22:00:00Z",
-      "title": "Keynote FF14 sur le futur du jeu + on joue ensuite",
-      "canceled_until": null,
-      "category": {
-        "id": "24241",
-        "name": "FINAL FANTASY XIV ONLINE"
-      },
-      "is_recurring": false
-    },
-    {
       "id": "eyJzZWdtZW50SUQiOiIyNjA3MWUwZi0zZWEyLTRkYzUtODdlZi1iYWEyODBmNGI2NGUiLCJpc29ZZWFyIjoyMDI2LCJpc29XZWVrIjoxN30=",
       "start_time": "2026-04-25T13:00:00Z",
       "end_time": "2026-04-25T16:00:00Z",
