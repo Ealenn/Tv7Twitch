@@ -13,30 +13,6 @@
   },
   "schedulers": [
     {
-      "id": "eyJzZWdtZW50SUQiOiIyNjA3MWUwZi0zZWEyLTRkYzUtODdlZi1iYWEyODBmNGI2NGUiLCJpc29ZZWFyIjoyMDI2LCJpc29XZWVrIjoxN30=",
-      "start_time": "2026-04-25T13:00:00Z",
-      "end_time": "2026-04-25T16:00:00Z",
-      "title": "MANDATORY vs CAL (qualifications pour les playoffs ??)",
-      "canceled_until": null,
-      "category": {
-        "id": "516575",
-        "name": "VALORANT"
-      },
-      "is_recurring": false
-    },
-    {
-      "id": "eyJzZWdtZW50SUQiOiI4M2Q1ZmM0OC0zOGZjLTQ3YzUtYjkxOS02N2NjNDI2OTYxNzQiLCJpc29ZZWFyIjoyMDI2LCJpc29XZWVrIjoxN30=",
-      "start_time": "2026-04-25T16:00:00Z",
-      "end_time": "2026-04-25T21:00:00Z",
-      "title": "Qualifications ZLAN, un duo sera qualifié et invité à l'évenement !",
-      "canceled_until": null,
-      "category": {
-        "id": "1949065062",
-        "name": "ZLAN"
-      },
-      "is_recurring": false
-    },
-    {
       "id": "eyJzZWdtZW50SUQiOiJlMGQ5ZjI1OC0wOWZhLTQyNjUtODNmZS1mMDY1Yjg5Y2RjZjAiLCJpc29ZZWFyIjoyMDI2LCJpc29XZWVrIjoxN30=",
       "start_time": "2026-04-26T12:00:00Z",
       "end_time": "2026-04-26T18:00:00Z",
