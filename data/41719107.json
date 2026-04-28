@@ -13,30 +13,6 @@
   },
   "schedulers": [
     {
-      "id": "eyJzZWdtZW50SUQiOiI4OGEyYzIyZC04ODY4LTRmYzQtOGUxOC1kNjVmZTUxOWRmMDAiLCJpc29ZZWFyIjoyMDI2LCJpc29XZWVrIjoxOH0=",
-      "start_time": "2026-04-27T16:00:00Z",
-      "end_time": "2026-04-27T18:30:00Z",
-      "title": "Sortie mondiale de DEIFIED, early access UNEXPECTED",
-      "canceled_until": null,
-      "category": {
-        "id": "2104707786",
-        "name": "Deified"
-      },
-      "is_recurring": false
-    },
-    {
-      "id": "eyJzZWdtZW50SUQiOiIxY2I2MTMxMC03NDM2LTQwMDMtYjQzNy0xYzJlZTRjMzg3OWIiLCJpc29ZZWFyIjoyMDI2LCJpc29XZWVrIjoxOH0=",
-      "start_time": "2026-04-27T18:30:00Z",
-      "end_time": "2026-04-27T22:00:00Z",
-      "title": "Soirée du lundi avec des gens incroyables sur un jeu exceptionnel",
-      "canceled_until": null,
-      "category": {
-        "id": "509658",
-        "name": "Just Chatting"
-      },
-      "is_recurring": false
-    },
-    {
       "id": "eyJzZWdtZW50SUQiOiJjNmU2ZmU2OC05NmU3LTQxNGUtODhjZi1hMTAwNzU1ZTdkODEiLCJpc29ZZWFyIjoyMDI2LCJpc29XZWVrIjoxOH0=",
       "start_time": "2026-04-28T17:00:00Z",
       "end_time": "2026-04-28T18:00:00Z",
@@ -52,11 +28,11 @@
       "id": "eyJzZWdtZW50SUQiOiJkMmE5YWQzMi04MzllLTQyNzgtYWYwYi1mNmNiZDFjYTA3MTgiLCJpc29ZZWFyIjoyMDI2LCJpc29XZWVrIjoxOH0=",
       "start_time": "2026-04-28T18:00:00Z",
       "end_time": "2026-04-28T22:00:00Z",
-      "title": "LES VAMPIIIIIIRES j'adore les vampires dans le jeu",
+      "title": "On continue DEIFIED, notre nouveau jeu chez Unexpected",
       "canceled_until": null,
       "category": {
-        "id": "1958242832",
-        "name": "Vampire Crawlers: The Turbo Wildcard from Vampire Survivors"
+        "id": "2104707786",
+        "name": "Deified"
       },
       "is_recurring": false
     },
@@ -87,12 +63,12 @@
     {
       "id": "eyJzZWdtZW50SUQiOiI3MmJmYTVhNi1lYzQ1LTRjNDItYmU0My03YTdkYTkzNjI0ZGYiLCJpc29ZZWFyIjoyMDI2LCJpc29XZWVrIjoxOH0=",
       "start_time": "2026-05-03T18:00:00Z",
-      "end_time": "2026-05-03T22:00:00Z",
-      "title": "Indiemanche, découverte de 2 jeux indépendants",
+      "end_time": "2026-05-03T21:00:00Z",
+      "title": "MANDATORY vs F9 EICAR premier match des playoffs",
       "canceled_until": null,
       "category": {
-        "id": "66082",
-        "name": "Games + Demos"
+        "id": "516575",
+        "name": "VALORANT"
       },
       "is_recurring": false
     }
