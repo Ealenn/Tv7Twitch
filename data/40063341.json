@@ -13,30 +13,6 @@
   },
   "schedulers": [
     {
-      "id": "eyJzZWdtZW50SUQiOiJlYjg4ZWRiZC1mNzI1LTQ1NWUtOGVlYS1iODI1NmFkYmNlMDciLCJpc29ZZWFyIjoyMDI2LCJpc29XZWVrIjoxOH0=",
-      "start_time": "2026-04-28T12:00:00Z",
-      "end_time": "2026-04-28T13:00:00Z",
-      "title": "PRÉ LIVE",
-      "canceled_until": null,
-      "category": {
-        "id": "509658",
-        "name": "Just Chatting"
-      },
-      "is_recurring": false
-    },
-    {
-      "id": "eyJzZWdtZW50SUQiOiJmZThkMjNjNC01MTA4LTQzMTQtYjJjYy00N2U4NDMxM2M1ZjMiLCJpc29ZZWFyIjoyMDI2LCJpc29XZWVrIjoxOH0=",
-      "start_time": "2026-04-28T13:00:00Z",
-      "end_time": "2026-04-28T17:00:00Z",
-      "title": "SUITE DE TIDES OF TOMORROW",
-      "canceled_until": null,
-      "category": {
-        "id": "779124963",
-        "name": "Tides of Tomorrow"
-      },
-      "is_recurring": false
-    },
-    {
       "id": "eyJzZWdtZW50SUQiOiI3Y2M4YjIyZi01OTkwLTQ3MzktODBmZS0yYTBjOGU4YzRmMzQiLCJpc29ZZWFyIjoyMDI2LCJpc29XZWVrIjoxOH0=",
       "start_time": "2026-04-29T15:00:00Z",
       "end_time": "2026-04-29T17:00:00Z",

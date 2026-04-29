@@ -13,30 +13,6 @@
   },
   "schedulers": [
     {
-      "id": "eyJzZWdtZW50SUQiOiJjNmU2ZmU2OC05NmU3LTQxNGUtODhjZi1hMTAwNzU1ZTdkODEiLCJpc29ZZWFyIjoyMDI2LCJpc29XZWVrIjoxOH0=",
-      "start_time": "2026-04-28T17:00:00Z",
-      "end_time": "2026-04-28T18:00:00Z",
-      "title": "Découverte de Kalanoro tout ptit tout sympa",
-      "canceled_until": null,
-      "category": {
-        "id": "2133905409",
-        "name": "Kalanoro"
-      },
-      "is_recurring": false
-    },
-    {
-      "id": "eyJzZWdtZW50SUQiOiJkMmE5YWQzMi04MzllLTQyNzgtYWYwYi1mNmNiZDFjYTA3MTgiLCJpc29ZZWFyIjoyMDI2LCJpc29XZWVrIjoxOH0=",
-      "start_time": "2026-04-28T18:00:00Z",
-      "end_time": "2026-04-28T22:00:00Z",
-      "title": "On continue DEIFIED, notre nouveau jeu chez Unexpected",
-      "canceled_until": null,
-      "category": {
-        "id": "2104707786",
-        "name": "Deified"
-      },
-      "is_recurring": false
-    },
-    {
       "id": "eyJzZWdtZW50SUQiOiI3NDIwZDhjMi0wY2M0LTRjOTUtOTQ1MC03ODU1YzMwYzFmOWYiLCJpc29ZZWFyIjoyMDI2LCJpc29XZWVrIjoxOH0=",
       "start_time": "2026-04-30T16:00:00Z",
       "end_time": "2026-04-30T21:00:00Z",
