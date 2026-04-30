@@ -13,18 +13,6 @@
   },
   "schedulers": [
     {
-      "id": "eyJzZWdtZW50SUQiOiI3Y2M4YjIyZi01OTkwLTQ3MzktODBmZS0yYTBjOGU4YzRmMzQiLCJpc29ZZWFyIjoyMDI2LCJpc29XZWVrIjoxOH0=",
-      "start_time": "2026-04-29T15:00:00Z",
-      "end_time": "2026-04-29T17:00:00Z",
-      "title": "OPENING NBA AVEC ALEX",
-      "canceled_until": null,
-      "category": {
-        "id": "509658",
-        "name": "Just Chatting"
-      },
-      "is_recurring": false
-    },
-    {
       "id": "eyJzZWdtZW50SUQiOiI5MGVkZWZjNC1iOTQwLTRhMGQtYTU1MS0wMzc0ZWE3YTc5MmIiLCJpc29ZZWFyIjoyMDI2LCJpc29XZWVrIjoxOH0=",
       "start_time": "2026-04-30T17:30:00Z",
       "end_time": "2026-04-30T18:30:00Z",
