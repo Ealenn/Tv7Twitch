@@ -13,30 +13,6 @@
   },
   "schedulers": [
     {
-      "id": "eyJzZWdtZW50SUQiOiI5MGVkZWZjNC1iOTQwLTRhMGQtYTU1MS0wMzc0ZWE3YTc5MmIiLCJpc29ZZWFyIjoyMDI2LCJpc29XZWVrIjoxOH0=",
-      "start_time": "2026-04-30T17:30:00Z",
-      "end_time": "2026-04-30T18:30:00Z",
-      "title": "PRÉ LIVE",
-      "canceled_until": null,
-      "category": {
-        "id": "509658",
-        "name": "Just Chatting"
-      },
-      "is_recurring": false
-    },
-    {
-      "id": "eyJzZWdtZW50SUQiOiIyNGYzZWNhYy1hODcwLTQ4MTYtODRkMS0yNGRiYjg5NDEzNGEiLCJpc29ZZWFyIjoyMDI2LCJpc29XZWVrIjoxOH0=",
-      "start_time": "2026-04-30T18:30:00Z",
-      "end_time": "2026-04-30T22:00:00Z",
-      "title": "ON DÉCOUVRE TEN DATES",
-      "canceled_until": null,
-      "category": {
-        "id": "1398240130",
-        "name": "Ten Dates"
-      },
-      "is_recurring": false
-    },
-    {
       "id": "eyJzZWdtZW50SUQiOiI4ZGNlMzgyZS00Mzk0LTQwNDktOGRiMy0wMzNmNzc0NmVhOTkiLCJpc29ZZWFyIjoyMDI2LCJpc29XZWVrIjoxOH0=",
       "start_time": "2026-05-01T10:00:00Z",
       "end_time": "2026-05-01T12:00:00Z",
