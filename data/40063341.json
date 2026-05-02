@@ -13,18 +13,6 @@
   },
   "schedulers": [
     {
-      "id": "eyJzZWdtZW50SUQiOiI4ZGNlMzgyZS00Mzk0LTQwNDktOGRiMy0wMzNmNzc0NmVhOTkiLCJpc29ZZWFyIjoyMDI2LCJpc29XZWVrIjoxOH0=",
-      "start_time": "2026-05-01T10:00:00Z",
-      "end_time": "2026-05-01T12:00:00Z",
-      "title": "PAUSE DEJ",
-      "canceled_until": null,
-      "category": {
-        "id": "509658",
-        "name": "Just Chatting"
-      },
-      "is_recurring": false
-    },
-    {
       "id": "eyJzZWdtZW50SUQiOiIyOTIyNzUxMy00ZWJmLTQ5YWYtYWU0My03ZmU5YWM1NGQ1NTEiLCJpc29ZZWFyIjoyMDI2LCJpc29XZWVrIjoxOH0=",
       "start_time": "2026-05-03T12:30:00Z",
       "end_time": "2026-05-03T17:00:00Z",
