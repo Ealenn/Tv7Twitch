@@ -13,18 +13,6 @@
   },
   "schedulers": [
     {
-      "id": "eyJzZWdtZW50SUQiOiI0MTg4YWQ0YS00NTNjLTQxMmUtOTY2NC0wZGZmZDk0MjE2ZDMiLCJpc29ZZWFyIjoyMDI2LCJpc29XZWVrIjoxOH0=",
-      "start_time": "2026-05-02T11:00:00Z",
-      "end_time": "2026-05-02T21:00:00Z",
-      "title": "Qualifications EN LAN pour Ascension PUBG au Hangar",
-      "canceled_until": null,
-      "category": {
-        "id": "493057",
-        "name": "PUBG: BATTLEGROUNDS"
-      },
-      "is_recurring": false
-    },
-    {
       "id": "eyJzZWdtZW50SUQiOiI3MmJmYTVhNi1lYzQ1LTRjNDItYmU0My03YTdkYTkzNjI0ZGYiLCJpc29ZZWFyIjoyMDI2LCJpc29XZWVrIjoxOH0=",
       "start_time": "2026-05-03T18:00:00Z",
       "end_time": "2026-05-03T21:00:00Z",
