@@ -13,30 +13,6 @@
   },
   "schedulers": [
     {
-      "id": "eyJzZWdtZW50SUQiOiIwOGViZWJmYS1mOTkxLTQzYTItOTg0OS01NThlMzA5MTA5YmIiLCJpc29ZZWFyIjoyMDI2LCJpc29XZWVrIjoxOX0=",
-      "start_time": "2026-05-05T17:30:00Z",
-      "end_time": "2026-05-05T18:30:00Z",
-      "title": "🎙️ PRÉ-LIVE",
-      "canceled_until": null,
-      "category": {
-        "id": "509658",
-        "name": "Just Chatting"
-      },
-      "is_recurring": false
-    },
-    {
-      "id": "eyJzZWdtZW50SUQiOiIyMGVmMjg4Ni0xNWUyLTQ3MWYtOTU2MC1hNDFmZjhhMmJhN2QiLCJpc29ZZWFyIjoyMDI2LCJpc29XZWVrIjoxOX0=",
-      "start_time": "2026-05-05T18:30:00Z",
-      "end_time": "2026-05-05T22:00:00Z",
-      "title": "🎬 SOIRÉE RÉACT",
-      "canceled_until": null,
-      "category": {
-        "id": "509658",
-        "name": "Just Chatting"
-      },
-      "is_recurring": false
-    },
-    {
       "id": "eyJzZWdtZW50SUQiOiI0ZWViN2YzOC03NjhmLTRkYjQtYTU3Mi01YWJkNGYzOGFiNzciLCJpc29ZZWFyIjoyMDI2LCJpc29XZWVrIjoyMH0=",
       "start_time": "2026-05-11T16:30:00Z",
       "end_time": "2026-05-11T20:00:00Z",
