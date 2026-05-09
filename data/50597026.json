@@ -13,18 +13,6 @@
   },
   "schedulers": [
     {
-      "id": "eyJzZWdtZW50SUQiOiI4MzI4ODgxMi1lMmVhLTQ4NTQtODdjNC00NGY1MmYxMjY4YTYiLCJpc29ZZWFyIjoyMDI2LCJpc29XZWVrIjoxOX0=",
-      "start_time": "2026-05-08T10:00:00Z",
-      "end_time": "2026-05-08T16:00:00Z",
-      "title": "Suite de l'aventure !",
-      "canceled_until": null,
-      "category": {
-        "id": "779124963",
-        "name": "Tides of Tomorrow"
-      },
-      "is_recurring": false
-    },
-    {
       "id": "eyJzZWdtZW50SUQiOiIxY2JhOGIxNS00MzEwLTRiNGYtODc1MS1iMGZlOGExNDVhZDIiLCJpc29ZZWFyIjoyMDI2LCJpc29XZWVrIjoyMH0=",
       "start_time": "2026-05-11T11:00:00Z",
       "end_time": "2026-05-11T15:00:00Z",
@@ -249,6 +237,18 @@
       "category": {
         "id": "338715930",
         "name": "Maitre des Fleurs"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiJkMWY5Yjc1Mi0wMTA0LTQ0YmEtYTkwZS0wZmJjN2RlOWQ1MTgiLCJpc29ZZWFyIjoyMDI2LCJpc29XZWVrIjoyOX0=",
+      "start_time": "2026-07-14T10:00:00Z",
+      "end_time": "2026-07-14T14:00:00Z",
+      "title": "Lycans",
+      "canceled_until": null,
+      "category": {
+        "id": "1494074023",
+        "name": "Lycans"
       },
       "is_recurring": true
     }
