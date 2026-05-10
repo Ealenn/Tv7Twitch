@@ -13,30 +13,6 @@
   },
   "schedulers": [
     {
-      "id": "eyJzZWdtZW50SUQiOiIwYWEzMGI0MS0xNzViLTRjNmQtODBiZC03M2JjMmQ0NzZmNDMiLCJpc29ZZWFyIjoyMDI2LCJpc29XZWVrIjoxOX0=",
-      "start_time": "2026-05-08T23:00:00Z",
-      "end_time": "2026-05-09T17:00:00Z",
-      "title": "[Sur la chaine mistermv] SPEEDONS JOUR 3 OMG !!!!!!!!!!!!",
-      "canceled_until": null,
-      "category": {
-        "id": "509663",
-        "name": "Special Events"
-      },
-      "is_recurring": false
-    },
-    {
-      "id": "eyJzZWdtZW50SUQiOiI1ZjZmMzdhNi1lNWY1LTQxMmItYWRhNy1iOGNlOTQzOTAyNGIiLCJpc29ZZWFyIjoyMDI2LCJpc29XZWVrIjoxOX0=",
-      "start_time": "2026-05-09T17:00:00Z",
-      "end_time": "2026-05-09T20:00:00Z",
-      "title": "MANDATORY MDI JOUR 2 World of Warcraft on va aux qualifs",
-      "canceled_until": null,
-      "category": {
-        "id": "18122",
-        "name": "World of Warcraft"
-      },
-      "is_recurring": false
-    },
-    {
       "id": "eyJzZWdtZW50SUQiOiIwN2Y5ZDI5Mi0wN2VhLTRkNmEtOWExYy1iZWFlYmNkOWMwYzQiLCJpc29ZZWFyIjoyMDI2LCJpc29XZWVrIjoxOX0=",
       "start_time": "2026-05-09T23:00:00Z",
       "end_time": "2026-05-10T17:00:00Z",
