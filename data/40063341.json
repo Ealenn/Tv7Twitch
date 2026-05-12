@@ -7,16 +7,103 @@
     "broadcaster_type": "partner",
     "description": "Président du FC Silmi",
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/3cdae7df-600c-4833-8dfe-8d2abc5a3b25-profile_image-300x300.png",
-    "offline_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/d5446007-366b-42ea-8b4d-d539ddfd89b6-channel_offline_image-1920x1080.png",
+    "offline_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/6648ea59-f725-484f-8d52-beb88d2256cd-channel_offline_image-1920x1080.png",
     "view_count": 0,
     "created_at": "2013-02-05T19:20:22Z"
   },
   "schedulers": [
     {
-      "id": "eyJzZWdtZW50SUQiOiI0ZWViN2YzOC03NjhmLTRkYjQtYTU3Mi01YWJkNGYzOGFiNzciLCJpc29ZZWFyIjoyMDI2LCJpc29XZWVrIjoyMH0=",
-      "start_time": "2026-05-11T16:30:00Z",
-      "end_time": "2026-05-11T20:00:00Z",
-      "title": "⚽️ KINGS LEAGUE - QUARTS DE FINALE VS UNIT3D",
+      "id": "eyJzZWdtZW50SUQiOiJmM2I4ZjIzYS1mNDY3LTQ4M2MtYTFkZi1lNzdhMmU1MGYwMjMiLCJpc29ZZWFyIjoyMDI2LCJpc29XZWVrIjoyMH0=",
+      "start_time": "2026-05-12T17:30:00Z",
+      "end_time": "2026-05-12T18:30:00Z",
+      "title": "🎙️ PRÉ-LIVE",
+      "canceled_until": null,
+      "category": {
+        "id": "509658",
+        "name": "Just Chatting"
+      },
+      "is_recurring": false
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiJjZjBkOGJlZC1kNDkwLTQ1MWItOTU2Mi1mMTRlZDcxZjJiZWMiLCJpc29ZZWFyIjoyMDI2LCJpc29XZWVrIjoyMH0=",
+      "start_time": "2026-05-12T18:30:00Z",
+      "end_time": "2026-05-12T23:00:00Z",
+      "title": "🤪 MONDAYZZZ TEAM (même si c'est mardi)",
+      "canceled_until": null,
+      "category": null,
+      "is_recurring": false
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiIxMzg2ODI0OC02NzEwLTRiYTctYWI5Ni01YTJjZDFjNTg5OWIiLCJpc29ZZWFyIjoyMDI2LCJpc29XZWVrIjoyMH0=",
+      "start_time": "2026-05-13T12:00:00Z",
+      "end_time": "2026-05-13T13:00:00Z",
+      "title": "🎙️ PRÉ-LIVE",
+      "canceled_until": null,
+      "category": {
+        "id": "509658",
+        "name": "Just Chatting"
+      },
+      "is_recurring": false
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiI2MjJiZjIxNi02MTU1LTRhN2UtYmE3Ni1mMGM3MjcxZjcyYzEiLCJpc29ZZWFyIjoyMDI2LCJpc29XZWVrIjoyMH0=",
+      "start_time": "2026-05-13T13:00:00Z",
+      "end_time": "2026-05-13T14:30:00Z",
+      "title": "🎬 REACT DOCU NETFLIX \"LE BUS\"",
+      "canceled_until": null,
+      "category": null,
+      "is_recurring": false
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiIwZmZhN2E2Ny00ODI2LTQ2MjYtOWNmOS0wMTEwYmRhM2I0ZTMiLCJpc29ZZWFyIjoyMDI2LCJpc29XZWVrIjoyMH0=",
+      "start_time": "2026-05-13T14:30:00Z",
+      "end_time": "2026-05-13T16:00:00Z",
+      "title": "STREAM LIBRE",
+      "canceled_until": null,
+      "category": null,
+      "is_recurring": false
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiI5ZTE5MDM4YS05NTcxLTRmN2YtOTBiNS05Y2RlNzc1NjQyZjIiLCJpc29ZZWFyIjoyMDI2LCJpc29XZWVrIjoyMH0=",
+      "start_time": "2026-05-14T12:00:00Z",
+      "end_time": "2026-05-14T13:00:00Z",
+      "title": "🎙️ PRÉ-LIVE",
+      "canceled_until": null,
+      "category": {
+        "id": "509658",
+        "name": "Just Chatting"
+      },
+      "is_recurring": false
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiJlODJiZTFlMi1lMjRmLTRiZGEtYjdlMC1hNjQ5YmRlZjY4ZjkiLCJpc29ZZWFyIjoyMDI2LCJpc29XZWVrIjoyMH0=",
+      "start_time": "2026-05-14T13:00:00Z",
+      "end_time": "2026-05-14T16:00:00Z",
+      "title": "🌖 TOGETHER MOON ESCAPE FT. OWL",
+      "canceled_until": null,
+      "category": {
+        "id": "1624196597",
+        "name": "Together: Moon Escape"
+      },
+      "is_recurring": false
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiI0NzE0OGJmMS05ZmRkLTRmMjEtOTY0ZC0wZmRmYzUxNmY2NWIiLCJpc29ZZWFyIjoyMDI2LCJpc29XZWVrIjoyMH0=",
+      "start_time": "2026-05-16T19:00:00Z",
+      "end_time": "2026-05-16T22:00:00Z",
+      "title": "🎯 FLÉCHETTES CUP (SUR LA CHAINE DE BOUZI)",
+      "canceled_until": null,
+      "category": {
+        "id": "190782608",
+        "name": "Darts"
+      },
+      "is_recurring": false
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiJmMjBiNTcyOC01MmY1LTRhNWYtYmQ1Yi1kNjllNTllOWMyZTIiLCJpc29ZZWFyIjoyMDI2LCJpc29XZWVrIjoyMH0=",
+      "start_time": "2026-05-17T14:30:00Z",
+      "end_time": "2026-05-17T19:00:00Z",
+      "title": "⚽️ KINGS LEAGUE (DEMI ET FINALE)",
       "canceled_until": null,
       "category": {
         "id": "1863222988",
