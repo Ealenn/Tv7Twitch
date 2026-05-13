@@ -13,27 +13,6 @@
   },
   "schedulers": [
     {
-      "id": "eyJzZWdtZW50SUQiOiJmM2I4ZjIzYS1mNDY3LTQ4M2MtYTFkZi1lNzdhMmU1MGYwMjMiLCJpc29ZZWFyIjoyMDI2LCJpc29XZWVrIjoyMH0=",
-      "start_time": "2026-05-12T17:30:00Z",
-      "end_time": "2026-05-12T18:30:00Z",
-      "title": "🎙️ PRÉ-LIVE",
-      "canceled_until": null,
-      "category": {
-        "id": "509658",
-        "name": "Just Chatting"
-      },
-      "is_recurring": false
-    },
-    {
-      "id": "eyJzZWdtZW50SUQiOiJjZjBkOGJlZC1kNDkwLTQ1MWItOTU2Mi1mMTRlZDcxZjJiZWMiLCJpc29ZZWFyIjoyMDI2LCJpc29XZWVrIjoyMH0=",
-      "start_time": "2026-05-12T18:30:00Z",
-      "end_time": "2026-05-12T23:00:00Z",
-      "title": "🤪 MONDAYZZZ TEAM (même si c'est mardi)",
-      "canceled_until": null,
-      "category": null,
-      "is_recurring": false
-    },
-    {
       "id": "eyJzZWdtZW50SUQiOiIxMzg2ODI0OC02NzEwLTRiYTctYWI5Ni01YTJjZDFjNTg5OWIiLCJpc29ZZWFyIjoyMDI2LCJpc29XZWVrIjoyMH0=",
       "start_time": "2026-05-13T12:00:00Z",
       "end_time": "2026-05-13T13:00:00Z",
