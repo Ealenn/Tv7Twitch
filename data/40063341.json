@@ -13,30 +13,6 @@
   },
   "schedulers": [
     {
-      "id": "eyJzZWdtZW50SUQiOiI5ZTE5MDM4YS05NTcxLTRmN2YtOTBiNS05Y2RlNzc1NjQyZjIiLCJpc29ZZWFyIjoyMDI2LCJpc29XZWVrIjoyMH0=",
-      "start_time": "2026-05-14T12:00:00Z",
-      "end_time": "2026-05-14T13:00:00Z",
-      "title": "🎙️ PRÉ-LIVE",
-      "canceled_until": null,
-      "category": {
-        "id": "509658",
-        "name": "Just Chatting"
-      },
-      "is_recurring": false
-    },
-    {
-      "id": "eyJzZWdtZW50SUQiOiJlODJiZTFlMi1lMjRmLTRiZGEtYjdlMC1hNjQ5YmRlZjY4ZjkiLCJpc29ZZWFyIjoyMDI2LCJpc29XZWVrIjoyMH0=",
-      "start_time": "2026-05-14T13:00:00Z",
-      "end_time": "2026-05-14T16:00:00Z",
-      "title": "🌖 TOGETHER MOON ESCAPE FT. OWL",
-      "canceled_until": null,
-      "category": {
-        "id": "1624196597",
-        "name": "Together: Moon Escape"
-      },
-      "is_recurring": false
-    },
-    {
       "id": "eyJzZWdtZW50SUQiOiI0NzE0OGJmMS05ZmRkLTRmMjEtOTY0ZC0wZmRmYzUxNmY2NWIiLCJpc29ZZWFyIjoyMDI2LCJpc29XZWVrIjoyMH0=",
       "start_time": "2026-05-16T19:00:00Z",
       "end_time": "2026-05-16T22:00:00Z",
