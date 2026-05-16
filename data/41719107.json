@@ -13,18 +13,6 @@
   },
   "schedulers": [
     {
-      "id": "eyJzZWdtZW50SUQiOiJjYzRkMDllOS0wNjA0LTRiMmYtOTE4MS00M2FmNjhmODhlOTciLCJpc29ZZWFyIjoyMDI2LCJpc29XZWVrIjoyMH0=",
-      "start_time": "2026-05-15T17:00:00Z",
-      "end_time": "2026-05-15T21:00:00Z",
-      "title": "ZLAN 2026 jour 1 !",
-      "canceled_until": null,
-      "category": {
-        "id": "1949065062",
-        "name": "ZLAN"
-      },
-      "is_recurring": false
-    },
-    {
       "id": "eyJzZWdtZW50SUQiOiI3ODRlYmRhZi0xMjA2LTRiYmUtYjljMS1jMTZkNjA2MDBmMzEiLCJpc29ZZWFyIjoyMDI2LCJpc29XZWVrIjoyMH0=",
       "start_time": "2026-05-16T11:00:00Z",
       "end_time": "2026-05-16T21:00:00Z",
