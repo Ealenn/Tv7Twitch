@@ -13,15 +13,6 @@
   },
   "schedulers": [
     {
-      "id": "eyJzZWdtZW50SUQiOiJmN2Q5OGM1OC02OGEzLTRjYjEtYTE4ZS04MmMxYTc0MjliYmQiLCJpc29ZZWFyIjoyMDI2LCJpc29XZWVrIjoyMH0=",
-      "start_time": "2026-05-16T07:30:00Z",
-      "end_time": "2026-05-16T11:30:00Z",
-      "title": "La matinale",
-      "canceled_until": null,
-      "category": null,
-      "is_recurring": true
-    },
-    {
       "id": "eyJzZWdtZW50SUQiOiJmN2Q5OGM1OC02OGEzLTRjYjEtYTE4ZS04MmMxYTc0MjliYmQiLCJpc29ZZWFyIjoyMDI2LCJpc29XZWVrIjoyMX0=",
       "start_time": "2026-05-23T07:30:00Z",
       "end_time": "2026-05-23T11:30:00Z",
@@ -187,6 +178,15 @@
       "id": "eyJzZWdtZW50SUQiOiJmN2Q5OGM1OC02OGEzLTRjYjEtYTE4ZS04MmMxYTc0MjliYmQiLCJpc29ZZWFyIjoyMDI2LCJpc29XZWVrIjozOX0=",
       "start_time": "2026-09-26T07:30:00Z",
       "end_time": "2026-09-26T11:30:00Z",
+      "title": "La matinale",
+      "canceled_until": null,
+      "category": null,
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiJmN2Q5OGM1OC02OGEzLTRjYjEtYTE4ZS04MmMxYTc0MjliYmQiLCJpc29ZZWFyIjoyMDI2LCJpc29XZWVrIjo0MH0=",
+      "start_time": "2026-10-03T07:30:00Z",
+      "end_time": "2026-10-03T11:30:00Z",
       "title": "La matinale",
       "canceled_until": null,
       "category": null,
