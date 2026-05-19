@@ -7,9 +7,79 @@
     "broadcaster_type": "partner",
     "description": "Président du FC Silmi",
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/3cdae7df-600c-4833-8dfe-8d2abc5a3b25-profile_image-300x300.png",
-    "offline_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/6648ea59-f725-484f-8d52-beb88d2256cd-channel_offline_image-1920x1080.png",
+    "offline_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/91c37367-d361-4546-8e1c-15dd184d722f-channel_offline_image-1920x1080.png",
     "view_count": 0,
     "created_at": "2013-02-05T19:20:22Z"
   },
-  "schedulers": []
+  "schedulers": [
+    {
+      "id": "eyJzZWdtZW50SUQiOiIzMTU5OTU3Ni1jMzJlLTQ1ZjctYjgyYi1hMTI2ZTM3ODk5OWIiLCJpc29ZZWFyIjoyMDI2LCJpc29XZWVrIjoyMX0=",
+      "start_time": "2026-05-19T18:00:00Z",
+      "end_time": "2026-05-19T20:30:00Z",
+      "title": "🍿 POPCORN AVEC MICHOU, COCOTTEE & LE BOUSEUH",
+      "canceled_until": null,
+      "category": {
+        "id": "417752",
+        "name": "Talk Shows & Podcasts"
+      },
+      "is_recurring": false
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiJhNTI2Y2YzNi00ZDQxLTQwOTUtYjg0OC1kZWI5MzQ4NTU3M2EiLCJpc29ZZWFyIjoyMDI2LCJpc29XZWVrIjoyMX0=",
+      "start_time": "2026-05-20T12:00:00Z",
+      "end_time": "2026-05-20T13:00:00Z",
+      "title": "🎙️ PRÉ-LIVE",
+      "canceled_until": null,
+      "category": {
+        "id": "509658",
+        "name": "Just Chatting"
+      },
+      "is_recurring": false
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiI1ZDhkY2JiZi0yMjM0LTRmZjctYjFjNS02MzAwOTJkYjI0MWEiLCJpc29ZZWFyIjoyMDI2LCJpc29XZWVrIjoyMX0=",
+      "start_time": "2026-05-20T13:00:00Z",
+      "end_time": "2026-05-20T15:00:00Z",
+      "title": "✈️ ON FAIT ATTERRIR DES AVIONS AVEC BAGZ",
+      "canceled_until": null,
+      "category": {
+        "id": "340275636",
+        "name": "Don't Panic! It Is Just Turbulence"
+      },
+      "is_recurring": false
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiIyZmU5NjhjMC05YmNkLTQ0MTAtYmY4My1jOGM3OGFlZWU1YzMiLCJpc29ZZWFyIjoyMDI2LCJpc29XZWVrIjoyMX0=",
+      "start_time": "2026-05-20T15:00:00Z",
+      "end_time": "2026-05-20T17:00:00Z",
+      "title": "STREAM LIBRE",
+      "canceled_until": null,
+      "category": null,
+      "is_recurring": false
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiJmYjljZmY0NS0zZWUxLTQ2MGYtODJmMS1mNzc4YmExNzZhY2IiLCJpc29ZZWFyIjoyMDI2LCJpc29XZWVrIjoyMX0=",
+      "start_time": "2026-05-23T10:00:00Z",
+      "end_time": "2026-05-23T11:30:00Z",
+      "title": "🃏 BOX BREAK SUR VOGGT EN LIVE DU PARIS CARD SHOW",
+      "canceled_until": null,
+      "category": {
+        "id": "509663",
+        "name": "Special Events"
+      },
+      "is_recurring": false
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiIwZDEyMWFlOC05M2I3LTQ4OTgtYmUyMy0yZWE2MmQ5YzQ5NGMiLCJpc29ZZWFyIjoyMDI2LCJpc29XZWVrIjoyMX0=",
+      "start_time": "2026-05-24T18:00:00Z",
+      "end_time": "2026-05-24T21:30:00Z",
+      "title": "⚽️ ELEVEN ALL STARS SUR LA CHAÎNE D'AMINE",
+      "canceled_until": null,
+      "category": {
+        "id": "1005037883",
+        "name": "Football"
+      },
+      "is_recurring": false
+    }
+  ]
 }
