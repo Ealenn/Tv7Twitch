@@ -13,18 +13,6 @@
   },
   "schedulers": [
     {
-      "id": "eyJzZWdtZW50SUQiOiIzMTU5OTU3Ni1jMzJlLTQ1ZjctYjgyYi1hMTI2ZTM3ODk5OWIiLCJpc29ZZWFyIjoyMDI2LCJpc29XZWVrIjoyMX0=",
-      "start_time": "2026-05-19T18:00:00Z",
-      "end_time": "2026-05-19T20:30:00Z",
-      "title": "🍿 POPCORN AVEC MICHOU, COCOTTEE & LE BOUSEUH",
-      "canceled_until": null,
-      "category": {
-        "id": "417752",
-        "name": "Talk Shows & Podcasts"
-      },
-      "is_recurring": false
-    },
-    {
       "id": "eyJzZWdtZW50SUQiOiJhNTI2Y2YzNi00ZDQxLTQwOTUtYjg0OC1kZWI5MzQ4NTU3M2EiLCJpc29ZZWFyIjoyMDI2LCJpc29XZWVrIjoyMX0=",
       "start_time": "2026-05-20T12:00:00Z",
       "end_time": "2026-05-20T13:00:00Z",
