@@ -13,18 +13,6 @@
   },
   "schedulers": [
     {
-      "id": "eyJzZWdtZW50SUQiOiJkNGU5ZGE3Yi1mMmU3LTQ2YTItYjAyMS1lODAwOTM5OWQ0MjciLCJpc29ZZWFyIjoyMDI2LCJpc29XZWVrIjoyMX0=",
-      "start_time": "2026-05-21T12:00:00Z",
-      "end_time": "2026-05-21T17:00:00Z",
-      "title": "YOSHI OMG",
-      "canceled_until": null,
-      "category": {
-        "id": "1031154138",
-        "name": "Yoshi and the Mysterious Book"
-      },
-      "is_recurring": false
-    },
-    {
       "id": "eyJzZWdtZW50SUQiOiJlOTgwYWYzYy00OTk3LTQwMjAtYTJhYS01NGJkNzUxOGJkMTMiLCJpc29ZZWFyIjoyMDI2LCJpc29XZWVrIjoyMX0=",
       "start_time": "2026-05-22T10:00:00Z",
       "end_time": "2026-05-22T16:00:00Z",
@@ -246,6 +234,18 @@
       "category": {
         "id": "338715930",
         "name": "Maitre des Fleurs"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiJkMWY5Yjc1Mi0wMTA0LTQ0YmEtYTkwZS0wZmJjN2RlOWQ1MTgiLCJpc29ZZWFyIjoyMDI2LCJpc29XZWVrIjozMH0=",
+      "start_time": "2026-07-21T10:00:00Z",
+      "end_time": "2026-07-21T14:00:00Z",
+      "title": "Lycans",
+      "canceled_until": null,
+      "category": {
+        "id": "1494074023",
+        "name": "Lycans"
       },
       "is_recurring": true
     }
