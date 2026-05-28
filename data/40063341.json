@@ -13,27 +13,6 @@
   },
   "schedulers": [
     {
-      "id": "eyJzZWdtZW50SUQiOiI4OWY0ZTJmOC04YzUyLTRhNTItODgwZi04ZWE0NGZiYTc4ZDUiLCJpc29ZZWFyIjoyMDI2LCJpc29XZWVrIjoyMn0=",
-      "start_time": "2026-05-27T12:00:00Z",
-      "end_time": "2026-05-27T13:00:00Z",
-      "title": "⚽️ DEBRIEF ELEVEN ALL STARS",
-      "canceled_until": null,
-      "category": {
-        "id": "509658",
-        "name": "Just Chatting"
-      },
-      "is_recurring": false
-    },
-    {
-      "id": "eyJzZWdtZW50SUQiOiI5Mjk2ZDljOC01MGE2LTQ3NDEtODE5NS0zYzE1NDAyNTE3ZTciLCJpc29ZZWFyIjoyMDI2LCJpc29XZWVrIjoyMn0=",
-      "start_time": "2026-05-27T13:00:00Z",
-      "end_time": "2026-05-27T17:00:00Z",
-      "title": "STREAM LIBRE",
-      "canceled_until": null,
-      "category": null,
-      "is_recurring": false
-    },
-    {
       "id": "eyJzZWdtZW50SUQiOiJiOWMzMmE2Ny1jYzYzLTRjYmMtOTM1MC1hOGI1M2M2N2JlMzAiLCJpc29ZZWFyIjoyMDI2LCJpc29XZWVrIjoyMn0=",
       "start_time": "2026-05-29T18:00:00Z",
       "end_time": "2026-05-29T20:30:00Z",
