@@ -13,66 +13,6 @@
   },
   "schedulers": [
     {
-      "id": "eyJzZWdtZW50SUQiOiIxMTUyYzkwNS1mMTVjLTQ4MzItYmEyYi0yZDZkNWU4MzEzMWQiLCJpc29ZZWFyIjoyMDI2LCJpc29XZWVrIjoyM30=",
-      "start_time": "2026-06-02T12:00:00Z",
-      "end_time": "2026-06-02T13:00:00Z",
-      "title": "PRÉ LIVE",
-      "canceled_until": null,
-      "category": {
-        "id": "509658",
-        "name": "Just Chatting"
-      },
-      "is_recurring": false
-    },
-    {
-      "id": "eyJzZWdtZW50SUQiOiIyNWY0Zjg3NS01ODZlLTRlZTQtYTg4ZS05YmRjYzA5MzE1MDMiLCJpc29ZZWFyIjoyMDI2LCJpc29XZWVrIjoyM30=",
-      "start_time": "2026-06-02T13:00:00Z",
-      "end_time": "2026-06-02T15:00:00Z",
-      "title": "ON TEST TEAMFIGHT MANAGER 2",
-      "canceled_until": null,
-      "category": {
-        "id": "528672376",
-        "name": "Teamfight Manager 2"
-      },
-      "is_recurring": false
-    },
-    {
-      "id": "eyJzZWdtZW50SUQiOiIxYTkxNDkzMy1lNmI3LTQ5MmMtOGJlYS02OTliMThhMzQ3ZTMiLCJpc29ZZWFyIjoyMDI2LCJpc29XZWVrIjoyM30=",
-      "start_time": "2026-06-02T15:00:00Z",
-      "end_time": "2026-06-02T17:00:00Z",
-      "title": "STREAM LIBRE",
-      "canceled_until": null,
-      "category": {
-        "id": "509658",
-        "name": "Just Chatting"
-      },
-      "is_recurring": false
-    },
-    {
-      "id": "eyJzZWdtZW50SUQiOiJmZDdlYTIwNS0zODM2LTRhMTctYjUzNS1jZTQ5ZDY2NDc1NzUiLCJpc29ZZWFyIjoyMDI2LCJpc29XZWVrIjoyM30=",
-      "start_time": "2026-06-03T17:30:00Z",
-      "end_time": "2026-06-03T18:30:00Z",
-      "title": "PRÉ LIVE",
-      "canceled_until": null,
-      "category": {
-        "id": "509658",
-        "name": "Just Chatting"
-      },
-      "is_recurring": false
-    },
-    {
-      "id": "eyJzZWdtZW50SUQiOiI1Yzk5Mjk1YS0yY2EwLTRkYTMtODVkYS0xZjEwNmE4MDE0ZjEiLCJpc29ZZWFyIjoyMDI2LCJpc29XZWVrIjoyM30=",
-      "start_time": "2026-06-03T18:30:00Z",
-      "end_time": "2026-06-03T23:00:00Z",
-      "title": "ON DÉCOUVRE PROJECT SILVERFISH",
-      "canceled_until": null,
-      "category": {
-        "id": "1548624818",
-        "name": "Project Silverfish"
-      },
-      "is_recurring": false
-    },
-    {
       "id": "eyJzZWdtZW50SUQiOiJlYTI5Yjg2ZS1hY2JmLTQ2ZDctYTNmYS05NjlmMzljMGJlNDciLCJpc29ZZWFyIjoyMDI2LCJpc29XZWVrIjoyM30=",
       "start_time": "2026-06-04T12:00:00Z",
       "end_time": "2026-06-04T13:00:00Z",
