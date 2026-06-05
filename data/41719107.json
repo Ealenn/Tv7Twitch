@@ -13,18 +13,6 @@
   },
   "schedulers": [
     {
-      "id": "eyJzZWdtZW50SUQiOiJkOWEyZGFkNC03NmJlLTRjODktYjJiMC1jNDdjMDk2ZjM1YjUiLCJpc29ZZWFyIjoyMDI2LCJpc29XZWVrIjoyM30=",
-      "start_time": "2026-06-04T17:00:00Z",
-      "end_time": "2026-06-04T20:30:00Z",
-      "title": "5 stacks Valorant (intiltable) avec un niveau abyssal",
-      "canceled_until": null,
-      "category": {
-        "id": "516575",
-        "name": "VALORANT"
-      },
-      "is_recurring": false
-    },
-    {
       "id": "eyJzZWdtZW50SUQiOiJlNWNiNTM4MS0zMWY3LTQwNmItOGYzZC1jNDkyMjBmZDkwZTEiLCJpc29ZZWFyIjoyMDI2LCJpc29XZWVrIjoyM30=",
       "start_time": "2026-06-06T12:00:00Z",
       "end_time": "2026-06-06T20:00:00Z",
