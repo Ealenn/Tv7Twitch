@@ -13,18 +13,6 @@
   },
   "schedulers": [
     {
-      "id": "eyJzZWdtZW50SUQiOiJlNWNiNTM4MS0zMWY3LTQwNmItOGYzZC1jNDkyMjBmZDkwZTEiLCJpc29ZZWFyIjoyMDI2LCJpc29XZWVrIjoyM30=",
-      "start_time": "2026-06-06T12:00:00Z",
-      "end_time": "2026-06-06T20:00:00Z",
-      "title": "[LAN HANGAR NON STREAM] Lan Anniversaire LoL + Valorant",
-      "canceled_until": null,
-      "category": {
-        "id": "12308397",
-        "name": "LAN Party"
-      },
-      "is_recurring": false
-    },
-    {
       "id": "eyJzZWdtZW50SUQiOiI0ZjY3Njk5MS1hMzBmLTRkOTItOTMwMi1kYWU4Y2JhZDAwYmIiLCJpc29ZZWFyIjoyMDI2LCJpc29XZWVrIjoyM30=",
       "start_time": "2026-06-07T18:00:00Z",
       "end_time": "2026-06-07T22:00:00Z",
