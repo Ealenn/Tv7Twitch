@@ -13,18 +13,6 @@
   },
   "schedulers": [
     {
-      "id": "eyJzZWdtZW50SUQiOiI1MzFjNjY0OC00YmQwLTRiMjAtYTdiMC05NDEyZGNjMThhYTciLCJpc29ZZWFyIjoyMDI2LCJpc29XZWVrIjoyNH0=",
-      "start_time": "2026-06-09T17:00:00Z",
-      "end_time": "2026-06-09T22:00:00Z",
-      "title": "Stream des trucs on verra",
-      "canceled_until": null,
-      "category": {
-        "id": "66082",
-        "name": "Games + Demos"
-      },
-      "is_recurring": false
-    },
-    {
       "id": "eyJzZWdtZW50SUQiOiIyZGE3ZjgyOS01OGI0LTQ4ZjYtYjgyZS0yYWI1ZWEwYzk4MjgiLCJpc29ZZWFyIjoyMDI2LCJpc29XZWVrIjoyNH0=",
       "start_time": "2026-06-10T14:00:00Z",
       "end_time": "2026-06-10T18:00:00Z",
