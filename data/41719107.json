@@ -13,18 +13,6 @@
   },
   "schedulers": [
     {
-      "id": "eyJzZWdtZW50SUQiOiIwYTQxOWU0Mi0yNTM4LTQ0MDYtYTEzZS0wZGU3Yzc5ODkzMzIiLCJpc29ZZWFyIjoyMDI2LCJpc29XZWVrIjoyNH0=",
-      "start_time": "2026-06-13T17:00:00Z",
-      "end_time": "2026-06-13T19:00:00Z",
-      "title": "MANDATORY WOW : MDI FINALS : Qualifications pour la Blizzcon J2",
-      "canceled_until": null,
-      "category": {
-        "id": "18122",
-        "name": "World of Warcraft"
-      },
-      "is_recurring": false
-    },
-    {
       "id": "eyJzZWdtZW50SUQiOiI1MDAwNmJmNi1mODI1LTQyYjEtYTY0OS00NTE3MjViYmFmZTciLCJpc29ZZWFyIjoyMDI2LCJpc29XZWVrIjoyNH0=",
       "start_time": "2026-06-14T17:00:00Z",
       "end_time": "2026-06-14T21:00:00Z",
