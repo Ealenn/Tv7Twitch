@@ -7,9 +7,130 @@
     "broadcaster_type": "partner",
     "description": "Président du FC Silmi",
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/3cdae7df-600c-4833-8dfe-8d2abc5a3b25-profile_image-300x300.png",
-    "offline_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/1cafb55b-202d-4de8-b5c0-30e4e10c55b1-channel_offline_image-1920x1080.png",
+    "offline_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/4693f77b-12ac-4002-a215-63cd8533aafc-channel_offline_image-1920x1080.png",
     "view_count": 0,
     "created_at": "2013-02-05T19:20:22Z"
   },
-  "schedulers": []
+  "schedulers": [
+    {
+      "id": "eyJzZWdtZW50SUQiOiJhYmMwOTdkNS0xMmY1LTRhZWQtYWE5Mi0zNTM3OTVjNDM1YzUiLCJpc29ZZWFyIjoyMDI2LCJpc29XZWVrIjoyNn0=",
+      "start_time": "2026-06-22T16:00:00Z",
+      "end_time": "2026-06-22T18:00:00Z",
+      "title": "PRÉ LIVE",
+      "canceled_until": null,
+      "category": {
+        "id": "509658",
+        "name": "Just Chatting"
+      },
+      "is_recurring": false
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiJlN2Q4MzI3YS05ZGIwLTQ3YTUtODYwOS0wZmViMGY3NmZkZWIiLCJpc29ZZWFyIjoyMDI2LCJpc29XZWVrIjoyNn0=",
+      "start_time": "2026-06-22T18:00:00Z",
+      "end_time": "2026-06-22T20:30:00Z",
+      "title": "CLUB PRO FT. MONDAYZ TEAM",
+      "canceled_until": null,
+      "category": {
+        "id": "624536948",
+        "name": "EA Sports FC 26"
+      },
+      "is_recurring": false
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiI2MzljYTNlNi0xN2UxLTQ0ZTEtYmNmMy1hY2U2NTQzZTNjZTQiLCJpc29ZZWFyIjoyMDI2LCJpc29XZWVrIjoyNn0=",
+      "start_time": "2026-06-23T17:30:00Z",
+      "end_time": "2026-06-23T18:00:00Z",
+      "title": "PRÉ LIVE",
+      "canceled_until": null,
+      "category": {
+        "id": "509658",
+        "name": "Just Chatting"
+      },
+      "is_recurring": false
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiIyOGJkY2FiMi03MzJkLTQ2MzctOGQyYS00MGU0MDk0ZjVlNGMiLCJpc29ZZWFyIjoyMDI2LCJpc29XZWVrIjoyNn0=",
+      "start_time": "2026-06-23T18:00:00Z",
+      "end_time": "2026-06-23T21:00:00Z",
+      "title": "TOURNOI DUOGUESSR FT. 24 STREAMERS",
+      "canceled_until": null,
+      "category": {
+        "id": "369418",
+        "name": "GeoGuessr"
+      },
+      "is_recurring": false
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiI0NjhiMjk2My1hNGRmLTRjNWEtYWViYi0yMzAwZmY3M2Y5N2MiLCJpc29ZZWFyIjoyMDI2LCJpc29XZWVrIjoyNn0=",
+      "start_time": "2026-06-24T12:00:00Z",
+      "end_time": "2026-06-24T13:00:00Z",
+      "title": "PRÉ LIVE",
+      "canceled_until": null,
+      "category": {
+        "id": "509658",
+        "name": "Just Chatting"
+      },
+      "is_recurring": false
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiJmMGJkYWJlMS03ZjQ3LTRkMzUtYTkwMy02YWMzMjllMGQwZTkiLCJpc29ZZWFyIjoyMDI2LCJpc29XZWVrIjoyNn0=",
+      "start_time": "2026-06-24T13:00:00Z",
+      "end_time": "2026-06-24T17:00:00Z",
+      "title": "DÉBUT DE L'AVENTURE SUR PCM",
+      "canceled_until": null,
+      "category": {
+        "id": "1818022966",
+        "name": "Pro Cycling Manager 26"
+      },
+      "is_recurring": false
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiJmYmEzNjgwMy03YzkyLTQ0MGUtYTU2My05YWQzYjhlODRiMjMiLCJpc29ZZWFyIjoyMDI2LCJpc29XZWVrIjoyNn0=",
+      "start_time": "2026-06-25T12:00:00Z",
+      "end_time": "2026-06-25T13:00:00Z",
+      "title": "PRÉ LIVE",
+      "canceled_until": null,
+      "category": {
+        "id": "509658",
+        "name": "Just Chatting"
+      },
+      "is_recurring": false
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiJmZTBhZjQ4Zi1iZTk0LTRjOWQtOGQ5MC02YjcyZjY4MjZhNDciLCJpc29ZZWFyIjoyMDI2LCJpc29XZWVrIjoyNn0=",
+      "start_time": "2026-06-25T13:00:00Z",
+      "end_time": "2026-06-25T17:00:00Z",
+      "title": "STREAM LIBRE",
+      "canceled_until": null,
+      "category": {
+        "id": "509658",
+        "name": "Just Chatting"
+      },
+      "is_recurring": false
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiI3NmM1YTdiZi1mODE2LTQxOWYtYTQwMC00OTkzYmFlNWU0ZTciLCJpc29ZZWFyIjoyMDI2LCJpc29XZWVrIjoyNn0=",
+      "start_time": "2026-06-26T12:00:00Z",
+      "end_time": "2026-06-26T13:00:00Z",
+      "title": "PRÉ LIVE",
+      "canceled_until": null,
+      "category": {
+        "id": "509658",
+        "name": "Just Chatting"
+      },
+      "is_recurring": false
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiI4OGM2OTEwZi0zYzY5LTQxNWQtOGRjMS0yOTBmYzMxNDlhMzgiLCJpc29ZZWFyIjoyMDI2LCJpc29XZWVrIjoyNn0=",
+      "start_time": "2026-06-26T13:00:00Z",
+      "end_time": "2026-06-26T17:00:00Z",
+      "title": "SUITE DE L'AVENTURE SUR PCM",
+      "canceled_until": null,
+      "category": {
+        "id": "1818022966",
+        "name": "Pro Cycling Manager 26"
+      },
+      "is_recurring": false
+    }
+  ]
 }
