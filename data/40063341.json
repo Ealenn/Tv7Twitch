@@ -13,30 +13,6 @@
   },
   "schedulers": [
     {
-      "id": "eyJzZWdtZW50SUQiOiJhYmMwOTdkNS0xMmY1LTRhZWQtYWE5Mi0zNTM3OTVjNDM1YzUiLCJpc29ZZWFyIjoyMDI2LCJpc29XZWVrIjoyNn0=",
-      "start_time": "2026-06-22T16:00:00Z",
-      "end_time": "2026-06-22T18:00:00Z",
-      "title": "PRÉ LIVE",
-      "canceled_until": null,
-      "category": {
-        "id": "509658",
-        "name": "Just Chatting"
-      },
-      "is_recurring": false
-    },
-    {
-      "id": "eyJzZWdtZW50SUQiOiJlN2Q4MzI3YS05ZGIwLTQ3YTUtODYwOS0wZmViMGY3NmZkZWIiLCJpc29ZZWFyIjoyMDI2LCJpc29XZWVrIjoyNn0=",
-      "start_time": "2026-06-22T18:00:00Z",
-      "end_time": "2026-06-22T20:30:00Z",
-      "title": "CLUB PRO FT. MONDAYZ TEAM",
-      "canceled_until": null,
-      "category": {
-        "id": "624536948",
-        "name": "EA Sports FC 26"
-      },
-      "is_recurring": false
-    },
-    {
       "id": "eyJzZWdtZW50SUQiOiI2MzljYTNlNi0xN2UxLTQ0ZTEtYmNmMy1hY2U2NTQzZTNjZTQiLCJpc29ZZWFyIjoyMDI2LCJpc29XZWVrIjoyNn0=",
       "start_time": "2026-06-23T17:30:00Z",
       "end_time": "2026-06-23T18:00:00Z",
