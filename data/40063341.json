@@ -13,30 +13,6 @@
   },
   "schedulers": [
     {
-      "id": "eyJzZWdtZW50SUQiOiI2MzljYTNlNi0xN2UxLTQ0ZTEtYmNmMy1hY2U2NTQzZTNjZTQiLCJpc29ZZWFyIjoyMDI2LCJpc29XZWVrIjoyNn0=",
-      "start_time": "2026-06-23T17:30:00Z",
-      "end_time": "2026-06-23T18:00:00Z",
-      "title": "PRÉ LIVE",
-      "canceled_until": null,
-      "category": {
-        "id": "509658",
-        "name": "Just Chatting"
-      },
-      "is_recurring": false
-    },
-    {
-      "id": "eyJzZWdtZW50SUQiOiIyOGJkY2FiMi03MzJkLTQ2MzctOGQyYS00MGU0MDk0ZjVlNGMiLCJpc29ZZWFyIjoyMDI2LCJpc29XZWVrIjoyNn0=",
-      "start_time": "2026-06-23T18:00:00Z",
-      "end_time": "2026-06-23T21:00:00Z",
-      "title": "TOURNOI DUOGUESSR FT. 24 STREAMERS",
-      "canceled_until": null,
-      "category": {
-        "id": "369418",
-        "name": "GeoGuessr"
-      },
-      "is_recurring": false
-    },
-    {
       "id": "eyJzZWdtZW50SUQiOiI0NjhiMjk2My1hNGRmLTRjNWEtYWViYi0yMzAwZmY3M2Y5N2MiLCJpc29ZZWFyIjoyMDI2LCJpc29XZWVrIjoyNn0=",
       "start_time": "2026-06-24T12:00:00Z",
       "end_time": "2026-06-24T13:00:00Z",

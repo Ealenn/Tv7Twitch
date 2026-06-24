@@ -13,33 +13,9 @@
   },
   "schedulers": [
     {
-      "id": "eyJzZWdtZW50SUQiOiIwZDJhZDZjMi1kYWM2LTQyZWEtOTI3ZC1kM2VhY2EwOWU5NTEiLCJpc29ZZWFyIjoyMDI2LCJpc29XZWVrIjoyNn0=",
-      "start_time": "2026-06-23T15:00:00Z",
-      "end_time": "2026-06-23T18:00:00Z",
-      "title": "MANDATORY Valorant vs QAD DEBUT DU EMEA SPLIT 3",
-      "canceled_until": null,
-      "category": {
-        "id": "516575",
-        "name": "VALORANT"
-      },
-      "is_recurring": false
-    },
-    {
-      "id": "eyJzZWdtZW50SUQiOiJiYjA4MzJhZi1kNmY0LTRkYzEtOTBlYS1lY2JmZGQ4OWE5N2EiLCJpc29ZZWFyIjoyMDI2LCJpc29XZWVrIjoyNn0=",
-      "start_time": "2026-06-23T18:00:00Z",
-      "end_time": "2026-06-23T21:00:00Z",
-      "title": "Jeu en co-op avec HyP",
-      "canceled_until": null,
-      "category": {
-        "id": "66082",
-        "name": "Games + Demos"
-      },
-      "is_recurring": false
-    },
-    {
       "id": "eyJzZWdtZW50SUQiOiIyOWQyZmZhYy1iMzU4LTRlMjEtODM2Ny0wYjMzNmIwMjUwZDQiLCJpc29ZZWFyIjoyMDI2LCJpc29XZWVrIjoyNn0=",
-      "start_time": "2026-06-24T19:00:00Z",
-      "end_time": "2026-06-24T23:00:00Z",
+      "start_time": "2026-06-24T17:00:00Z",
+      "end_time": "2026-06-24T21:00:00Z",
       "title": "Stream jeu",
       "canceled_until": null,
       "category": {
