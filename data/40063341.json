@@ -13,30 +13,6 @@
   },
   "schedulers": [
     {
-      "id": "eyJzZWdtZW50SUQiOiI0NjhiMjk2My1hNGRmLTRjNWEtYWViYi0yMzAwZmY3M2Y5N2MiLCJpc29ZZWFyIjoyMDI2LCJpc29XZWVrIjoyNn0=",
-      "start_time": "2026-06-24T12:00:00Z",
-      "end_time": "2026-06-24T13:00:00Z",
-      "title": "PRÉ LIVE",
-      "canceled_until": null,
-      "category": {
-        "id": "509658",
-        "name": "Just Chatting"
-      },
-      "is_recurring": false
-    },
-    {
-      "id": "eyJzZWdtZW50SUQiOiJmMGJkYWJlMS03ZjQ3LTRkMzUtYTkwMy02YWMzMjllMGQwZTkiLCJpc29ZZWFyIjoyMDI2LCJpc29XZWVrIjoyNn0=",
-      "start_time": "2026-06-24T13:00:00Z",
-      "end_time": "2026-06-24T17:00:00Z",
-      "title": "DÉBUT DE L'AVENTURE SUR PCM",
-      "canceled_until": null,
-      "category": {
-        "id": "1818022966",
-        "name": "Pro Cycling Manager 26"
-      },
-      "is_recurring": false
-    },
-    {
       "id": "eyJzZWdtZW50SUQiOiJmYmEzNjgwMy03YzkyLTQ0MGUtYTU2My05YWQzYjhlODRiMjMiLCJpc29ZZWFyIjoyMDI2LCJpc29XZWVrIjoyNn0=",
       "start_time": "2026-06-25T12:00:00Z",
       "end_time": "2026-06-25T13:00:00Z",
