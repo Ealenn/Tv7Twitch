@@ -13,21 +13,9 @@
   },
   "schedulers": [
     {
-      "id": "eyJzZWdtZW50SUQiOiIxY2JhOGIxNS00MzEwLTRiNGYtODc1MS1iMGZlOGExNDVhZDIiLCJpc29ZZWFyIjoyMDI2LCJpc29XZWVrIjoyN30=",
-      "start_time": "2026-06-29T11:00:00Z",
-      "end_time": "2026-06-29T15:00:00Z",
-      "title": "Le lundi c'est culture !",
-      "canceled_until": null,
-      "category": {
-        "id": "338715930",
-        "name": "Maitre des Fleurs"
-      },
-      "is_recurring": true
-    },
-    {
       "id": "eyJzZWdtZW50SUQiOiJkMWY5Yjc1Mi0wMTA0LTQ0YmEtYTkwZS0wZmJjN2RlOWQ1MTgiLCJpc29ZZWFyIjoyMDI2LCJpc29XZWVrIjoyN30=",
       "start_time": "2026-06-30T10:00:00Z",
-      "end_time": "2026-06-30T14:00:00Z",
+      "end_time": "2026-06-30T15:00:00Z",
       "title": "Lycans",
       "canceled_until": null,
       "category": {
@@ -37,10 +25,22 @@
       "is_recurring": true
     },
     {
+      "id": "eyJzZWdtZW50SUQiOiJlM2M5YTZjZC00YmU2LTRhM2QtYTNkNi00Njk3NWJmMTk2ODUiLCJpc29ZZWFyIjoyMDI2LCJpc29XZWVrIjoyN30=",
+      "start_time": "2026-06-30T15:00:00Z",
+      "end_time": "2026-06-30T17:00:00Z",
+      "title": "Dernière session avec Florence !",
+      "canceled_until": null,
+      "category": {
+        "id": "245330737",
+        "name": "Terrinoth: Heroes of Descent"
+      },
+      "is_recurring": false
+    },
+    {
       "id": "eyJzZWdtZW50SUQiOiJiNmEwYjRmOS1jNzgyLTQ3YTUtYjc4OC0xM2Y1YzU2YzAxN2YiLCJpc29ZZWFyIjoyMDI2LCJpc29XZWVrIjoyN30=",
       "start_time": "2026-07-01T10:00:00Z",
       "end_time": "2026-07-01T15:00:00Z",
-      "title": "Une fleur en Or",
+      "title": "Stream Libre",
       "canceled_until": null,
       "category": null,
       "is_recurring": true
@@ -49,7 +49,19 @@
       "id": "eyJzZWdtZW50SUQiOiJiZmExMzU3ZS1jMzAzLTQyNzktOThlYy1lOGRlMTViMGY2M2QiLCJpc29ZZWFyIjoyMDI2LCJpc29XZWVrIjoyN30=",
       "start_time": "2026-07-02T10:00:00Z",
       "end_time": "2026-07-02T15:00:00Z",
-      "title": "Stream libre",
+      "title": "ON SE CACHE (mal)",
+      "canceled_until": null,
+      "category": {
+        "id": "1820839024",
+        "name": "MECCHA CHAMELEON"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiIyOWQ3NjhlZC1iY2ZmLTRkOTQtODBmOC0wNDdhNGZhZGQ5MjQiLCJpc29ZZWFyIjoyMDI2LCJpc29XZWVrIjoyN30=",
+      "start_time": "2026-07-03T10:00:00Z",
+      "end_time": "2026-07-03T14:00:00Z",
+      "title": "Stream Libre",
       "canceled_until": null,
       "category": null,
       "is_recurring": true
@@ -69,7 +81,7 @@
     {
       "id": "eyJzZWdtZW50SUQiOiJkMWY5Yjc1Mi0wMTA0LTQ0YmEtYTkwZS0wZmJjN2RlOWQ1MTgiLCJpc29ZZWFyIjoyMDI2LCJpc29XZWVrIjoyOH0=",
       "start_time": "2026-07-07T10:00:00Z",
-      "end_time": "2026-07-07T14:00:00Z",
+      "end_time": "2026-07-07T15:00:00Z",
       "title": "Lycans",
       "canceled_until": null,
       "category": {
@@ -82,7 +94,7 @@
       "id": "eyJzZWdtZW50SUQiOiJiNmEwYjRmOS1jNzgyLTQ3YTUtYjc4OC0xM2Y1YzU2YzAxN2YiLCJpc29ZZWFyIjoyMDI2LCJpc29XZWVrIjoyOH0=",
       "start_time": "2026-07-08T10:00:00Z",
       "end_time": "2026-07-08T15:00:00Z",
-      "title": "Une fleur en Or",
+      "title": "Stream Libre",
       "canceled_until": null,
       "category": null,
       "is_recurring": true
@@ -91,7 +103,19 @@
       "id": "eyJzZWdtZW50SUQiOiJiZmExMzU3ZS1jMzAzLTQyNzktOThlYy1lOGRlMTViMGY2M2QiLCJpc29ZZWFyIjoyMDI2LCJpc29XZWVrIjoyOH0=",
       "start_time": "2026-07-09T10:00:00Z",
       "end_time": "2026-07-09T15:00:00Z",
-      "title": "Stream libre",
+      "title": "ON SE CACHE (mal)",
+      "canceled_until": null,
+      "category": {
+        "id": "1820839024",
+        "name": "MECCHA CHAMELEON"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiIyOWQ3NjhlZC1iY2ZmLTRkOTQtODBmOC0wNDdhNGZhZGQ5MjQiLCJpc29ZZWFyIjoyMDI2LCJpc29XZWVrIjoyOH0=",
+      "start_time": "2026-07-10T10:00:00Z",
+      "end_time": "2026-07-10T14:00:00Z",
+      "title": "Stream Libre",
       "canceled_until": null,
       "category": null,
       "is_recurring": true
@@ -111,7 +135,7 @@
     {
       "id": "eyJzZWdtZW50SUQiOiJkMWY5Yjc1Mi0wMTA0LTQ0YmEtYTkwZS0wZmJjN2RlOWQ1MTgiLCJpc29ZZWFyIjoyMDI2LCJpc29XZWVrIjoyOX0=",
       "start_time": "2026-07-14T10:00:00Z",
-      "end_time": "2026-07-14T14:00:00Z",
+      "end_time": "2026-07-14T15:00:00Z",
       "title": "Lycans",
       "canceled_until": null,
       "category": {
@@ -124,7 +148,7 @@
       "id": "eyJzZWdtZW50SUQiOiJiNmEwYjRmOS1jNzgyLTQ3YTUtYjc4OC0xM2Y1YzU2YzAxN2YiLCJpc29ZZWFyIjoyMDI2LCJpc29XZWVrIjoyOX0=",
       "start_time": "2026-07-15T10:00:00Z",
       "end_time": "2026-07-15T15:00:00Z",
-      "title": "Une fleur en Or",
+      "title": "Stream Libre",
       "canceled_until": null,
       "category": null,
       "is_recurring": true
@@ -133,7 +157,19 @@
       "id": "eyJzZWdtZW50SUQiOiJiZmExMzU3ZS1jMzAzLTQyNzktOThlYy1lOGRlMTViMGY2M2QiLCJpc29ZZWFyIjoyMDI2LCJpc29XZWVrIjoyOX0=",
       "start_time": "2026-07-16T10:00:00Z",
       "end_time": "2026-07-16T15:00:00Z",
-      "title": "Stream libre",
+      "title": "ON SE CACHE (mal)",
+      "canceled_until": null,
+      "category": {
+        "id": "1820839024",
+        "name": "MECCHA CHAMELEON"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiIyOWQ3NjhlZC1iY2ZmLTRkOTQtODBmOC0wNDdhNGZhZGQ5MjQiLCJpc29ZZWFyIjoyMDI2LCJpc29XZWVrIjoyOX0=",
+      "start_time": "2026-07-17T10:00:00Z",
+      "end_time": "2026-07-17T14:00:00Z",
+      "title": "Stream Libre",
       "canceled_until": null,
       "category": null,
       "is_recurring": true
@@ -153,7 +189,7 @@
     {
       "id": "eyJzZWdtZW50SUQiOiJkMWY5Yjc1Mi0wMTA0LTQ0YmEtYTkwZS0wZmJjN2RlOWQ1MTgiLCJpc29ZZWFyIjoyMDI2LCJpc29XZWVrIjozMH0=",
       "start_time": "2026-07-21T10:00:00Z",
-      "end_time": "2026-07-21T14:00:00Z",
+      "end_time": "2026-07-21T15:00:00Z",
       "title": "Lycans",
       "canceled_until": null,
       "category": {
@@ -166,7 +202,7 @@
       "id": "eyJzZWdtZW50SUQiOiJiNmEwYjRmOS1jNzgyLTQ3YTUtYjc4OC0xM2Y1YzU2YzAxN2YiLCJpc29ZZWFyIjoyMDI2LCJpc29XZWVrIjozMH0=",
       "start_time": "2026-07-22T10:00:00Z",
       "end_time": "2026-07-22T15:00:00Z",
-      "title": "Une fleur en Or",
+      "title": "Stream Libre",
       "canceled_until": null,
       "category": null,
       "is_recurring": true
@@ -175,49 +211,19 @@
       "id": "eyJzZWdtZW50SUQiOiJiZmExMzU3ZS1jMzAzLTQyNzktOThlYy1lOGRlMTViMGY2M2QiLCJpc29ZZWFyIjoyMDI2LCJpc29XZWVrIjozMH0=",
       "start_time": "2026-07-23T10:00:00Z",
       "end_time": "2026-07-23T15:00:00Z",
-      "title": "Stream libre",
-      "canceled_until": null,
-      "category": null,
-      "is_recurring": true
-    },
-    {
-      "id": "eyJzZWdtZW50SUQiOiIxY2JhOGIxNS00MzEwLTRiNGYtODc1MS1iMGZlOGExNDVhZDIiLCJpc29ZZWFyIjoyMDI2LCJpc29XZWVrIjozMX0=",
-      "start_time": "2026-07-27T11:00:00Z",
-      "end_time": "2026-07-27T15:00:00Z",
-      "title": "Le lundi c'est culture !",
+      "title": "ON SE CACHE (mal)",
       "canceled_until": null,
       "category": {
-        "id": "338715930",
-        "name": "Maitre des Fleurs"
+        "id": "1820839024",
+        "name": "MECCHA CHAMELEON"
       },
       "is_recurring": true
     },
     {
-      "id": "eyJzZWdtZW50SUQiOiJkMWY5Yjc1Mi0wMTA0LTQ0YmEtYTkwZS0wZmJjN2RlOWQ1MTgiLCJpc29ZZWFyIjoyMDI2LCJpc29XZWVrIjozMX0=",
-      "start_time": "2026-07-28T10:00:00Z",
-      "end_time": "2026-07-28T14:00:00Z",
-      "title": "Lycans",
-      "canceled_until": null,
-      "category": {
-        "id": "1494074023",
-        "name": "Lycans"
-      },
-      "is_recurring": true
-    },
-    {
-      "id": "eyJzZWdtZW50SUQiOiJiNmEwYjRmOS1jNzgyLTQ3YTUtYjc4OC0xM2Y1YzU2YzAxN2YiLCJpc29ZZWFyIjoyMDI2LCJpc29XZWVrIjozMX0=",
-      "start_time": "2026-07-29T10:00:00Z",
-      "end_time": "2026-07-29T15:00:00Z",
-      "title": "Une fleur en Or",
-      "canceled_until": null,
-      "category": null,
-      "is_recurring": true
-    },
-    {
-      "id": "eyJzZWdtZW50SUQiOiJiZmExMzU3ZS1jMzAzLTQyNzktOThlYy1lOGRlMTViMGY2M2QiLCJpc29ZZWFyIjoyMDI2LCJpc29XZWVrIjozMX0=",
-      "start_time": "2026-07-30T10:00:00Z",
-      "end_time": "2026-07-30T15:00:00Z",
-      "title": "Stream libre",
+      "id": "eyJzZWdtZW50SUQiOiIyOWQ3NjhlZC1iY2ZmLTRkOTQtODBmOC0wNDdhNGZhZGQ5MjQiLCJpc29ZZWFyIjoyMDI2LCJpc29XZWVrIjozMH0=",
+      "start_time": "2026-07-24T10:00:00Z",
+      "end_time": "2026-07-24T14:00:00Z",
+      "title": "Stream Libre",
       "canceled_until": null,
       "category": null,
       "is_recurring": true
