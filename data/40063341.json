@@ -13,42 +13,6 @@
   },
   "schedulers": [
     {
-      "id": "eyJzZWdtZW50SUQiOiIzMzk5M2RlZC1hZmI5LTQ3NWYtYWIyNi1kMGM0MjZkNTVmYjIiLCJpc29ZZWFyIjoyMDI2LCJpc29XZWVrIjoyN30=",
-      "start_time": "2026-06-30T12:00:00Z",
-      "end_time": "2026-06-30T13:00:00Z",
-      "title": "PRÉ LIVE",
-      "canceled_until": null,
-      "category": {
-        "id": "509658",
-        "name": "Just Chatting"
-      },
-      "is_recurring": false
-    },
-    {
-      "id": "eyJzZWdtZW50SUQiOiI4YTg4ZjUyNC0xYzYwLTQwMWQtYWQwYy1iMTM0NWY1Yzg3YzMiLCJpc29ZZWFyIjoyMDI2LCJpc29XZWVrIjoyN30=",
-      "start_time": "2026-06-30T13:00:00Z",
-      "end_time": "2026-06-30T15:00:00Z",
-      "title": "SUITE DE L'AVENTURE PCM",
-      "canceled_until": null,
-      "category": {
-        "id": "1818022966",
-        "name": "Pro Cycling Manager 26"
-      },
-      "is_recurring": false
-    },
-    {
-      "id": "eyJzZWdtZW50SUQiOiI2N2Q4NzhiNC02ZjZiLTQ1MGItYTM5NC01ZWM4OGQ0NjIxZjUiLCJpc29ZZWFyIjoyMDI2LCJpc29XZWVrIjoyN30=",
-      "start_time": "2026-06-30T15:00:00Z",
-      "end_time": "2026-06-30T17:00:00Z",
-      "title": "STREAM LIBRE",
-      "canceled_until": null,
-      "category": {
-        "id": "509658",
-        "name": "Just Chatting"
-      },
-      "is_recurring": false
-    },
-    {
       "id": "eyJzZWdtZW50SUQiOiI5MGJiMjYwYS04MDBmLTQ4NWItYWEwOS02MjczNWEyMDA2MzAiLCJpc29ZZWFyIjoyMDI2LCJpc29XZWVrIjoyN30=",
       "start_time": "2026-07-01T12:00:00Z",
       "end_time": "2026-07-01T13:00:00Z",
