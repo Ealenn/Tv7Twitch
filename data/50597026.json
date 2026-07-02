@@ -13,15 +13,6 @@
   },
   "schedulers": [
     {
-      "id": "eyJzZWdtZW50SUQiOiJiNmEwYjRmOS1jNzgyLTQ3YTUtYjc4OC0xM2Y1YzU2YzAxN2YiLCJpc29ZZWFyIjoyMDI2LCJpc29XZWVrIjoyN30=",
-      "start_time": "2026-07-01T10:00:00Z",
-      "end_time": "2026-07-01T15:00:00Z",
-      "title": "Stream Libre",
-      "canceled_until": null,
-      "category": null,
-      "is_recurring": true
-    },
-    {
       "id": "eyJzZWdtZW50SUQiOiJiZmExMzU3ZS1jMzAzLTQyNzktOThlYy1lOGRlMTViMGY2M2QiLCJpc29ZZWFyIjoyMDI2LCJpc29XZWVrIjoyN30=",
       "start_time": "2026-07-02T10:00:00Z",
       "end_time": "2026-07-02T15:00:00Z",
@@ -226,6 +217,15 @@
         "id": "1494074023",
         "name": "Lycans"
       },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiJiNmEwYjRmOS1jNzgyLTQ3YTUtYjc4OC0xM2Y1YzU2YzAxN2YiLCJpc29ZZWFyIjoyMDI2LCJpc29XZWVrIjozMX0=",
+      "start_time": "2026-07-29T10:00:00Z",
+      "end_time": "2026-07-29T15:00:00Z",
+      "title": "Stream Libre",
+      "canceled_until": null,
+      "category": null,
       "is_recurring": true
     }
   ]
