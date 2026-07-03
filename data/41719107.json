@@ -13,30 +13,6 @@
   },
   "schedulers": [
     {
-      "id": "eyJzZWdtZW50SUQiOiJiZjkzNjlmYi1hYzQ3LTQzMWYtYWRkZi1kODA5MThjM2Q0ZmMiLCJpc29ZZWFyIjoyMDI2LCJpc29XZWVrIjoyN30=",
-      "start_time": "2026-07-02T15:00:00Z",
-      "end_time": "2026-07-02T18:00:00Z",
-      "title": "5 stacks Valorant, je deviens joueur MDR ??????",
-      "canceled_until": null,
-      "category": {
-        "id": "516575",
-        "name": "VALORANT"
-      },
-      "is_recurring": false
-    },
-    {
-      "id": "eyJzZWdtZW50SUQiOiJkMzU1ZWVhNC1hNDQzLTQ3OGUtOWNhMC1lY2E4MDg5NjJlY2UiLCJpc29ZZWFyIjoyMDI2LCJpc29XZWVrIjoyN30=",
-      "start_time": "2026-07-02T18:00:00Z",
-      "end_time": "2026-07-02T22:00:00Z",
-      "title": "Soirée Cache cache avec des gens étranges mais exceptionnels",
-      "canceled_until": null,
-      "category": {
-        "id": "1820839024",
-        "name": "MECCHA CHAMELEON"
-      },
-      "is_recurring": false
-    },
-    {
       "id": "eyJzZWdtZW50SUQiOiIzNTdiODgxNy0zYTRlLTQ4MjMtYTVkOC00ZWVjNmQ3ZmFmZWYiLCJpc29ZZWFyIjoyMDI2LCJpc29XZWVrIjoyN30=",
       "start_time": "2026-07-03T18:30:00Z",
       "end_time": "2026-07-03T22:00:00Z",
@@ -45,6 +21,18 @@
       "category": {
         "id": "1820839024",
         "name": "MECCHA CHAMELEON"
+      },
+      "is_recurring": false
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiJjOWU1MTQ2My00ZjMwLTQ5ZjctOGRkNy05NzNjMjQ3YTUyZTAiLCJpc29ZZWFyIjoyMDI2LCJpc29XZWVrIjoyN30=",
+      "start_time": "2026-07-04T11:00:00Z",
+      "end_time": "2026-07-04T19:00:00Z",
+      "title": "[NON STREMÉ] LAN COUNTER STRIKE 2 AU HANGAR",
+      "canceled_until": null,
+      "category": {
+        "id": "32399",
+        "name": "Counter-Strike"
       },
       "is_recurring": false
     }
