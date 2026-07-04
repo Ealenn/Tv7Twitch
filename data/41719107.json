@@ -13,18 +13,6 @@
   },
   "schedulers": [
     {
-      "id": "eyJzZWdtZW50SUQiOiIzNTdiODgxNy0zYTRlLTQ4MjMtYTVkOC00ZWVjNmQ3ZmFmZWYiLCJpc29ZZWFyIjoyMDI2LCJpc29XZWVrIjoyN30=",
-      "start_time": "2026-07-03T18:30:00Z",
-      "end_time": "2026-07-03T22:00:00Z",
-      "title": "1ER TOURNOI CACHE CACHE Organisé par Wingo",
-      "canceled_until": null,
-      "category": {
-        "id": "1820839024",
-        "name": "MECCHA CHAMELEON"
-      },
-      "is_recurring": false
-    },
-    {
       "id": "eyJzZWdtZW50SUQiOiJjOWU1MTQ2My00ZjMwLTQ5ZjctOGRkNy05NzNjMjQ3YTUyZTAiLCJpc29ZZWFyIjoyMDI2LCJpc29XZWVrIjoyN30=",
       "start_time": "2026-07-04T11:00:00Z",
       "end_time": "2026-07-04T19:00:00Z",
