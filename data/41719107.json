@@ -13,14 +13,62 @@
   },
   "schedulers": [
     {
-      "id": "eyJzZWdtZW50SUQiOiJjOWU1MTQ2My00ZjMwLTQ5ZjctOGRkNy05NzNjMjQ3YTUyZTAiLCJpc29ZZWFyIjoyMDI2LCJpc29XZWVrIjoyN30=",
-      "start_time": "2026-07-04T11:00:00Z",
-      "end_time": "2026-07-04T19:00:00Z",
-      "title": "[NON STREMÉ] LAN COUNTER STRIKE 2 AU HANGAR",
+      "id": "eyJzZWdtZW50SUQiOiIzOWM3MGYzYi03MDczLTRiZDItODBmOC03NDgwM2VhN2VlOTQiLCJpc29ZZWFyIjoyMDI2LCJpc29XZWVrIjoyN30=",
+      "start_time": "2026-07-05T18:00:00Z",
+      "end_time": "2026-07-05T22:00:00Z",
+      "title": "Soirée FFA Age Of Empires IV JE SUIS NUL",
       "canceled_until": null,
       "category": {
-        "id": "32399",
-        "name": "Counter-Strike"
+        "id": "498482",
+        "name": "Age of Empires IV"
+      },
+      "is_recurring": false
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiJhNjE3YTEwNS0yMTRmLTRlODctYWNmOC00OTgxNzJmODE1ODMiLCJpc29ZZWFyIjoyMDI2LCJpc29XZWVrIjoyOH0=",
+      "start_time": "2026-07-06T18:30:00Z",
+      "end_time": "2026-07-06T22:00:00Z",
+      "title": "Soirée du lundi sur un jeu exceptionnel avec des gens incroyables",
+      "canceled_until": null,
+      "category": {
+        "id": "509658",
+        "name": "Just Chatting"
+      },
+      "is_recurring": false
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiIzMzk2MGM5MC02ZjEyLTRjMDYtOTY1Ni1mNGQ3YjBlYjI1ZGMiLCJpc29ZZWFyIjoyMDI2LCJpc29XZWVrIjoyOH0=",
+      "start_time": "2026-07-08T16:00:00Z",
+      "end_time": "2026-07-08T18:00:00Z",
+      "title": "SORTIE MONDIALE Assassin's Creed Black Flag Resynced",
+      "canceled_until": null,
+      "category": {
+        "id": "278441117",
+        "name": "Assassin's Creed Black Flag Resynced"
+      },
+      "is_recurring": false
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiIxYTUxOWNiNC1kOWJkLTQ1NzgtODgyZi1mN2U3N2Q0ZGMwN2QiLCJpc29ZZWFyIjoyMDI2LCJpc29XZWVrIjoyOH0=",
+      "start_time": "2026-07-10T16:00:00Z",
+      "end_time": "2026-07-10T21:00:00Z",
+      "title": "Nagacup compétition multigaming en duo avec HyP, jour 1",
+      "canceled_until": null,
+      "category": {
+        "id": "509663",
+        "name": "Special Events"
+      },
+      "is_recurring": false
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiJhNTY4OTFmOC04MWRkLTRlYjQtOWQ2YS04NThjNzA0MDAxMjUiLCJpc29ZZWFyIjoyMDI2LCJpc29XZWVrIjoyOH0=",
+      "start_time": "2026-07-11T11:30:00Z",
+      "end_time": "2026-07-11T17:30:00Z",
+      "title": "Nagacup compétition multigaming en duo avec HyP, jour 2",
+      "canceled_until": null,
+      "category": {
+        "id": "509663",
+        "name": "Special Events"
       },
       "is_recurring": false
     }
