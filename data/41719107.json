@@ -13,18 +13,6 @@
   },
   "schedulers": [
     {
-      "id": "eyJzZWdtZW50SUQiOiJhNjE3YTEwNS0yMTRmLTRlODctYWNmOC00OTgxNzJmODE1ODMiLCJpc29ZZWFyIjoyMDI2LCJpc29XZWVrIjoyOH0=",
-      "start_time": "2026-07-06T18:30:00Z",
-      "end_time": "2026-07-06T22:00:00Z",
-      "title": "Soirée du lundi sur un jeu exceptionnel avec des gens incroyables",
-      "canceled_until": null,
-      "category": {
-        "id": "509658",
-        "name": "Just Chatting"
-      },
-      "is_recurring": false
-    },
-    {
       "id": "eyJzZWdtZW50SUQiOiJmZDkwNTgyOC0wNjNlLTRlYmUtOTMwYy04OWE2YWZhZTRiZmIiLCJpc29ZZWFyIjoyMDI2LCJpc29XZWVrIjoyOH0=",
       "start_time": "2026-07-07T15:00:00Z",
       "end_time": "2026-07-07T18:00:00Z",
