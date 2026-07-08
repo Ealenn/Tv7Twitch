@@ -13,10 +13,10 @@
   },
   "schedulers": [
     {
-      "id": "eyJzZWdtZW50SUQiOiJmZDkwNTgyOC0wNjNlLTRlYmUtOTMwYy04OWE2YWZhZTRiZmIiLCJpc29ZZWFyIjoyMDI2LCJpc29XZWVrIjoyOH0=",
-      "start_time": "2026-07-07T15:00:00Z",
-      "end_time": "2026-07-07T18:00:00Z",
-      "title": "MANDATORY vs La Masia LAST CHANCE QUALIFIER",
+      "id": "eyJzZWdtZW50SUQiOiJlMzc2NTBjZi1jMzNhLTQ1NDQtOTJjZS0zZjZhZmY0N2Y1NjQiLCJpc29ZZWFyIjoyMDI2LCJpc29XZWVrIjoyOH0=",
+      "start_time": "2026-07-08T15:00:00Z",
+      "end_time": "2026-07-08T18:00:00Z",
+      "title": "MANDATORY vs SGE (LAST CHANCE QUALIFIER !)",
       "canceled_until": null,
       "category": {
         "id": "516575",
@@ -26,8 +26,8 @@
     },
     {
       "id": "eyJzZWdtZW50SUQiOiIzMzk2MGM5MC02ZjEyLTRjMDYtOTY1Ni1mNGQ3YjBlYjI1ZGMiLCJpc29ZZWFyIjoyMDI2LCJpc29XZWVrIjoyOH0=",
-      "start_time": "2026-07-08T16:00:00Z",
-      "end_time": "2026-07-08T18:00:00Z",
+      "start_time": "2026-07-08T18:00:00Z",
+      "end_time": "2026-07-08T20:00:00Z",
       "title": "SORTIE MONDIALE Assassin's Creed Black Flag Resynced",
       "canceled_until": null,
       "category": {
