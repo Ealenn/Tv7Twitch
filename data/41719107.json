@@ -13,18 +13,6 @@
   },
   "schedulers": [
     {
-      "id": "eyJzZWdtZW50SUQiOiJjZTg5ZmQzZi03YmJhLTQzNjYtYjlmOC0yMTUyNzE3ZDAyYjciLCJpc29ZZWFyIjoyMDI2LCJpc29XZWVrIjoyOH0=",
-      "start_time": "2026-07-10T17:00:00Z",
-      "end_time": "2026-07-10T20:00:00Z",
-      "title": "MANDATORY vs BAR, ON EST EN PLAYOFF (mais match éliminatoire quand même)",
-      "canceled_until": null,
-      "category": {
-        "id": "516575",
-        "name": "VALORANT"
-      },
-      "is_recurring": false
-    },
-    {
       "id": "eyJzZWdtZW50SUQiOiJiYzIxNzJmOS1jM2M3LTQ2N2QtOWM2MC1mOWM4NWRmOTg5N2IiLCJpc29ZZWFyIjoyMDI2LCJpc29XZWVrIjoyOH0=",
       "start_time": "2026-07-12T18:30:00Z",
       "end_time": "2026-07-12T22:30:00Z",
