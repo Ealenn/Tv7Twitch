@@ -13,42 +13,6 @@
   },
   "schedulers": [
     {
-      "id": "eyJzZWdtZW50SUQiOiIwOWFmODY5MC0xYjBlLTRiYWEtYmI3NS1kZDQzYTcxYzM1MDQiLCJpc29ZZWFyIjoyMDI2LCJpc29XZWVrIjozMH0=",
-      "start_time": "2026-07-21T17:00:00Z",
-      "end_time": "2026-07-21T18:00:00Z",
-      "title": "RE A TOUS on discute un peu avant la grosse semaine",
-      "canceled_until": null,
-      "category": {
-        "id": "509658",
-        "name": "Just Chatting"
-      },
-      "is_recurring": false
-    },
-    {
-      "id": "eyJzZWdtZW50SUQiOiI2N2JmNDIzMi1jMTIwLTQ2ZWQtOWI1ZC1hMTMwMGNlMzllN2QiLCJpc29ZZWFyIjoyMDI2LCJpc29XZWVrIjozMH0=",
-      "start_time": "2026-07-21T18:00:00Z",
-      "end_time": "2026-07-21T20:00:00Z",
-      "title": "Découverte Coop avec @Mynthos @Shisheyu et @Etoiles",
-      "canceled_until": null,
-      "category": {
-        "id": "1844320959",
-        "name": "The Mound: Omen of Cthulhu"
-      },
-      "is_recurring": false
-    },
-    {
-      "id": "eyJzZWdtZW50SUQiOiJiNjQzMDIzYi1kZmE2LTQ1ZGUtYWNhMy01MjQ5MjFlODI1YjUiLCJpc29ZZWFyIjoyMDI2LCJpc29XZWVrIjozMH0=",
-      "start_time": "2026-07-21T21:00:00Z",
-      "end_time": "2026-07-22T00:00:00Z",
-      "title": "Découverte Co op avec @HyP sur An Eggstremely Hard Game",
-      "canceled_until": null,
-      "category": {
-        "id": "722824008",
-        "name": "An Eggstremely Hard Game"
-      },
-      "is_recurring": false
-    },
-    {
       "id": "eyJzZWdtZW50SUQiOiI3NzJkOTc0ZC01NzI1LTQ1NjktODQ3Ni0xNTM1MDJiNWE5YTUiLCJpc29ZZWFyIjoyMDI2LCJpc29XZWVrIjozMH0=",
       "start_time": "2026-07-22T18:00:00Z",
       "end_time": "2026-07-22T21:00:00Z",
