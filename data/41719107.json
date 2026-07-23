@@ -13,14 +13,14 @@
   },
   "schedulers": [
     {
-      "id": "eyJzZWdtZW50SUQiOiI3NzJkOTc0ZC01NzI1LTQ1NjktODQ3Ni0xNTM1MDJiNWE5YTUiLCJpc29ZZWFyIjoyMDI2LCJpc29XZWVrIjozMH0=",
-      "start_time": "2026-07-22T18:00:00Z",
-      "end_time": "2026-07-22T21:00:00Z",
-      "title": "FightForSub PEAK avec 75 streamers ! 175 subs à gagner",
+      "id": "eyJzZWdtZW50SUQiOiI5MWIwNWVjNy02Zjg1LTQ5NTktOGRlNC1jNzVmNTJlMWNiMDkiLCJpc29ZZWFyIjoyMDI2LCJpc29XZWVrIjozMH0=",
+      "start_time": "2026-07-23T20:00:00Z",
+      "end_time": "2026-07-23T22:00:00Z",
+      "title": "Suite du jeu de l’oeuf avec HyP",
       "canceled_until": null,
       "category": {
-        "id": "1081998272",
-        "name": "PEAK"
+        "id": "722824008",
+        "name": "An Eggstremely Hard Game"
       },
       "is_recurring": false
     },
