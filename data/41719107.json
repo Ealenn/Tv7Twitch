@@ -13,18 +13,6 @@
   },
   "schedulers": [
     {
-      "id": "eyJzZWdtZW50SUQiOiI5MWIwNWVjNy02Zjg1LTQ5NTktOGRlNC1jNzVmNTJlMWNiMDkiLCJpc29ZZWFyIjoyMDI2LCJpc29XZWVrIjozMH0=",
-      "start_time": "2026-07-23T20:00:00Z",
-      "end_time": "2026-07-23T22:00:00Z",
-      "title": "Suite du jeu de l’oeuf avec HyP",
-      "canceled_until": null,
-      "category": {
-        "id": "722824008",
-        "name": "An Eggstremely Hard Game"
-      },
-      "is_recurring": false
-    },
-    {
       "id": "eyJzZWdtZW50SUQiOiI4MTA0Zjc0Mi04YmRmLTRjYzUtODBlMS1lMTI2MTlhYmJhNzIiLCJpc29ZZWFyIjoyMDI2LCJpc29XZWVrIjozMH0=",
       "start_time": "2026-07-26T17:00:00Z",
       "end_time": "2026-07-26T22:00:00Z",
