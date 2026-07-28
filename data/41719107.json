@@ -11,5 +11,42 @@
     "view_count": 0,
     "created_at": "2013-03-25T23:44:28Z"
   },
-  "schedulers": []
+  "schedulers": [
+    {
+      "id": "eyJzZWdtZW50SUQiOiJmZDVmOTI5YS0wMGIzLTRjNjEtYTliNS1kYmRlMjJmMDgyYjYiLCJpc29ZZWFyIjoyMDI2LCJpc29XZWVrIjozMX0=",
+      "start_time": "2026-07-29T16:00:00Z",
+      "end_time": "2026-07-29T18:00:00Z",
+      "title": "Découverte d'Elementis TD le jeu du copain Lege",
+      "canceled_until": null,
+      "category": {
+        "id": "519349",
+        "name": "Elementis"
+      },
+      "is_recurring": false
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiI4MDQyYTQ5Ni1mYzc5LTRlYjMtYmRlMC05MDRjNWVlYTFjMWQiLCJpc29ZZWFyIjoyMDI2LCJpc29XZWVrIjozMX0=",
+      "start_time": "2026-07-29T18:00:00Z",
+      "end_time": "2026-07-29T22:00:00Z",
+      "title": "Découverte de Corsair Cove en avant première !",
+      "canceled_until": null,
+      "category": {
+        "id": "596701144",
+        "name": "Corsair Cove"
+      },
+      "is_recurring": false
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiJkMjMzM2RhNS1hZTM0LTQzNmYtODlhYS04NDZkZGUxMmVhNjUiLCJpc29ZZWFyIjoyMDI2LCJpc29XZWVrIjozMX0=",
+      "start_time": "2026-08-01T12:00:00Z",
+      "end_time": "2026-08-01T18:00:00Z",
+      "title": "(Non stream) LAN HANGAR MULTIGAMING",
+      "canceled_until": null,
+      "category": {
+        "id": "12308397",
+        "name": "LAN Party"
+      },
+      "is_recurring": false
+    }
+  ]
 }
