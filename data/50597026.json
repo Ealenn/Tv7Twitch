@@ -13,18 +13,6 @@
   },
   "schedulers": [
     {
-      "id": "eyJzZWdtZW50SUQiOiJkMWY5Yjc1Mi0wMTA0LTQ0YmEtYTkwZS0wZmJjN2RlOWQ1MTgiLCJpc29ZZWFyIjoyMDI2LCJpc29XZWVrIjozMX0=",
-      "start_time": "2026-07-28T10:00:00Z",
-      "end_time": "2026-07-28T15:00:00Z",
-      "title": "Lycans",
-      "canceled_until": null,
-      "category": {
-        "id": "1494074023",
-        "name": "Lycans"
-      },
-      "is_recurring": true
-    },
-    {
       "id": "eyJzZWdtZW50SUQiOiJiNmEwYjRmOS1jNzgyLTQ3YTUtYjc4OC0xM2Y1YzU2YzAxN2YiLCJpc29ZZWFyIjoyMDI2LCJpc29XZWVrIjozMX0=",
       "start_time": "2026-07-29T10:00:00Z",
       "end_time": "2026-07-29T15:00:00Z",
@@ -225,6 +213,18 @@
       "category": {
         "id": "338715930",
         "name": "Maitre des Fleurs"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiJkMWY5Yjc1Mi0wMTA0LTQ0YmEtYTkwZS0wZmJjN2RlOWQ1MTgiLCJpc29ZZWFyIjoyMDI2LCJpc29XZWVrIjozNX0=",
+      "start_time": "2026-08-25T10:00:00Z",
+      "end_time": "2026-08-25T15:00:00Z",
+      "title": "Lycans",
+      "canceled_until": null,
+      "category": {
+        "id": "1494074023",
+        "name": "Lycans"
       },
       "is_recurring": true
     }
