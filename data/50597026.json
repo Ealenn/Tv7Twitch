@@ -13,15 +13,6 @@
   },
   "schedulers": [
     {
-      "id": "eyJzZWdtZW50SUQiOiI4MGE4OWYwMC1mYWE2LTQwNWUtOWVlYi05ZjIyMzUxN2IwNTMiLCJpc29ZZWFyIjoyMDI2LCJpc29XZWVrIjozMX0=",
-      "start_time": "2026-07-31T10:00:00Z",
-      "end_time": "2026-07-31T15:00:00Z",
-      "title": "Stream Libre",
-      "canceled_until": null,
-      "category": null,
-      "is_recurring": true
-    },
-    {
       "id": "eyJzZWdtZW50SUQiOiIxY2JhOGIxNS00MzEwLTRiNGYtODc1MS1iMGZlOGExNDVhZDIiLCJpc29ZZWFyIjoyMDI2LCJpc29XZWVrIjozMn0=",
       "start_time": "2026-08-03T11:00:00Z",
       "end_time": "2026-08-03T15:00:00Z",
@@ -224,6 +215,15 @@
       "start_time": "2026-08-27T10:00:00Z",
       "end_time": "2026-08-27T15:00:00Z",
       "title": "Stream libre",
+      "canceled_until": null,
+      "category": null,
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiI4MGE4OWYwMC1mYWE2LTQwNWUtOWVlYi05ZjIyMzUxN2IwNTMiLCJpc29ZZWFyIjoyMDI2LCJpc29XZWVrIjozNX0=",
+      "start_time": "2026-08-28T10:00:00Z",
+      "end_time": "2026-08-28T15:00:00Z",
+      "title": "Stream Libre",
       "canceled_until": null,
       "category": null,
       "is_recurring": true
