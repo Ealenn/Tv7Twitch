@@ -13,18 +13,6 @@
   },
   "schedulers": [
     {
-      "id": "eyJzZWdtZW50SUQiOiIxODkxN2RmMC00MWFmLTRmYjktOTA2NS1hZmM5OWE0MzFiN2IiLCJpc29ZZWFyIjoyMDI2LCJpc29XZWVrIjozMn0=",
-      "start_time": "2026-08-06T11:00:00Z",
-      "end_time": "2026-08-06T20:00:00Z",
-      "title": "U.S. Spacewalk 96",
-      "canceled_until": null,
-      "category": {
-        "id": "509670",
-        "name": "Science & Technology"
-      },
-      "is_recurring": false
-    },
-    {
       "id": "eyJzZWdtZW50SUQiOiIzNWRjOWZlZS1iZjI2LTQ2ZDAtOWVhMi0wYjJiNzg3OTg0YWMiLCJpc29ZZWFyIjoyMDI2LCJpc29XZWVrIjozM30=",
       "start_time": "2026-08-12T17:15:00Z",
       "end_time": "2026-08-12T18:45:00Z",
