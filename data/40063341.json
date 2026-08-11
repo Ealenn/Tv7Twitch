@@ -7,9 +7,88 @@
     "broadcaster_type": "partner",
     "description": "Président du FC Silmi",
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/3cdae7df-600c-4833-8dfe-8d2abc5a3b25-profile_image-300x300.png",
-    "offline_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/d129126e-1ca5-4d6e-8652-8735b2e80a4b-channel_offline_image-1920x1080.png",
+    "offline_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/f1065a12-27d7-4b82-9148-dafd5eff3f98-channel_offline_image-1920x1080.png",
     "view_count": 0,
     "created_at": "2013-02-05T19:20:22Z"
   },
-  "schedulers": []
+  "schedulers": [
+    {
+      "id": "eyJzZWdtZW50SUQiOiJjODJiOGRiNC04ZTA4LTRjMzctYmFhNS0xYWQyZjA4YmQzYTUiLCJpc29ZZWFyIjoyMDI2LCJpc29XZWVrIjozM30=",
+      "start_time": "2026-08-11T12:00:00Z",
+      "end_time": "2026-08-11T13:00:00Z",
+      "title": "🎙️ PRÉ-LIVE",
+      "canceled_until": null,
+      "category": {
+        "id": "509658",
+        "name": "Just Chatting"
+      },
+      "is_recurring": false
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiI1NWFlNGUzYy00NDU4LTQ1NTEtYWQxZC05YjhlMzU5MDMyNTMiLCJpc29ZZWFyIjoyMDI2LCJpc29XZWVrIjozM30=",
+      "start_time": "2026-08-11T13:00:00Z",
+      "end_time": "2026-08-11T14:30:00Z",
+      "title": "🏊 REACT DOCU LÉON MARCHAND",
+      "canceled_until": null,
+      "category": {
+        "id": "509658",
+        "name": "Just Chatting"
+      },
+      "is_recurring": false
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiJiYjQ0NWVlYi1iZjk1LTRlNWEtYTRkYy0wYTJhNDhlMDM4ZjUiLCJpc29ZZWFyIjoyMDI2LCJpc29XZWVrIjozM30=",
+      "start_time": "2026-08-11T14:30:00Z",
+      "end_time": "2026-08-11T17:00:00Z",
+      "title": "💰 LA RUINE NOUS GUETTE",
+      "canceled_until": null,
+      "category": {
+        "id": "399457773",
+        "name": "Bills Must Be Paid"
+      },
+      "is_recurring": false
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiJhNDc4ZjVmZS04MzE3LTQ4MjYtYTZhMi1jMGZlNjAxODY3YWQiLCJpc29ZZWFyIjoyMDI2LCJpc29XZWVrIjozM30=",
+      "start_time": "2026-08-12T10:00:00Z",
+      "end_time": "2026-08-12T12:00:00Z",
+      "title": "🃏 LIVE OPENING (SUR VOGGT)",
+      "canceled_until": null,
+      "category": null,
+      "is_recurring": false
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiJjMmY3NzNhZi1mNWM0LTQ3YTctYjEyMS01ZjQ3MzRjY2FmMDgiLCJpc29ZZWFyIjoyMDI2LCJpc29XZWVrIjozM30=",
+      "start_time": "2026-08-12T13:00:00Z",
+      "end_time": "2026-08-12T16:00:00Z",
+      "title": "STREAM LIBRE",
+      "canceled_until": null,
+      "category": null,
+      "is_recurring": false
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiI0OGNkOWY3MC1mN2JiLTQ3NmUtYTA0NS1lZjBjZDFjYjc1NjMiLCJpc29ZZWFyIjoyMDI2LCJpc29XZWVrIjozM30=",
+      "start_time": "2026-08-13T17:30:00Z",
+      "end_time": "2026-08-13T18:30:00Z",
+      "title": "🎙️ PRÉ-LIVE",
+      "canceled_until": null,
+      "category": {
+        "id": "509658",
+        "name": "Just Chatting"
+      },
+      "is_recurring": false
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiI2NTkzYmQxMy01NWFiLTQ0MmItYWI5NC05OTg0ZGM5MTgwMmUiLCJpc29ZZWFyIjoyMDI2LCJpc29XZWVrIjozM30=",
+      "start_time": "2026-08-13T18:30:00Z",
+      "end_time": "2026-08-13T22:00:00Z",
+      "title": "🧟‍♂️ SOUS MAGASIN DES HORREURS AVEC NOGODI ET LEILA",
+      "canceled_until": null,
+      "category": {
+        "id": "210472759",
+        "name": "Shift at Midnight"
+      },
+      "is_recurring": false
+    }
+  ]
 }
