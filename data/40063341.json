@@ -13,24 +13,6 @@
   },
   "schedulers": [
     {
-      "id": "eyJzZWdtZW50SUQiOiJhNDc4ZjVmZS04MzE3LTQ4MjYtYTZhMi1jMGZlNjAxODY3YWQiLCJpc29ZZWFyIjoyMDI2LCJpc29XZWVrIjozM30=",
-      "start_time": "2026-08-12T10:00:00Z",
-      "end_time": "2026-08-12T12:00:00Z",
-      "title": "🃏 LIVE OPENING (SUR VOGGT)",
-      "canceled_until": null,
-      "category": null,
-      "is_recurring": false
-    },
-    {
-      "id": "eyJzZWdtZW50SUQiOiJjMmY3NzNhZi1mNWM0LTQ3YTctYjEyMS01ZjQ3MzRjY2FmMDgiLCJpc29ZZWFyIjoyMDI2LCJpc29XZWVrIjozM30=",
-      "start_time": "2026-08-12T13:00:00Z",
-      "end_time": "2026-08-12T16:00:00Z",
-      "title": "STREAM LIBRE",
-      "canceled_until": null,
-      "category": null,
-      "is_recurring": false
-    },
-    {
       "id": "eyJzZWdtZW50SUQiOiI0OGNkOWY3MC1mN2JiLTQ3NmUtYTA0NS1lZjBjZDFjYjc1NjMiLCJpc29ZZWFyIjoyMDI2LCJpc29XZWVrIjozM30=",
       "start_time": "2026-08-13T17:30:00Z",
       "end_time": "2026-08-13T18:30:00Z",
