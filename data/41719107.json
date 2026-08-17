@@ -11,30 +11,5 @@
     "view_count": 0,
     "created_at": "2013-03-25T23:44:28Z"
   },
-  "schedulers": [
-    {
-      "id": "eyJzZWdtZW50SUQiOiIwNGE0NTcxNS0xMTNhLTRhMjQtOGQ2ZS1hMGY0NmFhMTQxYmYiLCJpc29ZZWFyIjoyMDI2LCJpc29XZWVrIjozM30=",
-      "start_time": "2026-08-16T10:00:00Z",
-      "end_time": "2026-08-16T18:00:00Z",
-      "title": "Lancement de ma chaine Twitch ZeratoR_247",
-      "canceled_until": null,
-      "category": {
-        "id": "499973",
-        "name": "Always On"
-      },
-      "is_recurring": false
-    },
-    {
-      "id": "eyJzZWdtZW50SUQiOiJjYzk0Y2RjZS0yZTI4LTRmOTAtYmFkYi1kZDZjZTZlYjE5ZTAiLCJpc29ZZWFyIjoyMDI2LCJpc29XZWVrIjozM30=",
-      "start_time": "2026-08-16T18:00:00Z",
-      "end_time": "2026-08-16T22:00:00Z",
-      "title": "Stream du dimanche soir",
-      "canceled_until": null,
-      "category": {
-        "id": "509658",
-        "name": "Just Chatting"
-      },
-      "is_recurring": false
-    }
-  ]
+  "schedulers": []
 }
