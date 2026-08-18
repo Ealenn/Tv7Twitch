@@ -13,18 +13,6 @@
   },
   "schedulers": [
     {
-      "id": "eyJzZWdtZW50SUQiOiIxY2JhOGIxNS00MzEwLTRiNGYtODc1MS1iMGZlOGExNDVhZDIiLCJpc29ZZWFyIjoyMDI2LCJpc29XZWVrIjozNH0=",
-      "start_time": "2026-08-17T11:00:00Z",
-      "end_time": "2026-08-17T15:00:00Z",
-      "title": "Le lundi c'est culture !",
-      "canceled_until": null,
-      "category": {
-        "id": "338715930",
-        "name": "Maitre des Fleurs"
-      },
-      "is_recurring": true
-    },
-    {
       "id": "eyJzZWdtZW50SUQiOiJkMWY5Yjc1Mi0wMTA0LTQ0YmEtYTkwZS0wZmJjN2RlOWQ1MTgiLCJpc29ZZWFyIjoyMDI2LCJpc29XZWVrIjozNH0=",
       "start_time": "2026-08-18T10:00:00Z",
       "end_time": "2026-08-18T15:00:00Z",
@@ -50,14 +38,11 @@
     },
     {
       "id": "eyJzZWdtZW50SUQiOiJiZmExMzU3ZS1jMzAzLTQyNzktOThlYy1lOGRlMTViMGY2M2QiLCJpc29ZZWFyIjoyMDI2LCJpc29XZWVrIjozNH0=",
-      "start_time": "2026-08-20T09:30:00Z",
-      "end_time": "2026-08-20T15:30:00Z",
-      "title": "Jeu marrant en duo avec WINGO",
+      "start_time": "2026-08-20T10:00:00Z",
+      "end_time": "2026-08-20T15:00:00Z",
+      "title": "STREAM LIBRE",
       "canceled_until": null,
-      "category": {
-        "id": "722824008",
-        "name": "An Eggstremely Hard Game"
-      },
+      "category": null,
       "is_recurring": true
     },
     {
@@ -98,14 +83,11 @@
     },
     {
       "id": "eyJzZWdtZW50SUQiOiJiZmExMzU3ZS1jMzAzLTQyNzktOThlYy1lOGRlMTViMGY2M2QiLCJpc29ZZWFyIjoyMDI2LCJpc29XZWVrIjozNX0=",
-      "start_time": "2026-08-27T09:30:00Z",
-      "end_time": "2026-08-27T15:30:00Z",
-      "title": "Jeu marrant en duo avec WINGO",
+      "start_time": "2026-08-27T10:00:00Z",
+      "end_time": "2026-08-27T15:00:00Z",
+      "title": "STREAM LIBRE",
       "canceled_until": null,
-      "category": {
-        "id": "722824008",
-        "name": "An Eggstremely Hard Game"
-      },
+      "category": null,
       "is_recurring": true
     },
     {
@@ -146,14 +128,11 @@
     },
     {
       "id": "eyJzZWdtZW50SUQiOiJiZmExMzU3ZS1jMzAzLTQyNzktOThlYy1lOGRlMTViMGY2M2QiLCJpc29ZZWFyIjoyMDI2LCJpc29XZWVrIjozNn0=",
-      "start_time": "2026-09-03T09:30:00Z",
-      "end_time": "2026-09-03T15:30:00Z",
-      "title": "Jeu marrant en duo avec WINGO",
+      "start_time": "2026-09-03T10:00:00Z",
+      "end_time": "2026-09-03T15:00:00Z",
+      "title": "STREAM LIBRE",
       "canceled_until": null,
-      "category": {
-        "id": "722824008",
-        "name": "An Eggstremely Hard Game"
-      },
+      "category": null,
       "is_recurring": true
     },
     {
@@ -194,14 +173,11 @@
     },
     {
       "id": "eyJzZWdtZW50SUQiOiJiZmExMzU3ZS1jMzAzLTQyNzktOThlYy1lOGRlMTViMGY2M2QiLCJpc29ZZWFyIjoyMDI2LCJpc29XZWVrIjozN30=",
-      "start_time": "2026-09-10T09:30:00Z",
-      "end_time": "2026-09-10T15:30:00Z",
-      "title": "Jeu marrant en duo avec WINGO",
+      "start_time": "2026-09-10T10:00:00Z",
+      "end_time": "2026-09-10T15:00:00Z",
+      "title": "STREAM LIBRE",
       "canceled_until": null,
-      "category": {
-        "id": "722824008",
-        "name": "An Eggstremely Hard Game"
-      },
+      "category": null,
       "is_recurring": true
     },
     {
@@ -242,13 +218,22 @@
     },
     {
       "id": "eyJzZWdtZW50SUQiOiJiZmExMzU3ZS1jMzAzLTQyNzktOThlYy1lOGRlMTViMGY2M2QiLCJpc29ZZWFyIjoyMDI2LCJpc29XZWVrIjozOH0=",
-      "start_time": "2026-09-17T09:30:00Z",
-      "end_time": "2026-09-17T15:30:00Z",
-      "title": "Jeu marrant en duo avec WINGO",
+      "start_time": "2026-09-17T10:00:00Z",
+      "end_time": "2026-09-17T15:00:00Z",
+      "title": "STREAM LIBRE",
+      "canceled_until": null,
+      "category": null,
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiIxY2JhOGIxNS00MzEwLTRiNGYtODc1MS1iMGZlOGExNDVhZDIiLCJpc29ZZWFyIjoyMDI2LCJpc29XZWVrIjozOX0=",
+      "start_time": "2026-09-21T11:00:00Z",
+      "end_time": "2026-09-21T15:00:00Z",
+      "title": "Le lundi c'est culture !",
       "canceled_until": null,
       "category": {
-        "id": "722824008",
-        "name": "An Eggstremely Hard Game"
+        "id": "338715930",
+        "name": "Maitre des Fleurs"
       },
       "is_recurring": true
     }
