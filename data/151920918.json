@@ -13,10 +13,10 @@
   },
   "schedulers": [
     {
-      "id": "eyJzZWdtZW50SUQiOiI5MTAwOTE1OC0wOGY5LTQ1MjMtOGUzYi01MDljN2UxYWM1OTciLCJpc29ZZWFyIjoyMDI2LCJpc29XZWVrIjozNX0=",
-      "start_time": "2026-08-25T11:00:00Z",
-      "end_time": "2026-08-25T20:00:00Z",
-      "title": "U.S. Spacewalk 98",
+      "id": "eyJzZWdtZW50SUQiOiIzMTIyMzBkNy02ZThkLTQ2ODEtOTQxZS0xMDFmNjNjZjcxNjQiLCJpc29ZZWFyIjoyMDI2LCJpc29XZWVrIjozNX0=",
+      "start_time": "2026-08-30T10:20:00Z",
+      "end_time": "2026-08-30T12:20:00Z",
+      "title": "Nancy Grace Roman Space Telescope Launch",
       "canceled_until": null,
       "category": {
         "id": "509670",
