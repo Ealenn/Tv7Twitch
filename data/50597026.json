@@ -37,25 +37,40 @@
       "is_recurring": true
     },
     {
-      "id": "eyJzZWdtZW50SUQiOiJiNmEwYjRmOS1jNzgyLTQ3YTUtYjc4OC0xM2Y1YzU2YzAxN2YiLCJpc29ZZWFyIjoyMDI2LCJpc29XZWVrIjozNn0=",
-      "start_time": "2026-09-02T10:00:00Z",
-      "end_time": "2026-09-02T15:00:00Z",
-      "title": "La grande aventure !",
+      "id": "eyJzZWdtZW50SUQiOiI1YTI0ZGFhNi0zZjY3LTRlYTgtYjkxYS05ZjBiM2M1NGM0NjAiLCJpc29ZZWFyIjoyMDI2LCJpc29XZWVrIjozNn0=",
+      "start_time": "2026-09-04T16:00:00Z",
+      "end_time": "2026-09-04T23:00:00Z",
+      "title": "ZEVENT JOUR 1",
       "canceled_until": null,
       "category": {
-        "id": "344035090",
-        "name": "Kingdom Come: Deliverance II"
+        "id": "509663",
+        "name": "Special Events"
       },
-      "is_recurring": true
+      "is_recurring": false
     },
     {
-      "id": "eyJzZWdtZW50SUQiOiJiZmExMzU3ZS1jMzAzLTQyNzktOThlYy1lOGRlMTViMGY2M2QiLCJpc29ZZWFyIjoyMDI2LCJpc29XZWVrIjozNn0=",
-      "start_time": "2026-09-03T10:00:00Z",
-      "end_time": "2026-09-03T15:00:00Z",
-      "title": "STREAM LIBRE",
+      "id": "eyJzZWdtZW50SUQiOiI4YWNmZTFiZi1mYzVlLTQ5NWUtYjVhMC03YjA1YjYyN2JiNTciLCJpc29ZZWFyIjoyMDI2LCJpc29XZWVrIjozNn0=",
+      "start_time": "2026-09-05T10:00:00Z",
+      "end_time": "2026-09-06T00:00:00Z",
+      "title": "ZEVENT JOUR 2",
       "canceled_until": null,
-      "category": null,
-      "is_recurring": true
+      "category": {
+        "id": "509663",
+        "name": "Special Events"
+      },
+      "is_recurring": false
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiJkYjgyMzY4NC01MDdlLTQ4YzYtOTc5MC00NDkxNTI5YmFjM2QiLCJpc29ZZWFyIjoyMDI2LCJpc29XZWVrIjozNn0=",
+      "start_time": "2026-09-06T10:00:00Z",
+      "end_time": "2026-09-06T23:00:00Z",
+      "title": "ZEVENT JOUR 3",
+      "canceled_until": null,
+      "category": {
+        "id": "509663",
+        "name": "Special Events"
+      },
+      "is_recurring": false
     },
     {
       "id": "eyJzZWdtZW50SUQiOiIxY2JhOGIxNS00MzEwLTRiNGYtODc1MS1iMGZlOGExNDVhZDIiLCJpc29ZZWFyIjoyMDI2LCJpc29XZWVrIjozN30=",
@@ -79,27 +94,6 @@
         "id": "1494074023",
         "name": "Lycans"
       },
-      "is_recurring": true
-    },
-    {
-      "id": "eyJzZWdtZW50SUQiOiJiNmEwYjRmOS1jNzgyLTQ3YTUtYjc4OC0xM2Y1YzU2YzAxN2YiLCJpc29ZZWFyIjoyMDI2LCJpc29XZWVrIjozN30=",
-      "start_time": "2026-09-09T10:00:00Z",
-      "end_time": "2026-09-09T15:00:00Z",
-      "title": "La grande aventure !",
-      "canceled_until": null,
-      "category": {
-        "id": "344035090",
-        "name": "Kingdom Come: Deliverance II"
-      },
-      "is_recurring": true
-    },
-    {
-      "id": "eyJzZWdtZW50SUQiOiJiZmExMzU3ZS1jMzAzLTQyNzktOThlYy1lOGRlMTViMGY2M2QiLCJpc29ZZWFyIjoyMDI2LCJpc29XZWVrIjozN30=",
-      "start_time": "2026-09-10T10:00:00Z",
-      "end_time": "2026-09-10T15:00:00Z",
-      "title": "STREAM LIBRE",
-      "canceled_until": null,
-      "category": null,
       "is_recurring": true
     },
     {
@@ -127,27 +121,6 @@
       "is_recurring": true
     },
     {
-      "id": "eyJzZWdtZW50SUQiOiJiNmEwYjRmOS1jNzgyLTQ3YTUtYjc4OC0xM2Y1YzU2YzAxN2YiLCJpc29ZZWFyIjoyMDI2LCJpc29XZWVrIjozOH0=",
-      "start_time": "2026-09-16T10:00:00Z",
-      "end_time": "2026-09-16T15:00:00Z",
-      "title": "La grande aventure !",
-      "canceled_until": null,
-      "category": {
-        "id": "344035090",
-        "name": "Kingdom Come: Deliverance II"
-      },
-      "is_recurring": true
-    },
-    {
-      "id": "eyJzZWdtZW50SUQiOiJiZmExMzU3ZS1jMzAzLTQyNzktOThlYy1lOGRlMTViMGY2M2QiLCJpc29ZZWFyIjoyMDI2LCJpc29XZWVrIjozOH0=",
-      "start_time": "2026-09-17T10:00:00Z",
-      "end_time": "2026-09-17T15:00:00Z",
-      "title": "STREAM LIBRE",
-      "canceled_until": null,
-      "category": null,
-      "is_recurring": true
-    },
-    {
       "id": "eyJzZWdtZW50SUQiOiIxY2JhOGIxNS00MzEwLTRiNGYtODc1MS1iMGZlOGExNDVhZDIiLCJpc29ZZWFyIjoyMDI2LCJpc29XZWVrIjozOX0=",
       "start_time": "2026-09-21T11:00:00Z",
       "end_time": "2026-09-21T15:00:00Z",
@@ -169,27 +142,6 @@
         "id": "1494074023",
         "name": "Lycans"
       },
-      "is_recurring": true
-    },
-    {
-      "id": "eyJzZWdtZW50SUQiOiJiNmEwYjRmOS1jNzgyLTQ3YTUtYjc4OC0xM2Y1YzU2YzAxN2YiLCJpc29ZZWFyIjoyMDI2LCJpc29XZWVrIjozOX0=",
-      "start_time": "2026-09-23T10:00:00Z",
-      "end_time": "2026-09-23T15:00:00Z",
-      "title": "La grande aventure !",
-      "canceled_until": null,
-      "category": {
-        "id": "344035090",
-        "name": "Kingdom Come: Deliverance II"
-      },
-      "is_recurring": true
-    },
-    {
-      "id": "eyJzZWdtZW50SUQiOiJiZmExMzU3ZS1jMzAzLTQyNzktOThlYy1lOGRlMTViMGY2M2QiLCJpc29ZZWFyIjoyMDI2LCJpc29XZWVrIjozOX0=",
-      "start_time": "2026-09-24T10:00:00Z",
-      "end_time": "2026-09-24T15:00:00Z",
-      "title": "STREAM LIBRE",
-      "canceled_until": null,
-      "category": null,
       "is_recurring": true
     },
     {
@@ -217,24 +169,87 @@
       "is_recurring": true
     },
     {
-      "id": "eyJzZWdtZW50SUQiOiJiNmEwYjRmOS1jNzgyLTQ3YTUtYjc4OC0xM2Y1YzU2YzAxN2YiLCJpc29ZZWFyIjoyMDI2LCJpc29XZWVrIjo0MH0=",
-      "start_time": "2026-09-30T10:00:00Z",
-      "end_time": "2026-09-30T15:00:00Z",
-      "title": "La grande aventure !",
+      "id": "eyJzZWdtZW50SUQiOiIxY2JhOGIxNS00MzEwLTRiNGYtODc1MS1iMGZlOGExNDVhZDIiLCJpc29ZZWFyIjoyMDI2LCJpc29XZWVrIjo0MX0=",
+      "start_time": "2026-10-05T11:00:00Z",
+      "end_time": "2026-10-05T15:00:00Z",
+      "title": "Le lundi c'est culture !",
       "canceled_until": null,
       "category": {
-        "id": "344035090",
-        "name": "Kingdom Come: Deliverance II"
+        "id": "338715930",
+        "name": "Maitre des Fleurs"
       },
       "is_recurring": true
     },
     {
-      "id": "eyJzZWdtZW50SUQiOiJiZmExMzU3ZS1jMzAzLTQyNzktOThlYy1lOGRlMTViMGY2M2QiLCJpc29ZZWFyIjoyMDI2LCJpc29XZWVrIjo0MH0=",
-      "start_time": "2026-10-01T10:00:00Z",
-      "end_time": "2026-10-01T15:00:00Z",
-      "title": "STREAM LIBRE",
+      "id": "eyJzZWdtZW50SUQiOiJkMWY5Yjc1Mi0wMTA0LTQ0YmEtYTkwZS0wZmJjN2RlOWQ1MTgiLCJpc29ZZWFyIjoyMDI2LCJpc29XZWVrIjo0MX0=",
+      "start_time": "2026-10-06T10:00:00Z",
+      "end_time": "2026-10-06T15:00:00Z",
+      "title": "Lycans",
       "canceled_until": null,
-      "category": null,
+      "category": {
+        "id": "1494074023",
+        "name": "Lycans"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiIxY2JhOGIxNS00MzEwLTRiNGYtODc1MS1iMGZlOGExNDVhZDIiLCJpc29ZZWFyIjoyMDI2LCJpc29XZWVrIjo0Mn0=",
+      "start_time": "2026-10-12T11:00:00Z",
+      "end_time": "2026-10-12T15:00:00Z",
+      "title": "Le lundi c'est culture !",
+      "canceled_until": null,
+      "category": {
+        "id": "338715930",
+        "name": "Maitre des Fleurs"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiJkMWY5Yjc1Mi0wMTA0LTQ0YmEtYTkwZS0wZmJjN2RlOWQ1MTgiLCJpc29ZZWFyIjoyMDI2LCJpc29XZWVrIjo0Mn0=",
+      "start_time": "2026-10-13T10:00:00Z",
+      "end_time": "2026-10-13T15:00:00Z",
+      "title": "Lycans",
+      "canceled_until": null,
+      "category": {
+        "id": "1494074023",
+        "name": "Lycans"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiIxY2JhOGIxNS00MzEwLTRiNGYtODc1MS1iMGZlOGExNDVhZDIiLCJpc29ZZWFyIjoyMDI2LCJpc29XZWVrIjo0M30=",
+      "start_time": "2026-10-19T11:00:00Z",
+      "end_time": "2026-10-19T15:00:00Z",
+      "title": "Le lundi c'est culture !",
+      "canceled_until": null,
+      "category": {
+        "id": "338715930",
+        "name": "Maitre des Fleurs"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiJkMWY5Yjc1Mi0wMTA0LTQ0YmEtYTkwZS0wZmJjN2RlOWQ1MTgiLCJpc29ZZWFyIjoyMDI2LCJpc29XZWVrIjo0M30=",
+      "start_time": "2026-10-20T10:00:00Z",
+      "end_time": "2026-10-20T15:00:00Z",
+      "title": "Lycans",
+      "canceled_until": null,
+      "category": {
+        "id": "1494074023",
+        "name": "Lycans"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiIxY2JhOGIxNS00MzEwLTRiNGYtODc1MS1iMGZlOGExNDVhZDIiLCJpc29ZZWFyIjoyMDI2LCJpc29XZWVrIjo0NH0=",
+      "start_time": "2026-10-26T12:00:00Z",
+      "end_time": "2026-10-26T16:00:00Z",
+      "title": "Le lundi c'est culture !",
+      "canceled_until": null,
+      "category": {
+        "id": "338715930",
+        "name": "Maitre des Fleurs"
+      },
       "is_recurring": true
     }
   ]
