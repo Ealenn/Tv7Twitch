@@ -7,9 +7,94 @@
     "broadcaster_type": "partner",
     "description": "Président du FC Silmi",
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/3cdae7df-600c-4833-8dfe-8d2abc5a3b25-profile_image-300x300.png",
-    "offline_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/0c9ca928-e2f2-4505-84c4-170d54d61012-channel_offline_image-1920x1080.png",
+    "offline_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/bdb4dc2d-6cea-4f68-9cd1-5ba4e548f54c-channel_offline_image-1920x1080.png",
     "view_count": 0,
     "created_at": "2013-02-05T19:20:22Z"
   },
-  "schedulers": []
+  "schedulers": [
+    {
+      "id": "eyJzZWdtZW50SUQiOiI5ZDMzMjgzMy03MDAzLTQ2ODAtYmExOC03NTg2YWNhMGIwYjUiLCJpc29ZZWFyIjoyMDI2LCJpc29XZWVrIjozNn0=",
+      "start_time": "2026-09-01T17:30:00Z",
+      "end_time": "2026-09-01T18:30:00Z",
+      "title": "PRÉ LIVE",
+      "canceled_until": null,
+      "category": {
+        "id": "509658",
+        "name": "Just Chatting"
+      },
+      "is_recurring": false
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiJjZjlhNDUxNy00MjZkLTRlYTMtOWVlMS1lNTYwZjA5MzM4ZWMiLCJpc29ZZWFyIjoyMDI2LCJpc29XZWVrIjozNn0=",
+      "start_time": "2026-09-01T18:30:00Z",
+      "end_time": "2026-09-01T22:00:00Z",
+      "title": "SOIREE ENQUÊTE SUR DESK HOMICIDE",
+      "canceled_until": null,
+      "category": {
+        "id": "509658",
+        "name": "Just Chatting"
+      },
+      "is_recurring": false
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiI2NzQ5NDBiYi04NGY3LTQxZjgtOGY3Yy04ODFjNzFkMjEyMTgiLCJpc29ZZWFyIjoyMDI2LCJpc29XZWVrIjozNn0=",
+      "start_time": "2026-09-02T12:00:00Z",
+      "end_time": "2026-09-02T13:00:00Z",
+      "title": "PRÉ LIVE",
+      "canceled_until": null,
+      "category": {
+        "id": "509658",
+        "name": "Just Chatting"
+      },
+      "is_recurring": false
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiI3MmMwMjUzNy0xOGExLTRiOWItODdkNC04MTA0MGE2ZjE2N2MiLCJpc29ZZWFyIjoyMDI2LCJpc29XZWVrIjozNn0=",
+      "start_time": "2026-09-02T13:00:00Z",
+      "end_time": "2026-09-02T17:00:00Z",
+      "title": "STREAM LIBRE",
+      "canceled_until": null,
+      "category": {
+        "id": "509658",
+        "name": "Just Chatting"
+      },
+      "is_recurring": false
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiI3NGUyMTJkZi01MDYwLTQ4ZDgtOWI3ZS1kNjI4ZTFhYTBhOWYiLCJpc29ZZWFyIjoyMDI2LCJpc29XZWVrIjozNn0=",
+      "start_time": "2026-09-04T16:00:00Z",
+      "end_time": "2026-09-04T22:00:00Z",
+      "title": "ZEVENT 2026",
+      "canceled_until": null,
+      "category": {
+        "id": "132735846",
+        "name": "ZEVENT"
+      },
+      "is_recurring": false
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiIxMDhhNWViMS0zNmM4LTQzNzMtYTMxMy00MmNjZjVlNWEyNzUiLCJpc29ZZWFyIjoyMDI2LCJpc29XZWVrIjozNn0=",
+      "start_time": "2026-09-04T22:00:00Z",
+      "end_time": "2026-09-05T21:00:00Z",
+      "title": "ZEVENT 2026",
+      "canceled_until": null,
+      "category": {
+        "id": "132735846",
+        "name": "ZEVENT"
+      },
+      "is_recurring": false
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiI1ZmFlODE5Yy0xODcwLTQ1ODAtYTYyZC0xODBiZTE2NWUyYWUiLCJpc29ZZWFyIjoyMDI2LCJpc29XZWVrIjozNn0=",
+      "start_time": "2026-09-05T22:00:00Z",
+      "end_time": "2026-09-06T21:00:00Z",
+      "title": "ZEVENT 2026",
+      "canceled_until": null,
+      "category": {
+        "id": "132735846",
+        "name": "ZEVENT"
+      },
+      "is_recurring": false
+    }
+  ]
 }
