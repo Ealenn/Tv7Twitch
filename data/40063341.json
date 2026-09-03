@@ -13,30 +13,6 @@
   },
   "schedulers": [
     {
-      "id": "eyJzZWdtZW50SUQiOiI2NzQ5NDBiYi04NGY3LTQxZjgtOGY3Yy04ODFjNzFkMjEyMTgiLCJpc29ZZWFyIjoyMDI2LCJpc29XZWVrIjozNn0=",
-      "start_time": "2026-09-02T12:00:00Z",
-      "end_time": "2026-09-02T13:00:00Z",
-      "title": "PRÉ LIVE",
-      "canceled_until": null,
-      "category": {
-        "id": "509658",
-        "name": "Just Chatting"
-      },
-      "is_recurring": false
-    },
-    {
-      "id": "eyJzZWdtZW50SUQiOiI3MmMwMjUzNy0xOGExLTRiOWItODdkNC04MTA0MGE2ZjE2N2MiLCJpc29ZZWFyIjoyMDI2LCJpc29XZWVrIjozNn0=",
-      "start_time": "2026-09-02T13:00:00Z",
-      "end_time": "2026-09-02T17:00:00Z",
-      "title": "STREAM LIBRE",
-      "canceled_until": null,
-      "category": {
-        "id": "509658",
-        "name": "Just Chatting"
-      },
-      "is_recurring": false
-    },
-    {
       "id": "eyJzZWdtZW50SUQiOiI3NGUyMTJkZi01MDYwLTQ4ZDgtOWI3ZS1kNjI4ZTFhYTBhOWYiLCJpc29ZZWFyIjoyMDI2LCJpc29XZWVrIjozNn0=",
       "start_time": "2026-09-04T16:00:00Z",
       "end_time": "2026-09-04T22:00:00Z",
