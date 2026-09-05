@@ -13,18 +13,6 @@
   },
   "schedulers": [
     {
-      "id": "eyJzZWdtZW50SUQiOiI3NGUyMTJkZi01MDYwLTQ4ZDgtOWI3ZS1kNjI4ZTFhYTBhOWYiLCJpc29ZZWFyIjoyMDI2LCJpc29XZWVrIjozNn0=",
-      "start_time": "2026-09-04T16:00:00Z",
-      "end_time": "2026-09-04T22:00:00Z",
-      "title": "ZEVENT 2026",
-      "canceled_until": null,
-      "category": {
-        "id": "132735846",
-        "name": "ZEVENT"
-      },
-      "is_recurring": false
-    },
-    {
       "id": "eyJzZWdtZW50SUQiOiIxMDhhNWViMS0zNmM4LTQzNzMtYTMxMy00MmNjZjVlNWEyNzUiLCJpc29ZZWFyIjoyMDI2LCJpc29XZWVrIjozNn0=",
       "start_time": "2026-09-04T22:00:00Z",
       "end_time": "2026-09-05T21:00:00Z",
