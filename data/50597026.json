@@ -13,18 +13,6 @@
   },
   "schedulers": [
     {
-      "id": "eyJzZWdtZW50SUQiOiIxY2JhOGIxNS00MzEwLTRiNGYtODc1MS1iMGZlOGExNDVhZDIiLCJpc29ZZWFyIjoyMDI2LCJpc29XZWVrIjozOH0=",
-      "start_time": "2026-09-14T11:00:00Z",
-      "end_time": "2026-09-14T15:00:00Z",
-      "title": "Le lundi c'est culture !",
-      "canceled_until": null,
-      "category": {
-        "id": "338715930",
-        "name": "Maitre des Fleurs"
-      },
-      "is_recurring": true
-    },
-    {
       "id": "eyJzZWdtZW50SUQiOiJkMWY5Yjc1Mi0wMTA0LTQ0YmEtYTkwZS0wZmJjN2RlOWQ1MTgiLCJpc29ZZWFyIjoyMDI2LCJpc29XZWVrIjozOH0=",
       "start_time": "2026-09-15T10:00:00Z",
       "end_time": "2026-09-15T15:00:00Z",
@@ -34,6 +22,36 @@
         "id": "1494074023",
         "name": "Lycans"
       },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiJlMTNlY2M4Mi0zMzA1LTQyMGItOTIyNy03NzA2M2IzNGFkZjEiLCJpc29ZZWFyIjoyMDI2LCJpc29XZWVrIjozOH0=",
+      "start_time": "2026-09-16T10:00:00Z",
+      "end_time": "2026-09-16T15:00:00Z",
+      "title": "Suite du Slowrun",
+      "canceled_until": null,
+      "category": {
+        "id": "344035090",
+        "name": "Kingdom Come: Deliverance II"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiJjMjg2MTM2ZC05MGU2LTQ5MTYtODVmYy03NDI5YWI1NTk2MjciLCJpc29ZZWFyIjoyMDI2LCJpc29XZWVrIjozOH0=",
+      "start_time": "2026-09-17T10:00:00Z",
+      "end_time": "2026-09-17T15:00:00Z",
+      "title": "Stream Libre",
+      "canceled_until": null,
+      "category": null,
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiJjODZmZjIxNC0xYmQ3LTRkNGEtYTYzNS1iZjI0NDc4NWJiMDQiLCJpc29ZZWFyIjoyMDI2LCJpc29XZWVrIjozOH0=",
+      "start_time": "2026-09-18T10:00:00Z",
+      "end_time": "2026-09-18T15:00:00Z",
+      "title": "Stream Libre",
+      "canceled_until": null,
+      "category": null,
       "is_recurring": true
     },
     {
@@ -61,6 +79,36 @@
       "is_recurring": true
     },
     {
+      "id": "eyJzZWdtZW50SUQiOiJlMTNlY2M4Mi0zMzA1LTQyMGItOTIyNy03NzA2M2IzNGFkZjEiLCJpc29ZZWFyIjoyMDI2LCJpc29XZWVrIjozOX0=",
+      "start_time": "2026-09-23T10:00:00Z",
+      "end_time": "2026-09-23T15:00:00Z",
+      "title": "Suite du Slowrun",
+      "canceled_until": null,
+      "category": {
+        "id": "344035090",
+        "name": "Kingdom Come: Deliverance II"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiJjMjg2MTM2ZC05MGU2LTQ5MTYtODVmYy03NDI5YWI1NTk2MjciLCJpc29ZZWFyIjoyMDI2LCJpc29XZWVrIjozOX0=",
+      "start_time": "2026-09-24T10:00:00Z",
+      "end_time": "2026-09-24T15:00:00Z",
+      "title": "Stream Libre",
+      "canceled_until": null,
+      "category": null,
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiJjODZmZjIxNC0xYmQ3LTRkNGEtYTYzNS1iZjI0NDc4NWJiMDQiLCJpc29ZZWFyIjoyMDI2LCJpc29XZWVrIjozOX0=",
+      "start_time": "2026-09-25T10:00:00Z",
+      "end_time": "2026-09-25T15:00:00Z",
+      "title": "Stream Libre",
+      "canceled_until": null,
+      "category": null,
+      "is_recurring": true
+    },
+    {
       "id": "eyJzZWdtZW50SUQiOiIxY2JhOGIxNS00MzEwLTRiNGYtODc1MS1iMGZlOGExNDVhZDIiLCJpc29ZZWFyIjoyMDI2LCJpc29XZWVrIjo0MH0=",
       "start_time": "2026-09-28T11:00:00Z",
       "end_time": "2026-09-28T15:00:00Z",
@@ -82,6 +130,36 @@
         "id": "1494074023",
         "name": "Lycans"
       },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiJlMTNlY2M4Mi0zMzA1LTQyMGItOTIyNy03NzA2M2IzNGFkZjEiLCJpc29ZZWFyIjoyMDI2LCJpc29XZWVrIjo0MH0=",
+      "start_time": "2026-09-30T10:00:00Z",
+      "end_time": "2026-09-30T15:00:00Z",
+      "title": "Suite du Slowrun",
+      "canceled_until": null,
+      "category": {
+        "id": "344035090",
+        "name": "Kingdom Come: Deliverance II"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiJjMjg2MTM2ZC05MGU2LTQ5MTYtODVmYy03NDI5YWI1NTk2MjciLCJpc29ZZWFyIjoyMDI2LCJpc29XZWVrIjo0MH0=",
+      "start_time": "2026-10-01T10:00:00Z",
+      "end_time": "2026-10-01T15:00:00Z",
+      "title": "Stream Libre",
+      "canceled_until": null,
+      "category": null,
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiJjODZmZjIxNC0xYmQ3LTRkNGEtYTYzNS1iZjI0NDc4NWJiMDQiLCJpc29ZZWFyIjoyMDI2LCJpc29XZWVrIjo0MH0=",
+      "start_time": "2026-10-02T10:00:00Z",
+      "end_time": "2026-10-02T15:00:00Z",
+      "title": "Stream Libre",
+      "canceled_until": null,
+      "category": null,
       "is_recurring": true
     },
     {
@@ -109,6 +187,36 @@
       "is_recurring": true
     },
     {
+      "id": "eyJzZWdtZW50SUQiOiJlMTNlY2M4Mi0zMzA1LTQyMGItOTIyNy03NzA2M2IzNGFkZjEiLCJpc29ZZWFyIjoyMDI2LCJpc29XZWVrIjo0MX0=",
+      "start_time": "2026-10-07T10:00:00Z",
+      "end_time": "2026-10-07T15:00:00Z",
+      "title": "Suite du Slowrun",
+      "canceled_until": null,
+      "category": {
+        "id": "344035090",
+        "name": "Kingdom Come: Deliverance II"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiJjMjg2MTM2ZC05MGU2LTQ5MTYtODVmYy03NDI5YWI1NTk2MjciLCJpc29ZZWFyIjoyMDI2LCJpc29XZWVrIjo0MX0=",
+      "start_time": "2026-10-08T10:00:00Z",
+      "end_time": "2026-10-08T15:00:00Z",
+      "title": "Stream Libre",
+      "canceled_until": null,
+      "category": null,
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiJjODZmZjIxNC0xYmQ3LTRkNGEtYTYzNS1iZjI0NDc4NWJiMDQiLCJpc29ZZWFyIjoyMDI2LCJpc29XZWVrIjo0MX0=",
+      "start_time": "2026-10-09T10:00:00Z",
+      "end_time": "2026-10-09T15:00:00Z",
+      "title": "Stream Libre",
+      "canceled_until": null,
+      "category": null,
+      "is_recurring": true
+    },
+    {
       "id": "eyJzZWdtZW50SUQiOiIxY2JhOGIxNS00MzEwLTRiNGYtODc1MS1iMGZlOGExNDVhZDIiLCJpc29ZZWFyIjoyMDI2LCJpc29XZWVrIjo0Mn0=",
       "start_time": "2026-10-12T11:00:00Z",
       "end_time": "2026-10-12T15:00:00Z",
@@ -117,138 +225,6 @@
       "category": {
         "id": "338715930",
         "name": "Maitre des Fleurs"
-      },
-      "is_recurring": true
-    },
-    {
-      "id": "eyJzZWdtZW50SUQiOiJkMWY5Yjc1Mi0wMTA0LTQ0YmEtYTkwZS0wZmJjN2RlOWQ1MTgiLCJpc29ZZWFyIjoyMDI2LCJpc29XZWVrIjo0Mn0=",
-      "start_time": "2026-10-13T10:00:00Z",
-      "end_time": "2026-10-13T15:00:00Z",
-      "title": "Lycans",
-      "canceled_until": null,
-      "category": {
-        "id": "1494074023",
-        "name": "Lycans"
-      },
-      "is_recurring": true
-    },
-    {
-      "id": "eyJzZWdtZW50SUQiOiIxY2JhOGIxNS00MzEwLTRiNGYtODc1MS1iMGZlOGExNDVhZDIiLCJpc29ZZWFyIjoyMDI2LCJpc29XZWVrIjo0M30=",
-      "start_time": "2026-10-19T11:00:00Z",
-      "end_time": "2026-10-19T15:00:00Z",
-      "title": "Le lundi c'est culture !",
-      "canceled_until": null,
-      "category": {
-        "id": "338715930",
-        "name": "Maitre des Fleurs"
-      },
-      "is_recurring": true
-    },
-    {
-      "id": "eyJzZWdtZW50SUQiOiJkMWY5Yjc1Mi0wMTA0LTQ0YmEtYTkwZS0wZmJjN2RlOWQ1MTgiLCJpc29ZZWFyIjoyMDI2LCJpc29XZWVrIjo0M30=",
-      "start_time": "2026-10-20T10:00:00Z",
-      "end_time": "2026-10-20T15:00:00Z",
-      "title": "Lycans",
-      "canceled_until": null,
-      "category": {
-        "id": "1494074023",
-        "name": "Lycans"
-      },
-      "is_recurring": true
-    },
-    {
-      "id": "eyJzZWdtZW50SUQiOiIxY2JhOGIxNS00MzEwLTRiNGYtODc1MS1iMGZlOGExNDVhZDIiLCJpc29ZZWFyIjoyMDI2LCJpc29XZWVrIjo0NH0=",
-      "start_time": "2026-10-26T12:00:00Z",
-      "end_time": "2026-10-26T16:00:00Z",
-      "title": "Le lundi c'est culture !",
-      "canceled_until": null,
-      "category": {
-        "id": "338715930",
-        "name": "Maitre des Fleurs"
-      },
-      "is_recurring": true
-    },
-    {
-      "id": "eyJzZWdtZW50SUQiOiJkMWY5Yjc1Mi0wMTA0LTQ0YmEtYTkwZS0wZmJjN2RlOWQ1MTgiLCJpc29ZZWFyIjoyMDI2LCJpc29XZWVrIjo0NH0=",
-      "start_time": "2026-10-27T11:00:00Z",
-      "end_time": "2026-10-27T16:00:00Z",
-      "title": "Lycans",
-      "canceled_until": null,
-      "category": {
-        "id": "1494074023",
-        "name": "Lycans"
-      },
-      "is_recurring": true
-    },
-    {
-      "id": "eyJzZWdtZW50SUQiOiIxY2JhOGIxNS00MzEwLTRiNGYtODc1MS1iMGZlOGExNDVhZDIiLCJpc29ZZWFyIjoyMDI2LCJpc29XZWVrIjo0NX0=",
-      "start_time": "2026-11-02T12:00:00Z",
-      "end_time": "2026-11-02T16:00:00Z",
-      "title": "Le lundi c'est culture !",
-      "canceled_until": null,
-      "category": {
-        "id": "338715930",
-        "name": "Maitre des Fleurs"
-      },
-      "is_recurring": true
-    },
-    {
-      "id": "eyJzZWdtZW50SUQiOiJkMWY5Yjc1Mi0wMTA0LTQ0YmEtYTkwZS0wZmJjN2RlOWQ1MTgiLCJpc29ZZWFyIjoyMDI2LCJpc29XZWVrIjo0NX0=",
-      "start_time": "2026-11-03T11:00:00Z",
-      "end_time": "2026-11-03T16:00:00Z",
-      "title": "Lycans",
-      "canceled_until": null,
-      "category": {
-        "id": "1494074023",
-        "name": "Lycans"
-      },
-      "is_recurring": true
-    },
-    {
-      "id": "eyJzZWdtZW50SUQiOiIxY2JhOGIxNS00MzEwLTRiNGYtODc1MS1iMGZlOGExNDVhZDIiLCJpc29ZZWFyIjoyMDI2LCJpc29XZWVrIjo0Nn0=",
-      "start_time": "2026-11-09T12:00:00Z",
-      "end_time": "2026-11-09T16:00:00Z",
-      "title": "Le lundi c'est culture !",
-      "canceled_until": null,
-      "category": {
-        "id": "338715930",
-        "name": "Maitre des Fleurs"
-      },
-      "is_recurring": true
-    },
-    {
-      "id": "eyJzZWdtZW50SUQiOiJkMWY5Yjc1Mi0wMTA0LTQ0YmEtYTkwZS0wZmJjN2RlOWQ1MTgiLCJpc29ZZWFyIjoyMDI2LCJpc29XZWVrIjo0Nn0=",
-      "start_time": "2026-11-10T11:00:00Z",
-      "end_time": "2026-11-10T16:00:00Z",
-      "title": "Lycans",
-      "canceled_until": null,
-      "category": {
-        "id": "1494074023",
-        "name": "Lycans"
-      },
-      "is_recurring": true
-    },
-    {
-      "id": "eyJzZWdtZW50SUQiOiIxY2JhOGIxNS00MzEwLTRiNGYtODc1MS1iMGZlOGExNDVhZDIiLCJpc29ZZWFyIjoyMDI2LCJpc29XZWVrIjo0N30=",
-      "start_time": "2026-11-16T12:00:00Z",
-      "end_time": "2026-11-16T16:00:00Z",
-      "title": "Le lundi c'est culture !",
-      "canceled_until": null,
-      "category": {
-        "id": "338715930",
-        "name": "Maitre des Fleurs"
-      },
-      "is_recurring": true
-    },
-    {
-      "id": "eyJzZWdtZW50SUQiOiJkMWY5Yjc1Mi0wMTA0LTQ0YmEtYTkwZS0wZmJjN2RlOWQ1MTgiLCJpc29ZZWFyIjoyMDI2LCJpc29XZWVrIjo0N30=",
-      "start_time": "2026-11-17T11:00:00Z",
-      "end_time": "2026-11-17T16:00:00Z",
-      "title": "Lycans",
-      "canceled_until": null,
-      "category": {
-        "id": "1494074023",
-        "name": "Lycans"
       },
       "is_recurring": true
     }
