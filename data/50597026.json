@@ -13,18 +13,6 @@
   },
   "schedulers": [
     {
-      "id": "eyJzZWdtZW50SUQiOiJlMTNlY2M4Mi0zMzA1LTQyMGItOTIyNy03NzA2M2IzNGFkZjEiLCJpc29ZZWFyIjoyMDI2LCJpc29XZWVrIjozOH0=",
-      "start_time": "2026-09-16T10:00:00Z",
-      "end_time": "2026-09-16T15:00:00Z",
-      "title": "Suite du Slowrun",
-      "canceled_until": null,
-      "category": {
-        "id": "344035090",
-        "name": "Kingdom Come: Deliverance II"
-      },
-      "is_recurring": true
-    },
-    {
       "id": "eyJzZWdtZW50SUQiOiJjMjg2MTM2ZC05MGU2LTQ5MTYtODVmYy03NDI5YWI1NTk2MjciLCJpc29ZZWFyIjoyMDI2LCJpc29XZWVrIjozOH0=",
       "start_time": "2026-09-17T10:00:00Z",
       "end_time": "2026-09-17T15:00:00Z",
@@ -225,6 +213,18 @@
       "category": {
         "id": "1494074023",
         "name": "Lycans"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiJlMTNlY2M4Mi0zMzA1LTQyMGItOTIyNy03NzA2M2IzNGFkZjEiLCJpc29ZZWFyIjoyMDI2LCJpc29XZWVrIjo0Mn0=",
+      "start_time": "2026-10-14T10:00:00Z",
+      "end_time": "2026-10-14T15:00:00Z",
+      "title": "Suite du Slowrun",
+      "canceled_until": null,
+      "category": {
+        "id": "344035090",
+        "name": "Kingdom Come: Deliverance II"
       },
       "is_recurring": true
     }
