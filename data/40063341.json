@@ -25,6 +25,126 @@
       "is_recurring": true
     },
     {
+      "id": "eyJzZWdtZW50SUQiOiIxMDQ2OTAwMC1mMzg2LTQ4OWUtYjVlZS01OWRhY2ZmYjY3YWEiLCJpc29ZZWFyIjoyMDI2LCJpc29XZWVrIjozOX0=",
+      "start_time": "2026-09-21T18:30:00Z",
+      "end_time": "2026-09-21T22:00:00Z",
+      "title": "REACT KOH LANTA",
+      "canceled_until": null,
+      "category": {
+        "id": "509658",
+        "name": "Just Chatting"
+      },
+      "is_recurring": false
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiIyZTE5Njk5Yy1hODVlLTQ2ZjktYTMxZC1iZDRkYjJiNmJhMjAiLCJpc29ZZWFyIjoyMDI2LCJpc29XZWVrIjozOX0=",
+      "start_time": "2026-09-23T12:00:00Z",
+      "end_time": "2026-09-23T13:00:00Z",
+      "title": "PRÉ LIVE",
+      "canceled_until": null,
+      "category": {
+        "id": "509658",
+        "name": "Just Chatting"
+      },
+      "is_recurring": false
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiIxMzZiOWVmMC0yMmFiLTQ3ZjgtOTRkZi00ZTIyODYwOTQyNDAiLCJpc29ZZWFyIjoyMDI2LCJpc29XZWVrIjozOX0=",
+      "start_time": "2026-09-23T13:00:00Z",
+      "end_time": "2026-09-23T15:00:00Z",
+      "title": "Aprèm sur GeoGuessr ",
+      "canceled_until": null,
+      "category": {
+        "id": "369418",
+        "name": "GeoGuessr"
+      },
+      "is_recurring": false
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiIxMDEyZmVjMC03M2ZmLTRiOTktOGU1Yi0zZmZhNjAwMjY5MTIiLCJpc29ZZWFyIjoyMDI2LCJpc29XZWVrIjozOX0=",
+      "start_time": "2026-09-23T15:00:00Z",
+      "end_time": "2026-09-23T17:00:00Z",
+      "title": "STREAM LIBRE",
+      "canceled_until": null,
+      "category": {
+        "id": "509658",
+        "name": "Just Chatting"
+      },
+      "is_recurring": false
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiIwMTFkZmE2NS0xMTBjLTQzMGUtYWYzYi05MzIwOTMyMGRiM2QiLCJpc29ZZWFyIjoyMDI2LCJpc29XZWVrIjozOX0=",
+      "start_time": "2026-09-24T12:00:00Z",
+      "end_time": "2026-09-24T13:00:00Z",
+      "title": "PRÉ LIVE",
+      "canceled_until": null,
+      "category": {
+        "id": "509658",
+        "name": "Just Chatting"
+      },
+      "is_recurring": false
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiIzNTZlMTNiMy01NTVhLTRjZGQtYjFiNS0wMjc0MmI3MmQwMmUiLCJpc29ZZWFyIjoyMDI2LCJpc29XZWVrIjozOX0=",
+      "start_time": "2026-09-24T13:00:00Z",
+      "end_time": "2026-09-24T17:00:00Z",
+      "title": "STREAM LIBRE",
+      "canceled_until": null,
+      "category": {
+        "id": "509658",
+        "name": "Just Chatting"
+      },
+      "is_recurring": false
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiI5YWEyZTQwZi04YjJiLTRhZjMtYWYyNC05ZWVlNmVjMDUyYzgiLCJpc29ZZWFyIjoyMDI2LCJpc29XZWVrIjozOX0=",
+      "start_time": "2026-09-25T12:00:00Z",
+      "end_time": "2026-09-25T13:00:00Z",
+      "title": "PRÉ LIVE",
+      "canceled_until": null,
+      "category": {
+        "id": "509658",
+        "name": "Just Chatting"
+      },
+      "is_recurring": false
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiJmMjVhOTQ3ZC01YTY1LTRkZGMtOTA3Yy0xMjU4NGY2MDgzYjciLCJpc29ZZWFyIjoyMDI2LCJpc29XZWVrIjozOX0=",
+      "start_time": "2026-09-25T13:00:00Z",
+      "end_time": "2026-09-25T15:00:00Z",
+      "title": "BOMBANANA! avec Lowan & Owl",
+      "canceled_until": null,
+      "category": {
+        "id": "921298138",
+        "name": "BOMBANANA!"
+      },
+      "is_recurring": false
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiJlZDdkODE1Ny1kOGI0LTRiZTAtOTkwOS1mZTg3MGI1NTE1MDMiLCJpc29ZZWFyIjoyMDI2LCJpc29XZWVrIjozOX0=",
+      "start_time": "2026-09-25T15:00:00Z",
+      "end_time": "2026-09-25T17:00:00Z",
+      "title": "STREAM LIBRE",
+      "canceled_until": null,
+      "category": {
+        "id": "509658",
+        "name": "Just Chatting"
+      },
+      "is_recurring": false
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiI4ZGNjNDdmZS03YjVkLTQ5NTctYjdhMy1iODQ1NDBhYWQ1ZmEiLCJpc29ZZWFyIjoyMDI2LCJpc29XZWVrIjozOX0=",
+      "start_time": "2026-09-25T17:00:00Z",
+      "end_time": "2026-09-25T19:00:00Z",
+      "title": "OUVERTURE NBA AVEC HUGO DECRYPTE",
+      "canceled_until": null,
+      "category": {
+        "id": "509658",
+        "name": "Just Chatting"
+      },
+      "is_recurring": false
+    },
+    {
       "id": "eyJzZWdtZW50SUQiOiI4NmNhNjQ4Ny02MmFiLTRlZTEtYjViOC0zNzJjZTM5YTIyNTkiLCJpc29ZZWFyIjoyMDI2LCJpc29XZWVrIjo0MH0=",
       "start_time": "2026-09-28T17:30:00Z",
       "end_time": "2026-09-28T18:30:00Z",
@@ -124,126 +244,6 @@
       "id": "eyJzZWdtZW50SUQiOiI4NmNhNjQ4Ny02MmFiLTRlZTEtYjViOC0zNzJjZTM5YTIyNTkiLCJpc29ZZWFyIjoyMDI2LCJpc29XZWVrIjo0OH0=",
       "start_time": "2026-11-23T18:30:00Z",
       "end_time": "2026-11-23T19:30:00Z",
-      "title": "PRÉ LIVE",
-      "canceled_until": null,
-      "category": {
-        "id": "509658",
-        "name": "Just Chatting"
-      },
-      "is_recurring": true
-    },
-    {
-      "id": "eyJzZWdtZW50SUQiOiI4NmNhNjQ4Ny02MmFiLTRlZTEtYjViOC0zNzJjZTM5YTIyNTkiLCJpc29ZZWFyIjoyMDI2LCJpc29XZWVrIjo0OX0=",
-      "start_time": "2026-11-30T18:30:00Z",
-      "end_time": "2026-11-30T19:30:00Z",
-      "title": "PRÉ LIVE",
-      "canceled_until": null,
-      "category": {
-        "id": "509658",
-        "name": "Just Chatting"
-      },
-      "is_recurring": true
-    },
-    {
-      "id": "eyJzZWdtZW50SUQiOiI4NmNhNjQ4Ny02MmFiLTRlZTEtYjViOC0zNzJjZTM5YTIyNTkiLCJpc29ZZWFyIjoyMDI2LCJpc29XZWVrIjo1MH0=",
-      "start_time": "2026-12-07T18:30:00Z",
-      "end_time": "2026-12-07T19:30:00Z",
-      "title": "PRÉ LIVE",
-      "canceled_until": null,
-      "category": {
-        "id": "509658",
-        "name": "Just Chatting"
-      },
-      "is_recurring": true
-    },
-    {
-      "id": "eyJzZWdtZW50SUQiOiI4NmNhNjQ4Ny02MmFiLTRlZTEtYjViOC0zNzJjZTM5YTIyNTkiLCJpc29ZZWFyIjoyMDI2LCJpc29XZWVrIjo1MX0=",
-      "start_time": "2026-12-14T18:30:00Z",
-      "end_time": "2026-12-14T19:30:00Z",
-      "title": "PRÉ LIVE",
-      "canceled_until": null,
-      "category": {
-        "id": "509658",
-        "name": "Just Chatting"
-      },
-      "is_recurring": true
-    },
-    {
-      "id": "eyJzZWdtZW50SUQiOiI4NmNhNjQ4Ny02MmFiLTRlZTEtYjViOC0zNzJjZTM5YTIyNTkiLCJpc29ZZWFyIjoyMDI2LCJpc29XZWVrIjo1Mn0=",
-      "start_time": "2026-12-21T18:30:00Z",
-      "end_time": "2026-12-21T19:30:00Z",
-      "title": "PRÉ LIVE",
-      "canceled_until": null,
-      "category": {
-        "id": "509658",
-        "name": "Just Chatting"
-      },
-      "is_recurring": true
-    },
-    {
-      "id": "eyJzZWdtZW50SUQiOiI4NmNhNjQ4Ny02MmFiLTRlZTEtYjViOC0zNzJjZTM5YTIyNTkiLCJpc29ZZWFyIjoyMDI2LCJpc29XZWVrIjo1M30=",
-      "start_time": "2026-12-28T18:30:00Z",
-      "end_time": "2026-12-28T19:30:00Z",
-      "title": "PRÉ LIVE",
-      "canceled_until": null,
-      "category": {
-        "id": "509658",
-        "name": "Just Chatting"
-      },
-      "is_recurring": true
-    },
-    {
-      "id": "eyJzZWdtZW50SUQiOiI4NmNhNjQ4Ny02MmFiLTRlZTEtYjViOC0zNzJjZTM5YTIyNTkiLCJpc29ZZWFyIjoyMDI3LCJpc29XZWVrIjoxfQ==",
-      "start_time": "2027-01-04T18:30:00Z",
-      "end_time": "2027-01-04T19:30:00Z",
-      "title": "PRÉ LIVE",
-      "canceled_until": null,
-      "category": {
-        "id": "509658",
-        "name": "Just Chatting"
-      },
-      "is_recurring": true
-    },
-    {
-      "id": "eyJzZWdtZW50SUQiOiI4NmNhNjQ4Ny02MmFiLTRlZTEtYjViOC0zNzJjZTM5YTIyNTkiLCJpc29ZZWFyIjoyMDI3LCJpc29XZWVrIjoyfQ==",
-      "start_time": "2027-01-11T18:30:00Z",
-      "end_time": "2027-01-11T19:30:00Z",
-      "title": "PRÉ LIVE",
-      "canceled_until": null,
-      "category": {
-        "id": "509658",
-        "name": "Just Chatting"
-      },
-      "is_recurring": true
-    },
-    {
-      "id": "eyJzZWdtZW50SUQiOiI4NmNhNjQ4Ny02MmFiLTRlZTEtYjViOC0zNzJjZTM5YTIyNTkiLCJpc29ZZWFyIjoyMDI3LCJpc29XZWVrIjozfQ==",
-      "start_time": "2027-01-18T18:30:00Z",
-      "end_time": "2027-01-18T19:30:00Z",
-      "title": "PRÉ LIVE",
-      "canceled_until": null,
-      "category": {
-        "id": "509658",
-        "name": "Just Chatting"
-      },
-      "is_recurring": true
-    },
-    {
-      "id": "eyJzZWdtZW50SUQiOiI4NmNhNjQ4Ny02MmFiLTRlZTEtYjViOC0zNzJjZTM5YTIyNTkiLCJpc29ZZWFyIjoyMDI3LCJpc29XZWVrIjo0fQ==",
-      "start_time": "2027-01-25T18:30:00Z",
-      "end_time": "2027-01-25T19:30:00Z",
-      "title": "PRÉ LIVE",
-      "canceled_until": null,
-      "category": {
-        "id": "509658",
-        "name": "Just Chatting"
-      },
-      "is_recurring": true
-    },
-    {
-      "id": "eyJzZWdtZW50SUQiOiI4NmNhNjQ4Ny02MmFiLTRlZTEtYjViOC0zNzJjZTM5YTIyNTkiLCJpc29ZZWFyIjoyMDI3LCJpc29XZWVrIjo1fQ==",
-      "start_time": "2027-02-01T18:30:00Z",
-      "end_time": "2027-02-01T19:30:00Z",
       "title": "PRÉ LIVE",
       "canceled_until": null,
       "category": {
