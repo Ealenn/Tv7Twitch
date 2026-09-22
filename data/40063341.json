@@ -7,35 +7,11 @@
     "broadcaster_type": "partner",
     "description": "Président du FC Silmi",
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/3cdae7df-600c-4833-8dfe-8d2abc5a3b25-profile_image-300x300.png",
-    "offline_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/74be3110-9325-46ea-8c78-998cae85a5f2-channel_offline_image-1920x1080.png",
+    "offline_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/99a74e50-2f54-4652-943c-2b95e52e98e7-channel_offline_image-1920x1080.png",
     "view_count": 0,
     "created_at": "2013-02-05T19:20:22Z"
   },
   "schedulers": [
-    {
-      "id": "eyJzZWdtZW50SUQiOiI4NmNhNjQ4Ny02MmFiLTRlZTEtYjViOC0zNzJjZTM5YTIyNTkiLCJpc29ZZWFyIjoyMDI2LCJpc29XZWVrIjozOX0=",
-      "start_time": "2026-09-21T17:30:00Z",
-      "end_time": "2026-09-21T18:30:00Z",
-      "title": "PRÉ LIVE",
-      "canceled_until": null,
-      "category": {
-        "id": "509658",
-        "name": "Just Chatting"
-      },
-      "is_recurring": true
-    },
-    {
-      "id": "eyJzZWdtZW50SUQiOiIxMDQ2OTAwMC1mMzg2LTQ4OWUtYjVlZS01OWRhY2ZmYjY3YWEiLCJpc29ZZWFyIjoyMDI2LCJpc29XZWVrIjozOX0=",
-      "start_time": "2026-09-21T18:30:00Z",
-      "end_time": "2026-09-21T22:00:00Z",
-      "title": "REACT KOH LANTA",
-      "canceled_until": null,
-      "category": {
-        "id": "509658",
-        "name": "Just Chatting"
-      },
-      "is_recurring": false
-    },
     {
       "id": "eyJzZWdtZW50SUQiOiIyZTE5Njk5Yy1hODVlLTQ2ZjktYTMxZC1iZDRkYjJiNmJhMjAiLCJpc29ZZWFyIjoyMDI2LCJpc29XZWVrIjozOX0=",
       "start_time": "2026-09-23T12:00:00Z",
@@ -244,6 +220,30 @@
       "id": "eyJzZWdtZW50SUQiOiI4NmNhNjQ4Ny02MmFiLTRlZTEtYjViOC0zNzJjZTM5YTIyNTkiLCJpc29ZZWFyIjoyMDI2LCJpc29XZWVrIjo0OH0=",
       "start_time": "2026-11-23T18:30:00Z",
       "end_time": "2026-11-23T19:30:00Z",
+      "title": "PRÉ LIVE",
+      "canceled_until": null,
+      "category": {
+        "id": "509658",
+        "name": "Just Chatting"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiI4NmNhNjQ4Ny02MmFiLTRlZTEtYjViOC0zNzJjZTM5YTIyNTkiLCJpc29ZZWFyIjoyMDI2LCJpc29XZWVrIjo0OX0=",
+      "start_time": "2026-11-30T18:30:00Z",
+      "end_time": "2026-11-30T19:30:00Z",
+      "title": "PRÉ LIVE",
+      "canceled_until": null,
+      "category": {
+        "id": "509658",
+        "name": "Just Chatting"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiI4NmNhNjQ4Ny02MmFiLTRlZTEtYjViOC0zNzJjZTM5YTIyNTkiLCJpc29ZZWFyIjoyMDI2LCJpc29XZWVrIjo1MH0=",
+      "start_time": "2026-12-07T18:30:00Z",
+      "end_time": "2026-12-07T19:30:00Z",
       "title": "PRÉ LIVE",
       "canceled_until": null,
       "category": {
