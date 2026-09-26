@@ -13,10 +13,10 @@
   },
   "schedulers": [
     {
-      "id": "eyJzZWdtZW50SUQiOiJiM2RhNThhNC1kNzFjLTQ4YWMtOTMyNi0wYTQzM2NjMWQ4NWMiLCJpc29ZZWFyIjoyMDI2LCJpc29XZWVrIjozOX0=",
-      "start_time": "2026-09-25T18:00:00Z",
-      "end_time": "2026-09-25T21:00:00Z",
-      "title": "REPRISE DES STREAM !!!!!",
+      "id": "eyJzZWdtZW50SUQiOiI4ZjNmN2ViYy0wMjAxLTQ5ZGYtYTVmZS0yMTEzMjI0ZGVhZDUiLCJpc29ZZWFyIjoyMDI2LCJpc29XZWVrIjozOX0=",
+      "start_time": "2026-09-27T17:00:00Z",
+      "end_time": "2026-09-27T22:00:00Z",
+      "title": "Mon dernier stream... c'était bien pourtant mais tout a une fin",
       "canceled_until": null,
       "category": {
         "id": "509658",
