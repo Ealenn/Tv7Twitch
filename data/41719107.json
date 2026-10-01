@@ -11,5 +11,30 @@
     "view_count": 0,
     "created_at": "2013-03-25T23:44:28Z"
   },
-  "schedulers": []
+  "schedulers": [
+    {
+      "id": "eyJzZWdtZW50SUQiOiIwODI5OWUwMi1kMDg3LTRmODUtYTdjNy01MWVkNDFlYzQ5MzgiLCJpc29ZZWFyIjoyMDI2LCJpc29XZWVrIjo0MH0=",
+      "start_time": "2026-10-02T18:00:00Z",
+      "end_time": "2026-10-02T22:00:00Z",
+      "title": "Soirée Heroes of the Storm avec Dach, Kusa, Velahan et Malganyr",
+      "canceled_until": null,
+      "category": {
+        "id": "32959",
+        "name": "Heroes of the Storm"
+      },
+      "is_recurring": false
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiJjMDFkNTBlZS0wNjJiLTRhMjAtOTc1NS1hZjVmODgwNWYzNjYiLCJpc29ZZWFyIjoyMDI2LCJpc29XZWVrIjo0MH0=",
+      "start_time": "2026-10-04T11:00:00Z",
+      "end_time": "2026-10-04T20:00:00Z",
+      "title": "LAN EN DUO AVEC HYP au hangar, Beginner to Winner",
+      "canceled_until": null,
+      "category": {
+        "id": "12308397",
+        "name": "LAN Party"
+      },
+      "is_recurring": false
+    }
+  ]
 }
