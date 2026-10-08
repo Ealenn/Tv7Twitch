@@ -13,30 +13,6 @@
   },
   "schedulers": [
     {
-      "id": "eyJzZWdtZW50SUQiOiIxOGYwY2Q0Ni1mNDdmLTQzNTctODQzYy1iN2MyZjA5ZTYzOTkiLCJpc29ZZWFyIjoyMDI2LCJpc29XZWVrIjo0MX0=",
-      "start_time": "2026-10-07T17:30:00Z",
-      "end_time": "2026-10-07T18:30:00Z",
-      "title": "PRÉ LIVE",
-      "canceled_until": null,
-      "category": {
-        "id": "509658",
-        "name": "Just Chatting"
-      },
-      "is_recurring": false
-    },
-    {
-      "id": "eyJzZWdtZW50SUQiOiI0MWMxMTNjNy03OTJjLTRkNzktOGQ3Zi1kOTBhNDkxOWE0YzkiLCJpc29ZZWFyIjoyMDI2LCJpc29XZWVrIjo0MX0=",
-      "start_time": "2026-10-07T18:30:00Z",
-      "end_time": "2026-10-07T22:00:00Z",
-      "title": "REACT KOH LANTA EP.7",
-      "canceled_until": null,
-      "category": {
-        "id": "509658",
-        "name": "Just Chatting"
-      },
-      "is_recurring": false
-    },
-    {
       "id": "eyJzZWdtZW50SUQiOiI4ZDBmYTMyYy1kYzA4LTRlODAtYWY1My01ZmFhMGQ1NzNkNzgiLCJpc29ZZWFyIjoyMDI2LCJpc29XZWVrIjo0MX0=",
       "start_time": "2026-10-08T12:00:00Z",
       "end_time": "2026-10-08T13:00:00Z",
@@ -244,6 +220,30 @@
       "id": "eyJzZWdtZW50SUQiOiI4NmNhNjQ4Ny02MmFiLTRlZTEtYjViOC0zNzJjZTM5YTIyNTkiLCJpc29ZZWFyIjoyMDI3LCJpc29XZWVrIjoyfQ==",
       "start_time": "2027-01-11T18:30:00Z",
       "end_time": "2027-01-11T19:30:00Z",
+      "title": "PRÉ LIVE",
+      "canceled_until": null,
+      "category": {
+        "id": "509658",
+        "name": "Just Chatting"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiI4NmNhNjQ4Ny02MmFiLTRlZTEtYjViOC0zNzJjZTM5YTIyNTkiLCJpc29ZZWFyIjoyMDI3LCJpc29XZWVrIjozfQ==",
+      "start_time": "2027-01-18T18:30:00Z",
+      "end_time": "2027-01-18T19:30:00Z",
+      "title": "PRÉ LIVE",
+      "canceled_until": null,
+      "category": {
+        "id": "509658",
+        "name": "Just Chatting"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiI4NmNhNjQ4Ny02MmFiLTRlZTEtYjViOC0zNzJjZTM5YTIyNTkiLCJpc29ZZWFyIjoyMDI3LCJpc29XZWVrIjo0fQ==",
+      "start_time": "2027-01-25T18:30:00Z",
+      "end_time": "2027-01-25T19:30:00Z",
       "title": "PRÉ LIVE",
       "canceled_until": null,
       "category": {
