@@ -13,30 +13,6 @@
   },
   "schedulers": [
     {
-      "id": "eyJzZWdtZW50SUQiOiIxM2ZhYzQzNC04YTllLTQzNTMtOTk2OS0wMTNlMDc0NjE0NGMiLCJpc29ZZWFyIjoyMDI2LCJpc29XZWVrIjo0Mn0=",
-      "start_time": "2026-10-13T12:00:00Z",
-      "end_time": "2026-10-13T13:00:00Z",
-      "title": "PRÉ LIVE",
-      "canceled_until": null,
-      "category": {
-        "id": "509658",
-        "name": "Just Chatting"
-      },
-      "is_recurring": false
-    },
-    {
-      "id": "eyJzZWdtZW50SUQiOiIyNThkZjBiMi05NWYxLTQ1N2ItOGJhOS05ZjBhZjUzOWYwZjAiLCJpc29ZZWFyIjoyMDI2LCJpc29XZWVrIjo0Mn0=",
-      "start_time": "2026-10-13T13:00:00Z",
-      "end_time": "2026-10-13T17:00:00Z",
-      "title": "FIN DE L'AVENTURE CK3",
-      "canceled_until": null,
-      "category": {
-        "id": "514888",
-        "name": "Crusader Kings III"
-      },
-      "is_recurring": false
-    },
-    {
       "id": "eyJzZWdtZW50SUQiOiJhZGQ2NjM1MC0xYmNiLTQwMTktOTNjYi00YTU3YzMwZDQ5NjYiLCJpc29ZZWFyIjoyMDI2LCJpc29XZWVrIjo0Mn0=",
       "start_time": "2026-10-14T17:30:00Z",
       "end_time": "2026-10-14T18:30:00Z",
@@ -244,6 +220,30 @@
       "id": "eyJzZWdtZW50SUQiOiI2ZGIwNjVjYi0yMjkxLTRiZTAtYjVhMy00MzllODVlNzRhNmIiLCJpc29ZZWFyIjoyMDI2LCJpc29XZWVrIjo0OH0=",
       "start_time": "2026-11-25T19:30:00Z",
       "end_time": "2026-11-25T21:30:00Z",
+      "title": "REACT KOH LANTA",
+      "canceled_until": null,
+      "category": {
+        "id": "509658",
+        "name": "Just Chatting"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiI4NmNhNjQ4Ny02MmFiLTRlZTEtYjViOC0zNzJjZTM5YTIyNTkiLCJpc29ZZWFyIjoyMDI2LCJpc29XZWVrIjo0OX0=",
+      "start_time": "2026-11-30T18:30:00Z",
+      "end_time": "2026-11-30T19:30:00Z",
+      "title": "PRÉ LIVE",
+      "canceled_until": null,
+      "category": {
+        "id": "509658",
+        "name": "Just Chatting"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiI2ZGIwNjVjYi0yMjkxLTRiZTAtYjVhMy00MzllODVlNzRhNmIiLCJpc29ZZWFyIjoyMDI2LCJpc29XZWVrIjo0OX0=",
+      "start_time": "2026-12-02T19:30:00Z",
+      "end_time": "2026-12-02T21:30:00Z",
       "title": "REACT KOH LANTA",
       "canceled_until": null,
       "category": {
