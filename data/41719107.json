@@ -13,18 +13,6 @@
   },
   "schedulers": [
     {
-      "id": "eyJzZWdtZW50SUQiOiJjNzYwZjMzNy1jMDE0LTQ0MGQtOWI1ZS1mMTA5YzU2OThjNDAiLCJpc29ZZWFyIjoyMDI2LCJpc29XZWVrIjo0M30=",
-      "start_time": "2026-10-19T16:00:00Z",
-      "end_time": "2026-10-19T18:00:00Z",
-      "title": "Stream",
-      "canceled_until": null,
-      "category": {
-        "id": "509658",
-        "name": "Just Chatting"
-      },
-      "is_recurring": false
-    },
-    {
       "id": "eyJzZWdtZW50SUQiOiJkNTIzMzljNC1kYWFmLTQ3Y2ItODhmZC1mMTBjODMyMmIxMjUiLCJpc29ZZWFyIjoyMDI2LCJpc29XZWVrIjo0M30=",
       "start_time": "2026-10-20T16:00:00Z",
       "end_time": "2026-10-20T22:00:00Z",
