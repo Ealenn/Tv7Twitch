@@ -13,18 +13,6 @@
   },
   "schedulers": [
     {
-      "id": "eyJzZWdtZW50SUQiOiIxMzllYzQwZS01NmVmLTQyOWMtOGViMC01N2M3ZjE3MTEyNDEiLCJpc29ZZWFyIjoyMDI2LCJpc29XZWVrIjo0M30=",
-      "start_time": "2026-10-22T13:30:00Z",
-      "end_time": "2026-10-22T17:30:00Z",
-      "title": "OMG SWITCH SPORT ????",
-      "canceled_until": null,
-      "category": {
-        "id": "1069936801",
-        "name": "Nintendo Switch Sports Resort"
-      },
-      "is_recurring": true
-    },
-    {
       "id": "eyJzZWdtZW50SUQiOiIxY2JhOGIxNS00MzEwLTRiNGYtODc1MS1iMGZlOGExNDVhZDIiLCJpc29ZZWFyIjoyMDI2LCJpc29XZWVrIjo0NH0=",
       "start_time": "2026-10-26T12:00:00Z",
       "end_time": "2026-10-26T16:00:00Z",
@@ -235,6 +223,18 @@
       "title": "ROUE DES DÉFIS !",
       "canceled_until": null,
       "category": null,
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiIxMzllYzQwZS01NmVmLTQyOWMtOGViMC01N2M3ZjE3MTEyNDEiLCJpc29ZZWFyIjoyMDI2LCJpc29XZWVrIjo0OH0=",
+      "start_time": "2026-11-26T14:30:00Z",
+      "end_time": "2026-11-26T18:30:00Z",
+      "title": "OMG SWITCH SPORT ????",
+      "canceled_until": null,
+      "category": {
+        "id": "1069936801",
+        "name": "Nintendo Switch Sports Resort"
+      },
       "is_recurring": true
     }
   ]
