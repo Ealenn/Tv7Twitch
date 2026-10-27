@@ -13,18 +13,6 @@
   },
   "schedulers": [
     {
-      "id": "eyJzZWdtZW50SUQiOiIxY2JhOGIxNS00MzEwLTRiNGYtODc1MS1iMGZlOGExNDVhZDIiLCJpc29ZZWFyIjoyMDI2LCJpc29XZWVrIjo0NH0=",
-      "start_time": "2026-10-26T12:00:00Z",
-      "end_time": "2026-10-26T16:00:00Z",
-      "title": "Le lundi c'est culture !",
-      "canceled_until": null,
-      "category": {
-        "id": "338715930",
-        "name": "Maitre des Fleurs"
-      },
-      "is_recurring": true
-    },
-    {
       "id": "eyJzZWdtZW50SUQiOiJkMWY5Yjc1Mi0wMTA0LTQ0YmEtYTkwZS0wZmJjN2RlOWQ1MTgiLCJpc29ZZWFyIjoyMDI2LCJpc29XZWVrIjo0NH0=",
       "start_time": "2026-10-27T11:00:00Z",
       "end_time": "2026-10-27T16:00:00Z",
@@ -40,21 +28,9 @@
       "id": "eyJzZWdtZW50SUQiOiJlMTNlY2M4Mi0zMzA1LTQyMGItOTIyNy03NzA2M2IzNGFkZjEiLCJpc29ZZWFyIjoyMDI2LCJpc29XZWVrIjo0NH0=",
       "start_time": "2026-10-28T12:00:00Z",
       "end_time": "2026-10-28T18:00:00Z",
-      "title": "ROUE DES DÉFIS !",
+      "title": "OUI ON EST LA BIEN SUR",
       "canceled_until": null,
       "category": null,
-      "is_recurring": true
-    },
-    {
-      "id": "eyJzZWdtZW50SUQiOiIxMzllYzQwZS01NmVmLTQyOWMtOGViMC01N2M3ZjE3MTEyNDEiLCJpc29ZZWFyIjoyMDI2LCJpc29XZWVrIjo0NH0=",
-      "start_time": "2026-10-29T14:30:00Z",
-      "end_time": "2026-10-29T18:30:00Z",
-      "title": "OMG SWITCH SPORT ????",
-      "canceled_until": null,
-      "category": {
-        "id": "1069936801",
-        "name": "Nintendo Switch Sports Resort"
-      },
       "is_recurring": true
     },
     {
@@ -85,21 +61,9 @@
       "id": "eyJzZWdtZW50SUQiOiJlMTNlY2M4Mi0zMzA1LTQyMGItOTIyNy03NzA2M2IzNGFkZjEiLCJpc29ZZWFyIjoyMDI2LCJpc29XZWVrIjo0NX0=",
       "start_time": "2026-11-04T12:00:00Z",
       "end_time": "2026-11-04T18:00:00Z",
-      "title": "ROUE DES DÉFIS !",
+      "title": "OUI ON EST LA BIEN SUR",
       "canceled_until": null,
       "category": null,
-      "is_recurring": true
-    },
-    {
-      "id": "eyJzZWdtZW50SUQiOiIxMzllYzQwZS01NmVmLTQyOWMtOGViMC01N2M3ZjE3MTEyNDEiLCJpc29ZZWFyIjoyMDI2LCJpc29XZWVrIjo0NX0=",
-      "start_time": "2026-11-05T14:30:00Z",
-      "end_time": "2026-11-05T18:30:00Z",
-      "title": "OMG SWITCH SPORT ????",
-      "canceled_until": null,
-      "category": {
-        "id": "1069936801",
-        "name": "Nintendo Switch Sports Resort"
-      },
       "is_recurring": true
     },
     {
@@ -130,21 +94,9 @@
       "id": "eyJzZWdtZW50SUQiOiJlMTNlY2M4Mi0zMzA1LTQyMGItOTIyNy03NzA2M2IzNGFkZjEiLCJpc29ZZWFyIjoyMDI2LCJpc29XZWVrIjo0Nn0=",
       "start_time": "2026-11-11T12:00:00Z",
       "end_time": "2026-11-11T18:00:00Z",
-      "title": "ROUE DES DÉFIS !",
+      "title": "OUI ON EST LA BIEN SUR",
       "canceled_until": null,
       "category": null,
-      "is_recurring": true
-    },
-    {
-      "id": "eyJzZWdtZW50SUQiOiIxMzllYzQwZS01NmVmLTQyOWMtOGViMC01N2M3ZjE3MTEyNDEiLCJpc29ZZWFyIjoyMDI2LCJpc29XZWVrIjo0Nn0=",
-      "start_time": "2026-11-12T14:30:00Z",
-      "end_time": "2026-11-12T18:30:00Z",
-      "title": "OMG SWITCH SPORT ????",
-      "canceled_until": null,
-      "category": {
-        "id": "1069936801",
-        "name": "Nintendo Switch Sports Resort"
-      },
       "is_recurring": true
     },
     {
@@ -175,21 +127,9 @@
       "id": "eyJzZWdtZW50SUQiOiJlMTNlY2M4Mi0zMzA1LTQyMGItOTIyNy03NzA2M2IzNGFkZjEiLCJpc29ZZWFyIjoyMDI2LCJpc29XZWVrIjo0N30=",
       "start_time": "2026-11-18T12:00:00Z",
       "end_time": "2026-11-18T18:00:00Z",
-      "title": "ROUE DES DÉFIS !",
+      "title": "OUI ON EST LA BIEN SUR",
       "canceled_until": null,
       "category": null,
-      "is_recurring": true
-    },
-    {
-      "id": "eyJzZWdtZW50SUQiOiIxMzllYzQwZS01NmVmLTQyOWMtOGViMC01N2M3ZjE3MTEyNDEiLCJpc29ZZWFyIjoyMDI2LCJpc29XZWVrIjo0N30=",
-      "start_time": "2026-11-19T14:30:00Z",
-      "end_time": "2026-11-19T18:30:00Z",
-      "title": "OMG SWITCH SPORT ????",
-      "canceled_until": null,
-      "category": {
-        "id": "1069936801",
-        "name": "Nintendo Switch Sports Resort"
-      },
       "is_recurring": true
     },
     {
@@ -220,21 +160,75 @@
       "id": "eyJzZWdtZW50SUQiOiJlMTNlY2M4Mi0zMzA1LTQyMGItOTIyNy03NzA2M2IzNGFkZjEiLCJpc29ZZWFyIjoyMDI2LCJpc29XZWVrIjo0OH0=",
       "start_time": "2026-11-25T12:00:00Z",
       "end_time": "2026-11-25T18:00:00Z",
-      "title": "ROUE DES DÉFIS !",
+      "title": "OUI ON EST LA BIEN SUR",
       "canceled_until": null,
       "category": null,
       "is_recurring": true
     },
     {
-      "id": "eyJzZWdtZW50SUQiOiIxMzllYzQwZS01NmVmLTQyOWMtOGViMC01N2M3ZjE3MTEyNDEiLCJpc29ZZWFyIjoyMDI2LCJpc29XZWVrIjo0OH0=",
-      "start_time": "2026-11-26T14:30:00Z",
-      "end_time": "2026-11-26T18:30:00Z",
-      "title": "OMG SWITCH SPORT ????",
+      "id": "eyJzZWdtZW50SUQiOiIxY2JhOGIxNS00MzEwLTRiNGYtODc1MS1iMGZlOGExNDVhZDIiLCJpc29ZZWFyIjoyMDI2LCJpc29XZWVrIjo0OX0=",
+      "start_time": "2026-11-30T12:00:00Z",
+      "end_time": "2026-11-30T16:00:00Z",
+      "title": "Le lundi c'est culture !",
       "canceled_until": null,
       "category": {
-        "id": "1069936801",
-        "name": "Nintendo Switch Sports Resort"
+        "id": "338715930",
+        "name": "Maitre des Fleurs"
       },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiJkMWY5Yjc1Mi0wMTA0LTQ0YmEtYTkwZS0wZmJjN2RlOWQ1MTgiLCJpc29ZZWFyIjoyMDI2LCJpc29XZWVrIjo0OX0=",
+      "start_time": "2026-12-01T11:00:00Z",
+      "end_time": "2026-12-01T16:00:00Z",
+      "title": "Lycans",
+      "canceled_until": null,
+      "category": {
+        "id": "1494074023",
+        "name": "Lycans"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiJlMTNlY2M4Mi0zMzA1LTQyMGItOTIyNy03NzA2M2IzNGFkZjEiLCJpc29ZZWFyIjoyMDI2LCJpc29XZWVrIjo0OX0=",
+      "start_time": "2026-12-02T12:00:00Z",
+      "end_time": "2026-12-02T18:00:00Z",
+      "title": "OUI ON EST LA BIEN SUR",
+      "canceled_until": null,
+      "category": null,
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiIxY2JhOGIxNS00MzEwLTRiNGYtODc1MS1iMGZlOGExNDVhZDIiLCJpc29ZZWFyIjoyMDI2LCJpc29XZWVrIjo1MH0=",
+      "start_time": "2026-12-07T12:00:00Z",
+      "end_time": "2026-12-07T16:00:00Z",
+      "title": "Le lundi c'est culture !",
+      "canceled_until": null,
+      "category": {
+        "id": "338715930",
+        "name": "Maitre des Fleurs"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiJkMWY5Yjc1Mi0wMTA0LTQ0YmEtYTkwZS0wZmJjN2RlOWQ1MTgiLCJpc29ZZWFyIjoyMDI2LCJpc29XZWVrIjo1MH0=",
+      "start_time": "2026-12-08T11:00:00Z",
+      "end_time": "2026-12-08T16:00:00Z",
+      "title": "Lycans",
+      "canceled_until": null,
+      "category": {
+        "id": "1494074023",
+        "name": "Lycans"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiJlMTNlY2M4Mi0zMzA1LTQyMGItOTIyNy03NzA2M2IzNGFkZjEiLCJpc29ZZWFyIjoyMDI2LCJpc29XZWVrIjo1MH0=",
+      "start_time": "2026-12-09T12:00:00Z",
+      "end_time": "2026-12-09T18:00:00Z",
+      "title": "OUI ON EST LA BIEN SUR",
+      "canceled_until": null,
+      "category": null,
       "is_recurring": true
     }
   ]
