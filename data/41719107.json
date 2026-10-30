@@ -11,18 +11,5 @@
     "view_count": 0,
     "created_at": "2013-03-25T23:44:28Z"
   },
-  "schedulers": [
-    {
-      "id": "eyJzZWdtZW50SUQiOiIyZmU5YzEyYS1kNzM5LTRjNjQtOTA2Ni0wMDg2NThjMTczZWYiLCJpc29ZZWFyIjoyMDI2LCJpc29XZWVrIjo0NH0=",
-      "start_time": "2026-10-29T18:00:00Z",
-      "end_time": "2026-10-29T23:00:00Z",
-      "title": "Stream",
-      "canceled_until": null,
-      "category": {
-        "id": "509658",
-        "name": "Just Chatting"
-      },
-      "is_recurring": false
-    }
-  ]
+  "schedulers": []
 }
