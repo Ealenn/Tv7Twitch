@@ -13,18 +13,6 @@
   },
   "schedulers": [
     {
-      "id": "eyJzZWdtZW50SUQiOiI2ZGI1MDcxMi05OThjLTQ5YWMtYWQ2MS0xMWI4MjYzYzY0MTEiLCJpc29ZZWFyIjoyMDI2LCJpc29XZWVrIjo0NX0=",
-      "start_time": "2026-11-04T21:00:00Z",
-      "end_time": "2026-11-05T02:00:00Z",
-      "title": "WOW FOREVER ENFIN",
-      "canceled_until": null,
-      "category": {
-        "id": "18122",
-        "name": "World of Warcraft"
-      },
-      "is_recurring": false
-    },
-    {
       "id": "eyJzZWdtZW50SUQiOiJhZTI5YTMwYS1kMzg1LTQzNWItYjk5MS1kOTYxYjI0ZTg5M2QiLCJpc29ZZWFyIjoyMDI2LCJpc29XZWVrIjo0NX0=",
       "start_time": "2026-11-05T17:00:00Z",
       "end_time": "2026-11-05T22:00:00Z",
@@ -249,6 +237,18 @@
       "category": {
         "id": "1494074023",
         "name": "Lycans"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiIxY2JhOGIxNS00MzEwLTRiNGYtODc1MS1iMGZlOGExNDVhZDIiLCJpc29ZZWFyIjoyMDI3LCJpc29XZWVrIjoxfQ==",
+      "start_time": "2027-01-04T12:00:00Z",
+      "end_time": "2027-01-04T16:00:00Z",
+      "title": "Le lundi c'est culture !",
+      "canceled_until": null,
+      "category": {
+        "id": "338715930",
+        "name": "Maitre des Fleurs"
       },
       "is_recurring": true
     }
