@@ -13,30 +13,6 @@
   },
   "schedulers": [
     {
-      "id": "eyJzZWdtZW50SUQiOiI3Yjk0MWVmNC1jMDI2LTQ3Y2EtYjcwYS1jM2FjY2ZkZWFlNDEiLCJpc29ZZWFyIjoyMDI2LCJpc29XZWVrIjo0Nn0=",
-      "start_time": "2026-11-11T18:30:00Z",
-      "end_time": "2026-11-11T19:30:00Z",
-      "title": "PRÉ LIVE",
-      "canceled_until": null,
-      "category": {
-        "id": "509658",
-        "name": "Just Chatting"
-      },
-      "is_recurring": false
-    },
-    {
-      "id": "eyJzZWdtZW50SUQiOiI2ZGIwNjVjYi0yMjkxLTRiZTAtYjVhMy00MzllODVlNzRhNmIiLCJpc29ZZWFyIjoyMDI2LCJpc29XZWVrIjo0Nn0=",
-      "start_time": "2026-11-11T19:30:00Z",
-      "end_time": "2026-11-11T21:30:00Z",
-      "title": "REACT KOH LANTA",
-      "canceled_until": null,
-      "category": {
-        "id": "509658",
-        "name": "Just Chatting"
-      },
-      "is_recurring": true
-    },
-    {
       "id": "eyJzZWdtZW50SUQiOiI0YjU1NDhmZC04ZmI4LTQyODctYjA0My05ZGQzOWZmMzNlZTUiLCJpc29ZZWFyIjoyMDI2LCJpc29XZWVrIjo0Nn0=",
       "start_time": "2026-11-12T13:00:00Z",
       "end_time": "2026-11-12T14:00:00Z",
@@ -244,6 +220,30 @@
       "id": "eyJzZWdtZW50SUQiOiI2ZGIwNjVjYi0yMjkxLTRiZTAtYjVhMy00MzllODVlNzRhNmIiLCJpc29ZZWFyIjoyMDI3LCJpc29XZWVrIjo3fQ==",
       "start_time": "2027-02-17T19:30:00Z",
       "end_time": "2027-02-17T21:30:00Z",
+      "title": "REACT KOH LANTA",
+      "canceled_until": null,
+      "category": {
+        "id": "509658",
+        "name": "Just Chatting"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiI2ZGIwNjVjYi0yMjkxLTRiZTAtYjVhMy00MzllODVlNzRhNmIiLCJpc29ZZWFyIjoyMDI3LCJpc29XZWVrIjo4fQ==",
+      "start_time": "2027-02-24T19:30:00Z",
+      "end_time": "2027-02-24T21:30:00Z",
+      "title": "REACT KOH LANTA",
+      "canceled_until": null,
+      "category": {
+        "id": "509658",
+        "name": "Just Chatting"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiI2ZGIwNjVjYi0yMjkxLTRiZTAtYjVhMy00MzllODVlNzRhNmIiLCJpc29ZZWFyIjoyMDI3LCJpc29XZWVrIjo5fQ==",
+      "start_time": "2027-03-03T19:30:00Z",
+      "end_time": "2027-03-03T21:30:00Z",
       "title": "REACT KOH LANTA",
       "canceled_until": null,
       "category": {
