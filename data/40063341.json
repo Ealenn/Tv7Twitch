@@ -7,16 +7,88 @@
     "broadcaster_type": "partner",
     "description": "Président du FC Silmi",
     "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/3cdae7df-600c-4833-8dfe-8d2abc5a3b25-profile_image-300x300.png",
-    "offline_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/97a256ca-5cea-4c8a-9955-568ce24f6d05-channel_offline_image-1920x1080.png",
+    "offline_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/a926e53d-59e3-46c0-a4b5-ac16d67251c5-channel_offline_image-1920x1080.png",
     "view_count": 0,
     "created_at": "2013-02-05T19:20:22Z"
   },
   "schedulers": [
     {
+      "id": "eyJzZWdtZW50SUQiOiIwM2FlMjEwMS1jMTk0LTQ3NDMtYmQ3Yi1mNjI0ZWVkZTM4YWEiLCJpc29ZZWFyIjoyMDI2LCJpc29XZWVrIjo0N30=",
+      "start_time": "2026-11-16T18:30:00Z",
+      "end_time": "2026-11-16T19:30:00Z",
+      "title": "PRÉ LIVE",
+      "canceled_until": null,
+      "category": {
+        "id": "509658",
+        "name": "Just Chatting"
+      },
+      "is_recurring": false
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiI4YmNhNWY1My1iNGU5LTQ1ODktODE1Ni0wYzk3MTcxNTYwNjEiLCJpc29ZZWFyIjoyMDI2LCJpc29XZWVrIjo0N30=",
+      "start_time": "2026-11-16T19:30:00Z",
+      "end_time": "2026-11-17T00:00:00Z",
+      "title": "ROB RUN FT. XARI & LOWAN",
+      "canceled_until": null,
+      "category": {
+        "id": "1753787976",
+        "name": "ROB RUN"
+      },
+      "is_recurring": false
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiIyOWFkNWQ3ZC0wOWFhLTQyYTktODE2NS02MjJmY2U2NzZkMTkiLCJpc29ZZWFyIjoyMDI2LCJpc29XZWVrIjo0N30=",
+      "start_time": "2026-11-17T13:00:00Z",
+      "end_time": "2026-11-17T14:00:00Z",
+      "title": "PRÉ LIVE",
+      "canceled_until": null,
+      "category": {
+        "id": "509658",
+        "name": "Just Chatting"
+      },
+      "is_recurring": false
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiJkMTRjNWY3MS1iZDllLTQzMTAtOGE2NC1lNjY1NDU0YWQ4NDUiLCJpc29ZZWFyIjoyMDI2LCJpc29XZWVrIjo0N30=",
+      "start_time": "2026-11-17T14:00:00Z",
+      "end_time": "2026-11-17T16:00:00Z",
+      "title": "OPENING CATCH FT. RIVENZI & STURRY",
+      "canceled_until": null,
+      "category": {
+        "id": "509658",
+        "name": "Just Chatting"
+      },
+      "is_recurring": false
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiI0M2FjZmJiNC1hMGJjLTRjYTItODY1My1mZGI5ZTdmYjA2MDMiLCJpc29ZZWFyIjoyMDI2LCJpc29XZWVrIjo0N30=",
+      "start_time": "2026-11-17T16:00:00Z",
+      "end_time": "2026-11-17T18:00:00Z",
+      "title": "STREAM LIBRE",
+      "canceled_until": null,
+      "category": {
+        "id": "509658",
+        "name": "Just Chatting"
+      },
+      "is_recurring": false
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiIxZGZhMmM1ZC0zMjEwLTQ2YjMtOTA2Zi02NTQ3MzNhNWVlMWIiLCJpc29ZZWFyIjoyMDI2LCJpc29XZWVrIjo0N30=",
+      "start_time": "2026-11-18T18:30:00Z",
+      "end_time": "2026-11-18T19:30:00Z",
+      "title": "PRÉ LIVE",
+      "canceled_until": null,
+      "category": {
+        "id": "509658",
+        "name": "Just Chatting"
+      },
+      "is_recurring": false
+    },
+    {
       "id": "eyJzZWdtZW50SUQiOiI2ZGIwNjVjYi0yMjkxLTRiZTAtYjVhMy00MzllODVlNzRhNmIiLCJpc29ZZWFyIjoyMDI2LCJpc29XZWVrIjo0N30=",
       "start_time": "2026-11-18T19:30:00Z",
-      "end_time": "2026-11-18T21:30:00Z",
-      "title": "REACT KOH LANTA",
+      "end_time": "2026-11-18T22:30:00Z",
+      "title": "REACT FINALE KOH LANTA FT. DORIAN LOUVET",
       "canceled_until": null,
       "category": {
         "id": "509658",
@@ -25,10 +97,70 @@
       "is_recurring": true
     },
     {
+      "id": "eyJzZWdtZW50SUQiOiJlMGQwYjZiZS0wZGMyLTQ5NWQtOGExZS04ZWI2YmUwMTc2YmMiLCJpc29ZZWFyIjoyMDI2LCJpc29XZWVrIjo0N30=",
+      "start_time": "2026-11-18T22:30:00Z",
+      "end_time": "2026-11-19T02:00:00Z",
+      "title": "DÉBUT DE L'AVENTURE GTA VI",
+      "canceled_until": null,
+      "category": {
+        "id": "1867279146",
+        "name": "Grand Theft Auto VI"
+      },
+      "is_recurring": false
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiJkNGFjMGE2Ni1hOGU5LTRmZjEtYmEzMy03NzkwMjNiMTE4MzMiLCJpc29ZZWFyIjoyMDI2LCJpc29XZWVrIjo0N30=",
+      "start_time": "2026-11-19T12:00:00Z",
+      "end_time": "2026-11-19T18:00:00Z",
+      "title": "SUITE DE L'AVENTURE GTA VI",
+      "canceled_until": null,
+      "category": {
+        "id": "1867279146",
+        "name": "Grand Theft Auto VI"
+      },
+      "is_recurring": false
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiIxNDQwOGQ3NS03ODk2LTRmMTMtYTJlNy05YTY0YzY3NGRiYzYiLCJpc29ZZWFyIjoyMDI2LCJpc29XZWVrIjo0N30=",
+      "start_time": "2026-11-20T12:00:00Z",
+      "end_time": "2026-11-20T18:00:00Z",
+      "title": "SUITE DE L'AVENTURE GTA VI",
+      "canceled_until": null,
+      "category": {
+        "id": "1867279146",
+        "name": "Grand Theft Auto VI"
+      },
+      "is_recurring": false
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiIwMGIyNzI5Ny0xNThmLTQzMDctOGRkYi0yNTIxZDA0NzY1MDQiLCJpc29ZZWFyIjoyMDI2LCJpc29XZWVrIjo0N30=",
+      "start_time": "2026-11-21T12:00:00Z",
+      "end_time": "2026-11-21T18:00:00Z",
+      "title": "SUITE DE L'AVENTURE GTA VI",
+      "canceled_until": null,
+      "category": {
+        "id": "1867279146",
+        "name": "Grand Theft Auto VI"
+      },
+      "is_recurring": false
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiJlMWRmZjU0YS1kYjEyLTQ0ZTMtOGMxNC0yNmJlNmQzMGYwZmYiLCJpc29ZZWFyIjoyMDI2LCJpc29XZWVrIjo0N30=",
+      "start_time": "2026-11-22T12:00:00Z",
+      "end_time": "2026-11-22T18:00:00Z",
+      "title": "SUITE DE L'AVENTURE GTA VI",
+      "canceled_until": null,
+      "category": {
+        "id": "1867279146",
+        "name": "Grand Theft Auto VI"
+      },
+      "is_recurring": false
+    },
+    {
       "id": "eyJzZWdtZW50SUQiOiI2ZGIwNjVjYi0yMjkxLTRiZTAtYjVhMy00MzllODVlNzRhNmIiLCJpc29ZZWFyIjoyMDI2LCJpc29XZWVrIjo0OH0=",
       "start_time": "2026-11-25T19:30:00Z",
-      "end_time": "2026-11-25T21:30:00Z",
-      "title": "REACT KOH LANTA",
+      "end_time": "2026-11-25T22:30:00Z",
+      "title": "REACT FINALE KOH LANTA FT. DORIAN LOUVET",
       "canceled_until": null,
       "category": {
         "id": "509658",
@@ -39,8 +171,8 @@
     {
       "id": "eyJzZWdtZW50SUQiOiI2ZGIwNjVjYi0yMjkxLTRiZTAtYjVhMy00MzllODVlNzRhNmIiLCJpc29ZZWFyIjoyMDI2LCJpc29XZWVrIjo0OX0=",
       "start_time": "2026-12-02T19:30:00Z",
-      "end_time": "2026-12-02T21:30:00Z",
-      "title": "REACT KOH LANTA",
+      "end_time": "2026-12-02T22:30:00Z",
+      "title": "REACT FINALE KOH LANTA FT. DORIAN LOUVET",
       "canceled_until": null,
       "category": {
         "id": "509658",
@@ -51,8 +183,8 @@
     {
       "id": "eyJzZWdtZW50SUQiOiI2ZGIwNjVjYi0yMjkxLTRiZTAtYjVhMy00MzllODVlNzRhNmIiLCJpc29ZZWFyIjoyMDI2LCJpc29XZWVrIjo1MH0=",
       "start_time": "2026-12-09T19:30:00Z",
-      "end_time": "2026-12-09T21:30:00Z",
-      "title": "REACT KOH LANTA",
+      "end_time": "2026-12-09T22:30:00Z",
+      "title": "REACT FINALE KOH LANTA FT. DORIAN LOUVET",
       "canceled_until": null,
       "category": {
         "id": "509658",
@@ -63,8 +195,8 @@
     {
       "id": "eyJzZWdtZW50SUQiOiI2ZGIwNjVjYi0yMjkxLTRiZTAtYjVhMy00MzllODVlNzRhNmIiLCJpc29ZZWFyIjoyMDI2LCJpc29XZWVrIjo1MX0=",
       "start_time": "2026-12-16T19:30:00Z",
-      "end_time": "2026-12-16T21:30:00Z",
-      "title": "REACT KOH LANTA",
+      "end_time": "2026-12-16T22:30:00Z",
+      "title": "REACT FINALE KOH LANTA FT. DORIAN LOUVET",
       "canceled_until": null,
       "category": {
         "id": "509658",
@@ -75,8 +207,8 @@
     {
       "id": "eyJzZWdtZW50SUQiOiI2ZGIwNjVjYi0yMjkxLTRiZTAtYjVhMy00MzllODVlNzRhNmIiLCJpc29ZZWFyIjoyMDI2LCJpc29XZWVrIjo1Mn0=",
       "start_time": "2026-12-23T19:30:00Z",
-      "end_time": "2026-12-23T21:30:00Z",
-      "title": "REACT KOH LANTA",
+      "end_time": "2026-12-23T22:30:00Z",
+      "title": "REACT FINALE KOH LANTA FT. DORIAN LOUVET",
       "canceled_until": null,
       "category": {
         "id": "509658",
@@ -87,8 +219,8 @@
     {
       "id": "eyJzZWdtZW50SUQiOiI2ZGIwNjVjYi0yMjkxLTRiZTAtYjVhMy00MzllODVlNzRhNmIiLCJpc29ZZWFyIjoyMDI2LCJpc29XZWVrIjo1M30=",
       "start_time": "2026-12-30T19:30:00Z",
-      "end_time": "2026-12-30T21:30:00Z",
-      "title": "REACT KOH LANTA",
+      "end_time": "2026-12-30T22:30:00Z",
+      "title": "REACT FINALE KOH LANTA FT. DORIAN LOUVET",
       "canceled_until": null,
       "category": {
         "id": "509658",
@@ -99,8 +231,8 @@
     {
       "id": "eyJzZWdtZW50SUQiOiI2ZGIwNjVjYi0yMjkxLTRiZTAtYjVhMy00MzllODVlNzRhNmIiLCJpc29ZZWFyIjoyMDI3LCJpc29XZWVrIjoxfQ==",
       "start_time": "2027-01-06T19:30:00Z",
-      "end_time": "2027-01-06T21:30:00Z",
-      "title": "REACT KOH LANTA",
+      "end_time": "2027-01-06T22:30:00Z",
+      "title": "REACT FINALE KOH LANTA FT. DORIAN LOUVET",
       "canceled_until": null,
       "category": {
         "id": "509658",
@@ -111,140 +243,8 @@
     {
       "id": "eyJzZWdtZW50SUQiOiI2ZGIwNjVjYi0yMjkxLTRiZTAtYjVhMy00MzllODVlNzRhNmIiLCJpc29ZZWFyIjoyMDI3LCJpc29XZWVrIjoyfQ==",
       "start_time": "2027-01-13T19:30:00Z",
-      "end_time": "2027-01-13T21:30:00Z",
-      "title": "REACT KOH LANTA",
-      "canceled_until": null,
-      "category": {
-        "id": "509658",
-        "name": "Just Chatting"
-      },
-      "is_recurring": true
-    },
-    {
-      "id": "eyJzZWdtZW50SUQiOiI2ZGIwNjVjYi0yMjkxLTRiZTAtYjVhMy00MzllODVlNzRhNmIiLCJpc29ZZWFyIjoyMDI3LCJpc29XZWVrIjozfQ==",
-      "start_time": "2027-01-20T19:30:00Z",
-      "end_time": "2027-01-20T21:30:00Z",
-      "title": "REACT KOH LANTA",
-      "canceled_until": null,
-      "category": {
-        "id": "509658",
-        "name": "Just Chatting"
-      },
-      "is_recurring": true
-    },
-    {
-      "id": "eyJzZWdtZW50SUQiOiI2ZGIwNjVjYi0yMjkxLTRiZTAtYjVhMy00MzllODVlNzRhNmIiLCJpc29ZZWFyIjoyMDI3LCJpc29XZWVrIjo0fQ==",
-      "start_time": "2027-01-27T19:30:00Z",
-      "end_time": "2027-01-27T21:30:00Z",
-      "title": "REACT KOH LANTA",
-      "canceled_until": null,
-      "category": {
-        "id": "509658",
-        "name": "Just Chatting"
-      },
-      "is_recurring": true
-    },
-    {
-      "id": "eyJzZWdtZW50SUQiOiI2ZGIwNjVjYi0yMjkxLTRiZTAtYjVhMy00MzllODVlNzRhNmIiLCJpc29ZZWFyIjoyMDI3LCJpc29XZWVrIjo1fQ==",
-      "start_time": "2027-02-03T19:30:00Z",
-      "end_time": "2027-02-03T21:30:00Z",
-      "title": "REACT KOH LANTA",
-      "canceled_until": null,
-      "category": {
-        "id": "509658",
-        "name": "Just Chatting"
-      },
-      "is_recurring": true
-    },
-    {
-      "id": "eyJzZWdtZW50SUQiOiI2ZGIwNjVjYi0yMjkxLTRiZTAtYjVhMy00MzllODVlNzRhNmIiLCJpc29ZZWFyIjoyMDI3LCJpc29XZWVrIjo2fQ==",
-      "start_time": "2027-02-10T19:30:00Z",
-      "end_time": "2027-02-10T21:30:00Z",
-      "title": "REACT KOH LANTA",
-      "canceled_until": null,
-      "category": {
-        "id": "509658",
-        "name": "Just Chatting"
-      },
-      "is_recurring": true
-    },
-    {
-      "id": "eyJzZWdtZW50SUQiOiI2ZGIwNjVjYi0yMjkxLTRiZTAtYjVhMy00MzllODVlNzRhNmIiLCJpc29ZZWFyIjoyMDI3LCJpc29XZWVrIjo3fQ==",
-      "start_time": "2027-02-17T19:30:00Z",
-      "end_time": "2027-02-17T21:30:00Z",
-      "title": "REACT KOH LANTA",
-      "canceled_until": null,
-      "category": {
-        "id": "509658",
-        "name": "Just Chatting"
-      },
-      "is_recurring": true
-    },
-    {
-      "id": "eyJzZWdtZW50SUQiOiI2ZGIwNjVjYi0yMjkxLTRiZTAtYjVhMy00MzllODVlNzRhNmIiLCJpc29ZZWFyIjoyMDI3LCJpc29XZWVrIjo4fQ==",
-      "start_time": "2027-02-24T19:30:00Z",
-      "end_time": "2027-02-24T21:30:00Z",
-      "title": "REACT KOH LANTA",
-      "canceled_until": null,
-      "category": {
-        "id": "509658",
-        "name": "Just Chatting"
-      },
-      "is_recurring": true
-    },
-    {
-      "id": "eyJzZWdtZW50SUQiOiI2ZGIwNjVjYi0yMjkxLTRiZTAtYjVhMy00MzllODVlNzRhNmIiLCJpc29ZZWFyIjoyMDI3LCJpc29XZWVrIjo5fQ==",
-      "start_time": "2027-03-03T19:30:00Z",
-      "end_time": "2027-03-03T21:30:00Z",
-      "title": "REACT KOH LANTA",
-      "canceled_until": null,
-      "category": {
-        "id": "509658",
-        "name": "Just Chatting"
-      },
-      "is_recurring": true
-    },
-    {
-      "id": "eyJzZWdtZW50SUQiOiI2ZGIwNjVjYi0yMjkxLTRiZTAtYjVhMy00MzllODVlNzRhNmIiLCJpc29ZZWFyIjoyMDI3LCJpc29XZWVrIjoxMH0=",
-      "start_time": "2027-03-10T19:30:00Z",
-      "end_time": "2027-03-10T21:30:00Z",
-      "title": "REACT KOH LANTA",
-      "canceled_until": null,
-      "category": {
-        "id": "509658",
-        "name": "Just Chatting"
-      },
-      "is_recurring": true
-    },
-    {
-      "id": "eyJzZWdtZW50SUQiOiI2ZGIwNjVjYi0yMjkxLTRiZTAtYjVhMy00MzllODVlNzRhNmIiLCJpc29ZZWFyIjoyMDI3LCJpc29XZWVrIjoxMX0=",
-      "start_time": "2027-03-17T19:30:00Z",
-      "end_time": "2027-03-17T21:30:00Z",
-      "title": "REACT KOH LANTA",
-      "canceled_until": null,
-      "category": {
-        "id": "509658",
-        "name": "Just Chatting"
-      },
-      "is_recurring": true
-    },
-    {
-      "id": "eyJzZWdtZW50SUQiOiI2ZGIwNjVjYi0yMjkxLTRiZTAtYjVhMy00MzllODVlNzRhNmIiLCJpc29ZZWFyIjoyMDI3LCJpc29XZWVrIjoxMn0=",
-      "start_time": "2027-03-24T19:30:00Z",
-      "end_time": "2027-03-24T21:30:00Z",
-      "title": "REACT KOH LANTA",
-      "canceled_until": null,
-      "category": {
-        "id": "509658",
-        "name": "Just Chatting"
-      },
-      "is_recurring": true
-    },
-    {
-      "id": "eyJzZWdtZW50SUQiOiI2ZGIwNjVjYi0yMjkxLTRiZTAtYjVhMy00MzllODVlNzRhNmIiLCJpc29ZZWFyIjoyMDI3LCJpc29XZWVrIjoxM30=",
-      "start_time": "2027-03-31T18:30:00Z",
-      "end_time": "2027-03-31T20:30:00Z",
-      "title": "REACT KOH LANTA",
+      "end_time": "2027-01-13T22:30:00Z",
+      "title": "REACT FINALE KOH LANTA FT. DORIAN LOUVET",
       "canceled_until": null,
       "category": {
         "id": "509658",
