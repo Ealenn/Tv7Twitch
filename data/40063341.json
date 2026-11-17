@@ -13,30 +13,6 @@
   },
   "schedulers": [
     {
-      "id": "eyJzZWdtZW50SUQiOiIwM2FlMjEwMS1jMTk0LTQ3NDMtYmQ3Yi1mNjI0ZWVkZTM4YWEiLCJpc29ZZWFyIjoyMDI2LCJpc29XZWVrIjo0N30=",
-      "start_time": "2026-11-16T18:30:00Z",
-      "end_time": "2026-11-16T19:30:00Z",
-      "title": "PRÉ LIVE",
-      "canceled_until": null,
-      "category": {
-        "id": "509658",
-        "name": "Just Chatting"
-      },
-      "is_recurring": false
-    },
-    {
-      "id": "eyJzZWdtZW50SUQiOiI4YmNhNWY1My1iNGU5LTQ1ODktODE1Ni0wYzk3MTcxNTYwNjEiLCJpc29ZZWFyIjoyMDI2LCJpc29XZWVrIjo0N30=",
-      "start_time": "2026-11-16T19:30:00Z",
-      "end_time": "2026-11-17T00:00:00Z",
-      "title": "ROB RUN FT. XARI & LOWAN",
-      "canceled_until": null,
-      "category": {
-        "id": "1753787976",
-        "name": "ROB RUN"
-      },
-      "is_recurring": false
-    },
-    {
       "id": "eyJzZWdtZW50SUQiOiIyOWFkNWQ3ZC0wOWFhLTQyYTktODE2NS02MjJmY2U2NzZkMTkiLCJpc29ZZWFyIjoyMDI2LCJpc29XZWVrIjo0N30=",
       "start_time": "2026-11-17T13:00:00Z",
       "end_time": "2026-11-17T14:00:00Z",
@@ -244,6 +220,30 @@
       "id": "eyJzZWdtZW50SUQiOiI2ZGIwNjVjYi0yMjkxLTRiZTAtYjVhMy00MzllODVlNzRhNmIiLCJpc29ZZWFyIjoyMDI3LCJpc29XZWVrIjoyfQ==",
       "start_time": "2027-01-13T19:30:00Z",
       "end_time": "2027-01-13T22:30:00Z",
+      "title": "REACT FINALE KOH LANTA FT. DORIAN LOUVET",
+      "canceled_until": null,
+      "category": {
+        "id": "509658",
+        "name": "Just Chatting"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiI2ZGIwNjVjYi0yMjkxLTRiZTAtYjVhMy00MzllODVlNzRhNmIiLCJpc29ZZWFyIjoyMDI3LCJpc29XZWVrIjozfQ==",
+      "start_time": "2027-01-20T19:30:00Z",
+      "end_time": "2027-01-20T22:30:00Z",
+      "title": "REACT FINALE KOH LANTA FT. DORIAN LOUVET",
+      "canceled_until": null,
+      "category": {
+        "id": "509658",
+        "name": "Just Chatting"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiI2ZGIwNjVjYi0yMjkxLTRiZTAtYjVhMy00MzllODVlNzRhNmIiLCJpc29ZZWFyIjoyMDI3LCJpc29XZWVrIjo0fQ==",
+      "start_time": "2027-01-27T19:30:00Z",
+      "end_time": "2027-01-27T22:30:00Z",
       "title": "REACT FINALE KOH LANTA FT. DORIAN LOUVET",
       "canceled_until": null,
       "category": {
