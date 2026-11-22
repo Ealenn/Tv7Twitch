@@ -13,18 +13,6 @@
   },
   "schedulers": [
     {
-      "id": "eyJzZWdtZW50SUQiOiJiYTk4ZDFjNy04MTc3LTQxYTUtODM1NC1kNGQ3ZmJjYjQ5ZjQiLCJpc29ZZWFyIjoyMDI2LCJpc29XZWVrIjo0N30=",
-      "start_time": "2026-11-21T13:00:00Z",
-      "end_time": "2026-11-21T23:00:00Z",
-      "title": "Découverte de GTA VI - Campagne complète !",
-      "canceled_until": null,
-      "category": {
-        "id": "1867279146",
-        "name": "Grand Theft Auto VI"
-      },
-      "is_recurring": false
-    },
-    {
       "id": "eyJzZWdtZW50SUQiOiI1YjU3NGIyZS1jZmRkLTQwZjktOGE2MC0xZmI1YjgzNzM5NGQiLCJpc29ZZWFyIjoyMDI2LCJpc29XZWVrIjo0N30=",
       "start_time": "2026-11-22T13:00:00Z",
       "end_time": "2026-11-22T23:00:00Z",
