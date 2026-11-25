@@ -13,18 +13,6 @@
   },
   "schedulers": [
     {
-      "id": "eyJzZWdtZW50SUQiOiJhNjcxODNhYy01NGFiLTQ4YjAtOTViYS1jODNkZDE1ODIyMzMiLCJpc29ZZWFyIjoyMDI2LCJpc29XZWVrIjo0OH0=",
-      "start_time": "2026-11-24T12:00:00Z",
-      "end_time": "2026-11-24T18:00:00Z",
-      "title": "LET'S PLAY GTA VI",
-      "canceled_until": null,
-      "category": {
-        "id": "1867279146",
-        "name": "Grand Theft Auto VI"
-      },
-      "is_recurring": false
-    },
-    {
       "id": "eyJzZWdtZW50SUQiOiJmNmY3NWRhMS01NzM2LTQ0MTQtYWM5OC1mYjZhNDkzYWNmMjgiLCJpc29ZZWFyIjoyMDI2LCJpc29XZWVrIjo0OH0=",
       "start_time": "2026-11-25T12:00:00Z",
       "end_time": "2026-11-25T18:00:00Z",
