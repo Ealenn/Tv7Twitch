@@ -13,18 +13,6 @@
   },
   "schedulers": [
     {
-      "id": "eyJzZWdtZW50SUQiOiJkYmZkMDkwNy1iY2M5LTRkNGQtYjQ0Ni1jODFlZDA1MTRjOGQiLCJpc29ZZWFyIjoyMDI2LCJpc29XZWVrIjo0OH0=",
-      "start_time": "2026-11-25T11:00:00Z",
-      "end_time": "2026-11-25T16:00:00Z",
-      "title": "Quel BANGER",
-      "canceled_until": null,
-      "category": {
-        "id": "2067181260",
-        "name": "The Legend of Zelda: Ocarina of Time"
-      },
-      "is_recurring": false
-    },
-    {
       "id": "eyJzZWdtZW50SUQiOiJmZGYxY2E1Ny1kOTAzLTQ0ZDgtODc5ZS05ZGIwZWRhN2Q4YjQiLCJpc29ZZWFyIjoyMDI2LCJpc29XZWVrIjo0OH0=",
       "start_time": "2026-11-27T13:00:00Z",
       "end_time": "2026-11-27T15:00:00Z",
@@ -249,6 +237,18 @@
       "category": {
         "id": "338715930",
         "name": "Maitre des Fleurs"
+      },
+      "is_recurring": true
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiJkMWY5Yjc1Mi0wMTA0LTQ0YmEtYTkwZS0wZmJjN2RlOWQ1MTgiLCJpc29ZZWFyIjoyMDI3LCJpc29XZWVrIjo0fQ==",
+      "start_time": "2027-01-26T11:00:00Z",
+      "end_time": "2027-01-26T15:00:00Z",
+      "title": "Lycans",
+      "canceled_until": null,
+      "category": {
+        "id": "1494074023",
+        "name": "Lycans"
       },
       "is_recurring": true
     }
